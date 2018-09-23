@@ -1,0 +1,112 @@
+---
+title: Configuration et administration d'Exchange Online
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 6/13/2018
+ms.audience: ITPro
+ms.topic: reference
+f1_keywords:
+- exchange-online-administration-and-management
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom:
+- Adm_ServiceDesc_top
+- Adm_ServiceDesc
+ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
+description: Cette section décrit les contrôles de l’administration et de la prise en charge qui sont disponibles pour personnaliser les paramètres Exchange Online et conserver l’environnement d’une organisation Exchange Online, en cours d’exécution et en cours. Il consacrée des informations sur les outils d’administration en libre service et les fonctionnalités disponibles pour les organisations ; Responsabilités de l’administration de Microsoft et d’engagements de performances ; et mises à niveau des produits et services.
+ms.openlocfilehash: 6b7bb1d68e6d676c39e9ebb254305b2799cc0931
+ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24035498"
+---
+# <a name="exchange-online-setup-and-administration"></a>Configuration et administration d'Exchange Online
+
+Cette section décrit les contrôles de l’administration et de la prise en charge qui sont disponibles pour personnaliser les paramètres Exchange Online et conserver l’environnement d’une organisation Exchange Online, en cours d’exécution et en cours. Il consacrée des informations sur les outils d’administration en libre service et les fonctionnalités disponibles pour les organisations ; Responsabilités de l’administration de Microsoft et d’engagements de performances ; et mises à niveau des produits et services.
+  
+## <a name="self-service-administration-tools"></a>Outils d'administration en libre-service
+
+Bien que Microsoft contrôle directement tous les Exchange Online centres de données et soit responsable des performances globales du système, il contrôle uniquement une partie des éléments réunis pour l'utilisation totale d'Office 365. Les organisations elles-mêmes sont responsables des connexions réseau aux centres de données, au réseau étendu (WAN) du client et aux réseaux locaux (LAN) du client. En outre, elles sont en charge des périphériques utilisateur et de leur configuration. Elles sont également responsables de la gestion des licences requises par utilisateur pour les fonctionnalités voulues, y compris, mais sans s'y limiter, la possibilité de gérer ces dernières, tant que l'utilisateur doit y avoir accès.
+  
+Exchange Online offre donc aux administrateurs du client les outils décrits ci-dessous pour gérer diverses tâches concernant la messagerie :
+  
+- [Portail Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
+    
+- [Centre d'administration Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+    
+- [Centre d'administration Exchange](exchange-online-setup-and-administration.md#exchange-admin-center)
+    
+- [Windows PowerShell distant pour Exchange Online](exchange-online-setup-and-administration.md#remote-windows-powershell-for-exchange-online)
+    
+### <a name="microsoft-office-365-portal"></a>Portail Microsoft Office 365
+<a name="BKMK_MicrosoftOnlineServicesPortal"> </a>
+
+Le portail Microsoft Office 365 ([https://portal.office.com](https://portal.office.com)) est le site web sur lequel les administrateurs et les partenaires peuvent acheter et gérer les services Office 365 et où les utilisateurs peuvent accéder aux outils de collaboration Office 365.
+  
+### <a name="microsoft-office-365-admin-center"></a>Centre d'administration Microsoft Office 365
+<a name="BKMK_Office365admincenterl"> </a>
+
+Le Centre d'administration Microsoft Office 365 est le portail web à partir duquel l'administrateur des services d'une organisation peut gérer les comptes d'utilisateurs et les paramètres de tous les services Office 365 auxquels ils sont abonnés. Dans le Centre d'administration Office 365, les administrateurs peuvent suivre des liens vers le Centre d'administration Exchange (CAE) où ils peuvent gérer des paramètres spécifiques d'Exchange Online. Pour plus d'informations sur l'accès et l'utilisation du Centre d'administration Office 365, visionnez la vidéo suivante : [Présentation d'Office 365 Entreprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+  
+### <a name="exchange-admin-center"></a>Centre d'administration Exchange
+<a name="BKMK_ExchangeAdministrationCenter"> </a>
+
+Exchange Online offre une console de gestion unifiée et unique qui facilite l'utilisation et optimise la gestion des déploiements sur site, en ligne ou hybrides. Dans le Centre d'administration Exchange (CAE), les administrateurs peuvent gérer les paramètres spécifiques d'Exchange.
+  
+Pour plus d'informations sur l'utilisation du CAE pour gérer Exchange Online, consultez la rubrique [Centre d'administration Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271807).
+  
+### <a name="remote-windows-powershell-for-exchange-online"></a>Windows PowerShell distant pour Exchange Online
+<a name="BKMK_RemoteWindowsPowerShell"> </a>
+
+L'application Windows PowerShell distante permet aux administrateurs de se connecter à Exchange Online pour effectuer des tâches de gestion indisponibles ou peu pratiques dans le CAE. Cela comprend la possibilité d'automatiser des tâches répétitives, d'extraire des données de rapports personnalisés, de personnaliser des stratégies et de connecter Exchange Online à une infrastructure et des processus existants. Pour plus d'informations, voir [Connexion à Exchange Online à l'aide de Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
+  
+Exchange Online utilise les mêmes cmdlets Windows PowerShell qu'Exchange Server 2013, avec cependant certaines commandes et paramètres indisponibles du fait que ces fonctionnalités ne sont pas applicables dans Exchange Online. Pour la liste des cmdlets utilisables avec Exchange Online, consultez la rubrique relative aux [cmdlets Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271808).
+  
+Les administrateurs n'ont pas besoin d'installer d'outils de gestion ou de migration Exchange Server pour utiliser Remote Windows PowerShell. Cependant, les ordinateurs des administrateurs doivent exécuter Windows Management Framework 3.0 qui contient Windows PowerShell v3 et WinRM 3.0, ainsi que Windows .NET Framework 4.5. Ces composants sont déjà installés sur des ordinateurs exécutant Windows 8 ou Windows Server 2012. Les administrateurs peuvent télécharger manuellement ces composants pour des ordinateurs exécutant Windows 7 ou Windows Server 2008 R2.
+  
+> [!IMPORTANT]
+> Pour éviter les attaques par déni de service, vous êtes limité à trois connexions Windows PowerShell ouvertes à votre organisation Exchange Online. 
+  
+## <a name="self-service-capabilities-for-exchange-online"></a>Fonctionnalités en libre-service pour Exchange Online
+
+Des fonctionnalités importantes disponibles pour gérer Exchange Online en utilisant le CAE, l'application Windows PowerShell distante et d'autres outils figurent ci-après. Ces outils permettent également de contrôler de nombreux autres paramètres comme l'expose ce document.
+  
+### <a name="mobile-device-security-policies-for-exchange-online"></a>Stratégies de sécurité des appareils mobiles pour Exchange Online
+
+Exchange Online prend en charge les mêmes stratégies ActiveSync pour les périphériques mobiles qu'Exchange Server 2013. Les administrateurs peuvent appliquer et personnaliser ces stratégies de sécurité pour des utilisateurs et des groupes spécifiques en utilisant le CAE ou l'application Windows PowerShell distante.
+  
+### <a name="message-tracking-for-exchange-online"></a>Suivi des messages pour Exchange Online
+
+Le suivi des messages au moyen des rapports de remise est décrit dans les rubriques suivantes : [Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md).
+  
+### <a name="usage-reporting-for-exchange-online"></a>Création de rapports d'utilisation pour Exchange Online
+
+Les administrateurs peuvent utiliser Remote Windows PowerShell pour récupérer des informations sur la façon dont les personnes de leurs organisations utilisent le service Exchange Online. Les informations suivantes sont disponibles :
+  
+- Affichage de la taille de la boîte aux lettres de chaque utilisateur dans l'organisation.
+    
+- Affichage des autorisations personnalisées définies pour les boîtes aux lettres telles que l'accès délégué.
+    
+- Extraction de données sur l'accès des périphériques mobiles, par exemple les utilisateurs qui se connectent par Exchange ActiveSync, les périphériques qu'ils utilisent et le moment de leur dernière connexion.
+    
+Les cmdlets Remote Windows PowerShell commençant par "get-" peuvent rechercher des données dans le système Exchange Online. Les administrateurs peuvent exporter ces informations à partir de Windows PowerShell au format .csv pour effectuer des analyses ou des rapports sophistiqués.
+  
+Pour plus d'informations sur les cmdlets Windows PowerShell utilisables avec Exchange Online, consultez la rubrique [Cmdlets Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271808).
+  
+### <a name="auditing-for-exchange-online"></a>Audit dans Exchange Online
+
+L'enregistrement d'audit est décrit dans la rubrique : [Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md).
+  
+## <a name="service-and-product-upgrades-for-exchange-online"></a>Mises à niveau des produits et services pour Exchange Online
+
+Les clients Exchange Online bénéficient de mises à niveau régulières avec les dernières technologies Exchange, y compris les nouvelles versions Exchange Server. Ces mises à niveau gratuites garantissent que les clients utilisent toujours le logiciel Exchange le plus récent.
+  
+Lorsque Microsoft publie une version majeure d'Exchange, les clients disposent de 12 mois pour mettre à niveau leur service avec cette nouvelle version.
+  
+## <a name="feature-availability"></a>Disponibilité des fonctionnalités
+
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Exchange Online](exchange-online-service-description.md).
+  
+
