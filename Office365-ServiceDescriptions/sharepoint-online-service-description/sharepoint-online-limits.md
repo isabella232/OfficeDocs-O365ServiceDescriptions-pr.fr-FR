@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint Online pour les plans Office 365 Entreprise et pour les plans autonomes.
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035483"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359590"
 ---
 # <a name="sharepoint-online-limits"></a>Limites de SharePoint Online
 
@@ -25,7 +25,7 @@ Découvrez les limites de SharePoint Online pour les plans Office 365 Entrepr
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Stockage<sup>1, 2</sup> <br/> |1 To par organisation plus de 10 Go par licence acheté  <br/> |1 To par organisation plus de 10 Go par licence acheté  <br/> |1 To par organisation plus de 10 Go par licence acheté<sup>3</sup> <br/> |1 To par organisation plus de 10 Go par licence acheté<sup>3</sup> <br/> |1 To par organisation plus de 10 Go par licence acheté<sup>3</sup> <br/> |1 To par organisation <sup>3</sup> <br/> |
 |Termes stockés  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |Stockage pour les collections de sites  <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>4</sup> <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>4</sup> <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>4</sup> <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>4</sup> <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>4</sup> <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>5</sup> <br/> |
@@ -41,7 +41,7 @@ Découvrez les limites de SharePoint Online pour les plans Office 365 Entrepr
 ||||
 |:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**SharePoint Online (plan 1)** <br/> |**SharePoint Online (plan 2)** <br/> |
-|Stockage<sup>1, 2</sup> <br/> |1 To par organisation, plus 0,5 Go par licence achetée<sup>3</sup> <br/> |1 To par organisation, plus 0,5 Go par licence achetée<sup>3</sup> <br/> |
+|Stockage<sup>1, 2</sup> <br/> |1 To par organisation plus de 10 Go par licence acheté<sup>3</sup> <br/> |1 To par organisation plus de 10 Go par licence acheté<sup>3</sup> <br/> |
 |Termes stockés  <br/> |200,000  <br/> |200,000  <br/> |
 |Stockage pour les collections de sites  <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>4</sup> <br/> |Jusqu'à 25 To par collection de sites ou groupe<sup>4</sup> <br/> |
 |Collections de sites par locataire  <br/> |500 000 par organisation<sup>5</sup> <br/> |500 000 par organisation<sup>5</sup> <br/> |

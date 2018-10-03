@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins de votre organisation.
-ms.openlocfilehash: fbfb6d712ca28f4f7839baef090a0786c4cb437a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ddb665c12ddb1b8b7e0b6e5a7aae9599145a9d39
+ms.sourcegitcommit: 1544ec1e67bc1e56e89d5ec56cafb94d2eb51e70
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035558"
+ms.lasthandoff: 10/02/2018
+ms.locfileid: "25358651"
 ---
 # <a name="office-365-plan-options"></a>Options de plan Office 365
 
@@ -51,17 +51,17 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 pour entreprises E5<sup>4</sup>** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Service** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 pour entreprises E5<sup>4</sup>** <br/> |**Office 365 Entreprise F1** <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>6</sup> <br/> |Non  <br/> |Yes<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Yes<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Oui<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |
-|Skype Entreprise Online  <br/> |Oui<sup>10</sup> <br/> |Non  <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>14</sup> <br/> |
+|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |
+|Skype pour Business Online <sup>15</sup> <br/> |Oui<sup>10</sup> <br/> |Non  <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>14</sup> <br/> |
 |Office Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Applications Office  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Project Online  <br/> |Aucun<sup>1</sup> <br/> |Non  <br/> |Non<sup>1</sup> <br/> |Non<sup>1</sup> <br/> |Non<sup>1</sup> <br/> |Non<sup>1</sup> <br/> |Aucun<sup>1</sup> <br/> |
 |Power BI  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|Yammer Enterprise  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Yammer Enterprise  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Informations Azure Protection<sup>3</sup> <br/> |Aucun<sup>2</sup> <br/> |Non  <br/> |Non<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Aucun<sup>2</sup> <br/> |
    
 > <sup>1</sup> project Online n’est pas inclus, mais peut être acheté en tant que module complémentaire séparé service ou ajouté gratuitement au plan Office 365 éducation. > 
@@ -71,6 +71,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 <br/><sup>9</sup> Inclut Exchange Online Kiosk. > 
 <br/><sup>10</sup> inclut Skype Entreprise Online Plan 2 avec des restrictions de base appliquées aux certificats par les clients. > <br/><sup>11</sup> inclut Skype Entreprise Online Plan 2 sans restrictions appliquées aux certificats par les clients. > <br/><sup>12</sup> inclut Skype Entreprise Online Plan 1 et d’autres fonctionnalités. > <br/><sup>13</sup> inclut Skype Entreprise Online Plan 2 avec prise en charge des fonctions vocales et sans restrictions appliquées aux certificats par les clients. > 
 <br/><sup>14</sup> Inclut Skype Entreprise Online Plan 1 
+<br><sup>15</sup> Teams Microsoft est désormais client principal pour la messagerie, réunions et l’appel dans Office 365. Démarrage 2018, octobre 1, nouveaux clients Office 365 avec 500 utilisateurs ou moins seront onboarded à Microsoft Teams et n’auront pas accès à Skype pour Business Online. Les clients qui utilisent déjà Skype pour Business Online seront en mesure de continuer cette procédure tel (y compris la mise en service de nouveaux utilisateurs) jusqu'à ce qu’ils s’exécutent leur transition vers Microsoft Teams.
   
 #### <a name="basic-client-limitations"></a>Restrictions de base appliquées aux certificats par les clients
 
