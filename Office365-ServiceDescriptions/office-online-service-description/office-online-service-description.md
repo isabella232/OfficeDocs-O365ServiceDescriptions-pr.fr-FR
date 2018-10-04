@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre les documents Word, Excel, OneNote et PowerPoint dans votre navigateur web. Office Online facilite l’utiliser et partager des fichiers Office à partir de n’importe où avec une connexion Internet, à partir de quasiment n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en déplacement.
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035681"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362869"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
@@ -42,7 +42,7 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 
 ||||
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**Word Online** <br/> |**Application de bureau Word** <br/> |
+|**Fonctionnalités de l'application** <br/> |**Word Online** <br/> |**Application de bureau Word** <br/> |
 |[Guides d'alignement et disposition dynamique](word-online.md#alignment-guides-and-live-layout) <br/> |Non  <br/> |Oui  <br/> |
 |[Application de styles](word-online.md#apply-styles) <br/> |Oui  <br/> |Oui  <br/> |
 |[Enregistrement automatique](word-online.md#autosave) <br/> |Non  <br/> |Oui  <br/> |
@@ -118,12 +118,12 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 
 ||||
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**Excel Online** <br/> |**Application de bureau Excel** <br/> |
+|**Fonctionnalités de l'application** <br/> |**Excel Online** <br/> |**Application de bureau Excel** <br/> |
 |[Ajout de liens hypertexte](excel-online.md#add-hyperlinks) <br/> |Oui  <br/> |Oui  <br/> |
 |[Filtrage chronologique avancé (segment chronologique)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Non  <br/> |Oui  <br/> |
 |[Alignement](excel-online.md#alignment) <br/> |Oui  <br/> |Oui  <br/> |
 |[Application d'une mise en forme conditionnelle](excel-online.md#apply-conditional-formatting) <br/> |Non  <br/> |Oui  <br/> |
-|[Application de la validation des données à des cellules](excel-online.md#apply-data-validation-to-cells) <br/> |Non  <br/> |Oui  <br/> |
+|[Application de la validation des données à des cellules](excel-online.md#apply-data-validation-to-cells) <br/> |Oui  <br/> |Oui  <br/> |
 |[Application d'une mise en forme intelligente ou recommandée](excel-online.md#apply-smartrecommended-formatting) <br/> |Non  <br/> |Oui  <br/> |
 |[Enregistrement de notes audio](onenote-online.md#audio-notes-recording) <br/> |Non  <br/> |Oui  <br/> |
 |[Saisie semi-automatique](excel-online.md#autocomplete) <br/> |Oui  <br/> |Oui  <br/> |
@@ -193,7 +193,7 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 
 ||||
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**OneNote Online** <br/> |**Application de bureau OneNote** <br/> |
+|**Fonctionnalités de l'application** <br/> |**OneNote Online** <br/> |**Application de bureau OneNote** <br/> |
 |[Collaboration avancée : Nouveau contenu affiché comme non lu, présence](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Non  <br/> |Oui  <br/> |
 |[Application de balises](onenote-online.md#apply-tags) <br/> |Oui  <br/> |Oui  <br/> |
 |[Puces et numérotation](onenote-online.md#bullets-and-numbering) <br/> |Oui  <br/> |Oui  <br/> |
@@ -237,7 +237,7 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 
 ||||
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**PowerPoint Online** <br/> |**Application de bureau PowerPoint** <br/> |
+|**Fonctionnalités de l'application** <br/> |**PowerPoint Online** <br/> |**Application de bureau PowerPoint** <br/> |
 |[Alignement, puces, numéros](powerpoint-online.md#alignment-bullets-numbers) <br/> |Oui  <br/> |Oui  <br/> |
 |[Appliquer des animations et des transitions de base](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |
 |[Appliquer une mise en forme riche pour le texte, des formes et des images](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Non  <br/> |Oui  <br/> |

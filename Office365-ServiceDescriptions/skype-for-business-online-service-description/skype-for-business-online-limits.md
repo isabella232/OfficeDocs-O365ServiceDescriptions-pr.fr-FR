@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Les limites dans Skype pour Business Online peuvent être classées dans les catégories suivantes :'
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035528"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362879"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
@@ -48,7 +48,7 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de transfert de fichiers  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Non applicable  <br/> |
 |Limite de conversation<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicable  <br/> |
@@ -87,7 +87,7 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de chargement de fichiers  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |Non applicable  <br/> |
 |Participants à une réunion Skype Entreprise<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
 |Présentateurs dans une réunion Skype Entreprise  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
@@ -126,12 +126,12 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
-|Rétention de contenu de réunion : Réunion unique  <br/> |Configurable de<sup>1</sup> <br/> |15 jours  <br/> |15 jours  <br/> |15 jours  <br/> |15 jours  <br/> |Non applicable  <br/> |
-|Rétention de contenu de réunion : Réunion périodique  <br/> |Configurable de<sup>1</sup> <br/> |15 jours  <br/> |15 jours  <br/> |15 jours  <br/> |15 jours  <br/> |Non applicable  <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|Rétention de contenu de réunion : Réunion unique  <br/> |Configurable de<sup>1</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
+|Rétention de contenu de réunion : Réunion périodique  <br/> |Configurable de<sup>1</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
 |Rétention de contenu de réunion : Réunion immédiate  <br/> |Configurable de<sup>1</sup> <br/> |8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |Non applicable  <br/> |
 |Expiration de réunion : Réunion unique  <br/> |Date de fin plus 365 jours<sup>2</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
-|Expiration de réunion : Réunion périodique  <br/> |Avec date de fin : date de fin plus 365 jours<sup>2</sup> <br/> Sans date de fin : dernière conférence plus 6 mois<sup>3</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
+|Expiration de réunion : Réunion périodique  <br/> |Avec date de fin : date de fin plus 365 jours<sup>2</sup> <br/> Sans date de fin : if toujours accessible mis à jour 1/an<sup>3</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
 |Expiration de réunion : Réunion immédiate  <br/> |8 heures  <br/> | 8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |Non applicable  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Rétention de contenu de réunion : Réunion unique  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |15 jours  <br/> |
-|Rétention de contenu de réunion : Réunion périodique  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |15 jours  <br/> |
+|Rétention de contenu de réunion : Réunion unique  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
+|Rétention de contenu de réunion : Réunion périodique  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
 |Rétention de contenu de réunion : Réunion immédiate  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |8 heures  <br/> |
 |Expiration de réunion : Réunion unique  <br/> |Date de fin plus 365 jours<sup>2</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
-|Expiration de réunion : Réunion périodique  <br/> |Avec date de fin : date de fin plus 365 jours<sup>2</sup> <br/> Sans date de fin : dernière conférence plus 6 mois<sup>3</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
+|Expiration de réunion : Réunion périodique  <br/> |Avec date de fin : date de fin plus 365 jours<sup>2</sup> <br/> Sans date de fin : if toujours accessible mis à jour 1/an<sup>3</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
 |Expiration de réunion : Réunion immédiate  <br/> |8 heures  <br/> |Non applicable  <br/> |8 heures  <br/> |
    
 > [!NOTE]

@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur web, où vous pouvez travailler avec des classeurs directement sur le site Web où se trouve le classeur. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office Online.
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035535"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362899"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ La mise en forme conditionnelle peut être visualisée mais ne s'applique pas da
 ## <a name="apply-data-validation-to-cells"></a>Application de la validation des données à des cellules
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Non disponible dans Excel Online. Certaines fonctionnalités avancées, comme la validation des données, sont disponibles uniquement dans l'application Excel de bureau. Cependant, vous pouvez visualiser et interagir avec les éléments de validation des données dans Excel Online. En savoir plus sur l'[application de la validation des données à des cellules dans Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282328).
+Cette fonctionnalité est disponible dans Excel en ligne. D’autres fonctionnalités avancées ne sont disponibles dans l’application de bureau Excel.
   
 ## <a name="apply-smartrecommended-formatting"></a>Application d'une mise en forme intelligente ou recommandée
 <a name="bkmk_Applysmartformatting"> </a>
