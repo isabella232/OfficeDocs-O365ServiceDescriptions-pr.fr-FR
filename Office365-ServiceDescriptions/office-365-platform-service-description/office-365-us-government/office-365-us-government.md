@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 américains (orOffice 365 américains). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques à Office 365 américains. Il est recommandé de lire cette section supplémentaire avec les Descriptions de Service Office 365.
-ms.openlocfilehash: 672a1548ea1c1e01c085fc0f70c927811f30d84c
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362909"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435832"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -213,7 +213,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Microsoft StaffHub  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
 |Microsoft Stream  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Non  <br/> |
 |Microsoft Sway  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
-|Microsoft Teams  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
+|Microsoft Teams  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |
 |Office Delve  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui  <br/> |Oui<sup>9, 15</sup> <br/> |
 |Groupes Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office 365 Video  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Non  <br/> |
@@ -317,6 +317,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>11</sup> pas encore disponible dans Office 365 nous offres pour le gouvernement, mais seront prochainement disponibles. ><br/><sup>12</sup> pas inclus, mais peut être acheté en tant que module complémentaire séparé dans GCC. 
 <br/><sup>13</sup> pas pris en charge pour les offres Office 365 américains. 
 <br/><sup>14</sup> disponible à l’adresse [https://securescore.office.com](https://securescore.office.com). Requiert des autorisations d’administration. Pour plus d’informations, voir [Présentation de la note de sécuriser Office 365](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>15</sup> pas encore disponible dans l’environnement DoD, mais seront prochainement disponibles. 
+<br><sup>16</sup> n’est pas disponible dans GCC haute ou DoD.
   
 [Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
   
