@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre les documents Word, Excel, OneNote et PowerPoint dans votre navigateur web. Office Online facilite l’utiliser et partager des fichiers Office à partir de n’importe où avec une connexion Internet, à partir de quasiment n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en déplacement.
-ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362869"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435822"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
@@ -119,24 +119,22 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 ||||
 |:-----|:-----|:-----|
 |**Fonctionnalités de l'application** <br/> |**Excel Online** <br/> |**Application de bureau Excel** <br/> |
+|[Vérificateur d'accessibilité](excel-online.md#add-hyperlinks) <br/> |Oui  <br/> |Oui  <br/> |
 |[Ajout de liens hypertexte](excel-online.md#add-hyperlinks) <br/> |Oui  <br/> |Oui  <br/> |
 |[Filtrage chronologique avancé (segment chronologique)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Non  <br/> |Oui  <br/> |
 |[Alignement](excel-online.md#alignment) <br/> |Oui  <br/> |Oui  <br/> |
-|[Application d'une mise en forme conditionnelle](excel-online.md#apply-conditional-formatting) <br/> |Non  <br/> |Oui  <br/> |
-|[Application de la validation des données à des cellules](excel-online.md#apply-data-validation-to-cells) <br/> |Oui  <br/> |Oui  <br/> |
+|[Application d'une mise en forme conditionnelle](excel-online.md#apply-conditional-formatting) <br/> |Oui  <br/> |Oui  <br/> |
 |[Application d'une mise en forme intelligente ou recommandée](excel-online.md#apply-smartrecommended-formatting) <br/> |Non  <br/> |Oui  <br/> |
 |[Enregistrement de notes audio](onenote-online.md#audio-notes-recording) <br/> |Non  <br/> |Oui  <br/> |
 |[Saisie semi-automatique](excel-online.md#autocomplete) <br/> |Oui  <br/> |Oui  <br/> |
 |[Somme automatique](excel-online.md#autosum) <br/> |Oui  <br/> |Oui  <br/> |
 |[Calculs](excel-online.md#calculations) <br/> |Oui  <br/> |Oui  <br/> |
-|[Graphiques et tableaux, notamment les rapports de graphique croisé dynamique et les rapports de tableau croisé dynamique](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Oui<sup>1, 2</sup> <br/> |Oui  <br/> |
-|[Animations de graphiques adaptées aux nouvelles données](excel-online.md#chart-animations-adapt-to-new-data) <br/> |Non  <br/> |Oui  <br/> |
 |[Création de commentaires](excel-online.md#comment-creation) <br/> |Oui  <br/> |Oui  <br/> |
 |[Copie et collage](excel-online.md#copy-and-paste) <br/> |Oui  <br/> |Oui  <br/> |
-|[Création de connexions de données externes](excel-online.md#create-external-data-connections) <br/> |Aucun<sup>3</sup> <br/> |Oui  <br/> |
+|[Création de connexions de données externes<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |Aucun<sup>3</sup> <br/> |Oui  <br/> |
 |[Création de tableaux](excel-online.md#create-tables) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création de vues d'analyse avancées (Power View, Power Pivot, Segments)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |Non  <br/> |Oui  <br/> |
-|[Validation des données](excel-online.md#data-validation) <br/> |Oui<sup>4</sup> <br/> |Oui  <br/> |
+|[Validation des données](excel-online.md#data-validation) <br/> |Oui <br/> |Oui  <br/> |
 |[Glisser-déplacer des cellules](excel-online.md#drag-and-drop-cells) <br/> |Oui  <br/> |Oui  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Oui  <br/> |Oui  <br/> |
 |[Incorporation de classeur dans une page web ou dans un blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Oui  <br/> |Non  <br/> |
@@ -146,17 +144,20 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 |[Mise en forme de caractères et de cellules](excel-online.md#font-and-cell-formatting) <br/> |Oui  <br/> |Oui  <br/> |
 |[Barre de formule](excel-online.md#formula-bar) <br/> |Oui  <br/> |Oui  <br/> |
 |[Outils de formule avancés](excel-online.md#formula-tools--advanced) <br/> |Non  <br/> |Oui  <br/> |
-|[Figer les volets](excel-online.md#freeze-panes) <br/> |Aucun<sup>6</sup> <br/> |Oui  <br/> |
+|[Figer les volets](excel-online.md#freeze-panes) <br/> |Oui <br/> |Oui  <br/> |
 |[Mode Lecture haute fidélité](excel-online.md#full-fidelity-reading-view) <br/> |Oui  <br/> |Oui  <br/> |
 |[Fonctions](excel-online.md#functions) <br/> |Oui  <br/> |Oui  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Oui  <br/> |Oui  <br/> |
 |[Masquer/Afficher des lignes, des colonnes et des feuilles](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Oui  <br/> |Oui  <br/> |
+|[Insérer une forme/image](excel-online.md#insert-charts) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insertion de graphiques](excel-online.md#insert-charts) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insertion ou suppression de lignes et de colonnes](excel-online.md#insertdelete-rows-and-columns) <br/> |Oui  <br/> |Oui  <br/> |
 |[Fusion de cellules](excel-online.md#merge-cells) <br/> |Oui  <br/> |Oui  <br/> |
 |[Format des nombres](excel-online.md#number-formatting) <br/> |Oui  <br/> |Oui  <br/> |
-|[Compléments Office](excel-online.md#office-add-ins) <br/> |Oui<sup>7</sup> <br/> |Oui  <br/> |
+|[Compléments Office](excel-online.md#office-add-ins) <br/> |Oui <br/> |Oui  <br/> |
 |[Création et affichage hors connexion](excel-online.md#offline-viewing-and-authoring) <br/> |Non  <br/> |Oui  <br/> |
+|[graphiques croisés dynamiques ;](excel-online.md#post-to-social-network-and-present-online) <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
+|[tableaux croisés dynamiques ;](excel-online.md#post-to-social-network-and-present-online) <br/> |Oui  <br/> |Oui  <br/> |
 |[Publication sur les réseaux sociaux et présentation en ligne](excel-online.md#post-to-social-network-and-present-online) <br/> |Non  <br/> |Oui  <br/> |
 |[Affichage Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Oui  <br/> |Oui  <br/> |
 |[Vues Power View](excel-online.md#power-view-viewing) <br/> |Oui  <br/> |Oui  <br/> |
@@ -176,14 +177,15 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 |[Audit et conformité de feuille de calcul](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Non  <br/> |Oui  <br/> |
 |[Agrégats de barre d'état](excel-online.md#status-bar-aggregates) <br/> |Oui  <br/> |Oui  <br/> |
 |[Enquêtes](excel-online.md#surveys) <br/> |Oui  <br/> |Non  <br/> |
-|[Rechercher](excel-online.md#tell-me) <br/> |Oui  <br/> |Non  <br/> |
-|[Annuler et rétablir](excel-online.md#undo-and-redo) <br/> |Oui  <br/> |Oui  <br/> |
-|[Écriture de macro VBA](excel-online.md#vba-and-macro-scripting) <br/> |Oui  <br/> |Oui  <br/> |
+|[Rechercher](excel-online.md#tell-me) <br/> |Oui  <br/> |Oui  <br/> |
+|[Annulation et rétablissement](excel-online.md#undo-and-redo) <br/> |Oui  <br/> |Oui  <br/> |
+|[Écriture de macro VBA](excel-online.md#vba-and-macro-scripting) <br/> |Oui<sup>3</sup>  <br/> |Oui  <br/> |
 |[Affichage de graphiques 3D](excel-online.md#view-3d-charts) <br/> |Oui  <br/> |Oui  <br/> |
 |[Outils d'analyse « What if »](excel-online.md#what-if-analysis-tools) <br/> |Non  <br/> |Oui  <br/> |
 
-> <sup>1</sup> vous ne pouvez pas créer graphiques croisés dynamiques ou des tableaux croisés dynamiques, mais vous pouvez les voir dans la visionneuse. 
- <br/><sup>2</sup> dans les graphiques de la plupart des cas, tableaux, les rapports de graphique croisé dynamique et les rapports de tableau croisé dynamique apparaissent comme dans la version de bureau. Les exceptions incluent des graphiques qui font partie d’un groupe de graphiques, des graphiques qui s’appuient sur les références externes et des graphiques qui utilisent des sources de données qui ne sont pas pris en charge pour les classeurs dans un navigateur. <br/><sup>3</sup> en fonction de la configuration de votre environnement, certains types de connexions de données sont prises en charge pour les classeurs affichés dans Excel en ligne. Pour plus d’informations, voir [data de l’actualisation dans un classeur dans une fenêtre de navigateur](https://go.microsoft.com/fwlink/?linkid=847468). <br/><sup>4</sup> les classeurs qui utilisent la validation des données peuvent être modifiées dans Excel Online, mais la validation des données ne peut pas être définie dans Excel en ligne. 
+> <sup>1</sup> ne peut pas créer de graphiques croisés dynamiques, afficher uniquement.
+ <br/><sup>2</sup> en fonction de la configuration de votre environnement, certains types de connexions de données sont prises en charge pour les classeurs affichés dans Excel en ligne. Pour plus d’informations, voir data de l’actualisation dans un classeur dans une fenêtre de navigateur. <br/><sup>3</sup> vous ne pouvez pas créer de macros avec VBA dans Excel Online, mais vous pouvez ouvrir et modifier des feuilles de calcul compatibles VBA sans retirer (ou corrompre) le contenu dans le fichier VBA.
+ <br/><sup>4</sup> les classeurs qui utilisent la validation des données peuvent être modifiées dans Excel Online, mais la validation des données ne peut pas être définie dans Excel en ligne. 
  <br/><sup>5</sup> dans Excel en ligne, la dernière valeur connue référence affiche dans la fenêtre du navigateur ; Toutefois, il doit être mis à jour à l’aide de bureau Excel. 
  <br/><sup>6</sup> , vous pouvez afficher figer les volets créés à l’aide de l’application de bureau Excel, mais vous ne pouvez pas créer les volets figés dans Excel en ligne. 
  <br/><sup>7</sup> certains, mais pas tous les compléments Office sont disponibles. 
