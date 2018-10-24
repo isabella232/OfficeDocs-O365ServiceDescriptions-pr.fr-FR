@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: cb20461e3aa25b23d2fd5cd7ef8ad0761ccbdef7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
+ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035640"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25719068"
 ---
 # <a name="gcc-high-and-dod"></a>GCC High et DoD
 
@@ -76,7 +76,7 @@ Les abonnements Office 365 dans les environnements GCC High et DoD incluent les 
     
 4. Personnes spécifiques
     
-Les clients qui utilisent SharePoint Online et OneDrive Entreprise dans les environnements GCC High ou DoD peuvent garder leurs documents privés (première option), les partager avec tout le monde dans leur organisation (deuxième option), les partager avec toute personne disposant du lien vers le document (troisième option), et les partager avec des personnes spécifiques au sein des environnements GCC High et DoD (quatrième option). Bien entendu, ces options peuvent également être limitées en fonction des contrôles d'accès au niveau du client.
+Clients à l’aide de SharePoint Online et OneDrive pour l’entreprise dans les environnements haute GCC ou DoD permettre conserver les documents privés (première option), partager avec tout le monde dans leur organisation (seconde option), partager avec toute personne disposant du lien vers le document (troisième option), et partager avec des personnes spécifiques dans les environnements haute GCC et DoD uniquement (option quatrième) ; Bien sûr, ces options peuvent être restreintes basés sur les contrôles d’accès au niveau du client également.
   
 Clients GCC haute ne pouvant partager avec d’autres clients GCC haute. Par exemple :
   
