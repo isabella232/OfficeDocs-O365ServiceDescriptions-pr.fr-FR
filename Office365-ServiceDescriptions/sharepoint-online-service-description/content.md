@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online est un ensemble d’outils basés sur le Web et les technologies aidant votre organisation à stocker, partager et gérer les informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, le stockage des données et des documents dans un emplacement central et partager des informations avec d’autres personnes. Les fonctionnalités suivantes de contenu facilite la gestion de contenu d’entreprise (ECM) pour tout le monde. C’est la combinaison de gestion de contenu traditionnels, des fonctionnalités sociales et recherche puissante.
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035615"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215379"
 ---
 # <a name="content"></a>Contenu
 
@@ -39,7 +39,7 @@ Une bibliothèque de biens est pré-configurée pour utiliser des fonctions spé
 ## <a name="auditing"></a>Audit
 <a name="bkmk_Auditing"> </a>
 
-Les administrateurs d'une collection de sites SharePoint Online peuvent utiliser la fonctionnalité d'audit pour identifier les utilisateurs qui sont intervenus sur les sites, types de contenu, listes, bibliothèques, éléments de liste et fichiers de bibliothèque de collections de sites. En savoir plus sur la manière de [configurer les paramètres d'audit d'une collection de sites](https://go.microsoft.com/fwlink/?LinkId=270950).
+Les administrateurs de collection de sites SharePoint Online peuvent utiliser la fonctionnalité d’audit pour suivre les utilisateurs qui détiennent les actions sur les sites, les types de contenu, listes, bibliothèques, des éléments de liste et des fichiers de bibliothèque de collections de sites. En savoir plus sur la [Configuration des paramètres d’audit d’une collection de sites](https://go.microsoft.com/fwlink/?LinkId=270950).
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Audit &amp; rapports (par exemple, modifications de documents, modifications de politiques, suppressions)
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ Une bibliothèque de biens est pré-configurée pour utiliser des fonctions spé
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM : Optimisations du moteur de recherche (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-L'optimisation d'un site web public pour la recherche est essentielle pour la mise en relation avec les nouveaux clients et les clients existants. SharePoint Online intègre des fonctionnalités SEO (par exemple, un fichier robots.txt personnalisable et des balises META au niveau de la page) permettant aux organisations d'affiner facilement leurs sites pour améliorer les résultats de la recherche. En savoir plus sur l'[optimisation de votre site web pour les recherches](https://go.microsoft.com/fwlink/?LinkId=270932).
+Optimisation d’un site Web public pour la recherche est très important pour vous connecter à des clients, nouveaux ou de retournées. SharePoint Online inclut des fonctionnalités SEO intégrées, telles que le fichier robots.txt personnalisables et metatagging au niveau de la page afin que les organisations peuvent régler facilement des sites pour les meilleurs résultats de recherche.
   
 ## <a name="word-automation-services"></a>Word Automation Services
 <a name="bkmk_WordAutomationServices"> </a>

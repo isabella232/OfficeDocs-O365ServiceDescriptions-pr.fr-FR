@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
-ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
+ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25719068"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215369"
 ---
 # <a name="gcc-high-and-dod"></a>GCC High et DoD
 
@@ -104,6 +104,6 @@ L'authentification multifacteur avec un modèle d'identité fédéré permet d'u
   
 ### <a name="yammer"></a>Yammer
 
-Yammer n'est pas disponible dans les environnements GCC High et DoD.
+Yammer Qu'enterprise n’est pas disponible dans les environnements haute GCC et DoD.
   
 

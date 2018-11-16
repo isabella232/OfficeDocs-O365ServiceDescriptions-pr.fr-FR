@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Les limites dans Skype pour Business Online peuvent être classées dans les catégories suivantes :'
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362879"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296864"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
@@ -119,41 +119,20 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
     
 - **Période d'expiration de réunion** Durée, après la fin d'une réunion, pendant laquelle les utilisateurs peuvent accéder à la réunion. 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>Limites de rétention de réunion dans les options Office 365
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Limites de rétention de réunion parmi les options Office 365 et les plans autonomes
 
 > [!NOTE]
 > Chaque utilisateur peut disposer d'un nombre maximal de 1 000 conférences dans la base de données à tout moment. 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
-|Rétention de contenu de réunion : Réunion unique  <br/> |Configurable de<sup>1</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
-|Rétention de contenu de réunion : Réunion périodique  <br/> |Configurable de<sup>1</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
-|Rétention de contenu de réunion : Réunion immédiate  <br/> |Configurable de<sup>1</sup> <br/> |8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |Non applicable  <br/> |
-|Expiration de réunion : Réunion unique  <br/> |Date de fin plus 365 jours<sup>2</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
-|Expiration de réunion : Réunion périodique  <br/> |Avec date de fin : date de fin plus 365 jours<sup>2</sup> <br/> Sans date de fin : if toujours accessible mis à jour 1/an<sup>3</sup> <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |14 jours  <br/> |Non applicable  <br/> |
-|Expiration de réunion : Réunion immédiate  <br/> |8 heures  <br/> | 8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |8 heures  <br/> |Non applicable  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> la rétention de contenu de réunion dans un déploiement local de Skype pour Business Server 2015 est configurable par le biais de la Skype pour la fonctionnalité Business Server 2015 archivage. Voir la [planification de l’archivage](https://go.microsoft.com/fwlink/p/?LinkId=398299) dans le Skype pour Business Server 2015 TechNet Library.<br/> <sup>2</sup> Une fois la réunion activée, cette date d'expiration est prolongée de 365 jours.<br/><sup>3</sup> Une fois la réunion activée, cette date d'expiration est prolongée de 6 mois. 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>Limites de rétention de réunion dans les options autonomes
+|**Type de réunion** <br/> |**Description** <br/> 
+|Réunion unique| 14 jours après la fin, dernière activation de la réunion ou dernière mise à jour de réunion - selon la situation qui est le plus récent.
+|Réunion périodique avec date de fin| Réunion seront accessible au moins jusqu'à 14 jours après l’heure de fin prévue de la dernière occurrence de réunion, la dernière activation de réunion ou dernière mise à jour de réunion, selon ce qui est le plus récent.
+|Réunion périodique sans date de fin| Réunion sera toujours accessible, sont nouvelles jointures de conférence (activations) ou la planification des mises à jour au moins une fois par an
+|     Conférence maintenant|Réunion seront accessible au moins 8 heures.
 
-> [!NOTE]
-> Chaque utilisateur peut disposer d'un nombre maximal de 1 000 conférences dans la base de données à tout moment. 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Rétention de contenu de réunion : Réunion unique  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
-|Rétention de contenu de réunion : Réunion périodique  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
-|Rétention de contenu de réunion : Réunion immédiate  <br/> |Configurable de<sup>1</sup> <br/> |Non applicable  <br/> |8 heures  <br/> |
-|Expiration de réunion : Réunion unique  <br/> |Date de fin plus 365 jours<sup>2</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
-|Expiration de réunion : Réunion périodique  <br/> |Avec date de fin : date de fin plus 365 jours<sup>2</sup> <br/> Sans date de fin : if toujours accessible mis à jour 1/an<sup>3</sup> <br/> |Non applicable  <br/> |14 jours  <br/> |
-|Expiration de réunion : Réunion immédiate  <br/> |8 heures  <br/> |Non applicable  <br/> |8 heures  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> la rétention de contenu de réunion dans un déploiement local de Skype pour Business Server 2015 est configurable par le biais de la Skype pour la fonctionnalité Business Server 2015 archivage. Voir la [planification de l’archivage](https://go.microsoft.com/fwlink/p/?LinkId=398299) dans le Skype pour Business Server 2015 TechNet Library.<br/><sup>2</sup> Une fois la réunion activée, cette date d'expiration est prolongée de 365 jours.<br/><sup>3</sup> Une fois la réunion activée, cette date d'expiration est prolongée de 6 mois. 
+
   
 ## <a name="minute-limits"></a>Limites en minutes
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>

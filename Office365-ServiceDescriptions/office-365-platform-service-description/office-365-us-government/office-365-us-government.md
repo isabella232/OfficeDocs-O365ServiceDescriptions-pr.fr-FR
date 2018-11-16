@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 américains (orOffice 365 américains). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques à Office 365 américains. Il est recommandé de lire cette section supplémentaire avec les Descriptions de Service Office 365.
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696139"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293515"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -178,15 +178,14 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype pour les entreprises (messagerie instantanée &amp; présence)  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>1</sup> <br/> |
 | Services d’audioconférence vocale - système téléphonique,  <br/> |Non<sup>2, 3</sup> <br/> |Non<sup>2, 3</sup> <br/> |Oui <sup>3, 5</sup> <br/> |Non  <br/> |
 |Power BI Pro  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Oui  <br/> |Aucun<sup>2</sup> <br/> |
 |Project Online  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |
-|Yammer Entreprise  <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |
+|Yammer Enterprise  <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |
    
-> <sup>1</sup> Skype pour Business Basic est disponible pour tous les clients. Le Skype pour le client de bureau métiers est une application installée localement qui fournit la présence, la messagerie instantanée et les fonctionnalités de conférence pour les plans Office 365 comprenant Skype pour Business Online. Office 365 ProPlus, G3 et G5 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que les fonctionnalités de prise en charge, l’archivage et de conformité de téléphonie avancées. Un Skype licence entreprise Online doit être affecté pour chaque utilisateur.<br/><sup>2</sup> pas inclus mais peut être acheté en tant que module complémentaire séparé. 
-<br/> <sup>3</sup> pas encore disponible dans les plans de haute GCC ou DoD, mais seront prochainement disponibles. 
+> <sup>1</sup> Skype pour Business Basic est disponible pour tous les clients. Le Skype pour le client de bureau métiers est une application installée localement qui fournit la présence, la messagerie instantanée et les fonctionnalités de conférence pour les plans Office 365 comprenant Skype pour Business Online. Office 365 ProPlus, G3 et G5 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que les fonctionnalités de prise en charge, l’archivage et de conformité de téléphonie avancées. Un Skype licence entreprise Online doit être affecté pour chaque utilisateur.<br/><sup>2</sup> pas inclus mais peut être acheté en tant que module complémentaire séparé. Project Online comprend un projet Client de bureau en ligne dans le cadre de l’abonnement.<br/> <sup>3</sup> pas encore disponible dans les plans de haute GCC ou DoD, mais seront prochainement disponibles. 
 <br/><sup>4</sup> yammer Enterprise n’est pas un composant d’Office 365 américains, mais peut être acquise sans frais comme une offre autonome pour chaque utilisateur sous licence pour Office 365 GCC en. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les conventions d’entreprise et abonnement entreprise. Yammer n’est pas disponible dans GCC haute ou DoD.<br/><sup>5</sup> planifier l’appel est un module complémentaire. 
   
 ## <a name="platform-features"></a>Fonctionnalités de la plateforme
@@ -213,7 +212,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Microsoft StaffHub  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
 |Microsoft Stream  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Non  <br/> |
 |Microsoft Sway  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
-|Microsoft Teams  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |
+|Microsoft Teams  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |
 |Office Delve  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui  <br/> |Oui<sup>9, 15</sup> <br/> |
 |Groupes Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office 365 Video  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Non  <br/> |
@@ -285,7 +284,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**[Politique de confidentialité, sécurité et transparence](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Gouvernance des données avancée  <br/> |Aucun<sup>12, 15</sup> <br/> |Aucun<sup>12, 15</sup> <br/> |Oui<sup>15</sup> <br/> |Aucun<sup>12, 15</sup> <br/> |
 |Cloud App Security  <br/> |Aucun<sup>11, 12</sup> <br/> |Aucun<sup>11, 12</sup> <br/> |Oui<sup>11</sup> <br/> |Aucun<sup>11, 12</sup> <br/> |
-|Advanced Threat Protection  <br/> |Aucun<sup>12</sup> <br/> |Aucun<sup>12</sup> <br/> |Oui  <br/> |Aucun<sup>12</sup> <br/> |
+|Protection avancée contre les menaces  <br/> |Aucun<sup>12</sup> <br/> |Aucun<sup>12</sup> <br/> |Oui  <br/> |Aucun<sup>12</sup> <br/> |
 |Référentiel sécurisé du client  <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |
 |eDiscovery (découverte électronique) avancée Office 365  <br/> |Aucun<sup>12, 15</sup> <br/> |Aucun<sup>12, 15</sup> <br/> |Oui  <br/> |Aucun<sup>9, 15</sup> <br/> |
 |Secure Score<sup>14</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |
