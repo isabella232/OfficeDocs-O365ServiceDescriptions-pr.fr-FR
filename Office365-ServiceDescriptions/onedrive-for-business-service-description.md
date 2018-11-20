@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive Entreprise est un espace de stockage en ligne dans le cloud, qui vous est fourni par votre entreprise. Il vous permet de stocker et de protéger vos fichiers de travail, et d’y accéder facilement sur plusieurs périphériques. Partagez vos fichiers avec vos collègues, si nécessaire, et collaborez sur des documents Office en temps réel avec les dernières applications Office de bureau, web et mobiles. Synchronisez les fichiers sur votre ordinateur local à l’aide du client de synchronisation OneDrive Entreprise.
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035508"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215359"
 ---
 # <a name="onedrive-for-business-service-description"></a>Description du service OneDrive Entreprise
 
@@ -101,7 +101,7 @@ Les offres suivantes fournissent un espace de stockage personnel illimité dans 
     
 Les abonnements avec moins de cinq utilisateurs reçoivent 1 To de stockage dans le cloud par utilisateur. 
   
-Au début, les clients disposeront de 1 To de stockage personnel dans le cloud par utilisateur dans OneDrive Entreprise. Vous pouvez demander à votre administrateur Office 365 d'[augmenter l'espace de stockage OneDrive Entreprise par défaut](https://go.microsoft.com/fwlink/?linkid=838024) jusqu'à 5 To par utilisateur. 
+Au début, les clients disposeront de 1 To de stockage personnel dans le cloud par utilisateur dans OneDrive Entreprise. Quand ce quota de 1 To est atteint à 90 %, vous pouvez demander à votre administrateur Office 365 d’[augmenter l’espace de stockage OneDrive Entreprise par défaut](https://go.microsoft.com/fwlink/?linkid=838024) jusqu’à 5 To par utilisateur. 
   
 > [!NOTE]
 > Pour pouvoir augmenter l’espace de stockage OneDrive par défaut, vous devez attribuer au moins une licence à un utilisateur. 
