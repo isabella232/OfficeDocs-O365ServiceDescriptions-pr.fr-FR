@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Les limites dans Skype pour Business Online peuvent être classées dans les catégories suivantes :'
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296864"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625889"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
@@ -127,7 +127,7 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Type de réunion** <br/> |**Description** <br/> 
-|Réunion unique| 14 jours après la fin, dernière activation de la réunion ou dernière mise à jour de réunion - selon la situation qui est le plus récent.
+|Réunion unique| Réunion seront accessible au moins jusqu'à 14 jours après l’heure planifiée, ou la dernière réunion activation ou la dernière mise à jour de réunion, selon ce qui est le plus récent.
 |Réunion périodique avec date de fin| Réunion seront accessible au moins jusqu'à 14 jours après l’heure de fin prévue de la dernière occurrence de réunion, la dernière activation de réunion ou dernière mise à jour de réunion, selon ce qui est le plus récent.
 |Réunion périodique sans date de fin| Réunion sera toujours accessible, sont nouvelles jointures de conférence (activations) ou la planification des mises à jour au moins une fois par an
 |     Conférence maintenant|Réunion seront accessible au moins 8 heures.
