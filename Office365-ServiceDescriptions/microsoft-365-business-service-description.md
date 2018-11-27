@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée regroupant la productivité de pointe d’Office 365 avec des fonctionnalités avancées Gestion de sécurité et des périphériques pour aider à protéger votre entreprise. . Cette description du service décrit les fonctionnalités et les options de plan. Pour plus d’informations sur Office 365, voir les Descriptions de Service Office 365.
-ms.openlocfilehash: b4b2a625f96c53da3f7f3a735d2b28278dbe4e5b
-ms.sourcegitcommit: 11eb2c541fee341454950e998834992ef3b9f42c
+ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
+ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857312"
+ms.lasthandoff: 11/26/2018
+ms.locfileid: "26674221"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -117,8 +117,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalités de gestion des identités et des accès** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility Suite** <br/> |
-|Single Sign On (SSO) pour \> 10 applications  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Authentification multifacteur (MFA)  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Office 365 (MFA) de l’authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Unités administratives  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Cloud App Discovery  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Groupes dynamiques  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
@@ -127,7 +126,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Synchronisation bidirectionnelle d'objets d'appareil entre des répertoires locaux et Azure AD (écriture différée pour appareil)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Accès conditionnel (basé sur le groupe, l'emplacement, l'état du périphérique, la connexion ou le risque de l'utilisateur)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Image de marque de l'entreprise (pages d'ouverture de session, personnalisation du volet d'accès  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Stratégie d'application  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|Proxy d’application  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Licence d'accès client utilisation Microsoft Identity Manager (MIM)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Connect Health  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
