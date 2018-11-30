@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: L’Office 365 Security &amp; centre de conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Les liens vers les fonctionnalités de conformité SharePoint et Exchange existantes rassembler des fonctionnalités de conformité dans Office 365.
-ms.openlocfilehash: 9767fecdf049b3cf46c33008d8225f0a6899f30f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035628"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988555"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Sécurité Office 365 &amp; centre de conformité
+# <a name="office-365-security-amp-compliance-center"></a>Centre de sécurité et conformité Office 365
 
 Le [Office 365 sécurité &amp; centre de conformité](https://go.microsoft.com/fwlink/?LinkID=824876) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Les liens vers les fonctionnalités de conformité SharePoint et Exchange existantes rassembler des fonctionnalités de conformité dans Office 365. 
   
@@ -29,7 +29,7 @@ Le [Office 365 sécurité &amp; centre de conformité](https://go.microsoft.com/
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 pour le gouvernement G1 US** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 pour le gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> **Office 365 US gouvernement F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 pour le gouvernement G1 US** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 pour le gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> **Office 365 US gouvernement F1** <br/> |
 |[Accès à la sécurité &amp; centre de conformité](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Sécurité de l’application cloud Office 365](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Gestion des menaces](https://go.microsoft.com/fwlink/?linkid=845550) comme le filtrage de la messagerie et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -61,7 +61,7 @@ Le [Office 365 sécurité &amp; centre de conformité](https://go.microsoft.com/
 |[Gestion avancée des menaces](https://go.microsoft.com/fwlink/?linkid=846673), comme le référentiel sécurisé du client et l'explorateur de menaces pour les campagnes sur le hameçonnage  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Gestion des appareils mobiles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection contre la perte de données](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Recherches et examens](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |

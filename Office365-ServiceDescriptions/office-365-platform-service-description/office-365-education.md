@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins de votre organisation. Si vous recherchez les différences entre les plans de formation Office 365, cet article explique les fonctionnalités sont incluses dans chacun d’eux. Office 365 allie la suite bureautique Microsoft Office familier avec les versions de communications nouvelle génération de Microsoft et les services de collaboration basée sur le cloud, y compris Microsoft Exchange Online, SharePoint Online de Microsoft Office Online, et Microsoft Skype pour Business Online — pour aider les utilisateurs à être productifs à partir de n’importe quel emplacement via Internet.
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215399"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988575"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -32,7 +32,7 @@ Chaque plan de formation Office 365 comprend des services individuels, tels que 
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Service (Service)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**A5 Office 365** <sup>3</sup> <br/> |
+|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**A5 Office 365** <sup>3</sup> <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>5</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -195,7 +195,7 @@ Le [Office 365 sécurité &amp; centre de conformité](https://go.microsoft.com/
 |[Menaces gestion avancée](https://go.microsoft.com/fwlink/?linkid=846673) tels que l’Explorateur de zone de sécurité et les menaces client hameçonnage campagnes <sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des appareils mobiles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection contre la perte de données](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=824871)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Recherche et enquête]<br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -465,7 +465,7 @@ L'espace de stockage disponible dans une boîte aux lettres est déterminé par 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Boîtes aux lettres utilisateur  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
+|Boîtes aux lettres utilisateur  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
 |Archivage des boîtes aux lettres<sup>6, 7</sup> <br/> |Un nombre illimité de<sup>1</sup> <br/> |Un nombre illimité de<sup>1</sup> <br/> |Un nombre illimité de<sup>1</sup> <br/> |
 |Boîtes aux lettres partagées  <br/> |50 Go<sup>2</sup> <br/> |50 Go<sup>2</sup> <br/> |50 Go<sup>2</sup> <br/> |
 |Boîtes aux lettres de ressources  <br/> |50 Go,<sup>3</sup> <br/> |50 Go,<sup>3</sup> <br/> |50 Go,<sup>3</sup> <br/> |
@@ -492,7 +492,7 @@ Exchange Online fournit trois types de notifications lorsque la capacité de la 
 |**Fonctionnalité** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Avertissement  <br/> |49 Go  <br/> |98 Go  <br/> |98 Go  <br/> |
 |Interdire l'envoi  <br/> |49,5 Go  <br/> |99 Go  <br/> |99 Go  <br/> |
-|Interdire l'envoi/la réception  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
+|Interdire l'envoi/la réception  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>Limites de dossier de boîte aux lettres
 <a name="MailboxFolderLimits"> </a>
@@ -528,7 +528,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 |Avertissement pour le nombre de messages par dossier de boîte aux lettres  <br/> |900 000  <br/> |900 000  <br/> |900 000  <br/> |
 |Nombre maximal de messages par dossier dans le dossier Éléments récupérables  <br/> |3 millions  <br/> |3 millions  <br/> |3 millions  <br/> |
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (pas en conservation)  <br/> |30 Go  <br/> |30 Go  <br/> |30 Go  <br/> |
-|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (en conservation)  <br/> |100 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
+|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (en conservation)  <br/> |100 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d'archivage (pas en conservation)  <br/> |Un nombre illimité de<sup>1</sup> <br/> |Un nombre illimité de<sup>1</sup> <br/> |Un nombre illimité de<sup>1</sup> <br/> |
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d'archivage (en conservation)  <br/> |Un nombre illimité de<sup>1</sup> <br/> |Un nombre illimité de<sup>1</sup> <br/> |Un nombre illimité de<sup>1</sup> <br/> |
 |Avertissement pour le nombre de messages par dossier dans le dossier Éléments récupérables  <br/> |2,75 million  <br/> |2,75 millions  <br/> |2,75 millions  <br/> |
@@ -861,7 +861,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |Stockage découpé <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Stratégies de conformité des collections de sites](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Contrôles d'intégrité de collections de sites <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Service d'états <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Service d’états temporaires <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Administration centrale simplifiée <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Notifications d'état du système <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Récupération de base de données de contenu non associée <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -1014,7 +1014,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |Recommandations de personnes, de sites, de documents <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Site personnel <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Photos et présence <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Profil <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Profils <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Évaluations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Partagé avec moi <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de site (site d’équipe classique à l’aide de SharePoint sociale)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -1214,7 +1214,7 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Limite de transfert de fichiers  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |
-|Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |Aucune limite  <br/> |
+|Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |Sans limite  <br/> |
    
 #### <a name="meeting-limits"></a>Limites de réunion
 
