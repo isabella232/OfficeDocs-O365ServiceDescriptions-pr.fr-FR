@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 américains (orOffice 365 américains). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques à Office 365 américains. Il est recommandé de lire cette section supplémentaire avec les Descriptions de Service Office 365.
-ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
-ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
+ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
+ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26293515"
+ms.lasthandoff: 12/10/2018
+ms.locfileid: "27213911"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -183,7 +183,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 | Services d’audioconférence vocale - système téléphonique,  <br/> |Non<sup>2, 3</sup> <br/> |Non<sup>2, 3</sup> <br/> |Oui <sup>3, 5</sup> <br/> |Non  <br/> |
 |Power BI Pro  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Oui  <br/> |Aucun<sup>2</sup> <br/> |
 |Project Online  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |
-|Yammer Enterprise  <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |
+|Yammer Entreprise  <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype pour Business Basic est disponible pour tous les clients. Le Skype pour le client de bureau métiers est une application installée localement qui fournit la présence, la messagerie instantanée et les fonctionnalités de conférence pour les plans Office 365 comprenant Skype pour Business Online. Office 365 ProPlus, G3 et G5 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que les fonctionnalités de prise en charge, l’archivage et de conformité de téléphonie avancées. Un Skype licence entreprise Online doit être affecté pour chaque utilisateur.<br/><sup>2</sup> pas inclus mais peut être acheté en tant que module complémentaire séparé. Project Online comprend un projet Client de bureau en ligne dans le cadre de l’abonnement.<br/> <sup>3</sup> pas encore disponible dans les plans de haute GCC ou DoD, mais seront prochainement disponibles. 
 <br/><sup>4</sup> yammer Enterprise n’est pas un composant d’Office 365 américains, mais peut être acquise sans frais comme une offre autonome pour chaque utilisateur sous licence pour Office 365 GCC en. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les conventions d’entreprise et abonnement entreprise. Yammer n’est pas disponible dans GCC haute ou DoD.<br/><sup>5</sup> planifier l’appel est un module complémentaire. 
@@ -380,3 +380,4 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 <br/><sup>5</sup> consultez [à l’aide d’Outlook pour iOS et Android dans le nuage communautaire propre](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) pour plus d’informations.
   
 [Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
+
