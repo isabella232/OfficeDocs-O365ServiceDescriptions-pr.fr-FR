@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et découvrez lors de la planification de maintenance. Informations d’intégrité de service sont disponibles à tout moment en vous connectant à Office 365.
-ms.openlocfilehash: cc19a26f7bef070837b1dfa53df927373fd35d3e
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
+ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035658"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258736"
 ---
 # <a name="service-health-and-continuity"></a>État des services
 
@@ -29,7 +29,7 @@ Les administrateurs de Microsoft Office 365 peuvent afficher l’état des servi
   
 ## <a name="view-status-of-services"></a>Afficher l'état des Services
 
-La section de l’intégrité de Service d’Office 365 indique l’état actuel du service et plus d’informations sur les interruptions de service et des pannes. Informations de maintenance prévues sont disponibles sur le centre de messages. Pour plus d’informations, voir [Afficher le statut de vos services](https://go.microsoft.com/fwlink/p/?LinkID=270178). 
+La section de l’intégrité de Service d’Office 365 indique l’état actuel du service et plus d’informations sur les interruptions de service et des pannes. Informations de maintenance prévues sont disponibles sur le centre de messages. Pour plus d’informations, voir [Afficher le statut de vos services](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Incidents de service
 
@@ -49,7 +49,7 @@ Lorsqu’un incident de service se produit, Microsoft reconnaît que les communi
 
 ### <a name="office-365-admin-app"></a>Application d'administration Office 365
 
-L’application d’administration pour les administrateurs de clients Office 365 vous donne la possibilité de se connecter à l’état du service Office 365 de votre organisation en déplacement. Les administrateurs Office 365 client auront la possibilité d’afficher le service d’intégrité des informations et la maintenance état mises à jour à partir de leurs appareils mobiles. Pour plus d’informations, consultez la [FAQ d’application d’administration](https://community.office365.com/en-us/w/manage/office-365-admin-app-faq.aspx).
+L’application d’administration pour les administrateurs de clients Office 365 vous donne la possibilité de se connecter à l’état du service Office 365 de votre organisation en déplacement. Les administrateurs Office 365 client auront la possibilité d’afficher le service d’intégrité des informations et la maintenance état mises à jour à partir de leurs appareils mobiles. Pour plus d’informations, consultez la [FAQ d’application d’administration](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d'administration d'Office 365 pour Microsoft System Center 2012 R2
 
