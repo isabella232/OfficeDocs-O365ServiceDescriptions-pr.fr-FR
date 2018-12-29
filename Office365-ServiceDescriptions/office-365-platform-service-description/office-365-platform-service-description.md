@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins de votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans d’Exchange Online, cet article explique les fonctionnalités sont incluses dans chacun d’eux.
-ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
+ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362859"
+ms.lasthandoff: 12/28/2018
+ms.locfileid: "27459707"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de plateforme Office 365
 
@@ -157,10 +157,10 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Principaux programmes malveillants pour le courrier électronique  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Correspondances de règles pour le courrier électronique  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Principales correspondances de règles pour le courrier électronique  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Principales correspondances de stratégies DLP pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Correspondances de stratégies DLP par gravité pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Correspondances de stratégies DLP, de remplacements et de faux positifs pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Principales correspondances de règles DLP pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Principales correspondances de stratégies DLP pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Correspondances de stratégies DLP par gravité pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Correspondances de stratégies DLP, de remplacements et de faux positifs pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Principales correspondances de règles DLP pour le courrier électronique  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Sessions de messagerie instantanée et audio  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Conférences de partage d'application, web et rendez-vous  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Sessions vidéo, de partage d'application et de transfert de fichiers  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
