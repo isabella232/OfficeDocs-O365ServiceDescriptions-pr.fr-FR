@@ -3,7 +3,7 @@ title: Description du service Office 365 - Protection avancée contre les menac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,22 +13,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
-ms.openlocfilehash: 6c7ce44932312b82293b19d85ebac07137716617
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f8a44cdebebafe575f5c22a3a491671f57b05d49
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035591"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784866"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
 Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
   
-Vous pouvez utiliser ce service à des fins de protection de la messagerie dans les configurations suivantes :
+Voici les principales manières d’utiliser DAV pour la protection de message :
   
 - Dans le cas où vous utilisez Office 365 - Protection avancée contre les menaces à des fins de filtrage uniquement, le service fournit une protection informatique du courrier électronique pour votre environnement Exchange Server 2013 local, les versions d'Exchange Server héritées ou pour toute autre solution de messagerie SMTP locale.
     
-- Office 365 - Protection avancée contre les menaces peut être activé pour protéger les boîtes aux lettres Exchange Online hébergées dans le cloud. Pour en savoir plus sur Exchange Online, reportez-vous à l'article [Description du service Exchange Online](https://technet.microsoft.com/en-us/library/exchange-online-service-description.aspx).
+- Office 365 - Protection avancée contre les menaces peut être activé pour protéger les boîtes aux lettres Exchange Online hébergées dans le cloud. Pour en savoir plus sur Exchange Online, reportez-vous à l'article [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
     
 - Dans un déploiement hybride, le service peut être configuré pour protéger votre environnement de messagerie et contrôler le routage de messagerie lorsque vous disposez à la fois de boîtes aux lettres locales et de boîtes aux lettres dans le cloud avec Exchange Online Protection pour le filtrage des messages entrants.
     
@@ -49,9 +49,9 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
     
 - Exchange Online Protection
     
-- Office 365 Business Essentials
+- Office 365 Business Essentials
     
-- Office 365 Business Premium
+- Office 365 Business Premium
     
 - Office 365 Entreprise E1
     
@@ -69,7 +69,7 @@ Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans 
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Nouveautés d'Office 365 - Protection avancée contre les menaces
 
-Pour plus d'informations sur les nouvelles fonctionnalités du service Protection avancée contre les menaces, reportez-vous à l'article [Liens fiables Protection avancée contre les menaces dans Office 365](https://go.microsoft.com/fwlink/?linkid=846016).
+Pour plus d’informations sur les nouvelles fonctionnalités dans DAV, voir [nouvelles fonctionnalités de DAV](https://docs.microsoft.com/office365/securitycompliance/office-365-atp#new-features-are-continually-being-added-to-atp).
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Configuration requise pour Office 365 - Protection avancée contre les menaces
 

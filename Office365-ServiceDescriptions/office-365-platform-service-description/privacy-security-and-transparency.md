@@ -3,7 +3,7 @@ title: Politique de confidentialité, sécurité et transparence
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035581"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784856"
 ---
 # <a name="privacy-security-and-transparency"></a>Politique de confidentialité, sécurité et transparence
 
@@ -55,7 +55,7 @@ Le référentiel sécurisé du client est inclus dans le plan Office 365 Entrepr
   
 ## <a name="advanced-threat-protection"></a>Protection avancée contre les menaces
 
-Exchange Online - Protection avancée contre les menaces est service de filtrage du courrier électronique dans le cloud qui permet de protéger votre organisation contre les logiciels malveillants et les virus. Il inclut les fonctionnalités de liens fiables des liens et de pièces jointes approuvées. Les liens fiables protègent vos utilisateurs contre les liens hypertexte malveillants inclus dans les messages, en offrant une protection à chaque clic sur le lien. La fonction de pièces jointes approuvées offre une protection contre les programmes malveillants et les virus inconnus en routant l'ensemble des messages et des pièces jointes qui n'ont pas une signature de virus/programmes malveillants connue vers un environnement spécial où le service de protection avancée peut déterminer s'ils comportent du contenu malveillant. Pour plus d'informations sur la protection avancée contre les menaces, voir [Description du service Exchange Online - Protection avancée contre les menaces](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx).
+Protection contre les menaces avancées Office 365 vous aide à protéger votre organisation contre les virus et des programmes malveillants. DAV inclut des fonctionnalités de [Liens fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et [aide à la décision usurpation d’identité](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Liens approuvés protègent de manière proactive vos utilisateurs des liens hypertexte nuisibles dans un message, offrant une protection chaque fois que vous cliquez sur le lien. Pièces jointes sûres protège contre les programmes malveillants inconnus et les virus, routage de tous les messages et pièces jointes qui n’ont pas une signature antivirus/programmes malveillants connus pour un environnement spécial où DAV peut détecter malveillantes. Pour plus d’informations sur DAV, voir [Office 365 Advanced Threat Protection Service Description](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

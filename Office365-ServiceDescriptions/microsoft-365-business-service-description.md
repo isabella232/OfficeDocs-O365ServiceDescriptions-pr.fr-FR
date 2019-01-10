@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée regroupant la productivité de pointe d’Office 365 avec des fonctionnalités avancées Gestion de sécurité et des périphériques pour aider à protéger votre entreprise. . Cette description du service décrit les fonctionnalités et les options de plan. Pour plus d’informations sur Office 365, voir les Descriptions de Service Office 365.
-ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
-ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
+ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2018
-ms.locfileid: "26674221"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784886"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -34,7 +34,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Plateforme Office 365  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
+|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype Entreprise Online  <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
 |Office Online  <br/> |Oui  <br/> |Oui  <br/> |
 |Applications Office  <br/> |Oui  <br/> |Oui  <br/> |
@@ -122,7 +122,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Cloud App Discovery  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Groupes dynamiques  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Réinitialisation du mot de passe en libre-service pour les identités du cloud  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Réinitialisation du mot de passe en libre-service avec l'écriture différée AD en local  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|Réinitialisation du mot de passe en libre-service avec l'écriture différée AD en local  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Synchronisation bidirectionnelle d'objets d'appareil entre des répertoires locaux et Azure AD (écriture différée pour appareil)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Accès conditionnel (basé sur le groupe, l'emplacement, l'état du périphérique, la connexion ou le risque de l'utilisateur)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Image de marque de l'entreprise (pages d'ouverture de session, personnalisation du volet d'accès  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
