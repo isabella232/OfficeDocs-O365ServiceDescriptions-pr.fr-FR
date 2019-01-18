@@ -1,5 +1,5 @@
 ---
-title: 'Descriptions du Service Office 365 '
+title: 'Descriptions du service Office 365 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 est un service en nuage qui est conçu pour aider à répondre aux besoins de votre organisation de la sécurité robuste, la fiabilité et la productivité des utilisateurs.
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035478"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694658"
 ---
-# <a name="office-365-service-descriptions"></a>Descriptions du Service Office 365 
+# <a name="office-365-service-descriptions"></a>Descriptions du service Office 365 
 
 Microsoft Office 365 est un service en nuage qui est conçu pour aider à répondre aux besoins de votre organisation de la sécurité robuste, la fiabilité et la productivité des utilisateurs. 
   
@@ -33,7 +33,7 @@ Pour rechercher des articles et des informations de support technique, voir [Sup
 > [!NOTE]
 > Si vous recherchez la feuille de calcul de comparaison avec les descriptions des services, elle a été supprimée. Les tableaux de disponibilité des fonctionnalités des produits sur chaque page des descriptions des services ont été mis à jour pour mieux vous aider à choisir la version d'Office 365 qui répond à vos besoins. 
   
-Microsoft propose le service d'intégration Office 365 pour les services admissibles dans les plans éligibles. Le service d'intégration vous permet de travailler à distance avec des spécialistes de Microsoft pour que votre environnement Office 365 soit prêt à l'emploi. Pour plus d'informations, voir [Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx).
+Microsoft offre l’avantage de centre FastTrack pour Office 365 pour les services éligibles dans les plans éligibles. L’avantage vous permet de travailler à distance avec des spécialistes Microsoft pour préparer votre environnement Office 365 à utiliser. Pour plus d’informations, voir [FastTrack centre avantage pour Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Pour commencer, lisez les descriptions suivantes :
   
@@ -47,7 +47,7 @@ Pour commencer, lisez les descriptions suivantes :
     
 - [Description du service de protection Exchange Online](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
     
-- [Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md)
+- [Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md)
     
 - [Description du service d'archivage Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
@@ -61,11 +61,11 @@ Pour commencer, lisez les descriptions suivantes :
     
 - [Description du service Power BI](power-bi-service-description.md)
     
-- [Description du service Project Online](project-online-service-description/project-online-service-description.md)
+- [Description du service Project Online](project-online-service-description/project-online-service-description.md)
     
 - [Description du service Visio Online](visio-online-service-description/visio-online-service-description.md)
     
-- [Description de service Yammer](yammer-service-description/yammer-service-description.md)
+- [Description du service Yammer](yammer-service-description/yammer-service-description.md)
     
 - [Description du service Microsoft Dynamics 365 (en ligne)](microsoft-dynamics-365-online-service-description.md)
     

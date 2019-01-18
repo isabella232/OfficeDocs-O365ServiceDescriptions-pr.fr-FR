@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 08326046ddd6f6641c74222449e743bc07e20dc8
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694648"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -22,3 +30,14 @@
 | 1/2/2019 | [Description du Service Direct ingénierie Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | renommé |
 | 1/2/2019 | [Description du Service Direct ingénierie Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Modifié le |
 | 1/2/2019 | [Centre de sécurité et conformité Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | Modifié le |
+
+
+## <a name="week-of-january-07-2019"></a>Semaine de janvier 07, 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 1/9/2019 | [Description du service Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Modifié le |
+| 1/9/2019 | [Description du service Office 365 - Protection avancée contre les menaces](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Modifié le |
+| 1/9/2019 | [Office 365 pour le gouvernement américain](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | Modifié le |
+| 1/9/2019 | [Confidentialité, sécurité et transparence](/Office365/ServiceDescriptions/office-365-platform-service-description/privacy-security-and-transparency) | Modifié le |

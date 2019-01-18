@@ -1,9 +1,9 @@
 ---
 title: Office 365 pour le gouvernement américain
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 7/6/2018
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 américains (orOffice 365 américains). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques à Office 365 américains. Il est recommandé de lire cette section supplémentaire avec les Descriptions de Service Office 365.
-ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
-ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
+ms.openlocfilehash: 05da74a6efad6834f2108c83126aa1522ae62776
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27784906"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694678"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -178,7 +178,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype pour les entreprises (messagerie instantanée &amp; présence)  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>1</sup> <br/> |
 | Services d’audioconférence vocale - système téléphonique,  <br/> |Non<sup>2, 3</sup> <br/> |Non<sup>2, 3</sup> <br/> |Oui <sup>3, 5</sup> <br/> |Non  <br/> |
 |Power BI Pro  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Oui  <br/> |Aucun<sup>2</sup> <br/> |
@@ -209,10 +209,10 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Microsoft MyAnalytics  <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |
 |Microsoft Planner  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
-|Microsoft StaffHub  <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |
+|Microsoft StaffHub  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
 |Microsoft Stream  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Non  <br/> |
-|Microsoft Sway  <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |
-|Microsoft Teams  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |
+|Microsoft Sway  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
+|Microsoft Teams  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |
 |Office Delve  <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |Oui  <br/> |Oui<sup>17</sup> <br/> |
 |Groupes Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Stream  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Non  <br/> |
