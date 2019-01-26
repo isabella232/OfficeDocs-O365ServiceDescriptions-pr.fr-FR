@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Vous souhaitez savoir quelles licences, vous devez acheter pour obtenir certaine Skype pour les fonctionnalités d’entreprise Voir la Skype pour une vue d’ensemble de la licence entreprise.
-ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 000095f2f0f6831bc796915905b507ff7f037c5b
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362929"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506658"
 ---
 # <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
 
@@ -123,7 +123,7 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.
 |Contrôle d'admission des appels  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Appel et réponse aux appels  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Délégation d'appel  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|Transfert d'appel et sonnerie simultanée  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
+|Transfert d'appel et sonnerie simultanée  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Historique des appels  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Mise en attente/récupération d'appels  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Parcage d'appel  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -299,7 +299,7 @@ Le tableau suivant répertorie les options de licence pour la diffusion de réun
 |||
 |:-----|:-----|
 |**Plan Office 365** <br/> |**Fonctionnalités Skype Entreprise Online** <br/> |
-|Skype Entreprise Online Plan autonome 2  <br/> | Diffusion de réunion Skype  <br/>  Une licence Office 365 est requise pour l'organisateur, le producteur, le membre de l'équipe d'événement et les participants authentifiés.  <br/>  Pour les participants anonymes, aucune Office 365 licence n'est requise.  <br/>  Avec Skype Entreprise Online Plan autonome 2 ou une suite Office 365 contenant le Plan 2, les composants additionnels suivants sont disponibles :  <br/>  Audioconférence (disponible dans certains pays).  <br/>  Système téléphonique.  <br/> > [!NOTE]> Lors de l’achat par lui-même sans appel Plans, système téléphonique permet hybride vocale uniquement. Voix hybride requiert un déploiement sur site client hybride voix pour permettre l’appel PSTN à l’aide de votre fournisseur (s) service RTC existant. Les modules complémentaires système téléphonique suivants sont disponibles pour activer les appels PSTN entrants et sortants à l’aide de Microsoft en tant que votre fournisseur de services PSTN : > nationales appelant planifier (disponible dans les pays limités) > International appelant planifier (disponibles dans un nombre limité pays)           |
+|Skype Entreprise Online Plan autonome 2  <br/> | Diffusion de réunion Skype  <br/>  Une licence Office 365 est requise pour l'organisateur, le producteur, le membre de l'équipe d'événement et les participants authentifiés.  <br/>  Pour les participants anonymes, aucune Office 365 licence n'est requise.  <br/>  Avec Skype Entreprise Online Plan autonome 2 ou une suite Office 365 contenant le Plan 2, les composants additionnels suivants sont disponibles :  <br/>  Audioconférence (disponible dans certains pays).  <br/>  Système téléphonique.  <br/> > [!NOTE]> lors de l’achat par lui-même sans appel prévoit, système téléphonique permet hybride vocale uniquement. Voix hybride requiert un déploiement sur site client hybride voix pour permettre l’appel PSTN à l’aide de votre fournisseur (s) service RTC existant. Les modules complémentaires système téléphonique suivants sont disponibles pour activer les appels PSTN entrants et sortants à l’aide de Microsoft en tant que votre fournisseur de services PSTN : > d’intérieur appelant planifier (disponible dans les pays limités) > International appelant planifier (disponibles dans un nombre limité pays)           |
 |Skype Entreprise Online Plan autonome 3  <br/> |Skype Entreprise Online Plan autonome 3.  <br/> > [!NOTE]> Ce plan est utilisé uniquement pour les fournisseurs de services vocaux tiers et ne fournit  *aucun*  service, tel que l'audioconférence, le système téléphonique, les plans d'appels nationaux ou internationaux.           |
 |Office 365 Business Premium  <br/> | Diffusion de réunion Skype :  <br/>  Une licence Office 365 est requise pour l'organisateur, le producteur, le membre de l'équipe d'événement et les participants authentifiés.  <br/>  Pour les participants anonymes, aucune Office 365 licence n'est requise.  <br/>  Audioconférence (dans certains pays).  <br/> |
 |Office 365 Entreprise E1  <br/> |Skype Entreprise Online Plan autonome 2 (voir Skype Entreprise Online Plan autonome 2 ci-dessus pour les fonctionnalités incluses).  <br/> |

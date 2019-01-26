@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: b0ad00866bb1ec41d33e1c855765f7153d0679ce
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 83369f8c0b4da4557b2b49e247a405d137db5f85
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362949"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506688"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
@@ -228,7 +228,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 |[Office pour Mac pour Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Aucun<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Office Mobile pour iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Office Mobile pour Android](../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Office Mobile pour Android] <sup>15</sup> (.. / office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Aucun<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Aucun<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Outlook pour Android  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Aucun<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
@@ -269,6 +269,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 <br/><sup>3</sup> Si vous disposez d'Office Professionnel Plus 2013 ou d'une version autonome d'Excel 2013, vous pouvez télécharger et utiliser [Power Map Preview pour Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) en tant que module complémentaire non pris en charge. 
  <br/><sup>4</sup> Skype pour Business Basic est disponible pour tous les clients. Le Skype pour le client de bureau métiers est une application installée localement qui fournit la présence, la messagerie instantanée et les fonctionnalités de conférence pour les plans Office 365 comprenant Skype pour Business Online. Office 365 ProPlus et Office 365 entreprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, y compris les fonctionnalités de téléphonie avancées prise en charge, l’archivage et de conformité. Un Skype licence entreprise Online doit être affecté pour chaque utilisateur. Pour plus d’informations sur les fonctionnalités de Lync Basic, voir [Skype pour le tableau de comparaison des clients professionnels en ligne](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/><sup>5</sup> des écoles sont éligibles pour l’éducation Plus, qui inclut Office 365 ProPlus et permet aux étudiants, enseignants et le personnel installer la dernière version d’Office sur les ordinateurs jusqu'à cinq PC ou Mac et sur d’autres périphériques mobiles, y compris les tablettes Windows et le iPad. Écoles qualifier pour Office 365 éducation Plus quand ils acquérir une licence Office institution à l’échelle pour l’enseignant et du personnel par le biais de l’inscription pour les Solutions de formation, Open valeur abonnement Education Solutions ou un contrat école. Notez que l’accès et l’éditeur sont disponibles sur les PC uniquement. OneNote pour Mac est disponible en tant que téléchargement séparé à partir de l’App Store Mac.<br/><sup>6</sup> Office 2011 pour Mac peut être installé, mais pas activé. 
 <br/><sup>7</sup> office 365 ProPlus est pris en charge sur dédiés à l’utilisateur virtual desktop infrastructure (VDI). Office 365 ProPlus prend uniquement en charge Remote Desktop Services (RDS) lorsqu’ils sont achetés via un programme de licence en Volume.<br/><sup>8</sup> l’activation en volume pour Office 365 entreprise E3 et Office 365 ProPlus sont limitées aux installations sur Windows Server 2008 R2 et versions ultérieures avec le rôle RDS activé ou installations Windows se. Dans les deux cas, les utilisateurs l’accès à ces installations doivent être des utilisateurs sous licence Office 365 entreprise E3 ou Office 365 ProPlus.<br/><sup>9</sup> access est actuellement disponible si vous êtes sur le canal en cours ou sur la version ciblé pour canal différé. Si vous êtes sur le canal différée, accès sera disponible dans 2017 juin. Pour plus d’informations, voir [accès inclus dans le cadre d’Office 365 entreprise et entreprise Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/><sup>10</sup> Visio en ligne est actuellement en mode Aperçu pour Office 365 exécuté par 21Vianet. Pour plus d’informations sur Visio en ligne, voir la [Description du Service Visio en ligne](../visio-online-service-description/visio-online-service-description.md).<br/><sup>11</sup> Bientôt disponible dans Office 365 géré par 21Vianet. 
+<br/><sup>15</sup> services Google (y compris le magasin de lecture) ne sont pas accessibles à l’intérieur de Chine. Il existe d’autres magasins d’application mis à jour par les fabricants de téléphone principaux ou sociétés de moteur de recherche que les utilisateurs peuvent installer des applications mobiles à partir de.
   
 ## <a name="office-online-features"></a>Fonctionnalités d'Office Online
 <a name="BM4_OfficeOnline"> </a>
@@ -340,7 +341,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 |**[Destinataires](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Business Essentials géré par 21Vianet** <br/> |**Office 365 Business géré par 21Vianet** <br/> |**Office 365 Business Premium géré par 21Vianet** <br/> |**Office 365 A1 géré par 21Vianet** <br/> |**Office 365 Entreprise E1 géré par 21Vianet** <br/> |**Office 365 Entreprise E3 géré par 21Vianet** <br/> |**Office 365 Entreprise F1 géré par 21Vianet** <br/> |
 |Alertes de capacité  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier non trié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Infos-courrier  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
+|MailTips  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
 |Accès délégué  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Règles de boîte de réception  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Comptes connectés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
@@ -405,7 +406,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 <br/><sup>2</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge. 
 <br/><sup>3</sup> les règles de transport sont composés de critères souples, qui vous permettent de définir les conditions et exceptions et actions à effectuer en fonction des critères. Les critères disponibles et les actions diffèrent entre Exchange Online et Microsoft Exchange Server 2013. Pour obtenir la liste des critères disponibles et actions, reportez-vous aux rubriques d’actions pour chaque produit et les critères correspondants.<br/><sup>4</sup> Uniquement accessible via un accès direct à l’interface de gestion du Centre d’administration Exchange. 
 <br/><sup>5</sup> Exchange Server 2013 utilise uniquement le moteur de protection contre les programmes malveillants de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes.<br/><sup>6</sup> Un abonnement EOA peut être acheté séparément pour chaque boîte aux lettres nécessitant la fonctionnalité de boîte aux lettres inactive. 
-<<br/>sup > 7</sup> pour la découverte électronique, vous avez besoin d’une requête séparée sur site et en nuage. 
+<<br/>sup>7</sup> pour la découverte électronique, vous avez besoin d’une requête séparée sur site et en nuage. 
 <br/><sup>8</sup> POP est pris en charge, mais IMAP ne l’est pas. 
 <br/><sup>9</sup> office 365 entreprise Essentials et entreprise Premium ne fournissent pas des droits d’accès pour l’utilisation avec des serveurs locaux. Pour être compatible, le client doit acheter ou avez déjà acheté des licences d’accès client ou mise à niveau approprié à une référence de l’entreprise, qui fournit les droits d’accès. ><br/><sup>10</sup> L’assistant de configuration hybride est disponible pour les déploiements sur site d’Exchange 2013 CU5 et des versions supérieures. Toutefois, l’utilisation de certaines fonctionnalités hybrides est limitée. Pour plus d’informations, consultez la rubrique d’aide « En savoir plus sur Office 365 géré par 21Vianet ».<br/><sup>11</sup> Pour Office 365 géré par 21Vianet, LinkedIn est disponible, mais pas Facebook. > 
 <br/><sup>12</sup> La configuration de déploiement hybride est disponible via l’assistant de configuration hybride pour Exchange 2013 CU5 ou peut être effectuée manuellement si vous avez Exchange 2013 SP1. Pour plus d’informations, consultez la rubrique d’aide « En savoir plus sur Office 365 géré par 21Vianet ».<br/><sup>13</sup> comptes connectés sont pris en charge pour POP &amp; les comptes IMAP, mais désactivée pour Outlook.com (Hotmail). 
@@ -580,7 +581,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 |[Solutions bac à sable](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Aucun<sup>10</sup> <br/> |Aucun<sup>10</sup> <br/> |Aucun<sup>10</sup> <br/> |Aucun<sup>10</sup> <br/> |Aucun<sup>10</sup> <br/> |
 |[Gestionnaire de conception SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Banque SharePoint <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|SharePoint Store <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Flux de travail SharePoint 2010 (.NET 3.5) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Flux de travail SharePoint 2010 (l’emploi)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Flux de travail SharePoint 2013 et SharePoint 2016](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui  <br/> |
@@ -617,7 +618,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 |Stockage découpé <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Stratégies de conformité des collections de sites](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Contrôles d'intégrité de collections de sites <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Service d'états <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Service d’états temporaires <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Administration centrale simplifiée <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Notifications d'état du système <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Récupération de base de données de contenu non associée <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -767,12 +768,12 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 |Conversations sur un document avec Yammer <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Suivre <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Blog de billets courts <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Échange de News <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Flux d’actualités <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Partage en un clic <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Recommandations de personnes, de sites, de documents <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Site personnel <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Photos et présence <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Profil <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Profils <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Évaluations <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Partagé avec moi <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Flux de site (site d’équipe classique à l’aide de SharePoint sociale)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -1116,8 +1117,8 @@ Le tableau suivant répertorie les fonctionnalités de Project Online disponible
 |[Gestion des problèmes et des risques (pour les membres de l'équipe)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |[Centre de gestion de la confidentialité Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |N/D  <br/> |N/D  <br/> |
 |[Écosystème de partenaires de gestion de portefeuille de projets](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Fiabilité du service](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/D  <br/> |N/D  <br/> |
-|[Mises à jour du service](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/D  <br/> |N/D  <br/> |
+|[Fiabilité du service](../project-online-service-description/core-services-functionality.md#service-reliability) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/A  <br/> |N/D  <br/> |
+|[Mises à jour du service](../project-online-service-description/core-services-functionality.md#service-updates) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/A  <br/> |N/D  <br/> |
 |[Collaboration des membres de l'équipe](../project-online-service-description/core-services-functionality.md#team-member-collaboration) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des tâches et du temps (pour les membres de l'équipe)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |**Gestion de projet** <br/> |**Project Online Essentials pour Office 365 géré par 21Vianet** <br/> |**Project Online Professionnel pour Office 365 géré par 21Vianet** <br/> |**Project Online Premium pour Office 365 géré par 21Vianet** <br/> |**Project Professionnel 2016 pour Office 365 géré par 21Vianet** <br/> |**Project Server 2016 pour Office 365 géré par 21Vianet** <br/> |
