@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre les documents Word, Excel, OneNote et PowerPoint dans votre navigateur web. Office Online facilite l’utiliser et partager des fichiers Office à partir de n’importe où avec une connexion Internet, à partir de quasiment n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en déplacement.
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435822"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612767"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
@@ -32,7 +32,7 @@ Pour comparer les fonctionnalités des différents plans, voir [Comparer toutes 
 Besoin d’aide répond le mieux aux meilleures solution Office votre organisation ? Le tableau suivant compare les fonctionnalités Office Online pour les applications de bureau Microsoft Office riche. Pour découvrir les fonctionnalités sont disponibles dans Office Online et puis cliquez sur le nom de la fonctionnalité pour lire une brève description sur le fonctionne de cette fonctionnalité, utilisez les tableaux. Vous pouvez découvrir que certaines personnes de votre organisation doivent la fonctionnalité de création de graphiques avancée de l’application de bureau Excel alors que d’autres personnes doivent uniquement consulter et de modifier légèrement des documents Word et les présentations PowerPoint avec Office Online. 
   
 > [!NOTE]
->  Une sélection de fonctionnalités Office a été sélectionnée pour représenter les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. > Microsoft Office 365 ProPlus est une offre d’abonnement mensuel de la dernière suite bureautique Office. > Les clients sur site Microsoft Office Online Server obtiennent un Office Online modification licence si elles ont acheté une licence de suite bureautique Office (par exemple, une licence d’Office Professionnel Plus, Office Standard ou Office 365 ProPlus). 
+>  Une sélection de fonctionnalités Office a été sélectionnée pour représenter les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. > Microsoft Office 365 ProPlus est une offre d’abonnement mensuel de la dernière suite bureautique Office. > serveur Microsoft Office Online local les clients peuvent-ils obtenir une licence de modification Office Online si elles ont acheté une licence de suite bureautique Office (par exemple, une licence d’Office Professionnel Plus, Office Standard ou Office 365 ProPlus). 
   
 > [!NOTE]
 > Lorsque vous ouvrez un document Office, soit joint à un courrier électronique Outlook, soit à partir d'une bibliothèque de documents SharePoint, il s'affiche en lecture seule dans Office Online. Pour modifier un document dans Office Online (mode Édition), vous avez besoin d'une licence pour la suite Office 365, comme Office 365 Entreprise E1. Pour modifier un document dans l'application de bureau, vous avez besoin d'une licence pour la suite Office, comme un abonnement à Office 365 ProPlus ou une version installée d'Office Professionnel Plus 2010. 
@@ -204,6 +204,9 @@ Besoin d’aide répond le mieux aux meilleures solution Office votre organisati
 |[Co-création](onenote-online.md#co-authoring) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création et gestion de pages et de sections](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Oui  <br/> |Oui  <br/> |
 |[Téléchargement d'une copie de fichiers Office incorporés](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |
+|[Glisser -déplacer Pages] <br/> |Oui  <br/> |Oui <br/> |
+|[Glisser -déplacer Sections] <br/> |Oui  <br/> |Oui <br/> |
+|[Glisser -déplacer les groupes de sections] <br/> |Non  <br/> |Oui <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Oui  <br/> |Oui  <br/> |
 |[Modification de fichiers incorporés](onenote-online.md#EmbeddedFileEdit) <br/> |Non  <br/> |Oui  <br/> |
 |[Équations](onenote-online.md#equations) <br/> |Oui  <br/> |Oui  <br/> |

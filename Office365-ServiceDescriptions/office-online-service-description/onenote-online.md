@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilisez OneNote en ligne (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à depuis n’importe où et partagez avec d’autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office Online.
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035587"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612747"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ Avec OneNote Online, vous pouvez utiliser les boutons de type navigateur Précé
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Gestion du bloc-notes : classement de pages du bloc-notes/sections, réorganisation de section, création/suppression de groupes de sections
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-Non disponible dans OneNote Online. Certaines fonctionnalités de gestion avancées telles que la réorganisation de section, la création et la suppression de groupes de sections, ainsi que de classement de pages par glisser-déplacer, sont disponibles uniquement dans l'application OneNote de bureau. 
+Avec OneNote en ligne, vous pouvez glisser -déplacer pour réorganiser les pages et des sections.  
+Gestion des fonctionnalités avancées, telles que la création, suppression et réorganisation des groupes de sections sont disponibles uniquement dans l’application de bureau OneNote.
   
 ## <a name="offline-viewing-and-authoring"></a>Création et affichage en mode hors connexion
 <a name="bkmk_Offlineviewing"> </a>
