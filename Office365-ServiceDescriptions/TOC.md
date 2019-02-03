@@ -1,3 +1,6 @@
+
+  
+
 # [Descriptions du service Office 365](office-365-service-descriptions-technet-library.md)
 ## [Description du service Microsoft 365 Business](microsoft-365-business-service-description.md)
 ## [Description du service de la plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
@@ -8,6 +11,7 @@
 ### [Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High et DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
+#### [Microsoft 365 pour le Secteur Public comment acheter](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 ### [Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Éducation](office-365-platform-service-description/office-365-education.md)
