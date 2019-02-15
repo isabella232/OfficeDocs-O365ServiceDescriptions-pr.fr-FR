@@ -3,7 +3,7 @@ title: Description du service d'archivage Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 02/14/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: Archivage Microsoft Exchange Online est une Microsoft Office 365 en nuage, d’archivage solution d’entreprise pour les organisations qui ont déployé Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 et versions ultérieures), ou vous abonner à certains Exchange Online ou Office 365 plans. L’archivage Exchange Online aide les organisations avec leurs d’archivage, la conformité aux exigences réglementaires, et eDiscovery défis lors de la simplification de l’infrastructure locale et réduction des coûts et accélération des charges de l’informatique.
-ms.openlocfilehash: d88d336f0e5b30a245b6c90c7cc488ca6d5dfc54
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Archiving est une solution d'archivage de classe entreprise Microsoft Office 365 pour les organisations qui ont déployé Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 et versions ultérieures ) ou abonnez-vous à certains plans Exchange Online ou Office 365. L'archivage Exchange Online aide ces organisations à relever les défis de l'archivage, de la conformité, de la réglementation et de la découverte électronique tout en simplifiant l'infrastructure locale, ce qui réduit les coûts et allège les charges informatiques.
+ms.openlocfilehash: baf73ca4819f2970b3709cbce2f137483064e01a
+ms.sourcegitcommit: e71991e4ababa6e0aa6d9df0979105e45646da2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035522"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "30056644"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Description du service d'archivage Exchange Online
 
-Archivage Microsoft Exchange Online est une Microsoft Office 365 en nuage, d’archivage solution d’entreprise pour les organisations qui ont déployé Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 et versions ultérieures), ou vous abonner à certains Exchange Online ou Office 365 plans. L’archivage Exchange Online aide les organisations avec leurs d’archivage, la conformité aux exigences réglementaires, et eDiscovery défis lors de la simplification de l’infrastructure locale et réduction des coûts et accélération des charges de l’informatique.
+Microsoft Exchange Online Archiving est une solution d'archivage de classe entreprise Microsoft Office 365 pour les organisations qui ont déployé Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 et versions ultérieures ) ou abonnez-vous à certains plans Exchange Online ou Office 365. L'archivage Exchange Online aide ces organisations à relever les défis de l'archivage, de la conformité, de la réglementation et de la découverte électronique tout en simplifiant l'infrastructure locale, ce qui réduit les coûts et allège les charges informatiques.
   
 En tant que service en ligne Microsoft Office 365, l'Archivage Exchange Online est conçu pour aider à répondre aux besoins grandissants de sécurité, de fiabilité et de productivité des utilisateurs. Pour plus d'informations sur Office 365, notamment sur les fonctionnalités communes à tous les services en ligne Office 365, consultez la rubrique [Description du service de plateforme Office 365](../office-365-platform-service-description/office-365-platform-service-description.md).
   
@@ -42,19 +42,19 @@ L'Archivage Exchange Online est disponible dans les plans suivants.
   
 |**Plan**|**Description**|
 |:-----|:-----|
-|**Archivage Exchange Online pour Exchange Server** <br/> |Archive en nuage pour les utilisateurs disposant de boîtes aux lettres principales dans Exchange Server 2013 ou Exchange 2010 (SP2 ou version ultérieure).  <br/> Si vous souhaitez ajouter une archive basée sur le cloud à une boîte aux lettres principale située sur un serveur Exchange local, vous devez configurer un déploiement hybride. Pour plus d'informations sur les déploiements hybrides, voir [Déploiements hybrides Exchange Server](https://technet.microsoft.com/library/jj200581%28v=exchg.150%29.aspx).  <br/> |
-|**Archivage Exchange Online pour Exchange Server (via Enterprise CAL Suite).** <br/> |Archive en nuage pour les utilisateurs disposant de boîtes aux lettres principales dans Exchange Server 2013 ou Exchange 2010 (SP2 ou version ultérieure). Pour en savoir plus, consultez les [informations relatives aux licences Core CAL Suite et Enterprise CAL Suite](https://go.microsoft.com/fwlink/p/?LinkId=314160).  <br/> |
-|**Archivage Exchange Online pour Exchange Online** <br/> | Archive en nuage et archive permanente comme module complémentaire pour les plans suivants : <sup>1, 2</sup>,  <br/>  Exchange Online Plan 1  <br/>  Exchange Online Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Entreprise E1  <br/>  Office 365 Entreprise F1  <br/> > [!NOTE]> Les plans suivants incluent l’archivage déjà et ne nécessitent pas l’archivage Exchange Online en tant que composant additionnel : > Office 365 éducation A1 > Office 365 éducation A3 > Office 365 éducation A5 > Office 365 entreprise E3 > Office 365 entreprise E5 > Exchan GE Online Plan 2 > Pour plus d’informations sur les fonctionnalités d’archivage de boîtes aux lettres Exchange Online, consultez [archivage de boîtes aux lettres dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).           |
+|**Archivage Exchange Online pour Exchange Server** <br/> |Archive informatique pour les utilisateurs avec des boîtes aux lettres principales dans Exchange Server 2016, Exchange Server 2013 ou Exchange 2010 (SP2 ou version ultérieure).  <br/> Si vous souhaitez ajouter une archive basée sur le cloud à une boîte aux lettres principale située sur un serveur Exchange local, vous devez configurer un déploiement hybride. Pour plus d'informations sur les déploiements hybrides, voir [Déploiements hybrides Exchange Server](https://technet.microsoft.com/library/jj200581%28v=exchg.150%29.aspx).  <br/> |
+|**Archivage Exchange Online pour Exchange Server (via Enterprise CAL Suite).** <br/> |Archive informatique pour les utilisateurs avec des boîtes aux lettres principales dans Exchange Server 2016, Exchange Server 2013 ou Exchange 2010 (SP2 ou version ultérieure). Pour plus d'informations, reportez-vous aux [licences Brief-licence de Core Cal suite et Enterprise Cal suite](https://go.microsoft.com/fwlink/p/?LinkId=314160).<br/> |
+|**Archivage Exchange Online pour Exchange Online** <br/> | Archive en nuage et conservation inaltérable en tant que module complémentaire pour les plans suivants: <sup>1, 2</sup>,  <br/>  Exchange Online (plan 1)  <br/>  Exchange Online Kiosk  <br/>  Office 365 Business Essentials  <br/>  Office 365 Business Premium  <br/>  Office 365 Entreprise E1  <br/>  Office 365 Entreprise F1  <br/>  <b>Remarque:</b> Les plans suivants incluent déjà l'archivage et ne nécessitent pas l'archivage Exchange Online en tant que module complémentaire: > Office 365 éducation a1 > Office 365 éducation a3 > Office 365 éducation a5 > Office 365 entreprise E3 > Office 365 entreprise E5 > Exchange sur ligne plan 2 > pour plus d'informations sur les capacités d'archivage des boîtes aux lettres Exchange Online, consultez la rubrique [boîtes aux lettres d'archivage dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).           |
    
 > [!NOTE]
-> <sup>1</sup> Le déploiement hybride n'est pas requis pour les organisations en nuage uniquement sans boîte aux lettres située sur un serveur Exchange local. Toutefois, s'il existe des boîtes aux lettres locales, le déploiement hybride est requis. > <sup>2</sup> Les plans Exchange Online Plan 1 et Office 365 Business ont une [limite de taille pour les boîtes aux lettres et les archives](https://go.microsoft.com/fwlink/?LinkId=330039). L'Archivage Exchange Online pour le module complémentaire Exchange Online ajoute une archive informatique illimitée et une [Conservation inaltérable et conservation pour litige](compliance-and-security-features.md#in-place-hold-and-litigation-hold). 
+> <sup>1</sup> un déploiement hybride n'est pas requis pour les organisations en nuage uniquement où aucune boîte aux lettres n'est située sur un serveur Exchange local. Toutefois, s'il existe des boîtes aux lettres locales, le déploiement hybride est requis.<br/> <sup>2</sup> les plans Exchange Online plan 1 et Office 365 Business ont une [limite de taille pour la boîte aux lettres et l'archive](https://go.microsoft.com/fwlink/?LinkId=330039). L'archivage Exchange Online pour le module complémentaire Exchange Online ajoute une archive en nuage illimitée et une conservation inaltérable [et une conservation pour litige](compliance-and-security-features.md#in-place-hold-and-litigation-hold).
   
 Vous recherchez des informations sur tous les plans Office 365 ? Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d'informations sur les plans, y compris les options de plan autonome, et sur le passage d'un plan à un autre, consultez la rubrique [Options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
 ## <a name="requirements"></a>Configuration requise
 <a name="bkmk_EOA_Plans"> </a>
 
-Afin d'utiliser l'Archivage Exchange Online pour Exchange Server, les boîtes aux lettres des utilisateurs doivent résider sur Exchange Server 2013 ou Exchange Server 2010 (SP2 ou ultérieur).
+Pour utiliser l'archivage Exchange Online pour Exchange Server, les boîtes aux lettres utilisateur doivent résider sur Exchange Server 2016, Exchange Server 2013 ou Exchange Server 2010 (SP2 ou version ultérieure).
   
 ### <a name="federated-identity-and-single-sign-on"></a>Identité fédérée et authentification unique
 
@@ -67,13 +67,15 @@ Chaque utilisateur qui accède au service d'Archivage Exchange Online doit poss�
 ## <a name="unlimited-archive-storage-quota"></a>Quota de stockage d'archive illimité
 <a name="bkmk_EOA_Plans"> </a>
 
- La fonctionnalité d'archivage illimité d'Office 365 (appelée archivage à extension automatique) fournit un espace illimité de stockage dans les boîtes aux lettres d'archivage. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d'informations, reportez-vous à la rubrique [Présentation de l'archivage illimité dans Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Pour plus de détails sur la disponibilité, consultez la [feuille de route d'Office 365](http://go.microsoft.com/fwlink/?LinkId=509914). 
+ La fonctionnalité d'archivage illimitée dans Office 365 (appelée archivage à extension automatique) offre une quantité illimitée de stockage dans les boîtes aux lettres d'archivage. L'archivage à extension automatique est pris en charge uniquement dans la configuration hybride lorsque la boîte aux lettres de l'utilisateur réside sur Exchange Server 2016 ou Exchange Server 2013 (SP1 ou version ultérieure). Chaque abonné d'archivage Exchange Online reçoit initialement 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est automatiquement ajouté lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d'informations, reportez-vous à la rubrique [Overview of Unlimited Archiving in Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Pour plus d'informations sur la disponibilité, voir la feuille de [route Office 365](http://go.microsoft.com/fwlink/?LinkId=509914) . 
   
 > [!IMPORTANT]
-> Les administrateurs ne peuvent pas ajuster le quota de stockage. 
+> Les administrateurs ne peuvent pas ajuster le quota de stockage.
+>
+> L'archivage à extension automatique n'est pas pris en charge pour les boîtes aux lettres résidant sur Exchange Server 2010.
   
 > [!IMPORTANT]
-> L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages dans Archivage Exchange Online à des fins d'archivage n'est pas autorisée. La boîte aux lettres d'archivage d'un utilisateur est destinée uniquement à cet utilisateur. Microsoft se réserve le droit de refuser l'archivage illimité dans les cas où la boîte aux lettres d'archivage d'un utilisateur sert à stocker les données d'archivage d'autres utilisateurs. 
+> L'archive à extension automatique est uniquement prise en charge pour les boîtes aux lettres utilisées pour des utilisateurs individuels ou des boîtes aux lettres partagées dont le taux de croissance *ne dépasse pas 1&nbsp;Go par jour*. L'utilisation de la journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages dans l'archivage Exchange Online à des fins d'archivage n'est pas autorisée. La boîte aux lettres d'archivage d'un utilisateur est destinée uniquement à cet utilisateur. Microsoft se réserve le droit de refuser l'archivage illimité dans les cas où la boîte aux lettres d'archivage d'un utilisateur est utilisée pour stocker les données d'archivage d'autres utilisateurs. 
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Disponibilité des fonctionnalités pour les différents plans d'archivage Exchange Online
 <a name="bkmk_EOA_Plans"> </a>
@@ -98,12 +100,12 @@ Chaque utilisateur qui accède au service d'Archivage Exchange Online doit poss�
 |Chiffrement entre serveurs sur site et archivage Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |
 |Chiffrement entre clients et archivage Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |
 |Chiffrement : S/MIME et PGP  <br/> |Oui  <br/> |Oui  <br/> |
-|IRM avec Azure Information Protection  <br/> |Non  <br/> |Aucun<sup>4</sup> <br/> |
+|IRM avec Azure Information Protection  <br/> |Non  <br/> |N °<sup>4</sup> <br/> |
 |IRM via Windows Server AD RMS  <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |
 |Audit  <br/> |Oui  <br/> |Oui  <br/> |
    
 
 > <sup>1</sup> Les boîtes aux lettres utilisateur doivent résider sur Exchange 2010 SP2 ou version ultérieure.
- <br/><sup>2</sup> une Archive In-Place uniquement utilisable pour archiver des messages pour un utilisateur unique ou d’une entité pour laquelle une licence a été appliquée. À l’aide d’une Archive In-Place comme moyen pour stocker le courrier provenant de plusieurs utilisateurs ou des entités est interdite. Par exemple, les administrateurs informatiques ne peut pas créer des boîtes aux lettres partagées et des utilisateurs de copier (via le champ Cc ou Cci, ou une règle de transport) une boîte aux lettres partagée dans le but explicit de l’archivage. <br/> <sup>3</sup> pour une liste des versions prises en charge de Microsoft Outlook, voir [Fonctionnalités Client dans l’archivage Exchange Online](client-features.md). 
- <br/><sup>4</sup> azure la Protection des informations n’est pas incluse, mais peut être achetée en tant que module complémentaire séparé et activera les fonctionnalités d’Information Rights Management (IRM) pris en charge. Certaines fonctionnalités de Protection des informations Azure requièrent un abonnement à Office 365 ProPlus, qui n’est pas inclus avec Office 365 entreprise Essentials, Office 365 entreprise Premium, Office 365 entreprise E1, Office 365 éducation ou Office 365 entreprise F1. <br/><sup>5</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge. 
+ <br/><sup>2</sup> une archive inaltérable ne peut être utilisée que pour archiver des messages pour un seul utilisateur ou une seule entité pour laquelle une licence a été appliquée. L'utilisation d'une archive inaltérable comme moyen de stocker des messages électroniques à partir de plusieurs utilisateurs ou entités est interdite. Par exemple, les administrateurs informatiques ne peuvent pas créer de boîtes aux lettres partagées et faire en sorte que les utilisateurs copient (via le champ CC ou CCI, ou via une règle de transport) une boîte aux lettres partagée à des fins d'archivage. <br/> <sup>3</sup> pour obtenir la liste des versions prises en charge de Microsoft Outlook, consultez la rubrique [client Features in Exchange Online Archiving](client-features.md). 
+ <br/><sup>4</sup> Azure information protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d'activer les fonctionnalités de gestion des droits relatifs à l'information (IRM). Certaines fonctionnalités Azure information protection requièrent un abonnement à Office 365 proPlus, qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 entreprise E1, Office 365 éducation ou Office 365 Enterprise F1. <br/><sup>5</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge. 
  <br/><sup>6</sup> Lorsque vous placez une boîte aux lettres en conservation inaltérable ou en conservation pour litige, la conservation porte à la fois sur la boîte aux lettres d'archivage et la boîte aux lettres principale. 
