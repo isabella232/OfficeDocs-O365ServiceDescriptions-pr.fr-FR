@@ -10,31 +10,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
-description: En réponse aux exigences uniques et évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 américains (orOffice 365 américains). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques à Office 365 américains. Il est recommandé de lire cette section supplémentaire avec les Descriptions de Service Office 365.
-ms.openlocfilehash: b3c4a6ff79be71a288752349b5b6c6c7c7587ab3
-ms.sourcegitcommit: ddfa315cedb1f3c5a5ff94cc33c9b591d396901d
+description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans pour le gouvernement des États-Unis Office 365 (orOffice 365). Cette section fournit une vue d'ensemble des fonctionnalités propres à Office 365 le gouvernement américain. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
+ms.openlocfilehash: 3a8270036befbb433a4ee57f797c7bd6a6028e87
+ms.sourcegitcommit: 0bfdd180b9d78419156f54116086eb8ab879a3d9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690395"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30203835"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
-En réponse aux exigences uniques et évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 américains (ou des « Office 365 américains »). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques à Office 365 américains. Il est recommandé de lire cette section supplémentaire avec les [Descriptions du Service Office 365 ](../../office-365-service-descriptions-technet-library.md).
+En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans pour le gouvernement des États-Unis Office 365 (ou «Office 365 le gouvernement américain»). Cette section fournit une vue d'ensemble des fonctionnalités propres à Office 365 le gouvernement américain. Nous vous recommandons de lire cette section supplémentaire parallèlement aux [descriptions de service Office 365 ](../../office-365-service-descriptions-technet-library.md).
   
 ## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description de service
 <a name="TopOfPage"> </a>
 
 La description de service Office 365 pour le gouvernement américain est conçue pour s'ajouter à la description de service générale Office 365. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
   
-## <a name="about-office-365-us-government-environments"></a>À propos des environnements d’Office 365 américains
+## <a name="about-office-365-us-government-environments"></a>À propos des environnements Office 365 pour le gouvernement américain
 <a name="BM1_About"> </a>
 
 Les plans Office 365 pour le gouvernement américain sont proposés sous forme d'abonnements mensuels et peuvent être concédés sous licence pour un nombre illimité d'utilisateurs. 
   
-- L’environnement **Office 365 GCC** prévoit le respect Federal exigences en matière de services en nuage, y compris FedRAMP modéré et judiciaires et systèmes d’information impôts (types de données CJI et FTI). 
+- L'environnement **GCC d'Office 365** fournit la conformité aux exigences fédérales pour les services Cloud, notamment FedRAMP modérée et les exigences en matière de systèmes d'information sur la justice pénale et sur la fiscalité fédérale (types de données CJI et FTI). 
     
-- Les environnements **DoD et Office 365 GCC haute** remettre conformité avec service de défense exigences les consignes de sécurité, défense Federal Acquisition réglementations supplément (DFARS) et le trafic International dans les réglementations armes (ITAR). 
+- Les environnements **GCC High et DoD d'Office 365** sont conformes aux directives relatives aux exigences en matière de sécurité du département de la défense, du supplément DFARS (Defense Federal acquisition Regulations) et du trafic international en matière de réglementations sur les armes (ITAR). 
     
 Outre les caractéristiques et les fonctionnalités d'Office 365, les organisations qui utilisent Office 365 pour le gouvernement américain bénéficient des fonctionnalités suivantes, qui sont propres à Office 365 pour le gouvernement américain :
   
@@ -51,9 +51,9 @@ Outre les caractéristiques et les fonctionnalités d'Office 365, les organisati
 ## <a name="customer-eligibility"></a>Conditions d'éligibilité des clients
 <a name="BM2-customer"> </a>
 
-Office 365 américaine est disponible (1) nombre d’US federal, tribal local, état, et gouvernementales territoriale et (2) autres entités qui gèrent les données sont soumis aux conditions requises et aux réglementations gouvernementales et où utilisent d’Office 365 américains approprié répondre à ces exigences, soumis à la validation du droit. Validation du droit par Microsoft inclura confirmation de gérer le trafic International dans armes réglementations (ITAR), données soumis à la stratégie de judiciaires informations Services (CJIS) le l’usage ou d’autres données données régulé-gouvernement ou contrôlées. Validation peut nécessiter une preuve d’inscription avec le service d’état d’US données ITAR ou la participation par une entité gouvernementale avec la configuration requise pour la gestion des données. L’environnement Office 365 DoD est à l’usage exclusif du département de la défense des États-Unis.
+Office 365 le gouvernement américain est disponible pour (1) les entités américaines Federal, State, local, tribal et territorial territoriale, et (2) les autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et où l'utilisation d'Office 365 le gouvernement américain est approprié pour répondre à ces exigences, sous réserve de validation de l'éligibilité. La validation de l'éligibilité par Microsoft inclut la confirmation de la gestion des données soumises au trafic international dans le cadre des réglementations sur les armes (ITAR), des données d'application de la Loi, soumises à la stratégie CJIS (pénale pénal Information Services) du FBI ou à d'autres données réglementées ou contrôlées. La validation peut exiger la preuve de l'inscription auprès du ministère américain de l'État pour les données ITAR ou le parrainage par une entité gouvernementale avec des exigences spécifiques en matière de gestion des données. Office 365 DoD-Environment est destiné à l'usage exclusif du ministère de la défense des États-Unis.
   
-Alors que les critères droit sont cohérentes entre les offres Office 365 américains, Microsoft correspond uniquement à DFARS ITAR contrat langue pour l’environnement GCC haute.
+Alors que les critères d'éligibilité sont cohérents entre les offres gouvernementales américaines d'Office 365, Microsoft accepte uniquement les langues de contrat DFARS et ITAR pour l'environnement de GCC High.
   
 En cas de questions sur ces conditions d'éligibilité pour Office 365 pour le gouvernement américain, les entités sont invitées à consulter leur équipe de compte.
   
@@ -93,7 +93,7 @@ L'accès au contenu client Office 365 pour le gouvernement américain par les ad
   
 ||||
 |:-----|:-----|:-----|
-|**Filtrage des antécédents** <br/> |**GCC** <br/> |**GCC Dod et haut niveau** <br/> |
+|**Filtrage des antécédents** <br/> |**GCC** <br/> |**GCC High et DoD** <br/> |
 |Vérification de la citoyenneté américaine  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification de l'expérience professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification de la formation professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
@@ -102,36 +102,36 @@ L'accès au contenu client Office 365 pour le gouvernement américain par les ad
 |Liste du Bureau du contrôle des avoirs étrangers (OFAC)  <br/> |Oui  <br/> |Oui  <br/> |
 |Liste du Bureau de l'industrie et de la sécurité (BIS)  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification basée sur les empreintes digitales enregistrées dans les bases de données criminelles du FBI  <br/> |Oui  <br/> |Oui  <br/> |
-|État local CJIS judiciaires minutieuse  <br/> |Oui<sup>1</sup>   <br/> |Non  <br/> |
+|État local CJIS vérification en arrière-plan pénale  <br/> |Oui<sup>1</sup>   <br/> |Non  <br/> |
 |Enquête DOD IT-2 en fonction d'OPM niveau 3  <br/> |Non  <br/> |Clients DOD SRG L5 uniquement  <br/> |
 
-<sup>1</sup> pour les États inscrits au programme MSFT ayant droit à nuage CJIS
+<sup>1</sup> pour les États membres du programme msft Govt Cloud CJIS
    
 [Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
   
-## <a name="fasttrack-center-onboarding-assistance"></a>Centre FastTrack embarquement Assistance
+## <a name="fasttrack-center-onboarding-assistance"></a>Assistance à l'intégration du centre FastTrack
 <a name="BM5-Restricted"> </a>
 
-Avec l’avantage de centre FastTrack pour Office 365<sup>1</sup>, vous travaillez à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 à utiliser et le plan de déploiement et d’utilisation au sein de votre organisation. Le processus de FastTrack fournit des services d’adoption incorporation et l’utilisateur. 
+Avec le centre FastTrack pour Office 365<sup>1</sup>, vous travaillez à distance avec des spécialistes FastTrack pour obtenir votre environnement Office 365 prêt à être utilisé et planifier le déploiement et l'utilisation au sein de votre organisation. Le processus FastTrack fournit des services d'intégration et d'adoption par les utilisateurs. 
   
 L’intégration se compose des éléments suivants :
   
-- Principaux embarquement - il s’agit de tâches requises pour la configuration du client et l’intégration avec Azure Active Directory (AD Azure), si nécessaire. Principaux embarquement fournit également la ligne de base pour l’intégration autres services éligibles.
+- Intégration de base: tâches requises pour la configuration du client et l'intégration à Azure Active Directory (Azure AD) si nécessaire. L'intégration de base fournit également la ligne de base pour l'intégration d'autres services éligibles.
     
-- Intégration de service et de migration - tâches d’intégration de Service activer des scénarios dans votre client. Migration des données (y compris le courrier électronique et fichiers) est traitée dans la [Migration des données](https://aka.ms/whatcanmigrate). <sup>2</sup>
+- Intégration de services les tâches d'intégration de service de migration permettent de créer des scénarios dans votre client. La migration des données (y compris la messagerie électronique et les fichiers) est décrite dans la [migration de données](https://aka.ms/whatcanmigrate). <sup>2</sup>
     
 Les services d’adoption utilisateur se composent de tâches qui vous aident à vérifier que vos utilisateurs connaissent les services éligibles et qu’ils peuvent les utiliser pour dynamiser la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
   
-Vous pouvez trouver des informations spécifiques sur le processus de centre FastTrack [ici](https://aka.ms/whatistheprocess). Pour une répartition des rôles d’engagement et les responsabilités, veuillez consulter le [FastTrack responsabilités](https://aka.ms/whatdoesftcdo) ainsi que [Vos responsabilités](https://aka.ms/whatdowedo).
+Vous trouverez des informations spécifiques sur le processus du centre FastTrack [ici](https://aka.ms/whatistheprocess). Pour une répartition des rôles et des responsabilités des engagements, veuillez consulter les [responsabilités de FastTrack](https://aka.ms/whatdoesftcdo) ainsi que [vos responsabilités](https://aka.ms/whatdowedo).
   
-<sup>1</sup> , vous devez acheter des licences à partir de la liste des [plans éligibles](https://aka.ms/whocanbenefit) pour recevoir des services FastTrack, au moins 50 
+<sup>1</sup> vous devez acheter au moins 50 licences dans la liste des [offres éligibles](https://aka.ms/whocanbenefit) pour recevoir les services FastTrack, 
   
-<sup>2</sup> les services de Migration de données sont disponibles pour les clients Office 365 avec des licences d’au moins 500. 
+<sup>2</sup> les services de migration de données sont disponibles pour les clients Office 365 avec 500 ou plus de licences. 
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrations de données effectuées par FastTrack
 <a name="BM5-Restricted"> </a>
 
-Les clients qui choisissent l’avantage de migration [FastTrack](https://fasttrack.microsoft.com/) devront accorder l’accès à l’équipe de gestion des migrations de leurs données. Ce personnel est des citoyens américains et subissent les vérifications d’arrière-plan suivantes avant d’effectuer des migrations pour les clients des services Office 365 américains. 
+Les clients qui choisissent l'avantage de migration [FastTrack](https://fasttrack.microsoft.com/) devront accorder l'accès à l'équipe qui gère leurs migrations de données. Ces personnes sont des citoyens américains et sont soumises aux tests de base suivants avant d'effectuer des migrations pour les clients d'Office 365 des services publics américains. 
   
 ||||
 |:-----|:-----|:-----|
@@ -139,7 +139,7 @@ Les clients qui choisissent l’avantage de migration [FastTrack](https://fasttr
 |Vérification de la citoyenneté américaine  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification de l'expérience professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification de la formation professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
-|Recherche du numéro de sécurité sociale (NAS)  <br/> |Oui  <br/> |Oui  <br/> |
+|Recherche de numéro de sécurité sociale (SSN)  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification du casier judiciaire (7 ans)  <br/> |Oui  <br/> |Oui  <br/> |
    
 [Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
@@ -162,10 +162,10 @@ Pour connaître la configuration requise pour installer et utiliser les plans Of
   
 [Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
   
-## <a name="security-amp-compliance-center"></a>Sécurité &amp; centre de conformité
+## <a name="security-amp-compliance-center"></a>Centre &amp; de sécurité conformité
 <a name="BM9-Requirements"> </a>
 
-Pour plus d’informations sur la sécurité &amp; centre de conformité et des liens vers des informations supplémentaires et la disponibilité, voir [Office 365 sécurité &amp; centre de conformité](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
+Pour plus d'informations sur &amp; le centre de sécurité conformité et des liens vers des informations supplémentaires et une disponibilité, voir [Centre de sécurité &amp; conformité Office 365](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilité des services pour chaque plan
 <a name="BM9-Requirements"> </a>
@@ -174,21 +174,21 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Services Office 365** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**Services Office 365** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Office Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
 |Office 365 ProPlus  <br/> |Non <br/> |Oui <br/> |Non <br/> |Non  <br/> |
 |Exchange Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|Skype pour les entreprises (messagerie instantanée &amp; présence)  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |
-| Services d’audioconférence vocale - système téléphonique,  <br/> |Non<sup>2, 3</sup> <br/> |Non<sup>2, 3</sup> <br/> |Oui <sup>3, 5</sup> <br/> |Non  <br/> |
-|Power BI Pro  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Oui  <br/> |Aucun<sup>2</sup> <br/> |
-|Project Online  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |
-|Yammer Entreprise  <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |Aucun<sup>4</sup> <br/> |
+|OneDrive Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
+|Skype entreprise (présence de messagerie &amp; instantanée)  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |
+| Système de téléphonie vocale, audioconférence  <br/> |Non<sup>2, 3</sup> <br/> |Non<sup>2, 3</sup> <br/> |Oui <sup>, 3, 5</sup> <br/> |Non  <br/> |
+|Power BI Pro  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
+|Project Online  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |
+|Yammer Enterprise  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
    
-> <sup>1</sup> Skype pour Business Basic est disponible pour tous les clients. Le Skype pour le client de bureau métiers est une application installée localement qui fournit la présence, la messagerie instantanée et les fonctionnalités de conférence pour les plans Office 365 comprenant Skype pour Business Online. Office 365 ProPlus, G3 et G5 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que les fonctionnalités de prise en charge, l’archivage et de conformité de téléphonie avancées. Un Skype licence entreprise Online doit être affecté pour chaque utilisateur.<br/><sup>2</sup> pas inclus mais peut être acheté en tant que module complémentaire séparé. Project Online comprend un projet Client de bureau en ligne dans le cadre de l’abonnement.<br/> <sup>3</sup> pas encore disponible dans les plans de haute GCC ou DoD, mais seront prochainement disponibles. 
-<br/><sup>4</sup> yammer Enterprise n’est pas un composant d’Office 365 américains, mais peut être acquise sans frais comme une offre autonome pour chaque utilisateur sous licence pour Office 365 GCC en. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les conventions d’entreprise et abonnement entreprise. Yammer n’est pas disponible dans GCC haute ou DoD.<br/><sup>5</sup> planifier l’appel est un module complémentaire. 
+> <sup>1</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui incluent Skype entreprise online. Office 365 proPlus, G3 et G5 incluent l'application Skype complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l'archivage et les fonctionnalités de conformité. Une licence Skype entreprise Online doit être attribuée à chaque utilisateur.<br/><sup>2</sup> non inclus, mais peut être acheté en tant que module complémentaire distinct. Project Online inclut le client de bureau Project Online dans le cadre de l'abonnement.<br/> <sup>3</sup> pas encore disponible dans les offres GCC High ou DOD, mais bientôt disponible. 
+<br/><sup>4</sup> Yammer Enterprise n'est pas un composant d'Office 365 le gouvernement américain, mais peut être acquis gratuitement en tant qu'offre autonome pour chaque utilisateur titulaire d'une licence pour Office 365 dans GCC. Cette offre est actuellement limitée aux clients qui achètent Office 365 GCC sous les contrats d'entreprise et les contrats d'abonnement Enterprise. Yammer n'est pas disponible dans GCC High ou DoD.<br/><sup>5</sup> le plan d'appel est un module complémentaire. 
   
 ## <a name="platform-features"></a>Fonctionnalités de la plateforme
 <a name="BM7-Platform"> </a>
@@ -197,32 +197,32 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |**Administration d'Office 365** <br/> |||||
 |Administration d'Office 365 à l'aide du centre d'administration Office 365  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui  <br/> |Oui<sup>16</sup> <br/> |
 |Gestion des paramètres de service principal à partir d'Office 365  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |Utilisation de Windows PowerShell pour gérer Office 365  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|Protéger le contenu à l'aide d'Azure Information Protection  <br/> |Aucun<sup>1</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup>  <br/> |Aucun<sup>1</sup> <br/> |
-|**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>1</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup>  <br/> |N °<sup>1</sup> <br/> |
+|**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Microsoft Flow  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
 |Microsoft Forms  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft MyAnalytics  <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |
+|Microsoft MyAnalytics  <br/> |N °<sup>9, 12, 15</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |Oui<sup>, 9</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |
 |Microsoft Planner  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
-|Microsoft StaffHub  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
+|Microsoft StaffHub  <br/> |Non <br/> |Non <br/> |Non <br/> |Non <br/> |
 |Microsoft Stream  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Non  <br/> |
-|Microsoft Sway  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
-|Microsoft Teams  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|Office Delve  <br/> |Oui<sup>17</sup> <br/> |Oui<sup>17</sup> <br/> |Oui  <br/> |Oui<sup>17</sup> <br/> |
+|Microsoft Sway  <br/> |Non <br/> |Non <br/> |Non <br/> |Non<br/> |
+|Microsoft Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<br/> |
+|Office Delve  <br/> |Oui,<sup>17</sup> <br/> |Oui,<sup>17</sup> <br/> |Oui  <br/> |Oui,<sup>17</sup> <br/> |
 |Groupes Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft Stream  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Non  <br/> |
-|**[Gestion des comptes d'utilisateur](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|Microsoft Stream  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Non  <br/> |
+|**[Gestion des comptes d'utilisateur](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Identité de nuage  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Identités fédérées (authentification unique)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |	Authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Authentification de facteurs de téléphone  <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui  <br/> |Oui<sup>9</sup> <br/> |
+|Authentification par facteur de téléphone  <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui  <br/> |Oui<sup>9</sup> <br/> |
 |Configuration du bureau Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des utilisateurs avec Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Téléchargement en bloc à l'aide de fichiers .csv  <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui  <br/> |Oui<sup>9</sup> <br/> |
@@ -236,16 +236,16 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Plusieurs rôles d'administrateur disponibles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Autoriser un partenaire à administrer Office 365 pour vous  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
 |Services Azure Active Directory  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Domaines](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**[Domaines](../../office-365-platform-service-description/domains.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Ajouter des domaines personnalisés de 2ème niveau, comme fourthcoffee.com  <br/> |Office365_Gov_G4  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ajouter des domaines personnalisés de 3ème niveau, comme marketing.fourthcoffee.com  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ajouter jusqu'à 900 domaines personnalisés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[État des services](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
-|Informations d’état disponibles dans la page **intégrité du Service** ou **l’état du Service**  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |
-|État des alertes individuelles disponible dans le tableau de bord du centre d'administration Office 365  <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |
+|**[État des services](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
+|Informations d'état disponibles dans **** la page État du service ou **État** du service  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
+|État des alertes individuelles disponible dans le tableau de bord du centre d'administration Office 365  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
 |Flux RSS **État du service**  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Rapports](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**[Rapports](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Boîtes aux lettres actives et inactives  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Boîtes aux lettres supprimées et nouvelles  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Groupes nouveaux et supprimés  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
@@ -270,28 +270,28 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Système d'exploitation utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|**[Mises à jour de services](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**[Mises à jour de services](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au Centre de messages lorsqu'une action est requise  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|Roadmap.office.com pour certaines mises à jour de service  <br/> |Aucun<sup>10, 13</sup> <br/> |Aucun<sup>10, 13</sup> <br/> |Aucun<sup>10, 13</sup> <br/> |Aucun<sup>10, 13</sup> <br/> |
-|Option pour activer la version ciblés  <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |
-|**[Aide et formation](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|Roadmap.office.com pour certaines mises à jour de service  <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |
+|Option permettant d'activer la publication ciblée  <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |
+|**[Aide et formation](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Aide en ligne  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Communauté  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Autres ressources d'aide autonome  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Auto-formation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Réseau](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**[Réseau](../../office-365-platform-service-description/networking.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Protocoles IPv4 et IPv6  <br/> |Office365_Gov_G4  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Approbation** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**Approbation** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |**[Politique de confidentialité, sécurité et transparence](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
-|Gouvernance des données avancée  <br/> |Aucun<sup>12</sup> <br/> |Aucun<sup>12</sup> <br/> |Oui <br/> |Aucun<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |Aucun<sup>11, 12</sup> <br/> |Aucun<sup>11, 12</sup> <br/> |Oui<sup>11</sup> <br/> |Aucun<sup>11, 12</sup> <br/> |
-|Protection avancée contre les menaces  <br/> |Aucun<sup>12</sup> <br/> |Aucun<sup>12</sup> <br/> |Oui  <br/> |Aucun<sup>12</sup> <br/> |
-|Référentiel sécurisé du client  <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Aucun<sup>9, 12, 15</sup> <br/> |
-|eDiscovery (découverte électronique) avancée Office 365  <br/> |Aucun<sup>12</sup> <br/> |Aucun<sup>12</sup> <br/> |Oui  <br/> |Aucun<sup>12</sup> <br/> |
-|Secure Score<sup>14</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9, 15</sup> <br/> |Oui<sup>9, 15</sup> <br/> |
-|Chiffrement de messages Office  <br/> |Non  <br/> |Oui <br/> |Non <br/> |Non  <br/> |
-|Intelligence des menaces  <br/> |Aucun<sup>12</sup> <br/> |Aucun<sup>12</sup> <br/> |Oui <br/> |Aucun<sup>12</sup> <br/> |
+|Gouvernance des données avancée  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
+|Cloud App Security  <br/> |N °<sup>11, 12</sup> <br/> |N °<sup>11, 12</sup> <br/> |Oui<sup>11</sup> <br/> |N °<sup>11, 12</sup> <br/> |
+|Protection avancée contre les menaces  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui  <br/> |N °<sup>12</sup> <br/> |
+|Référentiel sécurisé du client  <br/> |N °<sup>9, 12, 15</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |Oui<sup>, 9</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |
+|eDiscovery (découverte électronique) avancée Office 365  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui  <br/> |N °<sup>12</sup> <br/> |
+|Secure Score<sup>14</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
+|Chiffrement des messages Office  <br/> |Non  <br/> |Oui <br/> |Non <br/> |Non  <br/> |
+|Intelligence des menaces  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
 |**[Conformité [ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |Évaluations SAS 70 / SSAE16  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
 |Certification ISO 27001  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
@@ -303,23 +303,23 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |PCI-DSS niveau 1  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |Données PAN sous régie PCI  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |**[Continuité de service](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
-|Utilisation de BlackBerry Internet Service (BIS)  <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |Aucun<sup>2</sup> <br/> |
+|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
+|Utilisation de BlackBerry Internet Service (BIS)  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |
 |**[Partenaires](../../office-365-platform-service-description/partners.md)** <br/> |||||
-|Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié  <br/> |Aucun<sup>11</sup> <br/> |Aucun<sup>11</sup> <br/> |Aucun<sup>11</sup> <br/> |Aucun<sup>11</sup> <br/> |
-|Administration déléguée  <br/> |Aucun<sup>11</sup> <br/> |Aucun<sup>11</sup> <br/> |Aucun<sup>11</sup> <br/> |Aucun<sup>11</sup> <br/> |
+|Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié  <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |
+|Administration déléguée  <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |
 |**[Contrat de niveau de service](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |**[Droits d'utilisation de logiciels](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
    
-> <sup>1</sup> la Protection des informations azure n’est pas incluse, mais peut être achetée en tant que module complémentaire séparé et activera les fonctionnalités d’Information Rights Management (IRM) pris en charge. Certaines fonctionnalités de Protection des informations Azure requièrent un abonnement à Office 365 ProPlus, qui n’est pas inclus avec Office 365 nous pour le gouvernement G1 ou Office 365 des F1 des administrations US. ><br/><sup>2</sup> les clients BBCS existant et BIS peuvent continuer à utiliser le service. Nouveaux clients ne sont pas acceptées.<br/><sup>3</sup> si vous utilisez la synchronisation d’annuaires, vous devez supprimer des comptes ou changer des mots de passe à l’aide d’Active Directory, au lieu du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell. 
-<br/><sup>4</sup> si la synchronisation de mot de passe, les utilisateurs doivent changer leur mot de passe dans Active Directory local. 
-<br/><sup>5</sup> pour apprendre à définir des stratégies de gestion des mots de passe en libre service pour les utilisateurs, voir [Gérer les mots de passe Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). <br/><sup>6</sup> vous pouvez avoir qu’un seul site Web public avec Office 365, sauf si vous avez mis à niveau depuis une version antérieure d’Office 365. Dans ce cas, vous avez deux sites Web publics, mais un seul d'entre eux peut être hébergé par un nom de domaine personnalisé. Pour plus d’informations sur l’utilisation des deux sites Web pour les abonnements de l’entreprise, voir [travail avec vos sites Web publics deux Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un autre abonnement, apprenez-en davantage sur les sites Web publics à [obtenir des informations sur l’hébergement de site Web partenaire et sites Web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).<br/><sup>7</sup> sièges réduction qui ont été achetés avec une remise de termes peuvent être soumis à un coût de fin au plus tôt. Il n’est pas applicable aux abonnements payés sur une base mensuelle.<br/><sup>8</sup> les plans suivants ne prennent pas en charge les modifications siège de licence à partir du centre d’administration Office 365 : > Office 365 nous pour le gouvernement G1 > Office 365 nous pour le gouvernement G3 > Office 365 nous pour le gouvernement K1 <br/><sup>9</sup> pas encore disponible dans GCC haute, mais seront prochainement disponibles.
-<br/><sup>10</sup> pour Office 365 nous pour le gouvernement G1, G3 et F1, version cibles et Office 365 pour la feuille de route business appliquer ; Toutefois, il est peut-être quelques différences ou les retards de mises à jour de service spécifique en raison des [exigences de conformité](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263).
-<br/><sup>11</sup> pas encore disponible dans Office 365 nous offres pour le gouvernement, mais seront prochainement disponibles. ><br/><sup>12</sup> pas inclus, mais peut être acheté en tant que module complémentaire séparé dans GCC. 
-<br/><sup>13</sup> pas pris en charge pour les offres Office 365 américains. 
-<br/><sup>14</sup> disponible à l’adresse [https://securescore.office.com](https://securescore.office.com). Requiert des autorisations d’administration. Pour plus d’informations, voir [Présentation de la note de sécuriser Office 365](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>15</sup> pas encore disponible dans l’environnement DoD, mais seront prochainement disponibles. 
-<br><sup>16</sup> centre d’administration n’inclut pas Analytique d’utilisation dans des environnements conformes ou GCC haute
-<br><sup>17</sup> pas pris en charge pour les environnements haute GCC ou DoD
+> <sup>1</sup> Azure information protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d'activer les fonctionnalités de gestion des droits relatifs à l'information (IRM). Certaines fonctionnalités Azure information protection nécessitent un abonnement à Office 365 proPlus, qui n'est pas inclus dans Office 365 pour le gouvernement américain G1 ou Office 365 le gouvernement américain F1. Brut<br/><sup>2</sup> les clients BBCS et bis existants peuvent continuer à utiliser le service. Les nouveaux clients ne sont pas acceptés.<br/><sup>3</sup> si vous utilisez la synchronisation d'annuaires, vous devez supprimer des comptes ou modifier des mots de passe à l'aide d'Active Directory, plutôt que du portail Office 365 ou en utilisant le module Azure Active Directory pour Windows PowerShell. 
+<br/><sup>4</sup> si vous utilisez la synchronisation de mot de passe, les utilisateurs doivent changer leur mot de passe dans l'annuaire Active Directory local. 
+<br/><sup>5</sup> pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [gestion des mots de passe dans Azure ad](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). <br/><sup>6</sup> vous ne pouvez avoir qu'un seul site Web public avec Office 365, sauf si vous avez effectué une mise à niveau à partir d'une version antérieure d'Office 365. Dans ce cas, vous avez deux sites Web publics, mais un seul d'entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d'informations sur l'utilisation des deux sites Web pour les abonnements d'entreprise, consultez la rubrique [utilisation de vos deux sites Web publics Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous disposez d'un autre abonnement, en savoir plus sur les sites Web publics pour [en savoir plus sur l'hébergement de sites Web partenaires et sur les sites Web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).<br/><sup>7</sup> la réduction des sièges qui ont été achetés avec un escompte de terme peut être soumise à des frais de résiliation anticipée. Ceci ne s'applique pas aux abonnements payés sur une base mensuelle.<br/><sup>8</sup> les plans suivants ne prennent pas en charge les modifications de siège de licence à partir du centre d'administration Office 365: > Office 365 pour le gouvernement américain G1 > Office 365 le gouvernement américain G3 > Office 365 pour le gouvernement américain K1 <br/><sup>9</sup> pas encore disponible dans GCC High, mais bientôt disponible.
+<br/><sup>10</sup> pour Office 365 le gouvernement américain G1, G3 et F1, la version ciblée et la feuille de route Office 365 pour les entreprises; Toutefois, il peut y avoir des différences ou des retards pour les mises à jour de service spécifiques en raison des [exigences de conformité](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263).
+<br/><sup>11</sup> pas encore disponible dans Office 365 les offres gouvernementales américaines, mais bientôt disponible. ><br/><sup>12</sup> non inclus, mais peut être acheté séparément en tant que module complémentaire dans GCC. 
+<br/><sup>13</sup> non pris en charge pour les offres gouvernementales américaines Office 365. 
+<br/><sup>14</sup> disponible à [https://securescore.office.com](https://securescore.office.com)l'adresse. Requiert des autorisations d'administrateur. Pour plus d'informations, consultez [la rubrique Présentation du score de sécurité Office 365](https://go.microsoft.com/fwlink/?linkid=836894).<br/><sup>15</sup> pas encore disponible dans l'environnement DOD, mais bientôt disponible. 
+<br><sup>16</sup> le centre d'administration n'inclut pas l'analyse de l'utilisation dans les environnements DoD ou GCC High
+<br><sup>17</sup> non pris en charge pour les environnements GCC High ou DoD
   
 [Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -330,7 +330,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |**Applications Office** <br/> |||||
 |[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
@@ -346,7 +346,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |[Office Mobile pour Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
 |Office Mobile pour tablettes Windows 10 <br/> |Non  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Non  <br/> |
 |Outlook pour iOS et Android<sup>5, 4</sup>  <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
-|**Enterprise Value** <br/> |**Office 365 pour le gouvernement G1 US** <br/> |**Office 365 pour le gouvernement G3 US** <br/> |**Office 365 US gouvernement G5** <br/> |**Office 365 US gouvernement F1** <br/> |
+|**Enterprise Value** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Mise en service automatisée du compte d'utilisateur  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |Interface utilisateur multilingue  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
@@ -360,7 +360,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |Analyse de feuilles de calcul Excel  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Archivage et conformité avec Exchange Online et SharePoint Online  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Prise en charge des stratégies de groupe  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|Gestion des droits à l’aide de la Protection des informations Azure  <br/> |Aucun<sup>1</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Aucun<sup>1</sup> <br/> |
+|Gestion des droits relatifs à l'information à l'aide d'Azure information protection  <br/> |N °<sup>1</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |N °<sup>1</sup> <br/> |
 |Gestion des droits relatifs à l'information à l'aide de Windows Server AD RMS  <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
 |Prise en charge Office Add-in, ActiveX et BHO  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Accès des clients OneNote aux blocs-notes sur SharePoint Server, SharePoint Online, OneDrive Entreprise et Office 365  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
@@ -378,8 +378,8 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |Mises à niveau de la version  <br/> |Non  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
    
-> <sup>1</sup> la Protection des informations azure n’est pas incluse, mais peut être achetée en tant que module complémentaire séparé et activera les fonctionnalités d’Information Rights Management (IRM) pris en charge. Certaines fonctionnalités de Protection des informations Azure requièrent un abonnement à Office 365 ProPlus, qui n’est pas inclus avec Office 365 nous pour le gouvernement G1 ou Office 365 des F1 des administrations US.<br/><sup>2</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément pour activer les fonctionnalités IRM prises en charge. 
-<br/><sup>3</sup> Skype pour Business Basic est disponible pour tous les clients. Le Skype pour le client de bureau métiers est une application installée localement qui fournit la présence, la messagerie instantanée et les fonctionnalités de conférence pour les plans Office 365 comprenant Skype pour Business Online. Office 365 ProPlus et Office 365 entreprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que les fonctionnalités de prise en charge, l’archivage et de conformité de téléphonie avancées. Un Skype licence entreprise Online doit être affecté pour chaque utilisateur. Pour plus d’informations sur les fonctionnalités de Lync Basic, voir [Skype pour le tableau de comparaison des clients professionnels en ligne](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/><sup>4</sup> pas encore disponible dans GCC haute ou environnements DoD, mais seront prochainement disponibles.
-<br/><sup>5</sup> consultez [à l’aide d’Outlook pour iOS et Android dans le nuage communautaire propre](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) pour plus d’informations.
-  <br/><sup>6</sup> pas encore disponible dans l’environnement Office 365 DoD, mais seront prochainement disponibles.
+> <sup>1</sup> Azure information protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d'activer les fonctionnalités de gestion des droits relatifs à l'information (IRM). Certaines fonctionnalités Azure information protection nécessitent un abonnement à Office 365 proPlus, qui n'est pas inclus dans Office 365 pour le gouvernement américain G1 ou Office 365 le gouvernement américain F1.<br/><sup>2</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge. 
+<br/><sup>3</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui incluent Skype entreprise online. Office 365 proPlus et Office 365 Enterprise E3 incluent l'application Skype complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l'archivage et les fonctionnalités de conformité. Une licence Skype entreprise Online doit être attribuée à chaque utilisateur. Pour plus d'informations sur les fonctionnalités de Lync Basic, reportez-vous aux [tableaux de comparaison des clients Skype entreprise Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/><sup>4</sup> pas encore disponible dans les environnements GCC High ou DOD, mais bientôt disponible.
+<br/><sup>5</sup> pour plus d'informations, consultez [la rubrique utilisation d'Outlook pour iOS et Android dans le nuage communautaire du gouvernement](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) .
+  <br/><sup>6</sup> pas encore disponible dans l'environnement DoD Office 365, mais bientôt disponible.
 <br/><br/>[Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
