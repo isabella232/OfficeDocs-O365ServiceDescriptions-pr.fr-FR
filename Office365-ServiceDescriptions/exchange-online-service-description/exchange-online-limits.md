@@ -3,7 +3,7 @@ title: Limites d'Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 02/19/2019
+ms.date: 02/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
-ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
+ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30103112"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199919"
 ---
 # <a name="exchange-online-limits"></a>Limites d'Exchange Online
 
@@ -246,6 +246,8 @@ Les limites suivantes s'appliquent à chaque message électronique.
     > [!NOTE]
     > Certains clients de messagerie électronique peuvent avoir des limites de taille de message inférieures ou peuvent limiter la taille d'une pièce jointe individuelle à une valeur inférieure à la limite de taille de message d'Exchange Online. 
   
+- **Limite de taille d'en-tête de message** Spécifie la taille maximale de tous les champs d'en-tête de message dans un message. La limite actuelle est de 256 Ko. Si la taille totale de tous les en-têtes de message dépasse 256 Ko, Exchange Online rejette le message avec l'erreur «552 5.3.4 la taille de l'en-tête dépasse la taille maximale fixe». La taille du corps du message ou des pièces jointes n'est pas prise en compte. Étant donné que les champs d'en-tête sont en texte brut, la taille de l'en-tête est déterminée par le nombre de caractères dans chaque champ d'en-tête et par le nombre total de champs d'en-tête. Chaque caractère de texte occupe 1 octet.
+
 - **Limite de longueur de l'objet** Nombre maximal de caractères de texte autorisés dans la ligne Objet d'un message électronique. 
     
 - **Limite du nombre de pièces jointes** Nombre maximal de fichiers en pièce jointe autorisés dans un message électronique. Même si la taille totale de toutes les pièces jointes n'enfreint pas la limite de taille de message, il existe une limite portant sur le nombre de pièces jointes autorisées dans le message. Cette limite est contrôlée par la limite de message à parties multiples. 
