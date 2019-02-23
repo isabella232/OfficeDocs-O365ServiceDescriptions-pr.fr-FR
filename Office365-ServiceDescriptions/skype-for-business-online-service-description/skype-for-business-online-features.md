@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration de Skype pour les fonctionnalités en ligne Business dans Set up Skype pour Business Online.
-ms.openlocfilehash: eb0822385e6d2b07a356c069fabf3726ee27dc4b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype entreprise Online dans la configuration de Skype entreprise online.
+ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035566"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210257"
 ---
 # <a name="skype-for-business-online-features"></a>Fonctionnalités Skype Entreprise Online
 
-Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration de Skype pour les fonctionnalités entreprise en ligne dans le [jeu de Skype pour Business Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
+Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype entreprise Online dans la configuration de [Skype entreprise Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
 ## <a name="clients-for-skype-for-business-online"></a>Clients pour Skype Entreprise Online
 <a name="BKMK_Clients"> </a>
@@ -110,7 +110,7 @@ Skype Entreprise Online fournit donc aux administrateurs du client les outils in
   
 - Portail Microsoft Office 365
     
-- Centre d'administration Microsoft Office 365
+- Centre d'administration Microsoft 365
     
 - Centre d'administration de Skype Entreprise
     

@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 fournit les ressources de formation aide suivante.
-ms.openlocfilehash: fb923c0b2323011c9ae61d0ca748af017cd22a06
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 fournit les ressources d'aide et de formation suivantes.
+ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035588"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210287"
 ---
 # <a name="help-and-training"></a>Aide et formation
 
-Microsoft Office 365 fournit les ressources de formation aide suivante.
+Microsoft Office 365 fournit les ressources d'aide et de formation suivantes.
   
 ## <a name="online-help"></a>Aide en ligne
 <a name="BKMK_Online_Help"> </a>
 
-Des articles et vidéos d'aide sont disponibles à partir de n'importe quel lien d'aide en ligne du service, y compris le point d'interrogation situé dans la barre de navigation supérieure du portail Office 365 et du Centre d'administration Office 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Les articles d'aide et les vidéos sont disponibles à partir de n'importe quel lien d'aide incorporé dans le service, y compris l'icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d'administration Microsoft 365. Vous pouvez également effectuer une recherche dans toute l' [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)aide d'Office 365 sur. 
   
 ## <a name="training"></a>Formation
 <a name="BKMK_Online_Help"> </a>
@@ -124,23 +124,23 @@ Les ressources d'aide et de formation sont disponibles dans les langues suivante
 |Arabe  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Bulgare  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Chinois simplifié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Chinois traditionnel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Chinois traditionnel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Tchèque  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Danois  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Néerlandais  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Danois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Néerlandais  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Estonien  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Finnois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Français  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Allemand  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Allemand  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Grec  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Hongrois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Italien  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Japonais  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Italien  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Japonais  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Coréen  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Letton  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Lituanien  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Norvégien  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Polonais  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Norvégien  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Polonais  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Portugais  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Portugais (Brésil)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roumain  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -149,7 +149,7 @@ Les ressources d'aide et de formation sont disponibles dans les langues suivante
 |Slovaque  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Slovène  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Espagnol  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Suédois  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Suédois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Thaïlandais  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Turc  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Ukrainien  <br/> |Oui  <br/> | Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |

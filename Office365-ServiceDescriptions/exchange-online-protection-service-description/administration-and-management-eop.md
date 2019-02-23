@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: Cette section décrit les interfaces de gestion qui sont disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 67a8051b2b3b7136a981f8c8b1203f74a7c018f5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Cette section décrit les interfaces de gestion disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035565"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210157"
 ---
 # <a name="administration-and-managementeop"></a>Administration et gestion [EOP]
 
-Cette section décrit les interfaces de gestion qui sont disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
+Cette section décrit les interfaces de gestion disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
   
 Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
   
-## <a name="access-to-the-office-365-admin-center"></a>Accès au Centre d'administration Office 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Accès au centre d'administration Microsoft 365
 <a name="BKMK_accesstotheoffice365admincenter"> </a>
 
-Le centre d'administration Microsoft Office 365 est le portail web depuis lequel l'administrateur de services de chaque entreprise peut gérer des comptes et des paramètres d'utilisateur pour chacun des services Office 365 auxquels l'entreprise souscrit. Le Centre d'administration Office 365 permet aux administrateurs de suivre des liens vers le CAE, où ils peuvent gérer des paramètres spécifiques d'EOP.
+Le centre d'administration Microsoft 365 est le portail Web à partir duquel les administrateurs de services de chaque entreprise peuvent gérer les comptes d'utilisateur et les paramètres de chaque service Office 365 auquel ils s'abonnent. À partir du centre d'administration 365 de Microsoft, les administrateurs peuvent suivre des liens vers le centre d'administration Exchange, où ils peuvent gérer des paramètres spécifiques d'EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Accès au Centre d'administration Exchange
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>

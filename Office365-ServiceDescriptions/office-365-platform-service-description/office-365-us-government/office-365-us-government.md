@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans pour le gouvernement des États-Unis Office 365 (orOffice 365). Cette section fournit une vue d'ensemble des fonctionnalités propres à Office 365 le gouvernement américain. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: 3a8270036befbb433a4ee57f797c7bd6a6028e87
-ms.sourcegitcommit: 0bfdd180b9d78419156f54116086eb8ab879a3d9
+ms.openlocfilehash: 34f0ce3259ec3a1a1c4c1111e69026e622861ad8
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/22/2019
-ms.locfileid: "30203835"
+ms.locfileid: "30210437"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -199,7 +199,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |**Administration d'Office 365** <br/> |||||
-|Administration d'Office 365 à l'aide du centre d'administration Office 365  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui  <br/> |Oui<sup>16</sup> <br/> |
+|AdMinistrer Office 365 à l'aide du centre d'administration Microsoft 365  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui  <br/> |Oui<sup>16</sup> <br/> |
 |Gestion des paramètres de service principal à partir d'Office 365  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |Utilisation de Windows PowerShell pour gérer Office 365  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>1</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup>  <br/> |N °<sup>1</sup> <br/> |
@@ -211,10 +211,10 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Microsoft MyAnalytics  <br/> |N °<sup>9, 12, 15</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |Oui<sup>, 9</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |
 |Microsoft Planner  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft PowerApps  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
-|Microsoft StaffHub  <br/> |Non <br/> |Non <br/> |Non <br/> |Non <br/> |
+|Microsoft StaffHub  <br/> |Non <br/> |Non <br/> |Non <br/> |Non<br/> |
 |Microsoft Stream  <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Non  <br/> |
-|Microsoft Sway  <br/> |Non <br/> |Non <br/> |Non <br/> |Non<br/> |
-|Microsoft Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<br/> |
+|Microsoft Sway  <br/> |Non <br/> |Non <br/> |Non <br/> |Non <br/> |
+|Microsoft Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> |
 |Office Delve  <br/> |Oui,<sup>17</sup> <br/> |Oui,<sup>17</sup> <br/> |Oui  <br/> |Oui,<sup>17</sup> <br/> |
 |Groupes Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Stream  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Non  <br/> |
@@ -243,7 +243,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[État des services](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Informations d'état disponibles dans **** la page État du service ou **État** du service  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
-|État des alertes individuelles disponible dans le tableau de bord du centre d'administration Office 365  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
+|État des alertes individuelles disponible dans le tableau de bord du centre d'administration Microsoft 365  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
 |Flux RSS **État du service**  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Rapports](../../office-365-platform-service-description/reports.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Boîtes aux lettres actives et inactives  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
@@ -313,7 +313,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
    
 > <sup>1</sup> Azure information protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d'activer les fonctionnalités de gestion des droits relatifs à l'information (IRM). Certaines fonctionnalités Azure information protection nécessitent un abonnement à Office 365 proPlus, qui n'est pas inclus dans Office 365 pour le gouvernement américain G1 ou Office 365 le gouvernement américain F1. Brut<br/><sup>2</sup> les clients BBCS et bis existants peuvent continuer à utiliser le service. Les nouveaux clients ne sont pas acceptés.<br/><sup>3</sup> si vous utilisez la synchronisation d'annuaires, vous devez supprimer des comptes ou modifier des mots de passe à l'aide d'Active Directory, plutôt que du portail Office 365 ou en utilisant le module Azure Active Directory pour Windows PowerShell. 
 <br/><sup>4</sup> si vous utilisez la synchronisation de mot de passe, les utilisateurs doivent changer leur mot de passe dans l'annuaire Active Directory local. 
-<br/><sup>5</sup> pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [gestion des mots de passe dans Azure ad](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). <br/><sup>6</sup> vous ne pouvez avoir qu'un seul site Web public avec Office 365, sauf si vous avez effectué une mise à niveau à partir d'une version antérieure d'Office 365. Dans ce cas, vous avez deux sites Web publics, mais un seul d'entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d'informations sur l'utilisation des deux sites Web pour les abonnements d'entreprise, consultez la rubrique [utilisation de vos deux sites Web publics Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous disposez d'un autre abonnement, en savoir plus sur les sites Web publics pour [en savoir plus sur l'hébergement de sites Web partenaires et sur les sites Web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).<br/><sup>7</sup> la réduction des sièges qui ont été achetés avec un escompte de terme peut être soumise à des frais de résiliation anticipée. Ceci ne s'applique pas aux abonnements payés sur une base mensuelle.<br/><sup>8</sup> les plans suivants ne prennent pas en charge les modifications de siège de licence à partir du centre d'administration Office 365: > Office 365 pour le gouvernement américain G1 > Office 365 le gouvernement américain G3 > Office 365 pour le gouvernement américain K1 <br/><sup>9</sup> pas encore disponible dans GCC High, mais bientôt disponible.
+<br/><sup>5</sup> pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [gestion des mots de passe dans Azure ad](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). <br/><sup>6</sup> vous ne pouvez avoir qu'un seul site Web public avec Office 365, sauf si vous avez effectué une mise à niveau à partir d'une version antérieure d'Office 365. Dans ce cas, vous avez deux sites Web publics, mais un seul d'entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d'informations sur l'utilisation des deux sites Web pour les abonnements d'entreprise, consultez la rubrique [utilisation de vos deux sites Web publics Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous disposez d'un autre abonnement, en savoir plus sur les sites Web publics pour [en savoir plus sur l'hébergement de sites Web partenaires et sur les sites Web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).<br/><sup>7</sup> la réduction des sièges qui ont été achetés avec un escompte de terme peut être soumise à des frais de résiliation anticipée. Ceci ne s'applique pas aux abonnements payés sur une base mensuelle.<br/><sup>8</sup> les plans suivants ne prennent pas en charge les modifications de siège de licence à partir du centre d'administration 365 de Microsoft: > Office 365 pour le gouvernement américain G1 > Office 365 gouvernement américain G3 > Office 365 pour le gouvernement américain K1 <br/><sup>9</sup> pas encore disponible dans GCC High, mais bientôt disponible.
 <br/><sup>10</sup> pour Office 365 le gouvernement américain G1, G3 et F1, la version ciblée et la feuille de route Office 365 pour les entreprises; Toutefois, il peut y avoir des différences ou des retards pour les mises à jour de service spécifiques en raison des [exigences de conformité](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263).
 <br/><sup>11</sup> pas encore disponible dans Office 365 les offres gouvernementales américaines, mais bientôt disponible. ><br/><sup>12</sup> non inclus, mais peut être acheté séparément en tant que module complémentaire dans GCC. 
 <br/><sup>13</sup> non pris en charge pour les offres gouvernementales américaines Office 365. 
