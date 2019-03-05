@@ -3,7 +3,7 @@ title: Office 365 pour le gouvernement américain
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 1/9/2019
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans pour le gouvernement des États-Unis Office 365 (orOffice 365). Cette section fournit une vue d'ensemble des fonctionnalités propres à Office 365 le gouvernement américain. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: 34f0ce3259ec3a1a1c4c1111e69026e622861ad8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 271cc53cdf87553d60c14c793a72509e014cc739
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210437"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379056"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -89,25 +89,8 @@ Office 365 permet d'intégrer des applications tierces dans des sites SharePoint
 ## <a name="restricted-data-access-by-administrators"></a>Accès aux données limité par les administrateurs
 <a name="BM5-Restricted"> </a>
 
-L'accès au contenu client Office 365 pour le gouvernement américain par les administrateurs Microsoft est limité aux membres du personnel qui sont citoyens américains. Ce personnel fait l'objet d'enquêtes sur son passé, conformément aux normes gouvernementales en vigueur.
-  
-||||
-|:-----|:-----|:-----|
-|**Filtrage des antécédents** <br/> |**GCC** <br/> |**GCC High et DoD** <br/> |
-|Vérification de la citoyenneté américaine  <br/> |Oui  <br/> |Oui  <br/> |
-|Vérification de l'expérience professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
-|Vérification de la formation professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
-|Recherche du numéro de sécurité sociale américain (SSN)  <br/> |Oui  <br/> |Oui  <br/> |
-|Vérification du casier judiciaire (7 ans)  <br/> |Oui  <br/> |Oui  <br/> |
-|Liste du Bureau du contrôle des avoirs étrangers (OFAC)  <br/> |Oui  <br/> |Oui  <br/> |
-|Liste du Bureau de l'industrie et de la sécurité (BIS)  <br/> |Oui  <br/> |Oui  <br/> |
-|Vérification basée sur les empreintes digitales enregistrées dans les bases de données criminelles du FBI  <br/> |Oui  <br/> |Oui  <br/> |
-|État local CJIS vérification en arrière-plan pénale  <br/> |Oui<sup>1</sup>   <br/> |Non  <br/> |
-|Enquête DOD IT-2 en fonction d'OPM niveau 3  <br/> |Non  <br/> |Clients DOD SRG L5 uniquement  <br/> |
+L'accès à Office 365 le contenu client du gouvernement américain par les administrateurs Microsoft est limité au personnel filtré. Pour plus d'informations sur les niveaux de filtrage, reportez-vous à la page Description de service pour chaque environnement respectif (GCC ou GCC High et DoD). 
 
-<sup>1</sup> pour les États membres du programme msft Govt Cloud CJIS
-   
-[Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>Assistance à l'intégration du centre FastTrack
 <a name="BM5-Restricted"> </a>
@@ -136,11 +119,11 @@ Les clients qui choisissent l'avantage de migration [FastTrack](https://fasttrac
 ||||
 |:-----|:-----|:-----|
 |**Filtrage des antécédents** <br/> |**GCC** <br/> |**GCC High et DoD** <br/> |
-|Vérification de la citoyenneté américaine  <br/> |Oui  <br/> |Oui  <br/> |
+|Vérification de la citoyenneté américaine  <br/> |Oui  <br/> |Non  <br/> |
 |Vérification de l'expérience professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
-|Vérification de la formation professionnelle  <br/> |Oui  <br/> |Oui  <br/> |
-|Recherche de numéro de sécurité sociale (SSN)  <br/> |Oui  <br/> |Oui  <br/> |
-|Vérification du casier judiciaire (7 ans)  <br/> |Oui  <br/> |Oui  <br/> |
+|Vérification de la formation professionnelle  <br/> |Oui  <br/> |Non  <br/> |
+|Recherche de numéro de sécurité sociale (SSN)  <br/> |Oui  <br/> |Non  <br/> |
+|Vérification du casier judiciaire (7 ans)  <br/> |Oui  <br/> |Non  <br/> |
    
 [Utilisation de cette section Description de service](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -175,13 +158,13 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Services Office 365** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
-|Office Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
+|Office Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
 |Office 365 ProPlus  <br/> |Non <br/> |Oui <br/> |Non <br/> |Non  <br/> |
 |Exchange Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|SharePoint Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|Skype entreprise (présence de messagerie &amp; instantanée)  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |
+|SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Skype entreprise (présence de messagerie &amp; instantanée)  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>1</sup> <br/> |
 | Système de téléphonie vocale, audioconférence  <br/> |Non<sup>2, 3</sup> <br/> |Non<sup>2, 3</sup> <br/> |Oui <sup>, 3, 5</sup> <br/> |Non  <br/> |
 |Power BI Pro  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |Project Online  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |
@@ -200,8 +183,8 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**Fonctionnalité** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |**Administration d'Office 365** <br/> |||||
 |AdMinistrer Office 365 à l'aide du centre d'administration Microsoft 365  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui  <br/> |Oui<sup>16</sup> <br/> |
-|Gestion des paramètres de service principal à partir d'Office 365  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|Utilisation de Windows PowerShell pour gérer Office 365  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
+|Gestion des paramètres de service principal à partir d'Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Utilisation de Windows PowerShell pour gérer Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>1</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup>  <br/> |N °<sup>1</sup> <br/> |
 |**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
