@@ -1,7 +1,7 @@
 ---
 title: Gestion de projets
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 12/21/2016
 ms.audience: ITPro
@@ -10,43 +10,43 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
-description: Les fonctionnalités de gestion de projet suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: 2722684317d1d323fb5ea56db49274131873ce5a
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Les fonctionnalités de gestion de projet suivantes sont disponibles dans Project online.
+ms.openlocfilehash: 4e21f1ee6a0709975c5375136d38ddc9533fefb9
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035518"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468001"
 ---
-# <a name="project-management"></a><span data-ttu-id="90bbe-103">Gestion de projets</span><span class="sxs-lookup"><span data-stu-id="90bbe-103">Project management</span></span>
+# <a name="project-management"></a><span data-ttu-id="d4e72-103">Gestion de projets</span><span class="sxs-lookup"><span data-stu-id="d4e72-103">Project management</span></span>
 
-<span data-ttu-id="90bbe-104">Les fonctionnalités de gestion de projet suivantes sont disponibles dans Project Online.</span><span class="sxs-lookup"><span data-stu-id="90bbe-104">The following project management features are available in Project Online.</span></span>
+<span data-ttu-id="d4e72-104">Les fonctionnalités de gestion de projet suivantes sont disponibles dans Project online.</span><span class="sxs-lookup"><span data-stu-id="d4e72-104">The following project management features are available in Project Online.</span></span>
   
-<span data-ttu-id="90bbe-p101">Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="90bbe-p101">Looking for information about all Project Online features? See the [Project Online Service Description](project-online-service-description.md).</span></span>
+<span data-ttu-id="d4e72-105">Vous recherchez des informations sur toutes les fonctionnalités de Project Online ?</span><span class="sxs-lookup"><span data-stu-id="d4e72-105">Looking for information about all Project Online features?</span></span> <span data-ttu-id="d4e72-106">Consultez [Description du service Project Online](project-online-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="d4e72-106">See the [Project Online Service Description](project-online-service-description.md).</span></span>
   
-## <a name="issues-and-risk-management"></a><span data-ttu-id="90bbe-107">Gestion des problèmes et des risques</span><span class="sxs-lookup"><span data-stu-id="90bbe-107">Issues and risk management</span></span>
-<span data-ttu-id="90bbe-108"><a name="bkmk_IssuesRiskManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="90bbe-108"></span></span>
+## <a name="issues-and-risk-management"></a><span data-ttu-id="d4e72-107">Gestion des problèmes et des risques</span><span class="sxs-lookup"><span data-stu-id="d4e72-107">Issues and risk management</span></span>
+<span data-ttu-id="d4e72-108"><a name="bkmk_IssuesRiskManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="d4e72-108"></span></span>
 
-<span data-ttu-id="90bbe-p102">Project Online et Project Server 2013 comprennent des fonctions qui permettent de prévenir, d'identifier et d'atténuer les risques et problèmes potentiels liés aux projets ou aux activités. Pour en savoir plus, consultez la rubrique [Gestion des problèmes, des risques et des documents dans Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).</span><span class="sxs-lookup"><span data-stu-id="90bbe-p102">Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).</span></span>
+<span data-ttu-id="d4e72-p102">Project Online et Project Server 2013 comprennent des fonctions qui permettent de prévenir, d'identifier et d'atténuer les risques et problèmes potentiels liés aux projets ou aux activités. Pour en savoir plus, consultez la rubrique [Gestion des problèmes, des risques et des documents dans Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).</span><span class="sxs-lookup"><span data-stu-id="d4e72-p102">Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).</span></span>
   
-## <a name="manage-project-resources"></a><span data-ttu-id="90bbe-111">Gérer les ressources du projet</span><span class="sxs-lookup"><span data-stu-id="90bbe-111">Manage project resources</span></span>
-<span data-ttu-id="90bbe-112"><a name="bkmk_ManageProjectResources"> </a></span><span class="sxs-lookup"><span data-stu-id="90bbe-112"></span></span>
+## <a name="manage-project-resources"></a><span data-ttu-id="d4e72-111">Gérer les ressources du projet</span><span class="sxs-lookup"><span data-stu-id="d4e72-111">Manage project resources</span></span>
+<span data-ttu-id="d4e72-112"><a name="bkmk_ManageProjectResources"> </a></span><span class="sxs-lookup"><span data-stu-id="d4e72-112"></span></span>
 
-<span data-ttu-id="90bbe-113">Fournir aux chefs de projet la possibilité d'afficher les ressources disponibles, de créer des équipes et de demander des engagements de ressources.</span><span class="sxs-lookup"><span data-stu-id="90bbe-113">Provide project managers with the ability to view available resources, build teams, and request resource engagements.</span></span>
+<span data-ttu-id="d4e72-113">Fournir aux chefs de projet la possibilité d'afficher les ressources disponibles, de créer des équipes et de demander des engagements de ressources.</span><span class="sxs-lookup"><span data-stu-id="d4e72-113">Provide project managers with the ability to view available resources, build teams, and request resource engagements.</span></span>
   
-## <a name="reporting-and-business-intelligence"></a><span data-ttu-id="90bbe-114">Création de rapports et aide à la décision</span><span class="sxs-lookup"><span data-stu-id="90bbe-114">Reporting and business intelligence</span></span>
-<span data-ttu-id="90bbe-115"><a name="bkmk_ReportingBusinessIntelligence"> </a></span><span class="sxs-lookup"><span data-stu-id="90bbe-115"></span></span>
+## <a name="reporting-and-business-intelligence"></a><span data-ttu-id="d4e72-114">Création de rapports et aide à la décision</span><span class="sxs-lookup"><span data-stu-id="d4e72-114">Reporting and business intelligence</span></span>
+<span data-ttu-id="d4e72-115"><a name="bkmk_ReportingBusinessIntelligence"> </a></span><span class="sxs-lookup"><span data-stu-id="d4e72-115"></span></span>
 
-<span data-ttu-id="90bbe-p103">Grâce aux solutions de gestion de projets Microsoft, vous disposez de plusieurs options pour visualiser et créer des rapports, ainsi que pour utiliser les données Project Server 2013. Certains rapports sont disponibles automatiquement, et vous pouvez facilement créer vos propres rapports à l'aide de nombreux outils. Pour en savoir plus, consultez la rubrique [Quels outils de création de rapport puis-je utiliser avec des données de projet ?](https://go.microsoft.com/fwlink/?LinkId=402642).</span><span class="sxs-lookup"><span data-stu-id="90bbe-p103">With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](https://go.microsoft.com/fwlink/?LinkId=402642).</span></span>
+<span data-ttu-id="d4e72-p103">Grâce aux solutions de gestion de projets Microsoft, vous disposez de plusieurs options pour visualiser et créer des rapports, ainsi que pour utiliser les données Project Server 2013. Certains rapports sont disponibles automatiquement, et vous pouvez facilement créer vos propres rapports à l'aide de nombreux outils. Pour en savoir plus, consultez la rubrique [Quels outils de création de rapport puis-je utiliser avec des données de projet ?](https://go.microsoft.com/fwlink/?LinkId=402642).</span><span class="sxs-lookup"><span data-stu-id="d4e72-p103">With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](https://go.microsoft.com/fwlink/?LinkId=402642).</span></span>
   
-## <a name="schedule-management"></a><span data-ttu-id="90bbe-119">Gestion de la planification</span><span class="sxs-lookup"><span data-stu-id="90bbe-119">Schedule management</span></span>
-<span data-ttu-id="90bbe-120"><a name="bkmk_ScheduleManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="90bbe-120"></span></span>
+## <a name="schedule-management"></a><span data-ttu-id="d4e72-119">Gestion de la planification</span><span class="sxs-lookup"><span data-stu-id="d4e72-119">Schedule management</span></span>
+<span data-ttu-id="d4e72-120"><a name="bkmk_ScheduleManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="d4e72-120"></span></span>
 
-<span data-ttu-id="90bbe-p104">La planification représente les tâches et livrables à réaliser pour mener à bien un projet dans les délais impartis. Vous pouvez créer un calendrier pour vos projets afin de suivre leur progression et gérer les changements. Pour en savoir plus, consultez la rubrique [Ajouter des tâches et des projets à la chronologie](https://go.microsoft.com/fwlink/?LinkID=402655).</span><span class="sxs-lookup"><span data-stu-id="90bbe-p104">The schedule represents the tasks and deliverables that must be completed to deliver the project on time. You can create a timeline for your projects to track progress and manage change. To learn more, see [Add tasks and projects to the timeline](https://go.microsoft.com/fwlink/?LinkID=402655).</span></span>
+<span data-ttu-id="d4e72-p104">La planification représente les tâches et livrables à réaliser pour mener à bien un projet dans les délais impartis. Vous pouvez créer un calendrier pour vos projets afin de suivre leur progression et gérer les changements. Pour en savoir plus, consultez la rubrique [Ajouter des tâches et des projets à la chronologie](https://go.microsoft.com/fwlink/?LinkID=402655).</span><span class="sxs-lookup"><span data-stu-id="d4e72-p104">The schedule represents the tasks and deliverables that must be completed to deliver the project on time. You can create a timeline for your projects to track progress and manage change. To learn more, see [Add tasks and projects to the timeline](https://go.microsoft.com/fwlink/?LinkID=402655).</span></span>
   
-## <a name="time-and-task-management"></a><span data-ttu-id="90bbe-124">Gestion du temps et des tâches</span><span class="sxs-lookup"><span data-stu-id="90bbe-124">Time and task management</span></span>
-<span data-ttu-id="90bbe-125"><a name="bkmk_TimeTaskManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="90bbe-125"></span></span>
+## <a name="time-and-task-management"></a><span data-ttu-id="d4e72-124">Gestion du temps et des tâches</span><span class="sxs-lookup"><span data-stu-id="d4e72-124">Time and task management</span></span>
+<span data-ttu-id="d4e72-125"><a name="bkmk_TimeTaskManagement"> </a></span><span class="sxs-lookup"><span data-stu-id="d4e72-125"></span></span>
 
-<span data-ttu-id="90bbe-p105">Utilisez une approche centralisée et commune à la gestion de tâches et de rapports de temps. Capturez les périodes de travail et chômées à des fins de paie, de facturation et à d'autres fins d'entreprise. Communiquez efficacement l'état sur les projets, les tâches quotidiennes et les demandes ad hoc pour évaluer les pics et les creux d'utilisation ou l'avancement des tâches. Cela vous aide à anticiper l'effet sur les efforts, les coûts et l'échéancier prévus. Pour en savoir plus, consultez la rubrique [Effectuer le suivi de votre temps et de l'avancement de vos tâches](https://go.microsoft.com/fwlink/p/?LinkId=271321).</span><span class="sxs-lookup"><span data-stu-id="90bbe-p105">Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).</span></span>
+<span data-ttu-id="d4e72-p105">Utilisez une approche centralisée et commune à la gestion de tâches et de rapports de temps. Capturez les périodes de travail et chômées à des fins de paie, de facturation et à d'autres fins d'entreprise. Communiquez efficacement l'état sur les projets, les tâches quotidiennes et les demandes ad hoc pour évaluer les pics et les creux d'utilisation ou l'avancement des tâches. Cela vous aide à anticiper l'effet sur les efforts, les coûts et l'échéancier prévus. Pour en savoir plus, consultez la rubrique [Effectuer le suivi de votre temps et de l'avancement de vos tâches](https://go.microsoft.com/fwlink/p/?LinkId=271321).</span><span class="sxs-lookup"><span data-stu-id="d4e72-p105">Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).</span></span>
   
 

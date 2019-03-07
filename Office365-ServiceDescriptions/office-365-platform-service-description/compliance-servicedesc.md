@@ -1,7 +1,7 @@
 ---
-title: Conformité[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: Conformité [ServiceDesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,103 +15,103 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 est conforme aux réglementations et aux normes du secteur, et est conçu dans l'optique de vous aider à répondre aux exigences réglementaires dans le cadre de vos activités professionnelles. Pour plus d'informations, consultez la rubrique Offres relatives à la conformité.
-ms.openlocfilehash: 5c88a6b52988893b60a46775a0043d7bd2b7a2ab
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035505"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466881"
 ---
-# <a name="complianceservicedesc"></a><span data-ttu-id="a9b5b-104">Conformité [ServiceDesc]</span><span class="sxs-lookup"><span data-stu-id="a9b5b-104">Compliance[ServiceDesc]</span></span>
+# <a name="complianceservicedesc"></a><span data-ttu-id="57d36-104">Conformité [ServiceDesc]</span><span class="sxs-lookup"><span data-stu-id="57d36-104">Compliance[ServiceDesc]</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="a9b5b-p102">Les informations contenues dans cet article s'appliquent aux versions internationales d'Office 365. Si vous utilisez une instance de cloud nationale d'Office 365, notamment Office 365 pour l'administration américaine, Office 365 Allemagne et Office 365 géré par 21Vianet, voir [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582).</span><span class="sxs-lookup"><span data-stu-id="a9b5b-p102">The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582).</span></span> 
+> <span data-ttu-id="57d36-p102">Les informations contenues dans cet article s'appliquent aux versions internationales d'Office 365. Si vous utilisez une instance de cloud nationale d'Office 365, notamment Office 365 pour l'administration américaine, Office 365 Allemagne et Office 365 géré par 21Vianet, voir [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582).</span><span class="sxs-lookup"><span data-stu-id="57d36-p102">The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="a9b5b-107">La disponibilité des fonctionnalités partenaires dépend des régions.</span><span class="sxs-lookup"><span data-stu-id="a9b5b-107">Availability of Partner features varies by region.</span></span> 
+> <span data-ttu-id="57d36-107">La disponibilité des fonctionnalités partenaires dépend des régions.</span><span class="sxs-lookup"><span data-stu-id="57d36-107">Availability of Partner features varies by region.</span></span> 
   
-<span data-ttu-id="a9b5b-p103">Microsoft Office 365 est conforme aux réglementations et aux normes du secteur, et est conçu dans l'optique de vous aider à répondre aux exigences réglementaires dans le cadre de vos activités professionnelles. Pour plus d'informations, consultez la rubrique [Offres relatives à la conformité](https://go.microsoft.com/fwlink/?linkid=864391).</span><span class="sxs-lookup"><span data-stu-id="a9b5b-p103">Microsoft Office 365 complies with industry standards and regulations, and is designed to help you meet regulatory requirements for your business. For more information, see [Compliance Offerings](https://go.microsoft.com/fwlink/?linkid=864391).</span></span>
+<span data-ttu-id="57d36-p103">Microsoft Office 365 est conforme aux réglementations et aux normes du secteur, et est conçu dans l'optique de vous aider à répondre aux exigences réglementaires dans le cadre de vos activités professionnelles. Pour plus d'informations, consultez la rubrique [Offres relatives à la conformité](https://go.microsoft.com/fwlink/?linkid=864391).</span><span class="sxs-lookup"><span data-stu-id="57d36-p103">Microsoft Office 365 complies with industry standards and regulations, and is designed to help you meet regulatory requirements for your business. For more information, see [Compliance Offerings](https://go.microsoft.com/fwlink/?linkid=864391).</span></span>
   
-## <a name="industry-certifications"></a><span data-ttu-id="a9b5b-110">Certifications du secteur</span><span class="sxs-lookup"><span data-stu-id="a9b5b-110">Industry certifications</span></span>
+## <a name="industry-certifications"></a><span data-ttu-id="57d36-110">Certifications du secteur</span><span class="sxs-lookup"><span data-stu-id="57d36-110">Industry certifications</span></span>
 
-<span data-ttu-id="a9b5b-111">Pour aider les organisations à se conformer aux exigences propres au secteur, régionales et nationales qui régissent la collecte et l'utilisation de données personnelles, Office 365 est conforme ou peut aider votre organisation à se conformer à l'ensemble le plus complet d'exigences gouvernementales ou de tiers, à des certifications ainsi qu'à des attestations de fournisseurs de services cloud :</span><span class="sxs-lookup"><span data-stu-id="a9b5b-111">To help organizations comply with national, regional, and industry-specific requirements governing the collection and use of individuals' data, Office 365 complies with or can help your organization comply with the most comprehensive set of government or third-party requirements, certifications, and attestations of any cloud service provider:</span></span>
+<span data-ttu-id="57d36-111">Pour aider les organisations à se conformer aux exigences propres au secteur, régionales et nationales qui régissent la collecte et l'utilisation de données personnelles, Office 365 est conforme ou peut aider votre organisation à se conformer à l'ensemble le plus complet d'exigences gouvernementales ou de tiers, à des certifications ainsi qu'à des attestations de fournisseurs de services cloud :</span><span class="sxs-lookup"><span data-stu-id="57d36-111">To help organizations comply with national, regional, and industry-specific requirements governing the collection and use of individuals' data, Office 365 complies with or can help your organization comply with the most comprehensive set of government or third-party requirements, certifications, and attestations of any cloud service provider:</span></span>
   
-- <span data-ttu-id="a9b5b-112">Argentina PDPA</span><span class="sxs-lookup"><span data-stu-id="a9b5b-112">Argentina PDPA</span></span>
+- <span data-ttu-id="57d36-112">Argentina PDPA</span><span class="sxs-lookup"><span data-stu-id="57d36-112">Argentina PDPA</span></span>
     
-- <span data-ttu-id="a9b5b-113">CSA-CCM</span><span class="sxs-lookup"><span data-stu-id="a9b5b-113">CSA-CCM</span></span>
+- <span data-ttu-id="57d36-113">CSA-CCM</span><span class="sxs-lookup"><span data-stu-id="57d36-113">CSA-CCM</span></span>
     
-- <span data-ttu-id="a9b5b-114">CS Mark (Gold)</span><span class="sxs-lookup"><span data-stu-id="a9b5b-114">CS Mark (Gold)</span></span>
+- <span data-ttu-id="57d36-114">CS Mark (Gold)</span><span class="sxs-lookup"><span data-stu-id="57d36-114">CS Mark (Gold)</span></span>
     
-- <span data-ttu-id="a9b5b-115">DISA</span><span class="sxs-lookup"><span data-stu-id="a9b5b-115">DISA</span></span>
+- <span data-ttu-id="57d36-115">DISA</span><span class="sxs-lookup"><span data-stu-id="57d36-115">DISA</span></span>
     
-- <span data-ttu-id="a9b5b-116">ENISA IAF</span><span class="sxs-lookup"><span data-stu-id="a9b5b-116">ENISA IAF</span></span>
+- <span data-ttu-id="57d36-116">ENISA IAF</span><span class="sxs-lookup"><span data-stu-id="57d36-116">ENISA IAF</span></span>
     
-- <span data-ttu-id="a9b5b-117">Clauses types de l'UE</span><span class="sxs-lookup"><span data-stu-id="a9b5b-117">EU Model Clauses</span></span>
+- <span data-ttu-id="57d36-117">Clauses types de l'UE</span><span class="sxs-lookup"><span data-stu-id="57d36-117">EU Model Clauses</span></span>
     
-- <span data-ttu-id="a9b5b-118">FDA 21 CFR Part 11</span><span class="sxs-lookup"><span data-stu-id="a9b5b-118">FDA 21 CFR Part 11</span></span>
+- <span data-ttu-id="57d36-118">FDA 21 CFR Part 11</span><span class="sxs-lookup"><span data-stu-id="57d36-118">FDA 21 CFR Part 11</span></span>
     
-- <span data-ttu-id="a9b5b-119">FedRAMP</span><span class="sxs-lookup"><span data-stu-id="a9b5b-119">FedRAMP</span></span>
+- <span data-ttu-id="57d36-119">FedRAMP</span><span class="sxs-lookup"><span data-stu-id="57d36-119">FedRAMP</span></span>
     
-- <span data-ttu-id="a9b5b-120">FERPA</span><span class="sxs-lookup"><span data-stu-id="a9b5b-120">FERPA</span></span>
+- <span data-ttu-id="57d36-120">FERPA</span><span class="sxs-lookup"><span data-stu-id="57d36-120">FERPA</span></span>
     
-- <span data-ttu-id="a9b5b-121">FIPS 140-2</span><span class="sxs-lookup"><span data-stu-id="a9b5b-121">FIPS 140-2</span></span>
+- <span data-ttu-id="57d36-121">FIPS 140-2</span><span class="sxs-lookup"><span data-stu-id="57d36-121">FIPS 140-2</span></span>
     
-- <span data-ttu-id="a9b5b-122">FISC</span><span class="sxs-lookup"><span data-stu-id="a9b5b-122">FISC</span></span>
+- <span data-ttu-id="57d36-122">FISC</span><span class="sxs-lookup"><span data-stu-id="57d36-122">FISC</span></span>
     
-- <span data-ttu-id="a9b5b-123">FISMA</span><span class="sxs-lookup"><span data-stu-id="a9b5b-123">FISMA</span></span>
+- <span data-ttu-id="57d36-123">FISMA</span><span class="sxs-lookup"><span data-stu-id="57d36-123">FISMA</span></span>
     
-- <span data-ttu-id="a9b5b-124">GxP</span><span class="sxs-lookup"><span data-stu-id="a9b5b-124">GxP</span></span>
+- <span data-ttu-id="57d36-124">GxP</span><span class="sxs-lookup"><span data-stu-id="57d36-124">GxP</span></span>
     
-- <span data-ttu-id="a9b5b-125">HIPAA/HITECH</span><span class="sxs-lookup"><span data-stu-id="a9b5b-125">HIPAA/HITECH</span></span>
+- <span data-ttu-id="57d36-125">HIPAA/HITECH</span><span class="sxs-lookup"><span data-stu-id="57d36-125">HIPAA/HITECH</span></span>
     
-- <span data-ttu-id="a9b5b-126">CCSL (IRAP)</span><span class="sxs-lookup"><span data-stu-id="a9b5b-126">CCSL (IRAP)</span></span>
+- <span data-ttu-id="57d36-126">CCSL (IRAP)</span><span class="sxs-lookup"><span data-stu-id="57d36-126">CCSL (IRAP)</span></span>
     
-- <span data-ttu-id="a9b5b-127">ISO/CEI 27001</span><span class="sxs-lookup"><span data-stu-id="a9b5b-127">ISO/IEC 27001</span></span>
+- <span data-ttu-id="57d36-127">ISO/CEI 27001</span><span class="sxs-lookup"><span data-stu-id="57d36-127">ISO/IEC 27001</span></span>
     
-- <span data-ttu-id="a9b5b-128">ISO/CEI 27018</span><span class="sxs-lookup"><span data-stu-id="a9b5b-128">ISO/IEC 27018</span></span>
+- <span data-ttu-id="57d36-128">ISO/CEI 27018</span><span class="sxs-lookup"><span data-stu-id="57d36-128">ISO/IEC 27018</span></span>
     
-- <span data-ttu-id="a9b5b-129">My Number Act (Japon)</span><span class="sxs-lookup"><span data-stu-id="a9b5b-129">Japan My Number Act</span></span>
+- <span data-ttu-id="57d36-129">My Number Act (Japon)</span><span class="sxs-lookup"><span data-stu-id="57d36-129">Japan My Number Act</span></span>
     
-- <span data-ttu-id="a9b5b-130">MTCS</span><span class="sxs-lookup"><span data-stu-id="a9b5b-130">MTCS</span></span>
+- <span data-ttu-id="57d36-130">MTCS</span><span class="sxs-lookup"><span data-stu-id="57d36-130">MTCS</span></span>
     
-- <span data-ttu-id="a9b5b-131">NZ CC Framework</span><span class="sxs-lookup"><span data-stu-id="a9b5b-131">NZ CC Framework</span></span>
+- <span data-ttu-id="57d36-131">NZ CC Framework</span><span class="sxs-lookup"><span data-stu-id="57d36-131">NZ CC Framework</span></span>
     
-- <span data-ttu-id="a9b5b-132">Section 508/VPAT</span><span class="sxs-lookup"><span data-stu-id="a9b5b-132">Section 508 / VPATs</span></span>
+- <span data-ttu-id="57d36-132">Section 508/VPAT</span><span class="sxs-lookup"><span data-stu-id="57d36-132">Section 508 / VPATs</span></span>
     
-- <span data-ttu-id="a9b5b-133">ÉVALUATIONS PARTAGÉES</span><span class="sxs-lookup"><span data-stu-id="a9b5b-133">SHARED ASSESSMENTS</span></span>
+- <span data-ttu-id="57d36-133">ÉVALUATIONS PARTAGÉES</span><span class="sxs-lookup"><span data-stu-id="57d36-133">SHARED ASSESSMENTS</span></span>
     
-- <span data-ttu-id="a9b5b-134">SOC 1</span><span class="sxs-lookup"><span data-stu-id="a9b5b-134">SOC 1</span></span>
+- <span data-ttu-id="57d36-134">SOC 1</span><span class="sxs-lookup"><span data-stu-id="57d36-134">SOC 1</span></span>
     
-- <span data-ttu-id="a9b5b-135">SOC 2</span><span class="sxs-lookup"><span data-stu-id="a9b5b-135">SOC 2</span></span>
+- <span data-ttu-id="57d36-135">SOC 2</span><span class="sxs-lookup"><span data-stu-id="57d36-135">SOC 2</span></span>
     
-- <span data-ttu-id="a9b5b-136">ENS (Espagne)</span><span class="sxs-lookup"><span data-stu-id="a9b5b-136">ENS Spain</span></span>
+- <span data-ttu-id="57d36-136">ENS (Espagne)</span><span class="sxs-lookup"><span data-stu-id="57d36-136">ENS Spain</span></span>
     
-- <span data-ttu-id="a9b5b-137">G-Cloud (R.-U.)</span><span class="sxs-lookup"><span data-stu-id="a9b5b-137">UK G-Cloud</span></span>
+- <span data-ttu-id="57d36-137">G-Cloud (R.-U.)</span><span class="sxs-lookup"><span data-stu-id="57d36-137">UK G-Cloud</span></span>
     
-- <span data-ttu-id="a9b5b-138">PCI-DSS niveau 1</span><span class="sxs-lookup"><span data-stu-id="a9b5b-138">PCI DSS Level One</span></span>
+- <span data-ttu-id="57d36-138">PCI-DSS niveau 1</span><span class="sxs-lookup"><span data-stu-id="57d36-138">PCI DSS Level One</span></span>
     
-<span data-ttu-id="a9b5b-139">Pour plus d'informations sur les rapports d'audit et de conformité d'Office 365, consultez le portail d'approbation de services.</span><span class="sxs-lookup"><span data-stu-id="a9b5b-139">You can find more information on Office 365 compliance and audit reports in the Service Trust Portal.</span></span>
+<span data-ttu-id="57d36-139">Pour plus d'informations sur les rapports d'audit et de conformité d'Office 365, consultez le portail d'approbation de services.</span><span class="sxs-lookup"><span data-stu-id="57d36-139">You can find more information on Office 365 compliance and audit reports in the Service Trust Portal.</span></span>
   
-<span data-ttu-id="a9b5b-140">En outre, prenez en compte les questions suivantes pour PCI-DSS :</span><span class="sxs-lookup"><span data-stu-id="a9b5b-140">In addition, note the following questions for PCI-DSS:</span></span>
+<span data-ttu-id="57d36-140">En outre, prenez en compte les questions suivantes pour PCI-DSS :</span><span class="sxs-lookup"><span data-stu-id="57d36-140">In addition, note the following questions for PCI-DSS:</span></span>
   
-- <span data-ttu-id="a9b5b-141">**Mon organisation peut-elle utiliser Office 365 et tout de même être conforme à la norme PCI-DSS ?**</span><span class="sxs-lookup"><span data-stu-id="a9b5b-141">**Can my organization use Office 365 and still be PCI-DSS compliant?**</span></span>
+- <span data-ttu-id="57d36-141">**Mon organisation peut-elle utiliser Office 365 et tout de même être conforme à la norme PCI-DSS ?**</span><span class="sxs-lookup"><span data-stu-id="57d36-141">**Can my organization use Office 365 and still be PCI-DSS compliant?**</span></span>
     
-  - <span data-ttu-id="a9b5b-p104">La norme de sécurité de l'industrie des cartes de paiement (PCI-DSS) est une norme de sécurité d'informations mondiales conçue pour éviter les fraudes par le biais d'un contrôle accru des données de carte de crédit. La norme PCI-DSS a été rédigée par le Conseil des normes de sécurité PCI dans le but de créer un ensemble de normes de sécurité destiné à toute organisation utilisant des cartes de crédit et de débit.</span><span class="sxs-lookup"><span data-stu-id="a9b5b-p104">The Payment Card Industry Data Security Standard (PCI-DSS) is a global information security standard designed to prevent fraud through increased control of credit card data. PCI-DSS was written by the PCI Security Standards Council to create a set of security standards for any organization handling credit and debit cards.</span></span>
+  - <span data-ttu-id="57d36-p104">La norme de sécurité de l'industrie des cartes de paiement (PCI-DSS) est une norme de sécurité d'informations mondiales conçue pour éviter les fraudes par le biais d'un contrôle accru des données de carte de crédit. La norme PCI-DSS a été rédigée par le Conseil des normes de sécurité PCI dans le but de créer un ensemble de normes de sécurité destiné à toute organisation utilisant des cartes de crédit et de débit.</span><span class="sxs-lookup"><span data-stu-id="57d36-p104">The Payment Card Industry Data Security Standard (PCI-DSS) is a global information security standard designed to prevent fraud through increased control of credit card data. PCI-DSS was written by the PCI Security Standards Council to create a set of security standards for any organization handling credit and debit cards.</span></span>
     
-  - <span data-ttu-id="a9b5b-p105">Les clients peuvent utiliser des cartes de crédit pour commander et payer les services Office 365 en toute confiance, car le système de commerce par lequel les clients peuvent acheter des abonnements à Office 365 a atteint le niveau de conformité 1 de la norme PCI-DSS. Un organisme d’audit tiers indépendant a déterminé que la plateforme OCP (Online Commerce Platform) a répondu de façon satisfaisante à la version 1.2 de la norme PCI-DSS. Comme expliqué ci-dessous, les organisations peuvent utiliser les services Office 365 dans leur démarche de mise en conformité aux exigences de la norme PCI-DSS.</span><span class="sxs-lookup"><span data-stu-id="a9b5b-p105">Customers can use credit cards to order and pay for Office 365 services with confidence because the commerce system through which customers can purchase subscriptions to Office 365 has achieved PCI-DSS Level 1 compliance. An independent third-party auditor determines that Microsoft Online Commerce Platform (OCP) has satisfactorily met the PCI-DSS version 1.2. As explained below, organizations can use the Office 365 services to help them comply with PCI-DSS requirements.</span></span>
+  - <span data-ttu-id="57d36-p105">Les clients peuvent utiliser des cartes de crédit pour commander et payer les services Office 365 en toute confiance, car le système de commerce par lequel les clients peuvent acheter des abonnements à Office 365 a atteint le niveau de conformité 1 de la norme PCI-DSS. Un organisme d'audit tiers indépendant a déterminé que la plateforme OCP (Online Commerce Platform) a répondu de façon satisfaisante à la version 1.2 de la norme PCI-DSS. Comme expliqué ci-dessous, les organisations peuvent utiliser les services Office 365 dans leur démarche de mise en conformité aux exigences de la norme PCI-DSS.</span><span class="sxs-lookup"><span data-stu-id="57d36-p105">Customers can use credit cards to order and pay for Office 365 services with confidence because the commerce system through which customers can purchase subscriptions to Office 365 has achieved PCI-DSS Level 1 compliance. An independent third-party auditor determines that Microsoft Online Commerce Platform (OCP) has satisfactorily met the PCI-DSS version 1.2. As explained below, organizations can use the Office 365 services to help them comply with PCI-DSS requirements.</span></span>
     
-- <span data-ttu-id="a9b5b-147">**Comment Office 365 peut aider mon organisation concernant la norme PCI-DSS ?**</span><span class="sxs-lookup"><span data-stu-id="a9b5b-147">**How can Office 365 help my organization with PCI-DSS?**</span></span>
+- <span data-ttu-id="57d36-147">**Comment Office 365 peut aider mon organisation concernant la norme PCI-DSS ?**</span><span class="sxs-lookup"><span data-stu-id="57d36-147">**How can Office 365 help my organization with PCI-DSS?**</span></span>
     
-  - <span data-ttu-id="a9b5b-p106">Office 365 fournit une plateforme sécurisée sur laquelle les clients peuvent communiquer et collaborer. Microsoft gère le service de façon sécurisée, et vous fournit un ensemble exhaustif de fonctionnalités de conformité et de sécurité dont vous pouvez vous servir pour protéger vos données pendant leur cycle de vie. Grâce à des fonctionnalités telles que la [protection contre la perte de données (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), la [gouvernance des données avancée](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), vous pouvez activer des stratégies qui détecteront et identifieront automatiquement les contenus sensibles lorsque des données comme des numéros de carte de crédit, des codes SWIFT, des numéros d'acheminement ABA sont présentes. Pour consulter la liste des types d'informations sensibles intégrées que nous prenons en charge, cliquez [ici](https://go.microsoft.com/fwlink/?linkid=868522). Vous pouvez également suivre l'instruction [ici](https://go.microsoft.com/fwlink/?linkid=868523) pour créer vos propres types d'informations sensibles. Lorsque des stratégies adéquates sont appliquées par le client, les organisations peuvent conserver automatiquement des données pendant une période définie et protéger leurs contenus en empêchant leurs utilisateurs de partager des données sensibles. Si les clients doivent partager des données sensibles par courrier électronique avec des personnes internes ou externes à l'organisation, ils peuvent appliquer un chiffrement et une protection de droits grâce aux [fonctionnalités de chiffrement de messages Office 365](https://go.microsoft.com/fwlink/?linkid=858986) de sorte que seules les personnes autorisées puissent lire le message protégé.</span><span class="sxs-lookup"><span data-stu-id="a9b5b-p106">Office 365 provides a secure platform for customers to communicate and collaborate. Microsoft operates the service securely and provides you with a rich set of compliance and security features that you can use to protect your data throughout its life cycle. With features like [Data Loss Prevention (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [Advanced Data Governance](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), you can turn on policies to automatically detect and label sensitive content when data like Credit Card Numbers, SWIFT codes, ABA routing numbers, etc. are present. You can find a list of our built-in sensitive information types [here](https://go.microsoft.com/fwlink/?linkid=868522), and you can also follow the instruction [here](https://go.microsoft.com/fwlink/?linkid=868523) to create your own sensitive information types. With the appropriate policies applied by the customer, organizations can automatically retain data for a certain period of time and protect their content by preventing their users from sharing sensitive data. If customers need to share sensitive data over email with anyone inside or outside the organization, customers can apply encryption and rights protection with [Office 365 Message Encryption](https://go.microsoft.com/fwlink/?linkid=858986) so that only authorized parties can read the protected message.</span></span> 
+  - <span data-ttu-id="57d36-p106">Office 365 fournit une plateforme sécurisée sur laquelle les clients peuvent communiquer et collaborer. Microsoft gère le service de façon sécurisée, et vous fournit un ensemble exhaustif de fonctionnalités de conformité et de sécurité dont vous pouvez vous servir pour protéger vos données pendant leur cycle de vie. Grâce à des fonctionnalités telles que la [protection contre la perte de données (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), la [gouvernance des données avancée](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), vous pouvez activer des stratégies qui détecteront et identifieront automatiquement les contenus sensibles lorsque des données comme des numéros de carte de crédit, des codes SWIFT, des numéros d'acheminement ABA sont présentes. Pour consulter la liste des types d'informations sensibles intégrées que nous prenons en charge, cliquez [ici](https://go.microsoft.com/fwlink/?linkid=868522). Vous pouvez également suivre l'instruction [ici](https://go.microsoft.com/fwlink/?linkid=868523) pour créer vos propres types d'informations sensibles. Lorsque des stratégies adéquates sont appliquées par le client, les organisations peuvent conserver automatiquement des données pendant une période définie et protéger leurs contenus en empêchant leurs utilisateurs de partager des données sensibles. Si les clients doivent partager des données sensibles par courrier électronique avec des personnes internes ou externes à l'organisation, ils peuvent appliquer un chiffrement et une protection de droits grâce aux [fonctionnalités de chiffrement de messages Office 365](https://go.microsoft.com/fwlink/?linkid=858986) de sorte que seules les personnes autorisées puissent lire le message protégé.</span><span class="sxs-lookup"><span data-stu-id="57d36-p106">Office 365 provides a secure platform for customers to communicate and collaborate. Microsoft operates the service securely and provides you with a rich set of compliance and security features that you can use to protect your data throughout its life cycle. With features like [Data Loss Prevention (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [Advanced Data Governance](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), you can turn on policies to automatically detect and label sensitive content when data like Credit Card Numbers, SWIFT codes, ABA routing numbers, etc. are present. You can find a list of our built-in sensitive information types [here](https://go.microsoft.com/fwlink/?linkid=868522), and you can also follow the instruction [here](https://go.microsoft.com/fwlink/?linkid=868523) to create your own sensitive information types. With the appropriate policies applied by the customer, organizations can automatically retain data for a certain period of time and protect their content by preventing their users from sharing sensitive data. If customers need to share sensitive data over email with anyone inside or outside the organization, customers can apply encryption and rights protection with [Office 365 Message Encryption](https://go.microsoft.com/fwlink/?linkid=858986) so that only authorized parties can read the protected message.</span></span> 
     
-- <span data-ttu-id="a9b5b-p107">**Loi Gramm-Leach-Bliley (GLB)** La loi GLB définit des exigences de sécurité et de confidentialité minimales pour les institutions financières aux États-Unis. Les logiciels ou services ne peuvent pas prétendre être conformes à la loi GLB, car la conformité à la loi GLB requiert également l'application de procédures et politiques. La loi GLB impose deux réglementations majeures qui ont un impact sur les services Office 365 :</span><span class="sxs-lookup"><span data-stu-id="a9b5b-p107">**Gramm-Leach-Bliley Act (GLB)** The GLB sets minimum security and privacy requirements for financial institutions in the United States. Software or services cannot claim to be "GLB compliant" because GLB compliance also requires procedures and policies. Two of the principal regulations under GLB that affect Office 365 services are:</span></span> 
+- <span data-ttu-id="57d36-p107">**Loi Gramm-Leach-Bliley (GLB)** La loi GLB définit des exigences de sécurité et de confidentialité minimales pour les institutions financières aux États-Unis. Les logiciels ou services ne peuvent pas prétendre être conformes à la loi GLB, car la conformité à la loi GLB requiert également l'application de procédures et politiques. La loi GLB impose deux réglementations majeures qui ont un impact sur les services Office 365 :</span><span class="sxs-lookup"><span data-stu-id="57d36-p107">**Gramm-Leach-Bliley Act (GLB)** The GLB sets minimum security and privacy requirements for financial institutions in the United States. Software or services cannot claim to be "GLB compliant" because GLB compliance also requires procedures and policies. Two of the principal regulations under GLB that affect Office 365 services are:</span></span> 
     
-  - <span data-ttu-id="a9b5b-157">**Règle de confidentialité des données financières** Cette règle régit la collecte et la divulgation des informations financières personnelles des clients par les institutions financières.</span><span class="sxs-lookup"><span data-stu-id="a9b5b-157">**Financial Privacy Rule** This rule governs the collection and disclosure of customers' personal financial information by financial institutions.</span></span> 
+  - <span data-ttu-id="57d36-157">**Règle de confidentialité des données financières** Cette règle régit la collecte et la divulgation des informations financières personnelles des clients par les institutions financières.</span><span class="sxs-lookup"><span data-stu-id="57d36-157">**Financial Privacy Rule** This rule governs the collection and disclosure of customers' personal financial information by financial institutions.</span></span> 
     
-  - <span data-ttu-id="a9b5b-158">**Règle des garanties** Conformément à cette règle, toutes les institutions financières sont tenues d'élaborer, mettre en place et conserver des garanties visant à protéger les informations des clients, et ce qu'elles collectent elles-mêmes ces informations ou qu'elles les reçoivent d'autres institutions financières.</span><span class="sxs-lookup"><span data-stu-id="a9b5b-158">**Safeguards Rule** This rule requires all financial institutions to design, implement, and maintain safeguards to protect customer information, whether they collect such information themselves or receive it from other financial institutions</span></span> 
+  - <span data-ttu-id="57d36-158">**Règle des garanties** Conformément à cette règle, toutes les institutions financières sont tenues d'élaborer, mettre en place et conserver des garanties visant à protéger les informations des clients, et ce qu'elles collectent elles-mêmes ces informations ou qu'elles les reçoivent d'autres institutions financières.</span><span class="sxs-lookup"><span data-stu-id="57d36-158">**Safeguards Rule** This rule requires all financial institutions to design, implement, and maintain safeguards to protect customer information, whether they collect such information themselves or receive it from other financial institutions</span></span> 
     
-## <a name="feature-availability"></a><span data-ttu-id="a9b5b-159">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="a9b5b-159">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="57d36-159">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="57d36-159">Feature availability</span></span>
 
-<span data-ttu-id="a9b5b-160">Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="a9b5b-160">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
+<span data-ttu-id="57d36-160">Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="57d36-160">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
   
 
