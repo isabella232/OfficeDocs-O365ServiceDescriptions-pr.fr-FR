@@ -1,7 +1,7 @@
 ---
 title: Partenaires
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
-ms.openlocfilehash: de56f3f3f890c0015ae823bd78bc0185d065fe9c
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035582"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467621"
 ---
 # <a name="partners"></a>Partenaires
 
@@ -30,13 +30,13 @@ En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'oppo
 > [!NOTE]
 > Pour plus d'informations sur l'utilisation des fonctionnalités partenaires, consultez l'article sur [le développement de votre activité et la gestion de votre compte Office 365](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) et lisez la présentation des fonctionnalités partenaires. Pour obtenir un accès aux fonctionnalités partenaires, vous pouvez rejoindre Cloud Essentials en signant l' [accord Partenaires Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
   
-## <a name="create-trial-invitations-and-purchase-orders"></a>Création d'offres d'essai et de bons de commande
+## <a name="create-trial-invitations-and-purchase-orders"></a>Création d’offres d’essai et de bons de commande
 
 Vous pouvez créer et envoyer des invitations à participer à la version d'évaluation à vos clients pour qu'ils essaient Office 365 à l'aide de la page **Présentation du partenaire** dans Office 365. L'invitation peut contenir un ou plusieurs services, en fonction de l'offre. Si vous êtes certifié pour proposer l'administration déléguée, vous pouvez ajouter à l'invitation une option qui vous permet de gérer le compte pour votre client, ce qui lui facilite l'essai de Office 365. 
   
 Après avoir envoyé à un client une offre d'essai de Office 365, vous pouvez suivre l'opération en créant et en envoyant une proposition d'achat personnalisée en fonction de ses besoins, incluant les services particuliers et le nombre de licences dont il a besoin. Si vous êtes certifié pour proposer l'administration déléguée, vous pouvez ajouter à cette proposition l'option qui vous permet de gérer le compte pour votre client,
   
-## <a name="provide-delegated-administration"></a>Offre d'administration déléguée
+## <a name="provide-delegated-administration"></a>Administration déléguée
 
 L'administration déléguée permet à un partenaire de bénéficier de l'accès administratif complet à tous les services et abonnements du client. Cela signifie que vous pouvez effectuer des tâches d'administration pour le compte de vos clients (y compris la configuration de boîtes aux lettres, l'ajout ou la suppression d'utilisateurs ou de groupes, la migration de données et l'envoi de demandes de services au Support technique et au Service clientèle Microsoft. L'administration déléguée est proposée uniquement aux partenaires inscrits aux programmes Cloud Essentials, Cloud Accelerate ou Cloud Deployment.
   

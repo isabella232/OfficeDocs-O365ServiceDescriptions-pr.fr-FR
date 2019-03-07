@@ -1,7 +1,7 @@
 ---
 title: Administration et gestion [EOP]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: Cette section décrit les interfaces de gestion disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: f7525dd92e0162ace50c126c5592fc6fcc530253
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 3281fafa8dde443a25085a2605a085cd31623fcb
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210157"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467491"
 ---
 # <a name="administration-and-managementeop"></a>Administration et gestion [EOP]
 
@@ -31,12 +31,12 @@ Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez
 
 Le centre d'administration Microsoft 365 est le portail Web à partir duquel les administrateurs de services de chaque entreprise peuvent gérer les comptes d'utilisateur et les paramètres de chaque service Office 365 auquel ils s'abonnent. À partir du centre d'administration 365 de Microsoft, les administrateurs peuvent suivre des liens vers le centre d'administration Exchange, où ils peuvent gérer des paramètres spécifiques d'EOP.
   
-## <a name="access-to-the-exchange-admin-center"></a>Accès au Centre d'administration Exchange
+## <a name="access-to-the-exchange-admin-center"></a>Accès au Centre d’administration Exchange
 <a name="BKMK_accesstotheexchangeadmincenter"> </a>
 
 Le Centre d'administration Exchange (CAE) est une console de gestion unifiée facilitant l'utilisation et optimisée pour tous les types de déploiements. Le nouveau CAE amélioré remplace le Centre d'administration Forefront Online Protection for Exchange (FOPE). Le CAE offre une intégration plus étroite avec Office 365 ainsi qu'une expérience d'interface utilisateur cohérente et homogène dans tous les produits Exchange (Microsoft Exchange Online et Microsoft Exchange Server 2013). Pour plus d'informations sur le CAE, consultez la rubrique [Centre d'administration Exchange dans Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
   
-## <a name="remote-windows-powershell-access"></a>Accès à distance à Windows PowerShell
+## <a name="remote-windows-powershell-access"></a>Accès à Windows PowerShell à distance
 <a name="BKMK_remotewindowspowershellaccess"> </a>
 
  Les administrateurs peuvent utiliser Windows PowerShell à distance pour effectuer des tâches de gestion à partir de la ligne de commande. Pour obtenir plus d'informations sur l'utilisation de Windows PowerShell, y compris sur la création d'une session Windows PowerShell à distance et de la documentation sur chaque cmdlet, voir [Exchange Online PowerShell ](https://go.microsoft.com/fwlink/p/?LinkId=282266).

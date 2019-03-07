@@ -1,7 +1,7 @@
 ---
 title: Description de service Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer est un meilleur pair, sécurisé et un réseau social d’entreprise privé. Yammer permet aux employés plus productifs et réussie en leur permettant de collaborer facilement, prendre des décisions plus rapides et organiser des équipes d’effectuer toutes les difficultés. Il est une nouvelle façon de travailler naturellement lecteurs d’alignement de l’entreprise et la souplesse, réduit la durée du cycle, engage employés et améliore les relations avec les clients et partenaires.
-ms.openlocfilehash: 7feac0f0b107a159dd7d0545632815ec24679040
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
+ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035520"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467151"
 ---
 # <a name="yammer-service-description"></a>Description de service Yammer
 
-Yammer est un meilleur pair, sécurisé et un réseau social d’entreprise privé. Yammer permet aux employés plus productifs et réussie en leur permettant de collaborer facilement, prendre des décisions plus rapides et organiser des équipes d’effectuer toutes les difficultés. Il est une nouvelle façon de travailler naturellement lecteurs d’alignement de l’entreprise et la souplesse, réduit la durée du cycle, engage employés et améliore les relations avec les clients et partenaires.
+Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
   
 Pour obtenir la liste des plans Office 365 qui comprennent Yammer, voir [Familles et plans de services Office 365](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
@@ -37,7 +37,7 @@ Pour connaître la configuration système requise pour Office 365, le service pa
   
 ## <a name="yammer-plans"></a>Plans Yammer
 
-Yammer est disponible avec les plans suivants :
+Yammer est disponible avec les plans suivants :
   
 |**Offre**|**Description**|
 |:-----|:-----|
@@ -50,7 +50,7 @@ Yammer est disponible avec les plans suivants :
 ## <a name="yammer-enterprise-service-communications-policy"></a>Stratégie de communication du Service Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-Yammer est un composant d’Office 365 et conforme à la [stratégie de gestion des modifications Office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n’utilise pas la version ciblé pour déployer des mises à jour. 
+Yammer fait partie d'Office 365 et adhère à la stratégie de [gestion des modifications d'office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n'utilise pas la version ciblée pour déployer les mises à jour. 
   
 Tous les utilisateurs de Yammer sont soumis au test de fonctionnalité A/B. Cela permet à Microsoft de tester la stabilité, les performances et l'amélioration de l'expérience des fonctionnalités sur de nombreux environnements et périphériques. Des utilisateurs au sein du même réseau peuvent avoir différentes expériences au cours du test. Les clients ne peuvent pas refuser un test A/B.
   

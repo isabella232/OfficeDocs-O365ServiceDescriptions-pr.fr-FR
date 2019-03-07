@@ -1,7 +1,7 @@
 ---
 title: Word Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word Online (anciennement Word Web App) étend votre expérience Microsoft Word pour le navigateur web, où vous pouvez travailler avec des documents directement sur le site Web où est stocké le document.
-ms.openlocfilehash: fabe2049a8b35666a6bb608c3198ac68473ffca2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Word Online (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur Web, dans laquelle vous pouvez utiliser des documents directement sur le site Web où le document est stocké.
+ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035534"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467301"
 ---
-# <a name="word-online"></a>Word Online
+# <a name="word-online"></a>Word Online
 
-Word Online (anciennement Word Web App) étend votre expérience Microsoft Word pour le navigateur web, où vous pouvez travailler avec des documents directement sur le site Web où est stocké le document. 
+Word Online (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur Web, dans laquelle vous pouvez utiliser des documents directement sur le site Web où le document est stocké. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Guides d'alignement et disposition dynamique
 <a name="bkmk_AlignmentGuidesLivelayout"> </a>
@@ -146,7 +146,7 @@ Vous pouvez utiliser des valeurs prédéfinies pour appliquer des effets spécia
 
 Insérez un en-tête et un pied de page dans votre document dans Word Online et dans l'application Word de bureau. Vous avez également la possibilité d'appliquer des en-têtes et des pieds de page à toutes les pages sauf la première page de votre document. Pour en savoir plus sur l'utilisation des en-têtes et des pieds de page dans Word Online, voir [Nouveautés de Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
   
-## <a name="hyperlinks"></a>Liens hypertexte
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="bkmk_Hyperlinks"> </a>
 
 Word Online vous permet de créer facilement des liens vers des signets à l'intérieur d'un document et de définir une info-bulle qui s'affiche lorsque vous pointez le curseur sur le lien. En savoir plus sur les [liens hypertexte dans Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271863).
@@ -293,7 +293,7 @@ Word Online vous permet d'enregistrer une copie du document localement.
 
 Vous pouvez utiliser Word Online pour enregistrer ou convertir vos fichiers au format PDF afin de les partager ou de les faire imprimer chez un imprimeur professionnel. Aucun autre logiciel ou complément n'est nécessaire.
   
-## <a name="share"></a>Partage
+## <a name="share"></a>Share
 <a name="bkmk_Share"> </a>
 
 Word Online vous permet d'envoyer en un seul clic un lien à d'autres utilisateurs pour qu'ils puissent afficher et modifier le document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).

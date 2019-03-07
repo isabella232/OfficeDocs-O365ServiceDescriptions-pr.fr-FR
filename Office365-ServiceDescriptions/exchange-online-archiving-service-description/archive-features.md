@@ -1,7 +1,7 @@
 ---
-title: Fonctionnalités d'archivage dans l'archivage Exchange Online
-ms.author: pebaum
-author: pebaum
+title: Fonctionnalités d’archivage dans l’archivage Exchange Online
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: Les sections suivantes décrivent les fonctionnalités d’archivage d’archivage Microsoft Exchange Online.
-ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: Les sections suivantes décrivent les fonctionnalités d'archivage de Microsoft Exchange Online Archiving.
+ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215349"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467201"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a>Fonctionnalités d'archivage dans l'archivage Exchange Online
+# <a name="archive-features-in-exchange-online-archiving"></a>Fonctionnalités d’archivage dans l’archivage Exchange Online
 
-Les sections suivantes décrivent les fonctionnalités d’archivage d’archivage Microsoft Exchange Online.
+Les sections suivantes décrivent les fonctionnalités d'archivage de Microsoft Exchange Online Archiving.
   
 ## <a name="archive-mailbox"></a>Boîte aux lettres d'archivage
 
@@ -35,11 +35,11 @@ Les administrateurs peuvent utiliser le Centre d'administration Exchange (CAE) o
 > [!IMPORTANT]
 >  L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages dans Archivage Exchange Online à des fins d'archivage n'est pas autorisée. >  La boîte aux lettres d'archivage d'un utilisateur est destinée uniquement à cet utilisateur. Microsoft se réserve le droit de refuser l'archivage illimité dans les cas où la boîte aux lettres d'archivage d'un utilisateur sert à stocker les données d'archivage d'autres utilisateurs. 
   
-### <a name="move-messages-to-exchange-online-archiving"></a>Déplacer des messages vers l'archivage Exchange Online
+### <a name="move-messages-to-exchange-online-archiving"></a>Déplacer des messages vers l’archivage Exchange Online
 
-Les utilisateurs peuvent glisser-déplacer des messages à partir des fichiers .pst dans l’archive, pour faciliter l’accès en ligne. Les utilisateurs peuvent également déplacer des éléments de courrier électronique à partir de la boîte aux lettres principale pour la boîte aux lettres d’archive automatiquement, à l’aide de stratégies d’archivage, à réduire la taille et améliorer les performances de la boîte aux lettres principale. Lorsque ce comportement est différent de celui Exchange Hosted Archive, qui crée une copie de chaque message dans l’archive, des exigences de rétention peuvent être réalisés dans les deux cas. 
+Les utilisateurs peuvent glisser-déplacer des messages à partir de fichiers .pst dans l’archive pour faciliter l’accès en ligne. Ils peuvent également déplacer automatiquement des éléments de messagerie de la boîte aux lettres principale vers la boîte aux lettres d'archivage à l'aide de stratégies d'archivage, de manière à réduire la taille et à améliorer les performances de la boîte aux lettres principale. Si ce comportement est différent de celui d'Exchange Hosted Archive, ce qui entraîne la création d'une copie secondaire de chaque message de l'archive, les conditions requises en matière de conservation peuvent être satisfaites dans les deux cas. 
   
-### <a name="import-data-to-the-archive"></a>Importer des données dans l'archive
+### <a name="import-data-to-the-archive"></a>Importer des données dans l’archive
 
 Les utilisateurs peuvent importer des données comme suit :
   
@@ -74,7 +74,7 @@ Lorsque les administrateurs suppriment des utilisateurs du serveur Exchange loca
   
 ## <a name="mailbox-service-redundancy"></a>Redondance du service de boîte aux lettres
 
-Boîtes aux lettres d’archivage dans l’archivage Exchange Online sont répliqués vers plusieurs copies de base de données, dans les centres de données Microsoft géographiquement dispersés, pour fournir des capacités de restauration des données en cas d’échec de l’infrastructure de messagerie. Pour les échecs à grande échelle, gestion de la continuité d’activité est déclenchée. 
+Les boîtes aux lettres d'archivage dans Archivage Exchange Online sont répliquées vers plusieurs copies de bases de données, dans des centres de données Microsoft éparpillés géographiquement, afin de fournir la possibilité de restaurer des données dans l'éventualité d'une défaillance d'infrastructure de messagerie. Pour les défaillances de grande envergure, la gestion de continuité d'activité est lancée. 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

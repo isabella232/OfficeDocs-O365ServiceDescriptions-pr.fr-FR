@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités principales
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Les fonctions de base suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: 12d754a9119afe3e8827cb33b1bcbba3ee8f4ebe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Les fonctionnalités de base suivantes sont disponibles dans Project online.
+ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035515"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467467"
 ---
 # <a name="core-functionality"></a>Fonctionnalités principales
 
-Les fonctions de base suivantes sont disponibles dans Project Online.
+Les fonctionnalités de base suivantes sont disponibles dans Project online.
   
 Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
   
@@ -61,15 +61,15 @@ Collaborez sur le développement d'un planning en copiant et collant des détail
 
 Présentez les informations de projet sous forme graphique à l'aide de vues de diagramme de Gantt, de diagramme de réseau, de formulaire, de graphique, de feuille et d'utilisation des ressources. Consultez la rubrique [Choisir le bon affichage de votre planning de projet](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Interface utilisateur Microsoft Fluent : le ruban
+## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Interface utilisateur Microsoft Fluent: le ruban
 <a name="bkmk_MSFTFluent_UI_PP"> </a>
 
 Augmentez votre productivité avec le ruban, une interface avec onglets qui permet de rechercher et d'utiliser rapidement des fonctionnalités et des commandes Project. [En savoir plus sur le ruban](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
-## <a name="multiple-level-undo"></a>Annulations à plusieurs niveaux
+## <a name="multiple-level-undo"></a>Multiple-level undo
 <a name="bkmk_Multiplelevelundo"> </a>
 
-Vous pouvez annuler plusieurs modifications en même temps en utilisant le menu Annuler. 
+Vous pouvez annuler plusieurs modifications en même temps à l'aide du menu annuler. 
   
 ## <a name="network-diagram-view"></a>Affichage de diagrammes de réseau
 <a name="bkmk_Networkdiagramview"> </a>
@@ -91,17 +91,17 @@ L'aide Project est accessible en un seul clic sur le site Office.com ou directem
 
 Enregistrez un fichier de projet au format PDF ou XPS. Consultez la rubrique [Enregistrer un fichier de projet au format PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
-## <a name="placeholder-text-in-project-fields"></a>Texte d'espace réservé dans les champs de projet
+## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 <a name="bkmk_PlaceholdertextinProjectFields"> </a>
 
 Si vous n'êtes pas sûr de tous les détails pour un projet, vous pouvez utiliser le texte d'espace réservé, comme « TBD » pour les ressources, les dates de début, les dates de fin, et ainsi de suite. Pour plus d'informations, consultez la rubrique [Planification de haut en bas](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
-## <a name="project-templates"></a>Modèles de projets
+## <a name="project-templates"></a>Modèles de projet
 <a name="bkmk_ProjectTemplates"> </a>
 
 Vous pouvez gagner beaucoup de temps lors de la création d'un projet en utilisant un ancien projet comme modèle. Consultez la rubrique [Créer un projet à partir d'un autre projet ou d'un modèle](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
-## <a name="start-experience"></a>Assistance au démarrage
+## <a name="start-experience"></a>Assistance au début
 <a name="bkmk_Startexperience"> </a>
 
 Au lieu de vous laisser avec un projet vide, Project 2013 offre un centre de démarrage pour votre projet. Vous pouvez utiliser des modèles client ou un guide intégré pour démarrer en quatre étapes faciles.
@@ -111,7 +111,7 @@ Au lieu de vous laisser avec un projet vide, Project 2013 offre un centre de dé
 
 Renvoyez automatiquement à la ligne les noms des tâches ou des ressources. Consultez la rubrique [Renvoyer du texte à la ligne en modifiant la hauteur de ligne](https://go.microsoft.com/fwlink/p/?LinkId=271344).
   
-## <a name="timeline-view"></a>Affichage de la chronologie
+## <a name="timeline-view"></a>Timeline view
 <a name="bkmk_TimelineView"> </a>
 
 Créez et personnalisez l'affichage de la chronologie pour visualiser les détails de votre planification et communiquer avec les intervenants. Visionnez la [Vidéo : Créer une chronologie](https://go.microsoft.com/fwlink/?LinkId=402912).

@@ -1,7 +1,7 @@
 ---
 title: Limites de Skype Entreprise Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'Les limites dans Skype pour Business Online peuvent être classées dans les catégories suivantes :'
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+description: 'Les limites de Skype entreprise Online appartiennent aux catégories suivantes:'
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213891"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466961"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
-Les limites dans Skype pour Business Online peuvent être classées dans les catégories suivantes :
+Les limites de Skype entreprise Online appartiennent aux catégories suivantes:
   
 - [Limites pair à pair](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -42,14 +42,14 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 
 - **Limite de transfert de fichiers** Taille maximale d'un fichier qui peut être transféré lors d'une conversation par messagerie instantanée dans Skype Entreprise Online. Pour connaître les types de fichiers dont le transfert est bloqué, consultez l'article du support Microsoft sur [l'envoi ou la réception de fichiers ou de pièces jointes dans Skype Entreprise Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
-- **Limite de conversations ouvertes dans des onglets** Nombre maximal d'onglets de conversation qu'un utilisateur Skype Entreprise peut ouvrir en même temps. 
+- **Limite des conversations ouvertes dans des onglets** Nombre maximal d'onglets de conversation qu'un utilisateur Skype Entreprise peut ouvrir en même temps. 
     
-### <a name="peer-to-peer-limits-across-office-365-options"></a>Limites de pair à pair parmi les options d'Office 365
+### <a name="peer-to-peer-limits-across-office-365-options"></a>Limites de pair à pair parmi les options d’Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
-|Limite de transfert de fichiers  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Non applicable  <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|Limite de transfert de fichiers  <br/> |Sans limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Non applicable  <br/> |
 |Limite de conversation<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicable  <br/> |
    
@@ -61,7 +61,7 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Limite de transfert de fichiers  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |
+|Limite de transfert de fichiers  <br/> |Sans limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |
 |Limite de conversation<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
@@ -83,12 +83,12 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
     
 - **Invités participant par téléphone** Nombre maximal d'invités qui peuvent participer à une réunion par téléphone. 
     
-### <a name="meeting-limits-across-office-365-options"></a>Limites de réunion parmi les options Office 365
+### <a name="meeting-limits-across-office-365-options"></a>Limites de réunion parmi les options Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
-|Limite de chargement de fichiers  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |Non applicable  <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|Limite de chargement de fichiers  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |Non applicable  <br/> |
 |Participants à une réunion Skype Entreprise<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
 |Présentateurs dans une réunion Skype Entreprise  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
 |Participants à une réunion Skype Entreprise Web App  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
@@ -104,7 +104,7 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Limite de chargement de fichiers  <br/> |500 Mo  <br/> |Non applicable  <br/> |500 Mo  <br/> |
+|Limite de chargement de fichiers  <br/> |500 Mo  <br/> |Non applicable  <br/> |500 Mo  <br/> |
 |Participants à une réunion Skype Entreprise  <br/> |250  <br/> |Non applicable  <br/> |250  <br/> |
 |Présentateurs dans une réunion Skype Entreprise  <br/> |250  <br/> |Non applicable  <br/> |250  <br/> |
 |Participants à une réunion Skype Entreprise Web App  <br/> |250  <br/> |Non applicable  <br/> |250  <br/> |
@@ -127,10 +127,10 @@ Les limites dans Skype pour Business Online peuvent être classées dans les cat
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Type de réunion** <br/> |**Description** <br/> 
-|Réunion unique| Réunion seront accessible au moins jusqu'à 14 jours après l’heure planifiée, ou la dernière réunion activation ou la dernière mise à jour de réunion, selon ce qui est le plus récent.
-|Réunion périodique avec date de fin| Réunion seront accessible au moins jusqu'à 14 jours après l’heure de fin prévue de la dernière occurrence de réunion, la dernière activation de réunion ou dernière mise à jour de réunion, selon ce qui est le plus récent.
-|Réunion périodique sans date de fin| Réunion sera toujours accessible, sont nouvelles jointures de conférence (activations) ou la planification des mises à jour au moins une fois par an
-|     Conférence maintenant|Réunion seront accessible au moins 8 heures.
+|Réunion unique| La réunion sera accessible au moins 14 jours après l'heure planifiée, ou lors de la dernière mise à jour de la réunion ou de la dernière réunion, selon la date la plus récente.
+|Réunion périodique avec date de fin| La réunion sera accessible au moins 14 jours après l'heure de fin planifiée de la dernière occurrence de la réunion, ou lors de la dernière mise à jour de la réunion, la date la plus récente étant la plus récente.
+|Réunion périodique sans date de fin| La réunion sera toujours accessible, à condition qu'il y ait de nouvelles jointures de conférence (activations) ou planifiez les mises à jour au moins une fois par an.
+|Conférence maintenant|La réunion sera accessible pendant au moins 8 heures.
 
 
   

@@ -1,7 +1,7 @@
 ---
 title: Description du service Skype Entreprise Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,13 +14,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
-description: Voulez-vous savoir quelles licences vous devez acheter pour obtenir certaines fonctionnalités de Skype entreprise? Consultez la rubrique vue d'ensemble des licences Skype entreprise.
-ms.openlocfilehash: 53a7c96fff90e27e9a2ef04bce31b03a022a2a6f
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Voulez-vous savoir quelles licences vous devez acheter pour obtenir certaines fonctionnalités de Skype Entreprise ? Consultez la rubrique vue d'ensemble des licences Skype entreprise.
+ms.openlocfilehash: d96ff935b03efdd3db8af6bcc6d35f842a221588
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210377"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467961"
 ---
 # <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
 
@@ -55,18 +55,18 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |**[Clients pour Skype Entreprise Online](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
-|Skype Entreprise Complet  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
+|Skype Entreprise Complet  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Skype Entreprise Basique  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |Non  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |
 |Lync 2013 Basic  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |Non  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |
-|Application Skype Entreprise du Windows Store  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|Lync pour Mac 2011  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|Clients mobiles Skype Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|Skype Entreprise Web App  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|**[Messagerie instantanée, présence et contacts](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
-|Présence et messagerie instantanée entre PC  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|Messagerie instantanée et présence de groupes  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Application Skype Entreprise du Windows Store  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Lync pour Mac 2011  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Clients mobiles Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Skype Entreprise Web App  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|**[Messagerie instantanée, présence et contacts](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|Présence et messagerie instantanée entre PC  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Présence et messagerie instantanée de groupes  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Configuration de la carte de visite  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Configuration de Mon image  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Mon image : expérience de photo URL  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -76,119 +76,121 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.
 |Expansion de la liste de distribution  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Conversation permanente  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Photos de l'expéditeur/du récepteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Média, vidéo et audio entre utilisateurs Skype](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**[Média, vidéo et audio entre utilisateurs Skype](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Partage de Bureau et Partage d'écran sur vidéo  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>4</sup> <br/> |
 |Partage d'applications et de Bureaux et Protocole Bureau à distance  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>4</sup> <br/> |
 |Transferts de fichiers  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Vidéo  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Qualité de service (QoS) sur le réseau - valeur DSCP (Differentiated Services Code Point)  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**[Fédération et connectivité PIC (Public IM Connectivity)](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**[Fédération et connectivité PIC (Public IM Connectivity)](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Office Communications Server 2007 R2 et Lync Server 2010 (messagerie instantanée, présence, audio, vidéo, conférences)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Fédération XMPP (utilisé par Google Talk, par exemple) et Sametime  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 | Fédération Skype  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Fédération AOL et Yahoo!  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**[Réunions Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**[Réunions Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Audioconférences ad hoc et planifiées  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Vidéoconférences ad hoc et planifiées  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Vidéo de l'intervenant actif  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|Encodage et décodage H.264  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Vidéo en groupe  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Vidéo haute définition ou photos de tous les participants  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Contrôles du présentateur  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Vue du participant sélectionné  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Partage OneNote  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Conférences web ad hoc et planifiées  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Encodage et décodage H.264  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Vidéo en groupe  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Vidéo haute définition ou photos de tous les participants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Contrôles du présentateur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Vue du participant sélectionné  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Partage OneNote  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Conférences web ad hoc et planifiées  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Accès à une réunion Skype Entreprise via l'audioconférence (interne)  <br/> |Non  <br/> |Non  <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |Oui  <br/> |Non  <br/> |
-|Numérotation de réunion Skype Entreprise via un fournisseur de services d'audioconférence certifié  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Partage PowerPoint  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Transfert de fichiers  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|Tableau blanc et annotations  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Téléchargement PowerPoint  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Interrogation  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Enregistrement et lecture côté client  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Numérotation de réunion Skype Entreprise via un fournisseur de services d'audioconférence certifié  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Partage PowerPoint  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Transfert de fichiers  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Tableau blanc et annotations  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Téléchargement PowerPoint  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Interrogation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Enregistrement et lecture côté client  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Enregistrement et lecture côté serveur  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Salle d'attente  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Diffusion de réunion Skype  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Accès invité aux réunions Skype avec Skype Entreprise Web App  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Planification de réunions Skype Entreprise dans Outlook  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Planification de réunions Skype Entreprise dans Outlook pour le compte de tiers (délégation)  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Planification de réunions Skype Entreprise avec Web Scheduler  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Planification de réunions Lync dans Outlook Web App  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Délégation Outlook pour la planification de réunions  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Salle d'attente  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Diffusion de réunion Skype  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Accès invité aux réunions Skype avec Skype Entreprise Web App  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Planification de réunions Skype Entreprise dans Outlook  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Planification de réunions Skype Entreprise dans Outlook pour le compte de tiers (délégation)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Planification de réunions Skype Entreprise avec Web Scheduler  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Planification de réunions Lync dans Outlook Web App  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Délégation Outlook pour la planification de réunions  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Création de réunions publiques avec des ID de réunion statiques à partir d'Outlook  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**Appel vocal** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Appel vocal** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Les standards automatiques  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Options occupées  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Survivable Branch Appliance  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Contrôle d'admission des appels  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Appel et réponse aux appels  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
+|Appel et réponse aux appels  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Délégation d'appel  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|Transfert d'appel et sonnerie simultanée  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|Historique des appels  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Mise en attente/récupération d'appels  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Transfert d'appel et sonnerie simultanée  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Historique des appels  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Mise en attente/récupération d'appels  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Parcage d'appel  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Transfert d'appel (modes masqué, consultation et mobile)  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|ID de l'appelant  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Appel en attente  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Fonction de double appel  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Clients pour PC, Mac et mobiles  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Commutation d'appareils  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Sonneries distinctives  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Routage anti-dérangement  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Transfert d'appel (modes masqué, consultation et mobile)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|ID de l'appelant  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Appel en attente  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Fonction de double appel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Clients pour PC, Mac et mobiles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Commutation d'appareils  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Sonneries distinctives  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Routage anti-dérangement  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Appel d'urgence - emplacement statique  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui <sup>7</sup> <br/> |Non  <br/> |
 |Appel d'urgence - emplacement dynamique  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Routage d'appel de calendrier d'entreprise  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Routage d'appel de calendrier d'entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Numérotation d'extension  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Collecte d'appel de groupe  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Groupements de postes/files d'attente d'appels et traitement  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|Pavé de numérotation intégré  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Pavé de numérotation intégré  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Routage basé sur un emplacement  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Musique d'attente  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Musique d'attente  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Manipulation DID sortante  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Ligne privée  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Téléphones de bureau IP qualifié  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Téléphones de bureau IP qualifié  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Mode partage de lignes  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Appels Skype et fédérés  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Appel d'équipe  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Moniteur d'appel vidéo  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Appels Skype et fédérés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Appel d'équipe  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Moniteur d'appel vidéo  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Messagerie vocale  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Appel RTC dans Skype Entreprise](http://technet.microsoft.com/library/cf1a3734-3b82-4f63-b390-f14b91ce1a0e.aspx) (plan Appels nationaux, achat de complément requis)  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui  <br/> |Non  <br/> |
 |[Appel RTC dans Skype Entreprise](http://technet.microsoft.com/library/cf1a3734-3b82-4f63-b390-f14b91ce1a0e.aspx) (plan Appels internationaux, achat de complément requis)  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui  <br/> |Non  <br/> |
-|[Crédits de communication](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |Non  <br/> |Non  <br/> |N °<sup>6</sup> <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|Appels vocaux Skype Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|**[Sécurité et archivage](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
-|Messagerie instantanée et chiffrement des données multimédias  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
+|[Crédits de communication](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |Non  <br/> |Non  <br/> |N °<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Appels vocaux Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|**[Sécurité et archivage](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|Messagerie instantanée et chiffrement des données multimédias  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Messagerie instantanée et filtrage de fichiers  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Contrôle de version de client  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
+|Contrôle de version de client  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Archivage du contenu de messagerie instantanée  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |Archivage du contenu de conférence  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |Archivage du partage d'application et du partage de Bureau  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Configuration de l'archivage au niveau utilisateur  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
-|Fichiers de trace de connexion  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
+|Fichiers de trace de connexion  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Clé client pour Office 365<sup>8</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|**[Interopérabilité Exchange et SharePoint](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
-|Interopérabilité des informations de présence avec Exchange Server  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|Interopérabilité des informations de présence avec Exchange Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|**[Interopérabilité Exchange et SharePoint](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|Interopérabilité des informations de présence avec Exchange Server  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Interopérabilité des informations de présence avec Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Online  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Interopérabilité Outlook Web App  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Interopérabilité Outlook Web App  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Interopérabilité de l'archivage avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|Interopérabilité de l'archivage avec Exchange Online  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|Interopérabilité de l'archivage avec Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Recherche de compétences avec SharePoint Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Recherche de compétences avec SharePoint Online  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**[Gestion et administration de Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
-|Portail Microsoft Office 365  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|Centre d'administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui  <br/> |
-|Centre d'administration de Skype Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|Windows PowerShell  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|Création de rapports Skype entreprise dans le centre d'administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|**[Gestion et administration de Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|Portail Microsoft Office 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Centre d'administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Centre d'administration de Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Création de rapports Skype entreprise dans le centre d'administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
    
-> <sup>1</sup> le client Skype entreprise (Lync) est pris en charge pour une utilisation avec ces options d'abonnement, mais il n'est pas inclus. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync basique est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui incluent Skype entreprise online. Office 365 proPlus et Office 365 Enterprise E3 incluent l'application Skype entreprise (Lync) complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l'archivage et les fonctionnalités de conformité. Une licence Skype entreprise Online doit être attribuée à chaque utilisateur. Pour plus d'informations sur les fonctionnalités de Lync Basic, voir [clients pour Skype entreprise Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/> <sup>2</sup> L'archivage pour Skype Entreprise Online dépend de la fonctionnalité de conservation inaltérable d'Exchange, qui n'est pas incluse dans ce plan. 
-<br/><sup>3</sup> vous devez affecter un plan Exchange Online (plan 2) aux utilisateurs qui souhaitent utiliser la messagerie vocale. Un plan Exchange Online (plan 1) ne peut pas être utilisé pour la messagerie vocale.<br/><sup>4</sup> un utilisateur d'Office 365 Enterprise F1 peut participer à une session de partage s'il est invité par un utilisateur de Skype entreprise Online plan 2 ou Enterprise. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype Entreprise (Lync) complète, qui intègre des fonctionnalités supplémentaires, notamment des fonctionnalités avancées de prise en charge de téléphonie, d'archivage et de conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. For more information on Lync Basic features, see [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). 
+<br/> <sup>2</sup> L'archivage pour Skype Entreprise Online dépend de la fonctionnalité de conservation inaltérable d'Exchange, qui n'est pas incluse dans ce plan. 
+<br/><sup>3</sup> vous devez affecter un plan Exchange Online (plan 2) aux utilisateurs qui souhaitent utiliser la messagerie vocale. An Exchange Online (Plan 1) plan can't be used for voice mail. 
+<br/><sup>4</sup> un utilisateur d'Office 365 Enterprise F1 peut participer à une session de partage s'il est invité par un utilisateur de Skype entreprise Online plan 2 ou Enterprise. 
 <br/> <sup>5</sup> l'audioconférence peut être ajoutée à Office 365 Business Premium, Office 365 Enterprise E1 et les plans d'abonnement Office 365 Enterprise E3 en tant que module complémentaire. 
 <br/> <sup>6</sup> les crédits de communication peuvent être ajoutés au plan d'abonnement Office 365 Business Premium en tant que module complémentaire pour prendre en charge l'audioconférence uniquement. 
 <br/><sup>7</sup> Les appels d'urgence ne sont pas disponibles sur les clients Mac et mobiles. 
-<br/> <sup>8</sup> la clé client vous permet de contrôler les clés de chiffrement de votre organisation, puis de configurer Office 365 afin de les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données de Rest incluent des données à partir d'Exchange Online et de Skype entreprise, qui sont stockées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive entreprise. La clé client vous permet de respecter les obligations de conformité, car vous contrôlez les clés de chiffrement utilisées par Office 365 pour déchiffrer les données. Pour plus d'informations, consultez [la rubrique contrôle de vos données dans Office 365 à l'aide de la clé client](https://go.microsoft.com/fwlink/?linkid=862702). 
+<br/> <sup>8</sup> la clé client vous permet de contrôler les clés de chiffrement de votre organisation, puis de configurer Office 365 afin de les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Clé client vous permet de respecter les obligations de conformité car vous contrôlez les clés de chiffrement utilisées par Office 365 pour déchiffrer les données. Pour plus d'informations, consultez [la rubrique contrôle de vos données dans Office 365 à l'aide de la clé client](https://go.microsoft.com/fwlink/?linkid=862702). 
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Skype Entreprise Online
 
@@ -204,102 +206,102 @@ Le tableau suivant indique la disponibilité des fonctionnalités Skype Entrepri
 |Skype Entreprise Complet  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Skype Entreprise Basique  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |
 |Lync 2013 Basic  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |
-|Application Skype Entreprise du Windows Store  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
-|Lync pour Mac 2011  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Clients mobiles Skype Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Skype Entreprise Web App  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
+|Application Skype Entreprise du Windows Store  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Lync pour Mac 2011  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Clients mobiles Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Skype Entreprise Web App  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Messagerie instantanée, présence et contacts](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Présence et messagerie instantanée entre PC  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Messagerie instantanée et présence de groupes  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
-|Configuration de la carte de visite  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Configuration de Mon image  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+|Présence et messagerie instantanée entre PC  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Présence et messagerie instantanée de groupes  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Configuration de la carte de visite  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Configuration de Mon image  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Mon image : expérience de photo URL  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|Configuration de la liste des contacts  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Magasin de contacts unifié  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
-|Recherche dans le carnet d'adresses  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Expansion de la liste de distribution  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+|Configuration de la liste des contacts  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Magasin de contacts unifié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Recherche dans le carnet d'adresses  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Expansion de la liste de distribution  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Conversation permanente  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|Photos de l'expéditeur/du récepteur  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
+|Photos de l'expéditeur/du récepteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Média, vidéo et audio entre utilisateurs Skype](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
 |Partage de Bureau  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |
 |Partage d'application  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |
-|Transferts de fichiers  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Appels vocaux  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Vidéo  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
+|Transferts de fichiers  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Vidéo  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Optimisation du chemin d'accès au support  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Qualité de service (QoS) sur le réseau - valeur DSCP (Differentiated Services Code Point)  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Partage d'écran sur vidéo  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |
 |**[Fédération et connectivité PIC (Public IM Connectivity)](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Office Communications Server 2007 R2 et Lync Server 2010 (messagerie instantanée, présence, audio, vidéo, conférences)  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+|Office Communications Server 2007 R2 et Lync Server 2010 (messagerie instantanée, présence, audio, vidéo, conférences)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Fédération XMPP (utilisé par Google Talk, par exemple) et Sametime  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-| Fédération Skype  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+| Fédération Skype  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Fédération AOL et Yahoo!  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |**[Réunions Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Audioconférences ad hoc et planifiées  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Vidéoconférences ad hoc et planifiées  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Vidéo de l'intervenant actif  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Encodage et décodage H.264  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Vidéo en groupe  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Vidéo haute définition ou photos de tous les participants  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Contrôles du présentateur  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Vue du participant sélectionné  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Partage OneNote  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Conférences web ad hoc et planifiées  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
+|Audioconférences ad hoc et planifiées  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Vidéoconférences ad hoc et planifiées  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Vidéo de l'intervenant actif  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Encodage et décodage H.264  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Vidéo en groupe  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Vidéo haute définition ou photos de tous les participants  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Contrôles du présentateur  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Vue du participant sélectionné  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Partage OneNote  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Conférences web ad hoc et planifiées  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Conférence PSTN RTC via un fournisseur certifié de services d'audioconférence (ACP)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|Partage PowerPoint  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Tableau blanc et annotations  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Téléchargement PowerPoint  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Interrogation  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
+|Partage PowerPoint  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Tableau blanc et annotations  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Téléchargement PowerPoint  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Interrogation  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Enregistrement et lecture côté client  <br/> |Oui  <br/> |Non  <br/> |Oui<sup>1</sup> <br/> |
 |Enregistrement et lecture côté serveur  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Salle d'attente  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Accès invité aux réunions Skype Entreprise avec Skype Entreprise Web App  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Planification de réunions Skype Entreprise dans Outlook  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Planification de réunions Skype Entreprise dans Outlook pour le compte de tiers (délégation)  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Planification de réunions Skype Entreprise avec Web Scheduler  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Planification de réunions Lync dans Outlook Web App  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|Délégation Outlook pour la planification de réunions  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
+|Salle d'attente  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Accès invité aux réunions Skype Entreprise avec Skype Entreprise Web App  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Planification de réunions Skype Entreprise dans Outlook  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Planification de réunions Skype Entreprise dans Outlook pour le compte de tiers (délégation)  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Planification de réunions Skype Entreprise avec Web Scheduler  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Planification de réunions Lync dans Outlook Web App  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Délégation Outlook pour la planification de réunions  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Création de réunions publiques avec des ID de réunion statiques à partir d'Outlook  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |**[Sécurité et archivage](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Messagerie instantanée et chiffrement des données multimédias  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+|Messagerie instantanée et chiffrement des données multimédias  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Messagerie instantanée et filtrage de fichiers  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|Contrôle de version de client  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
+|Contrôle de version de client  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Archivage du contenu de messagerie instantanée  <br/> |Oui  <br/> |N °<sup>3</sup> <br/> |N °<sup>3</sup> <br/> |
 |Archivage du contenu de conférence  <br/> |Oui  <br/> |N °<sup>3</sup> <br/> |N °<sup>3</sup> <br/> |
 |Archivage du partage d'application et du partage de Bureau  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Configuration de l'archivage au niveau utilisateur  <br/> |Oui  <br/> |N °<sup>3</sup> <br/> |N °<sup>3</sup> <br/> |
-|Fichiers de trace de connexion  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+|Fichiers de trace de connexion  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Interopérabilité Exchange et SharePoint](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Interopérabilité des informations de présence avec Exchange Server  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+|Interopérabilité des informations de présence avec Exchange Server  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Interopérabilité des informations de présence avec Exchange Online  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Online  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Interopérabilité Outlook Web App  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |
 |Interopérabilité de l'archivage avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|Interopérabilité de l'archivage avec Exchange Online  <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |
+|Interopérabilité de l'archivage avec Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Recherche de compétences avec SharePoint Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Recherche de compétences avec SharePoint Online  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |**[Gestion et administration de Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
-|Portail Microsoft Office 365  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
+|Portail Microsoft Office 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Centre d'administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Centre d'administration de Skype Entreprise  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
-|Windows PowerShell  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |
+|Centre d'administration de Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Création de rapports Skype entreprise dans le centre d'administration Microsoft 365  <br/> |Non  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
    
-> <sup>1</sup> le client Skype entreprise (Lync) est pris en charge pour une utilisation avec ces options d'abonnement, mais il n'est pas inclus. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync basique est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui incluent Skype entreprise online. Office 365 proPlus et Office 365 Enterprise E3 incluent l'application Skype entreprise (Lync) complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de &amp; la téléphonie avancée, les fonctionnalités de conformité de l'archivage. Une licence Skype entreprise Online doit être attribuée à chaque utilisateur. Pour plus d'informations sur les fonctionnalités de Lync Basic, voir [clients pour Skype entreprise Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Pour plus d'informations sur les fonctionnalités de Lync Basic, voir [clients pour Skype entreprise Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> 
 <br/><sup>2</sup> un utilisateur de Skype entreprise Online plan 1 peut participer à une session de partage si l'utilisateur est invité par un utilisateur de Skype entreprise Online plan 2. 
-<br/> <sup>3</sup> l'archivage pour Skype entreprise Online dépend de la fonctionnalité de conservation inaltérable d'Exchange, qui n'est pas incluse dans ce plan. 
-<br/><sup>4</sup> les clients disposant d'un plan Skype entreprise Online autonome peuvent accéder aux fonctionnalités de création de rapports s'ils possèdent au moins une licence Exchange active, telle qu'Exchange Online plan 1 ou Exchange Online plan 2. 
-<br/><sup>5</sup> Non pris en charge si Exchange Online a été acheté dans le cadre d’un plan Kiosk. 
+<br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
+<br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 
+<br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan. 
   
-## <a name="skype-meeting-broadcast-and-calling-plan-licensing-options"></a>Diffusion de réunion Skype et options de licence des plans d'appel
+## <a name="skype-meeting-broadcast-and-calling-plan-licensing-options"></a>Diffusion de réunion Skype et options de licence des plans d’appel
 
-Le tableau suivant répertorie les options de licence pour la diffusion de réunion Skype, l'audioconférence, le système téléphonique et les plans d'appel.
+Le tableau suivant répertorie les options de licence pour la diffusion de réunion Skype, l’audioconférence, le système téléphonique et les plans d’appel.
   
 |||
 |:-----|:-----|
 |**Plan Office 365** <br/> |**Fonctionnalités Skype Entreprise Online** <br/> |
-|Skype Entreprise Online Plan autonome 2  <br/> | Diffusion de réunion Skype  <br/>  Une licence Office 365 est requise pour l'organisateur, le producteur, le membre de l'équipe d'événement et les participants authentifiés.  <br/>  Pour les participants anonymes, aucune Office 365 licence n'est requise.  <br/>  Avec Skype Entreprise Online Plan autonome 2 ou une suite Office 365 contenant le Plan 2, les composants additionnels suivants sont disponibles :  <br/>  Audioconférence (disponible dans certains pays).  <br/>  Système téléphonique.  <br/> > [!NOTE]> lorsqu'il est acheté seul sans forfait d'appels, le système téléphonique active uniquement la fonctionnalité de voix hybride. La voix hybride nécessite un déploiement de voix hybride client sur site pour activer les appels PSTN à l'aide de vos fournisseurs de services RTC existants. Les composants additionnels du système téléphonique suivants sont disponibles pour activer les appels RTC entrants et sortants en utilisant Microsoft comme fournisseur de services RTC: > national Calling plan (disponible dans certains pays) > international Calling plan (disponible dans des limites limitées pays           |
+|Skype Entreprise Online Plan autonome 2  <br/> | Diffusion de réunion Skype  <br/>  Une licence Office 365 est requise pour l'organisateur, le producteur, le membre de l'équipe d'événement et les participants authentifiés.  <br/>  Pour les participants anonymes, aucune Office 365 licence n'est requise.  <br/>  Avec Skype Entreprise Online Plan autonome 2 ou une suite Office 365 contenant le Plan 2, les composants additionnels suivants sont disponibles :  <br/>  Audioconférence (disponible dans certains pays).  <br/>  Système téléphonique.  <br/> > [!NOTE]>  Quand il est acheté seul sans plans d'appel, le système téléphonique permet d'accéder uniquement à la fonctionnalité de voix hybride. La voix hybride nécessite un déploiement de voix hybride client sur site pour activer les appels PSTN à l'aide de vos fournisseurs de services RTC existants. Les compléments de Système téléphonique suivants sont disponibles pour activer les appels PSTN entrants et sortants en utilisant Microsoft comme fournisseur de services PSTN : >  Plan d'appels nationaux (disponible dans certains pays) >  Plan d'appels internationaux (disponible dans certains pays)           |
 |Skype Entreprise Online Plan autonome 3  <br/> |Skype Entreprise Online Plan autonome 3.  <br/> > [!NOTE]> Ce plan est utilisé uniquement pour les fournisseurs de services vocaux tiers et ne fournit  *aucun*  service, tel que l'audioconférence, le système téléphonique, les plans d'appels nationaux ou internationaux.           |
 |Office 365 Business Premium  <br/> | Diffusion de réunion Skype :  <br/>  Une licence Office 365 est requise pour l'organisateur, le producteur, le membre de l'équipe d'événement et les participants authentifiés.  <br/>  Pour les participants anonymes, aucune Office 365 licence n'est requise.  <br/>  Audioconférence (dans certains pays).  <br/> |
 |Office 365 Entreprise E1  <br/> |Skype Entreprise Online Plan autonome 2 (voir Skype Entreprise Online Plan autonome 2 ci-dessus pour les fonctionnalités incluses).  <br/> |

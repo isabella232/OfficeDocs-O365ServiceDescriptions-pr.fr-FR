@@ -1,7 +1,7 @@
 ---
 title: Gestion des tâches
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Les fonctionnalités de gestion de tâches suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: e646577d086d0d1a024d4f6705bc54c8b4f1fcdd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
+ms.openlocfilehash: 5d83b81be8b31518b640e016f827becc6e592151
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035494"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468191"
 ---
 # <a name="task-management"></a>Gestion des tâches
 
-Les fonctionnalités de gestion de tâches suivantes sont disponibles dans Project Online.
+Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
   
 Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
   
-## <a name="active-and-inactive-tasks"></a>Tâches actives et inactives
+## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 <a name="bkmk_ActiveInactiveTasks"> </a>
 
 Lorsque vous désactivez une tâche, elle reste dans le plan du projet mais n'a aucune incidence sur les éléments suivants : la disponibilité des ressources, le planning du projet ou la planification des autres tâches. Pour en savoir plus, consultez la rubrique [Désactiver une tâche](https://go.microsoft.com/fwlink/p/?LinkId=271335).
@@ -41,7 +41,7 @@ Obtenez des suggestions pour les noms des tâches ou des ressources lorsque vous
 
 Utilisez le mode de planification automatique pour planifier vos tâches automatiquement. En savoir plus sur la [planification des tâches dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271331). 
   
-## <a name="calendar-date-extended-to-2149"></a>Date du calendrier prolongée jusqu'à 2149
+## <a name="calendar-date-extended-to-2149"></a>Date du calendrier prolongée jusqu’à 2149
 <a name="bkmk_Calendardatextended"> </a>
 
 Les tâches des projets peuvent maintenant utiliser des dates du calendrier jusqu'à 2149. 
@@ -61,17 +61,17 @@ Affichez les facteurs qui influent sur la planification d'une tâche, tels que l
 
 Visualisez la façon dont une tâche est associée à d'autres en surlignant la séquence des tâches tout au long du projet. Pour en savoir plus, consultez la rubrique relative à la [mise en évidence des liens entre les tâches](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
-## <a name="top-down-summary-tasks"></a>Tâches récapitulatives verticales
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 <a name="bkmk_Topdownsummarytasks"> </a>
 
 Créez une affectation de ressource dans une tâche récapitulative. En savoir plus sur la [planification verticale](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
-## <a name="update-progress"></a>Mettre à jour la progression
+## <a name="update-progress"></a>Mise à Mettre à jour la progression
 <a name="bkmk_Updateprogress"> </a>
 
 Mettez à jour la progression d'une tâche pour afficher le pourcentage réalisé.
   
-## <a name="user-controlled-and-manual-scheduling"></a>Planification manuelle et contrôlée par l'utilisateur
+## <a name="user-controlled-and-manual-scheduling"></a>Planification manuelle et contrôlée par l’utilisateur
 <a name="bkmk_User_controlledManualscheduling"> </a>
 
 Utilisez le mode de planification manuelle pour planifier des tâches manuellement. En savoir plus sur la [planification des tâches dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271331).

@@ -1,7 +1,7 @@
 ---
-title: Description du Service Direct ingénierie Office 365
-ms.author: pebaum
-author: pebaum
+title: Description du service d'ingénierie technique Office 365
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/28/2018
 ms.audience: ITPro
@@ -9,21 +9,21 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-description: Office 365 ingénierie directe est un ajout de services support de niveau entreprise pour un contrat de Premier Microsoft Support. L’Office 365 ingénierie Direct Service Description contient des informations supplémentaires concernant les fonctionnalités offertes et les conditions d’implémentation.
-ms.openlocfilehash: 702914a9478bededec3f39d206657c9a5c9d35e1
-ms.sourcegitcommit: 3254b66524fda084efcdbe751b1d28afd35a5d56
+description: Office 365 Engineering direct est un service de support technique d'entreprise supplémentaire pour un contrat de support Microsoft premier. La description de service ingénierie technique Office 365 contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l'implémentation.
+ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27473474"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467891"
 ---
-# <a name="office-365-engineering-direct-service-description"></a>Description du Service Direct ingénierie Office 365
+# <a name="office-365-engineering-direct-service-description"></a>Description du service d'ingénierie technique Office 365
 
-Office 365 ingénierie directe est un ajout de services support de niveau entreprise pour un contrat de Premier Microsoft Support. [Office 365 ingénierie Direct Service Description](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) contient des informations supplémentaires sur les fonctionnalités offertes et les conditions d’implémentation.
+Office 365 Engineering direct est un service de support technique d'entreprise supplémentaire pour un contrat de support Microsoft premier. La [Description de service ingénierie technique Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l'implémentation.
 
-Pour obtenir la Office 365 ingénierie Direct offre un nouveau client, que votre organisation doit s’abonner à une offre de Support Microsoft Premier, correspond au niveau de classification de grande entreprise pour les services Office 365 et exécuter un supplément au contrat de support. Applique un coût supplémentaire pour la suite de l’ajout de services. Contactez votre équipe de compte Microsoft pour confirmer votre statut prise en charge et lancer des modifications contractuelles pour sécuriser l’offre de prise en charge. 
+Pour obtenir l'offre Office 365 ingénierie directe en tant que nouveau client, votre organisation doit s'abonner à une offre de support Microsoft premier, respecter le niveau de classification de grande entreprise pour les services 365 Office et exécuter un addendum de contrat de support. Un coût supplémentaire s'applique à la suite de services ajoutés. Contactez le représentant de votre équipe de compte Microsoft pour confirmer l'état de votre contrat de support et pour initier des modifications contractuelles afin de sécuriser l'offre de support technique. 
 
-Si vous êtes un client de grande entreprise que (a) a été migrée à partir d’une offre dédié Office 365 héritée vers fabric dernière multiclients services ou (b) a été onboarded en tant que client améliorée de plusieurs clients, ingénierie Direct Office 365 seront fourni aux votre organisation comme un programme de prise en charge de transition désigné en tant que Services de prise en charge améliorée. L’offre de transition est fournie gratuitement pour l’équilibre de votre contrat de services d’abonnement Office 365 existant. Au moment de renouvellement de services de votre abonnement, ingénierie Direct Office 365 sera disponible en tant qu’une prise en charge facultative pour un coût supplémentaire. Si vous avez acheté, un addendum contrat distinct pour la suite de l’ajout de services système soit exécutée et ajouté à votre contrat de Premier Support existant.
+Si vous êtes un client d'entreprise de grande taille (a) qui a été migré d'une offre dédiée Office 365 héritée vers la dernière version multi-locataire ou (b) a été intégré en tant que client multi-locataire, Office 365 ingénierie directe sera fourni à votre Organisation en tant que programme d'aide à la décision appelé services de support améliorés. L'offre de transition est fournie gratuitement pour le solde de votre contrat de services d'abonnement Office 365. Au moment de votre renouvellement des services d'abonnement, Office 365 Engineering direct sera proposé en option pour un coût supplémentaire. Si acheté, un avenant de contrat distinct pour la suite de services ajoutés sera exécuté et ajouté à votre contrat de support premier existant.
 
 > [!NOTE]
-> À ce stade, ingénierie Direct Office 365 et le programme de Services de Support Enhanced transitoire ne sont pas disponibles pour hérité ITAR-prise en charge des clients ou clients affiliés le gouvernement Communauté Cloud (GCC) ou haute GCC offres d’abonnement de Microsoft Office 365.
+> Pour l'instant, Office 365 Engineering direct and the Transitional Enhanced support services Program ne sont pas disponibles pour les clients hérités ITAR-support ou les clients affiliés au Cloud Community Cloud (GCC) ou les offres d'abonnement hautement GCC d'Office 365.

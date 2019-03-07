@@ -1,7 +1,7 @@
 ---
-title: Configuration et administration d'Exchange Online
-ms.author: pebaum
-author: pebaum
+title: Configuration et administration d’Exchange Online
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: Cette section décrit les contrôles d'administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l'environnement Exchange Online d'une organisation. Elle inclut des informations sur les outils d'administration en libre-service et les fonctionnalités disponibles pour les organisations; Responsabilités de l'administration Microsoft et engagements en matière de performances; ainsi que les mises à niveau de service et de produit.
-ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: "Cette section décrit les contrôles d'administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l'environnement Exchange Online d'une organisation. Elle comprend les informations sur les outils d'administration en libre-service et les fonctionnalités à disposition des organisations : responsabilités et engagements de performances de l'administrateur Microsoft et mises à niveau des services et des produits."
+ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210197"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467801"
 ---
-# <a name="exchange-online-setup-and-administration"></a>Configuration et administration d'Exchange Online
+# <a name="exchange-online-setup-and-administration"></a>Configuration et administration d’Exchange Online
 
-Cette section décrit les contrôles d'administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l'environnement Exchange Online d'une organisation. Elle inclut des informations sur les outils d'administration en libre-service et les fonctionnalités disponibles pour les organisations; Responsabilités de l'administration Microsoft et engagements en matière de performances; ainsi que les mises à niveau de service et de produit.
+Cette section décrit les contrôles d'administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l'environnement Exchange Online d'une organisation. Elle comprend les informations sur les outils d'administration en libre-service et les fonctionnalités à disposition des organisations : responsabilités et engagements de performances de l'administrateur Microsoft et mises à niveau des services et des produits.
   
 ## <a name="self-service-administration-tools"></a>Outils d'administration en libre-service
 
@@ -57,7 +57,7 @@ Exchange Online offre une console de gestion unifiée et unique qui facilite l'u
   
 Pour plus d'informations sur l'utilisation du CAE pour gérer Exchange Online, consultez la rubrique [Centre d'administration Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271807).
   
-### <a name="remote-windows-powershell-for-exchange-online"></a>Windows PowerShell distant pour Exchange Online
+### <a name="remote-windows-powershell-for-exchange-online"></a>Windows PowerShell distant pour Exchange Online
 <a name="BKMK_RemoteWindowsPowerShell"> </a>
 
 L'application Windows PowerShell distante permet aux administrateurs de se connecter à Exchange Online pour effectuer des tâches de gestion indisponibles ou peu pratiques dans le CAE. Cela comprend la possibilité d'automatiser des tâches répétitives, d'extraire des données de rapports personnalisés, de personnaliser des stratégies et de connecter Exchange Online à une infrastructure et des processus existants. Pour plus d'informations, voir [Connexion à Exchange Online à l'aide de Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
@@ -69,7 +69,7 @@ Les administrateurs n'ont pas besoin d'installer d'outils de gestion ou de migra
 > [!IMPORTANT]
 > Pour éviter les attaques par déni de service, vous êtes limité à trois connexions Windows PowerShell ouvertes à votre organisation Exchange Online. 
   
-## <a name="self-service-capabilities-for-exchange-online"></a>Fonctionnalités en libre-service pour Exchange Online
+## <a name="self-service-capabilities-for-exchange-online"></a>Fonctionnalités en libre-service pour Exchange Online
 
 Des fonctionnalités importantes disponibles pour gérer Exchange Online en utilisant le CAE, l'application Windows PowerShell distante et d'autres outils figurent ci-après. Ces outils permettent également de contrôler de nombreux autres paramètres comme l'expose ce document.
   
@@ -77,11 +77,11 @@ Des fonctionnalités importantes disponibles pour gérer Exchange Online en uti
 
 Exchange Online prend en charge les mêmes stratégies ActiveSync pour les périphériques mobiles qu'Exchange Server 2013. Les administrateurs peuvent appliquer et personnaliser ces stratégies de sécurité pour des utilisateurs et des groupes spécifiques en utilisant le CAE ou l'application Windows PowerShell distante.
   
-### <a name="message-tracking-for-exchange-online"></a>Suivi des messages pour Exchange Online
+### <a name="message-tracking-for-exchange-online"></a>Suivi des messages pour Exchange Online
 
 Le suivi des messages au moyen des rapports de remise est décrit dans les rubriques suivantes : [Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md).
   
-### <a name="usage-reporting-for-exchange-online"></a>Création de rapports d'utilisation pour Exchange Online
+### <a name="usage-reporting-for-exchange-online"></a>Création de rapports d’utilisation pour Exchange Online
 
 Les administrateurs peuvent utiliser Remote Windows PowerShell pour récupérer des informations sur la façon dont les personnes de leurs organisations utilisent le service Exchange Online. Les informations suivantes sont disponibles :
   
@@ -95,11 +95,11 @@ Les cmdlets Remote Windows PowerShell commençant par "get-" peuvent rechercher 
   
 Pour plus d'informations sur les cmdlets Windows PowerShell utilisables avec Exchange Online, consultez la rubrique [Cmdlets Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271808).
   
-### <a name="auditing-for-exchange-online"></a>Audit dans Exchange Online
+### <a name="auditing-for-exchange-online"></a>Audit dans Exchange Online
 
 L'enregistrement d'audit est décrit dans la rubrique : [Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md).
   
-## <a name="service-and-product-upgrades-for-exchange-online"></a>Mises à niveau des produits et services pour Exchange Online
+## <a name="service-and-product-upgrades-for-exchange-online"></a>Mises à niveau des produits et services pour Exchange Online
 
 Les clients Exchange Online bénéficient de mises à niveau régulières avec les dernières technologies Exchange, y compris les nouvelles versions Exchange Server. Ces mises à niveau gratuites garantissent que les clients utilisent toujours le logiciel Exchange le plus récent.
   

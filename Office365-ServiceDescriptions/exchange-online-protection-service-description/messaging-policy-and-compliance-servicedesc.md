@@ -1,7 +1,7 @@
 ---
 title: Stratégie et conformité de messagerie[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) fournit la stratégie de messagerie et des fonctionnalités de conformité qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035507"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466971"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>Stratégie et conformité de messagerie[ServiceDesc]
 
-Microsoft Exchange Online Protection (EOP) fournit la stratégie de messagerie et des fonctionnalités de conformité qui peuvent vous aider à gérer vos données de messagerie.
+Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
   
 Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
   
@@ -36,12 +36,12 @@ Les règles de transport vous offrent toute la flexibilité pour appliquer les s
 
 La journalisation d'audit vous permet de suivre les modifications apportées par les administrateurs à votre organisation. Ces rapports vous aident à satisfaire les exigences relatives aux réglementations, à la conformité et aux litiges. Pour plus d'informations, consultez la rubrique [Rapports d'audit dans EOP](https://go.microsoft.com/fwlink/p/?LinkId=314258).
   
-## <a name="data-loss-prevention-dlp"></a>Protection contre la perte de données (DLP)
+## <a name="data-loss-prevention-dlp"></a>Prévention des pertes de données (DLP)
 <a name="BKMK_datalossprevention"> </a>
 
 Non disponible pour les clients EOP autonomes. La protection contre la perte de données (DLP) vous aide à identifier, à surveiller et à protéger des informations sensibles de votre organisation grâce à l'analyse approfondie du contenu. Il s'agit d'une fonctionnalité de plus en plus importante pour les systèmes de messagerie d'entreprise car certains messages électroniques vitaux contiennent des données sensibles qui doivent être protégées. La fonctionnalité de protection contre la perte de données vous permet de protéger les données sensibles sans affecter la productivité de vos collaborateurs.
   
-Vous pouvez configurer des stratégies de protection contre la perte de données dans le CAE qui vous offre les possibilités suivantes :
+Vous pouvez configurer des stratégies de protection contre la perte de données dans le CAE qui vous offre les possibilités suivantes :
   
 - Démarrer avec un modèle de stratégie préconfigurée qui vous permet de détecter des types spécifiques d'informations sensibles, tels que des données PCI-DSS, des données Gramm-Leach-Bliley Act ou même des informations d'identification personnelle spécifiques aux paramètres régionaux.
     
@@ -55,7 +55,7 @@ Vous pouvez configurer des stratégies de protection contre la perte de données
     
 - Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. La création d'empreintes digitales document vous permet de créer facilement des types d'informations sensibles personnalisés à partir des formulaires texte que vous pouvez utiliser pour définir des règles de transport et des stratégies de protection contre la perte de données.
     
-- Ajouter des conseils de stratégie qui permettent de réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2013, Outlook Web App et OWA pour les périphériques ainsi que d'améliorer l'efficacité de vos stratégies en autorisant la création de rapports de faux-positifs.
+- Ajouter des conseils de stratégie qui permettent de réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2013, Outlook Web App et OWA pour les périphériques ainsi que d'améliorer l'efficacité de vos stratégies en autorisant la création de rapports de faux-positifs.
     
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
     
@@ -64,12 +64,12 @@ Vous pouvez configurer des stratégies de protection contre la perte de données
   
 Pour plus d'informations sur la protection contre la perte de données, consultez la rubrique [Protection contre la perte de données](https://go.microsoft.com/fwlink/p/?LinkId=320398).
   
-## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
+## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 <a name="BKMK_OME_in_EOP"> </a>
 
-Chiffrement de messages Office 365, un composant de Protection des informations Azure est un service en ligne qui permet aux utilisateurs de messagerie envoyer des messages électroniques chiffrés à tout le monde. Clients sur site peuvent accéder à Office 365 Message Encryption en Azure la Protection des informations d’achat et en utilisant Exchange Online Protection pour configurer des flux de messagerie via Exchange Online. Pour en savoir plus sur Office 365 Message Encryption dans Exchange Online, consultez la rubrique [Chiffrement de messages Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) dans la Description du Service Exchange Online. 
+Le chiffrement de messages Office 365, qui fait partie d'Azure information protection, est un service en ligne qui permet aux utilisateurs de messagerie d'envoyer des messages électroniques chiffrés à tous. Les clients locaux peuvent accéder au chiffrement de messages Office 365 en achetant Azure information protection et en utilisant Exchange Online Protection pour configurer le flux de messagerie via Exchange Online. Pour en savoir plus sur le chiffrement de messages Office 365 dans Exchange Online, consultez la rubrique [office 365 message](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) Encryption dans la description du service Exchange Online. 
   
-## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
+## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
 <a name="BKMK_OME_in_EOP"> </a>
 
 |**Fonctionnalité**|**EOP autonome**|**Fonctionnalités EOP dans Exchange Online**|**Licence d'accès client Exchange Enterprise avec Services**|
@@ -80,6 +80,6 @@ Chiffrement de messages Office 365, un composant de Protection des informations 
 |Chiffrement de messages Office 365  <br/> |Oui<sup>4</sup> <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> les critères disponibles et les actions diffèrent EOP et Exchange Online. Pour obtenir la liste des critères disponibles et les actions dans EOP, voir [Critères de règle de Transport](https://go.microsoft.com/fwlink/p/?LinkId=320392) et de [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320393). Pour obtenir la liste des critères disponibles et les actions dans Exchange Online, voir [Critères de règle de Transport](https://go.microsoft.com/fwlink/p/?LinkId=320394) et de [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395). > Les rapports d’audit de <sup>2</sup> EOP est un sous-ensemble d’Exchange Online, l’audit des rapports qui excluent les informations sur les boîtes aux lettres. > <sup>3</sup> conseils de stratégie DLP ne sont pas disponibles pour la licence d’accès client Exchange Enterprise avec les clients Services. > <sup>4</sup> prises en charge pour les clients sur site qui achètent de module complémentaire de Protection des informations Azure et utiliser Exchange Online Protection pour router les courriers électroniques via Exchange Online. Pour l’expérience de bureau, outre le module complémentaire de Protection des informations Azure, Office 365 ProPlus doit être acheté. 
+> <sup>1</sup> Les actions et les conditions disponibles diffèrent entre EOP et Exchange Online. Pour obtenir une liste des conditions et des actions disponibles dans EOP, consultez les rubriques [Conditions de règle de transport (prédicats)](https://go.microsoft.com/fwlink/p/?LinkId=320392) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320393). Pour obtenir une liste des conditions et des actions disponibles dans Exchange Online, consultez les rubriques [Conditions de règle de flux de messagerie](https://go.microsoft.com/fwlink/p/?LinkId=320394) et [Actions de règle de flux de messagerie](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. > <sup>3</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services. > <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l'expérience utilisateur, outre le complément Azure information protection, Office 365 proPlus doit être acheté. 
   
 

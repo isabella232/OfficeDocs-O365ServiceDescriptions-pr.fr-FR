@@ -1,7 +1,7 @@
 ---
 title: Services de messagerie vocale
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 98591e47ece7c59581824c6df375c41c66b7d2d1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 3879252927a26f47cd5d92f0fbcfbdecf4466c2a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035616"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467921"
 ---
 # <a name="voice-message-services"></a>Services de messagerie vocale
 
 ## <a name="voice-mail"></a>Messagerie vocale
 
-Microsoft Exchange Online offre des services hébergés de messagerie vocale :
+Microsoft Exchange Online offre des services hébergés de messagerie vocale :
   
-- Répondeur automatique (répondeur)
+- Microsoft Exchange Online offre des services hébergés de messagerie vocale :
     
-- Interface utilisateur de connexion Exchange (Outlook Voice Access)
+- Répondeur automatique (répondeur)
     
 - Interface utilisateur de connexion Exchange (Outlook Voice Access)
     
@@ -41,33 +41,33 @@ Les services hébergés de messagerie vocale permettent à une société de conn
     
 - Notifications d'appels en absence.
     
-- Réinitialisation à partir d’Outlook sur le web et d’Outlook (voir [Réinitialiser le code PIN messagerie vocale](https://go.microsoft.com/fwlink/p/?LinkId=286328)) du code confidentiel de messagerie vocale.
+- Voice mail PIN reset from Outlook on the web and Outlook (see [Reset a Voice Mail PIN](https://go.microsoft.com/fwlink/p/?LinkId=286328)).
     
 - Réinitialisation du code confidentiel de la messagerie vocale à partir d'Outlook Web App et d'Outlook (voir la rubrique [Réinitialiser un code confidentiel de la messagerie vocale ](https://go.microsoft.com/fwlink/p/?LinkId=271794)). 
     
-- Règles de répondeur automatique (pour plus de détails, voir la rubrique [Permettre à des utilisateurs de messagerie vocale de transférer des appels ](https://go.microsoft.com/fwlink/p/?LinkId=271795)). 
+- Indicateur de message en attente (pour plus de détails, voir la rubrique [MWI dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271795)). 
     
-- Messagerie vocale protégée dans Exchange Online (pour plus de détails, voir la rubrique [Protection de la messagerie vocale dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796)). 
+- Règles de répondeur automatique (pour plus de détails, voir la rubrique [Permettre à des utilisateurs de messagerie vocale de transférer des appels ](https://go.microsoft.com/fwlink/p/?LinkId=271796)). 
     
-- Aperçu de messagerie vocale (pour obtenir la liste des langues prises en charge, voir la rubrique relative à l'[autorisation pour les utilisateurs de voir la transcription des messages vocaux](https://go.microsoft.com/fwlink/p/?LinkId=271797)). 
+- Messagerie vocale protégée dans Exchange Online (pour plus de détails, voir la rubrique [Protection de la messagerie vocale dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271797)). 
+    
+- Speech access to email, voice mail, calendar, personal contacts, and personal contact groups.
     
 - Accès vocal au courrier électronique, à la messagerie vocale, au calendrier, aux contacts personnels et aux groupes de contacts personnels.
     
 - Recherche dans l'annuaire via Outlook Voice Access ou un standard automatique
     
-- Les administrateurs configurent et gèrent l'interopérabilité des services de messagerie vocale à l'aide du Centre d'administration Exchange (CAE).
-    
-Pour plus d'informations sur les fonctionnalités de messagerie vocale, consultez la rubrique relative à la [messagerie vocale dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+For more information about voice mail features, see [Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
   
 > [!IMPORTANT]
-> La fonctionnalité de reconnaissance automatique de la parole (ASR) n'est pas disponible dans la navigation dans les menus ou dans la recherche de répertoire pour les utilisateurs Outlook Voice Access ou les appelants à un standard automatique qui utilisent des commandes vocales. > Le client doit fournir une connexion téléphonique sur le réseau public commuté (RTC) en utilisant une passerelle VoIP et un autocommutateur standard ou IP, ou Skype Entreprise Server 2015. > Le client doit fournir les contrôleurs de frontière de session (SBC) et vérifier qu'ils sont correctement configurés pour se connecter aux services de messagerie vocale en ligne. Cela comprend le niveau correct de sécurité en utilisant des certificats et des interfaces IP publiques et privées et en activant les ports TCP corrects avec leurs pare-feu sur site. > La messagerie vocale est uniquement disponible pour les abonnés à Exchange Online Plan 2 et Office 365 Entreprise E3. 
+> The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. > The customer must provide a telephony connection from the public switched telephone network (PSTN) using a VoIP gateway and PBX, IP PBX, or Skype for Business Server 2015. > The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. > Hosted voice mail is available only to Exchange Online Plan 2 and Office 365 Enterprise E3 subscribers. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interopérabilité avec messagerie vocale tierce
 
-Les solutions de messagerie vocale sur site d'autres fournisseurs peuvent être compatibles avec Exchange Online si elles peuvent transférer des messages vocaux par le protocole SMTP ou si elles prennent en charge les services web Microsoft Exchange. Si le système de messagerie vocale ne prend pas en charge en mode natif le transfert de messages vocaux par le protocole SMTP, il est possible de conserver sur site un serveur de messagerie pour recevoir les messages du système de messagerie vocale et les transférer ensuite dans le nuage en utilisant le protocole SMTP. Du fait que les systèmes de messagerie vocale d'autres fournisseurs utilisent le protocole MAPI/CDO pour fonctionner avec les fonctionnalités avancées de messagerie Exchange Server, les fonctionnalités complètes de ces systèmes ne seront peut-être pas disponibles lorsque le protocole SMTP est utilisé pour l'interopérabilité avec Exchange Online.
+Interopérabilité avec messagerie vocale tierce
   
 > [!NOTE]
-> Messagerie unifiée Exchange Online de prise en charge pour les systèmes PBX tiers via des connexions directes à partir de client géré SBCs se termine par 2018 juillet. Pour plus d’informations, consultez le [arrêt de la prise en charge des contrôleurs de frontière de Session de messagerie unifiée Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . 
+> Exchange Online UM support for third-party PBX systems via direct connections from customer operated SBCs will end in July 2018. Please see [Discontinuation of support for Session Border Controllers in Exchange Online Unified Messaging](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) for more information. 
   
 ## <a name="skype-for-business-integration"></a>Intégration Skype Entreprise
 

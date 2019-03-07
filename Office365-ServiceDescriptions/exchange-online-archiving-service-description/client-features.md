@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités client dans l'archivage Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Archivage Microsoft Exchange Online permet aux utilisateurs de se connecter à leurs boîtes aux lettres d’archive à partir d’une variété de plateformes et d’appareils. Toute la connectivité réseau pour l’archivage de l’utilisateur a lieu sur Internet et connexions de réseau privé virtuel (VPN) ne sont pas nécessaires. Les organisations peuvent publier un serveur d’accès au Client local pour permettre aux utilisateurs d’accéder à leur boîte aux lettres principale à l’aide d’Outlook Anywhere, sans nécessiter une connexion VPN. Si un accès VPN est requis pour accéder aux boîtes aux lettres principal de l’utilisateur situé sur un serveur local, cette exigence ne change pas.
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à leurs boîtes aux lettres d'archivage à partir de plusieurs appareils et plateformes. Toute connectivité réseau à l'archive de l'utilisateur se fait par Internet, et des connexions de réseau privé virtuel (VPN) ne sont pas nécessaires. Les organisations peuvent publier un serveur d'accès au client local pour permettre aux utilisateurs d'accéder à leur boîte aux lettres principale à l'aide d'Outlook Anywhere, sans nécessiter de connexion VPN. Si un accès VPN est requis pour accéder à la boîte aux lettres principale de l'utilisateur située sur un serveur local, cette exigence ne change pas.
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035479"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467181"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Fonctionnalités client dans l'archivage Exchange Online
 
-Archivage Microsoft Exchange Online permet aux utilisateurs de se connecter à leurs boîtes aux lettres d’archive à partir d’une variété de plateformes et d’appareils. Toute la connectivité réseau pour l’archivage de l’utilisateur a lieu sur Internet et connexions de réseau privé virtuel (VPN) ne sont pas nécessaires. Les organisations peuvent publier un serveur d’accès au Client local pour permettre aux utilisateurs d’accéder à leur boîte aux lettres principale à l’aide d’Outlook Anywhere, sans nécessiter une connexion VPN. Si un accès VPN est requis pour accéder aux boîtes aux lettres principal de l’utilisateur situé sur un serveur local, cette exigence ne change pas.
+Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à leurs boîtes aux lettres d'archivage à partir de plusieurs appareils et plateformes. Toute connectivité réseau à l'archive de l'utilisateur se fait par Internet, et des connexions de réseau privé virtuel (VPN) ne sont pas nécessaires. Les organisations peuvent publier un serveur d'accès au client local pour permettre aux utilisateurs d'accéder à leur boîte aux lettres principale à l'aide d'Outlook Anywhere, sans nécessiter de connexion VPN. Si un accès VPN est requis pour accéder à la boîte aux lettres principale de l'utilisateur située sur un serveur local, cette exigence ne change pas.
   
 > [!IMPORTANT]
 > Microsoft se réserve le droit de bloquer ou de limiter les connexions de tout logiciel client qui a une incidence négative sur l'état du service Archivage Exchange Online. 
@@ -42,7 +42,7 @@ Outlook 2007 propose une prise en charge simple de l'archive, mais toutes les fo
 > [!NOTE]
 > Outlook n'est pas fourni avec Archivage Exchange Online. Microsoft Office 365 ProPlus (qui inclut Microsoft Outlook) est inclus dans certains plans Office 365 et est disponible dans le cadre d'un abonnement à part. Pour plus d'informations, voir [Options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md). Pour plus d'informations sur Office 365 ProPlus, voir [Description de service des applications Office](../office-applications-service-description/office-applications-service-description.md). 
   
-### <a name="clients-supported-by-exchange-online-archiving"></a>Clients pris en charge par l'archivage Exchange Online
+### <a name="clients-supported-by-exchange-online-archiving"></a>Clients pris en charge par l’archivage Exchange Online
 
 Le tableau ci-dessous répertorie les clients pris en charge par Archivage Exchange Online:
   
@@ -50,15 +50,15 @@ Le tableau ci-dessous répertorie les clients pris en charge par Archivage Excha
 |:-----|:-----|
 |Outlook 2010 et versions ultérieures  <br/> |Prend en charge les dernières fonctionnalités dans Archivage Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Pris en charge en vue d'une utilisation avec Archivage Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |Non pris en charge  <br/> |
-|Outlook pour Mac 2011  <br/> |Non pris en charge  <br/> |
-|Outlook pour Mac  <br/> |Prise en charge pour une utilisation avec l’archivage Exchange Online. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008, Édition Services Web  <br/> |Non pris en charge  <br/> |
-|IMAP et POP  <br/> |Non pris en charge  <br/> |
+|Outlook 2003  <br/> |exExchange2k7 et versions antérieures  <br/> |
+|Outlook pour Mac 2011  <br/> |exExchange2k7 et versions antérieures  <br/> |
+|Outlook pour Mac  <br/> |Pris en charge pour une utilisation avec l'archivage Exchange Online. <sup>3</sup> <br/> |
+|Microsoft Office Entourage 2008, Édition Services Web  <br/> |exExchange2k7 et versions antérieures  <br/> |
+|IMAP et POP  <br/> |exExchange2k7 et versions antérieures  <br/> |
 |Exchange ActiveSync (périphériques mobiles)  <br/> |Non pris en charge  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> outlook inclus avec Microsoft Office Standard n’est pas pris en charge. Pour plus d’informations, voir [licences requises pour l’Archive personnelle et les stratégies de rétention](https://go.microsoft.com/fwlink/?LinkId=389396). > <sup>2</sup> nécessite la mise à jour pour permettre la prise en charge d’archivage. Les utilisateurs d’Outlook 2007 ne peuvent pas afficher ou appliquer la rétention ou archiver des stratégies aux éléments de leurs boîtes aux lettres d’archivage ; elles doivent s’appuient sur les stratégies configurées par l’administrateur. En outre, les utilisateurs Outlook 2007 ne peut pas rechercher la boîte aux lettres locale et l’archive en même temps. > <sup>3</sup> vous ne peut pas utiliser 2016 Outlook pour Mac ou Outlook pour Mac pour déplacer ou copier des dossiers, des éléments de calendrier, contacts, tâches ou des notes pour l’archivage, ou les afficher dans la boîte aux lettres d’archivage, si les éléments ont été déplacés précédemment il à l’aide d’une autre version de Outlook () par exemple 2016 Outlook pour Windows). Pour plus d’informations, voir [utiliser votre archive en ligne avec 2016 Outlook pour Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
+> <sup>1</sup> Outlook inclus avec Microsoft Office standard n'est pas pris en charge. Pour plus d'informations, consultez la rubrique [License Requirements for Personal Archive and](https://go.microsoft.com/fwlink/?LinkId=389396)Retention Policies. > <sup>2</sup> nécessite une mise à jour pour permettre la prise en charge de l'archivage. Les utilisateurs d'Outlook 2007 ne peuvent pas afficher ou appliquer des stratégies de rétention ou d'archivage aux éléments de leurs boîtes aux lettres d'archivage; elles doivent reposer sur des stratégies configurées par l'administrateur. En outre, les utilisateurs d'Outlook 2007 ne peuvent pas effectuer des recherches dans la boîte aux lettres locale et dans l'archive en même temps. > <sup>3</sup> vous ne pouvez pas utiliser Outlook 2016 pour Mac ou Outlook pour Mac pour déplacer ou copier des dossiers, des éléments de calendrier, des contacts, des tâches ou des notes vers votre archive, ou les afficher dans la boîte aux lettres d'archivage, si les éléments qui y étaient précédemment ont été déplacés à l'aide d'une autre version d'Outlook (par exemple, Outlook 2016 pour Windows). Pour plus d'informations, consultez [la rubrique utiliser votre archive en ligne avec Outlook 2016 pour Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
   
 ## <a name="outlook-web-app"></a>Outlook Web App
 

@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de messagerie et de conversation dans Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Les fonctionnalités de messagerie et de conversation suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035517"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468161"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Fonctionnalités de messagerie et de conversation dans Yammer
 
@@ -39,7 +39,7 @@ Informez vos collègues et intégrez-les à une conversation en mentionnant leur
 
 Restez informé des utilisateurs connectés et lancez instantanément une discussion privée avec un collègue, ou plusieurs. La liste des contacts est automatiquement triée en fonction des utilisateurs avec lesquels vous interagissez le plus.
   
-## <a name="private-messages"></a>Messages privés
+## <a name="private-messages"></a>Private Messages
 <a name="bkmk_PrivateMessages"> </a>
 
 Lancez un dialogue privé avec un ou plusieurs collègues. Vous pouvez ajouter d'autres participants à tout moment.
@@ -49,7 +49,7 @@ Lancez un dialogue privé avec un ou plusieurs collègues. Vous pouvez ajouter d
 
 Partagez des conversations avec un autre groupe ou via un message privé afin de transmettre les informations et les messages importants.
   
-## <a name="office-online-support"></a>Prise en charge d'Office Online
+## <a name="office-online-support"></a>Office Online support
 <a name="bkmk_ShareConversations"> </a>
 
 Avec la prise en charge d'Office Online dans Yammer, les documents téléchargés vers Yammer peuvent être affichés et modifiés avec Office Online, directement dans Yammer. Vous pouvez ainsi afficher correctement les documents avec Office Online, activer la co-création par plusieurs utilisateurs simultanément et afficher les conversations Yammer pertinentes, directement dans votre navigateur.

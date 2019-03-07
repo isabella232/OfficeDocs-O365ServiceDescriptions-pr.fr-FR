@@ -1,7 +1,7 @@
 ---
 title: Social
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
-description: Microsoft SharePoint Online est un ensemble d’outils basés sur le Web et les technologies aidant votre organisation à stocker, partager et gérer les informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, le stockage des données et des documents dans un emplacement central et partager des informations avec d’autres personnes. Les fonctionnalités sociales suivantes permettent aux utilisateurs de collaborer de manière plus efficace pour eux. Comment ? Grâce aux outils de collaboration très que tout le monde peut utiliser pour partager des idées, trouver des personnes, expertise et informations métiers d’emplacement.
-ms.openlocfilehash: 3e964ef776b8df36700964463eaeeb2557288ce6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités sociales suivantes permettent une collaboration dans le travail de la manière la mieux adaptée aux besoins. Comment ? Grâce aux outils de collaboration pouvant être utilisés par tous pour partager des idées, rechercher des personnes qualifiées et expertes et consulter des informations professionnelles sur les emplacements.
+ms.openlocfilehash: 7cfe67b7278af07c911ab5807b5fc5073a88d39f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035502"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466461"
 ---
 # <a name="social"></a>Social
 
-Microsoft SharePoint Online est un ensemble d’outils basés sur le Web et les technologies aidant votre organisation à stocker, partager et gérer les informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, le stockage des données et des documents dans un emplacement central et partager des informations avec d’autres personnes. Les fonctionnalités sociales suivantes permettent aux utilisateurs de collaborer de manière plus efficace pour eux. Comment ? Grâce aux outils de collaboration très que tout le monde peut utiliser pour partager des idées, trouver des personnes, expertise et informations métiers d’emplacement. 
+Microsoft SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités sociales suivantes permettent une collaboration dans le travail de la manière la mieux adaptée aux besoins. Comment ? Grâce aux outils de collaboration pouvant être utilisés par tous pour partager des idées, rechercher des personnes qualifiées et expertes et consulter des informations professionnelles sur les emplacements. 
   
-## <a name="personal-blogs"></a>Blogs personnel
+## <a name="personal-blogs"></a>Blogs personnels
 <a name="bkmk_Blogs"> </a>
 
 Les blogs peuvent aider une organisation à partager rapidement des informations entre les employés, les partenaires ou les clients. Vous pouvez ajouter des idées à un domaine difficile, fournir des solutions et des orientations ou expliquer une nouvelle ligne directrice ou procédure.
@@ -34,12 +34,12 @@ Les blogs peuvent aider une organisation à partager rapidement des informations
 
 Une communauté en ligne est un lieu virtuel où l'on discute et partage des idées. Une communauté favorise la communication ouverte en encourageant les utilisateurs à partager leur expertise et à apprendre les uns des autres. En savoir plus sur la [création d'une communauté](https://go.microsoft.com/fwlink/p/?LinkId=271061).
   
-## <a name="company-feed"></a>Flux de l'entreprise
+## <a name="company-feed"></a>Company Feed
 <a name="bkmk_CompanyFeed"> </a>
 
 Le flux de l'entreprise est le flux d'actualités public d'une organisation. L'entreprise peut y consulter tous les billets créés, y compris ceux créés par des personnes non suivies. En savoir plus sur le [flux d'entreprise](https://go.microsoft.com/fwlink/p/?LinkId=271062).
   
-## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>Flux de site (site d’équipe classique à l’aide de SharePoint sociale)
+## <a name="site-feed-classic-team-site-using-sharepoint-social"></a>Flux de site (site d'équipe classique à l'aide de SharePoint social)
 <a name="bkmk_SiteFeed"> </a>
 
 Un flux de sites, à l'instar d'un flux d'actualités, vous permet de publier des informations et de répondre à d'autres billets dans un site d'équipe. En savoir plus sur le [flux de sites](https://go.microsoft.com/fwlink/p/?LinkId=271071).

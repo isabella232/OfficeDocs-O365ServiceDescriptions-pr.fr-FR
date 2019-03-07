@@ -1,7 +1,7 @@
 ---
 title: Destinataires
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: 32f792028f9e0d15b97048861ddc77ac59151b0f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035526"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467411"
 ---
-# <a name="recipients"></a>Destinataires
+# <a name="recipients"></a>Recipients
 
 Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
   
-## <a name="email"></a>Courrier électronique
+## <a name="email"></a>E-mail
 
 Une boîte aux lettres est attribuée à chaque abonné Microsoft Exchange Online et des boîtes aux lettres spécialisées destinées à la planification de ressources (comme des salles de conférence) et à un accès multi-utilisateur à des adresses de messagerie partagées sont disponibles. Des limites de stockage maximales s'appliquent à la plupart des boîtes aux lettres et les administrateurs peuvent contrôler les tailles de boîtes aux lettres autorisées. Des notifications et restrictions automatiques permettent d'alerter des utilisateurs que leurs boîtes aux lettres s'approchent de la limite ou l'on déjà atteinte. Exchange Online dispose également de plusieurs types de limitations de messages, à savoir des limites de taille des messages, de débit maximal de messages et de liste de destinataires. Toutes ces fonctionnalités et les limites sont indiquées ci-dessous.
   
@@ -130,7 +130,7 @@ Pour plus d'informations sur les contacts externes, voir [Créer une relation d'
 
 Les boîtes aux lettres de ressources (comme celles dédiées aux salles de conférence ou aux équipements physiques) représentent les salles de réunions ou d'autres installations ou ressources. Les utilisateurs peuvent réserver des salles ou des ressources en ajoutant l'alias de courrier électronique de la ressources à la demande de réunion dans Outlook ou Outlook Web App. Les salles de conférence et les ressources apparaissent dans la Liste d'adresses globale sous Outlook et Outlook Web App.
   
-Les administrateurs créent des boîtes aux lettres de ressources à l’aide du Centre d’administration Exchange ou de l’application Windows PowerShell distante. Les boîtes aux lettres peuvent également être synchronisées avec Exchange Online à partir d'Active Directory local.
+Les administrateurs créent des boîtes aux lettres de ressources à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Les boîtes aux lettres peuvent également être synchronisées avec Exchange Online à partir d'Active Directory local.
   
 Pour plus d'informations sur les boîtes aux lettres de ressources, voir :
   

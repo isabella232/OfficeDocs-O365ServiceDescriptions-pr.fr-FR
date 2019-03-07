@@ -1,7 +1,7 @@
 ---
 title: Description du service Microsoft Dynamics 365 (en ligne)
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 'À compter de la mise à jour de décembre 2016 pour Dynamics 365 (en ligne et en local), la fonctionnalité Dynamics CRM est incluse dans le cadre de Dynamics 365, suite d’applications métiers intelligentes. Dynamics 365 réunit des fonctionnalités de gestion des relations client (CRM) et de planification des ressources d’entreprise (ERP) en proposant de nouvelles applications pour vous aider à gérer des fonctions commerciales spécifiques. '
-ms.openlocfilehash: 8261b126140325fa8190437c5981ad49d17586a7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035583"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467211"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Description du service Microsoft Dynamics 365 (en ligne)
 
@@ -40,7 +40,7 @@ Ces applications sont les suivantes :
     
 Pour plus d'informations sur les fonctionnalités de Dynamics 365, voir [Microsoft Dynamics 365](https://www.microsoft.com/en-us/dynamics365/home). 
   
-## <a name="dynamics-365-plans"></a>Plans Dynamics 365
+## <a name="dynamics-365-plans"></a>Plans Dynamics 365
 
 Dynamics 365 comporte deux éditions : Enterprise et Business. Au sein de ces deux éditions, il existe plusieurs plans disponibles spécifiquement conçus pour répondre aux modèles d'utilisation et aux besoins des petites et grandes entreprises. Les applications sont également disponibles individuellement. 
   
@@ -66,7 +66,7 @@ Le tableau suivant répertorie toutes les applications Dynamics 365 et leur disp
  <br/><sup>3</sup> Utilisation légère : inclut un accès en lecture et des accès en écriture pour certaines tâches légères sur toutes les applications Dynamics 365 édition Business. 
 <br/><sup>4</sup> Inclut les solutions pour fabrication et la chaîne logistique, la vente au détail et le commerce, ainsi que la finance. 
   
-## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Comparaison des licences d'abonnement de Dynamics 365 for Sales, Customer Service, Field Service et Project Service Automation
+## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Comparaison des licences d’abonnement de Dynamics 365 for Sales, Customer Service, Field Service et Project Service Automation
 
 Les éléments suivants fournissent un résumé de haut niveau des droits d'utilisation associés à chacun des cinq niveaux de service utilisateur. Pour une comparaison détaillée, voir l' **annexe B** dans le téléchargement : [Guide des licences Dynamics 365](http://download.microsoft.com/documents/en-us/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).
   
@@ -78,12 +78,12 @@ Les éléments suivants fournissent un résumé de haut niveau des droits d'util
 |**Comptes et contacts, activités et notes** <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
 |**Gestion des connaissances, centre de services interactifs** <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
 |**Enregistrement du temps et des dépenses, gestion des informations personnelles, envoi de candidatures pour des projets** <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
-|**Entités personnalisées** <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Total<sup>1</sup> <br/> |Total<sup>1</sup> <br/> |
+|**Entités personnalisées** <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |Full<sup>1</sup> <br/> |
 |**Droits d'utilisation doubles pour l'équivalent de Dynamics 365 CAL (le cas échéant)** <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
-|**Exécution des flux de travail et des processus à la demande** <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Complète<sup>2</sup> <br/> |Complète<sup>2</sup> <br/> |
+|**Exécution des flux de travail et des processus à la demande** <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |Full<sup>2</sup> <br/> |
 |**Microsoft Project Online Essentials, droits de spectateur et de fan de ludification** <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
-|**Portail uniquement : soumission d'incidents en libre-service et initiations de chat en tant qu'utilisateur pris en charge (pas agent)** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Total<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |
-|**Portail uniquement, non employé uniquement : mise à jour des ordres de travail, création et mise à jour des opportunités** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Total<sup>3</sup> <br/> |Total<sup>3</sup> <br/> |Total<sup>3</sup>`  <br/> |
+|**Portail uniquement : soumission d'incidents en libre-service et initiations de chat en tant qu'utilisateur pris en charge (pas agent)** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |
+|**Portail uniquement, non employé uniquement : mise à jour des ordres de travail, création et mise à jour des opportunités** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup>`  <br/> |
 |**Graphiques, tableaux de bord et rapports utilisateurs** <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
 |**Configuration des rapports système, graphiques système, tableaux de bord système** <br/> |Aucun  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |
 |**Prospects, opportunités, objectifs, contrats, devis, commandes, factures, concurrents** <br/> |Lecture seule  <br/> |Complet  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |
@@ -102,16 +102,17 @@ Les éléments suivants fournissent un résumé de haut niveau des droits d'util
   
  **Aucun** = aucun droit d'accès 
   
-><sup>1</sup> les entités personnalisées (soit basé sur des entités incluses dans CRM ou créé par un client ou un partenaire) peuvent nécessiter un supérieur CAL ou USL, en fonction de l’accès requis. Personnalisations ne peuvent être réalisées par rapport à des entités incluses dans les droits d’utilisation.<br/><sup>2</sup> Les opérations de création, mise à jour et suppression via des flux de travail peuvent être uniquement effectuées par rapport à des entités incluses dans les droits d'utilisation (par exemple, la mise à jour d'une opportunité requiert Sales ou Plan 1). 
-<br/><sup>3</sup> aucun accès à l’Interface utilisateur Dynamics 365. Gestion des cas et conversation ne peuvent être envoyées sur le nom des utilisateurs, comme un supportee, pas au nom d’un client ou toute autre personne.<br/><sup>4</sup> La création de PowerApps peut exploiter uniquement les données incluses dans l'application individuelle. 
+><sup>1</sup> Les entités personnalisées (basées sur des entités incluses dans CRM ou créées par un client ou un partenaire) peuvent exiger une licence CAL ou USL supérieure, en fonction de l'accès requis. Les personnalisations ne peuvent porter que sur des entités incluses dans les droits d'utilisation. 
+<br/><sup>2</sup> Les opérations de création, mise à jour et suppression via des flux de travail peuvent être uniquement effectuées par rapport à des entités incluses dans les droits d'utilisation (par exemple, la mise à jour d'une opportunité requiert Sales ou Plan 1). 
+<br/><sup>3</sup> Aucun accès à l'interface utilisateur Dynamics 365. La gestion des cas et le chat peuvent uniquement être envoyés au nom des utilisateurs, en tant qu'utilisateur pris en charge, pas au nom d'un client ou de toute autre personne. <br/><sup>4</sup> La création de PowerApps peut exploiter uniquement les données incluses dans l'application individuelle. 
   
 ## <a name="dynamics-365-service-level-agreement"></a>Contrat de niveau de service Dynamics 365
 
 Pour obtenir plus d'informations sur les termes du contrat de licence, les conditions et l'utilisation de produits et services sous licence via les programmes de licence en volume Microsoft, voir [Contrat de niveau de service pour Microsoft Online Services](http://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249).
   
-## <a name="dynamics-365-service-downtime-windows"></a>Fenêtres de temps d'arrêt du service Dynamics 365
+## <a name="dynamics-365-service-downtime-windows"></a>Fenêtres de temps d’arrêt du service Dynamics 365
 
-Les fenêtres de temps d'arrêt pour le service Dynamics 365 sont définies comme suit :
+Les fenêtres de temps d’arrêt pour le service Dynamics 365 sont définies comme suit :
   
 |||||
 |:-----|:-----|:-----|:-----|

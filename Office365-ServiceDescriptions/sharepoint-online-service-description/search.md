@@ -1,7 +1,7 @@
 ---
 title: Rechercher
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
-description: SharePoint Online est un ensemble d’outils basés sur le Web et les technologies aidant votre organisation à stocker, partager et gérer les informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, le stockage des données et des documents dans un emplacement central et partager des informations avec d’autres personnes. Les fonctionnalités de recherche suivantes aideront les utilisateurs de trouver les informations dont ils ont besoin pour effectuer leur travail. La recherche est une combinaison de la pertinence, d’affinement et personnes.
-ms.openlocfilehash: 2aceab27cf37ac27e11a1b4cac105592a2419e5f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de recherche suivantes aident les personnes à trouver les informations dont elles ont besoin pour mener à bien leur travail. La recherche est une combinaison de pertinence, d'affinement et de comportement social dans l'expérience de recherche.
+ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035529"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467631"
 ---
-# <a name="search"></a>Rechercher
+# <a name="search"></a>Recherche
 
-SharePoint Online est un ensemble d’outils basés sur le Web et les technologies aidant votre organisation à stocker, partager et gérer les informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, le stockage des données et des documents dans un emplacement central et partager des informations avec d’autres personnes. Les fonctionnalités de recherche suivantes aideront les utilisateurs de trouver les informations dont ils ont besoin pour effectuer leur travail. La recherche est une combinaison de la pertinence, d’affinement et personnes.
+SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de recherche suivantes aident les personnes à trouver les informations dont elles ont besoin pour mener à bien leur travail. La recherche est une combinaison de pertinence, d'affinement et de comportement social dans l'expérience de recherche.
   
 ## <a name="continuous-crawls"></a>Analyses continues
 <a name="bkmk_ContinuousCrawl"> </a>
@@ -59,7 +59,7 @@ Dans un déploiement hybride de SharePoint, le contenu des résultats de recherc
 
 Lorsque des personnes recherchent du contenu sur vos sites SharePoint, c'est le contenu de votre index de recherche qui détermine les résultats. L'index de recherche contient les informations de tous les documents et pages de votre site et est créé à partir de l'analyse du contenu de votre site SharePoint. Le schéma de recherche permet au robot de déterminer le contenu et les métadonnées à sélectionner, ainsi que de les indexer. En modifiant le schéma de recherche, vous pouvez créer une expérience de recherche personnalisée pour les utilisateurs. En savoir plus sur la [gestion du schéma de recherche dans SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).
   
-## <a name="on-hover-preview"></a>Aperçu de pointage
+## <a name="on-hover-preview"></a>Aperçu en survol
 <a name="bkmk_Quickpreview"> </a>
 
 Les utilisateurs peuvent placer le pointeur sur un résultat de recherche de manière à en afficher un aperçu ou pour interagir avec le contenu du document ou du site dans le panneau de pointage qui se trouve à droite des résultats. L'aperçu affiche de riches métadonnées et des liens profonds vers les principales sections du document ou du site. En savoir plus sur les [conseils pour la recherche](https://go.microsoft.com/fwlink/p/?LinkId=286614).
@@ -69,12 +69,12 @@ Les utilisateurs peuvent placer le pointeur sur un résultat de recherche de man
 
 La recherche améliorée de nom phonétique permet de trouver des noms à la consonance similaire (John ou Jon ?). En savoir plus sur la manière de [gérer les origines des résultats](https://go.microsoft.com/fwlink/p/?LinkId=286609).
   
-## <a name="query-rulesadd-promoted-results"></a>Règles de requête  ajouter des résultats promus
+## <a name="query-rulesadd-promoted-results"></a>Règles de requête — ajouter des résultats promus
 <a name="bkmk_QueryRulesAddpromotedresults"> </a>
 
 Dans une règle de requête, vous spécifiez des conditions et des actions corrélées. Lorsqu'une requête répond aux conditions d'une règle de requête, le système de recherche réalise les actions spécifiées dans la règle. L'action « Ajouter des résultats promus » vous permet de promouvoir des résultats individuels afin qu'ils apparaissent au-dessus des résultats de la recherche. En savoir plus sur la manière de [gérer les règles de requête](https://go.microsoft.com/fwlink/p/?LinkId=286607).
   
-## <a name="query-rulesadvanced-actions"></a>Règles de requête  actions avancées
+## <a name="query-rulesadvanced-actions"></a>Règles de requête — actions avancées
 <a name="bkmk_UserRulesAdvancedActions"> </a>
 
 Dans une règle de requête, vous spécifiez des conditions et des actions corrélées. L'action « Ajouter un bloc de résultats » vous permet d'afficher un sous-ensemble des résultats de la recherche en tant que groupe. L'action « Modifier les résultats classés en changeant la requête » vous permet de modifier le classement des résultats de la recherche renvoyés. En savoir plus sur la manière de [gérer les règles de requête](https://go.microsoft.com/fwlink/p/?LinkId=286607).

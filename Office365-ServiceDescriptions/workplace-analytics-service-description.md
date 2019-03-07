@@ -1,7 +1,7 @@
 ---
 title: Description du service Workplace Analytics
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 7/31/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -9,19 +9,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Analytique d’espace de travail Microsoft offrent un aperçu riches et des tendances de communication et de collaboration de votre entreprise pour vous aider à prendre des décisions plus efficaces.
-ms.openlocfilehash: 81924934640517dc3f6fe396020fb5e26f65facf
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Workplace Analytics offre des informations riches et actionnables sur les tendances de communication et de collaboration de votre entreprise pour vous aider à prendre des décisions commerciales plus efficaces.
+ms.openlocfilehash: 7689a1bcff420b08da80db1d9aa1c9f91d1deed6
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035496"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467501"
 ---
 # <a name="workplace-analytics-service-description"></a>Description du service Workplace Analytics
 
-Analytique d’espace de travail Microsoft offrent un aperçu riches et des tendances de communication et de collaboration de votre entreprise pour vous aider à prendre des décisions plus efficaces.
+Microsoft Workplace Analytics offre des informations riches et actionnables sur les tendances de communication et de collaboration de votre entreprise pour vous aider à prendre des décisions commerciales plus efficaces.
   
-Analytique d’espace de travail Microsoft analyse comment vos équipes collaborent afin que vous pouvez identifier les comportements qu’aident — et touché — votre ligne en bas. Vous pouvez ensuite utiliser ces informations pour : 
+Microsoft Workplace Analytics analyse la façon dont vos équipes collaborent, afin que vous puissiez identifier les comportements qui contribuent et nuisent à vos résultats financiers. Vous pouvez ensuite utiliser ces informations pour: 
   
 - améliorer l'efficacité organisationnelle ;
     
@@ -31,8 +31,8 @@ Analytique d’espace de travail Microsoft analyse comment vos équipes collabor
     
 - motiver et fidéliser les employés.
     
-Pour plus d’informations, voir [Analytique d’espace de travail](https://go.microsoft.com/fwlink/?linkid=852492). Cliquez [ici](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) pour commencer à l’espace de travail Analytique. 
+Pour plus d'informations, consultez l'article [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Cliquez [ici](https://docs.microsoft.com/en-us/workplace-analytics/overview/get-started) pour commencer à utiliser Workplace Analytics. 
   
 ## <a name="licensing-requirements"></a>Critères de licence
 
-Exchange Online Plan 1 ou Plan 2 est une condition préalable.
+Exchange Online plan 1 ou plan 2 est une condition préalable.

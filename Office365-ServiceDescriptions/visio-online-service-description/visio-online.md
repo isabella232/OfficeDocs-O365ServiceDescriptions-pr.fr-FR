@@ -1,7 +1,7 @@
 ---
 title: Visio Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/28/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio Online étend votre expérience de Microsoft Visio au navigateur web. Vous pouvez ainsi utiliser des diagrammes directement sur le site web où ils sont stockés. Les clients Microsoft Office 365 avec Office Online peuvent afficher et partager des diagrammes et insérer des commentaires en déplacement.
-ms.openlocfilehash: 2b6c62b68b984479d2995ef91db17627653828fe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035491"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467561"
 ---
 # <a name="visio-online"></a>Visio Online
 
@@ -35,7 +35,7 @@ Non disponible dans Visio Online. Des fonctions d'édition avancées, par exempl
 
 Pas encore disponible dans Visio Online. L'application de bureau Visio vous permet de déplacer, de redimensionner, de faire pivoter ou d'organiser des formes et des zones de texte, ainsi que de dissocier les formes pour travailler avec chacune d'elles. 
   
-## <a name="build-mashup-solutions"></a>Créer des solutions d'application web hybride
+## <a name="build-mashup-solutions"></a>Créer des solutions d’application web hybride
 <a name="BM_3"> </a>
 
 L'API d'application web hybride Visio Online JavaScript permet aux développeurs d'accéder à un diagramme web Visio, à ses pages et à ses formes, et de les manipuler. Pour plus d'informations, consultez la rubrique relative aux [questions fréquemment posées sur Visio Online](https://go.microsoft.com/fwlink/?linkid=825706).
@@ -70,7 +70,7 @@ Dans Visio Online, vous pouvez rechercher toutes les occurrences d'un mot, d'un 
 
 Vous ne pouvez pas modifier la police, la taille de police ou d'autres attributs d'aspect de police (par exemple, gras, italique, exposant ou souligné) dans Visio Online.
   
-## <a name="hyperlinks"></a>Liens hypertexte
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="BM_10"> </a>
 
 Dans Visio Online, vous pouvez accéder directement aux liens hypertexte en cliquant sur la forme.
@@ -148,6 +148,6 @@ Vous pouvez utiliser Visio Online pour afficher les métadonnées d'un diagramme
 ## <a name="zoom"></a>Zoom
 <a name="BM_25"> </a>
 
-Visio en ligne inclut un curseur qui vous permet d’effectuer un zoom avant ou arrière. En outre, vous pouvez utiliser l’outil main &amp; fonctionnalité de Zoom pour agrandir sur une zone du diagramme.
+Visio Online includes a slider that lets you zoom in and out. Also, you can use the Pan &amp; Zoom feature to zoom in on a region of the diagram.
   
 

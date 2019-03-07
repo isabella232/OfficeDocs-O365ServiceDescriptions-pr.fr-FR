@@ -1,7 +1,7 @@
 ---
 title: Réseau
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft Office 365 prend en charge les fonctionnalités de mise en réseau suivantes.
-ms.openlocfilehash: 8a9a8d8b5276f4f4578fec625849410268f855ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 2245e2e60333d0f1eb85e1243c49c0a04a4f62ec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035497"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467901"
 ---
 # <a name="networking"></a>Réseau
 
 Microsoft Office 365 prend en charge les fonctionnalités de mise en réseau suivantes.
   
-## <a name="ports-protocols-and-ip-addresses"></a>Ports, protocoles et adresses IP
+## <a name="ports-protocols-and-ip-addresses"></a>Ports, protocoles et adresses IP
 
 Office 365 utilise des adresses IPv4 et IPv6. L'utilisation des adresses IPv6 est facultative et non obligatoire pour la connexion à Office 365. Les fonctionnalités Office 365 ne sont pas toutes pleinement activées si vous utilisez IPv6. Pour plus d'informations sur la prise en charge d'IPv6 dans Office 365, consultez la rubrique [Prise en charge du protocole IPv6 dans les services Office 365](https://go.microsoft.com/fwlink/?LinkID=785121&amp;clcid=0x409).
   
@@ -33,7 +33,7 @@ Office 365 conserve une liste d'adresses IP autorisées dans l'aide Office 365. 
 > [!IMPORTANT]
 > Nous vous recommandons fortement d'activer le routage vers les noms de domaines racine répertoriés dans l'article mentionné ci-dessus (comme \*.Outlook.com, \*.MicrosoftOnline.com et \*.SharePoint.com), au lieu de procéder au routage vers des sous-réseaux d'adresses IP spécifiques. Le fait d'utiliser des sous-réseaux d'adresses IP risque d'entraîner des temps d'indisponibilité pour vos utilisateurs lors de l'apport de modifications. 
   
-## <a name="bandwidth-requirements"></a>Configuration de bande passante requise
+## <a name="bandwidth-requirements"></a>Bande passante requise
 
 Pour plus d'informations sur la configuration de bande passante requise, consultez [Planification de bande passante Internet](https://go.microsoft.com/fwlink/p/?LinkID=282467).
   
@@ -43,7 +43,7 @@ Toutes les connexions à Office 365 sont effectuées via l'Internet public ou vi
   
 Pour plus d'informations sur Azure ExpressRoute, consultez la rubrique [Azure ExpressRoute pour Office 365](https://aka.ms/expressrouteoffice365).
   
-### <a name="wan-accelerators"></a>Accélérateurs de réseau étendu (WAN)
+### <a name="wan-accelerators"></a>Accélérateurs de WAN
 
 Microsoft ne prend pas en charge l'accélération de réseaux étendus (WAN) et d'appareils de mise en cache détenus par les clients avec Office 365. Si vous décidez d'utiliser un contrôleur d'optimisation de WAN en vue d'augmenter les performances dans des conditions de latence élevée ou de faible bande passante, vous devrez le désactiver pendant la résolution des demandes de service avec Microsoft, et travailler avec votre fournisseur d'appareils pour toute assistance relative à ces appareils. Pour plus d'informations, consultez la rubrique [Accélération de réseaux étendus (WAN) et dispositifs de mise en cache avec Office 365](https://go.microsoft.com/fwlink/p/?LinkID=282468).
   
@@ -57,7 +57,7 @@ Pour assurer la confidentialité et l'intégrité des données des clients, Micr
     
 - Séparation logique. La technologie de réseau local virtuel (VLAN) est utilisée pour séparer encore davantage les communications.
     
-- Pare-feu. Des pare-feu et d’autres points d’application de la sécurité réseau sont utilisés pour limiter les échanges de données avec des systèmes exposés à Internet, ainsi que pour isoler les systèmes des systèmes principaux gérés par Microsoft. 
+- Pare-feu. Des pare-feu et d'autres points d'application de la sécurité réseau sont utilisés pour limiter les échanges de données avec des systèmes exposés à Internet, ainsi que pour isoler les systèmes des systèmes principaux gérés par Microsoft. 
     
 - Restrictions de protocole.
     

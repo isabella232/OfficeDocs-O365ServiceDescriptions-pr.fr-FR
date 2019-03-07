@@ -1,7 +1,7 @@
 ---
 title: Partage et collaboration
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 13ab2163b76b5ccc4732659a64be5fcead01dc9d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035531"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466921"
 ---
 # <a name="sharing-and-collaboration"></a>Partage et collaboration
 
@@ -43,7 +43,7 @@ Pour plus d'informations sur les boîtes aux lettres de site, consultez la rubri
   
 ## <a name="public-folders"></a>Dossiers publics
 
-Dossiers publics dans Exchange Online ont été moderniser les réglementations afin de tirer parti des haute disponibilité et stockage les technologies existantes de la base de données de boîtes aux lettres. L’architecture des dossiers publics utilise des boîtes aux lettres spécifiquement conçus pour stocker la hiérarchie et le contenu des dossiers publics. Cela signifie qu’il n’est plus une base de données de dossiers publics distinctes. Réplication des dossiers publics maintenant utilise le modèle de réplication continue. Haute disponibilité pour les boîtes aux lettres de hiérarchie et le contenu est fournie par un groupe de disponibilité de base de données (DAG) dans le centre de données. Dans Exchange Online, vous êtes limité aux boîtes aux lettres de dossier public 1000. Chaque boîte aux lettres de dossier public a également une taille maximale de stockage. Pour plus d’informations, voir la section « Limites de dossier de boîte aux lettres » dans les [Limites d’Exchange Online](exchange-online-limits.md). Boîtes aux lettres de dossier public ont le même message, destinataire et limites de capacité de l’alerte en tant que boîtes aux lettres ordinaires. Pour plus d’informations, consultez la rubrique [Recipients](recipients.md). 
+Les dossiers publics Exchange Online ont été améliorés afin de bénéficier des technologies de haute disponibilité et de stockage existantes de la base de données de boîtes aux lettres. L'architecture de dossiers publics utilise des boîtes aux lettres spécialement conçues pour stocker à la fois la hiérarchie et les contenus des dossiers publics. Ceci signifie qu'il n'existe plus de base de données indépendante de dossiers publics. La réplication des dossiers publics utilise désormais le modèle de réplication continue. C'est le groupe de disponibilité de base de données (DAG) qui fournit la haute disponibilité en termes de hiérarchie et de contenu des boîtes aux lettres dans le centre de données. Dans Exchange Online, vous êtes limité à 1000 boîtes aux lettres de dossiers publics. Chaque boîte aux lettres de dossiers publics est également limitée par une taille maximale de stockage. Pour plus d'informations, consultez la section relative aux limites s'appliquant aux dossiers de boîte aux lettres dans la rubrique [Limites d'Exchange Online](exchange-online-limits.md). Les boîtes aux lettres de dossiers publics présentent les mêmes limites d'alerte de messages, de destinataires et de capacité que les boîtes aux lettres ordinaires. Pour plus d'informations, consultez la rubrique [Destinataires](recipients.md). 
   
 Pour plus d'informations sur les dossiers publics, consultez la rubrique [Dossiers publics](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

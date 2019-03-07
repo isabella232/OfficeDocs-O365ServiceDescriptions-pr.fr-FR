@@ -1,7 +1,7 @@
 ---
 title: Aide et formation
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fournit les ressources d'aide et de formation suivantes.
-ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210287"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467081"
 ---
 # <a name="help-and-training"></a>Aide et formation
 
@@ -27,7 +27,7 @@ Microsoft Office 365 fournit les ressources d'aide et de formation suivantes.
 ## <a name="online-help"></a>Aide en ligne
 <a name="BKMK_Online_Help"> </a>
 
-Les articles d'aide et les vidéos sont disponibles à partir de n'importe quel lien d'aide incorporé dans le service, y compris l'icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d'administration Microsoft 365. Vous pouvez également effectuer une recherche dans toute l' [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)aide d'Office 365 sur. 
+Les articles d'aide et les vidéos sont disponibles à partir de n'importe quel lien d'aide incorporé dans le service, y compris l'icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d'administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formation
 <a name="BKMK_Online_Help"> </a>
@@ -101,7 +101,7 @@ Les professionnels de l'informatique travaillant au sein de grandes organisation
   
 Pour plus d'informations, visitez le [TechCenter Office 365](https://go.microsoft.com/fwlink/?LinkId=272058).
   
-## <a name="other-self-help-resources"></a>Autres ressources d'aide sans assistance
+## <a name="other-self-help-resources"></a>Autres ressources d'aide autonome
 <a name="BKMK_OtherSelfHelpResources"> </a>
 
 Outre la communauté Office 365 et l'aide en ligne, Office 365 propose les ressources d'aide sans assistance suivantes :
@@ -124,23 +124,23 @@ Les ressources d'aide et de formation sont disponibles dans les langues suivante
 |Arabe  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Bulgare  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Chinois simplifié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Chinois traditionnel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Chinois traditionnel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Tchèque  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Danois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Néerlandais  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Danois  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Néerlandais  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Estonien  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Finnois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Français  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Allemand  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Allemand  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Grec  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Hongrois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Italien  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|Japonais  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Italien  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Japonais  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Coréen  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Letton  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Lituanien  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Norvégien  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Polonais  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|Norvégien  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Polonais  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Portugais  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Portugais (Brésil)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roumain  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -149,7 +149,7 @@ Les ressources d'aide et de formation sont disponibles dans les langues suivante
 |Slovaque  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Slovène  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Espagnol  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Suédois  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Suédois  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Thaïlandais  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Turc  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Ukrainien  <br/> |Oui  <br/> | Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |

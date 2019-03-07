@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de la suite Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: Les fonctionnalités répertoriées dans cette rubrique sont basées sur le web les outils qui vous aident à collaborer et de communiquer en toute sécurité sur de nombreux périphériques et plusieurs services Office 365. Ces fonctionnalités permettent d’établir de nouvelles connexions au sein de votre organisation à la création de contenu numérique unification, de stockage et de gestion avec les outils sociaux pour découvrir et partager des informations entre les utilisateurs.
-ms.openlocfilehash: cdc7803a1373f5442e768dc5c8a6b26dff9d5ab8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d'outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
+ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035482"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466941"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 
-Les fonctionnalités répertoriées dans cette rubrique sont basées sur le web les outils qui vous aident à collaborer et de communiquer en toute sécurité sur de nombreux périphériques et plusieurs services Office 365. Ces fonctionnalités permettent d’établir de nouvelles connexions au sein de votre organisation à la création de contenu numérique unification, de stockage et de gestion avec les outils sociaux pour découvrir et partager des informations entre les utilisateurs.
+Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d'outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
   
 ## <a name="microsoft-bookings"></a>Réservations Microsoft
 <a name="BKMK_Bookings"> </a>
@@ -39,12 +39,12 @@ Microsoft Flow vous permet d'automatiser des flux de travail dans vos applicatio
 ## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms est un nouveau composant d’Office 365 Éducation qui permet de créer rapidement et facilement des questionnaires personnalisés, enquêtes, questionnaires, les enregistrements et plus. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d’autres personnes pour répondre à l’aide de n’importe quel navigateur web, même sur des appareils mobiles. Comme les résultats sont renvoyés, vous pouvez utiliser analytique intégrés pour évaluer les réponses. Les données de formulaires, tels que les résultats des tests, peuvent facilement exporter vers Excel pour une analyse plus approfondie ou notation. Pour plus d’informations, voir [What ' s Microsoft Forms ?](https://support.office.com/en-us/forms).
+Microsoft Forms est une nouvelle partie de l'éducation Office 365 qui vous permet de créer rapidement et facilement des questionnaires, des enquêtes, des questionnaires, des enregistrements, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats des tests, peuvent être facilement exportées vers Excel pour une analyse ou une notation plus approfondie. Pour en savoir plus, consultez la rubrique [qu'est-ce que Microsoft Forms?](https://support.office.com/en-us/forms).
   
 ## <a name="microsoft-graph-api"></a>API Microsoft Graph
 <a name="BKMK_Graph"> </a>
 
-Utiliser l’API de graphique Microsoft pour générer rapidement des applications qui se connectent à un large éventail de ressources, des relations et aide à la décision, à l’aide d’un seul point de terminaison : https://graph.microsoft.com. Par exemple, vous pouvez créer des tableaux de bord personnalisés, flux de travail et les applications qui récupèrent des données pour votre organisation. Pour plus d’informations, voir la [documentation de Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
+Utilisez l'API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand éventail de ressources, de relations et d'intelligence, tout https://graph.microsoft.comau long d'un point de terminaison unique:. Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d'informations, reportez-vous à la [documentation Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
@@ -69,14 +69,14 @@ Microsoft StaffHub est une application basée sur le cloud qui permet aux employ
 ## <a name="microsoft-stream"></a>Microsoft Stream
 <a name="BKMK_Stream"> </a>
 
-Stream Microsoft est un service d’entreprise vidéo que personnes dans votre organisation peuvent utiliser pour télécharger, afficher et partager des vidéos en toute sécurité. Vous pouvez partager des enregistrements de classes, des réunions, des présentations, des sessions de formation ou autres vidéos qui facilitent la collaboration de votre équipe. Stream Microsoft facilite également le partage des commentaires dans un codes de temps vidéo et des balises dans les commentaires et des descriptions pour faire référence à des points spécifiques dans une vidéo.
+Microsoft Stream est un service vidéo d'entreprise que les membres de votre organisation peuvent utiliser pour télécharger, afficher et partager des vidéos en toute sécurité. Vous pouvez partager des enregistrements de cours, de réunions, de présentations, de sessions de formation ou d'autres vidéos qui aident la collaboration de votre équipe. Microsoft Stream facilite également le partage des commentaires sur une vidéo et des codes de temps d'étiquette dans les commentaires et descriptions pour faire référence à des points spécifiques d'une vidéo.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 <a name="BKMK_Sway"> </a>
 
-Sway Microsoft est une application professionnelle narration numériques pour les entreprises qui vous aideront à et vos collègues express idées à l’aide d’une zone de dessin interactive, basée sur le web. Moteur de conception intégrée de Microsoft Sway vous permet de générer Professionnel, visuellement attrayants, des présentations, etc. sans avoir besoin pour la mise en forme complète ou une formation supplémentaire. Vous pouvez également modifier les résultats pour obtenir l’aspect unique souhaité. Microsoft Sway permet la création de votre présentation n’importe quel navigateur sur n’importe quel écran et peuvent être partagé avec des collègues et des clients en envoyant un lien. Microsoft Sway vous permet de rechercher et de regrouper tous les types de contenu sans quitter l’application, afin que vous pouvez glisser -déplacer vos images, texte, des vidéos et graphiques droite sur à votre zone de dessin. Pour plus d’informations, consultez la rubrique [balancement](https://sway.com). Microsoft Sway n’est pas encore disponible dans [Office 365 Allemagne](office-365-germany.md).
+Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu'à vos collègues, de formuler des idées à l'aide d'un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d'une mise en forme ou d'une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l'apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n'importe quel navigateur de n'importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d'extraire tous les types de contenu sans quitter l'application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
 
 Microsoft Teams est un espace de travail centré sur les conversations dans Office 365 qui permet aux équipes d'unir leurs efforts. Microsoft Teams sert de plateforme pour le travail d'équipe, permettant aux équipes d'accéder instantanément à des conversations, du contenu et des outils d'Office 365 dans un espace de travail unique. SharePoint et OneNote sont intégrés, et les membres de l'équipe peuvent travailler sur des documents Office directement dans l'application. En plus des conversations, Microsoft Teams prend en charge les réunions et appels vidéo, ce qui permet aux équipes de se rencontrer en direct, sur demande ou de manière planifiée. Les utilisateurs peuvent facilement collaborer avec plusieurs équipes et effectuer des recherches parmi des personnes, des conversations et des fichiers à tout moment. Microsoft Teams fonctionne sur les plateformes Windows, Mac, Web, Android et iOS. Pour en savoir plus, voir [Aide de Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
@@ -86,7 +86,7 @@ Microsoft Teams est un espace de travail centré sur les conversations dans Offi
 
 Office Delve permet aux utilisateurs de rechercher et de découvrir du contenu dans Office 365 sur la base d'informations personnalisées. Delve est la première expérience fournie par Office Graph. Pour en savoir plus sur Office Delve, reportez-vous à [Qu'est-ce qu'Office Delve ?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
-## <a name="office-365-groups"></a>Groupes Office 365
+## <a name="office-365-groups"></a>Groupes Office 365
 <a name="BKMK_Groups"> </a>
 
 Les groupes dans Office 365 permettent aux utilisateurs de se connecter à leurs collègues, aux informations et aux applications dont ils ont besoin pour tirer pleinement parti de leur collaboration. Les groupes sont ouverts par défaut pour améliorer la détectabilité et le partage, mais les utilisateurs peuvent également créer des groupes privés pour le contenu sensible. Pour en savoir plus sur les groupes, reportez-vous à [En savoir plus sur les groupes Office 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Pour plus d'informations sur les limites de groupe, voir « Comment gérer mes groupes » dans [En savoir plus sur les groupes Office 365](https://go.microsoft.com/fwlink/?linkid=846714).
@@ -99,7 +99,7 @@ Office 365 Video constitue une destination sécurisée à l'échelle de la soci�
 ## <a name="onenote-class-notebook"></a>Bloc-notes OneNote pour la classe
 <a name="BKMK_Video"> </a>
 
-Bloc-notes de classe fait partie de OneNote et est disponible pour Office 365 éducation et Office 365 E5 éducation. Chaque ordinateur portable comprend une bibliothèque de contenu pour les enseignants partager un bloc-notes privé, un espace de Collaboration où enseignants et les participants peuvent collaborer et le contenu du cours pour chaque étudiant. Après la création d’un bloc-notes classe, enseignants et étudiants pouvant utiliser l’application OneNote pour y accéder à partir de n’importe quel appareil.
+Le bloc-notes de classe fait partie de OneNote et est disponible pour Office 365 éducation et Office 365 E5 éducation. Chaque bloc-notes inclut une bibliothèque de contenu pour les enseignants afin de partager le contenu du cours, un espace de collaboration dans lequel les enseignants et les étudiants peuvent collaborer, ainsi qu'un bloc-notes privé pour chaque étudiant. Une fois le bloc-notes de classe créé, les enseignants et les étudiants peuvent utiliser l'application OneNote pour y accéder à partir de n'importe quel appareil.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 <a name="BKMK_Video"> </a>

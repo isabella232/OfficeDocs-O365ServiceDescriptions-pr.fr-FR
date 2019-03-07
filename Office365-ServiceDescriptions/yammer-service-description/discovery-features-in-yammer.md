@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de découverte dans Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 761f7b3e2edaad8a5851528990e68d17f3d66d66
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6736eae580814a156abb3b67f5ae038215ad2bc9
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035487"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468011"
 ---
 # <a name="discovery-features-in-yammer"></a>Fonctionnalités de découverte dans Yammer
 
@@ -34,7 +34,7 @@ Restez informé des conversations, des fichiers et des projets qui vous intéres
 
 Découvrez ce sur quoi vos collègues travaillent à tout moment. Le Télex affiche l'historique des activités en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour effectués dans d'autres applications métiers.
   
-## <a name="topics"></a>Sujets
+## <a name="topics"></a>Topics
 <a name="bkmk_Topics"> </a>
 
 Marquez du contenu pour permettre aux autres utilisateurs de trouver rapidement des messages, des fichiers et des notes associés en ajoutant simplement un hashtag (#) avant le mot ou en recherchant des sujets existants.

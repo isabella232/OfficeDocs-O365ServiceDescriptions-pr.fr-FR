@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de conformité et de sécurité dans l'archivage Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: c54ec8f37c6f881dc934307f7784f79d01c7a878
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035525"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467791"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans l'archivage Exchange Online
 
@@ -42,7 +42,7 @@ Les fonctionnalités de stratégie de rétention disponibles dans Archivage Exch
 Lorsqu'une situation de litige est vraisemblablement à craindre, les organisations ont pour obligation de conserver les informations pertinentes qui sont stockées électroniquement (ESI), y compris la messagerie. Cette exigence de stockage de la correspondance électronique peut se faire ressentir avant que les détails précis du litige soient connus, et la conservation s'applique généralement à un grand nombre d'éléments. Les organisations peuvent conserver tous les messages électroniques concernant un sujet spécifique, ou tous les messages de certaines personnes.
   
 > [!NOTE]
-> La conservation inaltérable et la conservation pour litige ne s’appliquent actuellement pas aux messages électroniques envoyés à l’aide des clients POP ou IMAP, ou d’applications personnalisées qui utilisent le protocole SMTP. 
+> La conservation inaltérable et la conservation pour litige ne s'appliquent actuellement pas aux messages électroniques envoyés à l'aide des clients POP ou IMAP, ou d'applications personnalisées qui utilisent le protocole SMTP. 
   
 Dans Exchange Online, vous pouvez utiliser la conservation inaltérable et la conservation pour litige pour accomplir les tâches suivantes :
   
@@ -111,15 +111,15 @@ L'Archivage Exchange Online stocke les messages Secure/Multipurpose Internet Mai
   
 De même, l'Archivage Exchange Online stocke les messages chiffrés à l'aide de solutions de chiffrement tierces côté client telles que Pretty Good Privacy (PGP).
   
-### <a name="information-rights-management"></a>Gestion des droits relatifs à l'information
+### <a name="information-rights-management"></a>Gestion des droits relatifs à l’information
 
 L'Archivage Exchange Online ne fournit pas de services de Gestion des droits relatifs à l'information (IRM), mais les administrateurs peuvent utiliser des services AD RMS (Active Directory Rights Management Services). Si un serveur AD RMS est déployé, Outlook peut communiquer directement avec ce serveur, en permettant aux utilisateurs de composer et de lire les messages protégés par IRM. Si l'interopérabilité entre le serveur AD RMS et l'environnement Exchange sur site est configurée, les utilisateurs pourront composer et lire les messages protégés par IRM.
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Prise en charge de l'IRM dans Outlook Web App
+#### <a name="support-for-irm-in-outlook-web-app"></a>Prise en charge de la Gestion des droits relatifs à l’information dans Outlook Web App
 
-Les utilisateurs peuvent lire et créer des messages protégés par la Gestion des droits relatifs à l’information (IRM) en mode natif dans Outlook Web App, tout comme dans Outlook. Ils peuvent également consulter les messages protégés par IRM dans Outlook Web App à l’aide de navigateurs Internet Explorer, Firefox, Safari et Chrome (aucun plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L’interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l’environnement Exchange sur site doit être configurée pour les activer.
+Les utilisateurs peuvent lire et créer des messages protégés par la Gestion des droits relatifs à l'information (IRM) en mode natif dans Outlook Web App, tout comme dans Outlook. Ils peuvent également consulter les messages protégés par IRM dans Outlook Web App à l'aide de navigateurs Internet Explorer, Firefox, Safari et Chrome (aucun plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L'interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l'environnement Exchange sur site doit être configurée pour les activer.
   
-#### <a name="irm-search"></a>Recherche de la Gestion des droits relatifs à l'information
+#### <a name="irm-search"></a>Recherche de la Gestion des droits relatifs à l’information
 
 Les messages protégés par la Gestion des droits relatifs à l'information (IRM) sont indexés et peuvent faire l'objet d'une recherche portant notamment sur les en-têtes, l'objet, le corps du message et les pièces jointes. Les utilisateurs peuvent rechercher des éléments protégés par IRM dans Outlook et Outlook Web App, et les administrateurs peuvent rechercher des éléments protégés par IRM à l'aide de la découverte électronique inaltérable ou de la cmdlet **Search-Mailbox**. 
   

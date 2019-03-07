@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de Skype Entreprise Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype entreprise Online dans la configuration de Skype entreprise online.
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210257"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467431"
 ---
-# <a name="skype-for-business-online-features"></a>Fonctionnalités Skype Entreprise Online
+# <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
 Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype entreprise Online dans la configuration de [Skype entreprise Online](https://support.office.com/en-us/article/Set-up-Skype-for-Business-Online-40296968-e779-4259-980b-c2de1c044c6e).
   
-## <a name="clients-for-skype-for-business-online"></a>Clients pour Skype Entreprise Online
+## <a name="clients-for-skype-for-business-online"></a>Clients for Skype for Business Online
 <a name="BKMK_Clients"> </a>
 
 > [!IMPORTANT]
@@ -43,9 +43,9 @@ Skype Entreprise prend en charge les appareils de salle de conférence répertor
 
 Les utilisateurs de Skype Entreprise peuvent :
   
-- Afficher leur statut de présence (par exemple : disponible, absent(e), ne pas déranger ou hors connexion) afin de communiquer leur disponibilité. Les informations de présence de Skype Entreprise sont présentées dans la suite Office 365.
+- Afficher leur statut de présence (par exemple : disponible, absent(e), ne pas déranger ou hors connexion) afin de communiquer leur disponibilité. Les informations de présence de Skype Entreprise sont présentées dans la suite Office 365.
     
-- Envoyer et recevoir des messages texte en temps réel sur un réseau IP (Internet Protocol) tel qu’Internet ou le réseau d’entreprise d’une organisation. La messagerie instantanée est disponible pour la communication à plusieurs et entre utilisateurs Skype. Le texte MI est crypté pour une sécurité accrue.
+- Envoyer et recevoir des messages texte en temps réel sur un réseau IP (Internet Protocol) tel qu'Internet ou le réseau d'entreprise d'une organisation. La messagerie instantanée est disponible pour la communication à plusieurs et entre utilisateurs Skype. Le texte MI est crypté pour une sécurité accrue.
     
 - Configurer l'affichage de leur propre carte de visite Skype Entreprise.
     
@@ -65,12 +65,12 @@ La connectivité externe Skype Entreprise (fédération) permet à un utilisateu
   
 La connectivité externe Skype Entreprise nécessite l'accord et la configuration appropriée des deux parties impliquées dans la relation de fédération. Une fois la fédération définie par les administrateurs des deux parties, les utilisateurs de chaque entreprise peuvent afficher la liste des personnes présentes et communiquer avec les utilisateurs de l'autre entreprise. La fédération dans Office 365 est uniquement prise en charge entre d'autres environnements Skype Entreprise, avec des serveurs proxy d'accès ou Edge correctement configurés. Pour obtenir plus d'informations sur la configuration du serveur Edge, consultez la rubrique [Composants requis pour l'accès des utilisateurs externes dans Skype Entreprise Server 2015](https://technet.microsoft.com/en-us/library/gg425779%28v=ocs.15%29.aspx).
   
-## <a name="skype-for-business-online-meetings"></a>Réunions Skype Entreprise Online
+## <a name="skype-for-business-online-meetings"></a>Réunions Skype Entreprise Online
 <a name="BKMK_Meetings"> </a>
 
 Les utilisateurs peuvent démarrer ou rejoindre une réunion Skype Entreprise improvisée en quelques clics dans le client Skype Entreprise ou dans Office. Skype Entreprise permet aux utilisateurs de transformer de simples conversations de messagerie instantanée ou de messagerie électronique en des réunions vidéo et audio sur ordinateur entre plusieurs utilisateurs (deux utilisateurs ou plus) avec la possibilité de partager des bureaux, des applications et des documents.
   
-Un codec audio adaptatif est fourni aux utilisateurs pour des performances optimales sous différentes conditions de bande passante, avec contrôles d’appel et de liste, indicateur de qualité du réseau et fonctionnalités performantes de gestion des utilisateurs (par exemple, glisser-déposer d’un nom de participant pour l’ajouter à une réunion).
+Un codec audio adaptatif est fourni aux utilisateurs pour des performances optimales sous différentes conditions de bande passante, avec contrôles d'appel et de liste, indicateur de qualité du réseau et fonctionnalités performantes de gestion des utilisateurs (par exemple, glisser-déposer d'un nom de participant pour l'ajouter à une réunion).
   
 En plus de l'audio, Skype Entreprise permet aux utilisateurs de se connecter lors de sessions vidéo de haute qualité. Sont prises en charge les sessions en face à face et multipartites (trois utilisateurs ou plus). La vidéo de l'intervenant actif est disponible uniquement pour les sessions multipartites. Avec Skype Entreprise, les utilisateurs peuvent aisément planifier une réunion en ligne avec vidéo ou transformer une session de messagerie instantanée en appel vidéo.
   
@@ -101,7 +101,7 @@ Dans certains plans d'abonnement, Skype Entreprise peut s'intégrer avec la mess
     
 Skype Entreprise offre l'interopérabilité avec Microsoft SharePoint Server sur site pour la présence et la communication par clic dans les sites SharePoint. Cette interopérabilité nécessite que le client Skype Entreprise soit en cours d'exécution sur l'ordinateur de l'utilisateur. 
   
-## <a name="skype-for-business-online-administration-and-management"></a>Gestion et administration de Skype Entreprise Online
+## <a name="skype-for-business-online-administration-and-management"></a>Gestion et administration de Skype Entreprise Online
 <a name="BKMK_Admin"> </a>
 
 Bien que Microsoft contrôle directement tous les centres de données Skype Entreprise Online et soit responsable des performances globales du système, il contrôle uniquement une partie des éléments réunis pour l'utilisation totale d'Office 365. Les organisations elles-mêmes sont responsables des connexions réseau aux centres de données, au réseau étendu (WAN) du client et aux réseaux locaux (LAN) du client. En outre, elles sont en charge des périphériques utilisateur et de leur configuration. Elles sont également responsables de la gestion des licences requises par utilisateur pour les fonctionnalités voulues, y compris, mais sans s'y limiter, la possibilité de gérer ces dernières, tant que l'utilisateur doit y avoir accès.
@@ -118,7 +118,7 @@ Skype Entreprise Online fournit donc aux administrateurs du client les outils in
     
 Pour afficher les derniers articles pratiques et les rubriques d'aide pour administrateurs de Skype Entreprise Online, consultez la rubrique [Skype Entreprise Online dans Office 365 - Aide de l'administrateur](https://support.office.com/en-us/article/Skype-for-Business-Online-in-Office-365-%e2%80%93-Admin-Help-4307bdbf-6097-458d-9a6a-048112695c59)
   
-## <a name="audio-conferencing-in-office-365"></a>Audioconférence dans Office 365
+## <a name="audio-conferencing-in-office-365"></a>Audioconférence dans Office 365
 <a name="BKMK_Audio"> </a>
 
 Une audioconférence est une conférence dans laquelle au moins un participant se connecte à la partie audio à l'aide d'un téléphone. La possibilité d'accéder à une réunion par téléphone est utile pour les personnes qui sont en déplacement ou ne peuvent pas y participer via un PC ou un appareil mobile. Le téléphone peut également être une meilleure option dans d'autres cas de figure, par exemple lorsque la connectivité Internet est limitée ou lorsqu'une réunion est uniquement diffusée en audio.
@@ -129,14 +129,14 @@ Dans Office 365, vous pouvez activer l'accès aux conférences rendez-vous en ut
   
 La fonctionnalité d'audioconférence n'est pas disponible dans tous les pays ou toutes les régions. Pour obtenir la liste des pays ou régions dans lesquels vous pouvez acquérir la fonction de conférence audio, reportez-vous à [l'article dédié](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
-## <a name="calling-plans-in-office-365"></a>Plans d'appel dans Office 365
+## <a name="calling-plans-in-office-365"></a>Plans d’appel dans Office 365
 <a name="BKMK_CallingPlans"> </a>
 
 Skype Entreprise inclut des fonctionnalités d'appel trouvées sur le réseau téléphonique commuté (PSTN). Les plans d'appel constituent un complément au [système téléphonique dans Office 365](https://technet.microsoft.com/en-us/library/mt631190.aspx) qui vous permet de rechercher et d'acquérir des numéros de téléphone, puis de les affecter à des utilisateurs de votre organisation afin qu'ils puissent échanger des appels avec des personnes appartenant ou non à l'organisation, directement depuis Office 365. Les utilisateurs auxquels des numéros de téléphone sont attribués peuvent effectuer des appels vocaux sur tous les appareils Skype Entreprise, y compris les téléphones VoIP, les PC et les appareils mobiles. Ils peuvent aussi contrôler leurs appels en désactivant le son ou à l'aide des fonctionnalités de mise en attente, de renvoi d'appel et de transfert d'appel, ainsi que passer des appels d'urgence. 
   
 Pour obtenir plus d'informations sur les plans d'appel disponibles, accédez à la rubrique [Plans d'appel pour Office 365](https://products.office.com/en-us/skype-for-business/pstn-calling-plans). Pour plus d'informations et pour définir un plan d'appel, consultez la rubrique [Que sont les plans d'appel ?](https://support.office.com/en-us/article/What-are-Calling-Plans-in-Office-365-3dc773b9-95e0-4448-b2f1-887c54022429?ui=en-US&amp;rs=en-US&amp;ad=US).
   
-## <a name="phone-system-in-office-365"></a>Système téléphonique dans Office 365
+## <a name="phone-system-in-office-365"></a>Système téléphonique dans Office 365
 <a name="BKMK_PhoneSystem"> </a>
 
 Le système téléphonique dans Office 365 vous permet d'utiliser Skype Entreprise et les lignes téléphoniques existantes de votre société ou le système téléphonique pour les appels entrants et sortants. Avec le système téléphonique dans Office 365, vos utilisateurs peuvent utiliser Skype Entreprise pour effectuer des tâches de base, comme passer ou recevoir des appels, les transférer ou encore en couper le son, le tout à partir de pratiquement n'importe quel endroit doté d'un accès à Internet.

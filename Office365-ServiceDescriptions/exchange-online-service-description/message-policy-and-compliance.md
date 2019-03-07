@@ -1,7 +1,7 @@
 ---
 title: Stratégie et conformité de message
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: fd5062df19298720417566d91667f3c3b237b164
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035706"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467251"
 ---
 # <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
@@ -61,7 +61,7 @@ Dans Exchange Online, les administrateurs gèrent les stratégies de rétention 
   
 Exchange Online propose deux types de stratégies : les stratégies d'archivage et les stratégies de suppression. Ces deux types peuvent être combinés sur le même élément ou dossier. Par exemple, un utilisateur peut baliser un message électronique afin de le déplacer automatiquement vers l'archive locale dans un certain nombre de jours et le supprimer après quelques jours d'intervalle.
   
-Dans Outlook 2010 ou version ultérieure et Outlook Web App, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels. Ils peuvent également visualiser les stratégies de rétention appliquées et les dates de suppression prévues des messages.  Les utilisateurs d'autres clients de messagerie peuvent uniquement archiver ou supprimer des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur.
+Dans Outlook 2010 ou version ultérieure et Outlook Web App, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels. Ils peuvent également visualiser les stratégies de rétention appliquées et les dates de suppression prévues des messages. Les utilisateurs d'autres clients de messagerie peuvent uniquement archiver ou supprimer des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur.
   
 Les fonctionnalités de stratégie de rétention disponibles dans Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 RU4. Les administrateurs peuvent utiliser Windows PowerShell à distance pour migrer les stratégies de rétention des environnements locaux Exchange Server 2010 ou version ultérieure vers Exchange Online.
   
@@ -70,26 +70,26 @@ Les fonctionnalités de stratégie de rétention disponibles dans Exchange Onlin
   
 Pour plus d'informations, consultez la rubrique [Balises et stratégies de rétention](https://go.microsoft.com/fwlink/p/?LinkId=271745).
   
-## <a name="encryption-of-data-at-rest"></a>Chiffrement des données au repos
+## <a name="encryption-of-data-at-rest"></a>Chiffrement des données lors de leur stockage
 
-Chiffrement des données du client Office 365 au repos est fourni par plusieurs technologies côté service, y compris BitLocker, DKM, chiffrement de Service de stockage Azure et le chiffrement de service dans Exchange Online, Skype pour les entreprises, OneDrive pour les entreprises et SharePoint En ligne. Office 365 Service chiffrement inclut une option pour utiliser des clés de chiffrement gérés par le client qui sont stockés dans Azure clé coffre-fort. Cette option clée client géré, appelée [Clé de client Office 365](https://go.microsoft.com/fwlink/?linkid=863349), est disponible pour Exchange Online, SharePoint Online et OneDrive for Business. 
+Le chiffrement des données client Office 365 au repos est assuré par plusieurs technologies côté service, notamment BitLocker, DKM, le chiffrement de service de stockage Azure et le chiffrement de service dans Exchange Online, Skype entreprise, OneDrive entreprise et SharePoint Online. Le chiffrement de service Office 365 inclut une option permettant d'utiliser des clés de chiffrement gérées par le client qui sont stockées dans Azure Key Vault. Cette option de clé gérée par le client, appelée [clé client Office 365](https://go.microsoft.com/fwlink/?linkid=863349), est disponible pour Exchange Online, SharePoint Online et OneDrive entreprise. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Serveurs Office 365 utilisent BitLocker pour chiffrer les lecteurs de disque contenant des données au repos au niveau du volume du client. Le chiffrement BitLocker est une fonctionnalité de protection de données qui est intégrée à Windows. BitLocker est une des technologies utilisées pour protéger contre les menaces au cas où l’indisponibilité dans d’autres processus ou les contrôles (par exemple, contrôle d’accès ou de recyclage du matériel) qui peuvent amener à une personne physique accéder sur les disques contenant les données du client. Dans ce cas, BitLocker élimine le risque de vol de données ou l’exposition en raison de disques et les ordinateurs perdus, volés ou mis hors service. 
+Les serveurs Office 365 utilisent BitLocker pour chiffrer les lecteurs de disque contenant des données client au repos au niveau du volume. Le chiffrement BitLocker est une fonctionnalité de protection des données intégrée à Windows. BitLocker est l'une des technologies utilisées pour se protéger contre les menaces en cas de chute d'autres processus ou contrôles (par exemple, le contrôle d'accès ou le recyclage du matériel) susceptibles d'entraîner l'accès physique à des disques contenant des données client. Dans ce cas, BitLocker élimine le risque de vol ou d'exposition des données en raison d'ordinateurs et de disques perdus, volés ou incorrectement mis en service. 
   
 ### <a name="distributed-key-manager"></a>Gestionnaire de clés distribuées
 
-En plus de BitLocker, nous utilisons une technologie appelée Gestionnaire de clé distribué (DKM). DKM est une fonctionnalité côté client qui utilise un ensemble de clés secrètes pour chiffrer et déchiffrer les informations. Seuls les membres d’un groupe de sécurité spécifiques dans les Services de domaine Active Directory peuvent accéder à ces clés pour déchiffrer les données qui sont chiffrées par DKM. Dans Exchange Online, uniquement des comptes de service sous lequel exécutent les processus Exchange font partie de ce groupe de sécurité. Dans le cadre de la procédure opérationnelle standard dans le centre de données, aucune humaines ne reçoit les informations d’identification qui font partie de ce groupe de sécurité et par conséquent aucun humain n’a accès aux clés qui peuvent déchiffrer ces clés secrètes.
+En plus de BitLocker, nous utilisons une technologie appelée gestionnaire de clés distribuées (DKM). DKM est une fonctionnalité côté client qui utilise un ensemble de clés secrètes pour chiffrer et déchiffrer les informations. Seuls les membres d'un groupe de sécurité spécifique dans les services de domaine Active Directory peuvent accéder à ces clés pour déchiffrer les données chiffrées par DKM. Dans Exchange Online, seuls certains comptes de service sous lesquels les processus Exchange sont exécutés font partie de ce groupe de sécurité. Dans le cadre de la procédure opérationnelle standard dans le centre de données, les informations d’identification qui font partie de ce groupe de sécurité ne sont communiquées à aucun être humain, et par conséquent aucun être humain n’a accès aux clés qui peuvent déchiffrer les informations confidentielles.
   
 ## <a name="customer-key"></a>Clé client
 
-Avec la clé client, vous contrôler les clés de chiffrement de votre organisation, puis configurez Office 365 pour les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Données au repos comprennent des données à partir d’Exchange Online et Skype pour les entreprises qui est stocké dans les boîtes aux lettres et les fichiers qui sont stockés dans SharePoint Online et OneDrive for Business. Pour plus d’informations, voir [contrôle de vos données dans Office 365 à l’aide de la clé client](https://go.microsoft.com/fwlink/?linkid=863349) et de [Service de chiffrement avec la clé client pour Office 365 FAQ](https://go.microsoft.com/fwlink/?linkid=869438).
+Avec la clé client, vous contrôlez les clés de chiffrement de votre organisation, puis vous configurez Office 365 afin de les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Pour plus d'informations, reportez-vous à [la rubrique contrôle de vos données dans office 365 utilisation de la clé client](https://go.microsoft.com/fwlink/?linkid=863349) et du chiffreMent de [service avec la clé client pour Office 365](https://go.microsoft.com/fwlink/?linkid=869438).
   
-## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
+## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-Chiffrement de messages Office 365 permet aux utilisateurs de messagerie envoyer des messages électroniques chiffrés à tout le monde. Nous avons annoncé de nouvelles fonctionnalités de chiffrement de messages Office qui exploitent les fonctionnalités de protection de chiffrement des informations Azure. Ces nouvelles fonctionnalités améliorées expériences utilisateur final qui facilitent le partager et collaborer sur des messages protégés avec tout le monde à l’intérieur ou à l’extérieur de l’organisation. Les nouvelles fonctionnalités de chiffrement de messages Office ont des exigences du programme d’installation. Voir la rubrique Set up des nouvelles fonctionnalités d’Office 365 Message Encryption greffées Azure la Protection des informations. Les clients hérités Office 365 Message Encryption ne pas recevoir les nouvelles fonctionnalités sans suivre les instructions fournies ci-dessus de paramétrage. Veuillez lire le [Forum aux questions](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) pour plus d’informations sur ce qui est inclus dans la nouvelle et fonctionnalités d’Office 365 Message Encryption héritées. 
+Le chiffrement de messages Office 365 permet aux utilisateurs de messagerie d'envoyer des messages électroniques chiffrés à quiconque. Nous avons annoncé de nouvelles fonctionnalités dans le chiffrement de messages Office qui tirent parti des fonctionnalités de protection dans Azure information enCryption. Ces nouvelles fonctionnalités ont fourni des expériences utilisateur améliorées qui facilitent le partage et la collaboration sur des messages protégés avec une personne à l'intérieur ou à l'extérieur de l'organisation. Les nouvelles fonctionnalités de chiffrement des messages Office ont quelques exigences de configuration. Consultez la rubrique Set up New Office 365 message enCryption Capabilities Built-Top of Azure information protection. Les clients sur le chiffrement de messages Office 365 hérité n'obtiennent pas les nouvelles fonctionnalités sans suivre les conseils de configuration fournis ci-dessus. Pour plus d'informations sur ce qui est inclus dans les nouvelles fonctionnalités de chiffrement des messages Office 365, consultez le [Forum aux questions](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) . 
   
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extension)
 <a name="bkmk_O365_MessageEncryption"> </a>
@@ -103,7 +103,7 @@ S/MIME est pris en charge par Internet Explorer 9 et versions ultérieures. Actu
 
 Lorsqu'une situation de litige est vraisemblablement à craindre, les organisations ont pour obligation de conserver les informations pertinentes qui sont stockées électroniquement (ESI), y compris la messagerie. Cette exigence de stockage de la correspondance électronique peut se faire ressentir avant que les détails précis du litige soient connus, et la conservation s'applique généralement à un grand nombre d'éléments. Les organisations peuvent conserver tous les messages électroniques concernant un sujet spécifique, ou tous les messages de certaines personnes.
   
-Dans Exchange Online, vous pouvez utiliser la conservation inaltérable et la conservation pour litige pour accomplir les tâches suivantes :
+Dans Exchange Online, vous pouvez utiliser la conservation inaltérable et la conservation pour litige pour accomplir les tâches suivantes :
   
 - Permettre aux utilisateurs d'être bloqués et de conserver immuablement les éléments de boîte aux lettres
     
@@ -156,9 +156,9 @@ Pour plus d'informations, consultez la rubrique [Découverte électronique local
 ## <a name="mail-flow-rules"></a>Règles de flux de messagerie
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-Vous pouvez utiliser les règles de flux de messagerie pour rechercher des conditions spécifiques sur les messages qui transitent par votre organisation et les traiter. Règles de flux de messagerie vous permettent d’appliquer des stratégies de messagerie pour les messages électroniques, messages sécurisés, protéger les systèmes de messagerie et empêcher la fuite d’informations.
+Vous pouvez utiliser des règles de flux de messagerie pour rechercher des conditions spécifiques sur les messages qui transitent par votre organisation et qui agissent sur ces dernières. Les règles de flux de messagerie vous permettent d'appliquer des stratégies de messagerie aux messages électroniques, aux messages sécurisés, à la protection des systèmes de messagerie et à la prévention des fuites d'informations.
   
-En raison d'obligations légales, d'exigences réglementaires ou de stratégies d'entreprise, de nombreuses organisations sont tenues d'appliquer des stratégies de messagerie afin de limiter l'interaction entre les destinataires et les expéditeurs, à l'intérieur et à l'extérieur de l'organisation. Outre la limitation des interactions entre individus, groupes de service au sein de l'organisation et autres entités externes à celle-ci, certaines organisations sont également sujettes aux exigences suivantes en relation avec la stratégie de messagerie :
+En raison d'obligations légales, d'exigences réglementaires ou de stratégies d'entreprise, de nombreuses organisations sont tenues d'appliquer des stratégies de messagerie afin de limiter l'interaction entre les destinataires et les expéditeurs, à l'intérieur et à l'extérieur de l'organisation. Outre la limitation des interactions entre individus, groupes de service au sein de l'organisation et autres entités externes à celle-ci, certaines organisations sont également sujettes aux exigences suivantes en relation avec la stratégie de messagerie :
   
 - blocage du contenu inapproprié entrant ou sortant
     
@@ -171,7 +171,7 @@ En raison d'obligations légales, d'exigences réglementaires ou de stratégies 
 - application de dédits de responsabilité à des messages transitant par l'organisation
     
 > [!IMPORTANT]
-> Types de fichiers joints qui requièrent l’installation d’iFilters tiers sur le serveur de messagerie (par exemple, Adobe .pdf) ne peut pas être inspectée à l’aide de règles de flux de messagerie jusqu'à après l’installation d’un iFilter approprié. Pour plus d’informations sur les types de fichiers pris en charge par les règles de flux de messagerie, voir [utiliser les règles de flux de messagerie pour analyser les pièces jointes des messages dans Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
+> Les types de fichiers de pièces jointes qui nécessitent l'installation de iFilters tiers sur le serveur de messagerie (par exemple, Adobe. pdf) ne peuvent pas être inspectés à l'aide des règles de flux de messagerie jusqu'à ce qu'un iFilter approprié soit installé. Pour plus d'informations sur les types de fichiers pris en charge par les règles de flux de messagerie, voir [utiliser des règles de flux de messagerie pour inspecter les pièces jointes des messages dans Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
   
 Pour plus d’informations sur les règles de flux de messagerie, consultez la rubrique [Mail flow rules in Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488).
   
@@ -190,11 +190,11 @@ Vous pouvez configurer les stratégies DLP dans l'interface de gestion du Centre
     
 - Incorporer vos propres modèles de stratégie DLP personnalisés et types d'informations sensibles.
     
-- Détecter des informations sensibles dans les pièces jointes des messages, des corps de texte ou des lignes d’objet et ajuster le niveau de confiance à partir de laquelle Exchange Online agit.
+- Détecter des informations sensibles dans les pièces jointes, le corps du texte ou les lignes d'objet des messages, et ajuster le niveau de confiance à partir duquel Exchange Online agit.
     
 - Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. La création d'empreintes digitales document vous permet de créer facilement des types d'informations sensibles personnalisés à partir des formulaires texte que vous pouvez utiliser pour définir des règles de transport et des stratégies de protection contre la perte de données.
     
-- Ajouter des conseils de stratégie qui permettent de réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2016, Outlook 2013, Outlook Web App et OWA pour les appareils, tout en améliorant l’efficacité de vos stratégies en autorisant la création de rapports de faux-positifs.  
+- Ajouter des conseils de stratégie qui permettent de réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2016, Outlook 2013, Outlook Web App et OWA pour les appareils, tout en améliorant l'efficacité de vos stratégies en autorisant la création de rapports de faux-positifs. 
     
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
     
@@ -205,17 +205,17 @@ Pour plus d'informations sur la stratégie DLP, consultez la rubrique [Protectio
 
 Vous pouvez configurer Exchange Online pour journaliser des copies de messages électroniques dans n'importe quelle boîte aux lettres externe pouvant recevoir des messages via SMTP. La journalisation peut aider votre organisation à répondre aux exigences réglementaires, légales et de conformité organisationnelle en enregistrant les communications électroniques échangées. Lors de la planification de la rétention et de la conformité de la messagerie, il est important de bien comprendre la journalisation, son intégration dans les stratégies de conformité de votre organisation et la sécurisation des messages journalisés à l'aide de votre organisation.
   
-Vous pouvez gérer les règles de journal à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Vous pouvez configurer la journalisation en fonction de la liste d'utilisateurs ou de distribution, et choisir de ne consigner que les messages internes, les messages externes, ou les deux.   Les messages journalisés incluent non seulement le message d'origine, mais également des informations sur l'expéditeur, les destinataires, les copies et les copies invisibles.
+Vous pouvez gérer les règles de journal à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Vous pouvez configurer la journalisation en fonction de la liste d'utilisateurs ou de distribution, et choisir de ne consigner que les messages internes, les messages externes, ou les deux. Les messages journalisés incluent non seulement le message d'origine, mais également des informations sur l'expéditeur, les destinataires, les copies et les copies invisibles.
   
-Pour garantir une solution de journalisation réussie et fiable, vous devez effectuer les tâches suivantes :
+Pour garantir la réussite et la fiabilité de la solution de journalisation, vous devez effectuer les tâches suivantes:
   
-- Assurez-vous que la destination de journalisation n’est pas une boîte aux lettres Exchange Online.
+- Assurez-vous que la destination de journalisation n'est pas une boîte aux lettres Exchange Online.
     
 - Créez dans le répertoire de clients un objet contact pour l'adresse de messagerie cible SMTP à utiliser pour la journalisation.
     
 - Créez un deuxième objet contact sous forme de boîte aux lettres de journal alternative pour capturer tous les états de journal lorsque la boîte aux lettres de journal principale n'est pas disponible.
     
-- Maintenir la bonne gestion, de redondance, disponibilité, performances et les niveaux de fonctionnalité de la cible SMTP pour garantir l’acceptation réussie de la messagerie toujours.
+- Maintenir des niveaux de gestion, de redondance, de disponibilité, de performances et de fonctionnalité adaptés à la cible SMTP pour garantir la réussite de l'acceptation des messages.
     
 - Assurez l'interopérabilité respective avec le transport Exchange Server et Exchange, notamment les formats de message, l'intégration des informations sur l'expéditeur/destinataire et la conversion appropriée du contenu.
     

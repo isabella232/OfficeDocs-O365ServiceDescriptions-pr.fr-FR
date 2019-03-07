@@ -1,7 +1,7 @@
 ---
-title: Resource management
-ms.author: pebaum
-author: pebaum
+title: Gestion des ressources
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,19 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
-description: Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: 9cccd229602d43fb1cfc4cfd90dca4a5ed91e446
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project online.
+ms.openlocfilehash: 11d6689b5089ad6cb374364b021c3dad74a3856f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035564"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466591"
 ---
 # <a name="resource-management"></a>Gestion des ressources
 
-Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project Online.
+Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project online.
   
-## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Approuver/Rejeter/Modifier les demandes entrantes d'engagement de ressources
+## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Approuver/Rejeter/Modifier les demandes entrantes d’engagement de ressources
 <a name="bkmk_ApproveRejectModify"> </a>
 
 Vous pouvez accepter, rejeter ou modifier les demandes de ressources entrantes en fonction de l'affichage des ressources globales. Pour plus d'informations, voir la rubrique [Accepter ou refuser une demande d'engagement ](http://go.microsoft.com/fwlink/?LinkID=823659&amp;clcid=0x409).

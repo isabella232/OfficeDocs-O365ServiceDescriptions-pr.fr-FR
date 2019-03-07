@@ -1,7 +1,7 @@
 ---
 title: Planification et déploiement
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: b8e805452bde7553640c4b02f39792c0dd1c6b78
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 8175c34f7ab55935788d5238235ad7be66db8871
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035585"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467111"
 ---
 # <a name="planning-and-deployment"></a>Planification et déploiement
 
@@ -31,7 +31,7 @@ Les organisations doivent choisir des options de migration selon leurs systèmes
     
 - **Déploiement hybride Exchange** Certaines boîtes aux lettres utilisateur de votre entreprise sont hébergées dans une organisation Exchange locale tandis que d'autres sont hébergées dans Exchange Online. 
     
-### <a name="cloud-only"></a>Nuage uniquement
+### <a name="cloud-only"></a>Cloud uniquement
 
 Un déploiement en nuage uniquement est un déploiement dans lequel votre organisation au sein du service Exchange Online n'est pas connectée à une organisation Exchange locale. Tous les utilisateurs et boîtes aux lettres sont hébergés et gérés dans Exchange Online et Office 365.
   

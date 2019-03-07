@@ -1,7 +1,7 @@
 ---
 title: Description du service Project Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 2/21/2019
 ms.audience: End User
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni via Office 365, Project Online offre des fonctionnalités de gestion de projet puissantes pour la planification, la hiérarchisation et la gestion des projets et des investissements de portefeuille de projets, depuis presque n'importe quel endroit sur n'importe quel appareil. Project online peut être utilisé par les administrateurs, les responsables de portefeuilles et les visionneuses, les responsables de projet et de ressources, ainsi que les responsables et les membres d'équipe.
-ms.openlocfilehash: eabc085568473531da93d2aed4a51fdb095c217e
-ms.sourcegitcommit: 0779536e4b9dc4bed4fb3c7f0767314b9a63d397
+description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
+ms.openlocfilehash: 6b58178c9aea05173f4d5abbc4b44a85b497d631
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "30178353"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467861"
 ---
 # <a name="project-online-service-description"></a>Description du service Project Online
 
-Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni via Office 365, Project Online offre des fonctionnalités de gestion de projet puissantes pour la planification, la hiérarchisation et la gestion des projets et des investissements de portefeuille de projets, depuis presque n'importe quel endroit sur n'importe quel appareil. Project online peut être utilisé par les administrateurs, les responsables de portefeuilles et les visionneuses, les responsables de projet et de ressources, ainsi que les responsables et les membres d'équipe. 
+Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe. 
   
 Project Online est disponible dans le cadre de trois offres, Project Online Essentials, Project Online Professionnel et Project Online Premium.
   
@@ -42,7 +42,7 @@ Il existe certaines limites au service Project Online. Pour plus d'informations,
   
 ## <a name="use-of-sharepoint-online"></a>Utilisation de SharePoint Online
 
-Votre service Project Online nécessite l'utilisation de SharePoint Online, qui sera mis en service pour vous dans le cadre du service Project online. Les droits d'accès aux fonctionnalités SharePoint Online fournis avec Project Online professionnel ou Premium sont limités au stockage et à l'accès aux données pour prendre en charge Project online.
+Votre service Project Online requiert l'utilisation de SharePoint Online, qui sera configuré pour vous dans le cadre du service Project Online. Les droits d'accès aux fonctionnalités SharePoint Online fournis avec Project Online professionnel ou Premium sont limités au stockage et à l'accès aux données pour prendre en charge Project online.
   
 ## <a name="licensing-considerations"></a>Remarques sur les licences
 
@@ -55,7 +55,9 @@ Toute interaction sur un site Project Online nécessite une licence Project onli
 - Pour les cas d'utilisation plus avancés, les utilisateurs doivent disposer des licences appropriées. Les responsables de projet nécessitent au minimum une licence Project Online professionnel. Les responsables de portefeuilles nécessitent une licence de Project Online Premium.
     
 > [!IMPORTANT]
->  Project Online Essentials est une licence de *complément* de membre d'équipe pour les clients qui ont Project Online professionnel ou Project Online Premium.<br/>Lorsque votre dernière licence Project Online Professional ou Project Online Premium arrive à expiration, vos instances Project Web App seront supprimées après 120 jours.<br/>Pour les abonnements à la version d'évaluation de Project Online, vos instances Project Web App seront supprimées 30 jours après la fin de la période d'évaluation. 
+>  Project Online Essentials est une licence de *complément* de membre d'équipe pour les clients qui ont Project Online professionnel ou Project Online Premium. 
+<br/>Lorsque votre dernière licence Project Online Professional ou Project Online Premium arrive à expiration, vos instances Project Web App seront supprimées après 120 jours. 
+<br/>Pour les abonnements à la version d'évaluation de Project Online, vos instances Project Web App seront supprimées 30 jours après la fin de la période d'évaluation. 
   
 ### <a name="external-users"></a>Utilisateurs externes
 
@@ -63,11 +65,11 @@ La gestion des licences Project Online pour les utilisateurs externes suit la m�
   
 ## <a name="project-online-plans"></a>Offres Project Online
 
-Les plans Project Online suivants sont disponibles. Pour en savoir plus sur Project Online, consultez la rubrique [prise en main de Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+Les offres Project Online suivantes sont disponibles. Pour en savoir plus sur Project Online, consultez la rubrique [prise en main de Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
   
 ||||
 |:-----|:-----|:-----|
-|**Planifier** <br/> |**Description** <br/> |**Utilisateurs ciblés** <br/> |
+|**Offre** <br/> |**Description** <br/> |**Utilisateurs ciblés** <br/> |
 |Project Online Essentials<sup>1</sup> <br/> | Interface Web pour les membres d'équipe  <br/>  Mettre à jour des tâches, des problèmes et des risques  <br/>  Soumettre des feuilles de temps  <br/>  Partager des documents et collaborer avec la présence Skype Entreprise  <br/> |Membres de l'équipe  <br/> |
 |Project Online Professional<sup>1</sup> <br/> | Toutes les fonctionnalités de Project Online Essentials, ainsi que :  <br/>  Interface utilisateur enrichie via le client pour ordinateur de bureau  <br/>  Accès à tout moment et en tout lieu via une interface Web  <br/>  Planification de projet et évaluation des coûts  <br/>  Gestion des ressources  <br/>  Publication de projets dans le cloud  <br/>  Inclut la version la plus récente de l'application de bureau Project, instantanément diffusée en continu sur votre PC Windows.  <br/>  Chaque licence d'abonnement permet de mettre en place jusqu'à cinq installations simultanées de l'application de bureau Project.  <br/> |Responsables de projets  <br/> |
 |Project Online Premium<sup>1</sup> <br/> | Toutes les fonctionnalités de Project Online Professionnel, ainsi que :  <br/>  Sélection et optimisation de portefeuille  <br/>  Gestion de la demande  <br/>  Gestion des ressources d'entreprise  <br/>  Rapports de portefeuille prêts à l'emploi  <br/> |Responsables de portefeuilles et de ressources  <br/> |
@@ -82,94 +84,96 @@ Les plans Project Online suivants sont disponibles. Pour en savoir plus sur Proj
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
 |**Fonctionnalités principales (client de bureau)** <br/> ||||||
-|[Ajouter des colonnes](core-functionality.md#add-columns) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Arrière-plan](core-functionality.md#backstage) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Démarrer en un clic](core-functionality.md#click-to-run) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Menus contextuels par clic droit](core-functionality.md#contextual-right-click-menus) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Champs personnalisés](core-functionality.md#custom-fields) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Fonction copier/coller améliorée entre les applications Microsoft Office](core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Diagramme de Gantt, calendrier et vues de feuille de travail](core-functionality.md#gantt-chart-calendar-and-task-sheet-views) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Interface utilisateur Microsoft Fluent : le ruban](core-functionality.md#microsoft-fluent-user-interface-the-ribbon) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Annulations à plusieurs niveaux](core-functionality.md#multiple-level-undo) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Affichage de diagrammes de réseau](core-functionality.md#network-diagram-view) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|[Ajouter des colonnes](core-functionality.md#add-columns) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Arrière-plan](core-functionality.md#backstage) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Démarrer en un clic](core-functionality.md#click-to-run) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Menus contextuels par clic droit](core-functionality.md#contextual-right-click-menus) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Champs personnalisés](core-functionality.md#custom-fields) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Fonction copier/coller améliorée entre les applications Microsoft Office](core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Diagramme de Gantt, calendrier et vues de feuille de travail](core-functionality.md#gantt-chart-calendar-and-task-sheet-views) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Interface utilisateur Microsoft Fluent : le ruban](core-functionality.md#microsoft-fluent-user-interface-the-ribbon) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Annulations à plusieurs niveaux](core-functionality.md#multiple-level-undo) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Affichage de diagrammes de réseau](core-functionality.md#network-diagram-view) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Boutique Office](core-functionality.md#office-store) <br/> |Non  <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Non  <br/> |
-|[Aide en ligne](core-functionality.md#online-help) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Sortie PDF et XPS](core-functionality.md#pdf-and-xps-output) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Texte d'espace réservé dans les champs de projet](core-functionality.md#placeholder-text-in-project-fields) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Modèles de projets](core-functionality.md#project-templates) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Assistance au démarrage](core-functionality.md#start-experience) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Retour automatique à la ligne](core-functionality.md#text-wrap) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Affichage de la chronologie](core-functionality.md#timeline-view) <br/> ||Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Commandes de zoom](core-functionality.md#zoom-controls) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|[Aide en ligne](core-functionality.md#online-help) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Sortie PDF et XPS](core-functionality.md#pdf-and-xps-output) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Texte d'espace réservé dans les champs de projet](core-functionality.md#placeholder-text-in-project-fields) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Modèles de projets](core-functionality.md#project-templates) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Assistance au démarrage](core-functionality.md#start-experience) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Retour automatique à la ligne](core-functionality.md#text-wrap) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Affichage de la chronologie](core-functionality.md#timeline-view) <br/> ||Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Commandes de zoom](core-functionality.md#zoom-controls) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |**Planification de projet (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Cumul de la ligne de base](project-planning.md#baseline-rollup) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Planification budgétaire](project-planning.md#budget-planning) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Comparer les versions d'un projet](project-planning.md#compare-project-versions) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Délais](project-planning.md#deadlines) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Filtrage](project-planning.md#filtering) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Formules et indicateurs graphiques](project-planning.md#formulas-and-graphical-indicators) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Grouper et trier les données des projets](project-planning.md#group-and-sort-project-data) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Rapports](project-planning.md#reports) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Planificateur d'équipe](project-planning.md#team-planner) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|[Cumul de la ligne de base](project-planning.md#baseline-rollup) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Planification budgétaire](project-planning.md#budget-planning) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Comparer les versions d'un projet](project-planning.md#compare-project-versions) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Délais](project-planning.md#deadlines) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Filtrage](project-planning.md#filtering) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Formules et indicateurs graphiques](project-planning.md#formulas-and-graphical-indicators) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Grouper et trier les données des projets](project-planning.md#group-and-sort-project-data) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Rapports](project-planning.md#reports) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Planificateur d'équipe](project-planning.md#team-planner) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |**Gestion des tâches (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Tâches actives et inactives](task-management.md#active-and-inactive-tasks) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Saisie semi-automatique](task-management.md#auto-complete) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Planification automatique](task-management.md#automatic-scheduling) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Date du calendrier prolongée jusqu'à 2149](task-management.md#calendar-date-extended-to-2149) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Chemin critique entre les projets](task-management.md#cross-project-critical-path) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Inspecteur de tâches](task-management.md#task-inspector) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Analyse de la séquence des tâches](task-management.md#task-path-analysis) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Tâches récapitulatives verticales](task-management.md#top-down-summary-tasks) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Mettre à jour la progression](task-management.md#update-progress) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Planification manuelle et contrôlée par l'utilisateur](task-management.md#user-controlled-and-manual-scheduling) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|[Tâches actives et inactives](task-management.md#active-and-inactive-tasks) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Saisie semi-automatique](task-management.md#auto-complete) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Planification automatique](task-management.md#automatic-scheduling) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Date du calendrier prolongée jusqu'à 2149](task-management.md#calendar-date-extended-to-2149) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Chemin critique entre les projets](task-management.md#cross-project-critical-path) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Inspecteur de tâches](task-management.md#task-inspector) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Analyse de la séquence des tâches](task-management.md#task-path-analysis) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Tâches récapitulatives verticales](task-management.md#top-down-summary-tasks) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Mettre à jour la progression](task-management.md#update-progress) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Planification manuelle et contrôlée par l'utilisateur](task-management.md#user-controlled-and-manual-scheduling) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |**Gestion des ressources de projet (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Ressources de coûts](project-resource-management.md#cost-resources) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Gestion des durées non travaillées](project-resource-management.md#manage-nonworking-time) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Audit des ressources](project-resource-management.md#resource-leveling) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Feuille de ressource et vues d'utilisation](project-resource-management.md#resource-sheet-and-usage-views) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Substitution de ressources](project-resource-management.md#resource-substitution) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Ressources d'équipe](project-resource-management.md#team-resources) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Ressources de travail, générales et matérielles](project-resource-management.md#work-generic-and-material-resources) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|[Ressources de coûts](project-resource-management.md#cost-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Gestion des durées non travaillées](project-resource-management.md#manage-nonworking-time) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Audit des ressources](project-resource-management.md#resource-leveling) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Feuille de ressource et vues d'utilisation](project-resource-management.md#resource-sheet-and-usage-views) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Substitution de ressources](project-resource-management.md#resource-substitution) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Ressources d'équipe](project-resource-management.md#team-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Ressources de travail, générales et matérielles](project-resource-management.md#work-generic-and-material-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |**Publication de projet (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Créer un site Project](project-publishing.md#create-a-project-site) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Projets principaux dans SharePoint](project-publishing.md#master-projects-on-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Fonctionnalité de présence avec Skype Entreprise](project-publishing.md#presence-with-skype-for-business) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Publier vos projets dans Project Server ou Project Online](project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Enregistrer un fichier de projet MPP dans SharePoint](project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
-|[Synchronisation d'une liste de tâches avec SharePoint](project-publishing.md#task-list-sync-to-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|[Créer un site Project](project-publishing.md#create-a-project-site) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Projets principaux dans SharePoint](project-publishing.md#master-projects-on-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Fonctionnalité de présence avec Skype Entreprise](project-publishing.md#presence-with-skype-for-business) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Publier vos projets dans Project Server ou Project Online](project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Enregistrer un fichier de projet MPP dans SharePoint](project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Synchronisation d'une liste de tâches avec SharePoint](project-publishing.md#task-list-sync-to-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |**Services de base** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Intégration d'Active Directory](core-services-functionality.md#active-directory-integration) <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|[Administration, déploiement et extensibilité](core-services-functionality.md#administration-deployment-and-extensibility) <br/> |Oui<sup>23</sup> <br/> |Oui  <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Mise en route](core-services-functionality.md#getting-started) <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Gestion des problèmes et des risques (pour les membres de l'équipe)](core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Centre de gestion de la confidentialité Office 365](core-services-functionality.md#office-365-trust-center) <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |N/A  <br/> |S/O  <br/> |
-|[Écosystème de partenaires de gestion de portefeuille de projets](core-services-functionality.md#ppm-partner-ecosystem) <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Fiabilité du service](core-services-functionality.md#service-reliability) <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |N/A  <br/> |S/O  <br/> |
-|[Mises à jour du service](core-services-functionality.md#service-updates) <br/> |Oui  <br/> |Oui   <br/> |Oui  <br/> |N/A  <br/> |S/O  <br/> |
-|[Collaboration des membres de l'équipe](core-services-functionality.md#team-member-collaboration) <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Gestion des tâches et du temps (pour les membres de l'équipe)](core-services-functionality.md#time-and-task-management-for-team-members) <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
+|[Intégration d'Active Directory](core-services-functionality.md#active-directory-integration) <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Administration, déploiement et extensibilité](core-services-functionality.md#administration-deployment-and-extensibility) <br/> |Oui<sup>23</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Mise en route](core-services-functionality.md#getting-started) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Gestion des problèmes et des risques (pour les membres de l'équipe)](core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Centre de gestion de la confidentialité Office 365](core-services-functionality.md#office-365-trust-center) <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |N/D  <br/> |S/O  <br/> |
+|[Écosystème de partenaires de gestion de portefeuille de projets](core-services-functionality.md#ppm-partner-ecosystem) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Fiabilité du service](core-services-functionality.md#service-reliability) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/A  <br/> |S/O  <br/> |
+|[Mises à jour du service](core-services-functionality.md#service-updates) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/A  <br/> |S/O  <br/> |
+|[Collaboration des membres de l'équipe](core-services-functionality.md#team-member-collaboration) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Gestion des tâches et du temps (pour les membres de l'équipe)](core-services-functionality.md#time-and-task-management-for-team-members) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |**Gestion de projet** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Gestion des problèmes et des risques](project-management.md#issues-and-risk-management) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Gérer les ressources du projet](project-management.md#manage-project-resources) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Gestion de la planification](project-management.md#schedule-management) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|[Gestion du temps et des tâches](project-management.md#time-and-task-management) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
+|[Gestion des problèmes et des risques](project-management.md#issues-and-risk-management) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Gérer les ressources du projet](project-management.md#manage-project-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Gestion de la planification](project-management.md#schedule-management) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Gestion du temps et des tâches](project-management.md#time-and-task-management) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |**Gestion de portefeuille** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Analyser les projets et optimiser le portefeuille](portfolio-management.md#analyze-projects-and-optimize-portfolio) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|[Créer et modifier des projets](portfolio-management.md#create-and-edit-projects) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Gestion financière](portfolio-management.md#financial-management) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|[Participer à un flux de travail](portfolio-management.md#participate-in-workflow) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
-|[Analyse et sélection de portefeuille](portfolio-management.md#portfolio-analytics-and-selection) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|[Gestion de programmes](portfolio-management.md#program-management) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
+|[Analyser les projets et optimiser le portefeuille](portfolio-management.md#analyze-projects-and-optimize-portfolio) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Créer et modifier des projets](portfolio-management.md#create-and-edit-projects) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Gestion financière](portfolio-management.md#financial-management) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Participer à un flux de travail](portfolio-management.md#participate-in-workflow) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Analyse et sélection de portefeuille](portfolio-management.md#portfolio-analytics-and-selection) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Gestion de programmes](portfolio-management.md#program-management) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |**Création de rapports et aide à la décision** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Flux OData](reporting-and-business-intelligence.md#odata-feeds) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non   <br/> |Oui  <br/> |
+|[Flux OData](reporting-and-business-intelligence.md#odata-feeds) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |[Tableaux de bord de portefeuille prêts à l'emploi](reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|[Rapports Project sur ordinateur de bureau](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Non  <br/> |Non  <br/> |
+|[Rapports Project sur ordinateur de bureau](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |**Gestion des ressources** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2016** <br/> |**Project Server 2016** <br/> |
-|[Approuver/Rejeter/Modifier les demandes entrantes d'engagement de ressources](resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|[Gérer la liste des ressources](resource-management.md#manage-resource-pool) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|[Planifier la capacité des ressources](resource-management.md#plan-resource-capacity) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non   <br/> |Oui  <br/> |
-|[Demander les contrats des ressources](resource-management.md#request-resource-agreements) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
-|[Afficher les ressources disponibles et constituer des équipes](resource-management.md#view-available-resources-and-build-teams) <br/> |Non  <br/> |Oui  <br/> |Oui   <br/> |Oui   <br/> |Non  <br/> |
+|[Approuver/Rejeter/Modifier les demandes entrantes d'engagement de ressources](resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Gérer la liste des ressources](resource-management.md#manage-resource-pool) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Planifier la capacité des ressources](resource-management.md#plan-resource-capacity) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Demander les contrats des ressources](resource-management.md#request-resource-agreements) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Afficher les ressources disponibles et constituer des équipes](resource-management.md#view-available-resources-and-build-teams) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> l'intégration d'Active Directory inclut les utilisateurs de Project Online Essentials. Toutefois, un abonnement Project Online est requis pour gérer l'intégration d'Active Directory. <br/><sup>2</sup> non disponible dans Project Online pour Office 365 géré par 21ViaNet. <br/><sup>3</sup> Seule l'extensibilité pour les scénarios de membre de l'équipe est prise en charge. 
+> <sup>1</sup> L'intégration d'Active Directory inclut les utilisateurs de Project Online Essentials. Toutefois, un abonnement Project Online est nécessaire pour gérer l'intégration d'Active Directory. 
+ <br/><sup>2</sup> Non disponible dans Project Online pour Office 365 géré par 21Vianet. 
+ <br/><sup>3</sup> Seule l'extensibilité pour les scénarios de membre de l'équipe est prise en charge. 

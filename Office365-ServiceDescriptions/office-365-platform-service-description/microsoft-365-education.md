@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Éducation
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: article
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Microsoft 365 est disponible dans différents plans pour satisfaire au mieux les besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 éducation, cet article explique les fonctionnalités sont incluses dans chacun d’eux.
-ms.openlocfilehash: 6a341e00fff5bde4b0727fccb091e44a43ec628d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
+ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035618"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468171"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
-Microsoft 365 est disponible dans différents plans pour satisfaire au mieux les besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 éducation, cet article explique les fonctionnalités sont incluses dans chacun d’eux. 
+Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux. 
   
 Microsoft 365 fournit un système complet, comprenant Office 365, Windows 10 et Enterprise Mobility et Security. Le tableau suivant répertorie les fonctionnalités Office 365 pour l'Éducation A1, A3 et A5, ainsi que les fonctionnalités correspondantes Microsoft 365 pour l'Éducation A3 et A5. Pour comparer les fonctionnalités Office 365 des différents plans pour entreprises, accédez à [Comparer les offres Office 365 pour entreprises](https://go.microsoft.com/fwlink/?linkid=799177) ou, pour une liste plus détaillée des fonctionnalités, consultez la description des services correspondants à l'adresse [Descriptions du service Office 365](https://go.microsoft.com/fwlink/?linkid=839510). Pour rechercher des articles et des informations d'aide, consultez [Aide et formation sur Office](https://support.office.com/).
   
@@ -38,7 +38,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Teams  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype Entreprise Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Project Online  <br/> |Aucun<sup>5</sup> <br/> |Aucun<sup>5</sup> <br/> |Aucun<sup>5</sup> <br/> |Aucun<sup>5</sup> <br/> |Aucun<sup>5</sup> <br/> |
+|Project Online  <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |
 |Yammer Academic  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**Outils pour la salle de classe** <br/> |**Office 365 Éducation A1** <br/> |**Office 365 Éducation A3** <br/> |**Office 365 Éducation A5** <br/> |**Microsoft 365 Éducation A3** <br/> |**Microsoft 365 Éducation A5** <br/> |
 |Expériences pour la salle de classe dans Microsoft Teams  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

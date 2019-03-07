@@ -1,7 +1,7 @@
 ---
 title: Autorisations
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utilise un modèle d'autorisations de contrôle d'accès basé sur un rôle (RBAC) pour permettre aux administrateurs d'organisations de contrôler finement ce que les utilisateurs et les employés du service informatique peuvent faire dans le service. Par exemple, si un responsable de la mise en conformité est responsable des demandes de recherche de boîtes aux lettres, l'administrateur peut lui déléguer cette fonction administrative au moyen du contrôle RBAC. Exchange Online utilise le même cadre RBAC que Microsoft Exchange Server 2013.
-ms.openlocfilehash: 037a92123c67e313f4db93835be6355bbd829efc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035577"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468131"
 ---
 # <a name="permissions"></a>Autorisations
 
@@ -40,7 +40,7 @@ Il existe deux types de rôles : rôles d'administrateur et rôles d'utilisateur
     
 Les rôles concèdent aux administrateurs et utilisateurs auxquels ils sont attribués des autorisations pour effectuer des tâches en mettant à leur disposition des cmdlets. Du fait que le Centre d'administration Exchange et l'environnement de ligne de commande Exchange Management Shell utilisent des cmdlets pour gérer Exchange Online, l'accès à une cmdlet autorise l'administrateur ou l'utilisateur à effectuer des tâches dans chacune des interfaces de gestion Exchange Online.
   
-Les Autorisations basées sur des rôles de Microsoft Online Services se superposent de deux façons à ceux de du contrôle RBAC de Exchange Online RBAC. D'abord, les utilisateurs qui sont des administrateurs généraux ou des administrateurs de service dans Microsoft Online reçoivent automatiquement le rôle de gestion de l'organisation dans Exchange Online. Ensuite, les utilisateurs qui sont des administrateurs d'assistance dans Microsoft Online reçoivent automatiquement le rôle d'assistance dans Exchange Online. Sinon, les deux modèles de sécurité sont gérés séparément.
+Les Autorisations basées sur des rôles de Microsoft Online Services se superposent de deux façons à ceux de du contrôle RBAC de Exchange Online RBAC. D'abord, les utilisateurs qui sont des administrateurs généraux ou des administrateurs de service dans Microsoft Online reçoivent automatiquement le rôle de gestion de l'organisation dans Exchange Online. Ensuite, les utilisateurs qui sont des administrateurs d'assistance dans Microsoft Online reçoivent automatiquement le rôle d'assistance dans Exchange Online. Sinon, les deux modèles de sécurité sont gérés séparément.
   
 > [!IMPORTANT]
 > Certains rôles disponibles dans la version sur site de Microsoft Exchange Server 2013 ne sont peut-être pas disponibles dans Exchange Online. 

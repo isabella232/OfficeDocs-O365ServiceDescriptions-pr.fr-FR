@@ -1,7 +1,7 @@
 ---
 title: Clients et appareils mobiles
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,20 +12,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: ad19845f7a06cfb01a74507fdb794813091c1c2b
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035626"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467611"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients et appareils mobiles
 
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook est un programme de messagerie qui prend en charge le calendrier, contacts, tâches et les fonctionnalités clées suivantes :
+Microsoft Outlook est un programme de messagerie électronique qui inclut la prise en charge du calendrier, des contacts, des tâches et des fonctionnalités clés suivantes:
   
-- **MAPI sur HTTP** Messagerie programme Interface MAPI (Application) sur HTTP permet aux utilisateurs d’Outlook de se connecter aux boîtes aux lettres Exchange Online via Internet à partir de l’extérieur du pare-feu de leur organisation. MAPI sur HTTP, le remplacement à long terme pour Outlook Anywhere. Cette méthode de connectivité offre résistance améliorée de connexion, dans l’authentification plus sécurisée, l’extensibilité, ainsi qu’améliorations pour professionnels et prend en charge. Pour plus d’informations, voir [RPC sur HTTP atteint la fin de la prise en charge dans Office 365](https://go.microsoft.com/fwlink/?linkid=863890) et [MAPI sur HTTP](https://go.microsoft.com/fwlink/?linkid=393041).
+- **MAPI sur http** L'interface MAPI (Messaging Application Program Interface) sur HTTP permet aux utilisateurs d'Outlook de se connecter à des boîtes aux lettres Exchange Online sur Internet depuis l'extérieur du pare-feu de leur organisation. MAPI sur HTTP, le remplacement à long terme pour Outlook Anywhere. Cette méthode de connectivité offre une résilience de connexion améliorée, une authentification plus sécurisée, une extensibilité, ainsi que des améliorations pour le service informatique et la prise en charge. Pour en savoir plus, consultez la rubrique [RPC sur http atteint la fin de la prise en charge dans Office 365](https://go.microsoft.com/fwlink/?linkid=863890) et [MAPI sur http](https://go.microsoft.com/fwlink/?linkid=393041).
     
 - **Découverte automatique** La fonctionnalité du service de découverte automatique configure automatiquement Outlook pour qu'il fonctionne avec Exchange Online. Les utilisateurs Outlook peuvent recevoir leurs paramètres de profils requis directement depuis Exchange Online lors de la première connexion avec leur adresse de messagerie électronique et leur mot de passe. Ces paramètres mettent automatiquement à jour le client Outlook à l'aide des informations nécessaires pour créer et maintenir le profil de l'utilisateur. Un certificat SSL est requis pour utiliser le service de découverte automatique. Ce certificat SSL est limité à un seul domaine primaire de SSL. 
     
@@ -52,74 +52,74 @@ Outlook sur le web est également disponible en versions mobiles. Pour plus d'in
   
 ## <a name="outlook-for-mac"></a>Outlook pour Mac
 
-Exchange Online prend en charge Microsoft Outlook pour Mac, qui fournit le courrier électronique, calendrier, un carnet d’adresses, une liste de tâches et une liste de notes.
+Exchange Online prend en charge Microsoft Outlook pour Mac, qui fournit un courrier électronique, un calendrier, un carnet d'adresses, une liste de tâches et une liste de notes.
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook pour iOS, Android et Windows Phone
 
-Exchange Online fonctionne avec les applications Outlook disponibles pour iOS, Android et Windows Phone. Sur un de ces périphériques, utilisez l’app store pour rechercher l’application Outlook. Voici une répartition par le système d’exploitation mobile.
+Exchange Online fonctionne avec les applications Outlook disponibles pour iOS, Android et Windows Phone. Sur l'un de ces appareils, utilisez l'App Store pour trouver l'application Outlook. Voici une ventilation par le système d'exploitation mobile.
   
 |||||
 |:-----|:-----|:-----|:-----|
 |Appareil  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
-|Disponibilité d’application mobile Outlook  <br/> |Oui  <br/> [Obtenir d’Outlook pour Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Oui  <br/> [Obtenir d’Outlook pour iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Intégré  <br/> |
-|Applications de messagerie intégrée compatibles avec Exchange Online  <br/> |Application de messagerie application/Samsung Gmail  <br/> |application de messagerie iOS  <br/> |Outlook courrier, calendrier, contacts  <br/> |
-|Plus d’informations  <br/> |[Programme d’installation mobile Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[programme d’installation iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Programme d’installation de Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
+|Disponibilité de l'application mobile Outlook  <br/> |Oui  <br/> [Obtenir Outlook pour Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Oui  <br/> [Obtenir Outlook pour iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Intégré  <br/> |
+|Applications de messagerie intégrées compatibles avec Exchange Online  <br/> |Application de messagerie Gmail App/Samsung  <br/> |application de messagerie iOS  <br/> |Courrier, calendrier, contacts Outlook  <br/> |
+|Plus d’informations  <br/> |[Configuration d'Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[programme d'installation de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuration de Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
    
-Il existe également des options permettant d’utiliser Exchange Online avec les périphériques, y compris les Blackberry.
+Il existe également des options pour l'utilisation d'Exchange Online avec des appareils, notamment BlackBerry.
   
 ### <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Outlook permet aux utilisateurs de l’expérience de messagerie et calendrier rapide et intuitive qu’ils attendent à partir d’une application mobile moderne, tout en cours de l’application uniquement pour prendre en charge les meilleures fonctionnalités d’Office 365. Il est la seule application de messagerie spécifiquement conçue pour prendre en charge l’expérience Office 365 complète, offrant aux utilisateurs une expérience cohérente de bureau pour mobiles. Outlook est intégré à Intune mobilité d’entreprise et de sécurité et contrôles Exchange pour protéger les données et les utilisateurs.
+Outlook offre aux utilisateurs l'expérience de messagerie et de calendrier rapide et intuitive qu'ils attendent d'une application mobile moderne, tout en étant la seule application à prendre en charge les meilleures fonctionnalités d'Office 365. Il s'agit de la seule application de messagerie spécifiquement conçue pour prendre en charge l'expérience complète d'Office 365, offrant ainsi aux utilisateurs une expérience cohérente entre l'ordinateur de bureau et mobile. Outlook est intégré à Intune, à la mobilité et à la sécurité d'entreprise, ainsi qu'aux contrôles Exchange pour garantir la sécurité des données et des utilisateurs.
   
-Outlook permet aux utilisateurs de :
+Outlook permet aux utilisateurs d'effectuer les opérations suivantes:
   
-- Gérer leur journée entière à partir d’un appareil mobile.
+- Gérer toute la journée à partir d'un appareil mobile.
     
-- Se connecter pour les applications et les services que dont ils ont besoin d’être productifs, tout en conservant leur travail et les informations personnelles distincte et sécurisée.
+- Connectez-vous aux applications et services dont ils ont besoin pour être productif, tout en gardant leurs informations personnelles et professionnelles séparées et sécurisées.
     
-Avec Outlook pour iOS, Outlook pour Android ou Outlook pour Windows Phone, les utilisateurs peuvent : 
+Avec Outlook pour iOS, Outlook pour Android ou Outlook pour Windows Phone, les utilisateurs peuvent: 
   
-- Tirer parti d’une boîte de réception focus e-mail priorités importantes
+- Tirer parti d'une boîte de réception prioritaire présentant des priorités importantes pour les messages électroniques
     
-- Personnaliser des mouvements effectuez un balayage correspondant à leurs habitudes de messagerie unique
+- Personnaliser les mouvements de balayage en fonction de leurs habitudes de messagerie uniques
     
-- Créer des itinéraires de voyages qui peuvent être ajoutés directement au calendrier, avec les informations de clé en un coup de œil
+- Créer des itinéraires de voyage pouvant être ajoutés directement au calendrier, avec des informations clés disponibles en un clin d'œil
     
-- RÉPONDRE à des réunions à partir de la boîte de réception.
+- RSVP aux réunions à partir de la boîte de réception.
     
-- Utilisez les icônes intuitives dans le message électronique et les rendez-vous du calendrier qui leur permettent de traitent les informations rapidement
+- Utiliser des icônes intuitives dans les courriers électroniques et les rendez-vous de calendrier qui les aident à traiter les informations rapidement
     
-- Utiliser une expérience cohérente et familière d’Outlook sur tous les périphériques
+- Utiliser une expérience Outlook cohérente et familière sur tous les appareils
     
-- Facilement lancer et participer à des réunions de Skype à partir du calendrier
+- Lancer et rejoindre facilement des réunions Skype à partir du calendrier
     
-- Lire et répondre à IRM chiffré et protégé les messages électroniques
+- Lire et répondre aux e-mails chiffrés et protégés IRM
     
 - Partager des fichiers stockés dans OneDrive entreprise
     
-- Définir des réponses automatiques d’un clic
+- Définir des réponses automatiques avec un TAP
     
-- Afficher et gérer les calendriers partagés et déléguées
+- Afficher et gérer des calendriers partagés et délégués
     
-- Recherche de liste d’adresses globale de leur entreprise avec quelques clics
+- Rechercher dans la liste d'adresses globale de la société en quelques clics
     
-- Afficher la disponibilité d’un collègue et planifier une heure de réunion qui fonctionne pour tout le monde
+- Affichage de la disponibilité et de la planification d'une heure de réunion qui s'appliquent à tous les collaborateurs
     
-- Voir invités accepter, provisoire et refuser l’état
+- Voir l'état des invités sur les invités, les provisoires et les refusés
     
-- Partager des calendriers directement depuis leurs téléphones
+- Partager des calendriers directement à partir de leurs téléphones
     
-- Démarrer et joindre à droite de réunions Skype à partir d’un calendrier
+- Démarrer et rejoindre des réunions Skype directement à partir d'un calendrier
     
-- Travail d’accès et les calendriers personnels dans un seul emplacement, sans basculer entre les applications
+- Accéder à des calendriers personnels et professionnels à un seul endroit, sans changer d'application
     
 ## <a name="exchange-activesync"></a>Exchange ActiveSync
 
 Exchange Online prend en charge le protocole Microsoft Exchange ActiveSync qui synchronise les données de boîte aux lettres entre les périphériques mobiles et Exchange Online, de sorte que les utilisateurs peuvent avoir accès à leur messagerie électronique, à leur calendrier, à leurs contacts et à leurs tâches où qu'ils soient.
   
-Un large éventail d’appareils mobiles fonctionnent avec Exchange ActiveSync, y compris Microsoft Windows Phone, Apple iPhone et iPad, Android téléphones et des tablettes. En plus de téléphones et appareils mobiles, l’application de messagerie dans Windows Phone utilise Exchange ActiveSync pour se connecter à Exchange Online. Une liste complète des détenteurs de licences Exchange ActiveSync en cours est disponible sur le site de gestion de licences Exchange ActiveSync.
+Une large gamme d'appareils mobiles fonctionnent avec Exchange ActiveSync, y compris les appareils Microsoft Windows Phone, Apple iPhone et iPad et les téléphones et tablettes Android. En plus des téléphones et appareils mobiles, l'application de messagerie dans Windows Phone utilise Exchange ActiveSync pour se connecter à Exchange Online. Une liste complète des accords de licence Exchange ActiveSync est disponible sur le site de gestion des licences Exchange ActiveSync.
   
-Pour plus d’informations sur Exchange ActiveSync, consultez [Exchange ActiveSync](https://go.microsoft.com/fwlink/p/?LinkId=271792).
+Pour plus d'informations sur Exchange ActiveSync, consultez la rubrique [Exchange ActiveSync](https://go.microsoft.com/fwlink/p/?LinkId=271792).
   
 > [!IMPORTANT]
 > Le nombre maximal d'appareils Exchange ActiveSync par boîte aux lettres est de 100. 
@@ -147,13 +147,13 @@ Le protocole SMTP (Simple Mail Transfer) permet d'envoyer des messages sortants 
 > [!IMPORTANT]
 > Les adresses IP des serveurs source autorisés sont obligatoires pour permettre le relais SMTP. Le chiffrement et l'authentification TLS (Transport Layer Security) sont requis pour toute utilisation de SMTP pour l'envoi un message électronique. 
   
-## <a name="blackberry-devices"></a>Appareils BlackBerry®
+## <a name="blackberry-devices"></a>Appareils BlackBerry ®
 
-Courrier électronique Office 365 est disponible sur les appareils BlackBerry® via Exchange ActiveSync. Pour savoir quelles sont vos options, voir les rubriques suivantes :
+Le courrier Office 365 est disponible sur les appareils BlackBerry ® via Exchange ActiveSync. Pour connaître les options disponibles, consultez les rubriques suivantes:
   
-- [Configurer la messagerie sur un BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
+- [Configurer le courrier électronique sur un appareil BlackBerry](https://go.microsoft.com/fwlink/?linkid=863394)
     
-- [Configurer la messagerie sur un BlackBerry 7.1 système d’exploitation et versions antérieures](https://go.microsoft.com/fwlink/?linkid=863403)
+- [Configurer le courrier électronique sur un BlackBerry Device 7,1 OS et versions antérieures](https://go.microsoft.com/fwlink/?linkid=863403)
     
 Pour plus d'informations, consultez la rubrique [BlackBerry](../office-365-platform-service-description/blackberry.md).
   

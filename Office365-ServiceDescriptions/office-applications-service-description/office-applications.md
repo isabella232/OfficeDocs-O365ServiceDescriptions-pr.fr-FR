@@ -1,7 +1,7 @@
 ---
 title: Applications Office
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
-description: Microsoft Office est un service puissant qui vous permet de donner libre court à vos idées, à vos envies et de rester connecté en permanence. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées.
-ms.openlocfilehash: 01f5613e53e9fbb66853febd4e61c6ff94c10b05
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office est un service puissant qui vous permet de trouver les meilleures idées, d'effectuer des opérations et de rester connecté en déplacement. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées.
+ms.openlocfilehash: 8dfdf4a28fde1d509a96af910b137698e371f713
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035512"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467691"
 ---
 # <a name="office-applications"></a>Applications Office
 
-Microsoft Office est un service puissant qui vous permet de donner libre court à vos idées, à vos envies et de rester connecté en permanence. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées. 
+Microsoft Office est un service puissant qui vous permet de trouver les meilleures idées, d'effectuer des opérations et de rester connecté en déplacement. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées. 
   
 Pour connaître la configuration système requise pour Office 365, le service par abonnement mensuel disponible pour les entreprises, l'éducation et les agences gouvernementales, voir [Configuration requise pour Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
@@ -71,12 +71,12 @@ Skype Entreprise est un client de messagerie instantanée et une application de 
 
 Microsoft InfoPath est un programme qui permet de concevoir, de distribuer, de remplir et de soumettre des formulaires électroniques. Vous pouvez choisir d'ajouter le composant WebPart Formulaire InfoPath à un site SharePoint Online. En savoir plus sur [les composants WebPart Formulaire InfoPath](http://go.microsoft.com/fwlink/p/?LinkId=271687).
   
-## <a name="windows-8-apps"></a>Applications Windows 8
+## <a name="windows-8-apps"></a>Windows 8 Apps
 <a name="bkmkWin8Apps"> </a>
 
 Par défaut, certaines applications Office, telles que Excel et Word, ont des mosaïques épinglées à l'écran de démarrage des périphériques Windows 8 et Windows RT. En savoir plus sur [rechercher et démarrer des applications Office dans Windows 8 ou Windows 8 RT](http://go.microsoft.com/fwlink/p/?LinkId=271688).
   
-## <a name="office-mobile-for-ipadiphone"></a>Office Mobile pour iPad/iPhone
+## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 <a name="BKMK_Office_for_iPad"> </a>
 
 Office Mobile pour iPad et iPhone inclut Word pour iPad/iPhone, Excel pour iPad/iPhone et PowerPoint pour iPad/iPhone. Les applications peuvent être téléchargées gratuitement et, avec certains plans Office 365, vous pouvez créer et modifier des documents sur votre iPad ou votre iPhone. Pour comparer les applications Office Mobile pour iPad/iPhone avec les logiciels de bureau correspondants sur les plateformes Mac et Windows, consultez les rubriques suivantes :
@@ -87,21 +87,21 @@ Office Mobile pour iPad et iPhone inclut Word pour iPad/iPhone, Excel pour iPad/
     
 - [Comparer PowerPoint pour iPad avec PowerPoint pour Mac et PowerPoint pour Windows](http://go.microsoft.com/fwlink/p/?LinkId=507545)
     
-## <a name="office-mobile-for-android"></a>Office Mobile pour Android
+## <a name="office-mobile-for-android"></a>Office Mobile for Android
 <a name="BKMK_Office_for_Android"> </a>
 
 Office Mobile pour Android inclut Word pour Android, Excel pour Android et PowerPoint pour Android. Les applications peuvent être téléchargées gratuitement et, avec certains plans Office 365, vous pouvez créer et modifier des documents sur vos dispositifs Android. Pour comparer les applications Office Mobile pour Android avec les logiciels de bureau correspondants, consultez les rubriques suivantes :
   
 - [Office Mobile pour Android](https://support.office.com/en-us/article/Office-Mobile-for-Android-phones-ee598133-59d1-43c3-b47c-aac3f2d9a605?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-phone"></a>Office Mobile pour Windows Phone
+## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Office Mobile pour Windows Phone inclut Word pour Windows Phone, Excel pour Windows Phone et PowerPoint pour Windows Phone. Les applications peuvent être téléchargées gratuitement et, avec certains plans Office 365, vous pouvez créer et modifier des documents sur votre Windows Phone. Pour comparer les applications Office Mobile pour Windows Phone avec les logiciels de bureau correspondants consultez les rubriques suivantes :
   
 - [Office Mobile pour Windows Phone](https://support.office.com/en-us/article/Office-Mobile-for-Windows-Phone-011b83c4-0d5f-4ea8-bbbe-2ed0d76dc69c?ui=en-US&amp;rs=en-US&amp;ad=US)
     
-## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile pour tablettes Windows 10
+## <a name="office-mobile-for-windows-10-tablets"></a>Office Mobile pour tablettes Windows 10
 <a name="BKMK_Office_for_WindowsPhone"> </a>
 
 Office Mobile pour tablettes Windows 10 inclut Word Mobile, Excel Mobile et PowerPoint Mobile. Les applications peuvent être téléchargées gratuitement sur le Windows Store. En savoir plus sur les [applications Office Mobile pour Windows 10](https://blogs.office.com/2015/07/29/office-mobile-apps-for-windows-10-are-here/).

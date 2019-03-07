@@ -1,7 +1,7 @@
 ---
 title: État des services
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,50 +12,50 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
-description: Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et découvrez lors de la planification de maintenance. Informations d’intégrité de service sont disponibles à tout moment en vous connectant à Office 365.
-ms.openlocfilehash: 5744d0f0390aee046c63309c2395e2225c4d9342
-ms.sourcegitcommit: ac81ba091876af9c42828faf9f5eb989a3a2cc58
+description: Les administrateurs de Microsoft Office 365 peuvent afficher l'état des services et savoir quand la maintenance est planifiée. Les informations relatives à l'état du service sont disponibles à tout moment en se connectant à Office 365.
+ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258736"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466951"
 ---
 # <a name="service-health-and-continuity"></a>État des services
 
-Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et découvrez lors de la planification de maintenance. Informations d’intégrité de service sont disponibles à tout moment en vous connectant à Office 365.
+Les administrateurs de Microsoft Office 365 peuvent afficher l'état des services et savoir quand la maintenance est planifiée. Les informations relatives à l'état du service sont disponibles à tout moment en se connectant à Office 365.
   
 > [!NOTE]
 > Si vous utilisez Office 365 géré par 21Vianet, certaines des informations ci-dessous peuvent ne pas vous concerner. Consultez plutôt le [contrat de niveau de service 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="view-status-of-services"></a>Afficher l'état des Services
 
-La section de l’intégrité de Service d’Office 365 indique l’état actuel du service et plus d’informations sur les interruptions de service et des pannes. Informations de maintenance prévues sont disponibles sur le centre de messages. Pour plus d’informations, voir [Afficher le statut de vos services](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+La section service Health d'Office 365 affiche l'état actuel du service et des détails sur les interruptions de service et les pannes. Les informations de maintenance planifiée sont disponibles dans le centre de messages. Pour plus d'informations, consultez la rubrique [Vérifier l'état du service Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Incidents de service
 
-Un incident de service est un événement qui affecte la remise d’un service. Incidents de service peuvent être dû à des défaillances matérielles ou logicielles dans le centre de données Microsoft, une connexion réseau défaillante entre le client et Microsoft ou un défi de centre de données principales comme incendie, flux ou catastrophe régionale. La plupart des incidents de service peuvent être gérés à l’aide de solutions de processus et de la technologie Microsoft et sont résolus au sein d’un court instant. Toutefois, certains incidents de service sont plus graves et peuvent entraîner des pannes de termes plus.
+Un incident de service est un événement qui a une incidence sur la prestation d’un service. Les incidents de service peuvent être causés par des défaillances matérielles ou logicielles dans le centre de données Microsoft, une connexion réseau défectueuse entre le client et Microsoft, ou un défi majeur pour le centre de données, tel qu'un incendie, une inondation ou une catastrophe régionale. La plupart des incidents de service peuvent être résolus au moyen des technologies et solutions de traitement Microsoft, dans un délai court. Cependant, certains incidents de service sont plus graves et peuvent aboutir à des pannes à plus long terme.
   
-Il existe deux types de notifications sur les temps lorsque les services ne soient pas disponibles :
+Il existe deux types de notifications concernant les heures où les services peuvent ne pas être disponibles:
   
-- **Planifié événements maintenance :** La maintenance planifiée est mises à jour régulières service initiées par Microsoft pour les applications de l’infrastructure et de logiciels. Notifications de maintenance planifiée informent les utilisateurs sur le travail de service qui peut-être affecter la fonctionnalité de service Office 365. Les clients sont communiquées au plus tard de cinq jours avant la maintenance planifiée tous les via le centre de messages sur le portail d’administration d’Office 365. Microsoft généralement des plans de maintenance pour les heures lorsque l’utilisation des services est toujours le plus basée sur fuseaux horaires régionaux. 
+- **Événements de maintenance planifiée:** La maintenance planifiée est une mise à jour normale des services initiés par Microsoft vers les applications logicielles et d'infrastructure. Les notifications de maintenance planifiée informent les clients du travail de service susceptible d'affecter les fonctionnalités d'un service Office 365. Les clients sont informés au plus tard cinq jours avant l'avancement de toutes les opérations de maintenance planifiée via le centre de messages sur le portail d'administration Office 365. Microsoft prévoit généralement la maintenance pour les heures où l'utilisation du service est historique en fonction de ses fuseaux horaires régionaux. 
     
 - **Temps d'arrêt non planifiés :** Les incidents de service non planifiés surviennent quand un des services de la suite Office 365 est indisponible ou ne répond pas. 
     
 ## <a name="notification-policy"></a>Stratégie de notification
 
-Lorsqu’un incident de service se produit, Microsoft reconnaît que les communications en temps voulu, ciblées et précises sont critiques pour les clients. Microsoft avertit les administrateurs Office 365 en mettant à jour le tableau de bord de santé Service client spécifique (SHD) sur le portail d’administration d’Office 365. Mises à jour incidents services sont fournis sur une cadence horaire ou, si une autre cadence est requise, il sera indiqué lors de la validation de communication SHD. 
+Quand un incident de service se produit, Microsoft reconnaît que les communications ciblées, précises et fournies en temps utile sont critiques pour les clients. Microsoft informe les administrateurs d'Office 365 en mettant à jour le tableau de bord d'intégrité du service propre au client (validation) sur le portail d'administration d'Office 365. Les mises à jour des incidents de service sont fournies à une cadence horaire ou, si une cadence différente est requise, elles seront indiquées dans la publication de communication validation. 
   
-## <a name="service-health-communication-channels"></a>Canaux de communication de l'état du service
+## <a name="service-health-communication-channels"></a>Canaux de communication de l’état du service
 
-### <a name="office-365-admin-app"></a>Application d'administration Office 365
+### <a name="office-365-admin-app"></a>Application d’administration Office 365
 
-L’application d’administration pour les administrateurs de clients Office 365 vous donne la possibilité de se connecter à l’état du service Office 365 de votre organisation en déplacement. Les administrateurs Office 365 client auront la possibilité d’afficher le service d’intégrité des informations et la maintenance état mises à jour à partir de leurs appareils mobiles. Pour plus d’informations, consultez la [FAQ d’application d’administration](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+L'application d'administration pour les administrateurs clients Office 365 vous permet de vous connecter à l'état du service 365 Office de votre organisation en déplacement. Les administrateurs client Office 365 pourront afficher les informations relatives à l'état du service et les mises à jour de l'état de la maintenance à partir de leurs appareils mobiles. Pour plus d'informations, consultez la [FAQ de l'application d'administration](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
-### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d'administration d'Office 365 pour Microsoft System Center 2012 R2
+### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d’administration d’Office 365 pour Microsoft System Center 2012 R2
 
-Microsoft System Center est une plate-forme de gestion intégrés que permet de gérer les centres de données, périphériques clients et hybride environnements informatiques en nuage. Les administrateurs Office 365 qui utilisent System Center maintenant ont la possibilité d’importer le Pack d’administration Office 365, qui leur permet d’afficher toutes les communications de service dans Operations Manager dans System Center. À l’aide de cet outil vous permet d’accéder à l’état de vos services abonnés, incidents actifs et résolus service et vos communications centre de messages. Pour plus d’informations, consultez le billet de blog [nouvel Office 365 les outils d’administration](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/) . 
+Microsoft System Center est une plateforme de gestion intégrée qui vous permet de gérer un centre de données, des appareils clients et des environnements informatiques hybrides. Les administrateurs d'Office 365 qui utilisent System Center ont désormais la possibilité d'importer le pack d'administration d'Office 365, ce qui leur permet d'afficher toutes les communications de service dans Operations Manager dans System Center. L'utilisation de cet outil vous permet d'accéder à l'état des services auxquels vous êtes abonné, aux incidents de service actifs et résolus, et aux communications de votre Centre de messages. Pour plus d'informations, consultez le billet de blog sur les [nouveaux outils d'administration Office 365](https://blogs.office.com/2014/07/29/new-office-365-admin-tools/). 
   
-### <a name="office-365-service-communications-api"></a>API de communications de service Office 365
+### <a name="office-365-service-communications-api"></a>API de communications de service Office 365
 
 L’API de communications de service Office 365 vous permet d’accéder aux communications de service Office 365 comme vous le souhaitez. Grâce à ce nouvel outil d’administration, vous pouvez désormais créer ou connecter vos outils aux communications de service Office 365, ce qui peut simplifier la manière dont vous surveillez votre environnement. L’API de communications de service vous permet de surveiller les éléments suivants dans votre environnement :
   
@@ -71,19 +71,19 @@ Pour plus d'informations, consultez le billet de blog sur les [nouveaux outils d
 
 L'engagement de Microsoft pour une amélioration continue implique l'analyse des incidents de service qui concernent les clients pour diminuer le risque de récidive. 
   
-Incidents de service non planifiées sont définis comme des interruptions de service de plusieurs clients impact sur l’utilisation des services, tel que défini par notre SLA de service et ont été déclarées comme tels dans le tableau de bord de l’intégrité de Service.
+Les incidents de service non planifiés sont définis comme des interruptions de service mutualisées qui influent sur l'utilisation du service définies par nos SLA de service, et qui ont été déclarées comme telles sur le tableau de bord d'intégrité des services.
   
- Non planifié ayant un impact sur le client service incidents dans lequel il a été étendue et notable impact entre un grand nombre d’organisations, un rapport préliminaire post-incident révision (post-incident) seront remis par le biais de votre tableau de bord de l’intégrité de Service dans les 48 heures d’incident résolution, suivie d’un rapport final post-incident dans cinq jours ouvrés. Le rapport détaillé PIR comprend : 
+ Pour les incidents de service non planifiés ayant un impact sur les clients qui ont eu un impact important et notable sur un grand nombre d'organisations, un examen post-incident préliminaire (PIR) sera fourni via votre tableau de bord d'état des services dans les 48 heures de l'incident. résolution, suivie d'un PIR final dans les cinq jours ouvrés. Le rapport PIR détaillé inclut: 
   
 - Impact sur les clients et l'expérience utilisateur
     
 - Date/Heure de début et de fin de l'incident
     
-- Chronologie détaillée des mesures d’impact et résolution
+- Chronologie détaillée de l'impact et des mesures de résolution
     
 - Analyse des causes fondamentales et mesures prises pour une amélioration continue
     
-Pour tous les autres incidents de service, le tableau de bord d’intégrité Service fournit un résumé de clôture de l’incident, y compris un résumé final de l’événement, causes préliminaire, début et fin des heures et informations détaillant les étapes suivantes. Pour cette catégorie d’incident de service, un rapport post-incident ne sera pas généré. 
+Pour tous les autres incidents de service, le tableau de bord d'État du service fournit un résumé de clôture des incidents incluant un résumé final de l'événement, la cause première initiale, les heures de début et de fin, ainsi que des informations détaillant les étapes suivantes. Pour cette catégorie d’incident de service, aucune analyse post-incident n’est générée. 
   
 ## <a name="service-continuity"></a>Continuité de service
 
@@ -109,11 +109,11 @@ Microsoft garantit à tout moment la disponibilité des données du client par l
     
   - Latence de requête
     
-- **Exécution de la maintenance préventive :** La maintenance préventive inclut les vérifications de la cohérence des bases de données, la compression périodique des données et les analyses des journaux d'erreurs. 
+- **Exécution de la maintenance préventive :** La maintenance préventive inclut les vérifications de la cohérence des bases de données, la compression périodique des données et les analyses des journaux d’erreurs. 
     
 ## <a name="support"></a>Prise en charge
 
-Les équipes de développement et d'exploitation Office 365 sont soutenues par une organisation de support Office 365 dédiée qui contribue à la continuité du service pour les clients. L'équipe de support a une connaissance approfondie du service et des applications associées, et dispose d'un accès direct aux experts Microsoft en architecture, développement et test.
+Le développement Office 365 et les équipes d'exploitation sont réalisés par une organisation de support Office 365 dédié qui joue un rôle important dans l'offre aux clients d'une continuité opérationnelle. L'équipe de support détient une connaissance approfondie du service et ses applications associées, et dispose d'un accès direct aux experts Microsoft en architecture, développement et test.
   
 L'organisation de support s'aligne étroitement sur les opérations et le développement des produits, offre des temps de résolution très courts et fournit un canal permettant aux clients de se faire entendre. Les commentaires des clients apportent une contribution aux processus de planification, de développement et d'exploitation.
   

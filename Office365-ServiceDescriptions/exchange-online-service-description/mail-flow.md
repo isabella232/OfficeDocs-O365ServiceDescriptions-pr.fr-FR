@@ -1,7 +1,7 @@
 ---
 title: Flux de messagerie
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
-description: 'Pour la plupart des organisations qui utilisent Office 365, nous hébergeons les boîtes aux lettres et prenons en charge le flux de messagerie. Il s’agit de la configuration la plus simple. Cela signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Cependant, certaines organisations ont besoin de configurer des flux de messagerie plus complexes pour s’assurer qu’ils répondent aux besoins de l’entreprise ou à des exigences réglementaires spécifiques. Vous pouvez obtenir des informations sur ces options ici. '
-ms.openlocfilehash: 3decc04fb4c426e161541c1d24480cc0344b0a00
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Pour la plupart des organisations utilisant Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s'agit de la configuration la plus simple et signifie qu'Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s'assurer qu'elles sont conformes aux besoins spécifiques de la réglementation ou de l'entreprise. Vous pouvez en savoir plus sur ces options ici.
+ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035578"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467291"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 
-Pour la plupart des organisations qui utilisent Office 365, nous hébergeons les boîtes aux lettres et prenons en charge le flux de messagerie. Il s’agit de la configuration la plus simple. Cela signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Cependant, certaines organisations ont besoin de configurer des flux de messagerie plus complexes pour s’assurer qu’ils répondent aux besoins de l’entreprise ou à des exigences réglementaires spécifiques. Vous pouvez obtenir des informations sur ces options ici.  
+Pour la plupart des organisations utilisant Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s'agit de la configuration la plus simple et signifie qu'Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s'assurer qu'elles sont conformes aux besoins spécifiques de la réglementation ou de l'entreprise. Vous pouvez en savoir plus sur ces options ici. 
   
 ## <a name="custom-routing-of-outbound-email"></a>Routage personnalisé du courrier sortant
 
@@ -35,7 +35,7 @@ Pour plus d'informations, consultez la rubrique [Set up connectors to route mail
 > [!IMPORTANT]
 > Exchange Online transfère le flux de messagerie vers et depuis votre organisation. 
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Messagerie sécurisée avec un partenaire de confiance
+## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
 En tant que client Exchange Online, vous pouvez établir un flux de messagerie sécurisé avec un partenaire de confiance en utilisant les connecteurs d'Office 365. Office 365 prend en charge la communication sécurisée par protocole TLS (Transport Layer Security). Vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) est un protocole de chiffrement qui sécurise les communications sur Internet. Grâce aux connecteurs, vous pouvez configurer un protocole TLS entrant et sortant forcé, à l'aide de certificats validés par une autorité de certification ou auto-signés. Vous pouvez également appliquer d'autres restrictions de sécurité, par exemple en spécifiant des noms de domaine ou des plages d'adresses IP à partir desquels votre organisation partenaire envoie du courrier. 
   
@@ -44,7 +44,7 @@ Pour plus d'informations, consultez la rubrique [Set up connectors for secure ma
 > [!IMPORTANT]
 > Il est possible qu'un certificat validé par une autorité de certification soit requis. 
   
-## <a name="conditional-mail-routing"></a>Routage du courrier conditionnel
+## <a name="conditional-mail-routing"></a>Conditional mail routing
 
 Vous pouvez acheminer le courrier vers des sites spécifiques à l'aide de connecteurs et de règles de transport. Avec un routage basé sur des critères, vous pouvez choisir un connecteur en fonction de conditions spécifiques.
   

@@ -1,7 +1,7 @@
 ---
 title: Informaticiens
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
-description: SharePoint Online est un ensemble d’outils basés sur le Web et les technologies aidant votre organisation à stocker, partager et gérer les informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, le stockage des données et des documents dans un emplacement central et partager des informations avec d’autres personnes. Les fonctionnalités SharePoint suivantes prennent en charge les professionnels de l’informatique dans la sécurisation et la gestion de leur environnement de SharePoint.
-ms.openlocfilehash: ff3d65475f036d272db4c81ec87518ff35f842fb
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur SharePoint Server 2013 Microsoft, ce service hébergé convient idéalement au travail sur des projets, au stockage de données et de documents à un emplacement centralisé et au partage d'informations. Les fonctionnalités SharePoint suivantes aident les professionnels de l'informatique à sécuriser et à gérer l'environnement de leur organisation SharePoint.
+ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035638"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467591"
 ---
 # <a name="it-professional"></a>Informaticiens
 
-SharePoint Online est un ensemble d’outils basés sur le Web et les technologies aidant votre organisation à stocker, partager et gérer les informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, le stockage des données et des documents dans un emplacement central et partager des informations avec d’autres personnes. Les fonctionnalités SharePoint suivantes prennent en charge les professionnels de l’informatique dans la sécurisation et la gestion de leur environnement de SharePoint. 
+SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur SharePoint Server 2013 Microsoft, ce service hébergé convient idéalement au travail sur des projets, au stockage de données et de documents à un emplacement centralisé et au partage d'informations. Les fonctionnalités SharePoint suivantes aident les professionnels de l'informatique à sécuriser et à gérer l'environnement de leur organisation SharePoint. 
   
 ## <a name="active-directory-synchronization"></a>Synchronisation Active Directory
 <a name="bkmk_ActiveDirectorySynchronization"> </a>
@@ -34,7 +34,7 @@ S'il y a dans votre société des utilisateurs dans un environnement local Activ
 
 Non disponible pour les utilisateurs SharePoint Online. Les utilisateurs SharePoint Server 2013 peuvent configurer le mappage des accès de substitution pour faire correspondre les requêtes lorsque l'URL d'une requête sur le Web reçue par Internet Information Services (IIS) est différente de l'URL tapée par un utilisateur.
   
-## <a name="anti-malware-protection"></a>Protection anti-programme malveillant
+## <a name="anti-malware-protection"></a>Protection contre les programmes malveillants
 <a name="bkmk_AntiMalware"> </a>
 
 SharePoint Online protège les fichiers téléchargés et enregistrés dans les bibliothèques de documents contre les programmes malveillants. Cette protection est assurée par le moteur du logiciel anti-programme malveillant de Microsoft, qui est également intégré dans Exchange. Ce service anti-programme malveillant fonctionne sur tout contenu frontal SharePoint Online.
@@ -59,7 +59,7 @@ Il existe deux niveaux de chiffrement des données stockées (data at rest) pour
 
 Non disponible pour les clients SharePoint Online. Les collections de sites SharePoint Server 2013 peuvent avoir leur propre en-tête d'hôte unique. La création d'une collection de sites d'en-tête d'hôte permet aux organisations d'héberger plusieurs collections de sites avec des URL de redirection vers un microsite plus facile à mémoriser.
   
-## <a name="mobile-device-management-for-office-365"></a>Gestion des appareils mobiles pour Office 365
+## <a name="mobile-device-management-for-office-365"></a>Gestion des appareils mobiles pour Office 365
 <a name="bkmk_MDM"> </a>
 
 La Gestion des périphériques mobiles (GPM) pour Office 365 vous permet de définir des règles d'accès et des stratégies de sécurité des appareils, et de réinitialiser des appareils mobiles en cas de perte ou de vol. Vous pouvez utiliser la GPM pour Office 365 pour gérer de nombreux types d'appareils mobiles (Windows Phone, Android, iPhone, iPad, etc.). Pour gérer les appareils mobiles utilisés par des membres de votre organisation, chaque utilisateur doit disposer d'une licence Office 365 en vigueur et chaque appareil doit être inscrit dans la GPM pour Office 365. 
@@ -89,7 +89,7 @@ Non disponible pour les clients SharePoint Online. Les administrateurs SharePoin
 
 Non disponible pour les clients SharePoint Online. Le stockage d'objets blob distants (RBS) est un ensemble de composants additionnels pour Microsoft SQL Server. RBS est destiné à déplacer le stockage d'objets BLOB (binary large objects) de serveurs de bases de données dans des solutions de stockage des marchandises. Si la taille des bases de données de contenu dans Microsoft SharePoint Server 2013 est supérieure 4 gigaoctets (Go), envisagez d'utiliser la fonctionnalité RBS dans votre solution de stockage.
   
-## <a name="request-management"></a>Gestion des demandes
+## <a name="request-management"></a>Gestion des requêtes
 <a name="bkmk_RequestManagement"> </a>
 
 Non disponible pour les clients SharePoint Online. Les administrateurs SharePoint Server 2013 peuvent définir des règles en utilisant Request Manager pour demander le routage et la limitation et améliorer les performances.
@@ -109,7 +109,7 @@ Les services SharePoint peuvent être consommés individuellement à partir de n
 
 Non disponible pour les clients SharePoint Online. Nouveauté SharePoint Server 2013, le contrôle d'intégrité avant une mise à niveau d'une collection de sites examine une collection et crée ensuite un rapport répertoriant les problèmes potentiels de mise à niveau et indiquant comment les résoudre. Par exemple, si un fichier a été personnalisé, il est marqué de façon que votre organisation puisse identifier ce fichier personnalisé et le réinitialiser avec le modèle par défaut de la définition du site si vous le souhaitez.
   
-## <a name="sharepoint-admin-center-office-365"></a>Centre d’administration de SharePoint (Office 365)
+## <a name="sharepoint-admin-center-office-365"></a>Centre d'administration SharePoint (Office 365)
 <a name="bkmk_SharePointOnlineAdminCenter"> </a>
 
 Le Centre d'administration SharePoint, disponible uniquement pour certains clients SharePoint Online, permet aux administrateurs de gérer les fonctionnalités telles que :

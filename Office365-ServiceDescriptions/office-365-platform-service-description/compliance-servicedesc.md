@@ -1,7 +1,7 @@
 ---
-title: Conformité[ServiceDesc]
-ms.author: pebaum
-author: pebaum
+title: Conformité [ServiceDesc]
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 est conforme aux réglementations et aux normes du secteur, et est conçu dans l'optique de vous aider à répondre aux exigences réglementaires dans le cadre de vos activités professionnelles. Pour plus d'informations, consultez la rubrique Offres relatives à la conformité.
-ms.openlocfilehash: 5c88a6b52988893b60a46775a0043d7bd2b7a2ab
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035505"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466881"
 ---
 # <a name="complianceservicedesc"></a>Conformité [ServiceDesc]
 
@@ -98,7 +98,7 @@ En outre, prenez en compte les questions suivantes pour PCI-DSS :
     
   - La norme de sécurité de l'industrie des cartes de paiement (PCI-DSS) est une norme de sécurité d'informations mondiales conçue pour éviter les fraudes par le biais d'un contrôle accru des données de carte de crédit. La norme PCI-DSS a été rédigée par le Conseil des normes de sécurité PCI dans le but de créer un ensemble de normes de sécurité destiné à toute organisation utilisant des cartes de crédit et de débit.
     
-  - Les clients peuvent utiliser des cartes de crédit pour commander et payer les services Office 365 en toute confiance, car le système de commerce par lequel les clients peuvent acheter des abonnements à Office 365 a atteint le niveau de conformité 1 de la norme PCI-DSS. Un organisme d’audit tiers indépendant a déterminé que la plateforme OCP (Online Commerce Platform) a répondu de façon satisfaisante à la version 1.2 de la norme PCI-DSS. Comme expliqué ci-dessous, les organisations peuvent utiliser les services Office 365 dans leur démarche de mise en conformité aux exigences de la norme PCI-DSS.
+  - Les clients peuvent utiliser des cartes de crédit pour commander et payer les services Office 365 en toute confiance, car le système de commerce par lequel les clients peuvent acheter des abonnements à Office 365 a atteint le niveau de conformité 1 de la norme PCI-DSS. Un organisme d'audit tiers indépendant a déterminé que la plateforme OCP (Online Commerce Platform) a répondu de façon satisfaisante à la version 1.2 de la norme PCI-DSS. Comme expliqué ci-dessous, les organisations peuvent utiliser les services Office 365 dans leur démarche de mise en conformité aux exigences de la norme PCI-DSS.
     
 - **Comment Office 365 peut aider mon organisation concernant la norme PCI-DSS ?**
     

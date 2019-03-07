@@ -1,7 +1,7 @@
 ---
 title: Gestion des ressources du projet
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: f6b5dbf1eb4958421b7a9b1e34e77ca950cf14e5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project online.
+ms.openlocfilehash: 5c1f60e5bf27ec245fe2a5ef21f6fce4500e97cc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035619"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467551"
 ---
 # <a name="project-resource-management"></a>Gestion des ressources du projet
 
-Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project Online.
+Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project online.
   
 Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
   
@@ -41,7 +41,7 @@ Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres pé
 
 Quand les personnes qui participent à votre projet remplissent trop de rôles en même temps, vous pouvez ajuster automatiquement leurs affectations. Cette technique est connue sous le nom de « nivellement des ressources ». Consultez la rubrique [Niveler les affectations de ressources](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
-## <a name="resource-sheet-and-usage-views"></a>Feuille de ressource et vues d'utilisation
+## <a name="resource-sheet-and-usage-views"></a>Feuille de ressource et vues d’utilisation
 <a name="bkmk_resourcesheetandusageviews"> </a>
 
 Présentez les informations sur les ressources sous forme de graphique à l'aide des modes Utilisation des ressources, Feuille, Graphique et Formulaire. En savoir plus sur le [choix du rapport adéquat](https://go.microsoft.com/fwlink/?LinkId=402920).
@@ -51,7 +51,7 @@ Présentez les informations sur les ressources sous forme de graphique à l'aide
 
 Remplacez des ressources génériques telles que des menuisiers par des personnes réelles. Consultez la rubrique [Créer et partager une liste de ressources partagées](https://go.microsoft.com/fwlink/?LinkId=402921).
   
-## <a name="team-resources"></a>Ressources d'équipe
+## <a name="team-resources"></a>Ressources d’équipe
 <a name="bkmk_Teamresources"> </a>
 
 Ajoutez des ressources au projet d'une équipe, telles que des ressources consommables (ordinateurs, par exemple). Pour en savoir plus, consultez la rubrique [Ajouter des ressources à la liste des ressources de l'entreprise](https://go.microsoft.com/fwlink/p/?LinkId=271347).

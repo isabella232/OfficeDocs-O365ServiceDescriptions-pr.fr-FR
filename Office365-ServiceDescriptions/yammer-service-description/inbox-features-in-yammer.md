@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de boîte de réception dans Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: Les fonctionnalités de boîte de réception suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 22717c3a92790eb9edcab29351cae5552ed52097
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: c3410934cab503b502db9177c2d4df0c357aab01
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035567"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466831"
 ---
 # <a name="inbox-features-in-yammer"></a>Fonctionnalités de boîte de réception dans Yammer
 

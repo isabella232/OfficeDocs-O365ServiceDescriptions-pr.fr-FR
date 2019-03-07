@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de la plateforme Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Les fonctionnalités suivantes de la plateforme Yammer sont disponibles dans Yammer.
-ms.openlocfilehash: 48cdb17cf19ab83a81bf01711e89cb4d9e53bc79
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 27bf174726663a4a9d39fdb9cd3706d9b6ef3618
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24035584"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467851"
 ---
 # <a name="yammer-platform-features"></a>Fonctionnalités de la plateforme Yammer
 
 Les fonctionnalités suivantes de la plateforme Yammer sont disponibles dans Yammer.
   
-## <a name="yammer-connect-login"></a>Connexion Yammer
+## <a name="yammer-connect-login"></a>Yammer Connect Login
 <a name="bkmk_YammerConnectLogin"> </a>
 
 Ajoutez un bouton de connexion à vos applications d'entreprise afin que les utilisateurs puissent facilement s'inscrire et accéder à leurs comptes Yammer.
@@ -34,12 +34,12 @@ Ajoutez un bouton de connexion à vos applications d'entreprise afin que les uti
 
 Un simple extrait de code vous permet d'intégrer des flux Yammer dans votre application métier, en toute simplicité.
   
-## <a name="like-and-follow-buttons"></a>Boutons J'aime et Suivre
+## <a name="like-and-follow-buttons"></a>Boutons J’aime et Suivre
 <a name="bkmk_LikeAndFollowButtons"> </a>
 
 Ajoutez les boutons J'aime et Suivre à vos applications métiers afin que vos employés puissent s'impliquer en dehors du réseau Yammer.
   
-## <a name="activity-stream-api"></a>API de flux d'activités
+## <a name="activity-stream-api"></a>API de flux d’activités
 <a name="bkmk_ActivityStreamAPI"> </a>
 
 Intégrez des applications métiers existantes en ajoutant des données au graphe social. Découvrez les activités en cours dans les applications métiers existantes.
