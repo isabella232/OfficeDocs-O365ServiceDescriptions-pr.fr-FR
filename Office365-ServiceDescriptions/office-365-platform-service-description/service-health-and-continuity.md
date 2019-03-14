@@ -3,7 +3,7 @@ title: État des services
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs de Microsoft Office 365 peuvent afficher l'état des services et savoir quand la maintenance est planifiée. Les informations relatives à l'état du service sont disponibles à tout moment en se connectant à Office 365.
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466951"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574138"
 ---
 # <a name="service-health-and-continuity"></a>État des services
 
@@ -40,7 +40,25 @@ Il existe deux types de notifications concernant les heures où les services peu
 - **Événements de maintenance planifiée:** La maintenance planifiée est une mise à jour normale des services initiés par Microsoft vers les applications logicielles et d'infrastructure. Les notifications de maintenance planifiée informent les clients du travail de service susceptible d'affecter les fonctionnalités d'un service Office 365. Les clients sont informés au plus tard cinq jours avant l'avancement de toutes les opérations de maintenance planifiée via le centre de messages sur le portail d'administration Office 365. Microsoft prévoit généralement la maintenance pour les heures où l'utilisation du service est historique en fonction de ses fuseaux horaires régionaux. 
     
 - **Temps d'arrêt non planifiés :** Les incidents de service non planifiés surviennent quand un des services de la suite Office 365 est indisponible ou ne répond pas. 
-    
+
+### <a name="recent-worldwide-uptimes"></a>Délais récents pour le monde entier
+
+Le passage à un service Cloud ne doit pas signifier perdre la capacité à savoir ce qui se passe. Avec Office 365, il ne l'est pas. Nous souhaitons être transparents dans nos opérations afin que vous puissiez surveiller l'état de votre service, suivre les problèmes et avoir un aperçu de la disponibilité. Les tableaux suivants présentent les données de disponibilité les plus récentes dans le monde entier.
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
+| 99,99 % <br/> | 99,98% <br/> | 99,97% <br/> | 99,98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
+| 99,99 % <br/> | 99,97% <br/> | 99,98% <br/> | 99,99 % <br/> |
+
 ## <a name="notification-policy"></a>Stratégie de notification
 
 Quand un incident de service se produit, Microsoft reconnaît que les communications ciblées, précises et fournies en temps utile sont critiques pour les clients. Microsoft informe les administrateurs d'Office 365 en mettant à jour le tableau de bord d'intégrité du service propre au client (validation) sur le portail d'administration d'Office 365. Les mises à jour des incidents de service sont fournies à une cadence horaire ou, si une cadence différente est requise, elles seront indiquées dans la publication de communication validation. 
