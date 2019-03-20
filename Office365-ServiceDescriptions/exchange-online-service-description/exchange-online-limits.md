@@ -3,7 +3,7 @@ title: Limites d’Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/21/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 0291609bedf605177719847f36438d2a19020a60
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ee23a4b17807d6df80d853b7b460820a020aec99
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467681"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641469"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -75,7 +75,7 @@ Les limites de Microsoft Exchange Online rentrent dans l'une des catégories sui
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de liste d'adresses  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |1000  <br/> |
 |Limite de carnet d'adresses en mode hors connexion  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Limite de stratégies de carnet d'adresses  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |
@@ -102,8 +102,8 @@ L'espace de stockage disponible dans une boîte aux lettres est déterminé par 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
-|Boîtes aux lettres utilisateur  <br/> |50 Go  <br/> |50 Go  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |2 Go  <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|Boîtes aux lettres utilisateur  <br/> |50 Go  <br/> |50 Go  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |2 Go  <br/> |
 |Boîte aux lettres d'archivage<sup>7, 8</sup> <br/> |50 Go  <br/> |50 Go  <br/> |50 Go  <br/> |UnLimited<sup>1</sup> <br/> |UnLimited<sup>1</sup> <br/> |Non disponible<sup>4</sup> <br/> |
 |Boîtes aux lettres partagées  <br/> |50 Go<sup>2</sup> <br/> |50 Go<sup>2</sup> <br/> |50 Go<sup>2</sup> <br/> |50 Go<sup>2, 9</sup> <br/> |50 Go<sup>2, 9</sup> <br/> |50 Go<sup>2</sup> <br/> |
 |Boîtes aux lettres de ressources  <br/> |50 Go<sup>3</sup> <br/> |50 Go<sup>3</sup> <br/> |50 Go<sup>3</sup> <br/> |50 Go<sup>3, 9</sup> <br/> |50 Go<sup>3, 9</sup> <br/> |50 Go<sup>3</sup> <br/> |
@@ -146,10 +146,10 @@ Exchange Online fournit trois types de notifications lorsque la capacité de la 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Avertissement  <br/> |49 Go  <br/> |49 Go  <br/> |49 Go  <br/> |98 Go  <br/> |98 Go  <br/> |1,96 Go  <br/> |
 |Interdire l'envoi  <br/> |49,5 Go  <br/> |49,5 Go  <br/> |49,5 Go  <br/> |99 Go  <br/> |99 Go  <br/> |1,98 Go  <br/> |
-|Interdire l'envoi/la réception  <br/> |50 Go  <br/> |50 Go  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |2 Go  <br/> |
+|Interdire l'envoi/la réception  <br/> |50 Go  <br/> |50 Go  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |2 Go  <br/> |
    
 ### <a name="capacity-alerts-across-standalone-plans"></a>Alertes de capacité parmi les plans autonomes
 
@@ -193,7 +193,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Nombre maximal de messages par dossier de boîte aux lettres  <br/> |1 million  <br/> |1 million  <br/> |1 million  <br/> |1 million  <br/> |1 million  <br/> |1 million  <br/> |
 |Avertissement pour le nombre de messages par dossier de boîte aux lettres  <br/> |900 000  <br/> |900 000  <br/> |900 000  <br/> |900 000  <br/> |900 000  <br/> |900 000  <br/> |
 |Nombre maximal de messages par dossier dans le dossier Éléments récupérables  <br/> |3 millions  <br/> |3 millions  <br/> |3 millions  <br/> |3 millions  <br/> |3 millions  <br/> |3 millions  <br/> |
@@ -231,7 +231,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 |Profondeur maximale de hiérarchie de dossiers  <br/> |Sans limite  <br/> |300  <br/> |300  <br/> |300  <br/> |
 |Avertissement pour la profondeur de hiérarchie de dossiers  <br/> |Aucune limite  <br/> |250  <br/> |250  <br/> |250  <br/> |
 |Nombre maximal de dossiers publics  <br/> |1 000 000  <br/> |100 000  <br/> |100 000  <br/> |Non disponible  <br/> |
-|Nombre maximal de sous-dossiers par dossier public  <br/> |S/O  <br/> |1,000  <br/> |1 000  <br/> |Non disponible  <br/> |
+|Nombre maximal de sous-dossiers par dossier public  <br/> |N/D  <br/> |1,000  <br/> |1 000  <br/> |Non disponible  <br/> |
 |Avertissement pour le nombre de sous-dossiers par dossier public  <br/> |S/O  <br/> |900  <br/> |900  <br/> |Non disponible  <br/> |
    
 > [!NOTE]
@@ -265,20 +265,20 @@ Les limites suivantes s'appliquent à chaque message électronique.
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de taille des messages - Outlook  <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |
 |Limite de taille des messages - OWA  <br/> |112 Mo<sup>1, 3</sup> <br/> |112 Mo<sup>1, 3</sup> <br/> |112 Mo<sup>1, 3</sup> <br/> |112 Mo<sup>1, 3</sup> <br/> |112 Mo<sup>1, 3</sup> <br/> |112 Mo<sup>1, 3</sup> <br/> |
 |Taille limite des messages - Outlook pour Mac  <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |
-|Limite de taille des messages - Migration  <br/> |150 Mo<sup>4</sup> <br/> |150 Mo<sup>4</sup> <br/> |150 Mo<sup>4</sup> <br/> |150 Mo<sup>4</sup> <br/> |150 Mo<sup>4</sup> <br/> |150 Mo<sup>4</sup> <br/> |
-|Limite de taille pour les messages chiffrés (pour les abonnés utilisant le chiffrement de messages Office 365 avec les nouvelles fonctionnalités)<sup>5</sup> <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
+|Limite de taille des messages - Migration  <br/> |150 Mo <sup>1, 4</sup> <br/> |150 Mo <sup>1, 4</sup> <br/> |150 Mo <sup>1, 4</sup> <br/> |150 Mo <sup>1, 4</sup> <br/> |150 Mo <sup>1, 4</sup> <br/> |150 Mo <sup>1, 4</sup> <br/> |
+|Limite de taille pour les messages chiffrés (pour les abonnés utilisant le chiffrement de messages Office 365 avec les nouvelles fonctionnalités)<sup>5</sup> <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
 |Limite de taille pour les messages chiffrés (pour les abonnés utilisant la version héritée du chiffrement de messages Office 365)<sup>5</sup> <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |
 |Limite de longueur de l'objet  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |
-|Limite du nombre de pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |
+|Limite du nombre de pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |
 |Limite de taille des pièces jointes - Outlook  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
 |Limite de taille des pièces jointes - Outlook Web App <sup>6</sup> <br/> |35 Mo  <br/> |35 Mo  <br/> |35 Mo  <br/> |35 Mo  <br/> |35 Mo  <br/> |35 Mo  <br/> |
-|Limite de taille des pièces jointes - Outlook pour Mac  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
+|Limite de taille des pièces jointes - Outlook pour Mac  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
 |Limite pour les messages à parties multiples  <br/> |250 parties  <br/> |250 parties  <br/> |250 parties  <br/> |250 parties  <br/> |250 parties  <br/> |250 parties  <br/> |
-|Limite de profondeur de messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |
+|Limite de profondeur de messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> la taille de message maximale par défaut pour les boîtes aux lettres Office 365 est de 25 Mo. Les administrateurs d'Office 365 peuvent spécifier une limite personnalisée comprise entre 1 Mo et 150 Mo. Toutefois, la taille des messages que vous pouvez envoyer ou recevoir dépend également de ce que prend en charge votre solution ou client de messagerie. Pour plus d'informations sur la personnalisation de la taille maximale des messages autorisés pour votre organisation, consultez la rubrique [Office 365 prend désormais en charge les messages électroniques plus volumineux](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> vous pouvez envoyer et recevoir jusqu'à 150 Mo de messages entre les utilisateurs d'Office 365 (où le message ne quitte jamais les centres de donnes Office 365). Les messages routés en dehors des centres de développement Office 365 sont soumis à un codage de traduction supplémentaire de 33%, auquel cas la taille maximale des messages est de 112 Mo. <br/> <sup>3</sup> les comptes OWA permettent de faire en sorte que votre message soit soumis à l'augmentation du codage de 33% et limite la taille du message que vous pouvez envoyer à 25% de moins que le paramètre configuré. Par exemple, si vous personnalisez vos paramètres pour une taille de message de 100 Mo maximum, vous pouvez envoyer des messages dont la taille est inférieure ou égale à 75 Mo. <br/> <sup>4</sup> la taille des messages à déplacer vers Exchange Online est calculée par Exchange Online. Les versions d’Exchange antérieures à Exchange Server 2013 peuvent signaler une taille d’élément inférieure. Cette limite s’applique aux migrations basées sur un déplacement qui utilisent un service de réplication de boîte aux lettres Exchange, quel qu’il soit. La limite générale de taille des messages s’applique à d’autres méthodes de migration (à basculement, intermédiaire, IMAP, PST) et d’autres outils tiers. <br/> <sup>5</sup> pour plus d'informations sur OME avec de nouvelles fonctionnalités, consultez la rubrique [set up New Office 365 message Encryption Capabilities Built-Top of Azure information protection](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>6</sup> vous ne pouvez pas joindre un seul fichier dont la taille dépasse 35 Mo. De même, vous ne pouvez pas joindre plusieurs fichiers dont la taille totale dépasse 35 Mo. Par exemple, si vous joignez un fichier de 34 Mo, vous pouvez uniquement joindre un autre fichier de 1 Mo. 
@@ -292,7 +292,7 @@ Les limites suivantes s'appliquent à chaque message électronique.
 |Limite de taille des messages - OWA  <br/> |10 Mo<sup>4</sup> <br/> |112 Mo<sup>1, 3</sup> <br/> |112 Mo<sup>1, 3</sup> <br/> |150 Mo<sup>1, 2</sup> <br/> |
 |Taille limite des messages - Outlook pour Mac  <br/> |10 Mo<sup>4</sup> <br/> |150 Mo  <br/> |150 Mo  <br/> ||
 |Limite de taille des messages - Migration  <br/> |Non applicable  <br/> |150 Mo<sup>5</sup> <br/> |150 Mo<sup>5</sup> <br/> |150 Mo<sup>5</sup> <br/> |
-|Limite de taille pour les messages chiffrés (pour les abonnés utilisant le chiffrement de messages Office 365 avec les nouvelles fonctionnalités)<sup>6</sup> <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
+|Limite de taille pour les messages chiffrés (pour les abonnés utilisant le chiffrement de messages Office 365 avec les nouvelles fonctionnalités)<sup>6</sup> <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
 |Limite de taille pour les messages chiffrés (pour les abonnés utilisant la version héritée du chiffrement de messages Office 365)<sup>6</sup> <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |
 |Limite de longueur de l'objet  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |
 |Limite du nombre de pièces jointes  <br/> |1024 pièces jointes<sup>4</sup> <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |
@@ -315,7 +315,7 @@ Les limites de réception s'appliquent au nombre de messages qu'un utilisateur, 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium Office** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium Office** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Messages reçus  <br/> |3 600 messages par heure  <br/> |3 600 messages par heure  <br/> |3 600 messages par heure  <br/> |3 600 messages par heure  <br/> |3 600 messages par heure  <br/> |3 600 messages par heure  <br/> |
    
 ### <a name="sending-limits"></a>Limites d’envoi
@@ -341,7 +341,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de débit de destinataires  <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |
 |Nombre maximal de destinataires  <br/> |500 destinataires  <br/> |500 destinataires  <br/> |500 destinataires  <br/> |500 destinataires  <br/> |500 destinataires  <br/> |500 destinataires  <br/> |
 |Limite d'adresse proxy destinataire  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
@@ -352,7 +352,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online Kiosk** <br/> |
-|Limite de débit de destinataires  <br/> |Aucune limite<sup>1</sup> <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |
+|Limite de débit de destinataires  <br/> |Aucune limite<sup>1</sup> <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |10 000 destinataires par jour  <br/> |
 |Nombre maximal de destinataires  <br/> |500 destinataires<sup>1</sup> <br/> |500 destinataires  <br/> |500 destinataires  <br/> |500 destinataires  <br/> |
 |Limite d'adresse proxy destinataire  <br/> |400  <br/> |400  <br/> |400  <br/> |400  <br/> |
    
@@ -379,7 +379,7 @@ Ces limites contrôlent la durée pendant laquelle les éléments situés dans d
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Période de rétention du dossier Éléments supprimés  <br/> |Aucune limite<sup>1</sup> <br/> |Aucune limite<sup>1</sup> <br/> |Aucune limite<sup>1</sup> <br/> |Aucune limite<sup>1</sup> <br/> |Aucune limite<sup>1</sup> <br/> |Aucune limite<sup>1</sup> <br/> |
 |Période de rétention pour les éléments supprimés du dossier Éléments supprimés  <br/> |14 jours<sup>1</sup> <br/> |14 jours<sup>1</sup> <br/> |14 jours<sup>1</sup> <br/> |14 jours<sup>1</sup> <br/> |14 jours<sup>1</sup> <br/> |14 jours<sup>1</sup> <br/> |
 |Période de rétention du dossier Courrier indésirable  <br/> |30 jours  <br/> |30 jours  <br/> |30 jours  <br/> |30 jours  <br/> |30 jours  <br/> |30 jours  <br/> |
@@ -413,11 +413,11 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Nombre maximal de membres d'un groupe de distribution<sup>1</sup> <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |
-|Limite d'envoi de messages à de grands groupes de distribution  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |
-|Taille maximale des messages pour les groupes de distribution avec 5 000 à 100 000 membres  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |
-|Taille maximale des messages pour les groupes de distribution avec 100 000 ou plus de membres  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |
+|Limite d'envoi de messages à de grands groupes de distribution  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |
+|Taille maximale des messages pour les groupes de distribution avec 5 000 à 99 999 membres  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |
+|Taille maximale des messages pour les groupes de distribution avec 100 000 membres  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |5 MO  <br/> |
 |Nombre maximal de propriétaires de groupe de distribution  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |Nombre maximal de groupes qu'un utilisateur peut créer  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
@@ -461,7 +461,7 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Nombre maximal de règles de journal  <br/> |10 règles  <br/> |10 règles  <br/> |10 règles  <br/> |10 règles  <br/> |10 règles  <br/> |10 règles  <br/> |
 |Nombre maximal de règles de transport  <br/> |300 règles  <br/> |300 règles  <br/> |300 règles  <br/> |300 règles  <br/> |300 règles  <br/> |300 règles  <br/> |
 |Taille maximale d'une règle de transport  <br/> |8 Ko  <br/> |8 Ko  <br/> |8 Ko  <br/> |8 Ko  <br/> |8 Ko  <br/> |8 Ko  <br/> |
@@ -503,8 +503,8 @@ Ces limites contrôlent les paramètres de modération utilisés pour l'approbat
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
-|Taille maximale de la boîte aux lettres d'arbitrage  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|Taille maximale de la boîte aux lettres d'arbitrage  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |
 |Nombre maximal de modérateurs  <br/> |10 modérateurs  <br/> |10 modérateurs  <br/> |10 modérateurs  <br/> |10 modérateurs  <br/> |10 modérateurs  <br/> |10 modérateurs  <br/> |
 |Expiration des messages en attente de modération  <br/> |2 jours  <br/> |2 jours  <br/> |2 jours  <br/> |2 jours  <br/> |2 jours  <br/> |2 jours  <br/> |
 |Débit maximal de messages de notification d'expiration du délai de modération  <br/> |300 notifications d'expiration par heure  <br/> |300 notifications d'expiration par heure  <br/> |300 notifications d'expiration par heure  <br/> |300 notifications d'expiration par heure  <br/> |300 notifications d'expiration par heure  <br/> |300 notifications d'expiration par heure  <br/> |
@@ -537,7 +537,7 @@ Les limites suivantes s'appliquent à Microsoft Exchange ActiveSync, un protocol
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de l'appareil Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Limite de suppression de l'appareil Exchange ActiveSync  <br/> |vingtaine  <br/> |vingtaine  <br/> |vingtaine  <br/> |vingtaine  <br/> |vingtaine  <br/> |vingtaine  <br/> |
 |Limite des pièces jointes Exchange ActiveSync  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |
@@ -549,4 +549,4 @@ Les limites suivantes s'appliquent à Microsoft Exchange ActiveSync, un protocol
 |**Fonctionnalité** <br/> |**Exchange Server 2013** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online Kiosk** <br/> |
 |Limite de l'appareil Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Limite de suppression de l'appareil Exchange ActiveSync  <br/> |vingtaine  <br/> |vingtaine  <br/> |vingtaine  <br/> |vingtaine  <br/> |
-|Limite des pièces jointes Exchange ActiveSync  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |
+|Limite des pièces jointes Exchange ActiveSync  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |25 Mo  <br/> |

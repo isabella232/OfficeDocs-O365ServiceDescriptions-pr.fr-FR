@@ -3,7 +3,7 @@ title: Description du service Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/27/2019
+ms.date: 03/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d'Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d'informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: f9b6983eb299eef24935f2e784a23b6b7863e8e1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 8337eb102ccf0e54df90501791de29d80aa2ca9e
+ms.sourcegitcommit: 3b1255f83c3e9314f5c891e200b8b0eccdea40d1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467941"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30641479"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -132,11 +132,11 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Advanced Threat Analytics  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |**Fonctionnalités de gestion des appareils et des applications** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Gestion des appareils mobiles (MDM)<sup>15</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Gestion des appareils mobiles (MDM)<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Gestion des applications mobiles (MAM) pour les applications Office et les applications métier<sup>15</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Gestion des applications mobiles pour les applications Office et les applications métier<sup>17</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des mises à jour Windows, Defender, stratégies de pare-feu<sup>15</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Protection des données - réinitialisation sélective  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Protection des données - réinitialisation sélective  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ciblage de groupe de sécurité pour stratégies  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Installation d'applications Office sur des appareils Windows 10 inscrits  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Configuration de Windows Defender  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -173,6 +173,8 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 <br/><sup>10</sup> les sièges qui ont été achetés avec un escompte de terme peuvent être soumis à une redevance de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle. 
 <br/><sup>11</sup> Microsoft 365 Business inclut un abonnement à l'archivage Exchange Online. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d'informations, reportez-vous à la rubrique [Présentation de l'archivage illimité dans Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
 <br/><sup>12</sup> pour plus d'informations, reportez-vous à [la rubrique contrôle de vos données dans Office 365 à l'aide de la clé client](https://go.microsoft.com/fwlink/?linkid=863349). 
-<br/><sup>13</sup> la découverte électronique avancée est prise en charge aux États-Unis et dans la région Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) <br/><sup>14</sup> disponible à [https://securescore.office.com](https://securescore.office.com)l'adresse. Nécessite des autorisations d'administration. Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](https://go.microsoft.com/fwlink/?linkid=863490).
-<br/><sup>15</sup> la gestion des appareils Windows 10 simplifiée intégrée à la console de gestion Microsoft 365. Fonctionnalités Intune complètes pour iOS, Android, MacOS et autres plateformes de gestion de périphériques multiplateforme intégrées à la console Azure, qui sont également utilisables avec Microsoft 365 Business. Les applications tierces et la configuration des éléments tels que les profils WiFi, les certificats VPN, etc., peuvent être gérées dans la console Intune complète. <br/>
-<sup>16</sup> ce plan est fourni avec Microsoft Stream plan 2 qui inclut le portail vidéo, la transcription de texte, la recherche approfondie et la détection de visage.
+<br/><sup>13</sup> la découverte électronique avancée est prise en charge aux États-Unis et dans la région Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].)
+<br/><sup>14</sup> disponible à [https://securescore.office.com](https://securescore.office.com)l'adresse. Nécessite des autorisations d'administration. Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](https://go.microsoft.com/fwlink/?linkid=863490).
+<br/><sup>15</sup> la gestion des appareils Windows 10 simplifiée intégrée dans le centre d'administration Microsoft 365. Les fonctionnalités de gestion Intune d'iOS, Android, macOS et de la gestion des périphériques multiplateforme intégrée au centre d'administration de la gestion des appareils, sont également utilisables avec Microsoft 365 Business. Les applications tierces et la configuration des éléments tels que les profils WiFi et les certificats VPN peuvent également être gérées dans le centre d'administration de la gestion des appareils. 
+<br/><sup>16</sup> ce plan est fourni avec Microsoft Stream plan 2 qui inclut le portail vidéo, la transcription de texte, la recherche approfondie et la détection de visage.
+<br/><sup>17</sup> stratégies de protection des applications Intune et de gestion des appareils Windows 10 simplifiées intégrées dans le centre d'administration Microsoft 365.
