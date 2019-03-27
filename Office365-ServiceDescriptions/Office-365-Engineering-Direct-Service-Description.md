@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering direct est un service de support technique d'entreprise supplémentaire pour un contrat de support Microsoft premier. La description de service ingénierie technique Office 365 contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l'implémentation.
-ms.openlocfilehash: 110e7c1448a994dec7f495b63e14490a1d4fd7f4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
+ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467891"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30867920"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Description du service d'ingénierie technique Office 365
 
-Office 365 Engineering direct est un service de support technique d'entreprise supplémentaire pour un contrat de support Microsoft premier. La [Description de service ingénierie technique Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(11dec2018).pdf) contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l'implémentation.
+Office 365 Engineering direct est un service de support technique d'entreprise supplémentaire pour un contrat de support Microsoft premier. La [Description de service ingénierie technique Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l'implémentation.
 
 Pour obtenir l'offre Office 365 ingénierie directe en tant que nouveau client, votre organisation doit s'abonner à une offre de support Microsoft premier, respecter le niveau de classification de grande entreprise pour les services 365 Office et exécuter un addendum de contrat de support. Un coût supplémentaire s'applique à la suite de services ajoutés. Contactez le représentant de votre équipe de compte Microsoft pour confirmer l'état de votre contrat de support et pour initier des modifications contractuelles afin de sécuriser l'offre de support technique. 
 
