@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Cet article fournit la liste des plans qui incluent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités disponibles dans ces plans.
-ms.openlocfilehash: 7232e2ab40e7041913982e043c3e1d4e162b255a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467671"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955763"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service de protection Exchange Online
 
@@ -109,11 +109,11 @@ Chaque fonctionnalité est indiquée ci-dessous. Pour obtenir des informations p
 |[Saisie de l'adresse IP d'un partenaire sur une liste fiable](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier conditionnel](mail-flow-eop.md#conditional-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier hybride](mail-flow-eop.md#hybrid-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Rapports du centre d'administration Microsoft 365](reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui <sup>9, 10</sup> <br/> |
+|[Rapports du centre d'administration Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui <sup>9, 10</sup> <br/> |
 |[Rapports d'application de téléchargement Excel](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>11</sup> <br/> |
 |[Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Suivi des messages](reporting-and-message-trace.md#message-trace) <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui  <br/> |
-|[Accès au centre d'administration Microsoft 365](administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Accès au centre d'administration Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Accès au Centre d'administration Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center) (CAE)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Accès à distance à Windows PowerShell](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |
    

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l'Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l'Union européenne (UE) et à l'Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
-ms.openlocfilehash: 52f98f816ae0cdb0d919dd485fd0ba4b3767ef22
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468091"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955823"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -265,7 +265,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Outlook pour Android<sup>11</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**Enterprise Value** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
+|**Enterprise Value** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Oui  <br/> |Oui<sup>8</sup> <br/> |
 |Mise en service automatisée du compte d'utilisateur  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
 |Interface utilisateur multilingue  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -314,7 +314,7 @@ Le tableau suivant fournit des liens vers des comparaisons des fonctionnalités 
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
+|PowerPoint  <br/> |PowerPoint Online  <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint) <br/> |
    
 ## <a name="exchange-online-features"></a>Fonctionnalités d’Exchange Online 
 <a name="BM1_Platform"> </a>
@@ -364,7 +364,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |**[Destinataires](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Entreprise E1** <br/> |**Office 365 Germany Entreprise E3** <br/> |**Office 365 Germany Entreprise E4** <br/> |**Office 365 Germany Entreprise K1** <br/> |
 |Alertes de capacité  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier non trié<sup>3</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Infos-courrier  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|MailTips  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Accès délégué  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Règles de boîte de réception  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Comptes connectés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |
@@ -462,11 +462,11 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection
 |[Saisie de l'adresse IP d'un partenaire sur une liste fiable](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier conditionnel](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier hybride](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Rapports du centre d'administration Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui <sup>9, 10</sup> <br/> |
+|[Rapports du centre d'administration Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui <sup>9, 10</sup> <br/> |
 |[Rapports d'application de téléchargement Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>11</sup> <br/> |
 |[Création de rapports à l'aide de services web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Suivi des messages](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui  <br/> |
-|[Accès au centre d'administration Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Accès au centre d'administration Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Accès au Centre d'administration Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (CAE)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Accès à distance à Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |
    
@@ -709,7 +709,7 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |Document Conversations with Yammer <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Suivre <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Blog de billets courts <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Flux d'actualités <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Flux d’actualités <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |One Click Sharing <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |People, Sites, Document Recommendations <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Personal Site <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -972,7 +972,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Document Conversations with Yammer <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Suivre <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Blog de billets courts <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|Flux d'actualités <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Flux d’actualités <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |One Click Sharing <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |People, Sites, Document Recommendations <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Personal Site <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |

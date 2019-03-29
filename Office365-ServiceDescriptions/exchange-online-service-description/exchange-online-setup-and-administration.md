@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: "Cette section décrit les contrôles d'administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l'environnement Exchange Online d'une organisation. Elle comprend les informations sur les outils d'administration en libre-service et les fonctionnalités à disposition des organisations : responsabilités et engagements de performances de l'administrateur Microsoft et mises à niveau des services et des produits."
-ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 45707cbba47af8076312049686cb01beb6825d9e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467801"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955743"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Configuration et administration d’Exchange Online
 
@@ -34,7 +34,7 @@ Exchange Online offre donc aux administrateurs du client les outils décrits ci-
   
 - [Portail Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Centre d'administration Microsoft 365](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Centre d'administration Microsoft 365](#microsoft-365-admin-center)
     
 - [Centre d'administration Exchange](exchange-online-setup-and-administration.md#exchange-admin-center)
     

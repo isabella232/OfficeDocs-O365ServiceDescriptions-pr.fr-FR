@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: a34a4f4a2a96254a65f04e934b3c1c7c178d9088
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468081"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955803"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
@@ -356,7 +356,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 |**[Destinataires](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Business Essentials géré par 21Vianet** <br/> |**Office 365 Business géré par 21Vianet** <br/> |**Office 365 Business Premium géré par 21Vianet** <br/> |**Office 365 A1 géré par 21Vianet** <br/> |**Office 365 Entreprise E1 géré par 21Vianet** <br/> |**Office 365 Entreprise E3 géré par 21Vianet** <br/> |**Office 365 Entreprise F1 géré par 21Vianet** <br/> |
 |Alertes de capacité  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier non trié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Infos-courrier  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
+|MailTips  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
 |Accès délégué  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Règles de boîte de réception  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Comptes connectés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
@@ -440,15 +440,15 @@ Pour plus d’informations sur les limites d’Exchange Online, reportez-vous �
     
 - [Alertes de capacité](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
     
-- [Limites de dossier de boîte aux lettres](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
+- [Mailbox folder limits](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
     
 - [Limites concernant les messages](../exchange-online-service-description/exchange-online-limits.md#message-limits)
     
-- [Limites de réception et d'envoi](../exchange-online-service-description/exchange-online-limits.md#receiving-and-sending-limits)
+- [Limites de réception et d’envoi](../exchange-online-service-description/exchange-online-limits.md#receiving-and-sending-limits)
     
-- [Limites de création de rapports et de suivi de messages](../exchange-online-service-description/exchange-online-limits.md#reporting-and-message-trace-limits)
+- [Reporting and message trace limits](../exchange-online-service-description/exchange-online-limits.md#reporting-and-message-trace-limits)
     
-- [Limites de rétention](../exchange-online-service-description/exchange-online-limits.md#retention-limits)
+- [Limites concernant la rétention](../exchange-online-service-description/exchange-online-limits.md#retention-limits)
     
 - [Limites concernant les groupes de distribution](../exchange-online-service-description/exchange-online-limits.md#distribution-group-limits)
     
@@ -462,7 +462,7 @@ Pour plus d’informations sur les limites d’Exchange Online, reportez-vous �
 > - Les limites appliquées à une organisation Microsoft Office 365 peuvent varier selon le temps d'inscription de cette dernière au service. En cas de modification d'une limite dans les centres de données Microsoft, l'application de la modification à tous les clients existants peut prendre un certain temps. 
 > - Vous ne pouvez pas modifier la plupart de ces limites, mais vous et vos utilisateurs devez les connaître. 
 > - Ces limites s'appliquent aux destinataires internes et externes. 
-> - Par défaut, Exchange Online Protection (EOP) protège les boîtes aux lettres Exchange Online. Pour connaître les limites applicables aux fonctionnalités EOP dans Exchange Online, consultez [Limites d'Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Par défaut, Exchange Online Protection (EOP) protège les boîtes aux lettres Exchange Online. Pour connaître les limites applicables aux fonctionnalités EOP dans Exchange Online, consultez [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
   
 ## <a name="exchange-online-protection-features"></a>Fonctionnalités d’Exchange Online Protection
 <a name="BM6_EOP"> </a>
@@ -497,11 +497,11 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection
 |[Saisie de l'adresse IP d'un partenaire sur une liste fiable](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier conditionnel](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier hybride](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |Non  <br/> |Oui  <br/> |
-|[Rapports du centre d'administration Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |N °<sup>8</sup> <br/> |Oui<sup>8, 9</sup> <br/> |
+|[Rapports du centre d'administration Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |N °<sup>8</sup> <br/> |Oui<sup>8, 9</sup> <br/> |
 |[Rapports d'application de téléchargement Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |Non  <br/> |Oui  <br/> |
 |[Création de rapports à l'aide de services web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |Non  <br/> |Oui  <br/> |
 |[Suivi des messages](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
-|[Accès au centre d'administration Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Oui  <br/> |Oui  <br/> |
+|[Accès au centre d'administration Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Oui  <br/> |Oui  <br/> |
 |[Accès au Centre d'administration Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (CAE)  <br/> |Oui  <br/> |Oui  <br/> |
 |[Accès à distance à Windows PowerShell](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |
    
@@ -791,7 +791,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 |Document Conversations with Yammer <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Suivre <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Blog de billets courts <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Flux d'actualités <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Flux d’actualités <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |One Click Sharing <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |People, Sites, Document Recommendations <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Personal Site <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -800,7 +800,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 |Évaluations <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Shared with Me <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Flux de site (site d'équipe classique à l'aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|OneDrive for Business <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>2</sup> <br/> |
+|OneDrive Entreprise <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>2</sup> <br/> |
 |Tag profiles <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Tasks integrated with Outlook <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Trending Tags <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
