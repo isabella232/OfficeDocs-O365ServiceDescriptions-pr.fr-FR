@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité Office 365 est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 01d739ae1fb363265716021c15b11e51d5daac3e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
+ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467981"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31411863"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -29,7 +29,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 gouvernement américain G1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 pour le gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> **Office 365 Secteur Public américain F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 pour le gouvernement américain G1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 pour le gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> **Office 365 Secteur Public américain F1** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Sécurité de l’application cloud Office 365](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Gestion des menaces](https://go.microsoft.com/fwlink/?linkid=845550) comme le filtrage de la messagerie et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -39,8 +39,8 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
 |[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Recherches et examens](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Exportation de la découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[exportation eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[conservations eDiscovery (y compris les conservations eDiscovery basées sur une requête)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Découverte électronique avancée](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Archivage](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
@@ -56,7 +56,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Skype Entreprise Online Plan 1** <br/> |**Skype Entreprise Online Plan 2** <br/> |
+|**Fonctionnalité** <br/> |**Exchange Online (plan 1)** <br/> |**Exchange Online (plan 2)** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online (plan 1)** <br/> |**SharePoint Online (plan 2)** <br/> |**Skype Entreprise Online (plan 1)** <br/> |**Skype Entreprise Online (plan 2)** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Sécurité de l’application cloud Office 365](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des menaces](https://go.microsoft.com/fwlink/?linkid=845550) comme le filtrage de la messagerie et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -66,7 +66,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
 |[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Recherches et examens](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
+|[recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[Exportation de la découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
 |[conservations eDiscovery (y compris les conservations eDiscovery basées sur une requête)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[Découverte électronique avancée](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -81,10 +81,10 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 operated by 21Vianet, see [](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet).
+Le centre de sécurité & Compliance Center n'est disponible dans aucun plan pour Office 365 géré par 21Vianet.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-For information about Office 365 Security &amp; Compliance Center availability in Office 365 Germany Enterprise E3, see [](office-365-germany.md#security--compliance-center-availability-in-office-365-germany).
+Le centre de sécurité & Compliance Center est disponible pour Office 365 Germany. Pour plus d'informations sur Office 365 Germany, voir [office 365 Germany](office-365-germany.md).
   
 
