@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 prend en charge les méthodes suivantes pour la création, la gestion et l'authentification des utilisateurs.
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467741"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764852"
 ---
 # <a name="user-account-management"></a>Gestion des comptes d'utilisateur
 
@@ -55,7 +55,7 @@ Par défaut, l'abonnement Office 365 utilise le domaine \< _company name_\> **.o
   
 Vous pouvez héberger jusqu'à 900 domaines Internet inscrits dans Office 365, chacun étant représenté par un espace de noms différent. 
   
-Pour les organisations utilisant l'authentification unique, tous les utilisateurs d'un domaine doivent utiliser le même système d'identité : l'identité cloud (en nuage) ou l'identité fédérée. Par exemple, vous pourriez avoir un groupe d'utilisateurs qui requiert uniquement une identité cloud (en nuage) parce que ces utilisateurs n'accèdent pas aux systèmes locaux (sur site) et un autre groupe d'utilisateurs qui utilise Office 365 et des systèmes locaux. Vous pourriez ajouter deux domaines à Office 365, par exemple, contractors.contoso.com et staff.contoso.com, et configurer l'authentification uniquement pour l'un d'eux seulement. La totalité d'un domaine peut être converti d'une identité cloud (en nuage) à une identité fédérée ou d'une identité fédérée à une identité cloud (en nuage).
+Pour les organisations utilisant l'authentification unique, tous les utilisateurs d'un domaine doivent utiliser le même système d'identité : l'identité cloud (en nuage) ou l'identité fédérée. Par exemple, vous pourriez avoir un groupe d'utilisateurs qui requiert uniquement une identité cloud (en nuage) parce que ces utilisateurs n'accèdent pas aux systèmes locaux (sur site) et un autre groupe d'utilisateurs qui utilise Office 365 et des systèmes locaux. Vous ajoutez deux domaines à Office 365, tels que contractors.contoso.com et staff.contoso.com, et vous configurez uniquement SSO pour l'un d'entre eux. La totalité d'un domaine peut être converti d'une identité cloud (en nuage) à une identité fédérée ou d'une identité fédérée à une identité cloud (en nuage).
   
 Pour plus d'informations à propos des domaines dans Office 365, voir la description du service [Domaines](domains.md). 
   
@@ -71,13 +71,13 @@ Pour plus d'informations à propos des domaines dans Office 365, voir la descrip
     
 - **Authentification d'identité cloud (en nuage)** L'authentification des utilisateurs avec des identités cloud (en nuage) s'effectue via l'authentification par stimulation/réponse traditionnelle. Le navigateur web est redirigé vers le service de connexion de Office 365, dans lequel vous entrez les nom d'utilisateur et mot de passe de votre compte professionnel ou scolaire. Le service de connexion authentifie vos informations d'identification et génère un jeton de service que le navigateur web adresse au service demandé pour vous y connecter. 
     
-- **Authentification d'identité fédérée** L'authentification des utilisateurs avec des identités fédérés s'effectue à l'aide de Services ADFS (Active Directory Federation Services) 2.0 ou d'autres services d'émission de jeton de sécurité. Le navigateur web est redirigé vers le service de connexion de Microsoft Office 365, dans lequel vous entrez votre ID d'entreprise sous la forme d'un nom d'utilisateur principal (UPN) ; par exemple isabel@contoso.com. Le service de connexion détermine que vous appartenez à un domaine fédéré et propose de vous rediriger vers un serveur de fédération local pour l'authentification. Si vous avez ouvert une session sur le bureau (domaine joint), vous êtes authentifié (via Kerberos ou NTLMv2) et le service d'émission de jeton de sécurité local génère un jeton d'ouverture de session que le navigateur web adresse au service de connexion de Microsoft Office 365. Grâce au jeton d'ouverture de session, le service de connexion génère un jeton de service que le navigateur web adresse au service demandé pour vous y connecter. Pour obtenir la liste des services d'émission de jeton de sécurité disponibles, voir [Feuille de route pour l'authentification unique](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Authentification d'identité fédérée** L'authentification des utilisateurs avec des identités fédérés s'effectue à l'aide de Services ADFS (Active Directory Federation Services) 2.0 ou d'autres services d'émission de jeton de sécurité. Le navigateur Web est redirigé vers le service de connexion Office 365, où vous tapez votre ID d'entreprise sous la forme d'un nom d'utilisateur principal (UPN, par exemple isabel@contoso.com). Le service de connexion détermine que vous appartenez à un domaine fédéré et propose de vous rediriger vers un serveur de fédération local pour l'authentification. Si vous avez ouvert une session sur le bureau (domaine joint), vous êtes authentifié (via Kerberos ou NTLMv2) et le service d'émission de jeton de sécurité local génère un jeton d'ouverture de session que le navigateur web adresse au service de connexion de Microsoft Office 365. Grâce au jeton d'ouverture de session, le service de connexion génère un jeton de service que le navigateur web adresse au service demandé pour vous y connecter. Pour obtenir la liste des services d'émission de jeton de sécurité disponibles, voir [Feuille de route pour l'authentification unique](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 utilise une authentification basée sur les formulaires et le trafic des authentifications sur le réseau est toujours chiffré avec TLS/SSL via le port 443. Le trafic des authentifications utilise un pourcentage négligeable de la bande passante pour les services Microsoft Office 365. 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Multi-Factor Authentication pour Office 365
 
-Avec Multi-Factor Authentication pour Office 365\*, les utilisateurs sont tenus de confirmer la bonne réception d'un appel téléphonique, d'un message texte ou d'une notification d'application sur leur smartphone après avoir entré correctement leur mot de passe. Ce n'est qu'après cette deuxième authentification que l'utilisateur peut se connecter. Les administrateurs d'Office 365 peuvent inscrire des utilisateurs pour l'authentification multifacteur dans le centre d'administration Microsoft 365. En savoir plus sur [Multi-Factor Authentication dans Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Avec l'authentification multiFacteur pour Office 365, les utilisateurs doivent accuser réception d'un appel téléphonique, d'un message texte ou d'une notification d'application sur leur smartphone après avoir entré correctement leur mot de passe. Ce n'est qu'après cette deuxième authentification que l'utilisateur peut se connecter. Les administrateurs d'Office 365 peuvent inscrire des utilisateurs pour l'authentification multifacteur dans le centre d'administration Microsoft 365. En savoir plus sur [Multi-Factor Authentication dans Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Authentification des clients riches
 
@@ -131,7 +131,7 @@ Une fois supprimé, le compte devient inactif. Vous pouvez toujours restaurer le
 
 Les stratégies et procédures de gestion des mots de passe dépendent du système d’identité.
   
- **Gestion des mots de passe d'identité cloud (en nuage) :**
+ **Gestion des mots de passe d’identité cloud (en nuage) :**
   
 Si des identités cloud (en nuage) sont utilisées ; les mots de passe sont générés automatiquement lors de la création du compte.
   
@@ -153,7 +153,7 @@ Plusieurs outils permettent aux utilisateurs possédant une identité cloud (en 
     
 - **Réinitialisation des mots de passe à l'aide de Windows PowerShell** Les administrateurs de services fédérés peuvent utiliser Windows PowerShell pour réinitialiser des mots de passe. 
     
- **Gestion des mots de passe des identités fédérées :**
+ **Gestion des mots de passe des identités fédérées :**
   
 Si des identités fédérées sont utilisées, les mots de passe sont gérés dans Active Directory. Le service d'émission de jeton de sécurité local négocie l'authentification avec la passerelle Office 365 Federation Gateway sans transférer les mots de passe d'Active Directory sur site des utilisateurs via Internet vers Office 365. Des stratégies de mot de passe locales sont utilisées, ou, pour les clients web, une identification à deux facteurs. Outlook Web App n'inclut pas de lien hypertexte Modifier le mot de passe. Pour changer leurs mots de passe, les utilisateurs se servent des outils locaux standard ou des options de connexion au bureau de leur PC.
   
@@ -175,10 +175,10 @@ Office 365 Entreprise suit un modèle RBAC (contrôle d'accès basé sur un rôl
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Administration déléguée et prise en charge pour des partenaires
 
-Des partenaires peuvent être autorisés à administrer des comptes pour le compte de clients. Le client ne nécessite pas de compte d'utilisateur à l'usage du partenaire et ne consomme donc pas de licence Office 365 en accordant une autorité d'administration déléguée. Les partenaires peuvent attribuer un accès complet ou limité aux utilisateurs au sein de leur organisation. Un accès limité inclut des droits permettant de réinitialiser des mots de passe, de gérer des demandes de service et de surveiller l'état du service. Pour plus d'informations, voir [Ajouter ou supprimer un administrateur délégué](https://go.microsoft.com/fwlink/p/?LinkID=270055).
+Des partenaires peuvent être autorisés à administrer des comptes pour le compte de clients. Le client ne nécessite pas de compte d'utilisateur à l'usage du partenaire et ne consomme donc pas de licence Office 365 en accordant une autorité d'administration déléguée. Les partenaires peuvent attribuer un accès complet ou limité aux utilisateurs au sein de leur organisation. Un accès limité inclut des droits permettant de réinitialiser des mots de passe, de gérer des demandes de service et de surveiller l'état du service. 
   
 > [!NOTE]
-> La possibilité d'utiliser et de spécifier un partenaire comme administrateur délégué dépend de la région. 
+> La possibilité d’utiliser et de spécifier un partenaire comme administrateur délégué dépend de la région. 
   
 ## <a name="azure-active-directory-services"></a>Services Azure Active Directory
 

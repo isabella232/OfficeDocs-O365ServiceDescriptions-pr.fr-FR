@@ -3,7 +3,7 @@ title: Fonctionnalités de la suite Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d'outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466941"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764832"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 
@@ -97,12 +97,14 @@ Les groupes dans Office 365 permettent aux utilisateurs de se connecter à leurs
 Office 365 Video constitue une destination sécurisée à l'échelle de la société où vous pouvez télécharger, partager et découvrir des vidéos sur vos périphériques, optimisée par Microsoft Azure Media Services. Office 365 Video peut contribuer à maintenir les utilisateurs impliqués et informés, à communiquer des idées de façon globale et à homogénéiser les organisations. Pour en savoir plus, voir [Présentation d'Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloc-notes OneNote pour la classe
-<a name="BKMK_Video"> </a>
 
 Le bloc-notes de classe fait partie de OneNote et est disponible pour Office 365 éducation et Office 365 E5 éducation. Chaque bloc-notes inclut une bibliothèque de contenu pour les enseignants afin de partager le contenu du cours, un espace de collaboration dans lequel les enseignants et les étudiants peuvent collaborer, ainsi qu'un bloc-notes privé pour chaque étudiant. Une fois le bloc-notes de classe créé, les enseignants et les étudiants peuvent utiliser l'application OneNote pour y accéder à partir de n'importe quel appareil.
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+Microsoft Kaizala est une application de gestion de travail mobile simple et sécurisée, qui apporte des fonctionnalités uniques à Microsoft 365, avec sa capacité de connexion et d'intervention de personnes à la fois à l'intérieur et à l'extérieur de l'annuaire de l'organisation, y compris les professionnels du contrat, les fournisseurs, partenaires, fournisseurs, clients et citoyens – utilisation de types de [groupes flexibles](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)et de grande taille. Le modèle Open Directory de Kaizala permet une intégration facile à l'aide d'un numéro de téléphone et une expérience utilisateur simple pour la gestion de la messagerie et des tâches. L'application mobile Kaizala permet aux utilisateurs d'envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des sons et d'autres personnes, ainsi que d'utiliser des cartes d'action pour des enquêtes, des sondages, des missions, des annonces, des annonces, etc. [Kaizala est disponible avec Office 365](https://products.office.com/en/business/microsoft-kaizala) et fonctionne sur iPhone et Android. Pour en savoir plus, accédez au [site Web Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
-<a name="BKMK_Video"> </a>
 
 Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   
