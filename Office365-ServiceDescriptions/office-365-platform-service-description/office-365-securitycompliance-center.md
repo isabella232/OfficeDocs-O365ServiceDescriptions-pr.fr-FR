@@ -3,7 +3,7 @@ title: Centre de conformité et sécurité dans Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité Office 365 est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
-ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
+ms.openlocfilehash: 11175d1cbbf1b60adee403b02118ae2d7f878fde
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31411863"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833856"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -29,21 +29,22 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 pour le gouvernement américain G1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 pour le gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> **Office 365 Secteur Public américain F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 gouvernement américain G1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> **Office 365 gouvernement américain F1** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Sécurité de l’application cloud Office 365](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Gestion des menaces](https://go.microsoft.com/fwlink/?linkid=845550) comme le filtrage de la messagerie et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion avancée des menaces](https://go.microsoft.com/fwlink/?linkid=846673), comme le référentiel sécurisé du client et l'explorateur de menaces pour les campagnes sur le hameçonnage<sup>6</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Gestion des appareils mobiles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Protection contre la perte de données](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Protection contre la perte de données pour les conversations de conversation et de canal Microsoft teams](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/>|
+|[Gouvernance des données](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://go.microsoft.com/fwlink/?linkid=842991)<sup>2</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Recherches et examens](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[exportation eDiscovery](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Exportation de la découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[conservations eDiscovery (y compris les conservations eDiscovery basées sur une requête)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Découverte électronique avancée](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|[Archivage](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
+|[Archivage](https://technet.microsoft.com/library/exchange-online-limits.aspx) <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
 |Stratégies de rétention/suppression manuelle  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
    
 > <sup>1</sup> la gouvernance des données permet aux utilisateurs de créer, publier et appliquer manuellement des étiquettes aux documents; importer des données à l'aide de Drive Expedition ou sur le réseau; et de créer et d'appliquer des stratégies de rétention/suppression entre les charges de travail, les utilisateurs et les groupes. Les stratégies de rétention appliquées aux boîtes aux lettres requièrent Office 365 Entreprise E3 ou E5.
@@ -56,7 +57,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Exchange Online (plan 1)** <br/> |**Exchange Online (plan 2)** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online (plan 1)** <br/> |**SharePoint Online (plan 2)** <br/> |**Skype Entreprise Online (plan 1)** <br/> |**Skype Entreprise Online (plan 2)** <br/> |
+|**Fonctionnalité** <br/> |**Exchange Online Plan 1** <br/> |**Exchange Online Plan 2** <br/> |**Exchange Online Kiosk** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Skype Entreprise Online Plan 1** <br/> |**Skype Entreprise Online Plan 2** <br/> |
 |[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Sécurité de l’application cloud Office 365](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des menaces](https://go.microsoft.com/fwlink/?linkid=845550) comme le filtrage de la messagerie et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -66,11 +67,11 @@ Le [Centre de sécurité &amp; conformité Office 365](https://go.microsoft.com/
 |[Gouvernance des données](https://go.microsoft.com/fwlink/?linkid=863925)<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://go.microsoft.com/fwlink/?linkid=842991)<sup>3</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Recherches et examens](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
+|[Recherche de découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[Exportation de la découverte électronique](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
 |[conservations eDiscovery (y compris les conservations eDiscovery basées sur une requête)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[Découverte électronique avancée](https://go.microsoft.com/fwlink/?linkid=715714)<sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Archivage](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
+|[Archivage](https://technet.microsoft.com/library/exchange-online-limits.aspx)<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Stratégies de rétention/suppression manuelle  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
    
 > <sup>1</sup> la gouvernance des données permet aux utilisateurs de créer, publier et appliquer manuellement des étiquettes aux documents; importer des données à l'aide de Drive Expedition ou sur le réseau; et de créer et d'appliquer des stratégies de rétention/suppression entre les charges de travail, les utilisateurs et les groupes. Les stratégies de rétention appliquées aux boîtes aux lettres requièrent Office 365 Entreprise E3 ou E5. 

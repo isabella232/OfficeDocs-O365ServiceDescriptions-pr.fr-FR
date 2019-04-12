@@ -3,7 +3,7 @@ title: Fonctionnalités d’archivage dans l’archivage Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Les sections suivantes décrivent les fonctionnalités d'archivage de Microsoft Exchange Online Archiving.
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467201"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833841"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Fonctionnalités d’archivage dans l’archivage Exchange Online
 
@@ -37,7 +37,7 @@ Les administrateurs peuvent utiliser le Centre d'administration Exchange (CAE) o
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Déplacer des messages vers l’archivage Exchange Online
 
-Les utilisateurs peuvent glisser-déplacer des messages à partir de fichiers .pst dans l’archive pour faciliter l’accès en ligne. Ils peuvent également déplacer automatiquement des éléments de messagerie de la boîte aux lettres principale vers la boîte aux lettres d'archivage à l'aide de stratégies d'archivage, de manière à réduire la taille et à améliorer les performances de la boîte aux lettres principale. Si ce comportement est différent de celui d'Exchange Hosted Archive, ce qui entraîne la création d'une copie secondaire de chaque message de l'archive, les conditions requises en matière de conservation peuvent être satisfaites dans les deux cas. 
+Les utilisateurs peuvent glisser-déplacer des messages à partir de fichiers .pst dans l’archive pour faciliter l’accès en ligne. Ils peuvent également déplacer automatiquement des éléments de messagerie de la boîte aux lettres principale vers la boîte aux lettres d'archivage à l'aide de stratégies d'archivage, de manière à réduire la taille et à améliorer les performances de la boîte aux lettres principale. 
   
 ### <a name="import-data-to-the-archive"></a>Importer des données dans l’archive
 

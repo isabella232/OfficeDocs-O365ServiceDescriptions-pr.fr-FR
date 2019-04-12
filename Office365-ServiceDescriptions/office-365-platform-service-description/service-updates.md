@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Pour en savoir plus sur les fonctionnalités d'Office 365 qui viennent d'être publiées ou qui sont sur le présent, consultez la feuille de route Microsoft 365.
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825152"
+ms.locfileid: "31833838"
 ---
 # <a name="service-updates"></a>Mises à jour de services
 
@@ -32,7 +32,7 @@ Pour en savoir plus sur les fonctionnalités d'Office 365 qui viennent d'être p
   
 ## <a name="targeted-release"></a>Version ciblée
 
-Avec la version ciblée, votre organisation ou un groupe de vos utilisateurs reçoit un ensemble défini de mises à jour de service environ une semaine avant le début de notre processus de mise en circulation standard. Pour plus d'informations, consultez la rubrique [Configurer les options Standard Release et First Release dans Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Avec la version ciblée, votre organisation ou un groupe de vos utilisateurs reçoit un ensemble défini de mises à jour de service environ une semaine avant le début de notre processus de mise en circulation standard. Pour plus d'informations, consultez la rubrique [Office 365 Release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
   
 ## <a name="update-notifications"></a>Notifications de mise à jour
 
