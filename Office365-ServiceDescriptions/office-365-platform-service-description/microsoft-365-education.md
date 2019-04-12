@@ -2,7 +2,7 @@
 title: Microsoft 365 Éducation
 ms.author: sharik
 author: skjerland
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 1303484ca25d737b1cc5217b6b3dc8a129585dc6
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468171"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825192"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -35,7 +35,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme
 |Office 365 ProPlus  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Oui<sup>3</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Teams  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype Entreprise Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Project Online  <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |N °<sup>5</sup> <br/> |
@@ -97,6 +97,17 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme
 |System Center Endpoint Protection  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Inclut Exchange Online Plan 1 ainsi que des fonctionnalités supplémentaires. > <sup>2</sup> Inclut Exchange Online Plan 2. > <sup>3</sup> Inclut SharePoint Online Plan 1 ainsi que des fonctionnalités supplémentaires. > <sup>4</sup> Inclut SharePoint Online Plan 2. > <sup>5</sup> Project Online Essentials n'est pas inclus, mais peut être ajouté gratuitement à l'offre Office 365 Éducation. > <sup>6</sup> Microsoft 365 Éducation A5 inclut les fonctionnalités Système téléphonique, Audioconférence et Forfait d'appels. Pour implémenter la fonctionnalité Forfait d'appels, l'acquisition d'une offre supplémentaire (soit Forfait d'appels nationaux, soit Forfait d'appels internationaux) est requise. > <sup>7</sup> Pour en savoir plus sur les fonctionnalités Azure Information Protection incluses dans les offres Office 365, accédez à [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). > <sup>8</sup> Inclut Intune. > <sup>9</sup> Les licences d'accès utilisateur et les serveurs sont inclus pour Exchange, SharePoint et Skype Entreprise. > <sup>10</sup> ECAL ou Core CAL, selon la version A3 achetée. Avec A5, les droits ECAL sont inclus. > <sup>11</sup> Pour plus d'informations sur Azure Active Directory, consultez [Qu'est-ce qu'Active Directory ?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). > <sup>12</sup> Office Pro Plus est requis pour appliquer des protections et envoyer des courriers électroniques protégés depuis la version de bureau d'Outlook. 
+> <sup>1</sup> inclut Exchange Online plan 1 ainsi que des fonctionnalités supplémentaires. <br/>
+> <sup>2</sup> inclut Exchange Online plan 2. <br/>
+> <sup>3</sup> inclut SharePoint Online plan 1 et des fonctionnalités supplémentaires. <br/>
+> <sup>4</sup> inclut SharePoint Online plan 2. <br/>
+> <sup>5</sup> Project Online Essentials n'est pas inclus, mais peut être ajouté gratuitement au plan Office 365 éducation. <br/>
+> <sup>6</sup> Microsoft 365 éducation A5 contient les fonctionnalités de système téléphonique, d'audioconférence et de plan d'appel. Pour implémenter la fonctionnalité Forfait d'appels, l’acquisition d’une offre supplémentaire (soit Forfait d'appels nationaux, soit Forfait d'appels internationaux) est requise. <br/>
+> <sup>7</sup> pour en savoir plus sur les fonctionnalités Azure information protection incluses dans les plans Office 365, reportez-vous à la rubrique [Azure information protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
+> <sup>8</sup> inclut Intune. <br/>
+> <sup>9</sup> les serveurs et les licences d'accès client sont inclus pour Exchange, SharePoint et Skype entreprise. <br/>
+> <sup>10</sup> ECAL ou licence d'accès client de base, en fonction de la version de a3 achetée, avec a5, les droits ECAL sont inclus. <br/>
+> <sup>11</sup> pour plus d'informations sur Azure Active Directory, consultez la rubrique [qu'est-ce qu'Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>12</sup> Office Pro plus est requis pour appliquer des protections et envoyer des courriers électroniques protégés à partir du Bureau Outlook. 
   
 

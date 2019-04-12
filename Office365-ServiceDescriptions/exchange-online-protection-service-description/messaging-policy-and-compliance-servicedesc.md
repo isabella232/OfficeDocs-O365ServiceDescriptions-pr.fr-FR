@@ -1,9 +1,9 @@
 ---
-title: Stratégie et conformité de messagerie[ServiceDesc]
+title: Stratégie et conformité de messagerie
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466971"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825182"
 ---
-# <a name="messaging-policy-and-complianceservicedesc"></a>Stratégie et conformité de messagerie[ServiceDesc]
+# <a name="messaging-policy-and-compliance"></a>Stratégie et conformité de messagerie
 
 Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
   
@@ -36,7 +36,7 @@ Les règles de transport vous offrent toute la flexibilité pour appliquer les s
 
 La journalisation d'audit vous permet de suivre les modifications apportées par les administrateurs à votre organisation. Ces rapports vous aident à satisfaire les exigences relatives aux réglementations, à la conformité et aux litiges. Pour plus d'informations, consultez la rubrique [Rapports d'audit dans EOP](https://go.microsoft.com/fwlink/p/?LinkId=314258).
   
-## <a name="data-loss-prevention-dlp"></a>Prévention des pertes de données (DLP)
+## <a name="data-loss-prevention-dlp"></a>Protection contre la perte de données (DLP)
 <a name="BKMK_datalossprevention"> </a>
 
 Non disponible pour les clients EOP autonomes. La protection contre la perte de données (DLP) vous aide à identifier, à surveiller et à protéger des informations sensibles de votre organisation grâce à l'analyse approfondie du contenu. Il s'agit d'une fonctionnalité de plus en plus importante pour les systèmes de messagerie d'entreprise car certains messages électroniques vitaux contiennent des données sensibles qui doivent être protégées. La fonctionnalité de protection contre la perte de données vous permet de protéger les données sensibles sans affecter la productivité de vos collaborateurs.
@@ -80,6 +80,9 @@ Le chiffrement de messages Office 365, qui fait partie d'Azure information prote
 |Chiffrement de messages Office 365  <br/> |Oui<sup>4</sup> <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Les actions et les conditions disponibles diffèrent entre EOP et Exchange Online. Pour obtenir une liste des conditions et des actions disponibles dans EOP, consultez les rubriques [Conditions de règle de transport (prédicats)](https://go.microsoft.com/fwlink/p/?LinkId=320392) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320393). Pour obtenir une liste des conditions et des actions disponibles dans Exchange Online, consultez les rubriques [Conditions de règle de flux de messagerie](https://go.microsoft.com/fwlink/p/?LinkId=320394) et [Actions de règle de flux de messagerie](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. > <sup>3</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services. > <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l'expérience utilisateur, outre le complément Azure information protection, Office 365 proPlus doit être acheté. 
+> <sup>1</sup> Les actions et les conditions disponibles diffèrent entre EOP et Exchange Online. Pour obtenir une liste des conditions et des actions disponibles dans EOP, consultez les rubriques [Conditions de règle de transport (prédicats)](https://go.microsoft.com/fwlink/p/?LinkId=320392) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320393). Pour obtenir une liste des critères et des actions disponibles dans Exchange Online, consultez les rubriques [Critères de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320394) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320395). <br/>
+> <sup>2</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. <br/>
+> <sup>3</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services. <br/>
+> <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l'expérience utilisateur, outre le complément Azure information protection, Office 365 proPlus doit être acheté. <br/>
   
 

@@ -3,7 +3,7 @@ title: Politique de confidentialité, sécurité et transparence
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 01/02/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: 044f8e1d45f359ca9851f72259791bc38857ea8a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467581"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825212"
 ---
 # <a name="privacy-security-and-transparency"></a>Politique de confidentialité, sécurité et transparence
 
@@ -27,19 +27,19 @@ ms.locfileid: "30467581"
   
 La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir [Centre de gestion de la confidentialité Microsoft](http://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
-## <a name="privacy"></a>Politique de confidentialité
+## <a name="privacy"></a>Confidentialité
 
 Pour découvrir comment Microsoft Office 365 protège la confidentialité de vos données, consultez la rubrique relative à la [confidentialité](http://go.microsoft.com/fwlink/?LinkID=717953&amp;clcid=0x409). 
   
 Pour connaître les procédures spécifiques que les administrateurs Entreprise, Business, Gouvernement et Éducation peuvent entreprendre pour configurer les paramètres de confidentialité Office 365, voir [Options de confidentialité avancées pour les administrateurs](https://go.microsoft.com/fwlink/p/?LinkID=285202).
   
-Pour plus d'informations sur la sécurité et la confidentialité des autres services Microsoft, dont Office 365 ProPlus, voir [Services en ligne auxquels le Centre de gestion de la confidentialité s'applique](https://go.microsoft.com/fwlink/p/?LinkID=281962).
+Pour plus d'informations sur la sécurité et la confidentialité des autres services Microsoft, dont Office 365 ProPlus, voir [Services en ligne auxquels le Centre de gestion de la confidentialité s'applique](https://www.microsoft.com/trustcenter/default.aspx).
   
 ## <a name="security"></a>Sécurité
 
 Pour savoir comment Microsoft garantit les services Office 365 de manière fiable et sécurisée, consultez la rubrique relative à la [Sécurité](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).
   
-## <a name="transparency"></a>Transparency
+## <a name="transparency"></a>Transparence
 
 En tant que client Office 365, vous pouvez découvrir l'emplacement de stockage de vos données, les personnes de Microsoft y ayant accès et ce que nous faisons en interne avec ces informations. Pour plus d'informations, consultez la rubrique relative à la [transparence](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
   
@@ -59,6 +59,6 @@ Office 365 Advanced Threat Protection contribue à protéger votre organisation 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
   
 

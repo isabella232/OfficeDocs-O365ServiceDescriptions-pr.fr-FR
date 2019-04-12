@@ -3,7 +3,7 @@ title: Clients et appareils mobiles
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467611"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825202"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients et appareils mobiles
 
@@ -40,7 +40,7 @@ Pour plus d'informations sur les clients Outlook pris en charge par Exchange 201
   
 ## <a name="outlook-on-the-web"></a>Outlook sur le web
 
-Outlook sur le web est une version du programme de messagerie électronique Outlook basée sur le web, utilisée avec Exchange Online. Il permet aux utilisateurs d'avoir accès à leur messagerie électronique, à leur calendrier et à leurs contacts par le biais d'un navigateur web, quel que soit le lieu de connexion à Internet. Pour plus d'informations sur les navigateurs pris en charge, consultez la rubrique [Navigateurs pris en charge dans Outlook sur le web](https://go.microsoft.com/fwlink/p/?LinkId=287032).
+Outlook sur le web est une version du programme de messagerie électronique Outlook basée sur le web, utilisée avec Exchange Online. Il permet aux utilisateurs d'avoir accès à leur messagerie électronique, à leur calendrier et à leurs contacts par le biais d'un navigateur web, quel que soit le lieu de connexion à Internet. Pour plus d'informations sur les navigateurs pris en charge, consultez la rubrique [Navigateurs pris en charge dans Outlook sur le web](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 Outlook sur le web est proposé sous deux versions client, pouvant toutes les deux être utilisées avec Exchange Online :
   

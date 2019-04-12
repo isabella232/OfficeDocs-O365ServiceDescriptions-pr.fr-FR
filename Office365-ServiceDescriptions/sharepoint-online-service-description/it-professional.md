@@ -3,7 +3,7 @@ title: Informaticiens
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur SharePoint Server 2013 Microsoft, ce service hébergé convient idéalement au travail sur des projets, au stockage de données et de documents à un emplacement centralisé et au partage d'informations. Les fonctionnalités SharePoint suivantes aident les professionnels de l'informatique à sécuriser et à gérer l'environnement de leur organisation SharePoint.
-ms.openlocfilehash: c0033c22040f517d51f9b38bd2d2c926d319699f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467591"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825162"
 ---
 # <a name="it-professional"></a>Informaticiens
 
@@ -34,7 +34,7 @@ S'il y a dans votre société des utilisateurs dans un environnement local Activ
 
 Non disponible pour les utilisateurs SharePoint Online. Les utilisateurs SharePoint Server 2013 peuvent configurer le mappage des accès de substitution pour faire correspondre les requêtes lorsque l'URL d'une requête sur le Web reçue par Internet Information Services (IIS) est différente de l'URL tapée par un utilisateur.
   
-## <a name="anti-malware-protection"></a>Protection contre les programmes malveillants
+## <a name="anti-malware-protection"></a>Protection anti-programme malveillant
 <a name="bkmk_AntiMalware"> </a>
 
 SharePoint Online protège les fichiers téléchargés et enregistrés dans les bibliothèques de documents contre les programmes malveillants. Cette protection est assurée par le moteur du logiciel anti-programme malveillant de Microsoft, qui est également intégré dans Exchange. Ce service anti-programme malveillant fonctionne sur tout contenu frontal SharePoint Online.
@@ -45,9 +45,9 @@ SharePoint Online protège les fichiers téléchargés et enregistrés dans les 
 Non disponible pour les clients SharePoint Online. Les clients SharePoint Server 2013 configurent l'authentification basée sur les revendications pour les applications Web qui prennent en charge l'authentification serveur/serveur SharePoint Server 2013 et l'authentification des applications. En savoir plus sur [l'authentification basée sur les revendications](https://go.microsoft.com/fwlink/p/?LinkId=270982).
   
 ## <a name="data-loss-prevention"></a>Protection contre la perte de données
-<a name="bkmk_DLP"> </a>
+<a name="bkmk_DLP"> </a> 
 
-La protection contre la perte de données (DLP) identifie les données sensibles stockées dans SharePoint Online. L'identification de données sensibles peut vous aider à réduire les risques auxquels est exposée votre organisation. Vous pouvez rechercher les types d'informations sensibles de votre organisation à l'aide du centre de découverte électronique (eDiscovery). Les données sensibles détectées sont répertoriées, stockées et seuls les utilisateurs approuvés peuvent y accéder dans le centre de découverte électronique (eDiscovery). Les résultats de la classification peuvent être facilement exportés. Pour en savoir plus sur les types de données sensibles, voir [Inventaire des types d'informations sensibles](https://technet.microsoft.com/en-us/library/jj150541%28v=exchg.150%29.aspx). En savoir plus sur l'[utilisation de la DLP dans SharePoint Online pour identifier les données sensibles stockées sur les sites](https://technet.microsoft.com/library/dn798914.aspx).
+La protection contre la perte de données (DLP) identifie les données sensibles stockées dans SharePoint Online. L'identification de données sensibles peut vous aider à réduire les risques auxquels est exposée votre organisation. Vous pouvez rechercher les types d'informations sensibles de votre organisation à l'aide du centre de découverte électronique (eDiscovery). Les données sensibles détectées sont répertoriées, stockées et seuls les utilisateurs approuvés peuvent y accéder dans le centre de découverte électronique (eDiscovery). Les résultats de la classification peuvent être facilement exportés. Pour en savoir plus sur les types de données sensibles, voir [Inventaire des types d'informations sensibles](https://technet.microsoft.com/library/jj150541%28v=exchg.150%29.aspx). En savoir plus sur l'[utilisation de la DLP dans SharePoint Online pour identifier les données sensibles stockées sur les sites](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp).
   
 ## <a name="encryption-at-rest"></a>Chiffrement des données stockées
 <a name="bkmk_EncryptionAtRest"> </a>
@@ -59,7 +59,7 @@ Il existe deux niveaux de chiffrement des données stockées (data at rest) pour
 
 Non disponible pour les clients SharePoint Online. Les collections de sites SharePoint Server 2013 peuvent avoir leur propre en-tête d'hôte unique. La création d'une collection de sites d'en-tête d'hôte permet aux organisations d'héberger plusieurs collections de sites avec des URL de redirection vers un microsite plus facile à mémoriser.
   
-## <a name="mobile-device-management-for-office-365"></a>Gestion des appareils mobiles pour Office 365
+## <a name="mobile-device-management-for-office-365"></a>Gestion des périphériques mobiles pour Office 365
 <a name="bkmk_MDM"> </a>
 
 La Gestion des périphériques mobiles (GPM) pour Office 365 vous permet de définir des règles d'accès et des stratégies de sécurité des appareils, et de réinitialiser des appareils mobiles en cas de perte ou de vol. Vous pouvez utiliser la GPM pour Office 365 pour gérer de nombreux types d'appareils mobiles (Windows Phone, Android, iPhone, iPad, etc.). Pour gérer les appareils mobiles utilisés par des membres de votre organisation, chaque utilisateur doit disposer d'une licence Office 365 en vigueur et chaque appareil doit être inscrit dans la GPM pour Office 365. 
