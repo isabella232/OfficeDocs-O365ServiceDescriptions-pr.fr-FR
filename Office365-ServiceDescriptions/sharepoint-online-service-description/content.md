@@ -3,7 +3,7 @@ title: Contenu
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de contenu suivantes rendent Enterprise Content Management (ECM) accessible à tous les types d'utilisateurs. Ce système combine une solution de gestion de contenu standard, des fonctionnalités sociales et un puissant outil de recherche.
-ms.openlocfilehash: cfa36cfa492b1abf7e98be2b259fcd267d7d7930
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467511"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981678"
 ---
 # <a name="content"></a>Contenu
 
@@ -29,7 +29,7 @@ SharePoint Online est un ensemble d'outils et de technologies Web qui permettent
 ## <a name="accessibility-standards-support"></a>Prise en charge des normes d'accessibilité
 <a name="bkmk_AccessibilitySS"> </a>
 
-La plupart des éléments de l'interface utilisateur (IU) SharePoint, comme les liens, les contrôles de formulaire et les boutons sont conçus pour utiliser Microsoft Active Accessibility (MSAA). MSA permet aux personnes souffrant d'un handicap d'interagir avec du contenu en utilisant des technologies d'assistance, comme un lecteur d'écran. En savoir plus sur les [fonctionnalités d'accessibilité](https://go.microsoft.com/fwlink/?LinkId=270947).
+La plupart des éléments de l'interface utilisateur (IU) SharePoint, comme les liens, les contrôles de formulaire et les boutons sont conçus pour utiliser Microsoft Active Accessibility (MSAA). MSA permet aux personnes souffrant d'un handicap d'interagir avec du contenu en utilisant des technologies d'assistance, comme un lecteur d'écran. En savoir plus sur les [fonctionnalités d'accessibilité](https://www.microsoft.com/accessibility/features?activetab=pivot_1%3aprimaryr2).
   
 ## <a name="asset-library-enhancementsvideo-support"></a>Améliorations de la bibliothèque de biens/prise en charge vidéo
 <a name="bkmk_AssetLibraryEnhancementsViseoSupport"> </a>
@@ -84,17 +84,17 @@ En mode Lecture, Word Online intègre désormais une option permettant aux organ
 ## <a name="ediscovery-search"></a>Recherche de découverte électronique
 <a name="bkmk_eDiscovery_Search"> </a>
 
-La recherche de découverte électronique permet aux utilisateurs de rechercher des informations stockées électroniquement (ESI) qui peuvent être utilisées comme preuve pour la conformité et le soutien juridique. Le contenu pouvant faire l'objet de recherches inclut le contenu structuré, comme les documents et les éléments de liste, ainsi que les blogs, les wikis, les flux d'actualités et le contenu des boîtes aux lettres Exchange. Pour pouvoir être découvert, le contenu doit être indexé par la recherche. Pour plus d'informations, consultez la rubrique [Créer et exécuter des requêtes eDiscovery](https://go.microsoft.com/fwlink/?LinkId=402985).
+La recherche de découverte électronique permet aux utilisateurs de rechercher des informations stockées électroniquement (ESI) qui peuvent être utilisées comme preuve pour la conformité et le soutien juridique. Le contenu pouvant faire l'objet de recherches inclut le contenu structuré, comme les documents et les éléments de liste, ainsi que les blogs, les wikis, les flux d'actualités et le contenu des boîtes aux lettres Exchange. Pour pouvoir être découvert, le contenu doit être indexé par la recherche. Pour plus d'informations, consultez la rubrique [Créer et exécuter des requêtes eDiscovery](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center).
   
 ## <a name="ediscovery-hold"></a>Mise en suspens de la découverte électronique
 <a name="bkmk_eDiscovery_Hold"> </a>
 
-Mettre en suspens signifie préserver une copie du contenu d'origine en cas de modification ou de suppression par un utilisateur. Des mises en suspens peuvent être appliquées au contenu de sites SharePoint (y compris de sites OneDrive Entreprise) et de boîtes aux lettres Exchange (y compris des conversations Skype Entreprise archivées). Une mise en suspens est utilisée pour conserver le contenu tel qu'il était lors de la mise en suspens. Lorsque des utilisateurs suspendent un site ou une boîte aux lettres, le contenu reste à son emplacement d'origine. Pour en savoir plus, consultez la rubrique [Suspendre des sources de contenu et ajouter du contenu à un cas de découverte électronique (eDiscovery)](https://go.microsoft.com/fwlink/?LinkId=270964).
+Mettre en suspens signifie préserver une copie du contenu d'origine en cas de modification ou de suppression par un utilisateur. Des mises en suspens peuvent être appliquées au contenu de sites SharePoint (y compris de sites OneDrive Entreprise) et de boîtes aux lettres Exchange (y compris des conversations Skype Entreprise archivées). Une mise en suspens est utilisée pour conserver le contenu tel qu'il était lors de la mise en suspens. Lorsque des utilisateurs suspendent un site ou une boîte aux lettres, le contenu reste à son emplacement d'origine. Pour en savoir plus, consultez la rubrique [Suspendre des sources de contenu et ajouter du contenu à un cas de découverte électronique (eDiscovery)](https://docs.microsoft.com/sharepoint/governance/add-content-to-a-case-and-place-sources-on-hold-in-the-ediscovery-center).
   
 ## <a name="ediscovery-export"></a>Exportation de la découverte électronique
 <a name="bkmk_eDiscovery_export"> </a>
 
-Lorsque les utilisateurs sont prêts à remettre le contenu de la découverte électronique à une autorité ou s'ils souhaitent l'utiliser pour un autre programme juridique, ils peuvent l'exporter à partir du Centre de découverte électronique. Lorsque le contenu est exporté, il est envoyé dans un format EDRM standard qui peut être utilisé par d'autres programmes de découverte électronique. Un manifeste XML de modèle de référence de découverte électronique est inclus dans les résultats de la recherche pour fournir des métadonnées sur les éléments exportés. Pour plus d'informations, consultez la rubrique [Exporter du contenu eDiscovery et créer des rapports](https://go.microsoft.com/fwlink/?LinkId=402986).
+Lorsque les utilisateurs sont prêts à remettre le contenu de la découverte électronique à une autorité ou s'ils souhaitent l'utiliser pour un autre programme juridique, ils peuvent l'exporter à partir du Centre de découverte électronique. Lorsque le contenu est exporté, il est envoyé dans un format EDRM standard qui peut être utilisé par d'autres programmes de découverte électronique. Un manifeste XML de modèle de référence de découverte électronique est inclus dans les résultats de la recherche pour fournir des métadonnées sur les éléments exportés. Pour plus d'informations, consultez la rubrique [Exporter du contenu eDiscovery et créer des rapports](https://docs.microsoft.com/office365/securitycompliance/export-case-data-in-advanced-ediscovery).
   
 ## <a name="external-sharing-external-access"></a>Partage externe : accès externe
 <a name="bkmk_ExternalSharingExternalAccess"> </a>
@@ -124,7 +124,7 @@ Les rendus d'image permettent aux organisations de disposer d'images sources de 
 ## <a name="information-rights-management-irm"></a>Gestion des droits relatifs à l'information (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-L'IRM SharePoint Online utilise Azure information protection, une technologie de protection des informations dans Office 365. La protection IRM est appliquée au niveau de la liste SharePoint et de bibliothèque. En savoir plus sur [IRM dans SharePoint Online](https://go.microsoft.com/fwlink/?LinkId=270963).
+L'IRM SharePoint Online utilise Azure information protection, une technologie de protection des informations dans Office 365. La protection IRM est appliquée au niveau de la liste SharePoint et de bibliothèque. En savoir plus sur [IRM dans SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
   
 ## <a name="managed-metadata-service"></a>Service de métadonnées gérées
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -154,7 +154,7 @@ Par défaut, Office Online est en consultation seule. Ce mode d'affichage est fo
 ## <a name="office-web-apps-server-integration"></a>Intégration d'Office Web Apps Server
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
 
-Ne concerne pas les clients SharePoint Online. Dans SharePoint Server 2010, Office Web Apps était une application de service SharePoint. Pour SharePoint Server 2013, il existe un nouveau produit serveur Office, Office Web Apps Server. Une seule batterie de serveurs Office Web Apps permet de gérer les utilisateurs qui accèdent aux fichiers Office via SharePoint Server 2013, Exchange Server 2013, des dossiers partagés et des sites web. Ceci vous permet de déployer et de gérer la version en ligne d'Office dans un environnement local. En savoir plus sur l'[intégration du serveur Office Web Apps](https://go.microsoft.com/fwlink/?LinkId=270911).
+Ne concerne pas les clients SharePoint Online. Dans SharePoint Server 2010, Office Web Apps était une application de service SharePoint. Pour SharePoint Server 2013, il existe un nouveau produit serveur Office, Office Web Apps Server. Une seule batterie de serveurs Office Web Apps permet de gérer les utilisateurs qui accèdent aux fichiers Office via SharePoint Server 2013, Exchange Server 2013, des dossiers partagés et des sites web. Ceci vous permet de déployer et de gérer la version en ligne d'Office dans un environnement local. En savoir plus sur l'[intégration du serveur Office Web Apps](https://docs.microsoft.comskypeforbusiness/help-topics/help-topobld/add-office-web-apps-server).
   
 ## <a name="preservation-hold-library"></a>Bibliothèque de conservation
 <a name="bkmk_PreservationHoldLibrary"> </a>
@@ -179,7 +179,7 @@ SharePoint vous permet de gérer des enregistrements dans une archive, ou locale
 ## <a name="recycle-bin-sharepoint-admin-center"></a>Corbeille (centre d'administration SharePoint)
 <a name="bkmk_RecycleBinadmincenter"> </a>
 
-Les administrateurs SharePoint Online peuvent restaurer une collection de sites supprimée en utilisant le cendre d'administration SharePoint. Pour plus d'informations, consultez la rubrique [Restaurer une collection de sites supprimée](https://go.microsoft.com/fwlink/p/?LinkId=286114). 
+Les administrateurs SharePoint Online peuvent restaurer une collection de sites supprimée en utilisant le cendre d'administration SharePoint. Pour plus d'informations, consultez la rubrique [Restaurer une collection de sites supprimée](https://docs.microsoft.com/sharepoint/sites/delete-and-restore-site-collections). 
   
 ## <a name="recycle-bin-site-collection"></a>Corbeille (collection de sites)
 <a name="bkmk_RecycleBinSC"> </a>
