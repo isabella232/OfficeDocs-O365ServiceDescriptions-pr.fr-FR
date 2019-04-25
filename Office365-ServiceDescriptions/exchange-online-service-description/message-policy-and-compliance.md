@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467251"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246540"
 ---
 # <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
@@ -128,7 +128,7 @@ En outre, vous pouvez utiliser la conservation inaltérable pour effectuer les a
   
 Pour plus d'informations, consultez la rubrique [Conservation inaltérable et conservation pour litige](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
-## <a name="in-place-ediscovery"></a>Découverte électronique locale
+## <a name="in-place-ediscovery"></a>eDiscovery en place
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online permet aux utilisateurs d'explorer le contenu des boîtes aux lettres d'une organisation à l'aide d'une interface Web. Les administrateurs ou les responsables de la conformité et de la sécurité qui sont autorisés à effectuer des recherches de découverte électronique locale (par affectation) peuvent rechercher dans les messages électroniques, les pièces jointes, les rendez-vous de calendrier, les tâches, les contacts et d'autres éléments. La découverte électronique locale permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le destinataire, le type de message, la date d'envoi/de réception, la copie carbone/copie carbone invisible ainsi que la syntaxe KQL. Les résultats de la recherche incluent également des éléments du dossier Éléments supprimés s'ils correspondent à la requête de recherche.

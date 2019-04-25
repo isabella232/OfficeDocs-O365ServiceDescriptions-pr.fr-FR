@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467791"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245050"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans l'archivage Exchange Online
 
@@ -25,7 +25,7 @@ ms.locfileid: "30467791"
 
 Les sections suivantes décrivent les fonctionnalités de conformité de Microsoft Archivage Exchange Online.
   
-### <a name="retention-policies"></a>Stratégies de rétention
+### <a name="retention-policies"></a>Stratégies de conservation
 <a name="BKMK_Retentionpolicies"> </a>
 
 Archivage Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également fournir aux utilisateurs un menu de stratégies de rétention et leur permettre d'appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l'aide d'Outlook 2010 ou version ultérieure ou d'Outlook Web App. Dans l'Archivage Exchange Online, les administrateurs gèrent les stratégies de rétention à partir de l'infrastructure sur site.
@@ -72,7 +72,7 @@ Pour plus d'informations, consultez la rubrique [Conservation inaltérable et co
 > [!NOTE]
 > Le quota par défaut pour le dossier Éléments récupérables est de 100 Go pour les utilisateurs de l'Archivage Exchange Online. 
   
-### <a name="in-place-ediscovery"></a>Découverte électronique locale
+### <a name="in-place-ediscovery"></a>eDiscovery en place
 <a name="BKMK_In_placehold"> </a>
 
 L'Archivage Exchange Online prend en charge la fonction eDiscovery inaltérable pour rechercher les contenus des boîtes aux lettres dans une organisation. Avec le Centre d'administration Exchange ou Windows PowerShell à distance à partir d'un serveur Exchange 2013 local, les administrateurs ou les gestionnaires de découverte autorisés peuvent rechercher dans une boîte aux lettres toutes sortes d'éléments, notamment des e-mails, des pièces jointes, des rendez-vous, des tâches et des contacts. La fonction eDiscovery inaltérable vous permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le récepteur, le type de message, la date d'envoi, la date de réception, la copie carbone et la copie carbone invisible, ainsi que la syntaxe Keyword Query Language (KQL). Pour en savoir plus, consultez la rubrique [Découverte électronique locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).

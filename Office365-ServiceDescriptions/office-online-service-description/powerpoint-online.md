@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint Online (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft Office 365 ayant Office Online peuvent afficher, créer et modifier des fichiers, où qu'ils soient.
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467341"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246940"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -122,7 +122,7 @@ PowerPoint Online prend en charge huit transitions et des animations 37. Pour un
 
 Les en-têtes et pieds de page, notamment la date et les numéros des diapositives, ne peuvent pas être insérés, modifiés ou supprimés dans PowerPoint Online, mais PowerPoint Online les affichent comme prévu. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Liens hypertexte
 <a name="bkmk_Hyperlinks"> </a>
 
 Insérer, modifier et suivre des liens hypertexte. Les liens de signet fonctionnent mais ne peuvent pas être modifiés dans PowerPoint Online.

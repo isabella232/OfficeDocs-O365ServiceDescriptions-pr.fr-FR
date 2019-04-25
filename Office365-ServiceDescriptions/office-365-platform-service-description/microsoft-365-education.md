@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
 ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825192"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247250"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 

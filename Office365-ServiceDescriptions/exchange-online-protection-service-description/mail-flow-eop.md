@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Pour la plupart des organisations qui utilisent Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s'agit de la configuration la plus simple et signifie qu'Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres en local. Exchange Online Protection (EOP) vous permet de le faire et de traiter les messages antivirus et anti-courrier indésirable dans le Cloud. Pour plus d'informations et pour acheter EOP, accédez à Exchange Online Protection.
 ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467571"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33244910"
 ---
 # <a name="mail-floweop"></a>Flux de messagerie[EOP]
 
@@ -43,7 +43,7 @@ Pour plus d'informations, voir [Configurer des connecteurs pour un flux de messa
 
 Vous pouvez ajouter l'adresse IP d'un partenaire de confiance à une liste verte pour être certain que les messages qui vous sont envoyés ne sont pas considérés comme du courrier indésirable. Pour ce faire, vous pouvez utiliser la liste d'adresses IP autorisées du filtre de connexion. Pour plus d'informations, consultez la rubrique relative à la [configuration de la stratégie de filtre de connexion](https://go.microsoft.com/fwlink/p/?LinkID=287108).
   
-## <a name="conditional-mail-routing"></a>Conditional mail routing
+## <a name="conditional-mail-routing"></a>Routage du courrier conditionnel
 <a name="BKMK_conditionalmailrouting"> </a>
 
 Vous pouvez configurer un connecteur avec une règle de transport afin de router le courrier vers un site spécifique en fonction de certaines conditions. Pour plus d'informations, consultez la rubrique [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).

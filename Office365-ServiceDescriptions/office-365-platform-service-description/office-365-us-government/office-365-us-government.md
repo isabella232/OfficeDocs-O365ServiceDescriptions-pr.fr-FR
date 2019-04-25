@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans pour le gouvernement des États-Unis Office 365 (orOffice 365). Cette section fournit une vue d'ensemble des fonctionnalités propres à Office 365 pour le gouvernement américain. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
 ms.openlocfilehash: 6d10de59be0f2f8e187933d47d24a4108c69478a
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825222"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247080"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -208,7 +208,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**[Gestion des comptes d'utilisateur](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
 |Identité de nuage  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Identités fédérées (authentification unique)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|	Authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Authentification par facteur de téléphone  <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui  <br/> |Oui<sup>9</sup> <br/> |
 |Configuration du bureau Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des utilisateurs avec Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de recherche suivantes aident les personnes à trouver les informations dont elles ont besoin pour mener à bien leur travail. La recherche est une combinaison de pertinence, d'affinement et de comportement social dans l'expérience de recherche.
 ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467631"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246620"
 ---
 # <a name="search"></a>Recherche
 
@@ -54,7 +54,7 @@ Les nouveaux affinements graphiques permettent de filtrer de manière plus visue
 
 Dans un déploiement hybride de SharePoint, le contenu des résultats de recherche peut provenir de SharePoint Online et de sites locaux SharePoint Server 2013. Pour plus d'informations plus sur un environnement hybride SharePoint, consultez la rubrique [Environnement hybride pour SharePoint Server 2013](https://go.microsoft.com/fwlink/?LinkId=275765).
   
-## <a name="manage-search-schema"></a>Gestion du schéma de recherche
+## <a name="manage-search-schema"></a>Gérer le schéma de recherche
 <a name="bkmk_manage_search_schema"> </a>
 
 Lorsque des personnes recherchent du contenu sur vos sites SharePoint, c'est le contenu de votre index de recherche qui détermine les résultats. L'index de recherche contient les informations de tous les documents et pages de votre site et est créé à partir de l'analyse du contenu de votre site SharePoint. Le schéma de recherche permet au robot de déterminer le contenu et les métadonnées à sélectionner, ainsi que de les indexer. En modifiant le schéma de recherche, vous pouvez créer une expérience de recherche personnalisée pour les utilisateurs. En savoir plus sur la [gestion du schéma de recherche dans SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).

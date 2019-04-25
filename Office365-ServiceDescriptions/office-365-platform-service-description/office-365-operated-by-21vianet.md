@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
 ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955803"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247304"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
@@ -356,7 +356,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 |**[Destinataires](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Business Essentials géré par 21Vianet** <br/> |**Office 365 Business géré par 21Vianet** <br/> |**Office 365 Business Premium géré par 21Vianet** <br/> |**Office 365 A1 géré par 21Vianet** <br/> |**Office 365 Entreprise E1 géré par 21Vianet** <br/> |**Office 365 Entreprise E3 géré par 21Vianet** <br/> |**Office 365 Entreprise F1 géré par 21Vianet** <br/> |
 |Alertes de capacité  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier non trié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|MailTips  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
+|Infos-courrier  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
 |Accès délégué  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Règles de boîte de réception  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Comptes connectés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |

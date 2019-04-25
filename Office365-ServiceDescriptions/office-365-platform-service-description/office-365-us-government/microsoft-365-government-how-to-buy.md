@@ -10,11 +10,11 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 8cdba6f181613cd1bb9e3c268f240d9e4dd516f0
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "30052529"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247170"
 ---
 ---
 
@@ -49,13 +49,14 @@ Microsoft 365 le gouvernement est conçu de manière unique pour répondre aux e
 
 **Communauté exclusive.** Les centres de données gouvernementaux ne sont accessibles qu'aux agences gouvernementales ou aux services, ou aux entreprises commerciales qui ont été autorisées à conserver des informations et à les traiter au nom du gouvernement américain.
 
-**Personnel filtré.** L'accès au contenu client de votre organisation est limité au personnel de Microsoft à l'écran qui est citoyen américain et qui a passé des vérifications de fond requises. Audits tiers. L'ensemble de l'infrastructure est contrôlé par un auditeur tiers certifié qui fournit un rapport d'évaluation de sécurité ou une lettre d'attestation utilisée par les agences fédérales pour émettre une autorisation d'utilisation (ATO). 
+**Personnel filtré.** L'accès au contenu client de votre organisation est limité au personnel de Microsoft à l'écran qui est citoyen américain et qui a passé des vérifications de fond requises.
+Audits tiers. L'ensemble de l'infrastructure est contrôlé par un auditeur tiers certifié qui fournit un rapport d'évaluation de sécurité ou une lettre d'attestation utilisée par les agences fédérales pour émettre une autorisation d'utilisation (ATO). 
 
 **Stockage de contenu.** Les données sont stockées dans les États-Unis continental avec une infrastructure conforme. Le tableau suivant récapitule les conditions et engagements de Microsoft 365 pour les administrations américaines.
 
 |||
 |:----------|:----------------------------------|:---------|
-|**Offres** <br/> |**Engagements ** <br/> |
+|**Offres** <br/> |**Engagements** <br/> |
 |Microsoft 365 gouvernement GCC  <br/> |FedRamp modérée, CJIS, IRS 1075, DISA SRG L2  <br/> |Oui  <br/> |
 |Microsoft 365 gouvernement GCC High  <br/> |Contrôles FedRamp, ITAR, DFARS, DOD SRG L4 <br/> |Oui  <br/> |
 |Microsoft 365 Administration DoD  <br/> |DISA SRG N5  <br/> |Oui  <br/> |
@@ -108,7 +109,7 @@ Le tableau suivant présente les options qui peuvent répondre aux besoins de ch
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 | <br/> |**GCC** <br/> | <br/> |**GCC High** <br/> |**DoD** <br/> |
-|**Version cliente** <br/> |Gov pour le gouvernement, GOVCON pour le Midmarket||GCC-High|DOD| 
+|**Référence** <br/> |Gov pour le gouvernement, GOVCON pour le Midmarket||GCC-High|DOD| 
 |**Canal**   <br/> |EA (LSP), AOS-G, MPSA, Web direct, CSP <br/> |  |EA (LSP), AOS-G     <br/> |AE <br/> |
 
 ## <a name="how-to-buy-microsoft-365-government"></a>Comment acheter le gouvernement Microsoft 365?

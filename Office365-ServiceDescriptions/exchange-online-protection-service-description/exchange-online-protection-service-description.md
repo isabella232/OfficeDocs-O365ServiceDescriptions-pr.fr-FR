@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Cet article fournit la liste des plans qui incluent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités disponibles dans ces plans.
 ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955763"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246110"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service de protection Exchange Online
 

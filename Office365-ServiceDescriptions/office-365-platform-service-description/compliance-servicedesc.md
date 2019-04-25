@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 est conforme aux réglementations et aux normes du secteur, et est conçu dans l'optique de vous aider à répondre aux exigences réglementaires dans le cadre de vos activités professionnelles. Pour plus d'informations, consultez la rubrique Offres relatives à la conformité.
 ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825142"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246760"
 ---
 # <a name="compliance"></a>Conformité
 

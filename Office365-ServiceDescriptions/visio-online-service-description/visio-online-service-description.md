@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Avec Visio Online, vous pouvez afficher, modifier et partager des diagrammes Visio sur le web. Commencez par un diagramme simple pour exprimer des idées courantes, par exemple pour décrire un plan, formuler une proposition ou énumérer une suite d'étapes pour un processus. Vous pouvez facilement créer des diagrammes courants et les personnaliser à l'aide d'une large gamme de formes. Les utilisateurs de Visio Online peuvent collaborer en partageant des diagrammes et en insérant des commentaires dans des fichiers chargés sur SharePoint Online ou OneDrive Entreprise Online.
 ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466501"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246830"
 ---
 # <a name="visio-online-service-description"></a>Description du service Visio Online
 

@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l'Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l'Union européenne (UE) et à l'Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
 ms.openlocfilehash: 133752b5e9b18c78f8804c99195836eb45af6ed7
-ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "30955823"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247320"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -265,7 +265,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Outlook pour Android<sup>11</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**Enterprise Value** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
+|**Enterprise Value** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Oui  <br/> |Oui<sup>8</sup> <br/> |
 |Mise en service automatisée du compte d'utilisateur  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
 |Interface utilisateur multilingue  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -364,7 +364,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |**[Destinataires](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Entreprise E1** <br/> |**Office 365 Germany Entreprise E3** <br/> |**Office 365 Germany Entreprise E4** <br/> |**Office 365 Germany Entreprise K1** <br/> |
 |Alertes de capacité  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier non trié<sup>3</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|MailTips  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Infos-courrier  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Accès délégué  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Règles de boîte de réception  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Comptes connectés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |

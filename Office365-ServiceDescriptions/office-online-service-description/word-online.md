@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word Online (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur Web, dans laquelle vous pouvez utiliser des documents directement sur le site Web où le document est stocké.
 ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467301"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246950"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -146,7 +146,7 @@ Vous pouvez utiliser des valeurs prédéfinies pour appliquer des effets spécia
 
 Insérez un en-tête et un pied de page dans votre document dans Word Online et dans l'application Word de bureau. Vous avez également la possibilité d'appliquer des en-têtes et des pieds de page à toutes les pages sauf la première page de votre document. Pour en savoir plus sur l'utilisation des en-têtes et des pieds de page dans Word Online, voir [Nouveautés de Word Online](https://go.microsoft.com/fwlink/?LinkId=389520).
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Liens hypertexte
 <a name="bkmk_Hyperlinks"> </a>
 
 Word Online vous permet de créer facilement des liens vers des signets à l'intérieur d'un document et de définir une info-bulle qui s'affiche lorsque vous pointez le curseur sur le lien. En savoir plus sur les [liens hypertexte dans Word Online](https://go.microsoft.com/fwlink/p/?LinkId=271863).

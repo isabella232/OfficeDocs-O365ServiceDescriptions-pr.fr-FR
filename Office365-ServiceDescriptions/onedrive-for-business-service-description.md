@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive Entreprise est un espace de stockage en ligne dans le cloud, qui vous est fourni par votre entreprise. Il vous permet de stocker et de protéger vos fichiers de travail, et d’y accéder facilement sur plusieurs périphériques. Partagez vos fichiers avec vos collègues, si nécessaire, et collaborez sur des documents Office en temps réel avec les dernières applications Office de bureau, web et mobiles. Synchronisez les fichiers sur votre ordinateur local à l’aide du client de synchronisation OneDrive Entreprise.
 ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467191"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246920"
 ---
 # <a name="onedrive-for-business-service-description"></a>Description du service OneDrive Entreprise
 

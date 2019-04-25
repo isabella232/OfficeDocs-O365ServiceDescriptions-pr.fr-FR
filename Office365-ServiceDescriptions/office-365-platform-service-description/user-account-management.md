@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 prend en charge les méthodes suivantes pour la création, la gestion et l'authentification des utilisateurs.
 ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764852"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247200"
 ---
 # <a name="user-account-management"></a>Gestion des comptes d'utilisateur
 
@@ -71,7 +71,7 @@ Pour plus d'informations à propos des domaines dans Office 365, voir la descrip
     
 - **Authentification d'identité cloud (en nuage)** L'authentification des utilisateurs avec des identités cloud (en nuage) s'effectue via l'authentification par stimulation/réponse traditionnelle. Le navigateur web est redirigé vers le service de connexion de Office 365, dans lequel vous entrez les nom d'utilisateur et mot de passe de votre compte professionnel ou scolaire. Le service de connexion authentifie vos informations d'identification et génère un jeton de service que le navigateur web adresse au service demandé pour vous y connecter. 
     
-- **Authentification d'identité fédérée** L'authentification des utilisateurs avec des identités fédérés s'effectue à l'aide de Services ADFS (Active Directory Federation Services) 2.0 ou d'autres services d'émission de jeton de sécurité. Le navigateur Web est redirigé vers le service de connexion Office 365, où vous tapez votre ID d'entreprise sous la forme d'un nom d'utilisateur principal (UPN, par exemple isabel@contoso.com). Le service de connexion détermine que vous appartenez à un domaine fédéré et propose de vous rediriger vers un serveur de fédération local pour l'authentification. Si vous avez ouvert une session sur le bureau (domaine joint), vous êtes authentifié (via Kerberos ou NTLMv2) et le service d'émission de jeton de sécurité local génère un jeton d'ouverture de session que le navigateur web adresse au service de connexion de Microsoft Office 365. Grâce au jeton d'ouverture de session, le service de connexion génère un jeton de service que le navigateur web adresse au service demandé pour vous y connecter. Pour obtenir la liste des services d'émission de jeton de sécurité disponibles, voir [Feuille de route pour l'authentification unique](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Authentification d'identité fédérée** L'authentification des utilisateurs avec des identités fédérés s'effectue à l'aide de Services ADFS (Active Directory Federation Services) 2.0 ou d'autres services d'émission de jeton de sécurité. Le navigateur web est redirigé vers le service de connexion de Microsoft Office 365, dans lequel vous entrez votre ID d'entreprise sous la forme d'un nom d'utilisateur principal (UPN) ; par exemple isabel@contoso.com. Le service de connexion détermine que vous appartenez à un domaine fédéré et propose de vous rediriger vers un serveur de fédération local pour l'authentification. Si vous avez ouvert une session sur le bureau (domaine joint), vous êtes authentifié (via Kerberos ou NTLMv2) et le service d'émission de jeton de sécurité local génère un jeton d'ouverture de session que le navigateur web adresse au service de connexion de Microsoft Office 365. Grâce au jeton d'ouverture de session, le service de connexion génère un jeton de service que le navigateur web adresse au service demandé pour vous y connecter. Pour obtenir la liste des services d'émission de jeton de sécurité disponibles, voir [Feuille de route pour l'authentification unique](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 utilise une authentification basée sur les formulaires et le trafic des authentifications sur le réseau est toujours chiffré avec TLS/SSL via le port 443. Le trafic des authentifications utilise un pourcentage négligeable de la bande passante pour les services Microsoft Office 365. 
   
@@ -131,7 +131,7 @@ Une fois supprimé, le compte devient inactif. Vous pouvez toujours restaurer le
 
 Les stratégies et procédures de gestion des mots de passe dépendent du système d’identité.
   
- **Gestion des mots de passe d’identité cloud (en nuage) :**
+ **Gestion des mots de passe d'identité cloud (en nuage) :**
   
 Si des identités cloud (en nuage) sont utilisées ; les mots de passe sont générés automatiquement lors de la création du compte.
   
@@ -153,7 +153,7 @@ Plusieurs outils permettent aux utilisateurs possédant une identité cloud (en 
     
 - **Réinitialisation des mots de passe à l'aide de Windows PowerShell** Les administrateurs de services fédérés peuvent utiliser Windows PowerShell pour réinitialiser des mots de passe. 
     
- **Gestion des mots de passe des identités fédérées :**
+ **Gestion des mots de passe des identités fédérées :**
   
 Si des identités fédérées sont utilisées, les mots de passe sont gérés dans Active Directory. Le service d'émission de jeton de sécurité local négocie l'authentification avec la passerelle Office 365 Federation Gateway sans transférer les mots de passe d'Active Directory sur site des utilisateurs via Internet vers Office 365. Des stratégies de mot de passe locales sont utilisées, ou, pour les clients web, une identification à deux facteurs. Outlook Web App n'inclut pas de lien hypertexte Modifier le mot de passe. Pour changer leurs mots de passe, les utilisateurs se servent des outils locaux standard ou des options de connexion au bureau de leur PC.
   

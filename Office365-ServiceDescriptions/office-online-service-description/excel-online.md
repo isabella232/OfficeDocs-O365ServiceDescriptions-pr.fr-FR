@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online.
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467381"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246980"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -44,7 +44,7 @@ Pour lier des pages Web ou ouvrir des fichiers sur le web, ajoutez un lien hyper
 
 Le contrôle de chronologie vous permet de filtrer les données modélisées. Vous pouvez visualiser et modifier une plage continue de dates, ainsi que filtrer des objets basés sur des champs dynamiques, comme des tableaux et des graphiques croisés dynamiques. 
   
-## <a name="alignment"></a>Alignment
+## <a name="alignment"></a>Alignement
 <a name="bkmk_Alignment"> </a>
 
 Pour modifier l'alignement du texte, utilisez les boutons Alignement sous l'onglet Accueil. 
@@ -234,7 +234,7 @@ Excel Online vous permet de visualiser les tableaux et graphiques Power Pivot, m
 
 Excel Online permet d'afficher et d'utiliser des feuilles Power View dans un classeur, mais pas de créer des vues Power View. Pour créer des vues Power View, vous devez utiliser l'application de bureau. Power View permet de créer, de partager et d'explorer des données dans des vues interactives prêtes à l'emploi. Affichez des informations dans des cartes, des graphiques et des tableaux interactifs liés entre eux dans une seule feuille de calcul. En savoir plus sur [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Impression
+## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
 Pour envoyer la feuille de calcul entière ou la sélection actuelle à l'imprimante, dans Excel Online, utilisez la commande Imprimer. En savoir plus sur l'[impression dans Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271676).

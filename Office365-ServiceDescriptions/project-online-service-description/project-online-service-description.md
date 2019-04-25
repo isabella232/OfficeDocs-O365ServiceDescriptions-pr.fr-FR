@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
 ms.openlocfilehash: 6b58178c9aea05173f4d5abbc4b44a85b497d631
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467861"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246910"
 ---
 # <a name="project-online-service-description"></a>Description du service Project Online
 

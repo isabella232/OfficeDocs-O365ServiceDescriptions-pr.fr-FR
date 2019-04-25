@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilisez OneNote Online (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n'importe où et partager facilement avec d'autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online.
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467021"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247180"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -91,7 +91,7 @@ Avec OneNote Online, vous pouvez télécharger des fichiers incorporés sur votr
 
 Non disponible dans OneNote Online. L'application OneNote de bureau vous permet de consigner des équations mathématiques lors d'une réunion, d'une conférence ou d'un cours, et OneNote peut instantanément calculer les résultats pour vous.
   
-## <a name="hyperlinks"></a>Hyperlinks
+## <a name="hyperlinks"></a>Liens hypertexte
 <a name="bkmk_hyperlinks"> </a>
 
 Avec OneNote Online, vous pouvez insérer un lien hypertexte vers une adresse web ou appliquer un lien vers un texte sélectionné. Vous pouvez également cliquer avec le bouton droit sur l'onglet d'une page pour copier un lien direct vers cette dernière. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
@@ -147,7 +147,7 @@ Avec OneNote Online, vous pouvez changer l'alignement de paragraphe, augmenter o
 
 Avec OneNote Online, vous pouvez insérer une image à partir d'un fichier ou des images Bing. Vous pouvez également redimensionner les images et ajouter un nouveau texte. Pour des fonctionnalités d'image plus avancées, comme des captures d'écran, des images numérisées ou des images en ligne, vous devrez utiliser l'application OneNote de bureau. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Impression
+## <a name="print"></a>Print
 <a name="BKMK_Print_OneNote"> </a>
 
 Vous pouvez imprimer des notes dans OneNote Online.
@@ -187,7 +187,7 @@ Avec OneNote Online, vous pouvez désactiver les balises d'auteur qui apparaisse
 
 Avec OneNote Online, vous pouvez facilement appliquer des styles de texte pour un formatage rapide. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="tables"></a>Tableaux
+## <a name="tables"></a>Tables
 <a name="bkmk_Tables"> </a>
 
 Avec OneNote Online, vous pouvez insérer un tableau, modifier du texte dans un tableau et facilement modifier une structure de tableau de base, en ajoutant ou en supprimant des lignes et des colonnes par exemple. Pour des fonctions de tableau plus avancées, comme la conversion d'un tableau en feuille de calcul Excel ou l'ombrage de cellule, les lignes d'en-tête et le tri de données dans les cellules d'un tableau, vous devrez utiliser l'application OneNote de bureau. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).

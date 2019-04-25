@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
 ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825212"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247060"
 ---
 # <a name="privacy-security-and-transparency"></a>Politique de confidentialité, sécurité et transparence
 
@@ -35,7 +35,7 @@ Pour connaître les procédures spécifiques que les administrateurs Entreprise,
   
 Pour plus d'informations sur la sécurité et la confidentialité des autres services Microsoft, dont Office 365 ProPlus, voir [Services en ligne auxquels le Centre de gestion de la confidentialité s'applique](https://www.microsoft.com/trustcenter/default.aspx).
   
-## <a name="security"></a>Sécurité
+## <a name="security"></a>Security
 
 Pour savoir comment Microsoft garantit les services Office 365 de manière fiable et sécurisée, consultez la rubrique relative à la [Sécurité](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).
   

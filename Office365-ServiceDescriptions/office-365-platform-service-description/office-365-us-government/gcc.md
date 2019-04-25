@@ -10,23 +10,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 'Pour répondre aux exigences uniques et évolutives des institutions gouvernementales fédérales, étatiques, locales et tribales des États-Unis, ainsi que des sous-traitants détenant ou traitant des données pour le compte du gouvernement américain, Microsoft propose les services Communauté Office 365 pour le gouvernement américain (GCC). Ceux-ci sont disponibles via divers canaux, notamment les licences en volume. les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Pour l’instant, les essais sont réservés aux institutions gouvernementales américaines. '
+description: Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l'État, de l'local et de la tribal, ainsi qu'aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l'éligibilité avant l'établissement d'un environnement. Les versions d'évaluation sont disponibles uniquement pour les entités gouvernementales américaines.
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379026"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247130"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-Pour répondre aux exigences uniques et évolutives des institutions gouvernementales fédérales, étatiques, locales et tribales des États-Unis, ainsi que des sous-traitants détenant ou traitant des données pour le compte du gouvernement américain, Microsoft propose les services Communauté Office 365 pour le gouvernement américain (GCC). Ceux-ci sont disponibles via divers canaux, notamment les licences en volume. les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Pour l’instant, les essais sont réservés aux institutions gouvernementales américaines.  
+Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l'État, de l'local et de la tribal, ainsi qu'aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l'éligibilité avant l'établissement d'un environnement. Les versions d'évaluation sont disponibles uniquement pour les entités gouvernementales américaines. 
   
 Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Vous trouverez des informations supplémentaires sur la page [Offres Office 365 Secteur Public](https://products.office.com/en-us/government/compare-office-365-government-plans). 
   
 ## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description de service
 
-La description de service pour le gouvernement américain Office 365 est conçue pour s’ajouter à la description de service générale Office 365. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
+La description de service Office 365 pour le gouvernement américain est conçue pour s'ajouter à la description de service générale Office 365. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
   
 ## <a name="us-government-community-compliance"></a>Conformité de la communauté du gouvernement américain
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office Online vous permet de travailler et de partager en toute simplicité des fichiers Office, où que vous soyez, à l'aide d'une simple connexion Internet et sur presque tous les appareils. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
 ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467451"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246960"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
@@ -196,7 +196,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 
 ||||
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**OneNote Online** <br/> |**Application de bureau OneNote** <br/> |
+|**Fonctionnalités de l'application** <br/> |**OneNote Online** <br/> |**Application de bureau OneNote** <br/> |
 |[Collaboration avancée : Nouveau contenu affiché comme non lu, présence](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Non  <br/> |Oui  <br/> |
 |[Application de balises](onenote-online.md#apply-tags) <br/> |Oui  <br/> |Oui  <br/> |
 |[Puces et numérotation](onenote-online.md#bullets-and-numbering) <br/> |Oui  <br/> |Oui  <br/> |

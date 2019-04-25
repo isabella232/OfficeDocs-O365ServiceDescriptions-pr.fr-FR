@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à leurs boîtes aux lettres d'archivage à partir de plusieurs appareils et plateformes. Toute connectivité réseau à l'archive de l'utilisateur se fait par Internet, et des connexions de réseau privé virtuel (VPN) ne sont pas nécessaires. Les organisations peuvent publier un serveur d'accès au client local pour permettre aux utilisateurs d'accéder à leur boîte aux lettres principale à l'aide d'Outlook Anywhere, sans nécessiter de connexion VPN. Si un accès VPN est requis pour accéder à la boîte aux lettres principale de l'utilisateur située sur un serveur local, cette exigence ne change pas.
 ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467181"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245060"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Fonctionnalités client dans l'archivage Exchange Online
 
@@ -50,11 +50,11 @@ Le tableau ci-dessous répertorie les clients pris en charge par Archivage Excha
 |:-----|:-----|
 |Outlook 2010 et versions ultérieures  <br/> |Prend en charge les dernières fonctionnalités dans Archivage Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Pris en charge en vue d'une utilisation avec Archivage Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |exExchange2k7 et versions antérieures  <br/> |
-|Outlook pour Mac 2011  <br/> |exExchange2k7 et versions antérieures  <br/> |
+|Outlook 2003  <br/> |Non pris en charge  <br/> |
+|Outlook pour Mac 2011  <br/> |Non pris en charge  <br/> |
 |Outlook pour Mac  <br/> |Pris en charge pour une utilisation avec l'archivage Exchange Online. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008, Édition Services Web  <br/> |exExchange2k7 et versions antérieures  <br/> |
-|IMAP et POP  <br/> |exExchange2k7 et versions antérieures  <br/> |
+|Microsoft Office Entourage 2008, Édition Services Web  <br/> |Non pris en charge  <br/> |
+|IMAP et POP  <br/> |Non pris en charge  <br/> |
 |Exchange ActiveSync (périphériques mobiles)  <br/> |Non pris en charge  <br/> |
    
 > [!NOTE]

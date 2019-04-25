@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online offre une prise en charge étendue de la rétention et de la récupération pour l'infrastructure de messagerie d'une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
 ms.openlocfilehash: 2da41ba335faa4cf18228a64fbb1b420d438e503
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466511"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33244900"
 ---
 # <a name="high-availability-and-business-continuity"></a>Haute disponibilité et continuité de service
 

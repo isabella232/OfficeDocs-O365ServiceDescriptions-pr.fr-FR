@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fournit les ressources d'aide et de formation suivantes.
 ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467081"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247330"
 ---
 # <a name="help-and-training"></a>Aide et formation
 
@@ -114,7 +114,7 @@ Outre la communauté Office 365 et l'aide en ligne, Office 365 propose les resso
     
     Si vous utilisez Office 365 géré par 21Vianet, vous pouvez utiliser WeChat. Reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) et accédez au bas de la page pour obtenir un code QR. 
     
-## <a name="languages"></a>Langues
+## <a name="languages"></a>Langages
 <a name="BKMK_OtherSelfHelpResources"> </a>
 
 Les ressources d'aide et de formation sont disponibles dans les langues suivantes.

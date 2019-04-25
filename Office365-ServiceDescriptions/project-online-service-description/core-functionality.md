@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Les fonctionnalités de base suivantes sont disponibles dans Project online.
 ms.openlocfilehash: 79761c672fc36bc6758d30712715ba96f440c032
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467467"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246900"
 ---
 # <a name="core-functionality"></a>Fonctionnalités principales
 
@@ -76,7 +76,7 @@ Vous pouvez annuler plusieurs modifications en même temps à l'aide du menu ann
 
 Affichez les tâches, les dépendances et le chemin critique de votre projet dans une vue de diagramme de réseau. Consultez la rubrique [Créer un réseau de tâches](https://go.microsoft.com/fwlink/p/?LinkId=271338).
   
-## <a name="office-store"></a>Boutique Office
+## <a name="office-store"></a>Microsoft Store Office
 <a name="bkmk_OfficeStore"> </a>
 
 Vous avez besoin d'une application qui vous aidera dans Project ? Recherchez de nouvelles applications Project dans la Boutique Office. Consultez la rubrique relative aux [compléments pour Project](https://go.microsoft.com/fwlink/?LinkId=273883).
@@ -96,7 +96,7 @@ Enregistrez un fichier de projet au format PDF ou XPS. Consultez la rubrique [En
 
 Si vous n'êtes pas sûr de tous les détails pour un projet, vous pouvez utiliser le texte d'espace réservé, comme « TBD » pour les ressources, les dates de début, les dates de fin, et ainsi de suite. Pour plus d'informations, consultez la rubrique [Planification de haut en bas](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
-## <a name="project-templates"></a>Modèles de projet
+## <a name="project-templates"></a>Modèles de projets
 <a name="bkmk_ProjectTemplates"> </a>
 
 Vous pouvez gagner beaucoup de temps lors de la création d'un projet en utilisant un ancien projet comme modèle. Consultez la rubrique [Créer un projet à partir d'un autre projet ou d'un modèle](https://go.microsoft.com/fwlink/p/?LinkId=271328).

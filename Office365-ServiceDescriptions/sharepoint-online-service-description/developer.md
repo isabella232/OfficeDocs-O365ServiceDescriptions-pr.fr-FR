@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, stocker des données et des documents à un emplacement central et partager des informations avec d'autres utilisateurs. Les fonctionnalités suivantes assistent les développeurs qui souhaitent concevoir des applications et des solutions destinées à étendre les fonctionnalités de SharePoint.
 ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467711"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246720"
 ---
 # <a name="developer"></a>Développeur
 
@@ -106,12 +106,12 @@ Non accessible aux utilisateurs de SharePoint Online. Les utilisateurs de ShareP
 
 Forms Service permettent à l'utilisateur de remplir des formulaires via un navigateur web dans SharePoint, en fonction des modèles de formulaire conçus dans InfoPath. Pour en savoir plus, consultez la rubrique [InfoPath Forms Services.](https://go.microsoft.com/fwlink/?LinkId=271288)
   
-## <a name="javascript-object-model"></a>JavaScript Object Model
+## <a name="javascript-object-model"></a>Modèle d'objet JavaScript
 <a name="bkmk_JavaScriptObjectModel"> </a>
 
 SharePoint fournit un modèle objet JavaScript à utiliser dans un script en ligne ou des fichiers .js distincts. Il propose les mêmes fonctionnalités que les modèles objet client .NET Framework et Silverlight. Le modèle objet JavaScript est un bon moyen d'inclure du code SharePoint personnalisé dans une application. Il permet également aux développeurs web d'utiliser leurs connaissances du langage JavaScript pour créer facilement des applications SharePoint. Pour en savoir plus, consultez la rubrique [Référence d'API JavaScript pour SharePoint 2013](https://go.microsoft.com/fwlink/?LinkId=271289).
   
-## <a name="remote-event-receiver"></a>Remote Event Receiver
+## <a name="remote-event-receiver"></a>Récepteur d’événements distant
 <a name="bkmk_RemoteEventReceiver"> </a>
 
 Pour gérer des événements dans une application pour SharePoint, les développeurs peuvent créer des récepteurs d'événements et des récepteurs d'événements d'applications distants. Les récepteurs d'événements distants gèrent les événements qui se produisent dans un élément de l'application, tel qu'une liste, un élément de liste ou un service web. Pour en savoir plus, consultez la rubrique [Gestion des événements dans les compléments pour SharePoint](https://go.microsoft.com/fwlink/?LinkId=271735). 

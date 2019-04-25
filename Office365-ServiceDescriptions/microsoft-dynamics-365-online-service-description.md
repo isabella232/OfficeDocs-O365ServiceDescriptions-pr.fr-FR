@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: 'À compter de la mise à jour de décembre 2016 pour Dynamics 365 (en ligne et en local), la fonctionnalité Dynamics CRM est incluse dans le cadre de Dynamics 365, suite d’applications métiers intelligentes. Dynamics 365 réunit des fonctionnalités de gestion des relations client (CRM) et de planification des ressources d’entreprise (ERP) en proposant de nouvelles applications pour vous aider à gérer des fonctions commerciales spécifiques. '
 ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467211"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246520"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Description du service Microsoft Dynamics 365 (en ligne)
 

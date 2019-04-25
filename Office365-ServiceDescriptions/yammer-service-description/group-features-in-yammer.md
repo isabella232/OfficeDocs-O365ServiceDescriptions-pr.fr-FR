@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Les fonctionnalités de groupe suivantes sont disponibles dans Yammer.
 ms.openlocfilehash: 53d6e898717547fd238f70b4eb059b0facb4391a
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467541"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246450"
 ---
 # <a name="group-features-in-yammer"></a>Fonctionnalités de groupe dans Yammer
 
@@ -34,7 +34,7 @@ Que ce soit pour les communications d'un service ou votre prochain lancement de 
 
 Vous pouvez ajouter et classer par priorité des groupes associés à ceux que vous avez déjà rejoints afin que vos collègues puissent découvrir encore plus de personnes, de contenu et de conversations intéressants.
   
-## <a name="announcements"></a>Announcements
+## <a name="announcements"></a>Annonces
 <a name="bkmk_Announcements"> </a>
 
 Partagez une annonce avec un groupe pour signaler immédiatement aux membres les mises à jour importantes. Les administrateurs peuvent épingler des annonces à un groupe pour un repérage plus facile.

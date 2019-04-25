@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Les limites de Skype entreprise Online appartiennent aux catégories suivantes:'
 ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466961"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246460"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
@@ -48,7 +48,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de transfert de fichiers  <br/> |Sans limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Non applicable  <br/> |
 |Limite de conversation<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicable  <br/> |
@@ -87,7 +87,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes:
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
 |Limite de chargement de fichiers  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |Non applicable  <br/> |
 |Participants à une réunion Skype Entreprise<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
 |Présentateurs dans une réunion Skype Entreprise  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |

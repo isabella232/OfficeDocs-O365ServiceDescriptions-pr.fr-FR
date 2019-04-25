@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
 ms.openlocfilehash: e0b3b686f707063bff2433f1ed6acd368a08aab6
-ms.sourcegitcommit: 5fabae12930bc8d815cdbb3af9d36af4be7c6c53
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31479742"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246260"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -68,7 +68,7 @@ Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 f
 
 Nous continuons à ajouter de nouvelles fonctionnalités à la protection avancée contre les menaces d'Office 365. Vous trouverez ci-dessous une liste de plusieurs nouvelles fonctionnalités, dont certaines appellent une stratégie de protection avancée contre les menaces à examiner et à mettre à jour. Pour en savoir plus sur les nouvelles fonctionnalités disponibles pour la protection avancée contre les menaces (ou Microsoft 365 en général), consultez la feuille de [route microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365).
 
-|Mises à jour de fonctionnalité  |Éléments d'action  |
+|Mises à jour de fonctionnalités  |Éléments d'action  |
 |---------|---------|
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) sont maintenant des fonctionnalités d'enquête et de réponse aux menaces dans le cadre du plan ATP 2. De nouvelles fonctionnalités, telles que l'analyse [et la réponse automatiques](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office), et les améliorations apportées à l' [Explorateur de menaces](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance), sont déployées.<br/><br/>Si votre organisation ne dispose actuellement pas de la protection avancée contre les menaces, ou si vous aviez une protection avancée contre les menaces, vous disposez maintenant de plusieurs options à prendre en compte, avec la disponibilité des plans ATP 1 et ATP 2. Pour en savoir plus, consultez la rubrique relative à la [disponibilité des fonctionnalités dans les plans de protection avancée contre les menaces](#feature-availability-across-advanced-threat-protection-atp-plans) (dans cet article) et les [offres et tarifs de protection avancée contre les menaces d'Office 365](https://products.office.com/exchange/advance-threat-protection). |Vérifiez l'abonnement de votre organisation et, si nécessaire, [achetez ou modifiez un module complémentaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).  |
 |Lorsque des personnes utilisent Outlook ou Outlook Web App (OWA), les [liens fiables ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) afficheNt les URL d'origine, pas les URL réécrites. (Nous appelons ce rendu de liaison native.)<br>Lorsque le rendu de liens natif est disponible pour votre organisation, cette fonctionnalité fonctionne dans Outlook 365 (démarrer en un clic), OWA et sous Windows et Mac OS. |Aucun         |
@@ -85,7 +85,7 @@ La protection avancée contre les menaces peut être utilisée avec n'importe qu
   
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Disponibilité des fonctionnalités pour les différents plans Protection avancée contre les menaces
 
-Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online » fait généralement référence à la famille de services  Office 365 Entreprise.
+Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online » fait généralement référence à la famille de services Office 365 Entreprise.
   
 |**Fonctionnalité**|**Plan de l'ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel | Office 365 Entreprise E5| 
 |:-----|:-----|:-----|:-----|

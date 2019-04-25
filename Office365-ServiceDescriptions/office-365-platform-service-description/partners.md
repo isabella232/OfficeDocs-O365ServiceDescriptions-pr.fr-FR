@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
 ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467621"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247090"
 ---
 # <a name="partners"></a>Partenaires
 

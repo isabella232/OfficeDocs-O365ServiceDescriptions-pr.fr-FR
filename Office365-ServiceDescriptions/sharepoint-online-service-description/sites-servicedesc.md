@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de sites suivantes fournissent un ensemble complet d'outils que votre organisation peut utiliser pour créer tout type de site, ainsi qu'une infrastructure unique qui simplifie la gestion du site. Pour plus d'informations, voir Rechercher du contenu sur SharePoint Online.
 ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825172"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246580"
 ---
 # <a name="sites"></a>Sites
 
@@ -96,7 +96,7 @@ Vous pouvez personnaliser facilement et rapidement votre site d'équipe pour sim
 
 Les rapports Web Analytics sont des rapports préconfigurés dans SharePoint qui, à partir de données d'utilisation, analysent différents aspects des sites et des collections de sites. 
   
-## <a name="task-list"></a>Listes de tâches
+## <a name="task-list"></a>Liste des tâches
 <a name="bkmk_Tasklist"> </a>
 
 Les listes des tâches servent à gérer le travail de manière hiérarchique, avec des tâches récapitulatives et des sous-tâches qui apparaissent dans une liste unique. Les tâches peuvent avoir des dates de début et de fin, être attribuées à des personnes de votre organisation, et être incluses dans une chronologie illustrée. En savoir plus sur l'[ajout de tâches à votre projet](https://go.microsoft.com/fwlink/?LinkId=271230).

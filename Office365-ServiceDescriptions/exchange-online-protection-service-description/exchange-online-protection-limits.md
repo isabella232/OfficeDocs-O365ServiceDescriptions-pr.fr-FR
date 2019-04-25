@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Les limites suivantes existent actuellement pour Exchange Online Protection. Sauf indication contraire, elles ne sont pas configurables.
 ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468141"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245630"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
 
@@ -50,7 +50,7 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Sau
 |**Fonctionnalité**|****EOP autonome****|****Fonctionnalités EOP dans Exchange Online****|****Licence d'accès client Exchange Enterprise avec services****|
 |:-----|:-----|:-----|:-----|
 |Limite de domaine  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Limite de taille de message (pièces jointes comprises)  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
+|Limite de taille de message (pièces jointes comprises)  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
 |Limite de destinataires  <br/> |Voir « Limite de destinataires » ci-dessus.  <br/> |500 destinataires lors de l'envoi à partir d'une boîte aux lettres hébergée. Voir « Limite de destinataires » ci-dessus pour connaître d'autres scénarios.  <br/> |Voir « Limite de destinataires » ci-dessus.  <br/> |
 |Nombre limite d'expéditeurs autorisés  <br/> |1 024 entrées  <br/> |1 024 entrées  <br/> ||
 |Nombre limite d'expéditeurs bloqués  <br/> |1 024 entrées  <br/> |1 024 entrées  <br/> ||

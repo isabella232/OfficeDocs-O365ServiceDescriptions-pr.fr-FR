@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d'outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
 ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764832"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247190"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 
@@ -76,7 +76,7 @@ Microsoft Stream est un service vidéo d'entreprise que les membres de votre org
 
 Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu'à vos collègues, de formuler des idées à l'aide d'un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d'une mise en forme ou d'une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l'apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n'importe quel navigateur de n'importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d'extraire tous les types de contenu sans quitter l'application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
 
 Microsoft Teams est un espace de travail centré sur les conversations dans Office 365 qui permet aux équipes d'unir leurs efforts. Microsoft Teams sert de plateforme pour le travail d'équipe, permettant aux équipes d'accéder instantanément à des conversations, du contenu et des outils d'Office 365 dans un espace de travail unique. SharePoint et OneNote sont intégrés, et les membres de l'équipe peuvent travailler sur des documents Office directement dans l'application. En plus des conversations, Microsoft Teams prend en charge les réunions et appels vidéo, ce qui permet aux équipes de se rencontrer en direct, sur demande ou de manière planifiée. Les utilisateurs peuvent facilement collaborer avec plusieurs équipes et effectuer des recherches parmi des personnes, des conversations et des fichiers à tout moment. Microsoft Teams fonctionne sur les plateformes Windows, Mac, Web, Android et iOS. Pour en savoir plus, voir [Aide de Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).

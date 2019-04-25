@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d'évaluation. Pour plus d'informations, consultez Options d'assistance Office 365.
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467531"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247000"
 ---
-# <a name="support"></a>Prise en charge
+# <a name="support"></a>Support
 
 > [!NOTE]
 > Toutes les options de support ci-dessous sont destinées aux versions internationales d'Office 365. Pour toute la prise en charge d'Office 365 géré par 21Vianet en Chine, reportez-vous à la rubrique [contacter le support office 365 pour les entreprises pour Office 365 géré par 21ViaNet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Pour Office 365 Germany, voir [contacter le support office 365 pour les entreprises pour office 365 Germany](https://go.microsoft.com/fwlink/?linkid=846979). 
@@ -46,7 +46,7 @@ L'assistance avant-vente pour Office 365 vous fournit une assistance sur les ava
 
 L'assistance fournie pour des problèmes de gestion de facturation et d'abonnement est disponible en ligne ou par téléphone aux heures ouvrables, du lundi au vendredi. L'assistance de gestion de facturation et d'abonnement est accessible via le même numéro de téléphone et processus de demande de service en ligne que l'assistance technique. Le numéro de téléphone de l'assistance est indiqué sur le portail Office 365. Pour obtenir des instructions, voir [Contacter Office 365 en cas de problème technique](https://go.microsoft.com/fwlink/p/?LinkID=279815).
   
-Voici quelques exemples de problèmes de gestion de facturation et d'abonnement :
+Voici quelques exemples de problèmes de gestion de facturation et d’abonnement :
   
 - S’inscrire pour un essai ou acheter un abonnement
     
@@ -67,8 +67,8 @@ L'assistance technique pour les abonnements Office 365 fournit une assistance d'
   
 |**Catégorie d'assistance**|**Exemples**|
 |:-----|:-----|
-|Installation et configuration  <br/> | Exchange Online:  <br/>  Migration de boîtes aux lettres Office 365  <br/>  Configuration du destinataire (autorisations de boîte aux lettres, configuration de transfert de messages, configuration de boîte aux lettres partagée)  <br/>  Configuration de la découverte automatique  <br/>  SharePoint Online:  <br/>  Groupes d'utilisateurs et autorisations  <br/>  Configuration d'utilisateurs externes  <br/>  Skype Entreprise Online:  <br/>  Installation et création de contacts  <br/>  Microsoft Office 365 ProPlus : Assistance d'installation et de configuration  <br/> |
-|Configuration  <br/> | Problèmes d'échec de configuration de service  <br/>  Problèmes de mise en service  <br/>  Configuration et redélégation de domaine  <br/>  Problèmes de configuration de service  <br/>  Authentification unique (SSO)  <br/>  Synchronisation d'Active Directory  <br/> |
+|Installation et configuration  <br/> | Exchange Online:  <br/>  Migration de boîtes aux lettres Office 365  <br/>  Configuration du destinataire (autorisations de boîte aux lettres, configuration de transfert de messages, configuration de boîte aux lettres partagée)  <br/>  Configuration de la découverte automatique  <br/>  SharePoint Online:  <br/>  Groupes d’utilisateurs et autorisations  <br/>  Configuration d’utilisateurs externes  <br/>  Skype Entreprise Online:  <br/>  Installation et création de contacts  <br/>  Microsoft Office 365 ProPlus : Assistance d'installation et de configuration  <br/> |
+|Configuration  <br/> | Problèmes d'échec de configuration de service  <br/>  Problèmes de mise en service  <br/>  Configuration et redélégation de domaine  <br/>  Problèmes de configuration de service  <br/>  Authentification unique (SSO)  <br/>  Synchronisation Active Directory  <br/> |
    
 > [!NOTE]
 > Voici comment contacter l'assistance technique : [Contacter Office 365 en cas de problème technique](https://go.microsoft.com/fwlink/p/?LinkID=279815). > Le support technique pour Office 365 ne comprend pas les compléments ou services de dépannage tiers. Découvrez comment rechercher des réponses données par d'autres clients dans la [communauté Microsoft ](https://go.microsoft.com/fwlink/p/?LinkID=617897). 
@@ -92,7 +92,7 @@ Le délai de réponse initial dépend des niveaux de gravité décrits ci-avant 
 |:-----|:-----|:-----|:-----|:-----|
 |**Niveau de gravité** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 éducation<sup>1</sup>** <br/> |**Office 365 entreprise E1<sup>2</sup>** <br/> **Office 365 entreprise E3<sup>2</sup>** <br/> **Office 365 gouvernement G2<sup>2</sup>** <br/> **Office 365 gouvernement américain E3<sup>2</sup>** <br/> |**Office 365 entreprise F1<sup>2</sup>** <br/> **Office 365 gouvernement américain K1<sup>2</sup>** <br/> |**Options d'assistance avancées<sup>3</sup>** <br/> |
 | Niveau de gravité A (Critique)  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |
-|Niveau de gravité B (Haute)  <br/> |Disponible : heures d'ouverture  <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : un jour  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : un jour  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : 2 heures  <br/> |
+|Niveau de gravité B (Haute)  <br/> |Disponible : heures d'ouverture  <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : un jour  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : un jour  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : 2 heures  <br/> |
 |Niveau de gravité C (Moyenne)  <br/> |Disponible : heures d'ouverture  <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : 4 heures  <br/> |
    
 > [!NOTE]
@@ -119,7 +119,7 @@ Les personnes ayant des rôles d'administrateur Office 365 sont les seules dans 
   
 Avec les plans Office 365 Entreprise et Office 365 Business, vous pouvez désigner plusieurs types d'administrateurs qui assurent différentes fonctions. Cette description de service utilise le titre générique d'administrateur pour désigner toutes les catégories d'administrateurs. Pour plus d'informations sur les types de rôles d'administrateur, consultez [Affectation de rôles d'administrateur](https://go.microsoft.com/fwlink/p/?LinkID=279812).
   
-L'administrateur est :
+L’administrateur est :
   
 - Responsable de la maintenance des comptes et de l’administration des services.
     
@@ -127,13 +127,13 @@ L'administrateur est :
     
 - Autorisé à soumettre des demandes de services à Microsoft.
     
-Le rôle de l'administrateur consiste à :
+Le rôle de l’administrateur consiste à :
   
 - Assurer la définition et la configuration des comptes d’utilisateurs pour permettre à ces derniers d’accéder aux services.
     
 - Résoudre les problèmes d’installation de mobilité, de logiciels et de connectivité de clients.
     
-- Résoudre les problèmes de disponibilité de service au sein du cadre organisationnel du client.
+- Adresser les problèmes de disponibilité de service au sein du cadre organisationnel du client.
     
 - Utiliser les ressources d'assistance en libre service de Microsoft pour résoudre les problèmes d'assistance.
     

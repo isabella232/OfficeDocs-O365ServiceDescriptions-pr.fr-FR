@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
 ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467151"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246770"
 ---
 # <a name="yammer-service-description"></a>Description de service Yammer
 

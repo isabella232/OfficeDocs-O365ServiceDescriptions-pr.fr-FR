@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Pour la plupart des organisations utilisant Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s'agit de la configuration la plus simple et signifie qu'Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s'assurer qu'elles sont conformes aux besoins spécifiques de la réglementation ou de l'entreprise. Vous pouvez en savoir plus sur ces options ici.
 ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467291"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246400"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 
@@ -44,7 +44,7 @@ Pour plus d'informations, consultez la rubrique [Set up connectors for secure ma
 > [!IMPORTANT]
 > Il est possible qu'un certificat validé par une autorité de certification soit requis. 
   
-## <a name="conditional-mail-routing"></a>Conditional mail routing
+## <a name="conditional-mail-routing"></a>Routage du courrier conditionnel
 
 Vous pouvez acheminer le courrier vers des sites spécifiques à l'aide de connecteurs et de règles de transport. Avec un routage basé sur des critères, vous pouvez choisir un connecteur en fonction de conditions spécifiques.
   

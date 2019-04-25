@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d'informer et de contacter les autres membres de l'entreprise, de transformer les processus d'entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées. Pour une vue d'ensemble rapide, voir qu'est-ce que SharePoint?
 ms.openlocfilehash: bd15c6b9835706e90e77810d5f216f030214a073
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467911"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246600"
 ---
 # <a name="sharepoint-online-service-description"></a>Description du service SharePoint Online
 
@@ -68,7 +68,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 
 |||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalités de développeur** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
+|**Fonctionnalités de développeur** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Services d'accès](developer.md#access-services) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |[Catalogue d'applications (SharePoint)](developer.md#app-catalog-sharepoint) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Déploiement d'applications : Applications hébergées en nuage](developer.md#app-deployment-cloud-hosted-apps) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -94,7 +94,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de travail SharePoint 2010 (prêts à l’emploi)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de travail SharePoint 2013 et SharePoint 2016](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités de professionnel de l'informatique** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
+|**Fonctionnalités de professionnel de l'informatique** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Synchronisation Active Directory](it-professional.md#active-directory-synchronization) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Mappage des accès de substitution (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection contre les programmes malveillants](it-professional.md#anti-malware-protection) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
@@ -119,7 +119,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Stratégies de conformité des collections de sites](it-professional.md#site-collection-compliance-policies) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Rapports et journalisation de l'utilisation](it-professional.md#usage-reporting-and-logging) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Prise en charge de Windows PowerShell](it-professional.md#windows-powershell-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités de contenu** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
+|**Fonctionnalités de contenu** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Prise en charge des normes d'accessibilité](content.md#accessibility-standards-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Améliorations de la bibliothèque de biens/prise en charge vidéo](content.md#asset-library-enhancementsvideo-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Audit](content.md#auditing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -148,7 +148,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Office Online (création/modification)](content.md#office-online-createedit) <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |
 |[Office Online (affichage)](content.md#office-online-view) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office proPlus  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Intégration d'Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Oui  <br/> |Oui  <br/> |
+|[Intégration d'Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Oui  <br/> |Oui  <br/> |
 |[Bibliothèque de conservation](content.md#preservation-hold-library) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Analyse de publication](content.md#publishing-analytics) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Modification rapide](content.md#quick-edit) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -162,7 +162,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Recherche de vidéos](content.md#video-search) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[WCM : Optimisations du moteur de recherche (SEO)](content.md#wcm-search-engine-optimizations-seo) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Word Automation Services](content.md#word-automation-services) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**Fonctionnalités décisionnelles** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
+|**Fonctionnalités décisionnelles** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Business Intelligence Center](insights.md#business-intelligence-center) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Mesures et membres calculés](insights.md#calculated-measures-and-members) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Bibliothèque de connexions de données](insights.md#data-connection-library) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
@@ -179,7 +179,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Segment de chronologie](insights.md#timeline-slicer) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Visio Online](https://technet.microsoft.com/en-us/library/mt827475.aspx)<sup>18</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |[Visio Services](insights.md#visio-services)<sup>18</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|**Fonctionnalités de recherche** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
+|**Fonctionnalités de recherche** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Analyses continues](search.md#continuous-crawls) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Liens profonds](search.md#deep-links) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Pertinence basée sur des événements](search.md#event-based-relevancy) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -202,7 +202,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Tri des résultats de la recherche](search.md#search-results-sorting) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Composants WebPart de recherche  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Recherches « Cette liste »](search.md#this-list-searches) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités des sites** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
+|**Fonctionnalités des sites** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |Sites de communication  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[Communauté](social.md#community) <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de l'entreprise](social.md#company-feed) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -232,7 +232,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |Flux de site (site d'équipe classique à l'aide de SharePoint social (site d'équipe classique à l'aide de SharePoint social)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Wikis](social.md#wikis) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Intégration de Yammer  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |||
-|**Compléments** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
+|**Compléments** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Stockage supplémentaire](add-ons.md#additional-storage) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Applications configurées par Azure : Services d'accès](add-ons.md#azure-provisioned-apps-access-services) <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Non  <br/> |Non  <br/> |
 |[Applications configurées par Azure : Code personnalisé dans le rôle LWR (Lightweight Web Role) d'Azure](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |

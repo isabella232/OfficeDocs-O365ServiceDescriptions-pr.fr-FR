@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
 ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379036"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247110"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
@@ -30,7 +30,7 @@ La description de service Office 365 pour le gouvernement américain est conçue
   
 ## <a name="compliance"></a>Conformité
 
-GCC High et DoD répondent aux critères de conformité concernant les certifications et accréditations suivantes : 
+GCC High et DoD répondent aux critères de conformité concernant les certifications et accréditations suivantes :  
   
 - Le programme FedRAMP (Federal Risk and Authorization Management Program) à un niveau d'impact modéré (FedRAMP Moderate), y compris les contrôles de sécurité et les améliorations apportées au contrôle décrits dans la publication spéciale 800-53 du NIST (National Institute of Standards and Technology).
     
@@ -40,7 +40,7 @@ Les abonnés du département de la Défense à Office 365 bénéficieront des s
   
 ## <a name="background-screening"></a>Filtrage des antécédents 
 
-Le personnel d'Office 365 ne dispose pas d'un accès permanent à l'environnement de production GCC High et DoD. Toutes les personnes demandant une élévation temporaire des autorisations qui leur accorderait l'accès au contenu client doivent d'abord faire l'objet des vérifications des antécédents suivantes.
+Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’environnement de production GCC High et DoD. Toutes les personnes demandant une élévation temporaire des autorisations qui leur accorderait l’accès au contenu client doivent d’abord faire l’objet des vérifications des antécédents suivantes.
   
 |||
 |:-----|:-----|
@@ -79,7 +79,7 @@ Les abonnements Office 365 dans les environnements GCC High et DoD incluent les 
     
 Les clients qui utilisent SharePoint Online et OneDrive entreprise dans les environnements GCC High ou DoD peuvent conserver des documents privés (première option), partager avec tout le monde dans leur organisation (deuxième option), partager avec toute personne disposant du lien vers le document (troisième option) et partager avec des personnes spécifiques dans les environnements GCC High et DoD uniquement (quatrième option); bien entendu, ces options peuvent également être restreintes en fonction des contrôles d'accès au niveau du client.
   
-Les clients de GCC High peuvent uniquement partager avec d'autres clients GCC High. Par exemple:
+Les clients de GCC High peuvent uniquement partager avec d'autres clients GCC High. Par exemple :
   
 - Le client très élevé A peut partager avec le client haut de GCC.
     
@@ -97,11 +97,11 @@ En outre, les adresses de messagerie électronique non GCC associées aux profil
   
 ### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
- **Conférence RTC &amp; pour les appels RTC** -en raison de la nécessité d'utiliser le réseau téléphonique commuté (PSTN) pour les services orientés téléphonie, &amp; les services de conférence RTC d'appel RTC ne sont actuellement pas disponibles dans GCC High et DoD. 
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   
 ### <a name="identity"></a>Identité
 
-L'authentification multifacteur avec un modèle d'identité fédéré permet d'utiliser des cartes PIV et CAC.
+L’authentification multifacteur avec un modèle d’identité fédéré permet d’utiliser des cartes PIV et CAC.
   
 ### <a name="yammer"></a>Yammer
 

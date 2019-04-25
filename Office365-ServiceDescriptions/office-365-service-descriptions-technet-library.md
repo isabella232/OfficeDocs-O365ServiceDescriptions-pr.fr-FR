@@ -1,5 +1,5 @@
 ---
-title: 'Descriptions des services Office 365 '
+title: 'Descriptions du service Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs.
 ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30641439"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246790"
 ---
-# <a name="office-365-service-descriptions"></a>Descriptions des services Office 365 
+# <a name="office-365-service-descriptions"></a>Descriptions du service Office 365 
 
 Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs. 
   
@@ -47,13 +47,13 @@ Pour commencer, lisez les descriptions suivantes :
     
 - [Description du service de protection Exchange Online](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
     
-- [Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md)
+- [Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md)
     
 - [Description du service d'archivage Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
     
 - [Description du service OneDrive Entreprise](onedrive-for-business-service-description.md)
     
-- [Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
     
 - [Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
@@ -63,11 +63,11 @@ Pour commencer, lisez les descriptions suivantes :
     
 - [Description du service Power BI](power-bi-service-description.md)
     
-- [Description du service Project Online](project-online-service-description/project-online-service-description.md)
+- [Description du service Project Online](project-online-service-description/project-online-service-description.md)
     
 - [Description du service Visio Online](visio-online-service-description/visio-online-service-description.md)
     
-- [Description de service Yammer](yammer-service-description/yammer-service-description.md)
+- [Description du service Yammer](yammer-service-description/yammer-service-description.md)
     
 - [Description du service Microsoft Dynamics 365 (en ligne)](microsoft-dynamics-365-online-service-description.md)
     

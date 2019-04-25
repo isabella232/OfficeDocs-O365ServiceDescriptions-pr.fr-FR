@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utilise un modèle d'autorisations de contrôle d'accès basé sur un rôle (RBAC) pour permettre aux administrateurs d'organisations de contrôler finement ce que les utilisateurs et les employés du service informatique peuvent faire dans le service. Par exemple, si un responsable de la mise en conformité est responsable des demandes de recherche de boîtes aux lettres, l'administrateur peut lui déléguer cette fonction administrative au moyen du contrôle RBAC. Exchange Online utilise le même cadre RBAC que Microsoft Exchange Server 2013.
 ms.openlocfilehash: 9f7cad7587d3700971a9cedaf38a20161f203c01
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468131"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246350"
 ---
 # <a name="permissions"></a>Autorisations
 
