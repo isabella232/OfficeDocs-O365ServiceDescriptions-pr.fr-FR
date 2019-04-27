@@ -3,7 +3,7 @@ title: État des services
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 03/12/2019
+ms.date: 04/25/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs de Microsoft Office 365 peuvent afficher l'état des services et savoir quand la maintenance est planifiée. Les informations relatives à l'état du service sont disponibles à tout moment en se connectant à Office 365.
-ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a903af56e9526c4a2076025c223811077caf2fe4
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247040"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368387"
 ---
 # <a name="service-health-and-continuity"></a>État des services
 
@@ -47,6 +47,13 @@ Le passage à un service Cloud ne doit pas signifier perdre la capacité à savo
 
 <br/>
 
+|**2019** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
+| 99,97% <br/> |  <br/> |  <br/> |  <br/> |
+
+<br/>
+
 |**2018** <br/>||||
 |:-----|:-----|:-----|:-----|
 | **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
@@ -58,6 +65,8 @@ Le passage à un service Cloud ne doit pas signifier perdre la capacité à savo
 |:-----|:-----|:-----|:-----|
 | **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
 | 99,99 % <br/> | 99,97% <br/> | 99,98% <br/> | 99,99 % <br/> |
+
+<br/>
 
 ## <a name="notification-policy"></a>Stratégie de notification
 
@@ -147,4 +156,3 @@ Pour plus d'informations sur le support, consultez la rubrique [Prise en charge]
 
 Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   
-
