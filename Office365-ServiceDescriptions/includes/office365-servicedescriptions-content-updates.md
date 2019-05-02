@@ -3,21 +3,12 @@
 
 
 
-## <a name="week-of-march-18-2019"></a>Semaine du 18 mars 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 3/18/2019 | [Limites d’Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modifié |
-| 3/18/2019 | [Droits d’utilisation de logiciels](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | modifié |
-
-
 ## <a name="week-of-march-25-2019"></a>Semaine du 25 mars 2019
 
 
 | Publié le |Titre de la rubrique | Modification |
 |------|------------|--------|
-| 3/26/2019 | [Description du service d'ingénierie technique Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | modifié |
+| 3/26/2019 | [Description du service d’ingénierie technique Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | modifié |
 | 3/28/2019 | [Description du service Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | modifié |
 | 3/28/2019 | [Configuration et administration d’Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | modifié |
 | 3/28/2019 | [Description du service Office 365 - Protection avancée contre les menaces](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modifié |
@@ -54,7 +45,7 @@
 | 4/11/2019 | [Mises à jour du service](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | modifié |
 | 4/11/2019 | [Informaticiens](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | modifié |
 | 4/11/2019 | [Sites](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | modifié |
-| 4/11/2019 | [Fonctionnalités d'archivage dans l'archivage Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modifié |
+| 4/11/2019 | [Fonctionnalités d’archivage dans l’archivage Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modifié |
 | 4/11/2019 | [Centre de sécurité et conformité Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modifié |
 | 4/11/2019 | [Description du service Skype Entreprise Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modifié |
 
@@ -67,4 +58,16 @@
 | 4/18/2019 | [Clients et appareils mobiles](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | modifié |
 | 4/18/2019 | [Limites d’Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modifié |
 | 4/18/2019 | [Description de service des applications Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modifié |
-| 4/18/2019 | [Contenu](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | modifié |
+| 4/18/2019 | [Content](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | modifié |
+
+
+## <a name="week-of-april-22-2019"></a>Semaine du 22 avril 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 4/24/2019 | [Limites d’Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modifié |
+| 4/26/2019 | [Limites d’Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modifié |
+| 4/26/2019 | [État et continuité du service](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modifié |
+| 4/26/2019 | [Description de service des applications Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modifié |
+| 4/26/2019 | [Limites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modifié |

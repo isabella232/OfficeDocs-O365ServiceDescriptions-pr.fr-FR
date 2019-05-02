@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online.
-ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cd69bf3c7683146744d6cbd65ba4cea0921a6e84
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246980"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544943"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -30,39 +30,42 @@ Excel Online (anciennement Excel Web App) étend votre expérience Microsoft Exc
 > Les classeurs qui dépassent les 30 méga-octets (Mo) ne peuvent pas être affichés dans Excel Online à partir de Microsoft SharePoint Online. Pour afficher des fichiers plus volumineux, l'application de bureau Excel doit être installée sur votre ordinateur. 
   
 > [!NOTE]
-> Pour vous aider à comparer les offres, les fonctionnalités avancées répertoriées dans cet article comprennent les fonctionnalités d'application de bureau Excel disponibles uniquement dans une suite Office (comme Office Professionnel Plus, Office Standard ou Office 365 ProPlus). Pour obtenir une liste de toutes les fonctionnalités Office Online, telles que Word Online et PowerPoint Online, voir [Disponibilité des fonctionnalités pour les différents plans Office Online](office-online-service-description.md#feature-availability-across-office-online-plans)
+> Pour vous aider à comparer les offres, les fonctionnalités avancées répertoriées dans cet article comprennent les fonctionnalités d'application de bureau Excel disponibles uniquement dans une suite Office (comme Office Professionnel Plus, Office Standard ou Office 365 ProPlus). Pour obtenir la liste de toutes les fonctionnalités Office Online, telles que Word Online et PowerPoint Online, consultez la rubrique [Feature Availability across Office Online plans](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
+
+Pour voir les types de fichiers pris en charge par Excel Online, voir [Types de fichiers pris en charge pour Office Online](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Pour en savoir plus sur les différences entre Excel Online et l'application Excel de bureau, consultez l'article sur les [différences entre l'utilisation d'un classeur dans le navigateur et dans Excel](https://support.office.com/en-us/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
   
-Pour voir les types de fichiers pris en charge par Excel Online, voir [Types de fichiers pris en charge pour Office Online](office-online-service-description.md#supported-file-types-for-office-online). Pour en savoir plus sur les différences entre Excel Online et l'application Excel de bureau, consultez l'article sur les [différences entre l'utilisation d'un classeur dans le navigateur et dans Excel](https://go.microsoft.com/fwlink/?linkid=390875).
-  
+## <a name="add-background-color-to-sheet-tabs"></a>Ajouter une couleur d’arrière-plan aux onglets de feuille 
+<a name="bkmk_Addbackgroundcolor"></a> Ajoutez une couleur de remplissage d’arrière-plan aux onglets de feuille en bas de votre classeur pour les faire ressortir. Pour plus d’informations, reportez-vous [à la rubrique ajouter une couleur d’arrière-plan à un onglet de feuille](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59). 
+
 ## <a name="add-hyperlinks"></a>Add hyperlinks
 <a name="bkmk_Addhyperlinks"> </a>
 
-Pour lier des pages Web ou ouvrir des fichiers sur le web, ajoutez un lien hypertexte dans une cellule. Vous pouvez taper l'adresse Web directement dans la cellule ou utiliser la commande Insérer un lien hypertexte.
+Pour lier des pages Web ou ouvrir des fichiers sur le web, ajoutez un lien hypertexte dans une cellule. Vous pouvez taper l'adresse Web directement dans la cellule ou utiliser la commande Insérer un lien hypertexte. 
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Filtrage chronologique avancé (segment chronologique)
 <a name="bkmk_Advancedtimefiltering"> </a>
 
-Le contrôle de chronologie vous permet de filtrer les données modélisées. Vous pouvez visualiser et modifier une plage continue de dates, ainsi que filtrer des objets basés sur des champs dynamiques, comme des tableaux et des graphiques croisés dynamiques. 
+Le contrôle de chronologie vous permet de filtrer les données modélisées. Vous pouvez visualiser et modifier une plage continue de dates, ainsi que filtrer des objets basés sur des champs dynamiques, comme des tableaux et des graphiques croisés dynamiques.  
   
 ## <a name="alignment"></a>Alignement
 <a name="bkmk_Alignment"> </a>
 
-Pour modifier l'alignement du texte, utilisez les boutons Alignement sous l'onglet Accueil. 
+Pour modifier l'alignement du texte, utilisez les boutons Alignement sous l'onglet Accueil.  
   
 ## <a name="apply-conditional-formatting"></a>Application d'une mise en forme conditionnelle
 <a name="bkmk_Applyconditionalformatting"> </a>
 
-La mise en forme conditionnelle peut être visualisée mais ne s'applique pas dans Excel Online. L'application de bureau Excel permet une utilisation complète de la mise en forme conditionnelle, ainsi que d'autres fonctionnalités avancées. Découvrez comment [utiliser la mise en forme conditionnelle dans Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282326). 
+Utilisez un format conditionnel pour vous aider à explorer et à analyser visuellement les données, détecter les problèmes critiques et identifier les modèles et les tendances. En savoir plus sur l’utilisation de la mise en forme conditionnelle dans Excel online. [Utilisez la mise en forme conditionnelle dans Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282326). 
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-Cette fonctionnalité est disponible dans Excel online. D'autres fonctionnalités avancées sont disponibles uniquement dans l'application de bureau Excel.
+Cette fonctionnalité est disponible dans Excel online. D’autres fonctionnalités avancées sont disponibles uniquement dans l’application de bureau Excel.
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 <a name="bkmk_Applysmartformatting"> </a>
 
-Non disponible dans Excel Online. Dans l'application de bureau Excel 2013, les graphiques recommandés permettent de choisir parmi plusieurs graphiques pour une présentation optimale des données. En savoir plus sur l'[utilisation des graphiques recommandés dans Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282335).
+Non disponible dans Excel Online. Dans l’application Excel de bureau, les graphiques recommandés vous permettent de choisir parmi un grand nombre de graphiques qui conviennent mieux à la présentation de vos données. En savoir plus sur [l’utilisation des recommandations graphiques dans Excel](https://support.office.com/article/Create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="office-add-ins"></a>Compléments Office
 <a name="bkmk_AppsOfficeIntegration"> </a>
@@ -83,6 +86,9 @@ Pour additionner une ligne ou une colonne de chiffres, sélectionnez les cellule
 <a name="BKMK_Calculations"> </a>
 
 Vous pouvez utiliser Excel pour effectuer des calculs automatiques, manuels et itératifs. Excel utilise des fonctions pour effectuer ces calculs. Pour plus d'informations, consultez l'article [Fonctions Excel (par catégorie)](https://go.microsoft.com/fwlink/?linkid=847459).
+
+## <a name="call-reference-in-formulas"></a>Référence des appels dans les formules
+<a name="bkmk_Callreferenceinformulas"></a> Vous pouvez utiliser des références de cellule dans les formules. Lorsque vous faites référence à une cellule ou à une plage dans une formule, la cellule ou la plage référencée est mise en surbrillance avec une couleur. Pour plus d’informations, consultez la rubrique [utiliser des références de cellule dans les formules](https://support.office.com/en-us/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Chart animations adapt to new data
 <a name="bkmk_Chartanimations"> </a>
@@ -90,7 +96,7 @@ Vous pouvez utiliser Excel pour effectuer des calculs automatiques, manuels et i
 Seule l'application Microsoft Excel de bureau prend en charge les fonctionnalités graphiques avancées. En savoir plus sur l'[animation d'un graphique SmartArt](https://go.microsoft.com/fwlink/p/?LinkId=271668).
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Graphiques et tableaux, notamment les rapports de graphique croisé dynamique et de tableau croisé dynamique
-<a name="BKMK_ChartsAndTables"> </a>
+<a name="BKMK_ChartsandtablesincludingPivotChartreportsandPivotTablereports"> </a>
 
 Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion des données. Pour plus d'informations, consultez les articles [Création ou suppression d'un tableau Excel](https://support.office.com/en-US/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) et [Présentation des rapports de tableau croisé dynamique et de graphique croisé dynamique](https://go.microsoft.com/fwlink/?linkid=55417).
   
@@ -107,7 +113,7 @@ Pour obtenir de meilleurs résultats lorsque vous copiez des éléments vers un 
 ## <a name="create-external-data-connections"></a>Create external data connections
 <a name="bkmk_Createexternaldataconnections"> </a>
 
-Vous pouvez utiliser Excel Online pour afficher les connexions de données, mais vous ne pouvez pas créer de connexions de données externes à l'aide d'Excel Online. Pour utiliser des données externes, vous devez disposer de l'application Excel 2013 de bureau. En savoir plus sur l'[utilisation de données externes dans Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
+Vous pouvez utiliser Excel Online pour afficher les connexions de données, mais vous ne pouvez pas créer de connexions de données externes à l'aide d'Excel Online. Vous aurez besoin de l’application de bureau Excel pour utiliser des données externes. En savoir plus sur l'[utilisation de données externes dans Excel Services](https://go.microsoft.com/fwlink/p/?LinkId=282330). 
   
 ## <a name="create-tables"></a>Create tables
 <a name="bkmk_CreateTables"> </a>
@@ -134,7 +140,10 @@ Vous pouvez déplacer une valeur de cellule dans Excel Online en glissant-dépla
 
 Dropbox est un service d'hébergement de fichiers qui offre un stockage dans le cloud, une fonction de synchronisation de fichiers, un cloud personnel et un logiciel client.
   
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Incorporation de classeur dans une page web ou dans un blog (OneDrive)
+## <a name="duplicate-copy-worksheets"></a>Feuilles de calcul dupliquées (copier)
+Vous pouvez dupliquer (ou copier) des feuilles de calcul dans un classeur ou dans un autre classeur dans Excel online. En savoir plus sur la [copie de feuilles de calcul dans Excel Online](https://support.office.com/en-us/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
+
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
 <a name="bkmk_EmbedWorkbookWeb"> </a>
 
 Si vous stockez un classeur Excel sur OneDrive.com, vous pouvez l'incorporer directement dans un blog ou un site web. Vos lecteurs peuvent y trier, filtrer et calculer directement les données et, si vous mettez à jour le classeur dans OneDrive, ils peuvent voir les dernières modifications apportées en actualisant la page. En savoir plus sur l'[incorporation d'un classeur Excel dans un blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
@@ -157,9 +166,9 @@ Recherchez un contenu de cellule dans la feuille de calcul active. Une boîte de
 ## <a name="font-and-cell-formatting"></a>Mise en forme de caractères et de cellules
 <a name="bkmk_FontCellFormatting"> </a>
 
-Personnalisez vos données pour leur donner exactement l'aspect souhaité. Choisissez parmi de nombreux styles et couleurs de police, ou modifiez la taille et la couleur du texte. 
+Personnalisez vos données pour leur donner exactement l'aspect souhaité. Choisissez parmi de nombreux styles et couleurs de police, ou modifiez la taille et la couleur du texte. En outre, vous pouvez dessiner des bordures de cellule et choisir des couleurs de bordure.
   
-## <a name="formula-bar"></a>Barre de formule
+## <a name="formula-bar"></a>Formula bar
 <a name="bkmk_FormulaBar"> </a>
 
 Affichez les formules sous-jacentes aux résultats d'une cellule dans la barre de formule. Vous pouvez ajouter, modifier ou supprimer des parties d'une formule dans le navigateur, exactement comme dans l'application Excel de bureau.
@@ -172,7 +181,7 @@ L'application Microsoft Excel de bureau prend en charge les outils de formule le
 ## <a name="freeze-panes"></a>Freeze panes
 <a name="bkmk_FreezePanes"> </a>
 
-La fonctionnalité figer les volets est disponible dans le ruban Excel online. Pour en savoir plus sur le fonctionnement des [volets de blocage dans l'application de bureau excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282331) , [voir conseils pour Excel Online](https://go.microsoft.com/fwlink/?linkid=869873).
+La fonctionnalité figer les volets est disponible dans le ruban Excel online. Pour en savoir plus sur le fonctionnement des [volets de blocage dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) , [voir conseils pour Excel Online](https://go.microsoft.com/fwlink/?linkid=869873).
   
 ## <a name="full-fidelity-reading-view"></a>Mode Lecture haute fidélité
 <a name="bkmk_FullFidelityReadingView"> </a>
@@ -188,12 +197,21 @@ Dans Excel Online, vous pouvez utiliser la plupart des plus de 400 fonctions de 
 <a name="BKMK_GoTo_Excel"> </a>
 
 Naviguez rapidement dans votre feuille de calcul en utilisant la fonction GoTo. Saisissez une référence de cellule et accédez directement à cet emplacement dans la feuille de calcul. En savoir plus sur les [raccourcis clavier dans Excel Online](https://go.microsoft.com/fwlink/p/?LinkID=272943).
-  
+ 
+## <a name="group-data"></a>Données de groupe
+<a name="Group data"></a> Vous pouvez regrouper ou détourer des lignes et des colonnes dans votre feuille de calcul Excel online. En savoir plus sur le regroupement de données dans Excel online.
+ 
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 <a name="bkmk_HideUnhide"> </a>
 
 Vous pouvez masquer ou afficher les lignes, colonnes et feuilles dans un classeur Excel Online.
-  
+ 
+## <a name="ideas"></a>Idées
+<a name="Ideas"> </a>
+
+Des idées vous permettent de comprendre vos données grâce à des résumés visuels, des tendances et des modèles visuels de haut niveau. Il vous suffit de cliquer sur une cellule d’une plage de données, puis sur le bouton idées sous l’onglet Accueil. en savoir plus sur les [idées](https://support.office.com/en-us/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
+
+ 
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -203,12 +221,22 @@ Créez un graphique pour représenter visuellement vos données. Choisissez parm
 <a name="bkmk_Insertdeleterowscolumns"> </a>
 
 Pour ajouter ou supprimer une ou plusieurs lignes ou colonnes dans une feuille de calcul, sélectionnez une ou plusieurs lignes ou colonnes, puis cliquez sur Insérer ou sur Supprimer sous l'onglet Accueil.
+
+## <a name="insert-pictures"></a>Insérer des images
+<a name="bkmk_insertpicture"></a> Ajoutez des images dans votre feuille de calcul. En savoir plus sur [l’insertion d’images dans Excel Online](https://support.office.com/en-us/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
+
+## <a name="insert-shapes"></a>Insérer des formes
+<a name="bkmk_insertshapes"></a> Ajouter et mettre en forme des formes telles que des cases, des cercles, des traits, des connecteurs ou des flèches vers votre feuille de calcul Excel online. En savoir plus sur l' [Ajout de formes](https://support.office.com/en-us/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
   
-## <a name="merge-cells"></a>Fusion de cellules
+## <a name="merge-cells"></a>Merge cells
 <a name="bkmk_MergeCells"> </a>
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
-  
+ 
+## <a name="named-ranges"></a>Plages nommées
+<a name="bkmk_Namedranges"></a> Vous ne pouvez pas créer de plages nommées dans Excel Online, mais vous pouvez utiliser les plages nommées que vous avez créées dans la feuille de calcul Excel dans votre feuille de calcul dans Excel online.
+
+ 
 ## <a name="number-formatting"></a>Number formatting
 <a name="bkmk_Numberformatting"> </a>
 
@@ -218,6 +246,10 @@ Modifiez le format des nombres. Dans la liste des formats, sélectionnez un form
 <a name="bkmk_Offlineviewingauthoring"> </a>
 
 Excel Online se lance à partir d'un navigateur web et utilise une connexion Internet. Pour accéder à des feuilles de calcul hors connexion, l'application Excel de bureau doit être installée et utilisée pour l'affichage et la modification de classeurs Excel.
+
+## <a name="pivot-tables"></a>tableaux croisés dynamiques ;
+<a name="bkmk_Pivottables"></a> Vous pouvez insérer des tableaux croisés dynamiques dans votre feuille de calcul Excel Online et calculer, résumer et analyser des données. En savoir plus sur l’insertion d’un [tableau croisé dynamique dans Excel Online](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
+
   
 ## <a name="post-to-social-network-and-present-online"></a>Post to Social network and present online
 <a name="bkmk_posttosocialnetwork"> </a>
@@ -225,9 +257,9 @@ Excel Online se lance à partir d'un navigateur web et utilise une connexion Int
 Partagez des parties sélectionnées de vos feuilles de calcul sur le web en les incorporant dans vos pages de réseaux sociaux, ou dans vos conversations ou réunions Skype Entreprise. Excel Online ne prend pas en charge ces fonctionnalités. 
   
 ## <a name="power-pivot-viewing"></a>Affichage Power Pivot
-<a name="bkmki_PowerPivotinteractivity"> </a>
+<a name="bkmk_PowerPivotinteractivity"> </a>
 
-Excel Online vous permet de visualiser les tableaux et graphiques Power Pivot, mais vous aurez besoin de l'application de bureau Excel 2013 pour créer des modèles de données Power Pivot.
+Excel Online vous permet d’afficher les tableaux et les graphiques de Power Pivot, mais vous avez besoin de l’application de bureau Excel pour créer des modèles de données Power Pivot.
   
 ## <a name="power-view-viewing"></a>Power View viewing
 <a name="bkmk_powerviewinteractivity"> </a>
@@ -253,6 +285,10 @@ Seule l'application Microsoft Excel de bureau prend en charge les graphiques ava
 <a name="bkmk_refreshdata"> </a>
 
 Si les données de votre classeur sont connectées à des sources externes, comme des bases de données, des pages web ou des cubes d'analyse, Excel Online vous permet actualiser ces données.
+
+## <a name="remove-duplicate-values"></a>Supprimer les valeurs en double
+<a name="bkmk_Removeduplicatevalues"></a> Vous pouvez supprimer les valeurs en double d’une plage ou d’une table. Pour plus d’informations, consultez la rubrique filtre des valeurs uniques ou [suppression des valeurs en double](https://support.office.com/en-us/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
+
   
 ## <a name="rename-and-add-sheets"></a>Rename and add sheets
 <a name="bkmk_renameaddsheets"> </a>
@@ -267,7 +303,7 @@ Dans Excel Online, vous pouvez renommer un fichier de classeur sans le fermer en
 ## <a name="replace"></a>Remplacement
 <a name="bkmk_Replace"> </a>
 
-Non disponible dans Excel Online. Si l'application Excel de bureau est installée sur votre ordinateur, vous pouvez utiliser Excel pour rechercher et remplacer du contenu dans un document. En savoir plus sur l'[utilisation des fonctions Rechercher et Remplacer dans Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282333).
+Non disponible dans Excel Online. Si l'application Excel de bureau est installée sur votre ordinateur, vous pouvez utiliser Excel pour rechercher et remplacer du contenu dans un document. En savoir plus sur [l’utilisation de rechercher et remplacer dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
 ## <a name="rights-management-irm-and-password-security"></a>Rights Management: IRM and password security
 <a name="bkmk_RightsManagement"> </a>
@@ -279,7 +315,7 @@ Non disponible dans Excel Online. Si l'application Excel de bureau est installé
 
 Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie à votre ordinateur, utilisez la commande Enregistrer sous de l'onglet Fichier ou cliquez avec le bouton droit sur le nom du classeur dans son dossier, puis utilisez la commande Télécharger .
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 <a name="bkmk_Share"> </a>
 
 Un seul clic suffit pour envoyer à vos collaborateurs un lien leur permettant d'afficher ou de modifier le document. En savoir plus sur l'[utilisation d'Office Online pour travailler ensemble dans Office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
@@ -318,6 +354,13 @@ Utilisez la fonction Enquête pour envoyer un formulaire Excel Online aux utilis
 <a name="bkmk_Tell_Me_Excel"> </a>
 
 Lorsque vous avez besoin d'exécuter une tâche dans Excel Online, mais ne savez pas comment, vous pouvez utiliser la fonction de recherche Rechercher pour trouver rapidement ce que vous cherchez. La fonction Rechercher comprend ce que vous essayez d'exécuter et vous aide à le faire plus rapidement en faisant des suggestions.
+
+## <a name="text-formatting"></a>Formatage du texte
+<a name="bkmk_Textformatting"></a> Vous pouvez appliquer diverses options de mise en forme de texte, y compris barré, augmentant/diminuant le retrait dans Excel online.
+
+## <a name="total-data"></a>Nombre total de données
+<a name="bkmk_Toaldata"></a> Vous pouvez rapidement totaliser les données d’un tableau en cliquant sur Afficher/masquer la ligne des totaux sous format de tableau dans l’onglet Accueil. 
+
   
 ## <a name="undo-and-redo"></a>Annuler et rétablir
 <a name="bkmk_UndoRedo"> </a>

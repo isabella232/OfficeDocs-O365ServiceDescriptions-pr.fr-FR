@@ -3,7 +3,7 @@ title: Description du service Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office Online vous permet de travailler et de partager en toute simplicité des fichiers Office, où que vous soyez, à l'aide d'une simple connexion Internet et sur presque tous les appareils. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246960"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544961"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
@@ -29,10 +29,10 @@ Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans 
 ## <a name="feature-availability-across-office-online-plans"></a>Disponibilité des fonctionnalités pour les différents plans Office Online
 <a name="bkmk_FeatureavailabilityO365"> </a>
 
-Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mieux aux besoins de votre organisation ? Les tableaux suivants comparent les fonctionnalités des fonctionnalités Office Online aux applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les tableaux pour découvrir les fonctionnalités disponibles dans Office Online, puis cliquez sur le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin de la fonctionnalité de graphique avancée de l'application de bureau Excel, tandis que d'autres personnes ont besoin d'afficher et de modifier légèrement les documents Word et les présentations PowerPoint avec Office Online. 
+Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mieux aux besoins de votre organisation ? Les tableaux suivants comparent les fonctionnalités des fonctionnalités Office Online aux applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les tableaux pour découvrir les fonctionnalités disponibles dans Office Online, puis cliquez sur le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin de la fonctionnalité de graphique avancée de l’application de bureau Excel, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement les documents Word et les présentations PowerPoint avec Office Online. 
   
 > [!NOTE]
->  Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. >  Microsoft Office 365 ProPlus est une offre d'abonnement mensuel à la dernière suite bureautique Office. > les clients Microsoft Office Online Server sur site reçoivent une licence de modification Office Online si elles ont acheté une licence pour la suite bureautique Office (par exemple, une licence Office professionnel plus, Office standard ou Office 365 proPlus). 
+>  Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. >  Microsoft Office 365 ProPlus est une offre d'abonnement mensuel à la dernière suite bureautique Office. > les clients Microsoft Office Online Server sur site reçoivent une licence de modification Office Online si elles ont acheté une licence pour la suite bureautique Office (par exemple, une licence Office professionnel plus, Office standard ou Office 365 ProPlus). 
   
 > [!NOTE]
 > Lorsque vous ouvrez un document Office, soit joint à un courrier électronique Outlook, soit à partir d'une bibliothèque de documents SharePoint, il s'affiche en lecture seule dans Office Online. Pour modifier un document dans Office Online (mode Édition), vous avez besoin d'une licence pour la suite Office 365, comme Office 365 Entreprise E1. Pour modifier un document dans l'application de bureau, vous avez besoin d'une licence pour la suite Office, comme un abonnement à Office 365 ProPlus ou une version installée d'Office Professionnel Plus 2010. 
@@ -120,6 +120,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |:-----|:-----|:-----|
 |**Fonctionnalités de l'application** <br/> |**Excel Online** <br/> |**Application de bureau Excel** <br/> |
 |[Vérificateur d'accessibilité](excel-online.md#add-hyperlinks) <br/> |Oui  <br/> |Oui  <br/> |
+|[Ajouter une couleur d’arrière-plan aux onglets de feuille](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Oui  <br/> |Oui  <br/> |
 |[Ajout de liens hypertexte](excel-online.md#add-hyperlinks) <br/> |Oui  <br/> |Oui  <br/> |
 |[Filtrage chronologique avancé (segment chronologique)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |Non  <br/> |Oui  <br/> |
 |[Alignement](excel-online.md#alignment) <br/> |Oui  <br/> |Oui  <br/> |
@@ -129,6 +130,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Saisie semi-automatique](excel-online.md#autocomplete) <br/> |Oui  <br/> |Oui  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Oui  <br/> |Oui  <br/> |
 |[Positionnement](excel-online.md#calculations) <br/> |Oui  <br/> |Oui  <br/> |
+|[Appeler des références dans des formules](excel-online.md#call-reference-in-formulas) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création de commentaires](excel-online.md#comment-creation) <br/> |Oui  <br/> |Oui  <br/> |
 |[Copie et collage](excel-online.md#copy-and-paste) <br/> |Oui  <br/> |Oui  <br/> |
 |[Créer des connexions de données externes<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |N °<sup>3</sup> <br/> |Oui  <br/> |
@@ -136,9 +138,10 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Création de vues d'analyse avancées (Power View, Power Pivot, Segments)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |Non  <br/> |Oui  <br/> |
 |[Validation des données](excel-online.md#data-validation) <br/> |Oui <br/> |Oui  <br/> |
 |[Glisser-déplacer des cellules](excel-online.md#drag-and-drop-cells) <br/> |Oui  <br/> |Oui  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |Oui  <br/> |Oui  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |Oui  <br/> |Oui  <br/>|
+|[Dupliquer (copier) workseets](excel-online.md#duplicate-copy-worksheets) <br/> |Oui  <br/> |Oui  <br/>|
 |[Incorporation de classeur dans une page web ou dans un blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Oui  <br/> |Non  <br/> |
-|[Références externes](excel-online.md#external-references-links) <br/> |N °<sup>5</sup> <br/> |Oui  <br/> |
+|[Références externes](excel-online.md#external-references-links) <br/> |N °<sup>4</sup> <br/> |Oui  <br/> |
 |[Poignée de recopie](excel-online.md#fill-handle) <br/> |Oui  <br/> |Oui  <br/> |
 |[Rechercher](excel-online.md#find) <br/> |Oui  <br/> |Oui  <br/> |
 |[Mise en forme de caractères et de cellules](excel-online.md#font-and-cell-formatting) <br/> |Oui  <br/> |Oui  <br/> |
@@ -148,16 +151,20 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Mode Lecture haute fidélité](excel-online.md#full-fidelity-reading-view) <br/> |Oui  <br/> |Oui  <br/> |
 |[Fonctions](excel-online.md#functions) <br/> |Oui  <br/> |Oui  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Oui  <br/> |Oui  <br/> |
+|[Données de groupe](excel-online.md#group-data) <br/> |Oui  <br/> |Oui  <br/> |
 |[Masquer/Afficher des lignes, des colonnes et des feuilles](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Oui  <br/> |Oui  <br/> |
-|[Insérer une forme/image](excel-online.md#insert-charts) <br/> |Oui  <br/> |Oui  <br/> |
+|[Idées](excel-online.md#ideas) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insertion de graphiques](excel-online.md#insert-charts) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insertion ou suppression de lignes et de colonnes](excel-online.md#insertdelete-rows-and-columns) <br/> |Oui  <br/> |Oui  <br/> |
+|[Insérer des images](excel-online.md#insert-pictures) <br/> |Oui  <br/> |Oui  <br/> |
+|[Insérer des formes](excel-online.md#insert-shapes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Fusion de cellules](excel-online.md#merge-cells) <br/> |Oui  <br/> |Oui  <br/> |
+|[Plage nommée](excel-online.md#named-ranges) <br/> |Oui  <br/> |Oui  <br/> |
 |[Format des nombres](excel-online.md#number-formatting) <br/> |Oui  <br/> |Oui  <br/> |
 |[Compléments Office](excel-online.md#office-add-ins) <br/> |Oui <br/> |Oui  <br/> |
 |[Création et affichage hors connexion](excel-online.md#offline-viewing-and-authoring) <br/> |Non  <br/> |Oui  <br/> |
-|[graphiques croisés dynamiques ;](excel-online.md#post-to-social-network-and-present-online) <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
-|[tableaux croisés dynamiques ;](excel-online.md#post-to-social-network-and-present-online) <br/> |Oui  <br/> |Oui  <br/> |
+|[graphiques croisés dynamiques ;](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
+|[tableaux croisés dynamiques ;](excel-online.md#pivot-tables) <br/> |Oui  <br/> |Oui  <br/> |
 |[Publication sur les réseaux sociaux et présentation en ligne](excel-online.md#post-to-social-network-and-present-online) <br/> |Non  <br/> |Oui  <br/> |
 |[Affichage Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Oui  <br/> |Oui  <br/> |
 |[Vues Power View](excel-online.md#power-view-viewing) <br/> |Oui  <br/> |Oui  <br/> |
@@ -165,6 +172,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Co-création en temps réel](excel-online.md#real-time-co-authoring) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création et modification de graphiques recommandés avec les contrôles de mise en forme](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |Non  <br/> |Oui  <br/> |
 |[Actualisation de connexions de données existantes](excel-online.md#refresh-existing-data-connections) <br/> |Oui  <br/> |Oui  <br/> |
+|[Supprimer les valeurs en double](excel-online.md#remove-duplicate-values) <br/> |Oui  <br/> |Oui  <br/> |
 |[Changement de nom et ajout de feuilles](excel-online.md#rename-and-add-sheets) <br/> |Oui  <br/> |Oui  <br/> |
 |[Renommer un fichier alors que le classeur est ouvert](excel-online.md#rename-file-while-workbook-is-open) <br/> |Oui  <br/> |Non  <br/> |
 |[Remplacement](excel-online.md#replace) <br/> |Oui  <br/> |Oui  <br/> |
@@ -177,19 +185,19 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Audit et conformité de feuille de calcul](excel-online.md#spreadsheet-audit-and-compliance) <br/> |Non  <br/> |Oui  <br/> |
 |[Agrégats de barre d'état](excel-online.md#status-bar-aggregates) <br/> |Oui  <br/> |Oui  <br/> |
 |[Enquêtes](excel-online.md#surveys) <br/> |Oui  <br/> |Non  <br/> |
-|[Rechercher](excel-online.md#tell-me) <br/> |Oui  <br/> |Oui  <br/> |
+|[Rechercher](excel-online.md#tell-me) <br/> |Oui  <br/> |Oui  <br/>|
+|[Formatage du texte](excel-online.md#text-formatting) <br/> |Oui  <br/> |Oui  <br/>|
+|[Nombre total de données](excel-online.md#total-data) <br/> |Oui  <br/> |Oui  <br/>|
 |[Annuler et rétablir](excel-online.md#undo-and-redo) <br/> |Oui  <br/> |Oui  <br/> |
 |[Écriture de macro VBA](excel-online.md#vba-and-macro-scripting) <br/> |Oui<sup>3</sup>  <br/> |Oui  <br/> |
 |[Affichage de graphiques 3D](excel-online.md#view-3d-charts) <br/> |Oui  <br/> |Oui  <br/> |
 |[Outils d'analyse « What if »](excel-online.md#what-if-analysis-tools) <br/> |Non  <br/> |Oui  <br/> |
 
 > <sup>1</sup> impossible de créer des graphiques croisés dynamiques.
- <br/><sup>2</sup> en fonction de la configuration de votre environnement, certains types de connexions de données sont pris en charge pour les classeurs affichés dans Excel online. Pour plus d'informations, consultez la rubrique actualisation des données dans un classeur dans une fenêtre de navigateur. 
+ <br/><sup>2</sup> en fonction de la configuration de votre environnement, certains types de connexions de données sont pris en charge pour les classeurs affichés dans Excel online. Pour plus d’informations, consultez la rubrique actualisation des données dans un classeur dans une fenêtre de navigateur. 
  <br/><sup>3</sup> vous ne pouvez pas créer de macros avec VBA dans Excel Online, mais vous pouvez ouvrir et modifier des feuilles de calcul prenant en charge VBA sans supprimer (ou endommager) le code VBA contenu dans le fichier.
- <br/><sup>4</sup> les classeurs qui utilisent la validation des données peuvent être modifiés dans Excel Online, mais la validation des données ne peut pas être configurée dans Excel online. 
- <br/><sup>5</sup> dans Excel Online, la dernière valeur de référence connue s'affiche dans la fenêtre du navigateur; Toutefois, il doit être mis à jour à l'aide d'Excel Desktop. 
- <br/><sup>6</sup> vous pouvez afficher les volets figés créés à l'aide de l'application de bureau Excel, mais vous ne pouvez pas créer de volets figés dans Excel online. 
- <br/><sup>7</sup> certains des compléments Office sont disponibles. 
+ <br/><sup>4</sup> dans Excel Online, la dernière valeur de référence connue s’affiche dans la fenêtre du navigateur; Toutefois, il doit être mis à jour à l’aide de l’application Excel de bureau. 
+ <br/><sup>5</sup> Certains compléments Office sont disponibles, mais pas tous. 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>
@@ -236,10 +244,10 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Affichage des versions précédentes d'une page](onenote-online.md#view-previous-page-versions) <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> dans OneNote Online, vous pouvez déplacer des sections dans un bloc-notes et copier-coller des pages d'une section à une autre. 
+> <sup>1</sup> dans OneNote Online, vous pouvez déplacer des sections dans un bloc-notes et copier-coller des pages d’une section à une autre. 
  <br/> <sup>2</sup> certains des compléments Office sont disponibles. 
  <br/><sup>3</sup> vous pouvez effectuer une recherche sur une page ou une section, mais pas sur tout le bloc-notes ou sur tous les blocs-notes (comme vous pouvez le faire dans la version de bureau). 
- <br/><sup>4</sup> dans la version de bureau, il n'existe pas d'option «Télécharger», mais vous pouvez l'enregistrer sous un autre emplacement. 
+ <br/><sup>4</sup> dans la version de bureau, il n’existe pas d’option «Télécharger», mais vous pouvez l’enregistrer sous un autre emplacement. 
   
 ### <a name="powerpoint"></a>PowerPoint
 <a name="BKMK_PowerPointFeatures"> </a>
@@ -291,8 +299,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Afficher et modifier des commentaires de diapositives](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Affichage WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Oui  <br/> |Oui  <br/> |
    
-> <sup>1</sup> PowerPoint Online prend en charge une galerie de huit transitions et de 37 animations. Pour une sélection plus large ou pour créer des animations personnalisées, utilisez l'application de bureau PowerPoint. 
- <br/><sup>2</sup> l'appareil sur lequel vous travaillez doit prendre en charge l'entrée manuscrite. 
+> <sup>1</sup> PowerPoint Online prend en charge une galerie de huit transitions et de 37 animations. Pour une sélection plus large ou pour créer des animations personnalisées, utilisez l’application de bureau PowerPoint. 
+ <br/><sup>2</sup> l’appareil sur lequel vous travaillez doit prendre en charge l’entrée manuscrite. 
  <br/> <sup>3</sup> certains des compléments Office sont disponibles. 
  <br/><sup>4</sup> vous ne pouvez pas créer de graphiques croisés dynamiques ou de tableaux croisés dynamiques, mais vous pouvez les voir dans la visionneuse. 
   
