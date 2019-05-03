@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544841"
+ms.locfileid: "33553483"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -456,19 +456,22 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
     
 - **Nombre de fois qu'un message est redirigé** Nombre de fois qu'un message est redirigé ou transféré, ou reçoit une réponse automatique sur la base des règles de boîte de réception. Par exemple, l'utilisateur A dispose d'une règle de boîte de réception qui redirige les messages vers l'utilisateur B, en fonction de l'expéditeur. L'utilisateur B dispose d'une règle de boîte de réception qui transfère les messages à l'utilisateur C, en fonction des mots clés figurant dans la ligne Objet. Si un message remplit les deux conditions, il est envoyé uniquement à l'utilisateur B et n'est pas transféré à l'utilisateur C parce qu'une seule redirection est autorisée. Dans ce cas, le message est supprimé sans envoyer de notification d’échec de remise (NDR) à l’utilisateur B, indiquant que le message n’a pas été remis à l’utilisateur C. Nous utilisons l’en-tête X-MS-Exchange-Inbox-Rules-Loop pour déterminer le nombre de fois qu’un message a été redirigé. Cet en-tête reste également à l’échelle de l’organisation Exchange.
 
+- **Nombre de fois qu’un message est redirigé par les règles de transport** Nombre de fois qu’un message est redirigé en fonction des règles de transport. Par exemple, l’organisation Exchange Tailspin Toys dispose d’une règle de transport pour rediriger chaque message envoyé à l’utilisateur A vers l’utilisateur B, qui se trouve dans l’organisation Exchange contoso. Dans l’organisation Exchange Contoso, une règle de transport est mise en place pour rediriger chaque message envoyé à l’utilisateur B vers l’utilisateur C, qui se trouve dans l’organisation Exchange A. Datum Corporation. Dans ce cas, le message est supprimé et une notification d’échec de remise (NDR) avec un code d’État et un message de rejet *550 5.7.128. Gestion. RejectMessage Nombre de boucles de règles de transport dépassées et message rejeté* est envoyé à l’utilisateur a. Nous utilisons l’en-tête X-MS-Exchange-transport-Rules-Loop pour déterminer le nombre de fois qu’un message a été redirigé par des règles de transport. Cet en-tête reste également à l’échelle de l’organisation Exchange.
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Limites concernant les règles de journal, de transport et de boîte de réception parmi les options Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Nombre maximal de règles de journal|10 règles|10 règles|10 règles|10 règles|10 règles|10 règles|
+|Nombre maximal de règles de journal|10 règles|10 règles|10 règles|10 règles|10 règles|10 règles|
 |Nombre maximal de règles de transport|300 règles|300 règles|300 règles|300 règles|300 règles|300 règles|
 |Taille maximale d’une règle de transport|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport|20 Ko|20 Ko|20 Ko|20 Ko|20 Ko|20 Ko|
 |Limites d’analyse pour le contenu des pièces jointes|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|
 |Nombre maximal de destinataires ajoutés à un message par l'ensemble des règles de transport|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|
 |Limite des destinataires de transfert|10 destinataires|10 destinataires|10 destinataires|10 destinataires|10 destinataires|10 destinataires|
-|Nombre de fois qu’un message est redirigé|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé par les règles de transport|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limites concernant les règles de journal, de transport et de boîte de réception parmi les options autonomes
 
@@ -481,7 +484,8 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport|Sans limite|20 Ko|20 Ko|20 Ko|
 |Nombre maximal de destinataires ajoutés à un message par l’ensemble des règles de transport|Aucune limite|100 destinataires|100 destinataires|100 destinataires|
 |Limite des destinataires de transfert|Sans limite|10 destinataires|10 destinataires|10 destinataires|
-|Nombre de fois qu’un message est redirigé|3 redirections|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé|3 redirections|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé par les règles de transport|Sans limite|1 redirection|1 redirection|1 redirection|
 
 ## <a name="moderation-limits"></a>Limites de modération
 <a name="ModerationLimits"> </a>
