@@ -3,7 +3,7 @@ title: Description du service Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office Online vous permet de travailler et de partager en toute simplicité des fichiers Office, où que vous soyez, à l'aide d'une simple connexion Internet et sur presque tous les appareils. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621864"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641630"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
@@ -111,7 +111,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Zoom](word-online.md#zoom) <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> ces rendez-vous dans la visionneuse, mais vous ne pouvez pas les créer ou les modifier dans Office Online. > <sup>2</sup> certains des compléments Office sont disponibles. 
+> <sup>1</sup> ces rendez-vous dans la visionneuse, mais vous ne pouvez pas les créer ou les modifier dans Office Online. <br/>
+> <sup>2</sup> certains des compléments Office sont disponibles. <br/>
   
 ### <a name="excel"></a>Excel
 <a name="BKMK_ExcelFeatures"> </a>
@@ -153,7 +154,6 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[GoTo](excel-online.md#goto) <br/> |Oui  <br/> |Oui  <br/> |
 |[Données de groupe](excel-online.md#group-data) <br/> |Oui  <br/> |Oui  <br/> |
 |[Masquer/Afficher des lignes, des colonnes et des feuilles](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Oui  <br/> |Oui  <br/> |
-|[Idées](excel-online.md#ideas) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insertion de graphiques](excel-online.md#insert-charts) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insertion ou suppression de lignes et de colonnes](excel-online.md#insertdelete-rows-and-columns) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insérer des images](excel-online.md#insert-pictures) <br/> |Oui  <br/> |Oui  <br/> |
@@ -193,6 +193,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Affichage de graphiques 3D](excel-online.md#view-3d-charts) <br/> |Oui  <br/> |Oui  <br/> |
 |[Outils d'analyse « What if »](excel-online.md#what-if-analysis-tools) <br/> |Non  <br/> |Oui  <br/> |
 
+> [!NOTE] 
 > <sup>1</sup> impossible de créer des graphiques croisés dynamiques.
  <br/><sup>2</sup> en fonction de la configuration de votre environnement, certains types de connexions de données sont pris en charge pour les classeurs affichés dans Excel online. Pour plus d’informations, consultez la rubrique actualisation des données dans un classeur dans une fenêtre de navigateur. 
  <br/><sup>3</sup> vous ne pouvez pas créer de macros avec VBA dans Excel Online, mais vous pouvez ouvrir et modifier des feuilles de calcul prenant en charge VBA sans supprimer (ou endommager) le code VBA contenu dans le fichier.
@@ -298,7 +299,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Afficher et ajouter des commentaires](powerpoint-online.md#view-and-add-comments) <br/> |Oui  <br/> |Oui  <br/> |
 |[Afficher et modifier des commentaires de diapositives](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Affichage WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Oui  <br/> |Oui  <br/> |
-   
+
+> [!NOTE]   
 > <sup>1</sup> PowerPoint Online prend en charge une galerie de huit transitions et de 37 animations. Pour une sélection plus large ou pour créer des animations personnalisées, utilisez l’application de bureau PowerPoint. 
  <br/><sup>2</sup> l’appareil sur lequel vous travaillez doit prendre en charge l’entrée manuscrite. 
  <br/> <sup>3</sup> certains des compléments Office sont disponibles. 
@@ -333,7 +335,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |OpenDocument (.odp)  <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Les macros ne peuvent pas être exécutées ni modifiées. > <sup>2</sup> Si le fichier contient des macros, les utilisateurs sont invités à en ouvrir une copie dépourvue des macros. 
+> <sup>1</sup> Les macros ne peuvent pas être exécutées ni modifiées.<br/>
+> <sup>2</sup> Si le fichier contient des macros, les utilisateurs sont invités à en ouvrir une copie dépourvue des macros.<br/> 
   
 > [!NOTE]
 > Les formats de fichiers plus récents (comme .docx, .xlsl et .pptx) peuvent être créés dans Office 2016, 2013, 2010 ou 2007, ou dans Office 2000 et les versions ultérieures avec le pack de compatibilité. 

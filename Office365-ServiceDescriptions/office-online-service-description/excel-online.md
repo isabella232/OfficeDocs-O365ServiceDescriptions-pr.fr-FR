@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online.
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621824"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641620"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Naviguez rapidement dans votre feuille de calcul en utilisant la fonction GoTo. 
 <a name="bkmk_HideUnhide"> </a>
 
 Vous pouvez masquer ou afficher les lignes, colonnes et feuilles dans un classeur Excel Online.
- 
-## <a name="ideas"></a>Idées
-<a name="Ideas"> </a>
-
-Des idées vous permettent de comprendre vos données grâce à des résumés visuels, des tendances et des modèles visuels de haut niveau. Il vous suffit de cliquer sur une cellule d’une plage de données, puis sur le bouton idées sous l’onglet Accueil. en savoir plus sur les [idées](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ Non disponible dans Excel Online. Vous pouvez afficher les résultats de l'analy
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Office Online](office-online-service-description.md). 
-
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Office Online](office-online-service-description.md).
