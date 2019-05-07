@@ -3,7 +3,7 @@ title: Gestion de projets
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 12/21/2016
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Les fonctionnalités de gestion de projet suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 4e21f1ee6a0709975c5375136d38ddc9533fefb9
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: d6d51ff730b825b39fdeb8da039e1a56829aa82d
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246880"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621844"
 ---
 # <a name="project-management"></a>Gestion de projets
 
@@ -48,5 +48,7 @@ La planification représente les tâches et livrables à réaliser pour mener à
 <a name="bkmk_TimeTaskManagement"> </a>
 
 Utilisez une approche centralisée et commune à la gestion de tâches et de rapports de temps. Capturez les périodes de travail et chômées à des fins de paie, de facturation et à d'autres fins d'entreprise. Communiquez efficacement l'état sur les projets, les tâches quotidiennes et les demandes ad hoc pour évaluer les pics et les creux d'utilisation ou l'avancement des tâches. Cela vous aide à anticiper l'effet sur les efforts, les coûts et l'échéancier prévus. Pour en savoir plus, consultez la rubrique [Effectuer le suivi de votre temps et de l'avancement de vos tâches](https://go.microsoft.com/fwlink/p/?LinkId=271321).
-  
+
+## <a name="project-home"></a>Accueil de projet
+Project Home est le point de départ qui vous permet d’accéder rapidement et facilement aux projets qui ont récemment travaillé sur des projets de haut niveau et importants. Vous pouvez marquer ces projets comme favoris avec des contrôles conviviaux afin qu’ils s’affichent de manière visible dans la maison de projet. Pour en savoir plus, consultez la rubrique [prise en main de Project Home](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US).
 

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office Online vous permet de travailler et de partager en toute simplicité des fichiers Office, où que vous soyez, à l'aide d'une simple connexion Internet et sur presque tous les appareils. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: a631eee316ede56a13f2d6e8d1da8a636dd1a032
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544961"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621864"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
@@ -130,7 +130,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Saisie semi-automatique](excel-online.md#autocomplete) <br/> |Oui  <br/> |Oui  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Oui  <br/> |Oui  <br/> |
 |[Positionnement](excel-online.md#calculations) <br/> |Oui  <br/> |Oui  <br/> |
-|[Appeler des références dans des formules](excel-online.md#call-reference-in-formulas) <br/> |Oui  <br/> |Oui  <br/> |
+|[Références de cellule dans les formules](excel-online.md#cell-references-in-formulas) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création de commentaires](excel-online.md#comment-creation) <br/> |Oui  <br/> |Oui  <br/> |
 |[Copie et collage](excel-online.md#copy-and-paste) <br/> |Oui  <br/> |Oui  <br/> |
 |[Créer des connexions de données externes<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |N °<sup>3</sup> <br/> |Oui  <br/> |
@@ -159,12 +159,12 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Insérer des images](excel-online.md#insert-pictures) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insérer des formes](excel-online.md#insert-shapes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Fusion de cellules](excel-online.md#merge-cells) <br/> |Oui  <br/> |Oui  <br/> |
-|[Plage nommée](excel-online.md#named-ranges) <br/> |Oui  <br/> |Oui  <br/> |
+|[Plages nommées](excel-online.md#named-ranges) <br/> |Oui  <br/> |Oui  <br/> |
 |[Format des nombres](excel-online.md#number-formatting) <br/> |Oui  <br/> |Oui  <br/> |
-|[Compléments Office](excel-online.md#office-add-ins) <br/> |Oui <br/> |Oui  <br/> |
+|[Compléments Office](excel-online.md#office-add-ins) <br/> |Oui<sup>5</sup>  <br/> |Oui  <br/> |
 |[Création et affichage hors connexion](excel-online.md#offline-viewing-and-authoring) <br/> |Non  <br/> |Oui  <br/> |
-|[graphiques croisés dynamiques ;](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
-|[tableaux croisés dynamiques ;](excel-online.md#pivot-tables) <br/> |Oui  <br/> |Oui  <br/> |
+|[Tableaux](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |Oui  <br/> |Oui  <br/> |
 |[Publication sur les réseaux sociaux et présentation en ligne](excel-online.md#post-to-social-network-and-present-online) <br/> |Non  <br/> |Oui  <br/> |
 |[Affichage Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Oui  <br/> |Oui  <br/> |
 |[Vues Power View](excel-online.md#power-view-viewing) <br/> |Oui  <br/> |Oui  <br/> |

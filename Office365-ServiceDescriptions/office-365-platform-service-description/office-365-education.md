@@ -3,7 +3,7 @@ title: Office 365 Éducation
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 associe la suite bureautique très répandue Microsoft Office et des versions des services de communications et de collaboration en nuage Microsoft comprenant Microsoft Exchange Online, Microsoft SharePoint Online, Office Online et Microsoft Skype Entreprise Online pour améliorer au moyen d'Internet la productivité des utilisateurs situés pratiquement n'importe où.
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544971"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621924"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -698,7 +698,7 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Nombre maximal de règles de journal  <br/> |10 règles  <br/> |10 règles  <br/> |10 règles  <br/> |
+|Nombre maximal de règles de journal  <br/> |50 règles  <br/> |50 règles  <br/> |50 règles  <br/> |
 |Nombre maximal de règles de transport  <br/> |300 règles  <br/> |300 règles  <br/> |300 règles  <br/> |
 |Taille maximale d’une règle de transport  <br/> |8 Ko  <br/> |8 Ko  <br/> |8 Ko  <br/> |
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport  <br/> |20 Ko  <br/> |20 Ko  <br/> |20 Ko  <br/> |
@@ -1014,7 +1014,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |People, Sites, Document Recommendations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Personal Site <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Photos and Presence <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Profils <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Profil <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Évaluations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Shared with Me <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

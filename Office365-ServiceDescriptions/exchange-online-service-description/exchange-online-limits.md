@@ -3,7 +3,7 @@ title: Limites d’Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
-ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
+ms.openlocfilehash: dd9d4584115fa32a5ae69b4481d43256a1d1f179
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33553483"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621884"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -463,7 +463,7 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Nombre maximal de règles de journal|10 règles|10 règles|10 règles|10 règles|10 règles|10 règles|
+|Nombre maximal de règles de journal|50 règles|50 règles|50 règles|50 règles|50 règles|50 règles|
 |Nombre maximal de règles de transport|300 règles|300 règles|300 règles|300 règles|300 règles|300 règles|
 |Taille maximale d’une règle de transport|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport|20 Ko|20 Ko|20 Ko|20 Ko|20 Ko|20 Ko|
@@ -478,7 +478,7 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
-|Nombre maximal de règles de journal|Aucune limite|10 règles|10 règles|10 règles|
+|Nombre maximal de règles de journal|Aucune limite|50 règles|50 règles|50 règles|
 |Nombre maximal de règles de transport|Sans limite|300 règles|300 règles|300 règles|
 |Taille maximale d’une règle de transport|40 Ko|8 Ko|8 Ko|8 Ko|
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport|Sans limite|20 Ko|20 Ko|20 Ko|
