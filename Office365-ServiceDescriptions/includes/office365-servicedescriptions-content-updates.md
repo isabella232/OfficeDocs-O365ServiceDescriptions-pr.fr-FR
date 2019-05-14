@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-april-01-2019"></a>Semaine du 1er avril 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 4/3/2019 | [Centre de sécurité et conformité Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modifié |
-| 4/4/2019 | [Description du service Office 365 - Protection avancée contre les menaces](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modifié |
-
-
 ## <a name="week-of-april-08-2019"></a>Semaine du 08 avril 2019
 
 
@@ -81,3 +72,15 @@
 | 5/3/2019 | [Gestion de portefeuille](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | modifié |
 | 5/3/2019 | [Gestion de projet](/Office365/ServiceDescriptions/project-online-service-description/project-management) | modifié |
 | 5/3/2019 | [Description du service Project Online](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | modifié |
+
+
+## <a name="week-of-may-06-2019"></a>Semaine du mois de mai 06, 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modifié |
+| 5/6/2019 | [Description du service Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modifié |
+| 5/7/2019 | [Description du service Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modifié |
+| 5/7/2019 | [Support](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modifié |
+| 5/7/2019 | [Description du service Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modifié |
