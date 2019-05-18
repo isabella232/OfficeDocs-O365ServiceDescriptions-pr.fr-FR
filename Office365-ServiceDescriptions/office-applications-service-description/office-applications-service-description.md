@@ -3,7 +3,7 @@ title: Description de service des applications Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 341f5818ba89fe100218a333d13c045f26c45e3c
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+ms.openlocfilehash: 07bec4e0280d310f4fbb553348aa8b4b4dd0bce6
+ms.sourcegitcommit: 3648328c4e8e74403134c46c528f4534687dbdec
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973362"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34158912"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -54,9 +54,9 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Non  <br/>|Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Applications Windows 10](office-applications.md#windows-10-apps) <br/> |Oui  <br/> |Oui  <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Office pour Mac pour Office 365](https://go.microsoft.com/fwlink/?linkid=197079) <br/> |Non  <br/> |Non  <br/>|Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Office Mobile pour iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Non  <br/> |Oui<sup>13</sup> <br/>|Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Office Mobile pour Android](office-applications.md#office-mobile-for-android) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup>  <br/>|Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Office Mobile pour Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui <sup>13</sup> <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Office Mobile pour iPad/iPhone](office-applications.md#office-mobile-for-ipadiphone) <br/> |Non  <br/> |Oui<sup>13</sup> <br/>|Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |
+|[Office Mobile pour Android](office-applications.md#office-mobile-for-android) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup>  <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |
+|[Office Mobile pour Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui <sup>13</sup> <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |
 |Outlook pour Android  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |**Enterprise Value** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office professionnel plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Non  <br/>| Non  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -106,6 +106,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 <sup>11</sup> l’accès est actuellement disponible si vous êtes sur le canal actuel ou sur la version cible du canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d'informations, reportez-vous à l'article relatif à [l'inclusion d'Access dans le cadre d'Office 365 Business et de Business Premium](https://support.office.com/en-us/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/> 
 <sup>12</sup> InfoPath 2013 est toujours pris en charge et est disponible dans l’installation d’Office professionnel plus 2016, mais il n’existe pas de nouvelle version pour Office 2016.<br/> 
 <sup>13</sup> prise en charge des fonctionnalités d’édition de base uniquement.<br/> 
+<sup>14</sup> limité aux appareils avec des écrans intégrés mesurant 10,1 pouces ou moins en diagonale.<br/> 
 ## <a name="office-application-availability-in-office-for-mac-in-office-365-plans"></a>Disponibilité de l’application Office dans Office pour Mac dans les plans Office 365
 <a name="bkmk_Officefeaturesolutions"> </a>
 
