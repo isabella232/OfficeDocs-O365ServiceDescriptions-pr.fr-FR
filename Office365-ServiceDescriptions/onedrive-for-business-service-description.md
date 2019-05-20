@@ -3,7 +3,6 @@ title: Description du service OneDrive Entreprise
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,36 +13,20 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
-description: OneDrive Entreprise est un espace de stockage en ligne dans le cloud, qui vous est fourni par votre entreprise. Il vous permet de stocker et de protéger vos fichiers de travail, et d’y accéder facilement sur plusieurs périphériques. Partagez vos fichiers avec vos collègues, si nécessaire, et collaborez sur des documents Office en temps réel avec les dernières applications Office de bureau, web et mobiles. Synchronisez les fichiers sur votre ordinateur local à l’aide du client de synchronisation OneDrive Entreprise.
-ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Découvrez l’espace de stockage OneDrive fourni pour chaque plan d’abonnement.
+ms.openlocfilehash: 53023491a4b417a6daa2ba0eb57d5e443510c5c3
+ms.sourcegitcommit: 9ea9aa7c3d87354af4ac69f950e36b895b930463
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246920"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34080465"
 ---
 # <a name="onedrive-for-business-service-description"></a>Description du service OneDrive Entreprise
 
-OneDrive Entreprise est un espace de stockage en ligne dans le cloud, qui vous est fourni par votre entreprise. Il vous permet de stocker et de protéger vos fichiers de travail, et d’y accéder facilement sur plusieurs périphériques. Partagez vos fichiers avec vos collègues, si nécessaire, et collaborez sur des documents Office en temps réel avec les dernières applications Office de bureau, web et mobiles. Synchronisez les fichiers sur votre ordinateur local à l’aide du client de synchronisation OneDrive Entreprise.
+OneDrive est un espace de stockage en ligne dans le cloud fourni pour les utilisateurs titulaires d’une licence au sein d’une organisation. Vous pouvez l’utiliser pour protéger des fichiers de travail et y accéder sur plusieurs appareils. OneDrive vous permet de partager des fichiers, de collaborer sur des documents et de synchroniser des fichiers sur votre ordinateur. [Apprenez-en davantage sur les fonctions, la fonctionnalité et la tarification de OneDrive](https://go.microsoft.com/fwlink/?linkid=850345). 
   
-OneDrive Entreprise est inclus dans SharePoint Online, et peut également être acheté en tant qu’offre autonome ou avec des offres Office 365. 
-  
-Pour en savoir plus sur les fonctionnalités et fonctions de OneDrive Entreprise, consultez la page relative à [OneDrive](https://go.microsoft.com/fwlink/?linkid=850345).
-  
-## <a name="subscription-plans"></a>Offres d’abonnement
-
-OneDrive Entreprise est disponible dans les offres suivantes.
-  
-||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
-|Plan OneDrive Entreprise inclus  <br/> |Offre 1  <br/> |Offre 1  <br/> |Offre 1  <br/> |Offre 1  <br/> |Offre 1  <br/> |Offre 2  <br/> |Offre 2  <br/> |Offre F (anciennement Offre K)  <br/> |
-   
-||||
-|:-----|:-----|:-----|
-|**Service** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |
-|OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
-   
+OneDrive est inclus dans les offres Microsoft 365, Office 365 et SharePoint Online. Vous pouvez également l’acheter séparément. 
+    
 Pour comparer les offres, consultez les pages de [comparaison des offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?linkid=799177) et de [comparaison des offres OneDrive Entreprise](https://products.office.com/fr-FR/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
@@ -51,80 +34,79 @@ Pour comparer les offres, consultez les pages de [comparaison des offres Office 
   
 ## <a name="system-requirements"></a>Configuration requise
 
-Pour connaître la configuration requise, consultez cette [page](https://go.microsoft.com/fwlink/?linkid=837584).
+Pour connaître la configuration requise pour le client de synchronisation et l’application mobile OneDrive, voir [Configuration requise pour OneDrive](https://go.microsoft.com/fwlink/?linkid=837584).
   
 ## <a name="about-sync"></a>À propos de la synchronisation
 
-Si vous ne disposez pas de la dernière version du client de synchronisation OneDrive Entreprise, consultez la rubrique [Comment installer le client de synchronisation OneDrive Entreprise pour SharePoint et SharePoint Online](https://support.microsoft.com/fr-FR/help/2903984/how-to-install-onedrive-for-business-for-sharepoint-and-sharepoint-onl). Vous ne savez pas quel client de synchronisation vous utilisez ? Reportez-vous à la rubrique [Quelle version de OneDrive utilisez-vous ?](https://go.microsoft.com/fwlink/?linkid=846624)
+Pour installer le client de synchronisation le plus récent, accédez à la [page de téléchargement de OneDrive](https://onedrive.live.com/about/download/). 
   
-## <a name="unlimited-cloud-storage-details"></a>Détails concernant le stockage illimité dans le cloud
+## <a name="storage-space-per-user"></a>Espace de stockage par utilisateur
 
-Les offres suivantes fournissent un espace de stockage personnel illimité dans le cloud pour les abonnements comprenant au moins cinq utilisateurs.
-  
-- OneDrive Entreprise (plan 2)
-    
+**2 Go**
+
+- Office 365 Entreprise F1
+
+**1 To**
+
+- Office 365 Business Essentials
+- Office 365 Business
+- Office 365 Business Premium
+- Office 365 ProPlus
+- Office 365 Entreprise E1
+- Office 365 Secteur Public G1
+- Office 365 Essentials pour les associations
+- Office 365 Premium pour les associations
+- Office 365 E1 pour les associations
+- OneDrive Entreprise (plan 1)
+- SharePoint Online (plan 1)
+
+**Au-delà de 1 To, illimité**
+ 
+1 To par utilisateur pour les abonnements de moins de 5 utilisateurs. Pour les abonnements de 5 utilisateurs ou plus, Microsoft fournit au départ 1 To par utilisateur, capacité que les administrateurs peuvent augmenter jusqu’à 5 To par utilisateur. ([Découvrez comment](/onedrive/set-default-storage-space)) Pour demander un espace de stockage supplémentaire, les administrateurs doivent contacter le Support Microsoft. 
+
+- Office 365 Entreprise E3
+- Office 365 Entreprise E5
+- OneDrive Entreprise (plan 2)
 - SharePoint Online (offre 2)
-    
 - Office 365 Entreprise E3
-    
 - Office 365 Entreprise E5
-    
 - Office 365 A1
-    
 - Office 365 A3
-    
 - Office 365 A5
-    
 - Office 365 pour le gouvernement américain G3
-    
 - Office 365 pour le gouvernement américain G5
-    
-- Office 365 E3 pour les associations
-    
-- Office 365 E5 pour les associations
-    
+- Office 365 E3 pour les associations 
+- Office 365 pour les associations E5 
 - Microsoft 365 Entreprise E3
-    
 - Microsoft 365 Entreprise E5
-    
 - Microsoft 365 A3
-    
 - Microsoft 365 A5
-    
 - Microsoft 365 pour le gouvernement américain G3
-    
 - Microsoft 365 pour le gouvernement américain G5
-    
 - Microsoft 365 E3 pour les associations
-    
 - Microsoft 365 E5 pour les associations
-    
-Les abonnements avec moins de cinq utilisateurs reçoivent 1 To de stockage dans le cloud par utilisateur. 
-  
-Au début, les clients disposeront de 1 To de stockage personnel dans le cloud par utilisateur dans OneDrive Entreprise. Quand ce quota de 1 To est atteint à 90 %, vous pouvez demander à votre administrateur Office 365 d’[augmenter l’espace de stockage OneDrive Entreprise par défaut](https://go.microsoft.com/fwlink/?linkid=838024) jusqu’à 5 To par utilisateur. 
+
   
 > [!NOTE]
 > Pour pouvoir augmenter l’espace de stockage OneDrive par défaut, vous devez attribuer au moins une licence à un utilisateur. 
   
-Lorsque vous avez besoin d'une capacité de stockage dans le cloud supérieure à la capacité initiale de 5 To, [ouvrez une demande de service auprès du support technique Microsoft](https://go.microsoft.com/fwlink/?linkid=869559). L'espace de stockage dans le cloud supplémentaire vous sera octroyé de la façon suivante : 
+En cas de besoin d’une capacité de stockage dans le cloud supérieure à la capacité initiale de 5 To pour certains utilisateurs, les administrateurs peuvent [ouvrir une demande de service auprès du support technique Microsoft](https://go.microsoft.com/fwlink/?linkid=869559). L’espace de stockage dans le cloud supplémentaire est octroyé comme suit : 
   
-- Si un utilisateur utilise au moins 90 % de l'espace de stockage OneDrive Entreprise de 5 To, Microsoft augmentera votre espace de stockage par défaut dans OneDrive Entreprise jusqu'à 25 To par utilisateur (les administrateurs peuvent définir une limite par utilisateur plus faible s'ils le souhaitent). 
+- Si un utilisateur utilise au moins 90 % de l’espace de stockage OneDrive de 5 To, Microsoft augmente l’espace de stockage par défaut dans OneDrive jusqu’à 25 To par utilisateur (les administrateurs peuvent définir une limite par utilisateur inférieure s’ils le souhaitent). 
     
-- Tout utilisateur utilisant au moins 90 % de son espace de stockage OneDrive Entreprise de 25 To se verra attribué un espace de stockage dans le cloud supplémentaire, par exemple des sites d'équipe SharePoint de 25 To pour les utilisateurs individuels. Cet espace de stockage supplémentaire est fourni au client via des crédits.
+- Tout utilisateur utilisant au moins 90 % de son espace de stockage OneDrive de 25 To se voit attribuer un espace de stockage dans le cloud supplémentaire, par exemple de 25 To pour un site d’équipe SharePoint. Cet espace de stockage supplémentaire est fourni à l’organisation par le biais d’un crédit.
     
-Pour consulter l'espace de stockage personnel dans le cloud que vous utilisez, votre administrateur Office 365 peut accéder au Centre d'administration OneDrive afin de gérer l'espace de stockage personnel dans le cloud des utilisateurs. 
-  
-Pour plus d'informations sur la façon dont les administrateurs Office 365 peuvent gérer les espaces de stockage des utilisateurs dans OneDrive Entreprise, reportez-vous à la rubrique [Modifier l'espace de stockage OneDrive de vos utilisateurs à l'aide de PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
-  
+Pour afficher l’espace de stockage et l’utilisation d’un utilisateur, accédez à [Gérer le stockage](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) dans le client de synchronisation OneDrive. Pour connaître la quantité d’espace de stockage utilisée par l’organisation, accédez au [Rapport d’utilisation du site OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) dans le Centre d’administration Microsoft 365. 
+   
 ## <a name="supported-uses"></a>Utilisations prises en charge
 
-Grâce à OneDrive Entreprise, chaque utilisateur peut facilement accéder à ses fichiers de travail dans son espace de stockage personnel en ligne dans le cloud, ainsi que les stocker et les partager. Le stockage OneDrive Entreprise est fourni par utilisateur et est conçu pour s'adapter aux besoins d'utilisateurs individuels.
+Le stockage OneDrive est fourni par utilisateur, et conçu pour s’adapter aux besoins de chaque utilisateur.
   
-Le stockage de données autres que des fichiers personnels de travail d'un utilisateur (y compris, des sauvegardes système, ainsi que des données de niveau service ou organisation) n'est pas pris en charge. Il en est de même pour l'affectation d'une licence par utilisateur à un bot, à un service ou à une autre entité non humaine. SharePoint représente la meilleure solution de collaboration et de gestion avancées de contenu, notamment en matière de stockage et gestion de fichiers, de communications et de sites intranet dans une équipe ou une organisation.
+Le stockage de données autres que des fichiers de travail (ceux-ci incluant les sauvegardes système et les données de niveau départemental ou organisationnel) n’est pas pris en charge. Il en va de même de l’affectation d’une licence par utilisateur à un bot, à un service ou à une autre entité non humaine. SharePoint est la meilleure solution de collaboration et de gestion avancées de contenu, notamment en matière de stockage et gestion de fichiers, de communications et de sites intranet au sein d’une équipe ou d’une organisation.
   
-## <a name="onedrive-for-business-limitations"></a>Limitations de OneDrive Entreprise
+## <a name="onedrive-limits"></a>Limites de OneDrive
 
-OneDrive Entreprise est inclus dans SharePoint Online. Pour en savoir plus sur les limites, telles que les limites de chargement de fichiers et les quotas de collection de sites, reportez-vous aux rubriques [Limites de SharePoint Online](https://go.microsoft.com/fwlink/?linkid=829156) et [Restrictions et limitations lorsque vous synchronisez des fichiers et des dossiers](https://support.microsoft.com/fr-FR/help/3125202/restrictions-and-limitations-when-you-sync-files-and-folders).
+Pour en savoir plus sur les limites de fichier et de synchronisation, voir [Limites de SharePoint Online](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) et [Les noms de fichiers et les types de fichiers non valides dans OneDrive, OneDrive Entreprise et SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
   
 Pour les offres qui incluent un espace de stockage personnel illimité dans le cloud, notez que des limites peuvent s’appliquer à des fonctionnalités autres que celles de stockage. 
   
