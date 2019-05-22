@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/17/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-content-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
-description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de contenu suivantes rendent Enterprise Content Management (ECM) accessible à tous les types d'utilisateurs. Ce système combine une solution de gestion de contenu standard, des fonctionnalités sociales et un puissant outil de recherche.
-ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de contenu suivantes rendent Enterprise Content Management (ECM) accessible à tous les types d'utilisateurs. Ce système combine une solution de gestion de contenu standard, des fonctionnalités sociales et un puissant outil de recherche.
+ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246670"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342553"
 ---
 # <a name="content"></a>Contenu
 
-SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de contenu suivantes rendent Enterprise Content Management (ECM) accessible à tous les types d'utilisateurs. Ce système combine une solution de gestion de contenu standard, des fonctionnalités sociales et un puissant outil de recherche.
+SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de contenu suivantes rendent Enterprise Content Management (ECM) accessible à tous les types d'utilisateurs. Ce système combine une solution de gestion de contenu standard, des fonctionnalités sociales et un puissant outil de recherche.
   
 ## <a name="accessibility-standards-support"></a>Prise en charge des normes d'accessibilité
 <a name="bkmk_AccessibilitySS"> </a>
@@ -39,7 +39,7 @@ Une bibliothèque de biens est pré-configurée pour utiliser des fonctions spé
 ## <a name="auditing"></a>Audit
 <a name="bkmk_Auditing"> </a>
 
-Les administrateurs de collections de sites SharePoint Online peuvent utiliser la fonctionnalité d'audit pour suivre les actions effectuées sur les sites, les types de contenu, les listes, les bibliothèques, les éléments de liste et les fichiers de bibliothèque des collections de sites. En savoir plus sur la manière de [configurer les paramètres d'audit d'une collection de sites](https://go.microsoft.com/fwlink/?LinkId=270950).
+Les administrateurs de collections de sites SharePoint Online peuvent utiliser la fonctionnalité d’audit pour suivre les actions effectuées sur les sites, les types de contenu, les listes, les bibliothèques, les éléments de liste et les fichiers de bibliothèque des collections de sites. En savoir plus sur la manière de [configurer les paramètres d'audit d'une collection de sites](https://go.microsoft.com/fwlink/?LinkId=270950).
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Audit &amp; rapports (par exemple, modifications de documents, modifications de politiques, suppressions)
 <a name="bkmk_AuditingReporting"> </a>
@@ -51,7 +51,7 @@ Les administrateurs d'une collection de sites SharePoint Online peuvent utiliser
 
 Uniquement disponible pour les collections de sites privées. Un catalogue est une bibliothèque ou liste partagée avec d'autres sites et collections de sites. Découvrez comment [activer une bibliothèque ou une liste en tant que catalogue](https://go.microsoft.com/fwlink/p/?LinkId=330809).
   
-## <a name="category-page-and-catalog-item-page"></a>Page de catégorie et page d'élément de catalogue
+## <a name="category-page-and-catalog-item-page"></a>Page de catégorie et page d’élément de catalogue
 <a name="bkmk_WCMCategorypageandcatalogitempage"> </a>
 
 Uniquement disponible pour les collections de sites privées. Les pages de catégorie et les pages d'élément de catalogue sont des mises en page que vous pouvez utiliser pour le contenu du catalogue que vous souhaitez afficher systématiquement sur votre site. Découvrez [comment personnaliser les mises en page pour des sites basés sur le catalogue ](https://go.microsoft.com/fwlink/p/?LinkId=330808).
@@ -61,7 +61,7 @@ Uniquement disponible pour les collections de sites privées. Les pages de caté
 
 L'Organisateur de contenu fonctionne comme un gardien pour les documents. Vous pouvez automatiquement gérer certaines tâches importantes de la bibliothèque, par exemple la gestion de la taille des dossiers et l'acheminement des documents vers différentes bibliothèques ou différents dossiers. Cela permet non seulement de gagner du temps, mais aussi de garantir une gestion cohérente de la bibliothèque de document. En savoir plus sur l'[organisateur de contenu](https://go.microsoft.com/fwlink/?LinkId=270953).
   
-## <a name="cross-site-publishing"></a>Publication interSites
+## <a name="cross-site-publishing"></a>Publication intersites
 <a name="bkmk_WCMCrossSitePublishing"> </a>
 
 Uniquement disponible pour les collections de sites privées. La publication intersites est une méthode de publication. Elle vous permet de créer et de conserver du contenu dans une ou plusieurs collections de sites de création et de publier ce contenu sur une ou plusieurs collections de sites de publication à l'aide des composants WebPart de recherche. En savoir plus sur l'[activation de la fonctionnalité de publication intersites](https://go.microsoft.com/fwlink/p/?LinkId=330810).
@@ -116,7 +116,7 @@ Les utilisateurs du site peuvent générer un lien Invité (lien anonyme vers un
 
 Les utilisateurs peuvent synchroniser une bibliothèque SharePoint avec leurs ordinateurs, puis travailler avec des fichiers dans cette bibliothèque à l'aide de l'Explorateur Windows. Les mises à jour des fichiers se synchronisent avec SharePoint lorsque les utilisateurs sont en ligne. Vous pouvez synchroniser OneDrive Entreprise ou une bibliothèque de documents sur un site d'équipe. En savoir plus sur [Synchroniser une bibliothèque avec votre ordinateur](https://go.microsoft.com/fwlink/?LinkId=270962).
   
-## <a name="image-renditions"></a>Rendus d'image
+## <a name="image-renditions"></a>Rendus d’image
 <a name="bkmk_WCMImageRenditions"> </a>
 
 Les rendus d'image permettent aux organisations de disposer d'images sources de grande taille sur le site SharePoint tout en bénéficiant d'endroits sur le site où les pages utilisent des versions réduites des images uniquement.
@@ -124,7 +124,7 @@ Les rendus d'image permettent aux organisations de disposer d'images sources de 
 ## <a name="information-rights-management-irm"></a>Gestion des droits relatifs à l'information (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-L'IRM SharePoint Online utilise Azure information protection, une technologie de protection des informations dans Office 365. La protection IRM est appliquée au niveau de la liste SharePoint et de bibliothèque. En savoir plus sur [IRM dans SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+L’IRM SharePoint Online utilise Azure information protection, une technologie de protection des informations dans Office 365. La protection IRM est appliquée au niveau de la liste SharePoint et de bibliothèque. En savoir plus sur [IRM dans SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
   
 ## <a name="managed-metadata-service"></a>Service de métadonnées gérées
 <a name="bkmk_ManagedMetadataService"> </a>

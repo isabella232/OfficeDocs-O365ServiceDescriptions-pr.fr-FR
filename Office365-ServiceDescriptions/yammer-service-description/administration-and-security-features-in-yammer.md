@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - administration-and-security-features-in-yammer
@@ -13,18 +13,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Les fonctionnalités d’administration et de sécurité suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 9ee3f5821597f3d09e98dd6d0c155bbf194a6cc2
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246550"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342333"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Fonctionnalités d'administration et de sécurité dans Yammer
 
 Les fonctionnalités d’administration et de sécurité suivantes sont disponibles dans Yammer.
   
-Pour obtenir des explications et des procédures détaillées, reportez-vous au [Centre d'administration Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
+Pour obtenir des explications et des procédures détaillées, reportez-vous au [Centre d’administration Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
   
 ## <a name="custom-network-branding"></a>Custom Network Branding
 <a name="bkmk_CustomNetworkBranding"> </a>
@@ -77,7 +77,7 @@ Tirez parti des analyses réseau pour savoir comment vos employés utilisent Yam
 ## <a name="company-resources"></a>Ressources d’entreprise
 <a name="bkmk_CompanyResources"> </a>
 
-Ajoutez des fichiers importants et des liens pour donner aux employés un accès rapide aux ressources de l'entreprise, telles que les stratégies RH, des informations sur les avantages ou des calendriers de vacances.
+Ajoutez des fichiers importants et des liens pour donner aux employés un accès rapide aux ressources de l’entreprise, telles que les stratégies RH, des informations sur les avantages ou des calendriers de vacances.
   
 ## <a name="password-policies"></a>Stratégies de mot de passe
 <a name="bkmk_PasswordPolicies"> </a>

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - word-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word Online (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur Web, dans laquelle vous pouvez utiliser des documents directement sur le site Web où le document est stocké.
-ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246950"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343793"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -293,7 +293,7 @@ Word Online vous permet d'enregistrer une copie du document localement.
 
 Vous pouvez utiliser Word Online pour enregistrer ou convertir vos fichiers au format PDF afin de les partager ou de les faire imprimer chez un imprimeur professionnel. Aucun autre logiciel ou complément n'est nécessaire.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 <a name="bkmk_Share"> </a>
 
 Word Online vous permet d'envoyer en un seul clic un lien à d'autres utilisateurs pour qu'ils puissent afficher et modifier le document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Utilisez OneNote Online (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n'importe où et partager facilement avec d'autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online.
-ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Utilisez OneNote Online (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe où et partager facilement avec d’autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online.
+ms.openlocfilehash: cf0e1ceec9577d84402ae6106b6a3561c9aa628c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247180"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343753"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
-Utilisez OneNote Online (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n'importe où et partager facilement avec d'autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online. 
+Utilisez OneNote Online (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe où et partager facilement avec d’autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l'aide d'Office Online. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 <a name="bkmk_AdvancedCollaboration"> </a>
@@ -125,7 +125,7 @@ Avec OneNote Online, vous pouvez utiliser les boutons de type navigateur Précé
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
 Avec OneNote Online, vous pouvez effectuer un glisser-déplacer pour réorganiser des pages et des sections.  
-Les fonctionnalités de gestion avancées, telles que la création, la suppression et la réorganisation de groupes de sections, sont disponibles uniquement dans l'application OneNote de bureau.
+Les fonctionnalités de gestion avancées, telles que la création, la suppression et la réorganisation de groupes de sections, sont disponibles uniquement dans l’application OneNote de bureau.
   
 ## <a name="offline-viewing-and-authoring"></a>Création et affichage en mode hors connexion
 <a name="bkmk_Offlineviewing"> </a>
@@ -172,7 +172,7 @@ OneNote Online vous permet d'utiliser la Recherche instantanée pour retrouver t
 
 Non disponible dans OneNote Online. Les fonctions de recherche avancées comme la recherche par balise, titre, auteur/date et fichier audio, sont disponibles uniquement dans l'application OneNote de bureau.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 <a name="bkmk_Share"> </a>
 
 Si vous avez enregistré votre bloc-notes OneNote dans une bibliothèque de documents SharePoint, votre bloc-notes OneNote est en ligne. Cela signifie que vous pouvez le partager en envoyant un lien au lieu d'une pièce jointe par courrier électronique. En cliquant sur le lien, les utilisateurs peuvent lire vos notes dans leur navigateur web. En savoir plus sur le [partage des notes OneNote Online](https://go.microsoft.com/fwlink/p/?LinkID=272945).

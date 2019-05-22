@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-reporting-features-and-troubleshooting-tools
@@ -12,33 +12,33 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d'administration Exchange.
-ms.openlocfilehash: 1fb9a0fe62fb94c0ace7388613ca26f65fc4698f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d’administration Exchange.
+ms.openlocfilehash: 71aa0910dc343ecca228e47af0141ac49f556ccd
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246370"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342873"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Fonctions de rapport et outils de dépannage
 
-Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d'administration Exchange.
+Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d’administration Exchange.
   
 ## <a name="reporting-features"></a>Fonctionnalités de reporting
 
-Les clients Exchange Online peuvent accéder aux rapports dans le centre d'administration Microsoft 365, en téléchargeant un classeur de rapports Excel ou en utilisant des services Web.
+Les clients Exchange Online peuvent accéder aux rapports dans le centre d’administration Microsoft 365, en téléchargeant un classeur de rapports Excel ou en utilisant des services Web.
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Création de rapports dans le centre d'administration Microsoft 365
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Création de rapports dans le centre d’administration Microsoft 365
 
-Il existe des rapports sur la page rapports dans le centre d'administration Microsoft 365 qui fournissent des informations récapitulatives sur les boîtes aux lettres et les groupes. Par exemple, un rapport répertorie le nombre de groupes créés et supprimés par jour, semaine, mois ou an. Des rapports de synthèse sont aussi fournis pour les boîtes aux lettres nouvelles et supprimées, ainsi que pour les boîtes aux lettres actives et inactives. 
+Il existe des rapports sur la page rapports dans le centre d’administration Microsoft 365 qui fournissent des informations récapitulatives sur les boîtes aux lettres et les groupes. Par exemple, un rapport répertorie le nombre de groupes créés et supprimés par jour, semaine, mois ou an. Des rapports de synthèse sont aussi fournis pour les boîtes aux lettres nouvelles et supprimées, ainsi que pour les boîtes aux lettres actives et inactives. 
   
-En outre, la page rapports du centre d'administration Microsoft 365 contient des rapports de données de messagerie, qui fournissent des informations sur le trafic des messages, les détections de courrier indésirable et les programmes malveillants et les messages affectés par les règles de transport Exchange ou la protection contre la perte de données (DLP). règles. Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une utilisation interactive des rapports aux administrateurs Exchange Online. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
+En outre, la page rapports du centre d’administration Microsoft 365 contient des rapports de données de messagerie, qui fournissent des informations sur le trafic des messages, les détections de courrier indésirable et les programmes malveillants et les messages affectés par les règles de transport Exchange ou la protection contre la perte de données (DLP). règles. Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une utilisation interactive des rapports aux administrateurs Exchange Online. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
   
-Pour plus d'informations sur les rapports qui sont disponibles avec chaque abonnement Office 365, consultez la rubrique [Rapports](../office-365-platform-service-description/reports.md). Pour plus d'informations sur la page rapports dans le centre d'administration 365 de Microsoft, consultez la rubrique [afficher et télécharger des rapports sur l'utilisation des services dans office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) et [utiliser les rapports de protection du courrier électronique dans Office 365 pour afficher les données sur les programmes malveillants, le courrier indésirable et les détections de règles. ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Pour plus d'informations sur les rapports qui sont disponibles avec chaque abonnement Office 365, consultez la rubrique [Rapports](../office-365-platform-service-description/reports.md). Pour plus d’informations sur la page rapports dans le centre d’administration 365 de Microsoft, consultez la rubrique [afficher et télécharger des rapports sur l’utilisation des services dans office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) et [utiliser les rapports de protection du courrier électronique dans Office 365 pour afficher les données sur les programmes malveillants, le courrier indésirable et les détections de règles. ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Rapports utilisant le classeur de rapports Excel
 
-Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d'utiliser à la place les rapports améliorés du centre d'administration 365 Microsoft. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez cette [page de téléchargement](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
+Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d’utiliser à la place les rapports améliorés du centre d’administration 365 Microsoft. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez cette [page de téléchargement](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
 ### <a name="reporting-using-web-services"></a>Reporting via les services Web
 

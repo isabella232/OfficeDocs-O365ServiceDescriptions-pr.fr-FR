@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/13/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: b338785ee74f3df1be9a85b41ee40d0116247154
-ms.sourcegitcommit: dca74656dc3f453bd0d20df02edd078fe4c08129
+ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "33973352"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342973"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -30,7 +30,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
   
 ||||
 |:-----|:-----|:-----|
-|**Options de l'offre** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|**Options de l'offre** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |
@@ -59,11 +59,11 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Office 365 Video  <br/> |Non  <br/> |Non  <br/> |
 |Bloc-notes OneNote pour la classe  <br/> |Non  <br/> |Non  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Fonctionnalités d'administration d'Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Fonctionnalités d'administration d'Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Administrer Office 365 à l’aide du centre d’administration 365 de Microsoft ou de Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>6</sup> <br/> |Oui  <br/> |
 |Shared computer activation <br/> |Non <br/> |Oui  <br/> |
-|[Gestion des comptes d'utilisateur](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Gestion des comptes d'utilisateur](office-365-platform-service-description/user-account-management.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |configuration du bureau Office 365  <br/> |Oui  <br/> |Oui  <br/> |
 |Téléchargement en bloc à l'aide de fichiers .csv  <br/> |Oui  <br/> |Oui  <br/> |
 |Outil de synchronisation Azure AD Connect  <br/> |Oui  <br/> |Oui<sup>7</sup> <br/> |
@@ -78,7 +78,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
    
 ||||
 |:-----|:-----|:-----|
-|[Stratégie et conformité de message](exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Stratégie et conformité de message](exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Archivage de boîtes aux lettres Exchange Online  <br/> |Oui  <br/> |Oui<sup>11</sup> <br/> |
 |Gestion des enregistrements de messagerie, balises de rétention et stratégies de rétention  <br/> |Oui  <br/> |Oui  <br/> |
 |Chiffrement des données statiques (BitLocker)  <br/> |Oui  <br/> |Oui  <br/> |
@@ -88,7 +88,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Découverte électronique locale  <br/> |Oui  <br/> |Oui  <br/> |
 |Règles de transport  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection contre la perte de données  <br/> |Non  <br/> |Oui <br/> |
-|[Politique de confidentialité, sécurité et transparence](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Politique de confidentialité, sécurité et transparence](office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Protection anti-courrier indésirable intégrée  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection anti-programme malveillant intégrée  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection avancée contre les menaces  <br/> |Non  <br/> |Oui <br/> |
@@ -98,7 +98,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |Non  <br/> |Non  <br/> |
 |Score de sécurité<sup>14</sup> <br/> |Oui  <br/> |Oui  <br/> |
 |Intelligence des menaces  <br/> |Non  <br/> |Non  <br/> |
-|[Conformité [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Conformité [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Évaluations SAS 70 / SSAE16  <br/> |Oui  <br/> |Oui  <br/> |
 |Certification ISO 27001  <br/> |Oui  <br/> |Oui  <br/> |
 |Clauses types de l'UE  <br/> |Oui  <br/> |Oui  <br/> |
@@ -107,18 +107,18 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Autorisation d'exploitation FISMA  <br/> |Oui  <br/> |Oui  <br/> |
 |Accord de traitement de données Microsoft  <br/> |Oui  <br/> |Oui  <br/> |
 |Données PAN sous régie PCI  <br/> |Non  <br/> |Non  <br/> |
-|[Réseau](office-365-platform-service-description/networking.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Réseau](office-365-platform-service-description/networking.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Protocoles IPv4 et IPv6  <br/> |Oui  <br/> |Oui  <br/> |
-|[Mises à jour de services](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Mises à jour de services](office-365-platform-service-description/service-updates.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |
 |Option pour activer la mise en production ciblée  <br/> |Oui  <br/> |Oui  <br/> |
-|[Partenaires](office-365-platform-service-description/partners.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Partenaires](office-365-platform-service-description/partners.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Administration déléguée  <br/> |Oui  <br/> |Oui  <br/> |
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Fonctionnalités de gestion des identités et des accès** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
+|**Fonctionnalités de gestion des identités et des accès** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
 |Authentification multifacteur (MFA) Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Unités administratives  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Cloud App Discovery  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
@@ -133,7 +133,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Connect Health  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Advanced Threat Analytics  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|**Fonctionnalités de gestion des appareils et des applications** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|**Fonctionnalités de gestion des appareils et des applications** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Gestion des appareils mobiles (MDM)<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des applications mobiles pour les applications Office et les applications métier<sup>17</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 4/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-suite-features
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d'outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
+ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247190"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343283"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 
-Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d'outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
+Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
   
 ## <a name="microsoft-bookings"></a>Réservations Microsoft
 <a name="BKMK_Bookings"> </a>
@@ -39,12 +39,12 @@ Microsoft Flow vous permet d'automatiser des flux de travail dans vos applicatio
 ## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms est une nouvelle partie de l'éducation Office 365 qui vous permet de créer rapidement et facilement des questionnaires, des enquêtes, des questionnaires, des enregistrements, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats des tests, peuvent être facilement exportées vers Excel pour une analyse ou une notation plus approfondie. Pour en savoir plus, consultez la rubrique [qu'est-ce que Microsoft Forms?](https://support.office.com/en-us/forms).
+Microsoft Forms est une nouvelle partie de l’éducation Office 365 qui vous permet de créer rapidement et facilement des questionnaires, des enquêtes, des questionnaires, des enregistrements, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats des tests, peuvent être facilement exportées vers Excel pour une analyse ou une notation plus approfondie. Pour en savoir plus, consultez la rubrique [qu’est-ce que Microsoft Forms?](https://support.office.com/en-us/forms).
   
 ## <a name="microsoft-graph-api"></a>API Microsoft Graph
 <a name="BKMK_Graph"> </a>
 
-Utilisez l'API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand éventail de ressources, de relations et d'intelligence, tout https://graph.microsoft.comau long d'un point de terminaison unique:. Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d'informations, reportez-vous à la [documentation Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
+Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand éventail de ressources, de relations et d’intelligence, tout https://graph.microsoft.comau long d’un point de terminaison unique:. Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, reportez-vous à la [documentation Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
@@ -69,14 +69,14 @@ Microsoft StaffHub est une application basée sur le cloud qui permet aux employ
 ## <a name="microsoft-stream"></a>Microsoft Stream
 <a name="BKMK_Stream"> </a>
 
-Microsoft Stream est un service vidéo d'entreprise que les membres de votre organisation peuvent utiliser pour télécharger, afficher et partager des vidéos en toute sécurité. Vous pouvez partager des enregistrements de cours, de réunions, de présentations, de sessions de formation ou d'autres vidéos qui aident la collaboration de votre équipe. Microsoft Stream facilite également le partage des commentaires sur une vidéo et des codes de temps d'étiquette dans les commentaires et descriptions pour faire référence à des points spécifiques d'une vidéo.
+Microsoft Stream est un service vidéo d’entreprise que les membres de votre organisation peuvent utiliser pour télécharger, afficher et partager des vidéos en toute sécurité. Vous pouvez partager des enregistrements de cours, de réunions, de présentations, de sessions de formation ou d’autres vidéos qui aident la collaboration de votre équipe. Microsoft Stream facilite également le partage des commentaires sur une vidéo et des codes de temps d’étiquette dans les commentaires et descriptions pour faire référence à des points spécifiques d’une vidéo.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 <a name="BKMK_Sway"> </a>
 
-Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu'à vos collègues, de formuler des idées à l'aide d'un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d'une mise en forme ou d'une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l'apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n'importe quel navigateur de n'importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d'extraire tous les types de contenu sans quitter l'application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
+Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu’à vos collègues, de formuler des idées à l’aide d’un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d’une mise en forme ou d’une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l’apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n’importe quel navigateur de n’importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d’extraire tous les types de contenu sans quitter l’application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 <a name="BKMK_Teams"> </a>
 
 Microsoft Teams est un espace de travail centré sur les conversations dans Office 365 qui permet aux équipes d'unir leurs efforts. Microsoft Teams sert de plateforme pour le travail d'équipe, permettant aux équipes d'accéder instantanément à des conversations, du contenu et des outils d'Office 365 dans un espace de travail unique. SharePoint et OneNote sont intégrés, et les membres de l'équipe peuvent travailler sur des documents Office directement dans l'application. En plus des conversations, Microsoft Teams prend en charge les réunions et appels vidéo, ce qui permet aux équipes de se rencontrer en direct, sur demande ou de manière planifiée. Les utilisateurs peuvent facilement collaborer avec plusieurs équipes et effectuer des recherches parmi des personnes, des conversations et des fichiers à tout moment. Microsoft Teams fonctionne sur les plateformes Windows, Mac, Web, Android et iOS. Pour en savoir plus, voir [Aide de Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
@@ -98,11 +98,11 @@ Office 365 Video constitue une destination sécurisée à l'échelle de la soci�
   
 ## <a name="onenote-class-notebook"></a>Bloc-notes OneNote pour la classe
 
-Le bloc-notes de classe fait partie de OneNote et est disponible pour Office 365 éducation et Office 365 E5 éducation. Chaque bloc-notes inclut une bibliothèque de contenu pour les enseignants afin de partager le contenu du cours, un espace de collaboration dans lequel les enseignants et les étudiants peuvent collaborer, ainsi qu'un bloc-notes privé pour chaque étudiant. Une fois le bloc-notes de classe créé, les enseignants et les étudiants peuvent utiliser l'application OneNote pour y accéder à partir de n'importe quel appareil.
+Le bloc-notes de classe fait partie de OneNote et est disponible pour Office 365 éducation et Office 365 E5 éducation. Chaque bloc-notes inclut une bibliothèque de contenu pour les enseignants afin de partager le contenu du cours, un espace de collaboration dans lequel les enseignants et les étudiants peuvent collaborer, ainsi qu’un bloc-notes privé pour chaque étudiant. Une fois le bloc-notes de classe créé, les enseignants et les étudiants peuvent utiliser l’application OneNote pour y accéder à partir de n’importe quel appareil.
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala est une application de gestion de travail mobile simple et sécurisée, qui apporte des fonctionnalités uniques à Microsoft 365, avec sa capacité de connexion et d'intervention de personnes à la fois à l'intérieur et à l'extérieur de l'annuaire de l'organisation, y compris les professionnels du contrat, les fournisseurs, partenaires, fournisseurs, clients et citoyens – utilisation de types de [groupes flexibles](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)et de grande taille. Le modèle Open Directory de Kaizala permet une intégration facile à l'aide d'un numéro de téléphone et une expérience utilisateur simple pour la gestion de la messagerie et des tâches. L'application mobile Kaizala permet aux utilisateurs d'envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des sons et d'autres personnes, ainsi que d'utiliser des cartes d'action pour des enquêtes, des sondages, des missions, des annonces, des annonces, etc. [Kaizala est disponible avec Office 365](https://products.office.com/en/business/microsoft-kaizala) et fonctionne sur iPhone et Android. Pour en savoir plus, accédez au [site Web Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
+Microsoft Kaizala est une application de gestion de travail mobile simple et sécurisée, qui apporte des fonctionnalités uniques à Microsoft 365, avec sa capacité de connexion et d’intervention de personnes à la fois à l’intérieur et à l’extérieur de l’annuaire de l’organisation, y compris les professionnels du contrat, les fournisseurs, partenaires, fournisseurs, clients et citoyens – utilisation de types de [groupes flexibles](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)et de grande taille. Le modèle Open Directory de Kaizala permet une intégration facile à l’aide d’un numéro de téléphone et une expérience utilisateur simple pour la gestion de la messagerie et des tâches. L’application mobile Kaizala permet aux utilisateurs d’envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des sons et d’autres personnes, ainsi que d’utiliser des cartes d’action pour des enquêtes, des sondages, des missions, des annonces, des annonces, etc. [Kaizala est disponible avec Office 365](https://products.office.com/en/business/microsoft-kaizala) et fonctionne sur iPhone et Android. Pour en savoir plus, accédez au [site Web Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

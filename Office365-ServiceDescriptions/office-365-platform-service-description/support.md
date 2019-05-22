@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/07/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-support
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d'informations, consultez Options d'assistance Office 365.
-ms.openlocfilehash: 99d815aae9708951e1012658db52eab1b5f11f98
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+ms.openlocfilehash: 42fd0a816f55f988cab77c2e1b883b4c8902dbae
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663298"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343133"
 ---
-# <a name="support"></a>Support
+# <a name="support"></a>Assistance
 
 Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d'informations, consultez [Options d'assistance Office 365](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   

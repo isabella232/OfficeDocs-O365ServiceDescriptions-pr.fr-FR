@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 03/14/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-descriptions
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs.
-ms.openlocfilehash: 631ba72fce2e09465244be20f0587476af0d56cb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 54a678c962115d0c13cd96d3aa3e3f469cc33274
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246790"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343013"
 ---
 # <a name="office-365-service-descriptions"></a>Descriptions du service Office 365 
 
@@ -33,7 +33,7 @@ Pour rechercher des articles et des informations de support technique, voir [Sup
 > [!NOTE]
 > Si vous recherchez la feuille de calcul de comparaison avec les descriptions des services, elle a été supprimée. Les tableaux de disponibilité des fonctionnalités des produits sur chaque page des descriptions des services ont été mis à jour pour mieux vous aider à choisir la version d'Office 365 qui répond à vos besoins. 
   
-Microsoft propose le centre FastTrack pour Office 365 pour les services éligibles dans les offres éligibles. L'avantage vous permet de travailler à distance avec des spécialistes Microsoft afin de préparer votre environnement Office 365 en vue de son utilisation. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft propose le centre FastTrack pour Office 365 pour les services éligibles dans les offres éligibles. L’avantage vous permet de travailler à distance avec des spécialistes Microsoft afin de préparer votre environnement Office 365 en vue de son utilisation. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Pour commencer, lisez les descriptions suivantes :
   

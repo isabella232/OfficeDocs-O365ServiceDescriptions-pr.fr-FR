@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-plan-options
@@ -17,12 +17,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 0f5a871552d9709e381ea795e196a00461f08f6b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247230"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343293"
 ---
 # <a name="office-365-plan-options"></a>Options de plan Office 365
 
@@ -65,9 +65,9 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Azure information protection<sup>3</sup> <br/> |N °<sup>2</sup> <br/> |Non  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |Oui <br/> |Non  <br/> |Oui <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
    
-> <sup>1</sup> Project Online n'est pas inclus, mais peut être acheté en tant que service complémentaire distinct ou ajouté gratuitement au plan Office 365 éducation.  
-<br/><sup>2</sup> Azure information protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d'activer les fonctionnalités de gestion des droits relatifs à l'information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1. 
-<br/><sup>3</sup> pour en savoir plus sur les fonctionnalités Azure information protection incluses dans les plans Office 365, consultez la rubrique [Azure information protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 entreprise E5 contient les fonctionnalités de système téléphonique, d'audioconférence et de plan d'appel. Pour implémenter la fonctionnalité Forfait d’appels, vous devez souscrire à un plan supplémentaire (Forfait d’appels nationaux ou Forfait d’appels internationaux). 
+> <sup>1</sup> Project Online n’est pas inclus, mais peut être acheté en tant que service complémentaire distinct ou ajouté gratuitement au plan Office 365 éducation.  
+<br/><sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1. 
+<br/><sup>3</sup> pour en savoir plus sur les fonctionnalités Azure information protection incluses dans les plans Office 365, consultez la rubrique [Azure information protection](https://technet.microsoft.com/en-us/dn858608). > <br/><sup>4</sup> Office 365 entreprise E5 contient les fonctionnalités de système téléphonique, d’audioconférence et de plan d’appel. Pour implémenter la fonctionnalité Forfait d’appels, vous devez souscrire à un plan supplémentaire (Forfait d’appels nationaux ou Forfait d’appels internationaux). 
 <br/><sup>5</sup> inclut un stockage de 2 Go. N’inclut pas de fonctionnalité de synchronisation du bureau. 
 <br/><sup>6</sup> inclut Exchange Online plan 1. 
 <br/><sup>7</sup> inclut Exchange Online plan 2. 
@@ -75,9 +75,9 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 <br/><sup>9</sup> inclut Exchange Online Kiosk. 
 <br/><sup>10</sup> inclut Skype entreprise Online plan 2 avec des limitations de base du client. > <br/><sup>11</sup> inclut Skype entreprise Online plan 2 sans aucune limitation du client. > <br/><sup>12</sup> inclut Skype entreprise Online plan 1, ainsi que des fonctionnalités supplémentaires. > <br/><sup>13</sup> inclut Skype entreprise Online plan 2 avec prise en charge des communications vocales et sans limitations du client.  
 <br/><sup>14</sup> inclut Skype entreprise Online plan 1. 
-<br><sup>15</sup> Microsoft teams est à présent le client principal pour la messagerie, les réunions et les appels dans Office 365. Démarrage de oct. 1, 2018, les nouveaux clients d'Office 365 avec 500 sièges ou moins seront intégrés à Microsoft teams et n'auront pas accès à Skype entreprise online. Les clients qui utilisent déjà Skype entreprise Online pourront continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu'à ce qu'ils aient terminé leur transition vers Microsoft Teams.
-<br><sup>16</sup> inclut une conformité avancée, qui offre les fonctionnalités avancées de gouvernance des données, Advanced EDiscovery, client Lockbox, clé client, gestion des accès privilégié et journal d'audit à long terme.
-<br><sup>17</sup> à compter du 2019 mai, les références SKU existantes d'Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365. 
+<br><sup>15</sup> Microsoft teams est à présent le client principal pour la messagerie, les réunions et les appels dans Office 365. Démarrage de oct. 1, 2018, les nouveaux clients d’Office 365 avec 500 sièges ou moins seront intégrés à Microsoft teams et n’auront pas accès à Skype entreprise online. Les clients qui utilisent déjà Skype entreprise Online pourront continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu’à ce qu’ils aient terminé leur transition vers Microsoft Teams.
+<br><sup>16</sup> inclut une conformité avancée, qui offre les fonctionnalités avancées de gouvernance des données, Advanced EDiscovery, client Lockbox, clé client, gestion des accès privilégié et journal d’audit à long terme.
+<br><sup>17</sup> à compter du 2019 mai, les références SKU existantes d’Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365. 
   
 #### <a name="basic-client-limitations"></a>Restrictions de base appliquées aux certificats par les clients
 

@@ -4,23 +4,23 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l'État, de l'local et de la tribal, ainsi qu'aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l'éligibilité avant l'établissement d'un environnement. Les versions d'évaluation sont disponibles uniquement pour les entités gouvernementales américaines.
-ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines.
+ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247130"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343243"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l'État, de l'local et de la tribal, ainsi qu'aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l'éligibilité avant l'établissement d'un environnement. Les versions d'évaluation sont disponibles uniquement pour les entités gouvernementales américaines. 
+Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines. 
   
 Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Vous trouverez des informations supplémentaires sur la page [Offres Office 365 Secteur Public](https://products.office.com/en-us/government/compare-office-365-government-plans). 
   
@@ -42,7 +42,7 @@ Le personnel d'Office 365 ne dispose pas d'un accès permanent au contenu client
   
 |||
 |:-----|:-----|
-|**Vérifications de personnel et de vérification de l'arrière-plan de Microsoft** <sup>1</sup> <br/> |**Description** <br/> |
+|**Vérifications de personnel et de vérification de l’arrière-plan de Microsoft** <sup>1</sup> <br/> |**Description** <br/> |
 |Informations d'identification personnelle Citoyenneté  <br/> |Vérification de la citoyenneté américaine  <br/> |
 |Vérification de l'expérience professionnelle  <br/> |Vérification de l'expérience professionnelle sur sept (7) ans  <br/> |
 |Vérification de la formation professionnelle  <br/> |Vérification du plus haut diplôme obtenu  <br/> |
@@ -54,7 +54,7 @@ Le personnel d'Office 365 ne dispose pas d'un accès permanent au contenu client
 |Vérification des empreintes digitales  <br/> |Vérification des antécédents par empreintes digitales par rapport aux bases de données du FBI  <br/> |
 |Filtrage des antécédents avec CJIS  <br/> |Examen validé par l'État du casier judiciaire fédéral et étatique par l'autorité étatique nommée par le CSA au sein de chaque état qui s'est inscrit au programme Microsoft CJIS IA  <br/> |
 
-<sup>1</sup> concerne uniquement le personnel disposant d'un accès temporaire ou permanent au contenu client hébergé dans Office 365 le Cloud communautaire pour le gouvernement américain (GCC)  
+<sup>1</sup> concerne uniquement le personnel disposant d’un accès temporaire ou permanent au contenu client hébergé dans Office 365 le Cloud communautaire pour le gouvernement américain (GCC)  
 ## <a name="office-365-us-government-community-and-yammer"></a>Communauté Office 365 pour le gouvernement américain et Yammer
 
 Yammer Enterprise n'est pas un composant d'Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu'offre autonome pour chaque utilisateur disposant d'une licence pour Office 365 pour le gouvernement américain Plan E1 et E3. Cette offre est actuellement limitée aux clients qui achètent Office 365 pour le gouvernement américain sous contrats Entreprise et Souscription Entreprise. 
@@ -69,7 +69,7 @@ MyAnalytics est conçu et exploité conformément à l'implémentation de contr�
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 le service client Cloud Community Government (GCC)
 
-Office 365 le support client GCC est fourni dans les mêmes conditions générales que celles offertes aux [versions mondiales d'Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-), y compris l'emplacement physique de l'agent de support ou les assurances de citoyenneté. Office 365 GCC fonctionne en association avec le cloud public Azure, qui est pris en charge dans les conditions [générales suivantes.](https://azure.microsoft.com/en-us/support/plans/)
+Office 365 le support client GCC est fourni dans les mêmes conditions générales que celles offertes aux [versions mondiales d’Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+), y compris l’emplacement physique de l’agent de support ou les assurances de citoyenneté. Office 365 GCC fonctionne en association avec le cloud public Azure, qui est pris en charge dans les conditions [générales suivantes.](https://azure.microsoft.com/en-us/support/plans/)
 
-Microsoft rappelle que vous ne partagez pas d'informations sensibles, sensibles ou confidentielles avec le personnel de support dans le cadre de votre incident de support technique Office 365 GCC, jusqu'à ce que vous confirmiez leur autorisation d'afficher ou d'accéder à ces données. Microsoft s'engage à [protéger votre confidentialité.](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 le support client GCC n'est pas inclus dans la limite d'accréditation de service et ne fournit pas FedRAMP, SRG, ITAR, IRS 1075 ou CJIS gestion des données et/ou garanties de conformité.
+Microsoft rappelle que vous ne partagez pas d’informations sensibles, sensibles ou confidentielles avec le personnel de support dans le cadre de votre incident de support technique Office 365 GCC, jusqu’à ce que vous confirmiez leur autorisation d’afficher ou d’accéder à ces données. Microsoft s’engage à [protéger votre confidentialité.](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 le support client GCC n’est pas inclus dans la limite d’accréditation de service et ne fournit pas FedRAMP, SRG, ITAR, IRS 1075 ou CJIS gestion des données et/ou garanties de conformité.

@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-sites-service-description
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
-description: Microsoft SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de sites suivantes fournissent un ensemble complet d'outils que votre organisation peut utiliser pour créer tout type de site, ainsi qu'une infrastructure unique qui simplifie la gestion du site. Pour plus d'informations, voir Rechercher du contenu sur SharePoint Online.
-ms.openlocfilehash: 6489bbcb722caff42959a2ec50e1a785f93e3474
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de sites suivantes fournissent un ensemble complet d'outils que votre organisation peut utiliser pour créer tout type de site, ainsi qu'une infrastructure unique qui simplifie la gestion du site. Pour plus d'informations, voir Rechercher du contenu sur SharePoint Online.
+ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246580"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342483"
 ---
 # <a name="sites"></a>Sites
 
-Microsoft SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de sites suivantes fournissent un ensemble complet d'outils que votre organisation peut utiliser pour créer tout type de site, ainsi qu'une infrastructure unique qui simplifie la gestion du site. Pour plus d'informations, voir [Rechercher du contenu sur SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
+Microsoft SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de sites suivantes fournissent un ensemble complet d'outils que votre organisation peut utiliser pour créer tout type de site, ainsi qu'une infrastructure unique qui simplifie la gestion du site. Pour plus d'informations, voir [Rechercher du contenu sur SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
   
 ## <a name="cross-browser-support"></a>Cross Browser Support
 <a name="bkmk_CrossBrowserSupport"> </a>
@@ -86,7 +86,7 @@ Une liste est une collection de données que vous pouvez partager avec les membr
 
 Lorsque vous créez un nouveau site SharePoint, vous commencez par sélectionner un modèle comme base de votre site. Les modèles de site contiennent des listes, des bibliothèques, des pages et d'autres éléments ou fonctionnalités adaptés aux besoins d'une organisation. En savoir plus sur la [personnalisation de votre site d'équipe](https://go.microsoft.com/fwlink/?LinkId=271058).
   
-## <a name="site-themes-change-the-look"></a>Thèmes de site (modifier l'apparence)
+## <a name="site-themes-change-the-look"></a>Thèmes de site (modifier l’apparence)
 <a name="bkmk_Themes"> </a>
 
 Vous pouvez personnaliser facilement et rapidement votre site d'équipe pour simplifier son utilisation et pour caractériser votre style et votre marque. Les thèmes constituent un moyen rapide d'appliquer des couleurs et des polices aux sites.
@@ -101,7 +101,7 @@ Les rapports Web Analytics sont des rapports préconfigurés dans SharePoint qui
 
 Les listes des tâches servent à gérer le travail de manière hiérarchique, avec des tâches récapitulatives et des sous-tâches qui apparaissent dans une liste unique. Les tâches peuvent avoir des dates de début et de fin, être attribuées à des personnes de votre organisation, et être incluses dans une chronologie illustrée. En savoir plus sur l'[ajout de tâches à votre projet](https://go.microsoft.com/fwlink/?LinkId=271230).
   
-## <a name="team-notebook"></a>Bloc-notes d'équipe
+## <a name="team-notebook"></a>Bloc-notes d’équipe
 <a name="bkmk_TeamSiteNotebook"> </a>
 
 Quand vous créez un site d'équipe, un bloc-notes partagé OneNote 2013 est créé automatiquement dans le cadre du site. Vous pouvez utiliser ce bloc-notes pour capturer, compiler et partager des informations. (Cette fonctionnalité est disponible uniquement si vous vous êtes inscrit avec une suite Office 365 incluant la prise en charge Office Online.)

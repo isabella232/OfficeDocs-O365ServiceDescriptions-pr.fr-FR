@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247220"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343303"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de plateforme Office 365
 
@@ -58,19 +58,19 @@ Pour plus d'informations sur les contrats de niveau de service, consultez la rub
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Pour plus d'informations sur &amp; le centre de sécurité conformité et des liens vers des informations supplémentaires et une disponibilité, voir [Centre de sécurité &amp; conformité Office 365](office-365-securitycompliance-center.md).
+Pour plus d’informations sur &amp; le centre de sécurité conformité et des liens vers des informations supplémentaires et une disponibilité, voir [Centre de sécurité &amp; conformité Office 365](office-365-securitycompliance-center.md).
   
 ## <a name="data-storage-location"></a>Emplacement de stockage de données
 
 Pour connaître l'emplacement de stockage de vos données, consultez la [carte de stockage de données](https://go.microsoft.com/fwlink/?linkid=401277). 
   
-## <a name="multi-geo-capabilities-in-office-365"></a>Fonctionnalités multiGéographiques dans Office 365
+## <a name="multi-geo-capabilities-in-office-365"></a>Fonctionnalités multigéographiques dans Office 365
 
-Multi-géo permet à un seul client Office 365 de s'étendre sur plusieurs zones géographiques de centre de données Office 365 et de stocker les données Office 365 pour Exchange Online et OneDrive entreprise, au repos, par utilisateur, dans votre géographie choisie. 
+Multi-géo permet à un seul client Office 365 de s’étendre sur plusieurs zones géographiques de centre de données Office 365 et de stocker les données Office 365 pour Exchange Online et OneDrive entreprise, au repos, par utilisateur, dans votre géographie choisie. 
   
 Disponible régions centres: Asie Pacifique, Australie, Canada, Union européenne, Inde, Japon, Corée, Royaume-Uni, États-Unis. 
   
-Pour plus d'informations [, consultez la page présentation des environnements Multigéographiques dans Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
+Pour plus d’informations [, consultez la page présentation des environnements Multigéographiques dans Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilité des fonctionnalités pour les différents plans Office 365
 
@@ -94,7 +94,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |**[Fonctionnalités d'administration d'Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||||||
-|AdMinistrer Office 365 à l'aide du centre d'administration 365 de Microsoft ou de Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Administrer Office 365 à l’aide du centre d’administration 365 de Microsoft ou de Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -141,7 +141,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[État des services](service-health-and-continuity.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Status information available on the **Service health** or **Service status** page  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|État des alertes individuelles disponible dans le tableau de bord du centre d'administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|État des alertes individuelles disponible dans le tableau de bord du centre d’administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Flux RSS **État du service**  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Rapports](reports.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |
 |Boîtes aux lettres actives et inactives  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -207,8 +207,8 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |**[Contrat de niveau de service](service-level-agreement.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Droits d'utilisation de logiciels](product-use-rights.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> | 
 
-> <sup>1</sup> Office 365 ne prend pas en charge les systèmes d'exploitation qui ne sont pas pris en charge par son fabricant. 
-<br/><sup>2</sup> Azure information protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d'activer les fonctionnalités de gestion des droits relatifs à l'information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1. Les applications clientes Office fournies avec Microsoft 365 entreprise prennent également en charge les fonctionnalités Azure information protection (plan 1).
+> <sup>1</sup> Office 365 ne prend pas en charge les systèmes d’exploitation qui ne sont pas pris en charge par son fabricant. 
+<br/><sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1. Les applications clientes Office fournies avec Microsoft 365 entreprise prennent également en charge les fonctionnalités Azure information protection (plan 1).
 <br/><sup>3</sup> Si la synchronisation d'annuaires est utilisée avec Active Directory en local, vous devez supprimer des comptes ou changer des mots de passe à l'aide d'Active Directory en local au lieu du portail Office 365 ou à l'aide du module Azure Active Directory pour Windows PowerShell. 
 <br/><sup>4</sup> Pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [Gestion des mots de passe dans Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> La réduction des sièges qui ont été achetés avec une remise à long terme peut être soumise à des frais de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle. 
@@ -222,5 +222,5 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 <br/><sup>14</sup> Dans Office 365 Entreprise F1, Flow est limité à la consommation uniquement et les exécutions sont limitées à 750 par utilisateur et par mois. 
 <br/><sup>15</sup> Disponible uniquement dans les offres Office 365 Éducation, y compris Office 365 Éducation E5. Il n'est pas disponible dans Office 365 Entreprise E5. 
 <br/><sup>16</sup> Pour plus d'informations, consultez l'article [Contrôle de vos données dans Office 365 à l'aide de la clé du client](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> La découverte électronique avancée est prise en charge aux États-Unis et en Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l'Asie-Pacifique sont exportées vers les États-Unis. Les données client en Europe, au Moyen-Orient et en Afrique sont exportées vers l'Europe de l'Ouest [Pays-Bas].) Brut <br/><sup>18</sup> consommation uniquement pour Microsoft Stream: pas de publication ni de partage.
-<br/><sup>19</sup> à compter du 2019 mai, les références SKU existantes d'Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365.   
+<br/><sup>17</sup> La découverte électronique avancée est prise en charge aux États-Unis et en Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l'Asie-Pacifique sont exportées vers les États-Unis. Les données client en Europe, au Moyen-Orient et en Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) Brut <br/><sup>18</sup> consommation uniquement pour Microsoft Stream: pas de publication ni de partage.
+<br/><sup>19</sup> à compter du 2019 mai, les références SKU existantes d’Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365.   

@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247110"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343253"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
@@ -44,7 +44,7 @@ Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’envir
   
 |||
 |:-----|:-----|
-|**Vérifications de personnel et de vérification de l'arrière-plan de Microsoft** <sup>1</sup> <br/> |**Description** <br/> |
+|**Vérifications de personnel et de vérification de l’arrière-plan de Microsoft** <sup>1</sup> <br/> |**Description** <br/> |
 |Informations d'identification personnelle Citoyenneté  <br/> |Vérification de la citoyenneté américaine  <br/> |
 |Vérification de l'expérience professionnelle  <br/> |Vérification de l'expérience professionnelle sur sept (7) ans  <br/> |
 |Vérification de la formation professionnelle  <br/> |Vérification du plus haut diplôme obtenu  <br/> |
@@ -56,7 +56,7 @@ Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’envir
 |Vérification des empreintes digitales  <br/> |Vérification des antécédents par empreintes digitales par rapport aux bases de données du FBI  <br/> |
 |Département de la Défense IT-2  <br/> |Les personnes demandant une élévation des autorisations en matière de données client ou d'accès administratif privilégié aux capacités de service DOD SRG L5 sont soumises à l'arbitrage du département de la Défense IT-2 qui prend sa décision sur la base d'une enquête niveau 3 de l'OPM  <br/> |
 
-<sup>1</sup> concerne uniquement le personnel disposant d'un accès temporaire ou permanent au contenu client hébergé dans Office 365 US GCC-High or DoD Clouds
+<sup>1</sup> concerne uniquement le personnel disposant d’un accès temporaire ou permanent au contenu client hébergé dans Office 365 US GCC-High or DoD Clouds
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Nuances de fonctionnalités basées sur une architecture cloud compatible
 
 Les abonnements Office 365 dans les environnements GCC High et DoD incluent les fonctionnalités Exchange Online, SharePoint Online et Skype Entreprise de base. Étant donné les exigences de certification et d'accréditation accrues de l'infrastructure, certaines fonctionnalités diffèrent entre les offres commerciales générales d'Office 365 et celles qui sont disponibles dans GCC High et DoD.
@@ -77,9 +77,9 @@ Les abonnements Office 365 dans les environnements GCC High et DoD incluent les 
     
 4. Personnes spécifiques
     
-Les clients qui utilisent SharePoint Online et OneDrive entreprise dans les environnements GCC High ou DoD peuvent conserver des documents privés (première option), partager avec tout le monde dans leur organisation (deuxième option), partager avec toute personne disposant du lien vers le document (troisième option) et partager avec des personnes spécifiques dans les environnements GCC High et DoD uniquement (quatrième option); bien entendu, ces options peuvent également être restreintes en fonction des contrôles d'accès au niveau du client.
+Les clients qui utilisent SharePoint Online et OneDrive entreprise dans les environnements GCC High ou DoD peuvent conserver des documents privés (première option), partager avec tout le monde dans leur organisation (deuxième option), partager avec toute personne disposant du lien vers le document (troisième option) et partager avec des personnes spécifiques dans les environnements GCC High et DoD uniquement (quatrième option); bien entendu, ces options peuvent également être restreintes en fonction des contrôles d’accès au niveau du client.
   
-Les clients de GCC High peuvent uniquement partager avec d'autres clients GCC High. Par exemple :
+Les clients de GCC High peuvent uniquement partager avec d’autres clients GCC High. Par exemple :
   
 - Le client très élevé A peut partager avec le client haut de GCC.
     
@@ -87,7 +87,7 @@ Les clients de GCC High peuvent uniquement partager avec d'autres clients GCC Hi
     
 - Le client de GCC High A ou B ne peut pas partager avec le client C High non GCC.
     
-En outre, les adresses de messagerie électronique non GCC associées aux profils utilisateur ne sont pas prises en charge et n'autorisent pas l'envoi de messages électroniques d'alerte. Par exemple, l'utilisateur local A reçoit une adresse de messagerie Gmail, puis est synchronisée avec Azure GCC High client. L'utilisateur A accède à une bibliothèque et crée une alerte pour les modifications. L'alerte n'est pas envoyée à l'adresse Gmail.
+En outre, les adresses de messagerie électronique non GCC associées aux profils utilisateur ne sont pas prises en charge et n’autorisent pas l’envoi de messages électroniques d’alerte. Par exemple, l’utilisateur local A reçoit une adresse de messagerie Gmail, puis est synchronisée avec Azure GCC High client. L’utilisateur A accède à une bibliothèque et crée une alerte pour les modifications. L’alerte n’est pas envoyée à l’adresse Gmail.
   
  **Accès aux applications externes**: les connexions à des applications externes, telles que les sources de données pour les compléments, sont limitées aux sources situées dans les limites du système de sécurité prises en charge par GCC High et DoD. 
   
@@ -95,7 +95,7 @@ En outre, les adresses de messagerie électronique non GCC associées aux profil
   
  **Solutions bac à sable (sandbox)**: cette fonctionnalité a été déconseillée et n'est pas disponible. Les solutions bac à sable (sandbox) doivent être migrées vers le [modèle d'extensibilité de complément SharePoint]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
-### <a name="skype-for-business-online"></a>Skype Entreprise Online
+### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   
@@ -105,6 +105,6 @@ L’authentification multifacteur avec un modèle d’identité fédéré permet
   
 ### <a name="yammer"></a>Yammer
 
-Yammer Enterprise n'est pas disponible dans les environnements GCC High et DoD.
+Yammer Enterprise n’est pas disponible dans les environnements GCC High et DoD.
   
 

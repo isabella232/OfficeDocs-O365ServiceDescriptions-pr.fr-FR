@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-insights-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0e717a90-c241-4376-aec8-c29537f617f7
-description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités Insights suivantes permettent aux organisations d'utiliser les informations dans des bases de données, des rapports et des applications professionnelles pour répondre à leurs besoins professionnels spécifiques.
-ms.openlocfilehash: ed184c4bfd75feec48087555d6e04b52e850e943
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités Insights suivantes permettent aux organisations d'utiliser les informations dans des bases de données, des rapports et des applications professionnelles pour répondre à leurs besoins professionnels spécifiques.
+ms.openlocfilehash: 20ae239f6d79889a669f41f8c12b4aca00aff19e
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246730"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342503"
 ---
 # <a name="insights"></a>Informations
 
-SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités Insights suivantes permettent aux organisations d'utiliser les informations dans des bases de données, des rapports et des applications professionnelles pour répondre à leurs besoins professionnels spécifiques.
+SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités Insights suivantes permettent aux organisations d'utiliser les informations dans des bases de données, des rapports et des applications professionnelles pour répondre à leurs besoins professionnels spécifiques.
   
 ## <a name="business-intelligence-center"></a>Business Intelligence Center
 <a name="bkmk_BusinessIntelligenceCenter"> </a>
@@ -132,7 +132,7 @@ Les fonctions définies par l'utilisateur permettent d'utiliser des formules dan
 ## <a name="visio-services"></a>Visio Services
 <a name="bkmk_VisioServices"> </a>
 
-Visio Services est une application de services qui permet aux utilisateurs de partager et d'afficher des fichiers Microsoft Visio Drawing (\*.vsdx) et Visio 2010 Web Drawing (\*.vdw). Visio Services n'est plus disponible dans SharePoint Online. Visio Services continuera d'être disponible dans SharePoint Server 2010, SharePoint Server 2013 et SharePoint Server 2016. En savoir plus sur [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043).
+Visio Services est une application de services qui permet aux utilisateurs de partager et d'afficher des fichiers Microsoft Visio Drawing (\*.vsdx) et Visio 2010 Web Drawing (\*.vdw). Visio Services n’est plus disponible dans SharePoint Online. Visio Services continuera d’être disponible dans SharePoint Server 2010, SharePoint Server 2013 et SharePoint Server 2016. En savoir plus sur [Visio Services](https://go.microsoft.com/fwlink/p/?LinkID=271043).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 <a name="bkmk_VisioServices"> </a>

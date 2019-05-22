@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-it-professional-service-description
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
-description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur SharePoint Server 2013 Microsoft, ce service hébergé convient idéalement au travail sur des projets, au stockage de données et de documents à un emplacement centralisé et au partage d'informations. Les fonctionnalités SharePoint suivantes aident les professionnels de l'informatique à sécuriser et à gérer l'environnement de leur organisation SharePoint.
-ms.openlocfilehash: afacaa2e05b7b6cc178ca3585230408f75264aa6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur SharePoint Server 2013 Microsoft, ce service hébergé convient idéalement au travail sur des projets, au stockage de données et de documents à un emplacement centralisé et au partage d'informations. Les fonctionnalités SharePoint suivantes aident les professionnels de l'informatique à sécuriser et à gérer l'environnement de leur organisation SharePoint.
+ms.openlocfilehash: 0f285fabb62b73914966127d4d880bd5ffb6e5a1
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246740"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341933"
 ---
 # <a name="it-professional"></a>Informaticiens
 
-SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur SharePoint Server 2013 Microsoft, ce service hébergé convient idéalement au travail sur des projets, au stockage de données et de documents à un emplacement centralisé et au partage d'informations. Les fonctionnalités SharePoint suivantes aident les professionnels de l'informatique à sécuriser et à gérer l'environnement de leur organisation SharePoint. 
+SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur SharePoint Server 2013 Microsoft, ce service hébergé convient idéalement au travail sur des projets, au stockage de données et de documents à un emplacement centralisé et au partage d'informations. Les fonctionnalités SharePoint suivantes aident les professionnels de l'informatique à sécuriser et à gérer l'environnement de leur organisation SharePoint. 
   
-## <a name="active-directory-synchronization"></a>Synchronisation Active Directory
+## <a name="active-directory-synchronization"></a>Synchronisation Active Directory
 <a name="bkmk_ActiveDirectorySynchronization"> </a>
 
 S'il y a dans votre société des utilisateurs dans un environnement local Active Directory, il existe des outils de synchronisation de ces utilisateurs avec votre répertoire Office 365 Enterprise. Ce répertoire Office 365 remplit ensuite le profil utilisateur SharePoint Online. En savoir plus sur la [synchronisation Active Directory](https://go.microsoft.com/fwlink/p/?linkid=270051).
@@ -109,7 +109,7 @@ Les services SharePoint peuvent être consommés individuellement à partir de n
 
 Non disponible pour les clients SharePoint Online. Nouveauté SharePoint Server 2013, le contrôle d'intégrité avant une mise à niveau d'une collection de sites examine une collection et crée ensuite un rapport répertoriant les problèmes potentiels de mise à niveau et indiquant comment les résoudre. Par exemple, si un fichier a été personnalisé, il est marqué de façon que votre organisation puisse identifier ce fichier personnalisé et le réinitialiser avec le modèle par défaut de la définition du site si vous le souhaitez.
   
-## <a name="sharepoint-admin-center-office-365"></a>Centre d'administration SharePoint (Office 365)
+## <a name="sharepoint-admin-center-office-365"></a>Centre d’administration SharePoint (Office 365)
 <a name="bkmk_SharePointOnlineAdminCenter"> </a>
 
 Le Centre d'administration SharePoint, disponible uniquement pour certains clients SharePoint Online, permet aux administrateurs de gérer les fonctionnalités telles que :

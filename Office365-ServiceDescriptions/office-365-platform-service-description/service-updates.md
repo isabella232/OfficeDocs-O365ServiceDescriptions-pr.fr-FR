@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-service-updates
@@ -12,27 +12,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
-description: Pour en savoir plus sur les fonctionnalités d'Office 365 qui viennent d'être publiées ou qui sont sur le présent, consultez la feuille de route Microsoft 365.
-ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Pour en savoir plus sur les fonctionnalités d’Office 365 qui viennent d’être publiées ou qui sont sur le présent, consultez la feuille de route Microsoft 365.
+ms.openlocfilehash: ae15d48a07134044eb90e3295063351d93433ef2
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247010"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343173"
 ---
 # <a name="service-updates"></a>Mises à jour de services
 
 > [!NOTE]
 > Cette rubrique ne s'applique pas à Office 365 géré par 21Vianet. Pour plus d'informations sur les mises à jour de services, reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
-Pour en savoir plus sur les fonctionnalités d'Office 365 qui viennent d'être publiées ou qui sont sur le présent, consultez la feuille de [route Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
+Pour en savoir plus sur les fonctionnalités d’Office 365 qui viennent d’être publiées ou qui sont sur le présent, consultez la feuille de [route Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
 > Les mises à jour et les mises à niveau sont transférées aux clients en fonction de nombreux facteurs tels que la situation géographique, la langue, le centre de données et l’abonnement. Cela signifie que toutes les mises à jour ne sont pas disponibles immédiatement pour les clients existants. 
   
 ## <a name="targeted-release"></a>Version ciblée
 
-Avec la version ciblée, votre organisation ou un groupe de vos utilisateurs reçoit un ensemble défini de mises à jour de service environ une semaine avant le début de notre processus de mise en circulation standard. Pour plus d'informations, consultez la rubrique [Office 365 Release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
+Avec la version ciblée, votre organisation ou un groupe de vos utilisateurs reçoit un ensemble défini de mises à jour de service environ une semaine avant le début de notre processus de mise en circulation standard. Pour plus d’informations, consultez la rubrique [Office 365 Release options](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
   
 ## <a name="update-notifications"></a>Notifications de mise à jour
 

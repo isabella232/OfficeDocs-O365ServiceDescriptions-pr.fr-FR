@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Cet article fournit la liste des plans qui incluent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités disponibles dans ces plans.
-ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 22116d6771ccafe421cf1a3fc1abc87ab4af1d43
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246110"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342083"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service de protection Exchange Online
 
@@ -28,7 +28,7 @@ Microsoft Exchange Online Protection (EOP) est un service de filtrage du courrie
   
 Les principales manières d'utiliser EOP pour protéger la messagerie sont les suivantes :
   
-- **Dans un scénario autonome** EOP offre une protection de messagerie basée sur le Cloud pour votre environnement Exchange Server 2013 local, les versions d'Exchange Server héritées ou pour toute autre solution de messagerie SMTP locale. 
+- **Dans un scénario autonome** EOP offre une protection de messagerie basée sur le Cloud pour votre environnement Exchange Server 2013 local, les versions d’Exchange Server héritées ou pour toute autre solution de messagerie SMTP locale. 
     
 - **Dans le cadre d'une installation Microsoft Exchange Online** Par défaut, EOP protège les boîtes aux lettres Exchange Online hébergées dans le nuage. Pour en savoir plus sur Exchange Online, consultez la rubrique [Description du service Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
     
@@ -109,18 +109,18 @@ Chaque fonctionnalité est indiquée ci-dessous. Pour obtenir des informations p
 |[Saisie de l'adresse IP d'un partenaire sur une liste fiable](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier conditionnel](mail-flow-eop.md#conditional-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Routage du courrier hybride](mail-flow-eop.md#hybrid-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Rapports du centre d'administration Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui <sup>9, 10</sup> <br/> |
+|[Rapports du centre d’administration Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui <sup>9, 10</sup> <br/> |
 |[Rapports d'application de téléchargement Excel](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>11</sup> <br/> |
 |[Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Suivi des messages](reporting-and-message-trace.md#message-trace) <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui  <br/> |
-|[Accès au centre d'administration Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Accès au centre d’administration Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Accès au Centre d'administration Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center) (CAE)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Accès à distance à Windows PowerShell](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Les utilisateurs de messagerie sont définis en tant que « Boîtes aux lettres » et, au même titre que des contacts externes, peuvent être ajoutés, supprimés et gérés directement dans le Centre d'administration Exchange (CAE). 
  <br/><sup>2</sup> Aucune personnalisation RBAC. Rôles d'administrateur uniquement. 
- <br/> <sup>3</sup>Le CAE permet d'afficher les domaines gérés et de modifier les types de domaines. Toutes les autres opérations de gestion de domaine doivent être réalisées dans le centre d'administration 365 de Microsoft. 
+ <br/> <sup>3</sup>Le CAE permet d'afficher les domaines gérés et de modifier les types de domaines. Toutes les autres opérations de gestion de domaine doivent être réalisées dans le centre d’administration 365 de Microsoft. 
  <br/><sup>4</sup> Les actions et les critères flexibles disponibles diffèrent entre EOP et Exchange Online. Pour obtenir une liste des critères et des actions disponibles dans EOP, consultez les rubriques [Critères de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320392) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320393). Pour obtenir une liste des critères et des actions disponibles dans Exchange Online, consultez les rubriques [Critères de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320394) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320395). 
  <br/><sup>5</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. 
  <br/> <sup>6</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services.  <br/><sup>7</sup> L'action de filtrage de contenu par défaut consiste à déplacer les messages de courrier indésirable vers le dossier Courrier indésirable des destinataires. Pour effectuer cette action sur des boîtes aux lettres locales, vous devez configurer deux règles de transport Exchange sur vos serveurs locaux pour détecter les en-têtes de courrier indésirable ajoutés par EOP. Pour plus d'informations, consultez la rubrique [Vérification que le courrier indésirable est acheminé vers le dossier Courrier indésirable de chaque utilisateur](https://go.microsoft.com/fwlink/p/?LinkId=320396). 

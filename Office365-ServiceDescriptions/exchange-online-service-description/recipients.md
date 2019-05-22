@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-recipients
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: 875cbfb171d12fe9d60379255308c3332cda43f5
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 65d55f53804d668b83db858fbe6fb4d7e94366ce
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246330"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342943"
 ---
-# <a name="recipients"></a>Recipients
+# <a name="recipients"></a>Destinataires
 
 Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
   
@@ -37,7 +37,7 @@ Le volume de stockage de boîte aux lettres disponible pour un utilisateur et la
   
 Pour plus d'informations, consultez les sections « Limites de stockage des boîtes aux lettres » et « Alertes de capacité » de l'article [Limites d'Exchange Online](exchange-online-limits.md).
   
-### <a name="mailtips"></a>Infos-courrier
+### <a name="mailtips"></a>MailTips
 
 Les infos-courrier sont des messages automatiques et informatifs qui apparaissent au-dessus de la ligne À : tandis que les utilisateurs composent ou adressent un message. Ils ont pour objet de prévenir une remise accidentelle, des violations de stratégie ou des notifications d'échec de remise inutiles. Par exemple, des infos-courrier peuvent générer une alerte si des expéditeurs tentent d'envoyer des messages à des groupes excessivement grands, à des groupes qui contiennent des destinataires externes ou à un groupe de définition qui est avec modérateur ou restreint. Pour plus d'informations, consultez la rubrique [Infos-courrier](https://go.microsoft.com/fwlink/p/?LinkId=401472).
   

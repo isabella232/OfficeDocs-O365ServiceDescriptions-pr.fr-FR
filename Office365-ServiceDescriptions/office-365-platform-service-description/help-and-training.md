@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 fournit les ressources d'aide et de formation suivantes.
-ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
+ms.openlocfilehash: 6a7dacef8f970de86c5199d2217e957a10da59ea
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247330"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343573"
 ---
 # <a name="help-and-training"></a>Aide et formation
 
-Microsoft Office 365 fournit les ressources d'aide et de formation suivantes.
+Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
   
 ## <a name="online-help"></a>Aide en ligne
 <a name="BKMK_Online_Help"> </a>
 
-Les articles d'aide et les vidéos sont disponibles à partir de n'importe quel lien d'aide incorporé dans le service, y compris l'icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d'administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Les articles d’aide et les vidéos sont disponibles à partir de n’importe quel lien d’aide incorporé dans le service, y compris l’icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d’administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formation
 <a name="BKMK_Online_Help"> </a>

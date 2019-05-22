@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-search-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
-description: SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de recherche suivantes aident les personnes à trouver les informations dont elles ont besoin pour mener à bien leur travail. La recherche est une combinaison de pertinence, d'affinement et de comportement social dans l'expérience de recherche.
-ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de recherche suivantes aident les personnes à trouver les informations dont elles ont besoin pour mener à bien leur travail. La recherche est une combinaison de pertinence, d'affinement et de comportement social dans l'expérience de recherche.
+ms.openlocfilehash: ec249b2b9fdc6e2ffc0efc60ae7a8a00a01424c2
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246620"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342543"
 ---
 # <a name="search"></a>Recherche
 
-SharePoint Online est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de recherche suivantes aident les personnes à trouver les informations dont elles ont besoin pour mener à bien leur travail. La recherche est une combinaison de pertinence, d'affinement et de comportement social dans l'expérience de recherche.
+SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de recherche suivantes aident les personnes à trouver les informations dont elles ont besoin pour mener à bien leur travail. La recherche est une combinaison de pertinence, d'affinement et de comportement social dans l'expérience de recherche.
   
 ## <a name="continuous-crawls"></a>Analyses continues
 <a name="bkmk_ContinuousCrawl"> </a>

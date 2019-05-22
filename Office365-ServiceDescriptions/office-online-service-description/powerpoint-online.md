@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint Online (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft Office 365 ayant Office Online peuvent afficher, créer et modifier des fichiers, où qu'ils soient.
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246940"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343743"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -28,7 +28,7 @@ PowerPoint Online (anciennement PowerPoint Web App) étend votre expérience Mic
   
 L'éditeur PowerPoint est un composant frontal Web qui crée la surface d'édition en fonction du navigateur pour permettre à l'utilisateur de travailler sur le document sans perte de fidélité.
   
-Si vous cliquez sur le bouton **ouvrir dans PowerPoint** de la barre d'outils PowerPoint Online, la présentation s'ouvre dans l'application de bureau PowerPoint (si Microsoft PowerPoint 2010 ou une version ultérieure est installé sur l'ordinateur). 
+Si vous cliquez sur le bouton **ouvrir dans PowerPoint** de la barre d’outils PowerPoint Online, la présentation s’ouvre dans l’application de bureau PowerPoint (si Microsoft PowerPoint 2010 ou une version ultérieure est installé sur l’ordinateur). 
   
 Découvrez comment [télécharger et installer Office à l'aide d'Office 365 pour les entreprises sur un PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
@@ -40,7 +40,7 @@ Avec PowerPoint Online, vous pouvez modifier l'alignement de paragraphe, appliqu
 ## <a name="apply-basic-transitions-and-animations"></a>Apply basic transitions and animations
 <a name="bkmk_Applybasictransitions"> </a>
 
-Choisissez une galerie d'animations et d'effets de transition. PowerPoint Online prend en charge huit transitions et des animations 37. Les autres animations et transitions non prises en charge par PowerPoint Online sont conservées dans la présentation et affichées dans le diaporama, mais elles ne peuvent pas être modifiées dans PowerPoint online. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Choisissez une galerie d’animations et d’effets de transition. PowerPoint Online prend en charge huit transitions et des animations 37. Les autres animations et transitions non prises en charge par PowerPoint Online sont conservées dans la présentation et affichées dans le diaporama, mais elles ne peuvent pas être modifiées dans PowerPoint online. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="apply-rich-formatting-to-text-shapes-and-pictures"></a>Apply rich formatting to text, shapes, and pictures
 <a name="bkmk_Applyrichformatting"> </a>
@@ -60,7 +60,7 @@ PowerPoint Online ne prend en charge que les compléments de contenu pour Office
 ## <a name="arrange-objects"></a>Disposer des objets
 <a name="bkmk_ArrangeObjects"> </a>
 
-Déplacer, redimensionner, faire pivoter ou trier des formes et des zones de texte en couches, de l'arrière-plan dans PowerPoint online. Dissociez les formes pour travailler avec chacune d'elle. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Déplacer, redimensionner, faire pivoter ou trier des formes et des zones de texte en couches, de l’arrière-plan dans PowerPoint online. Dissociez les formes pour travailler avec chacune d'elle. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="broadcast-slide-show"></a>Broadcast slide show
 <a name="bkmk_BroadcastSlideShow"> </a>
@@ -80,7 +80,7 @@ Ajoutez, réorganisez, dupliquez, masquez et supprimez des diapositives dans Pow
 ## <a name="create-custom-animation"></a>Create custom animation
 <a name="bkmk_Createcustomanimation"> </a>
 
-PowerPoint Online comprend une galerie d'effets d'animation. Les animations non prises en charge par PowerPoint Online sont conservées dans la présentation et affichées dans le diaporama, mais elles ne peuvent pas être modifiées dans PowerPoint Online. Pour créer des animations personnalisées, l'application de bureau PowerPoint doit être installée sur votre ordinateur. En savoir plus sur [la création d'animations personnalisées avec l'application de bureau PowerPoint 2013](https://go.microsoft.com/fwlink/p/?LinkId=282348).
+PowerPoint Online comprend une galerie d’effets d’animation. Les animations non prises en charge par PowerPoint Online sont conservées dans la présentation et affichées dans le diaporama, mais elles ne peuvent pas être modifiées dans PowerPoint Online. Pour créer des animations personnalisées, l'application de bureau PowerPoint doit être installée sur votre ordinateur. En savoir plus sur [la création d'animations personnalisées avec l'application de bureau PowerPoint 2013](https://go.microsoft.com/fwlink/p/?LinkId=282348).
   
 ## <a name="design-tools--advanced"></a>Design tools- advanced
 <a name="bkmk_DesigntoolsAdvanced"> </a>
@@ -130,7 +130,7 @@ Insérer, modifier et suivre des liens hypertexte. Les liens de signet fonctionn
 ## <a name="insert-online-video"></a>Insérer une vidéo en ligne
 <a name="bkmk_InsertOnlineVideo"> </a>
 
-Les contenus audio et vidéo sont lus en mode Lecture et Diaporama, avec une limite de taille de fichier de 100 Mo. La vidéo en ligne peut être insérée à partir de YouTube, et les contrôles multimédias peuvent être redimensionnés, déplacés et supprimés dans PowerPoint online. Toutefois, pour insérer des éléments audio et vidéo autres que YouTube, vous avez besoin de l'application de bureau Microsoft PowerPoint.
+Les contenus audio et vidéo sont lus en mode Lecture et Diaporama, avec une limite de taille de fichier de 100 Mo. La vidéo en ligne peut être insérée à partir de YouTube, et les contrôles multimédias peuvent être redimensionnés, déplacés et supprimés dans PowerPoint online. Toutefois, pour insérer des éléments audio et vidéo autres que YouTube, vous avez besoin de l’application de bureau Microsoft PowerPoint.
   
 ## <a name="integration-with-excel-for-charts"></a>Integration with Excel for charts
 <a name="bkmk_IntegrationExcel"> </a>
@@ -180,7 +180,7 @@ Vous pouvez vérifier l'orthographe et définir la langue de vérification lingu
 ## <a name="real-time-co-authoring"></a>Co-création en temps réel
 <a name="bkmk_Coauthoring"> </a>
 
-Plusieurs auteurs peuvent travailler simultanément dans PowerPoint Online et PowerPoint 2016. La présence en temps réel vous permet de voir dans quelle partie de la présentation vos co-auteurs travaillent, de manière à ce que vous ne créiez pas de conflits lors de la modification et que vous puissiez visualiser les modifications au fur et à mesure que vous les apportez. PowerPoint 2013 prend en charge la modification simultanée, mais il n'y a aucune indication de présence et les modifications ne peuvent pas être vues par plusieurs auteurs tant que le document n'est pas enregistré. Pour plus d'informations sur la co-création en temps réel dans PowerPoint, voir [travailler ensemble sur des présentations PowerPoint](https://go.microsoft.com/fwlink/?linkid=844014).
+Plusieurs auteurs peuvent travailler simultanément dans PowerPoint Online et PowerPoint 2016. La présence en temps réel vous permet de voir dans quelle partie de la présentation vos co-auteurs travaillent, de manière à ce que vous ne créiez pas de conflits lors de la modification et que vous puissiez visualiser les modifications au fur et à mesure que vous les apportez. PowerPoint 2013 prend en charge la modification simultanée, mais il n'y a aucune indication de présence et les modifications ne peuvent pas être vues par plusieurs auteurs tant que le document n'est pas enregistré. Pour plus d’informations sur la co-création en temps réel dans PowerPoint, voir [travailler ensemble sur des présentations PowerPoint](https://go.microsoft.com/fwlink/?linkid=844014).
   
 ## <a name="reviewer-tools---advanced"></a>Outils de réviseur-avancé
 <a name="bkmk_AdvancedReviewerTools"> </a>
@@ -200,14 +200,14 @@ Avec PowerPoint Online, vous pouvez lancer votre présentation simplement avec u
 ## <a name="save-as-or-download-a-copy"></a>Enregistrer en tant que ou Télécharger une copie
 <a name="bkmk_Save"> </a>
 
-PowerPoint Online enregistre votre travail chaque fois que vous apportez une modification. Il n'existe pas de commande Enregistrer. Vous pouvez télécharger une copie, mais vous devez disposer de l'application de bureau Microsoft PowerPoint pour modifier une copie locale.
+PowerPoint Online enregistre votre travail chaque fois que vous apportez une modification. Il n'existe pas de commande Enregistrer. Vous pouvez télécharger une copie, mais vous devez disposer de l’application de bureau Microsoft PowerPoint pour modifier une copie locale.
   
 ## <a name="shapes"></a>Formes
 <a name="bkmk_Shapes"> </a>
 
 Les graphiques et les objets Word Art ne peuvent pas être insérés dans PowerPoint Online, mais PowerPoint Online les affiche comme prévu. Le mode Édition permet de modifier et de mettre en forme un texte. Si vous souhaitez appliquer un effet de texte à un objet Word Art, vous devrez disposer de l'application de bureau Microsoft PowerPoint.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 <a name="bkmk_Share"> </a>
 
 Si votre présentation est enregistrée dans une bibliothèque de documents SharePoint, votre présentation est en ligne et vous pouvez la partager en envoyant un lien au lieu de l'insérer en pièce jointe à un e-mail. Les personnes autorisées pourront ainsi l'afficher dans leur navigateur web ou sur leur appareil mobile. En savoir plus sur [le partage d'une présentation](https://go.microsoft.com/fwlink/?LinkId=272776).
@@ -225,7 +225,7 @@ Vous pouvez insérer des éléments SmartArt, changer de disposition ou de modè
 ## <a name="table-creationediting-and-formatting"></a>Table creation/editing and formatting
 <a name="bkmk_Tablecreation"> </a>
 
-Les tables peuvent être créées et modifiées dans PowerPoint Online, et PowerPoint Online prend en charge la plupart des fonctions de table. Pour les fonctions avancées, telles que la fusion et le fractionnement de cellules, utilisez l'application de bureau PowerPoint. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Les tables peuvent être créées et modifiées dans PowerPoint Online, et PowerPoint Online prend en charge la plupart des fonctions de table. Pour les fonctions avancées, telles que la fusion et le fractionnement de cellules, utilisez l’application de bureau PowerPoint. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="tell-me"></a>Rechercher
 <a name="Bkmk_TellMe_PPT"> </a>

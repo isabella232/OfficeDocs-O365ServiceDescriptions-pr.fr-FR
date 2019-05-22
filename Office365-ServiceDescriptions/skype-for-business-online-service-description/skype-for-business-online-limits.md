@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Les limites de Skype entreprise Online appartiennent aux catégories suivantes:'
-ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2c45009ce112334485b8caacb4f9f221b208c678
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246460"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342403"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
@@ -127,9 +127,9 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Type de réunion** <br/> |**Description** <br/> 
-|Réunion unique| La réunion sera accessible au moins 14 jours après l'heure planifiée, ou lors de la dernière mise à jour de la réunion ou de la dernière réunion, selon la date la plus récente.
-|Réunion périodique avec date de fin| La réunion sera accessible au moins 14 jours après l'heure de fin planifiée de la dernière occurrence de la réunion, ou lors de la dernière mise à jour de la réunion, la date la plus récente étant la plus récente.
-|Réunion périodique sans date de fin| La réunion sera toujours accessible, à condition qu'il y ait de nouvelles jointures de conférence (activations) ou planifiez les mises à jour au moins une fois par an.
+|Réunion unique| La réunion sera accessible au moins 14 jours après l’heure planifiée, ou lors de la dernière mise à jour de la réunion ou de la dernière réunion, selon la date la plus récente.
+|Réunion périodique avec date de fin| La réunion sera accessible au moins 14 jours après l’heure de fin planifiée de la dernière occurrence de la réunion, ou lors de la dernière mise à jour de la réunion, la date la plus récente étant la plus récente.
+|Réunion périodique sans date de fin| La réunion sera toujours accessible, à condition qu’il y ait de nouvelles jointures de conférence (activations) ou planifiez les mises à jour au moins une fois par an.
 |Conférence maintenant|La réunion sera accessible pendant au moins 8 heures.
 
 

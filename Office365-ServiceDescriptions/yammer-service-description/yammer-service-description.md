@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - yammer-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
-ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246770"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342093"
 ---
 # <a name="yammer-service-description"></a>Description de service Yammer
 
@@ -50,7 +50,7 @@ Yammer est disponible avec les plans suivants :
 ## <a name="yammer-enterprise-service-communications-policy"></a>Stratégie de communication du Service Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-Yammer fait partie d'Office 365 et adhère à la stratégie de [gestion des modifications d'office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n'utilise pas la version ciblée pour déployer les mises à jour. 
+Yammer fait partie d’Office 365 et adhère à la stratégie de [gestion des modifications d’office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n’utilise pas la version ciblée pour déployer les mises à jour. 
   
 Tous les utilisateurs de Yammer sont soumis au test de fonctionnalité A/B. Cela permet à Microsoft de tester la stabilité, les performances et l'amélioration de l'expérience des fonctionnalités sur de nombreux environnements et périphériques. Des utilisateurs au sein du même réseau peuvent avoir différentes expériences au cours du test. Les clients ne peuvent pas refuser un test A/B.
   

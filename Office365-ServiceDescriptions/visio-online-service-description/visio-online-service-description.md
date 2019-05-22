@@ -4,19 +4,19 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Avec Visio Online, vous pouvez afficher, modifier et partager des diagrammes Visio sur le web. Commencez par un diagramme simple pour exprimer des idées courantes, par exemple pour décrire un plan, formuler une proposition ou énumérer une suite d'étapes pour un processus. Vous pouvez facilement créer des diagrammes courants et les personnaliser à l'aide d'une large gamme de formes. Les utilisateurs de Visio Online peuvent collaborer en partageant des diagrammes et en insérant des commentaires dans des fichiers chargés sur SharePoint Online ou OneDrive Entreprise Online.
-ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: e9d0e8df0f719f55a04ff8e0150c53e5bd97c21b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246830"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342383"
 ---
 # <a name="visio-online-service-description"></a>Description du service Visio Online
 
@@ -61,10 +61,10 @@ Le tableau suivant compare les fonctions de Visio Online à celles des applicati
    
 > <sup>1</sup> Suivre des liens hypertexte (sans pouvoir en insérer ou les modifier). 
 <br/><sup>2</sup> Partager via SharePoint ou OneDrive Entreprise et partager avec des utilisateurs qui n'ont pas SharePoint ou OneDrive. 
-<br/> <sup>3</sup> non disponible dans l'éditeur Visio online.
+<br/> <sup>3</sup> non disponible dans l’éditeur Visio online.
 <br/><sup>4</sup> non disponible dans la visionneuse Visio online. 
 <br/><sup>5</sup> non disponible dans Visio Online Editor, mais vous pouvez basculer en mode affichage et afficher les commentaires. 
-<br/><sup>6</sup> disponible dans l'éditeur Visio online. 
+<br/><sup>6</sup> disponible dans l’éditeur Visio online. 
   
 ## <a name="supported-file-types-in-visio-online"></a>Types de fichiers pris en charge dans Visio Online
 

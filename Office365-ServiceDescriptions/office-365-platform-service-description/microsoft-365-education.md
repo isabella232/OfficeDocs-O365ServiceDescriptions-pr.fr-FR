@@ -3,19 +3,19 @@ title: Microsoft 365 Éducation
 ms.author: sharik
 author: skjerland
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 25338e9572f765ffc09127d4deb7e3ff0cf56a76
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247250"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343603"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -101,13 +101,13 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme
 > <sup>2</sup> inclut Exchange Online plan 2. <br/>
 > <sup>3</sup> inclut SharePoint Online plan 1 et des fonctionnalités supplémentaires. <br/>
 > <sup>4</sup> inclut SharePoint Online plan 2. <br/>
-> <sup>5</sup> Project Online Essentials n'est pas inclus, mais peut être ajouté gratuitement au plan Office 365 éducation. <br/>
-> <sup>6</sup> Microsoft 365 éducation A5 contient les fonctionnalités de système téléphonique, d'audioconférence et de plan d'appel. Pour implémenter la fonctionnalité Forfait d'appels, l’acquisition d’une offre supplémentaire (soit Forfait d'appels nationaux, soit Forfait d'appels internationaux) est requise. <br/>
+> <sup>5</sup> Project Online Essentials n’est pas inclus, mais peut être ajouté gratuitement au plan Office 365 éducation. <br/>
+> <sup>6</sup> Microsoft 365 éducation A5 contient les fonctionnalités de système téléphonique, d’audioconférence et de plan d’appel. Pour implémenter la fonctionnalité Forfait d'appels, l’acquisition d’une offre supplémentaire (soit Forfait d'appels nationaux, soit Forfait d'appels internationaux) est requise. <br/>
 > <sup>7</sup> pour en savoir plus sur les fonctionnalités Azure information protection incluses dans les plans Office 365, reportez-vous à la rubrique [Azure information protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
 > <sup>8</sup> inclut Intune. <br/>
-> <sup>9</sup> les serveurs et les licences d'accès client sont inclus pour Exchange, SharePoint et Skype entreprise. <br/>
-> <sup>10</sup> ECAL ou licence d'accès client de base, en fonction de la version de a3 achetée, avec a5, les droits ECAL sont inclus. <br/>
-> <sup>11</sup> pour plus d'informations sur Azure Active Directory, consultez la rubrique [qu'est-ce qu'Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>9</sup> les serveurs et les licences d’accès client sont inclus pour Exchange, SharePoint et Skype entreprise. <br/>
+> <sup>10</sup> ECAL ou licence d’accès client de base, en fonction de la version de a3 achetée, avec a5, les droits ECAL sont inclus. <br/>
+> <sup>11</sup> pour plus d’informations sur Azure Active Directory, consultez la rubrique [qu’est-ce qu’Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
 > <sup>12</sup> Office Pro plus est requis pour appliquer des protections et envoyer des courriers électroniques protégés à partir du Bureau Outlook. 
   
 

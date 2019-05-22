@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e4851def9c6eb5675c5302f865f6db369ffbfeb
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246120"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341883"
 ---
 # <a name="messaging-policy-and-compliance"></a>Stratégie et conformité de messagerie
 
@@ -67,7 +67,7 @@ Pour plus d'informations sur la protection contre la perte de données, consulte
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 <a name="BKMK_OME_in_EOP"> </a>
 
-Le chiffrement de messages Office 365, qui fait partie d'Azure information protection, est un service en ligne qui permet aux utilisateurs de messagerie d'envoyer des messages électroniques chiffrés à tous. Les clients locaux peuvent accéder au chiffrement de messages Office 365 en achetant Azure information protection et en utilisant Exchange Online Protection pour configurer le flux de messagerie via Exchange Online. Pour en savoir plus sur le chiffrement de messages Office 365 dans Exchange Online, consultez la rubrique [office 365 message](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) Encryption dans la description du service Exchange Online. 
+Le chiffrement de messages Office 365, qui fait partie d’Azure information protection, est un service en ligne qui permet aux utilisateurs de messagerie d’envoyer des messages électroniques chiffrés à tous. Les clients locaux peuvent accéder au chiffrement de messages Office 365 en achetant Azure information protection et en utilisant Exchange Online Protection pour configurer le flux de messagerie via Exchange Online. Pour en savoir plus sur le chiffrement de messages Office 365 dans Exchange Online, consultez la rubrique [office 365 message](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) Encryption dans la description du service Exchange Online. 
   
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
 <a name="BKMK_OME_in_EOP"> </a>
@@ -83,6 +83,6 @@ Le chiffrement de messages Office 365, qui fait partie d'Azure information prote
 > <sup>1</sup> Les actions et les conditions disponibles diffèrent entre EOP et Exchange Online. Pour obtenir une liste des conditions et des actions disponibles dans EOP, consultez les rubriques [Conditions de règle de transport (prédicats)](https://go.microsoft.com/fwlink/p/?LinkId=320392) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320393). Pour obtenir une liste des critères et des actions disponibles dans Exchange Online, consultez les rubriques [Critères de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320394) et [Actions de règles de transport](https://go.microsoft.com/fwlink/p/?LinkId=320395). <br/>
 > <sup>2</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. <br/>
 > <sup>3</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services. <br/>
-> <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l'expérience utilisateur, outre le complément Azure information protection, Office 365 proPlus doit être acheté. <br/>
+> <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l’expérience utilisateur, outre le complément Azure information protection, Office 365 ProPlus doit être acheté. <br/>
   
 

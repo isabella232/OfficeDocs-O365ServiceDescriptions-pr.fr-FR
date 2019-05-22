@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/10/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-privacy-security-transparency
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: 162722e6d2a7dd3cd644153fdbc0f35eeef9e397
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 3dc0f70265eea5bd4919e412a6be260b95683285
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247060"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343193"
 ---
 # <a name="privacy-security-and-transparency"></a>Politique de confidentialité, sécurité et transparence
 
@@ -35,7 +35,7 @@ Pour connaître les procédures spécifiques que les administrateurs Entreprise,
   
 Pour plus d'informations sur la sécurité et la confidentialité des autres services Microsoft, dont Office 365 ProPlus, voir [Services en ligne auxquels le Centre de gestion de la confidentialité s'applique](https://www.microsoft.com/trustcenter/default.aspx).
   
-## <a name="security"></a>Security
+## <a name="security"></a>Sécurité
 
 Pour savoir comment Microsoft garantit les services Office 365 de manière fiable et sécurisée, consultez la rubrique relative à la [Sécurité](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).
   
@@ -55,7 +55,7 @@ Le référentiel sécurisé du client est inclus dans le plan Office 365 Entrepr
   
 ## <a name="advanced-threat-protection"></a>Protection avancée contre les menaces
 
-Office 365 Advanced Threat Protection contribue à protéger votre organisation contre les programmes malveillants et les virus. ATP inclut [des fonctionnalités de liens approuvés](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), de [pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et d'aide à la [décision](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Les liens fiables protègent vos utilisateurs contre les liens hypertexte malveillants inclus dans les messages, en offrant une protection à chaque clic sur le lien. La fonction de pièces jointes approuvées offre une protection contre les programmes malveillants et les virus inconnus en routant l'ensemble des messages et des pièces jointes qui n'ont pas une signature de virus/programmes malveillants connue vers un environnement spécial où le service de protection avancée peut déterminer s'ils comportent du contenu malveillant. Pour plus d'informations sur ATP, voir [Description du service protection avancée contre les menaces d'Office 365](../office-365-advanced-threat-protection-service-description.md).
+Office 365 Advanced Threat Protection contribue à protéger votre organisation contre les programmes malveillants et les virus. ATP inclut [des fonctionnalités de liens approuvés](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), de [pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et d’aide à la [décision](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Les liens fiables protègent vos utilisateurs contre les liens hypertexte malveillants inclus dans les messages, en offrant une protection à chaque clic sur le lien. La fonction de pièces jointes approuvées offre une protection contre les programmes malveillants et les virus inconnus en routant l'ensemble des messages et des pièces jointes qui n'ont pas une signature de virus/programmes malveillants connue vers un environnement spécial où le service de protection avancée peut déterminer s'ils comportent du contenu malveillant. Pour plus d’informations sur ATP, voir [Description du service protection avancée contre les menaces d’Office 365](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

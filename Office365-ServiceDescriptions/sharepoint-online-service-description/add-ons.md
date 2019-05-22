@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - sharepoint-online-add-on-service-description
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. Créé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, stocker des données et des documents dans un emplacement central et partager des informations avec d'autres. Les clients Office 365 peuvent également acheter des modules complémentaires associés à SharePoint Online.
-ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+description: Microsoft SharePoint est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. Créé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, stocker des données et des documents dans un emplacement central et partager des informations avec d'autres. Les clients Office 365 peuvent également acheter des modules complémentaires associés à SharePoint Online.
+ms.openlocfilehash: 6eddaa64b0d5c3406bee6cfd2bc57d693330543d
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246640"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343563"
 ---
 # <a name="add-ons"></a>Compléments
 
-Microsoft SharePoint est un ensemble d'outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. Créé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, stocker des données et des documents dans un emplacement central et partager des informations avec d'autres. Les clients Office 365 peuvent également acheter des modules complémentaires associés à SharePoint Online.
+Microsoft SharePoint est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. Créé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, stocker des données et des documents dans un emplacement central et partager des informations avec d'autres. Les clients Office 365 peuvent également acheter des modules complémentaires associés à SharePoint Online.
   
 ## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
