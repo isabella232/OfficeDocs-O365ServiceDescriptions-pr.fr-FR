@@ -3,7 +3,7 @@ title: Description du service Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493492"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742103"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -26,8 +26,8 @@ Microsoft 365 Business est une solution intégrée qui associe la meilleure prod
 
 Le tableau suivant répertorie les fonctionnalités de plateforme pour les offres Office 365 Business Premium et Microsoft 365 Business.
   
-Pour connaître les fonctionnalités disponibles dans les offres Office 365, reportez-vous à [Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md).
-  
+Pour connaître les fonctionnalités disponibles dans les offres Office 365, reportez-vous à [Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md).<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**Options de l'offre** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
@@ -149,7 +149,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
    
 |||
 |:-----|:-----|
-|**Fonctionnalités de gestion Windows 10** - Microsoft 365 Business facilite la gestion des appareils. Lorsque vous configurez votre client Microsoft 365 Business vous sélectionnez la protection d'application et les paramètres de configuration des appareils. Ces paramètres déterminent les stratégies appliquées automatiquement aux appareils lorsqu'ils connectent à Azure Active Directory. Les fonctionnalités de gestion Windows 10 Pro sont les suivantes :  <br/> |**Microsoft 365 Business** <br/> |
+|**Fonctionnalités de gestion Windows 10** - Microsoft 365 Business facilite la gestion des appareils. Lorsque vous configurez votre client Microsoft 365 Business vous sélectionnez la protection d'application et les paramètres de configuration des appareils. Ces paramètres déterminent les stratégies appliquées automatiquement aux appareils lorsqu'ils connectent à Azure Active Directory. Les fonctionnalités de gestion Windows 10 Pro sont les suivantes :  <br/>|**Microsoft 365 Business** <br/> |
 |Déploiement est simplifié grâce à Windows AutoPilot  <br/> |Oui  <br/> |
 |Activation de l'abonnement  <br/> |Oui  <br/> |
 |Contrôle structurel de l'écran d'un appareil inactif  <br/> |Oui  <br/> |
@@ -162,9 +162,9 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Protection des PC contre les menaces basées sur le Web dans Microsoft Edge  <br/> |Oui  <br/> |
 |Utiliser des règles qui réduisent la surface d'attaque des appareils <br/> |Oui  <br/> |
 |Protéger les dossiers contre des menaces telles que des rançongiciels <br/> |Oui  <br/> |
-|Aider à protéger les fichiers et les dossiers sur des PC contre les accès non autorisés avec BitLocker <br/> |Oui  <br/> |
-   
-> <sup>1</sup> inclut Exchange Online plan 1.
+|Aider à protéger les fichiers et les dossiers sur des PC contre les accès non autorisés avec BitLocker <br/> |Oui  <br/> |   
+
+<sup>1</sup> inclut Exchange Online plan 1.
 <br/><sup>2</sup> inclut Skype entreprise Online plan 2 avec des limitations de base du client.
 <br/><sup>3</sup> Project Online n’est pas inclus, mais peut être acheté en tant que service complémentaire distinct ou ajouté gratuitement au plan Office éducation. 
 <br/><sup>4</sup> Azure information protection (AIP) active les fonctionnalités de gestion des droits relatifs à l’information (IRM) prises en charge. Le plan AIP 1 est inclus dans Microsoft 365 Business. 
