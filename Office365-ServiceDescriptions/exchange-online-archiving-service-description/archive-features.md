@@ -3,7 +3,6 @@ title: Fonctionnalités d’archivage dans l’archivage Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/11/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Les sections suivantes décrivent les fonctionnalités d’archivage de Microsoft Exchange Online Archiving.
-ms.openlocfilehash: 3c11d5a9fccb05f027e5030c34eb9171295bfb1b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7cbaaf81106084795630ced11837f4f9a56dcf85
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341913"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780673"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Fonctionnalités d’archivage dans l’archivage Exchange Online
 
@@ -30,10 +29,11 @@ Les sections suivantes décrivent les fonctionnalités d’archivage de Microsof
 
 L'Archivage Exchange Online offre aux utilisateurs des capacités d'archivage avancées avec la fonctionnalité de boîte aux lettres d'archivage. Une boîte aux lettres d'archivage est une boîte aux lettres spécialisée qui apparaît à côté des dossiers de la boîte aux lettres principale des utilisateurs dans Outlook ou Outlook Web App. Les utilisateurs peuvent accéder à l'archive de la même manière qu'ils accèdent à leur boîte aux lettres principale. En outre, ils peuvent effectuer des recherches dans leurs archives et leurs boîtes aux lettres principales.
   
-Les administrateurs peuvent utiliser le Centre d'administration Exchange (CAE) ou Windows PowerShell à distance afin d'activer la fonctionnalité d'archivage pour des utilisateurs spécifiques. Pour plus d'informations, reportez-vous à la rubrique [Activer ou désactiver une boîte aux lettres d'archivage dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404425).
+Les administrateurs peuvent utiliser le Centre d'administration Exchange (CAE) ou Windows PowerShell à distance afin d'activer la fonctionnalité d'archivage pour des utilisateurs spécifiques. Pour plus d'informations, reportez-vous à la rubrique [Activer ou désactiver une boîte aux lettres d'archivage dans Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
   
 > [!IMPORTANT]
->  L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages dans Archivage Exchange Online à des fins d'archivage n'est pas autorisée. >  La boîte aux lettres d'archivage d'un utilisateur est destinée uniquement à cet utilisateur. Microsoft se réserve le droit de refuser l'archivage illimité dans les cas où la boîte aux lettres d'archivage d'un utilisateur sert à stocker les données d'archivage d'autres utilisateurs. 
+>  L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages dans Archivage Exchange Online à des fins d'archivage n'est pas autorisée. <br/>
+>  La boîte aux lettres d'archivage d'un utilisateur est destinée uniquement à cet utilisateur. Microsoft se réserve le droit de refuser l'archivage illimité dans les cas où la boîte aux lettres d'archivage d'un utilisateur sert à stocker les données d'archivage d'autres utilisateurs. 
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Déplacer des messages vers l’archivage Exchange Online
 
@@ -49,10 +49,10 @@ Les utilisateurs peuvent importer des données comme suit :
     
 - faire glisser des messages électroniques de la boîte aux lettres principale dans l'archive ;
     
-- laisser les stratégies d'archivage transférer automatiquement des messages électroniques de la boîte aux lettres principale, en fonction de l'ancienneté des messages. Pour plus d'informations, reportez-vous à la rubrique [Balises et stratégies de rétention](https://go.microsoft.com/fwlink/p/?LinkId=314153).
+- laisser les stratégies d'archivage transférer automatiquement des messages électroniques de la boîte aux lettres principale, en fonction de l'ancienneté des messages. Pour plus d'informations, reportez-vous à la rubrique [Balises et stratégies de rétention](https://docs.microsoft.com/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
     
 > [!NOTE]
-> Les administrateurs peuvent également utiliser le service Office 365 pour importer des fichiers .pst dans les boîtes aux lettres d'archivage informatiques des utilisateurs. Pour plus d'informations, reportez-vous à la rubrique [Utiliser le chargement réseau pour importer des fichiers PST vers Office 365](https://go.microsoft.com/fwlink/p/?linkid=823074). 
+> Les administrateurs peuvent également utiliser le service Office 365 pour importer des fichiers .pst dans les boîtes aux lettres d'archivage informatiques des utilisateurs. Pour plus d'informations, reportez-vous à la rubrique [Utiliser le chargement réseau pour importer des fichiers PST vers Office 365](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files). 
   
 ## <a name="deleted-item-recovery"></a>Récupération d'éléments supprimés
 
@@ -60,10 +60,11 @@ Les utilisateurs peuvent restaurer les éléments qu'ils ont supprimés de tous 
   
 Une fois un élément supprimé du dossier Éléments supprimés de l'archive, il est conservé dans le dossier Éléments récupérables de l'archive pendant 14 jours supplémentaires avant d'être définitivement supprimé. Les utilisateurs peuvent récupérer ces éléments à l'aide de la fonctionnalité **Récupérer les éléments supprimés** dans Microsoft Outlook ou Outlook Web App. 
   
-Si un utilisateur a purgé manuellement un élément du dossier des éléments récupérables, un administrateur peut le récupérer au cours d'une période de 14 jours à l'aide de la fonctionnalité appelée Récupération d'élément unique. Cette fonctionnalité permet aux administrateurs d'effectuer une recherche dans plusieurs boîtes aux lettres pour trouver les éléments purgés, puis d'utiliser la cmdlet Windows PowerShell  `Search-Mailbox` pour déplacer les éléments de la boîte aux lettres de découverte vers les boîtes aux lettres des utilisateurs. Pour plus d'informations, reportez-vous à la rubrique [Activation de la récupération d'élément unique pour une boîte aux lettres](https://go.microsoft.com/fwlink/p/?LinkId=314155).
+Si un utilisateur a purgé manuellement un élément du dossier des éléments récupérables, un administrateur peut le récupérer au cours d'une période de 14 jours à l'aide de la fonctionnalité appelée Récupération d'élément unique. Cette fonctionnalité permet aux administrateurs d'effectuer une recherche dans plusieurs boîtes aux lettres pour trouver les éléments purgés, puis d'utiliser la cmdlet Windows PowerShell  `Search-Mailbox` pour déplacer les éléments de la boîte aux lettres de découverte vers les boîtes aux lettres des utilisateurs. Pour plus d'informations, reportez-vous à la rubrique [Activation de la récupération d'élément unique pour une boîte aux lettres](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
 > [!NOTE]
->  La période de récupération d'élément unique par défaut est de 14 jours, mais elle peut être personnalisée dans certains cas. >  Si un administrateur a placé la boîte aux lettres d'un utilisateur en conservation inaltérable ou en conservation pour litige, les éléments purgés sont conservés indéfiniment et la période de 14 jours ne s'applique pas. 
+>  La période de récupération d'élément unique par défaut est de 14 jours, mais elle peut être personnalisée dans certains cas. <br/>
+>  Si un administrateur a placé la boîte aux lettres d’un utilisateur en conservation inaltérable ou en conservation pour litige, les éléments purgés sont conservés indéfiniment et la fenêtre de 14 jours ne s’applique pas. 
   
 ## <a name="deleted-mailbox-recovery"></a>Récupération de boîtes aux lettres supprimées
 

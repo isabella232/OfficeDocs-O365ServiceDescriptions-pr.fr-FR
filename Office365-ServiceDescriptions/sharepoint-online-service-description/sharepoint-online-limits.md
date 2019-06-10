@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint Online pour les plans Office 365 Entreprise et pour les plans autonomes.
-ms.openlocfilehash: af58f2d68562ef57ede7496b604d7603e0a062fe
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: dffe3f3ddbc68e286ce03d79e72e56e4fd3322b2
+ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742153"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34780663"
 ---
 # <a name="sharepoint-online-limits"></a>Limites de SharePoint Online 
 
@@ -30,15 +30,13 @@ Découvrez les limites de SharePoint pour les plans Office 365 et les plans auto
 |Collections de sites par organisation  <br/> |1 million<sup>6</sup> <br/> |1 million<sup>6</sup> <br/> |1 million<br/> |
 |Nombre d'utilisateurs.  <br/> |Jusqu'à 300  <br/> |1 - 500 000<sup>7</sup> <br/> |1 - 500 000<sup>7</sup> <br/> |
    
-<sup>1</sup> vous pouvez acheter une quantité illimitée de stockage SharePoint supplémentaire. Consultez la rubrique [Modifier l'espace de stockage pour votre abonnement](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> vous pouvez acheter une quantité illimitée de stockage SharePoint supplémentaire. Consultez la rubrique [Modifier l'espace de stockage pour votre abonnement](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Nous vous recommandons de surveiller la Corbeille et de la vider régulièrement. L’espace de stockage qu’il utilise fait partie de la limite de stockage totale de l’organisation. 
-<br/> <sup>3</sup> Lorsque vous possédez un abonnement Office 365 et un plan autonome SharePoint Online, les volumes de stockage sont additionnés. 
-<br/> <sup>4</sup> il s’agit de la limite de stockage pour une collection de sites unique, pas de la quantité de stockage fournie pour chaque collection de sites. Cette limite s’applique à tous les types de collections de sites, y compris les sites d’équipe connectés à un groupe Office 365 et OneDrive. Les administrateurs SharePoint peuvent [définir manuellement des limites de stockage inférieures](/sharepoint/manage-site-collection-storage-limits). 
+<br/> <sup>3</sup> si vous disposez d’un abonnement Office 365 et d’un complément de stockage de fichiers supplémentaire Office 365, les volumes de stockage sont ajoutés. 
+<br/> <sup>4</sup> il s’agit de la limite de stockage pour une collection de sites unique, pas de la quantité de stockage fournie pour chaque collection de sites. Cette limite s’applique à tous les types de collections de sites, y compris les sites d’équipe connectés à un groupe Office 365 et OneDrive. Les administrateurs SharePoint peuvent [définir manuellement des limites de stockage inférieures](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits). 
 <br/> <sup>5</sup> les employés terrain ne peuvent pas administrer les collections de sites SharePoint. 
 <br/> <sup>6</sup> n’inclut pas le OneDrive créé pour chaque utilisateur sous licence. 
 <br/> <sup>7</sup> Si vous avez plus de 500 000 utilisateurs, contactez un représentant Microsoft. 
-  
-
   
 ## <a name="service-limits-for-all-plans"></a>Limites de service pour tous les plans
 
@@ -68,8 +66,8 @@ Découvrez les limites de SharePoint pour les plans Office 365 et les plans auto
 - **Utilisateurs** -2 millions par collection de sites.
 
 > [!NOTE]
-> Il n’y a pas de limite au nombre d’invités que vous pouvez inviter aux collections de sites SharePoint. Pour plus d’informations sur le partage externe, consultez la rubrique [vue d’ensemble du partage externe](/sharepoint/external-sharing-overview).
+> Il n’y a pas de limite au nombre d’invités que vous pouvez inviter aux collections de sites SharePoint. Pour plus d’informations sur le partage externe, consultez la rubrique [vue d’ensemble du partage externe](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
 ## <a name="see-also"></a>Voir aussi
 
-[Limites de recherche pour SharePoint Online](/sharepoint/search-limits)
+[Limites de recherche pour SharePoint Online](https://docs.microsoft.com/sharepoint/search-limits)
