@@ -3,7 +3,6 @@ title: Description de service des applications Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343093"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931136"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -90,7 +89,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Volume activation (KMS/MAK)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|N °<sup>9</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Lorsque vous installez Office 365 ou Office 2019, vous obtiendrez par défaut OneNote pour Windows 10. Pour plus d’informations, reportez-vous [aux questions fréquemment posées sur OeNOte dans Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>Lorsque vous installez Office 365 ou Office 2019, vous obtiendrez par défaut OneNote pour Windows 10. Pour plus d’informations, consultez les [questions fréquemment posées sur OneNote dans Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>Application OneNote accès aux blocs-notes sur SharePoint Server, SharePoint Online, OneDrive entreprise et Office 365. <br/>
 ><sup>+++</sup>La prise en charge des BHO est une technologie d’extension pour Internet Explorer. <br/>
 ><sup>1</sup> Les fonctionnalités d'archivage et de conformité sont prises en charge avec cette version d'Office, mais les plans SharePoint Online et Exchange Online ne sont pas inclus et doivent être achetés séparément ou utilisés avec les équivalents de serveur local pris en charge.<br/>
