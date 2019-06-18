@@ -3,7 +3,6 @@ title: Description du service Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office Online vous permet de travailler et de partager en toute simplicité des fichiers Office, où que vous soyez, à l'aide d'une simple connexion Internet et sur presque tous les appareils. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343781"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018306"
 ---
 # <a name="office-online-service-description"></a>Description du service Office Online
 
 Office Online (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office Online vous permet de travailler et de partager en toute simplicité des fichiers Office, où que vous soyez, à l'aide d'une simple connexion Internet et sur presque tous les appareils. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements. 
   
-Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans Office 365 pour les entreprises](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans Office 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-online-plans"></a>Disponibilité des fonctionnalités pour les différents plans Office Online
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans 
 Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mieux aux besoins de votre organisation ? Les tableaux suivants comparent les fonctionnalités des fonctionnalités Office Online aux applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les tableaux pour découvrir les fonctionnalités disponibles dans Office Online, puis cliquez sur le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin de la fonctionnalité de graphique avancée de l’application de bureau Excel, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement les documents Word et les présentations PowerPoint avec Office Online. 
   
 > [!NOTE]
->  Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. >  Microsoft Office 365 ProPlus est une offre d'abonnement mensuel à la dernière suite bureautique Office. > les clients Microsoft Office Online Server sur site reçoivent une licence de modification Office Online si elles ont acheté une licence pour la suite bureautique Office (par exemple, une licence Office professionnel plus, Office standard ou Office 365 ProPlus). 
+>  Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. <br/>  Microsoft Office 365 ProPlus est une offre d’abonnement mensuel à la dernière suite bureautique Office. <br/>  Les clients Microsoft Office Online Server sur site reçoivent une licence de modification Office Online si elles ont acheté une licence pour la suite bureautique Office (par exemple, une licence Office professionnel plus, Office standard ou Office 365 ProPlus). 
   
 > [!NOTE]
 > Lorsque vous ouvrez un document Office, soit joint à un courrier électronique Outlook, soit à partir d'une bibliothèque de documents SharePoint, il s'affiche en lecture seule dans Office Online. Pour modifier un document dans Office Online (mode Édition), vous avez besoin d'une licence pour la suite Office 365, comme Office 365 Entreprise E1. Pour modifier un document dans l'application de bureau, vous avez besoin d'une licence pour la suite Office, comme un abonnement à Office 365 ProPlus ou une version installée d'Office Professionnel Plus 2010. 
@@ -45,7 +44,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |**Fonctionnalités de l'application** <br/> |**Word Online** <br/> |**Application Word pour ordinateur de bureau** <br/> |
 |[Guides d'alignement et disposition dynamique](word-online.md#alignment-guides-and-live-layout) <br/> |Non  <br/> |Oui  <br/> |
 |[Application de styles](word-online.md#apply-styles) <br/> |Oui  <br/> |Oui  <br/> |
-|[Enregistrement automatique](word-online.md#autosave) <br/> |Non  <br/> |Oui  <br/> |
+|[Enregistrement automatique](word-online.md#autosave) <br/> |Oui  <br/> |Oui  <br/> |
 |[Insertion automatique](word-online.md#autotext) <br/> |Oui  <br/> |Oui  <br/> |
 |[Parcourir et commencer à travailler à partir de modèles conçus par des professionnels](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |Oui  <br/> |Oui  <br/> |
 |[Puces et numérotation](word-online.md#bullets-and-numbering) <br/> |Oui  <br/> |Oui  <br/> |
@@ -214,9 +213,9 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Co-création](onenote-online.md#co-authoring) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création et gestion de pages et de sections](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Oui  <br/> |Oui  <br/> |
 |[Téléchargement d'une copie de fichiers Office incorporés](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |
-|[Glisser-déplacer les pages] <br/> |Oui  <br/> |Oui <br/> |
-|[Glisser-déplacer les sections] <br/> |Oui  <br/> |Oui <br/> |
-|[Glisser-déplacer les groupes de sections] <br/> |Non  <br/> |Oui <br/> |
+|Glisser-déplacer des pages <br/> |Oui  <br/> |Oui <br/> |
+|Glisser-déplacer des sections <br/> |Oui  <br/> |Oui <br/> |
+|Glisser-déplacer des groupes de sections <br/> |Non  <br/> |Oui <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Oui  <br/> |Oui  <br/> |
 |[Modification de fichiers incorporés](onenote-online.md#EmbeddedFileEdit) <br/> |Non  <br/> |Oui  <br/> |
 |[Équations](onenote-online.md#equations) <br/> |Oui  <br/> |Oui  <br/> |
@@ -301,10 +300,11 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Affichage WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Oui  <br/> |Oui  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint Online prend en charge une galerie de huit transitions et de 37 animations. Pour une sélection plus large ou pour créer des animations personnalisées, utilisez l’application de bureau PowerPoint. 
- <br/><sup>2</sup> l’appareil sur lequel vous travaillez doit prendre en charge l’entrée manuscrite. 
- <br/> <sup>3</sup> certains des compléments Office sont disponibles. 
- <br/><sup>4</sup> vous ne pouvez pas créer de graphiques croisés dynamiques ou de tableaux croisés dynamiques, mais vous pouvez les voir dans la visionneuse. 
+><sup>1</sup> PowerPoint Online prend en charge une galerie de huit transitions et de 37 animations. Pour une sélection plus large ou pour créer des animations personnalisées, utilisez l’application de bureau PowerPoint. 
+ <br/>
+<sup>2</sup> l’appareil sur lequel vous travaillez doit prendre en charge l’entrée manuscrite. <br/> 
+<sup>3</sup> certains des compléments Office sont disponibles. <br/>
+<sup>4</sup> vous ne pouvez pas créer de graphiques croisés dynamiques ou de tableaux croisés dynamiques, mais vous pouvez les voir dans la visionneuse. 
   
 ## <a name="supported-file-types-for-office-online"></a>Types de fichiers pris en charge pour Office Online
 <a name="bkmk_SupportedFileTypes"> </a>

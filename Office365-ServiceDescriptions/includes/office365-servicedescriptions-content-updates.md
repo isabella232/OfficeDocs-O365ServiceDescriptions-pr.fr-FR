@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>Semaine du mois de mai 06, 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modifié |
-| 5/6/2019 | [Description du service Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modifié |
-| 5/7/2019 | [Description du service Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modifié |
-| 5/7/2019 | [Support](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modifié |
-| 5/7/2019 | [Description du service Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modifié |
-
-
 ## <a name="week-of-may-13-2019"></a>Semaine du 13 mai, 2019
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Centre de sécurité et conformité Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modifié |
 | 6/7/2019 | [Limites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modifié |
 | 6/7/2019 | [Description du service SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modifié |
+
+
+## <a name="week-of-june-10-2019"></a>Semaine du 10 juin 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 6/13/2019 | [Description de service des applications Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modifié |
+| 6/13/2019 | [Description du service SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modifié |
