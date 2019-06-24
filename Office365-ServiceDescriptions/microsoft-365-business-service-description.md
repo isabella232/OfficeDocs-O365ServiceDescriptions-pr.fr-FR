@@ -3,7 +3,6 @@ title: Description du service Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742103"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130968"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -36,7 +35,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype Entreprise Online  <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
-|Office Online  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |
 |Applications Office  <br/> |Oui  <br/> |Oui  <br/> |
 |Project Online  <br/> |N °<sup>3</sup> <br/> |N °<sup>3</sup> <br/> |
 |Power BI  <br/> |Non  <br/> |Non  <br/> |
@@ -118,7 +117,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Fonctionnalités de gestion des identités et des accès** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E5** <br/> |
+|**Fonctionnalités de gestion des identités et des accès** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure Multi-Factor Authentication (MFA)  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Unités administratives  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Cloud App Discovery  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
@@ -126,14 +125,13 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Réinitialisation du mot de passe en libre-service pour les identités du cloud  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Réinitialisation du mot de passe en libre-service avec l'écriture différée AD en local  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Synchronisation bidirectionnelle d'objets d'appareil entre des répertoires locaux et Azure AD (écriture différée pour appareil)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|Accès conditionnel (basé sur le groupe, l'emplacement, l'état du périphérique, la connexion ou le risque de l'utilisateur)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|Accès conditionnel (basé sur l’état du groupe, de l’emplacement ou du périphérique)  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Image de marque de l'entreprise (pages d'ouverture de session, personnalisation du volet d'accès  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Proxy d’application  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Licence d'accès client utilisation Microsoft Identity Manager (MIM)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Connect Health  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Advanced Threat Analytics  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|Accès conditionnel  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |**Fonctionnalités de gestion des appareils et des applications** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Gestion des appareils mobiles (MDM)<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |

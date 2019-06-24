@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines.
-ms.openlocfilehash: d4eb499f71dd39b99a2359ae9a10d7a8c6973e78
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3519ad9d34180b82bf32761cf3d1188ffff2b7d6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343243"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131098"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -34,7 +34,7 @@ Office 365 pour le gouvernement américain prend en charge l'accréditation du p
   
 Office 365 pour le gouvernement américain prend également en charge le guide des exigences de sécurité de Cloud Computing du département de la Défense des États-Unis pour les systèmes de niveau 2 (informations non classées secrètes non contrôlées). 
   
-Exchange Online, SharePoint Online, Archivage Exchange Online, Skype Entreprise et Office Online comportent des fonctionnalités capables de satisfaire les exigences de la CJIS concernant les autorités judiciaires, ainsi que les directives de la publication IRS-1075, pour les clients qui gèrent des informations fiscales fédérales aux États-Unis.
+Exchange Online, SharePoint Online, archivage Exchange Online, Skype entreprise et Office pour le Web offrent des fonctionnalités qui peuvent prendre en charge les exigences CJIS des clients pour les organismes d’application de la Loi, ainsi que les exigences de l’IRS-1075 pour les clients qui gèrent FTI.
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Personnel de la communauté Office 365 pour le gouvernement américain trié sur le volet
 

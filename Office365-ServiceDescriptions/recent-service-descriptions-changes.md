@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: Les tableaux suivants répertorient les modifications récemment apportées au contenu des descriptions de service.
-ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8840159713f3563d55f3f894b71a1bf56c22fee6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343593"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131298"
 ---
 # <a name="recent-service-descriptions-changes"></a>Modifications récentes de descriptions de service
 
@@ -53,7 +53,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||[Description du service de la plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Ajout de Microsoft 365 Business.  <br/> |
 ||[Centre de sécurité &amp; conformité Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Modification de l’entrée de limite d’archivage sur «Oui» pour Office 365 Business Essentials et Office 365 Business Premium.  <br/> |
 ||[Centre de sécurité &amp; conformité Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Modification de «gestion de la sécurité avancée» en «sécurité des applications Cloud Office 365».  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Modification de la première note de la rubrique sur «les classeurs qui dépassent les 30 méga-octets (Mo) ne peuvent pas être affichés dans Excel Online à partir de Microsoft SharePoint Online.» Auparavant, la note indiquait 10 Mo.  <br/> |
+|Office pour le Web  <br/> |[Excel pour le Web](office-online-service-description/excel-online.md) <br/> |Modification de la première note de la rubrique sur «les classeurs qui dépassent les 30 méga-octets (Mo) ne peuvent pas être affichés dans Excel pour le Web à partir de Microsoft SharePoint Online.» Auparavant, la note indiquait 10 Mo.  <br/> |
 |OneDrive Entreprise  <br/> |[Description du service OneDrive Entreprise](onedrive-for-business-service-description.md) <br/> |Mise à jour majeure de la description du service OneDrive entreprise.  <br/> |
    
 ## <a name="march-2018"></a>Mars 2018
@@ -63,7 +63,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Mises à jour du chiffrement de données sur REST dans le centre de données et le chiffrement de messages Office 365 (OME).  <br/> |
 ||[Stratégie et conformité de message](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Mises à jour du chiffrement de données sur REST dans le centre de données et le chiffrement de messages Office 365 (OME).  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Mise à jour pour figer la prise en charge des volets dans Excel online.  <br/> |
+|Office pour le Web  <br/> |[Excel pour le Web](office-online-service-description/excel-online.md) <br/> |Mise à jour pour figer la prise en charge des volets dans Excel pour le Web.  <br/> |
 |SharePoint Online  <br/> |[Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Plusieurs mises à jour et restructurations.  <br/> |
 ||[Limites de SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Plusieurs mises à jour.  <br/> |
 |Yammer  <br/> |[Fonctionnalités d’administration et de sécurité dans Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Suppression des notes et des clés de flux d’activité.  <br/> |
@@ -182,11 +182,11 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||[Office 365 géré 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Mise à jour du service Gestion des droits relatifs à l'information (IRM) à l'aide de Windows Server AD RMS.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Ajout de la ligne « Créer des mots de passe d'application » sous « Gestion des comptes d'utilisateur ».  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Added pointer to Security &amp; Compliance Center feature description. (Security &amp; Compliance Center is available for Office 365 Germany.)  <br/> |
-|Office Online  <br/> |[Description du service Office Online](office-online-service-description/office-online-service-description.md) <br/> |Ajout de Visio.  <br/> |
+|Office pour le Web  <br/> |[Description du service Web pour Office](office-online-service-description/office-online-service-description.md) <br/> |Ajout de Visio.  <br/> |
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Remplacement de « Balises et stratégies de rétention » par « Balises et stratégies de rétention de la gestion des enregistrements de messagerie (MRM) ».  <br/> |
 ||[Services de messagerie vocale](exchange-online-service-description/voice-message-services.md) <br/> |Mise à jour de la rubrique avec l'annonce de la fin de vie de la messagerie unifiée Exchange Online via SBC.  <br/> |
 | Workplace Analytics  <br/> |[Description du service Workplace Analytics](workplace-analytics-service-description.md) <br/> |Ajout de la description du nouveau service  <br/> |
 |Multiple  <br/> |Multiple  <br/> |Changement de nom : Azure RMS devient Azure Information Protection.  <br/> |
-|Multiple  <br/> |Multiple  <br/> |Suppression de la comparaison entre Office Online et Office pour ordinateur de bureau sur les pages Office 365 Germany et Office 365 géré par 21Vianet. Ajout d'un pointeur vers les contenus similaires sur la page Description du service Office Online.  <br/> |
+|Multiple  <br/> |Multiple  <br/> |Suppression des détails de la comparaison d’Office pour le bureau Web et du Bureau à partir de Office 365 Germany et Office 365 géré par 21Vianet pages. Ajout d’un pointeur vers le même contenu sur Office pour la page de description du service Web.  <br/> |
    
 

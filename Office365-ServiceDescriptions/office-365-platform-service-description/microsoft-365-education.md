@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 56ee77efbde70e5dd526083835525404fc5698bb
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 266bac1f2fb4fb7d76ee41a640b2ddde93a11af6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343603"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131108"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -31,7 +31,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Services** <br/> |**Office 365 Éducation A1** <br/> |**Office 365 Éducation A3** <br/> |**Office 365 Éducation A5** <br/> |**Microsoft 365 Éducation A3** <br/> |**Microsoft 365 Éducation A5** <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Office Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office 365 ProPlus  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Oui<sup>3</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |

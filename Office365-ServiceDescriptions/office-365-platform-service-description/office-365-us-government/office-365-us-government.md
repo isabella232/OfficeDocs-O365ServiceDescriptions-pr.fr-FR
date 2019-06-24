@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans pour le gouvernement des États-Unis Office 365 (orOffice 365). Cette section fournit une vue d'ensemble des fonctionnalités propres à Office 365 pour le gouvernement américain. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343213"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131278"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -75,7 +75,7 @@ Les services Office 365 pour le gouvernement américain sont fournis à partir d
 > [!NOTE]
 > Dans le cas d'une utilisation normale, Skype Entreprise ne stocke pas le contenu client, mais si ce stockage se produit, il sera réalisé dans des centres de données aux États-Unis. 
   
-Si les utilisateurs se trouvent aux États-Unis lorsqu'ils se servent de Office Online (anciennement connu sous le nom d'Office Web Apps) ou si vous optez pour l'utilisation d'Services ADFS (Active Directory Federation Services) 2.0 et configurez des stratégies visant à garantir que les utilisateurs se connectent aux services par le biais de l'authentification unique, le contenu client temporairement mis en cache dans Office Online sera situé aux États-Unis.
+Si vos utilisateurs sont situés aux États-Unis tout en utilisant Office pour le Web (anciennement appelé Office Web Apps) ou si vous adoptez l’utilisation des services ADFS (Active Directory Federation Services) 2,0 et que vous configurez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via un seul si GN-on, tout contenu client temporairement mis en cache dans Office pour le Web sera situé aux États-Unis.
   
 [Utilisation de cette section Description du service](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -158,7 +158,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Services Office 365** <br/> |**Office 365 gouvernement américain G1** <br/> |**Office 365 gouvernement américain G3** <br/> |**Office 365 gouvernement américain G5** <br/> |**Office 365 gouvernement américain F1** <br/> |
-|Office Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office 365 ProPlus  <br/> |Non <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
 |Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

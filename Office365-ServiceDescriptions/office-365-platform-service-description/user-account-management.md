@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 prend en charge les méthodes suivantes pour la création, la gestion et l’authentification des utilisateurs.
-ms.openlocfilehash: fd20cfa0302eb8800225fca5cc147b18c440dea3
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 72b5327382694d094d1d9a639dca6e023a5e0e9c
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343113"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131228"
 ---
 # <a name="user-account-management"></a>Gestion des comptes d'utilisateur
 
@@ -105,7 +105,7 @@ L'expérience de connexion change selon le type d'identité Office 365 étant ut
 |Outlook 2010 ou Office Outlook 2007 sous Windows Vista  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
 |POP, IMAP, Outlook pour Mac  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
-|Expériences Web : portail Office 365 / Outlook Web App / SharePoint Online / Office Online  <br/> |Connexion à chaque session de navigateur<sup>4</sup> <br/> |Connexion à chaque session <sup>3</sup> <br/> |
+|Expériences Web: Portail Office 365/Outlook Web App/SharePoint Online/Office pour le Web  <br/> |Connexion à chaque session de navigateur<sup>4</sup> <br/> |Connexion à chaque session <sup>3</sup> <br/> |
 |Office 2010 ou Office 2007 à l'aide de SharePoint Online  <br/> |Connexion à chaque session SharePoint Online<sup>4</sup> <br/> |Connexion à chaque session SharePoint Online<sup>3</sup> <br/> |
 |Skype Entreprise Online  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Aucune invite de commande  <br/> |
 |Outlook pour Mac  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |

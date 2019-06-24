@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées. Pour une vue d’ensemble rapide, voir qu’est-ce que SharePoint?
-ms.openlocfilehash: b2ad0ab9f45e91bed7f28dccecfddd58cee308bb
-ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
+ms.openlocfilehash: de95fb81b159ac3186b9710159a3fca716ee466f
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34931126"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131008"
 ---
 # <a name="sharepoint-online-service-description"></a>Description du service SharePoint Online
 
@@ -52,7 +52,7 @@ Toute personne accédant à SharePoint Online doit être associée à un plan Of
   
 ## <a name="onedrive-for-business"></a>OneDrive Entreprise
 
-OneDrive Entreprise (anciennement SkyDrive Pro) est le stockage en ligne personnel des employés d'une entreprise. Il s'agit de l'endroit où les personnes peuvent stocker, synchroniser et partager leurs fichiers de travail sur plusieurs dispositifs, en toute simplicité et sécurité. OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L'option OneDrive Entreprise autonome inclut Office Online. Pour connaître les fonctionnalités incluses dans OneDrive Entreprise avec Office Online, consultez la rubrique [Description du service OneDrive Entreprise](../onedrive-for-business-service-description.md).
+OneDrive Entreprise (anciennement SkyDrive Pro) est le stockage en ligne personnel des employés d'une entreprise. Il s'agit de l'endroit où les personnes peuvent stocker, synchroniser et partager leurs fichiers de travail sur plusieurs dispositifs, en toute simplicité et sécurité. OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L’option OneDrive entreprise autonome inclut Office pour le Web. Pour voir les fonctionnalités incluses dans OneDrive entreprise avec Office pour le Web, reportez-vous à la rubrique [Description du service Onedrive entreprise](../onedrive-for-business-service-description.md).
   
 ## <a name="sharepoint-online-enterprise-external-users"></a>Utilisateurs externes de SharePoint Online Entreprise
 
@@ -130,7 +130,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Publication intersites](content.md#cross-site-publishing) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestionnaire de conception](content.md#design-manager) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Ensembles de documents](content.md#document-sets) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Traduction de documents dans Word Online](content.md#document-translation-in-word-online) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Traduction de documents dans Word pour le Web](content.md#document-translation-in-word-for-the-web) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Recherche de découverte électronique](content.md#ediscovery-search) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |
 |[Mise en suspens de la découverte électronique](content.md#ediscovery-hold) <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |Non  <br/> |Oui<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |Non  <br/> |Oui  <br/> |
 |[Exportation de la découverte électronique](content.md#ediscovery-export) <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |Non  <br/> |Oui<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |Non  <br/> |Oui  <br/> |
@@ -145,8 +145,8 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Service de métadonnées gérées](content.md#managed-metadata-service) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Navigation par métadonnées](content.md#metadata-driven-navigation) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Disposition en plusieurs étapes](content.md#multi-stage-disposition) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Office Online (création/modification)](content.md#office-online-createedit) <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Office Online (affichage)](content.md#office-online-view) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Office pour le Web (création/modification)](content.md#office-for-the-web-createedit) <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |
+|[Office pour le Web (affichage)](content.md#office-for-the-web-view) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office ProPlus  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Intégration d'Office Web Apps Server](content.md#office-web-apps-server-integration) <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Inclus  <br/> |Oui  <br/> |Oui  <br/> |
 |[Bibliothèque de conservation](content.md#preservation-hold-library) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
@@ -250,7 +250,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 <sup>11</sup> l’aide est uniquement disponible en chinois simplifié et en anglais. <br/> <sup>12</sup> les commentaires sur les blogs ne peuvent pas être ajoutés. <br/> 
 <sup>13</sup> le site Web communautaire est disponible, mais l’aide communautaire publique n’est pas disponible. <br/>
 <sup>14</sup> Access 2010 n’est pas pris en charge. <br/> 
-<sup>15</sup> pour Office Online, les utilisateurs de F1 doivent avoir accès à Office Online (vignettes en direct) pour la création de contenu. Cependant, ils sont limités concernant l’utilisation des principales applications mobiles commerciales. Voici les éléments inclus : Yammer, StaffHub, Microsoft Teams, Skype Entreprise, SharePoint et les groupes. Les éléments suivants **ne sont pas** inclus: Outlook, Word, Excel, PowerPoint et OneNote.<br/> 
+<sup>15</sup> pour Office pour le Web, F1 les utilisateurs doivent avoir accès à Office pour le Web (vignettes en direct) pour la création de contenu. Cependant, ils sont limités concernant l’utilisation des principales applications mobiles commerciales. Voici les éléments inclus : Yammer, StaffHub, Microsoft Teams, Skype Entreprise, SharePoint et les groupes. Les éléments suivants **ne sont pas** inclus: Outlook, Word, Excel, PowerPoint et OneNote.<br/> 
 <sup>16</sup> les formulaires InfoPath qui contiennent du code utilisateur (sandbox) peuvent uniquement être utilisés dans le client riche InfoPath. <br/>
 <sup>17</sup> la consommation de Visio Online (capacité d’affichage) est disponible gratuitement. Les fonctionnalités de création et de modification Visio Online requièrent une licence. Pour plus d'informations sur Visio Online, reportez-vous à la [Description du service Visio Online](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> les utilisateurs de F1 peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 F1 n’inclut pas les droits CAL pour accéder au serveur; ces droits doivent être achetés séparément. <br/>

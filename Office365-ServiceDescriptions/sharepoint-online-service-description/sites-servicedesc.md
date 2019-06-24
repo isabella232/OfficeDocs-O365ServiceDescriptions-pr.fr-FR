@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de sites suivantes fournissent un ensemble complet d'outils que votre organisation peut utiliser pour créer tout type de site, ainsi qu'une infrastructure unique qui simplifie la gestion du site. Pour plus d'informations, voir Rechercher du contenu sur SharePoint Online.
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342483"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130868"
 ---
 # <a name="sites"></a>Sites
 
@@ -104,7 +104,7 @@ Les listes des tâches servent à gérer le travail de manière hiérarchique, a
 ## <a name="team-notebook"></a>Bloc-notes d’équipe
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-Quand vous créez un site d'équipe, un bloc-notes partagé OneNote 2013 est créé automatiquement dans le cadre du site. Vous pouvez utiliser ce bloc-notes pour capturer, compiler et partager des informations. (Cette fonctionnalité est disponible uniquement si vous vous êtes inscrit avec une suite Office 365 incluant la prise en charge Office Online.)
+Quand vous créez un site d'équipe, un bloc-notes partagé OneNote 2013 est créé automatiquement dans le cadre du site. Vous pouvez utiliser ce bloc-notes pour capturer, compiler et partager des informations. (Cette fonctionnalité est disponible uniquement si vous vous êtes inscrit auprès d’une suite Office 365 qui inclut Office pour la prise en charge du Web.)
   
 ## <a name="variations"></a>Variantes
 <a name="bkmk_Variations"> </a>

@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Les fonctionnalités de messagerie et de conversation suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342193"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130998"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Fonctionnalités de messagerie et de conversation dans Yammer
 
@@ -49,10 +49,10 @@ Lancez un dialogue privé avec un ou plusieurs collègues. Vous pouvez ajouter d
 
 Partagez des conversations avec un autre groupe ou via un message privé afin de transmettre les informations et les messages importants.
   
-## <a name="office-online-support"></a>Office Online support
+## <a name="office-for-the-web-support"></a>Office pour le support Web
 <a name="bkmk_ShareConversations"> </a>
 
-Avec la prise en charge d'Office Online dans Yammer, les documents téléchargés vers Yammer peuvent être affichés et modifiés avec Office Online, directement dans Yammer. Vous pouvez ainsi afficher correctement les documents avec Office Online, activer la co-création par plusieurs utilisateurs simultanément et afficher les conversations Yammer pertinentes, directement dans votre navigateur.
+Avec Office pour la prise en charge du Web dans Yammer, les documents téléchargés vers Yammer peuvent être affichés et modifiés avec Office pour le Web, directement dans Yammer. Cela permet aux documents d’être parfaitement affichés avec Office pour le Web, d’activer la co-création par différents utilisateurs simultanément et d’afficher les conversations Yammer pertinentes, directement sur votre navigateur.
   
 ## <a name="events"></a>Événements
 <a name="bkmk_Events"> </a>

@@ -3,7 +3,6 @@ title: Aide et formation
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,24 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
-ms.openlocfilehash: 6a7dacef8f970de86c5199d2217e957a10da59ea
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343573"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130898"
 ---
 # <a name="help-and-training"></a>Aide et formation
 
 Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
   
 ## <a name="online-help"></a>Aide en ligne
-<a name="BKMK_Online_Help"> </a>
 
 Les articles d’aide et les vidéos sont disponibles à partir de n’importe quel lien d’aide incorporé dans le service, y compris l’icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d’administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formation
-<a name="BKMK_Online_Help"> </a>
 
 Une formation est disponible via des vidéos, des conférences en ligne et des cours menant à une certification. Pour plus d'informations, consultez les rubriques suivantes :
   
@@ -47,7 +44,6 @@ Une formation est disponible via des vidéos, des conférences en ligne et des c
 - [Compétences de support technique d'administrateur Office 365 : concepts fondamentaux](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
 ## <a name="community"></a>Communauté
-<a name="BKMK_Community"> </a>
 
 > [!NOTE]
 > Les ressources de la communauté s'appliquent aux versions internationales d'Office 365. Si vous utilisez Office 365 géré par 21Vianet, vous pouvez utiliser WeChat. Reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) et accédez au bas de la page pour obtenir un code QR. 
@@ -95,14 +91,12 @@ La communauté Office 365 est une destination unique pour obtenir des informatio
 Pour plus d'informations, visitez la [Communauté Office 365](https://go.microsoft.com/fwlink/?LinkId=272057).
   
 ## <a name="office-365-techcenter"></a>TechCenter Office 365
-<a name="BKMK_O365TechCenter"> </a>
 
 Les professionnels de l'informatique travaillant au sein de grandes organisations peuvent accéder au TechCenter Office 365 sur TechNet. Le TechCenter Office 365 fournit des instructions de déploiement complexe destinées aux grandes organisations.
   
 Pour plus d'informations, visitez le [TechCenter Office 365](https://go.microsoft.com/fwlink/?LinkId=272058).
   
 ## <a name="other-self-help-resources"></a>Autres ressources d'aide autonome
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 Outre la communauté Office 365 et l'aide en ligne, Office 365 propose les ressources d'aide sans assistance suivantes :
   
@@ -115,7 +109,6 @@ Outre la communauté Office 365 et l'aide en ligne, Office 365 propose les resso
     Si vous utilisez Office 365 géré par 21Vianet, vous pouvez utiliser WeChat. Reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) et accédez au bas de la page pour obtenir un code QR. 
     
 ## <a name="languages"></a>Langages
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 Les ressources d'aide et de formation sont disponibles dans les langues suivantes.
   
@@ -155,7 +148,6 @@ Les ressources d'aide et de formation sont disponibles dans les langues suivante
 |Ukrainien  <br/> |Oui  <br/> | Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
    
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
-<a name="BKMK_OtherSelfHelpResources"> </a>
 
 Pour afficher la disponibilité des fonctionnalités selon les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   

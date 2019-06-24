@@ -15,18 +15,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1e4e5b6beb99a7a3b095d6a1f0cb56f0913abb19
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343303"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131070"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de plateforme Office 365
 
 Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
   
-Microsoft Office 365 offre la puissance de la connectivité en nuage aux entreprises de toutes tailles pour gagner du temps, réaliser des économies et libérer des ressources précieuses. Office 365 associe la suite bureautique très répandue Microsoft Office et des versions des services de communications et de collaboration en nuage Microsoft comprenant Microsoft Exchange Online, Microsoft SharePoint Online, Office Online et Microsoft Skype Entreprise Online pour améliorer au moyen d'Internet la productivité des utilisateurs situés pratiquement n'importe où.
+Microsoft Office 365 offre la puissance de la connectivité en nuage aux entreprises de toutes tailles pour gagner du temps, réaliser des économies et libérer des ressources précieuses. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de collaboration et de communication de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online — pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
   
 Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 for business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée à la rubrique [Office 365 service descriptions ](../office-365-service-descriptions-technet-library.md).
   
@@ -222,5 +222,5 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 <br/><sup>14</sup> Dans Office 365 Entreprise F1, Flow est limité à la consommation uniquement et les exécutions sont limitées à 750 par utilisateur et par mois. 
 <br/><sup>15</sup> Disponible uniquement dans les offres Office 365 Éducation, y compris Office 365 Éducation E5. Il n'est pas disponible dans Office 365 Entreprise E5. 
 <br/><sup>16</sup> Pour plus d'informations, consultez l'article [Contrôle de vos données dans Office 365 à l'aide de la clé du client](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>17</sup> La découverte électronique avancée est prise en charge aux États-Unis et en Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l'Asie-Pacifique sont exportées vers les États-Unis. Les données client en Europe, au Moyen-Orient et en Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) Brut <br/><sup>18</sup> consommation uniquement pour Microsoft Stream: pas de publication ni de partage.
+<br/><sup>17</sup> La découverte électronique avancée est prise en charge aux États-Unis et en Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l'Asie-Pacifique sont exportées vers les États-Unis. Les données client en Europe, au Moyen-Orient et en Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) > <br/><sup>18</sup> consommation uniquement pour Microsoft Stream: pas de publication ni de partage.
 <br/><sup>19</sup> à compter du 2019 mai, les références SKU existantes d’Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365.   
