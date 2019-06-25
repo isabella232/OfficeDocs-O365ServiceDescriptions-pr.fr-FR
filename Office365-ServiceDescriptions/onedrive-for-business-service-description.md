@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez l’espace de stockage OneDrive fourni pour chaque plan d’abonnement.
-ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343803"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131248"
 ---
 # <a name="onedrive-for-business-service-description"></a>Description du service OneDrive Entreprise
 
@@ -27,10 +27,10 @@ OneDrive est un espace de stockage en ligne dans le cloud fourni pour les utilis
   
 OneDrive est inclus dans les offres Microsoft 365, Office 365 et SharePoint Online. Vous pouvez également l’acheter séparément. 
     
-Pour comparer les offres, consultez les pages de [comparaison des offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?linkid=799177) et de [comparaison des offres OneDrive Entreprise](https://products.office.com/fr-FR/onedrive-for-business/compare-onedrive-for-business-plans). 
+Pour comparer les offres, consultez les pages de [comparaison des offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?linkid=799177) et de [comparaison des offres OneDrive Entreprise](https://products.office.com/fr-FR/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
-> Les offres OneDrive Entreprise autonomes incluent Office Online. 
+> Les offres OneDrive Entreprise autonomes incluent Office pour le web. 
   
 ## <a name="system-requirements"></a>Configuration requise
 
