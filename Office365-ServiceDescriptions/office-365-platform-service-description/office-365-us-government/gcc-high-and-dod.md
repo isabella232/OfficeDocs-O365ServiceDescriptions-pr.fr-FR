@@ -3,7 +3,6 @@ title: Office 365 GCC High et DoD
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
+ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343253"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35233521"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
 Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment.  
   
-Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation.
+Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Pour plus d’informations sur l’achat, consultez [la rubrique Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
 ## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description de service
 
@@ -56,7 +55,7 @@ Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’envir
 |Vérification des empreintes digitales  <br/> |Vérification des antécédents par empreintes digitales par rapport aux bases de données du FBI  <br/> |
 |Département de la Défense IT-2  <br/> |Les personnes demandant une élévation des autorisations en matière de données client ou d'accès administratif privilégié aux capacités de service DOD SRG L5 sont soumises à l'arbitrage du département de la Défense IT-2 qui prend sa décision sur la base d'une enquête niveau 3 de l'OPM  <br/> |
 
-<sup>1</sup> concerne uniquement le personnel disposant d’un accès temporaire ou permanent au contenu client hébergé dans Office 365 US GCC-High or DoD Clouds
+<sup>1</sup> concerne uniquement le personnel disposant d’un accès temporaire ou permanent au contenu client hébergé dans Office 365 US GCC-High or DoD Clouds.
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Nuances de fonctionnalités basées sur une architecture cloud compatible
 
 Les abonnements Office 365 dans les environnements GCC High et DoD incluent les fonctionnalités Exchange Online, SharePoint Online et Skype Entreprise de base. Étant donné les exigences de certification et d'accréditation accrues de l'infrastructure, certaines fonctionnalités diffèrent entre les offres commerciales générales d'Office 365 et celles qui sont disponibles dans GCC High et DoD.
@@ -93,7 +92,7 @@ En outre, les adresses de messagerie électronique non GCC associées aux profil
   
  **Business Connectivity Services** : la fonctionnalité BCS est prise en charge pour les scénarios de connectivité dans lesquels les sources de données restent accessibles dans la limite de sécurité pour votre service Cloud. 
   
- **Solutions bac à sable (sandbox)**: cette fonctionnalité a été déconseillée et n'est pas disponible. Les solutions bac à sable (sandbox) doivent être migrées vers le [modèle d'extensibilité de complément SharePoint]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
+ **Solutions bac à sable (sandbox)**: cette fonctionnalité a été déconseillée et n'est pas disponible. Les solutions bac à sable (sandbox) doivent être migrées vers le [modèle d'extensibilité de complément SharePoint]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
