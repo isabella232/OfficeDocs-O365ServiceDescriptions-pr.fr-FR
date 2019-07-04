@@ -1,8 +1,7 @@
 
   
 
-# [Descriptions du service Office 365](office-365-service-descriptions-technet-library.md)
-## [Description du service Microsoft 365 Business](microsoft-365-business-service-description.md)
+# [Description des services Office 365](office-365-service-descriptions-technet-library.md)
 ## [Description du service de la plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Options de plan Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Configuration requise pour Office 365](office-365-platform-service-description/office-365-system-requirements.md)
@@ -33,11 +32,11 @@
 ### [Droits d’utilisation de logiciels](office-365-platform-service-description/product-use-rights.md)
 ## [Description de service des applications Office](office-applications-service-description/office-applications-service-description.md)
 ### [Applications Office](office-applications-service-description/office-applications.md)
-## [Description du service Web pour Office](office-online-service-description/office-online-service-description.md)
-### [Word pour le Web](office-online-service-description/word-online.md)
-### [Excel pour le Web](office-online-service-description/excel-online.md)
-### [OneNote pour le Web](office-online-service-description/onenote-online.md)
-### [PowerPoint pour le Web](office-online-service-description/powerpoint-online.md)
+## [Description du service Office pour le web](office-online-service-description/office-online-service-description.md)
+### [Word pour le web](office-online-service-description/word-online.md)
+### [Excel pour le web](office-online-service-description/excel-online.md)
+### [OneNote pour le web](office-online-service-description/onenote-online.md)
+### [PowerPoint pour le web](office-online-service-description/powerpoint-online.md)
 ## [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
 ### [Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md)
 ### [Planification et déploiement](exchange-online-service-description/planning-and-deployment.md)
@@ -107,5 +106,8 @@
 ### [Fonctionnalités de la plateforme Yammer](yammer-service-description/yammer-platform-features.md)
 ### [Fonctionnalités d’administration et de sécurité dans Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Fonctionnalités de support dans Yammer](yammer-service-description/support-features-in-yammer.md)
+## Description des services Microsoft 365
+### [Description du service Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Aide sur les licences des services de niveau client pour Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
 ## [Description du service Microsoft Dynamics 365 (en ligne)](microsoft-dynamics-365-online-service-description.md)
 
