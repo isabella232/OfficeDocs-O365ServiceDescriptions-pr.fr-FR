@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint Online pour les plans Office 365 Entreprise et pour les plans autonomes.
-ms.openlocfilehash: 2e99bcd4ed05f345757323359350a00161780b03
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 30b31ab7ee10958791a2593f2f6f578a39837fa5
+ms.sourcegitcommit: 5ca550879a6bba16133a6103dc2b1ac19befa473
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233531"
+ms.lasthandoff: 07/07/2019
+ms.locfileid: "35581313"
 ---
 # <a name="sharepoint-online-limits"></a>Limites de SharePoint Online 
 
@@ -40,9 +40,9 @@ Découvrez les limites de SharePoint pour les plans Office 365 et les plans auto
   
 ## <a name="service-limits-for-all-plans"></a>Limites de service pour tous les plans
 
-- **Éléments dans des listes et des bibliothèques** : une liste peut comporter jusqu’à 30 millions éléments et une bibliothèque peut comporter jusqu’à 30 millions fichiers et dossiers. Après l’ajout de 100 000 éléments à une liste, une bibliothèque ou un dossier, l’héritage des autorisations pour la liste, la bibliothèque ou le dossier ne peut pas être modifié. Pour en savoir plus sur les autres restrictions relatives à l’affichage des grandes listes, voir [gérer les grandes listes et les bibliothèques dans Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Pour plus d’informations sur les caractères qui ne peuvent pas être utilisés dans les noms de fichiers, voir [caractères non valides dans les noms de fichier et de dossier](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Éléments dans des listes et des bibliothèques** : une liste peut comporter jusqu’à 30 millions éléments et une bibliothèque peut comporter jusqu’à 30 millions fichiers et dossiers. Après l’ajout de 100 000 éléments à une liste, une bibliothèque ou un dossier, l’héritage des autorisations pour la liste, la bibliothèque ou le dossier ne peut pas être modifié. Pour en savoir plus sur les autres restrictions relatives à l’affichage des grandes listes, voir [gérer les grandes listes et les bibliothèques dans Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). 
 
-- **Taille du fichier et longueur du chemin d’accès du fichier** -15 Go. Pour en savoir plus sur les restrictions et les limites de l’utilisation du nouveau client de synchronisation OneDrive (OneDrive. exe), voir [noms de fichiers et types de fichiers non valides dans onedrive, Onedrive entreprise et SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Taille du fichier et longueur du chemin d’accès du fichier** -15 Go. La taille maximale des fichiers joints aux éléments de liste est de 250 Mo. Pour en savoir plus sur les restrictions et les limites liées à l’utilisation du nouveau client de synchronisation OneDrive (OneDrive. exe), voir [noms de fichiers et types de fichiers non valides](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - Le **transfert et la copie sur plusieurs collections de sites** : 100 Go par opération. Le navigateur Web doit rester ouvert.
 
