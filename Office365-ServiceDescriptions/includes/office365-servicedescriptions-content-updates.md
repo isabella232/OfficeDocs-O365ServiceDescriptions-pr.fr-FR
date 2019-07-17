@@ -3,25 +3,6 @@
 
 
 
-## <a name="week-of-june-03-2019"></a>Semaine du 03 juin, 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 6/6/2019 | [Description du service Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modifié |
-| 6/6/2019 | [Office 365 géré par 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modifié |
-| 6/6/2019 | [Recherche](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | modifié |
-| 6/6/2019 | [Limites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modifié |
-| 6/7/2019 | [Description du service Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modifié |
-| 6/7/2019 | [Fonctionnalités d’archivage dans l’archivage Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modifié |
-| 6/7/2019 | [Description du service d’archivage Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | modifié |
-| 6/7/2019 | [Description du service Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | modifié |
-| 6/7/2019 | [Description du service Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modifié |
-| 6/7/2019 | [Centre de sécurité et conformité Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modifié |
-| 6/7/2019 | [Limites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modifié |
-| 6/7/2019 | [Description du service SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modifié |
-
-
 ## <a name="week-of-june-10-2019"></a>Semaine du 10 juin 2019
 
 
@@ -92,3 +73,13 @@
 | Publié le |Titre de la rubrique | Modification |
 |------|------------|--------|
 | 7/1/2019 | [Conseils pour la gestion des licences des services de niveau client Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modifié |
+
+
+## <a name="week-of-july-08-2019"></a>Semaine du 08 juillet 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 7/11/2019 | [Description de service des applications Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modifié |
+| 7/12/2019 | [Description du service d’ingénierie technique Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | modifié |
+| 7/12/2019 | [Centre de sécurité et conformité Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modifié |
