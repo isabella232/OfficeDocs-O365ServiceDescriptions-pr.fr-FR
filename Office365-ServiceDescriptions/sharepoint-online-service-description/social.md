@@ -3,7 +3,6 @@ title: Social
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 207c5829-0ba9-440a-a602-1222458fb479
 description: Microsoft SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités sociales suivantes permettent une collaboration dans le travail de la manière la mieux adaptée aux besoins. Comment ? Grâce aux outils de collaboration pouvant être utilisés par tous pour partager des idées, rechercher des personnes qualifiées et expertes et consulter des informations professionnelles sur les emplacements.
-ms.openlocfilehash: 9d3988bd0c2b33855bdf8e2aa283faead5a9a61c
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ec35d692a265328d07607ae0d2adf56d42da0b1a
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342443"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777775"
 ---
 # <a name="social"></a>Social
 

@@ -3,7 +3,6 @@ title: Fonctions de rapport et outils de dépannage
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d’administration Exchange.
-ms.openlocfilehash: 71aa0910dc343ecca228e47af0141ac49f556ccd
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342873"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776865"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Fonctions de rapport et outils de dépannage
 

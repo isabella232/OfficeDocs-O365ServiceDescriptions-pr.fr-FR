@@ -3,7 +3,6 @@ title: Administration et gestion [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: Cette section décrit les interfaces de gestion disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: eddfb44dad240835dbe7e8646e81c6b20531459b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 3ef62c7ae95040a8a4929831a587da6452438f34
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342103"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776465"
 ---
 # <a name="administration-and-managementeop"></a>Administration et gestion [EOP]
 

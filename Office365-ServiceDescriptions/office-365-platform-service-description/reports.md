@@ -3,7 +3,6 @@ title: Rapports
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Les administrateurs de Microsoft Office 365 peuvent afficher des rapports illustrant la façon dont votre organisation utilise les services Office 365. Ces rapports permettent d'identifier des problèmes, de filtrer des données et de télécharger des données vers Microsoft Excel. Vous pouvez également créer vos propres rapports à l'aide des services web de création de rapports Office 365. Les administrateurs Exchange Online et Exchange Online Protection (EOP) peuvent utiliser des rapports de protection de messagerie dans Office 365 pour afficher les données sur les programmes malveillants, le courrier électronique et les détections de règles.
-ms.openlocfilehash: a291d9f7b457a2cf4da254c3bfd21cd671cdc42b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4d0592c9e232d4bdb5fd86904a8ca0d8c3ef7a74
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343163"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777355"
 ---
 # <a name="reports"></a>Rapports
 

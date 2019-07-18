@@ -3,7 +3,6 @@ title: Limites d’Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 57ec63ab34341fa0cc4a5123246800e83cd46c2b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342753"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776745"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 

@@ -3,7 +3,6 @@ title: Fonctionnalités de la suite Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 4/08/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: 73e21fafc7c33c1a298c46d41cef40d029aa2780
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343283"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776905"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 

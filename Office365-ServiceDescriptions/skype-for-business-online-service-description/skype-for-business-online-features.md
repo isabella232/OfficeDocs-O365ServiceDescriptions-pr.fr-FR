@@ -3,7 +3,6 @@ title: Fonctionnalités de Skype Entreprise Online
 ms.author: sharik
 author: skjerland
 manager: supotter
-ms.date: 10/9/2017
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype entreprise Online dans la configuration de Skype entreprise online.
-ms.openlocfilehash: 1f1da35799df6b51147a24127e0c5778eda8022a
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: abaa1ba3245a3ea6ddcc6caf7e935a79e1382b8d
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342433"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777815"
 ---
 # <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 

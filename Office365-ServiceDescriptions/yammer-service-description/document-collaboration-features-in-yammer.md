@@ -3,7 +3,6 @@ title: Fonctionnalités de collaboration sur les documents dans Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Les fonctionnalités de collaboration sur les documents suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 900d96d17ee647b3546c75a805e8e10d433af5a0
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4fa20ae0209c0b70ad26790f12e70394f45a5d6c
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342243"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777965"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Fonctionnalités de collaboration sur les documents dans Yammer
 

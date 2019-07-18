@@ -3,7 +3,6 @@ title: Description du service Skype Entreprise Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/11/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Voulez-vous savoir quelles licences vous devez acheter pour obtenir certaines fonctionnalités de Skype Entreprise ? Consultez la rubrique vue d’ensemble des licences Skype entreprise.
-ms.openlocfilehash: ba3e2f87f4bc6b6e66e06aa1a7ded86787324a8f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 2c5aa68bdf26558f9415346585ca73bc6310b2ce
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342393"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777765"
 ---
 # <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
 

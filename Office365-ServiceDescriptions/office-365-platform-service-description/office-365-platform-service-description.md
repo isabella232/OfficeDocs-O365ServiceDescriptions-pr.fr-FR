@@ -3,7 +3,6 @@ title: Description du service de plateforme Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/08/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 1e4e5b6beb99a7a3b095d6a1f0cb56f0913abb19
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 66a958899ed12638344a3bf6d04b2808f6e7e275
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131070"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777395"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de plateforme Office 365
 
