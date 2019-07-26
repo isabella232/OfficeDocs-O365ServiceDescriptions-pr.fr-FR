@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: 10f1688d7630f945e7d648078a24cc1412da41de
-ms.sourcegitcommit: dab03604af87399ad70323ede34dc8abe28c63d8
+ms.openlocfilehash: afe6a1950601147c99d26e25e31087129439dec2
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35394910"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908731"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -36,7 +36,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype Entreprise Online  <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
 |Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |
-|Applications Office  <br/> |Oui  <br/> |Oui  <br/> |
+|[Applications Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Oui  <br/> |Oui  <br/> |
 |Project Online  <br/> |N °<sup>3</sup> <br/> |N °<sup>3</sup> <br/> |
 |Power BI  <br/> |Non  <br/> |Non  <br/> |
 |Yammer Enterprise  <br/> |Oui  <br/> |Oui  <br/> |

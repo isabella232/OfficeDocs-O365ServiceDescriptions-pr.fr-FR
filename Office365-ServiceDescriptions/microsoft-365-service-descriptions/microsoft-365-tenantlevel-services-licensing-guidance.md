@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour les services de niveau client Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411459"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908721"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Conseils pour la gestion des licences des services de niveau client Microsoft 365
 
@@ -191,7 +191,7 @@ Les stratégies de rétention ADG peuvent être appliquées aux utilisateurs tit
 
 ## <a name="office-365-advanced-ediscovery"></a>eDiscovery (découverte électronique) avancée Office 365
 
-Advanced eDiscovery fournit des solutions d’enquête et de découverte électronique pour les services informatiques et juridiques au sein des organisations afin d’identifier, de collecter, de conserver, de réduire et de consulter le contenu lié à une enquête ou un litige avant l’exportation en dehors d’Office 365 Configuration.
+Office 365 Advanced eDiscovery fournit des solutions d’enquête et de découverte électronique pour les services informatiques et juridiques dans les entreprises pour identifier, collecter, conserver, réduire et consulter le contenu lié à une enquête ou litige avant l’exportation en dehors du Office 365 System.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service?
 
@@ -199,7 +199,7 @@ Les utilisateurs titulaires d’une licence Office 365 E5, Microsoft 365 E5, con
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service?
 
-Les utilisateurs bénéficient d’Advanced eDiscovery lorsque leur contenu est mis en attente dans le cadre d’un litige ou d’une enquête.
+Un utilisateur bénéficie d’Advanced eDiscovery lorsque l’utilisateur est sélectionné en tant que dépositaire de données (une personne ayant le contrôle administratif d’un document ou d’un fichier électronique) pour un cas.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé?
 
@@ -207,7 +207,7 @@ Par défaut, les fonctionnalités avancées de découverte électronique sont ac
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
 
-Les organisations peuvent gérer Advanced eDiscovery par utilisateur et ajouter des utilisateurs à un cas avancé de découverte électronique, ainsi qu’offrir aux utilisateurs un accès en modification aux emplacements partagés via des autorisations eDiscovery. Pour obtenir des instructions sur l’application des autorisations avancées eDiscovery aux utilisateurs titulaires d’une licence, consultez [la rubrique attribution d’autorisations eDiscovery dans le centre de sécurité & conformité](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+les administrateurs eDiscovery peuvent sélectionner des utilisateurs spécifiques comme dépositaires de données pour un cas à l’aide de l’outil de gestion des dépositaires intégré dans Advanced eDiscovery, comme décrit dans [Add dépositaires to a Advanced eDiscovery case](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case).
 
 ## <a name="office-365-customer-key"></a>Clé client Office 365
 
@@ -255,7 +255,7 @@ Microsoft ne s’engage pas à fournir des demandes d’approbation de contrôle
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestion des accès privilégiés dans Office 365
 
-La gestion des accès privilégiés fournit un contrôle d’accès granulaire sur les tâches d’administration privilégiée dans Office 365. Une fois que vous avez activé la gestion des accès privilégiés, les utilisateurs doivent demander un accès juste-à-temps via un flux de travail d’approbation hautement étendu et lié au temps afin de réaliser des tâches élevées et privilégiées.
+La gestion des accès privilégiés fournit un contrôle d’accès granulaire sur les tâches d’administration privilégiée dans Office 365. Une fois le PAM activé, les utilisateurs doivent demander un accès juste-à-temps par le biais d’un flux de travail d’approbation hautement étendu et lié au temps afin de réaliser des tâches élevées et privilégiées.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service?
 
@@ -293,21 +293,21 @@ Par défaut, les messages électroniques Exchange Online, les sites SharePoint e
 
 Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de la sécurité Office 365, sous**emplacements**de **protection contre** > la perte de données.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>Protection contre la perte de données pour les conversations de conversation et de canal teams
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Protection contre la perte de données pour les messages de conversation et de canal teams
 
-Grâce à la protection contre la perte de données (DLP) pour les conversations de conversation et de canal de teams, les organisations peuvent bloquer les messages dans les conversations et les conversations de canal contenant des informations sensibles, telles que des informations financières, des informations d’identification personnelle informations relatives à l’état de santé ou autres informations confidentielles.
+Avec la protection contre la perte de données (DLP) pour la conversation de teams et les messages de canal, les organisations peuvent bloquer les conversations et les messages de canal contenant des informations sensibles, telles que des informations financières, des informations d’identification personnelle, des informations relatives à l’état de santé ou autres informations confidentielles.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service?
 
-Les utilisateurs titulaires d’une licence Office 365 E5, Microsoft 365 E5, conformité à la réglementation Microsoft 365 E5 et Office 365 Advanced Compliance peuvent tirer parti de DLP pour les conversations de conversation et de canal.
+Les utilisateurs titulaires d’une licence Office 365 E5, Microsoft 365 E5, conformité à la réglementation Microsoft 365 E5 et Office 365 Advanced Compliance peuvent tirer parti de DLP pour les conversations et les messages de canal.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service?
 
-Les expéditeurs bénéficient des informations sensibles dans leurs messages de conversation et de conversation de canal sortants inspectés pour obtenir des informations sensibles, comme configuré dans la stratégie DLP de l’organisation.
+Les expéditeurs bénéficient des informations sensibles dans leurs messages de conversation et de canal sortants inspectés pour obtenir des informations sensibles, comme configuré dans la stratégie DLP de l’organisation.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé?
 
-Par défaut, la conversation de teams et les conversations de canal sont un *emplacement activé (charge de travail)* pour ces fonctionnalités DLP pour tous les utilisateurs au sein du client. Pour plus d’informations sur l’utilisation des stratégies DLP, consultez la rubrique [vue d’ensemble de la protection contre la perte de données](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Par défaut, la conversation de teams et les messages de canal sont un *emplacement activé (charge de travail)* pour ces fonctionnalités DLP pour tous les utilisateurs au sein du client. Pour plus d’informations sur l’utilisation des stratégies DLP, consultez la rubrique [vue d’ensemble de la protection contre la perte de données](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
 
@@ -359,3 +359,23 @@ Les administrateurs créent et gèrent des stratégies de chiffrement de message
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
 
 Les administrateurs doivent appliquer des règles de flux de messagerie pour le chiffrement de messages avancé uniquement aux utilisateurs titulaires d’une licence. Pour plus d’informations sur la définition des règles de flux de messagerie, voir [définir des règles de flux de messagerie pour chiffrer les messages électroniques dans Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
+
+## <a name="supervision-policies"></a>Stratégies de surveillance
+
+Les stratégies de surveillance dans Office 365 vous permettent de capturer les communications des employés pour les examiner par les réviseurs désignés. Vous pouvez définir des stratégies spécifiques qui capturent les messages internes et externes, Microsoft teams ou les communications tierces au sein de votre organisation. Les relecteurs peuvent alors examiner les messages pour s’assurer qu’ils sont conformes aux standards de messages de votre organisation et les résoudre avec le type de classification.
+
+### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service?
+
+Les utilisateurs titulaires d’une licence Office 365 E5, Microsoft 365 E5, conformité à la réglementation Microsoft 365 E5 et Office 365 Advanced Compliance peuvent tirer parti des stratégies de surveillance.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service?
+
+Les utilisateurs bénéficient du service en faisant en sorte que leurs communications soient surveillées par les stratégies de surveillance.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé?
+
+Les administrateurs créent des stratégies de surveillance dans le centre de sécurité & conformité. Ces stratégies définissent les communications et les utilisateurs qui font l’objet d’un examen au sein de l’organisation, définissent les conditions personnalisées que les communications doivent respecter et indiquent qui doit effectuer des révisions.
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
+
+Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de surveillance. Lors du choix d’un groupe, il peut également sélectionner des utilisateurs spécifiques dans le groupe à exclure de la stratégie de surveillance. Pour plus d’informations sur les stratégies de surveillance, consultez la rubrique [surveillance des stratégies dans Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
