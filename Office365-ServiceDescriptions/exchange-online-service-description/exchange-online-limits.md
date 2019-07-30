@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 8e76ab8e0c3391d77923f2b66f4d4842ae86a759
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776745"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928895"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -240,7 +240,7 @@ Les limites suivantes s'appliquent à chaque message électronique.
 - **Limite de taille**des messages: des limites de taille de message sont nécessaires pour empêcher les messages volumineux de bloquer la remise d’autres messages et affecter les performances de service pour tous les utilisateurs. Ces limites concernent aussi les pièces jointes, et s'appliquent à toute l'organisation pour tous les messages (entrants, sortants et internes). Les messages qui dépassent cette limite ne sont pas remis, et l'expéditeur reçoit une notification d'échec de remise. Bien qu'il ne soit pas possible de configurer des limites de taille de message en les augmentant, en les diminuant ou en les définissant en fonction de l'utilisateur, les administrateurs peuvent créer des règles de transport pour limiter la taille maximale d'une pièce jointe particulière. Pour plus d'informations, voir l'article relatif à la [prise en charge par Office 365 de messages électroniques plus volumineux](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
     > [!NOTE]
-    > Certains clients de messagerie électronique peuvent avoir des limites de taille de message inférieures ou peuvent limiter la taille d'une pièce jointe individuelle à une valeur inférieure à la limite de taille de message d'Exchange Online.
+    > Certains clients de messagerie peuvent avoir des limites de taille de message inférieures ou limiter la taille d’une pièce jointe individuelle à une valeur inférieure à la limite de taille de message Exchange Online.
 
 - **Taille limite d’en-tête de message**: spécifie la taille maximale de tous les champs d’en-tête de message dans un message. La limite actuelle est 256 Ko. Si la taille totale de tous les en-têtes de message dépasse 256 Ko, Exchange Online rejette le message avec l’erreur « 552 5.3.4 La taille d’en-tête est supérieure à la taille maximale spécifiée. » La taille du corps de message ou des pièces jointes n'est pas prise en compte. Dans la mesure où les champs d'en-tête sont en texte brut, la taille de l'en-tête est déterminée par le nombre de caractères dans chaque champ d'en-tête et le nombre total de champs d'en-tête. Chaque caractère du texte correspond à 1 octet.
 
@@ -333,7 +333,9 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
     > [!NOTE]
     > Pour la limite de débit maximal de destinataires et le nombre maximal de destinataires, un groupe de distribution stocké dans le carnet d'adresses partagé de l'organisation compte pour un destinataire. Dans une liste de distribution personnelle, chaque destinataire est compté séparément.
 
-- **Limite de débit de messages**: les limites de fréquence des messages déterminent le nombre de messages qu’un utilisateur peut envoyer à partir de son compte Exchange Online au cours d’une période de temps spécifiée. Cette limite empêche l'utilisation excessive de ressources système par un même expéditeur. Si un utilisateur envoie des messages à un débit qui dépasse la limite via l’envoi de client SMTP, les messages seront rejetés et le client devra recommencer.
+- **Limite d’adresse de proxy de destinataire**: la limite d’adresse de proxy de destinataire est le nombre maximal d’alias (adresses de messagerie) dont peut disposer une boîte aux lettres de destinataire. 
+
+- **Limite de débit de messages**: les limites de fréquence des messages déterminent le nombre de messages qu’un utilisateur peut envoyer à partir de son compte Exchange Online au cours d’une période de temps spécifiée. Cette limite permet d’empêcher la consommation des ressources système par un seul expéditeur. Si un utilisateur envoie des messages à un débit qui dépasse la limite via l’envoi de client SMTP, les messages seront rejetés et le client devra recommencer.
 
 #### <a name="sending-limits-across-office-365-options"></a>Limites d’envoi dans les options Office 365
 
@@ -353,17 +355,16 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 |Limite de débit de destinataires|Aucune limite<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
 |Nombre maximal de destinataires|500 destinataires<sup>1</sup>|500 destinataires|500 destinataires|500 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|
+|Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
 > <sup>1</sup> Ceci est la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation.
 
 ## <a name="reporting-and-message-trace-limits"></a>Limites de création de rapports et de suivi de messages
-<a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
 Pour connaître les limites de création de rapports et de suivi de messages, voir la section relative à la latence et à la disponibilité des données en matière de création de rapports et de suivi des messages dans [Création de rapports et suivi des messages dans Exchange Online Protection](http://go.microsoft.com/fwlink/p/?LinkId=394248).
 
 ## <a name="retention-limits"></a>Limites de rétention
-<a name="RetentionLimits"> </a>
 
 Ces limites contrôlent la durée pendant laquelle les éléments situés dans des dossiers spécifiques sont accessibles dans la boîte de réception.
 
@@ -481,13 +482,12 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 |Nombre maximal de règles de transport|Sans limite|300 règles|300 règles|300 règles|
 |Taille maximale d’une règle de transport|40 Ko|8 Ko|8 Ko|8 Ko|
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport|Sans limite|20 Ko|20 Ko|20 Ko|
-|Nombre maximal de destinataires ajoutés à un message par l’ensemble des règles de transport|Aucune limite|100 destinataires|100 destinataires|100 destinataires|
-|Limite des destinataires de transfert|Sans limite|10 destinataires|10 destinataires|10 destinataires|
+|Nombre maximal de destinataires ajoutés à un message par l’ensemble des règles de transport|Sans limite|100 destinataires|100 destinataires|100 destinataires|
+|Limite des destinataires de transfert|Aucune limite|10 destinataires|10 destinataires|10 destinataires|
 |Nombre de fois qu’un message est redirigé|3 redirections|1 redirection|1 redirection|1 redirection|
 |Nombre de fois qu’un message est redirigé par les règles de transport|Sans limite|1 redirection|1 redirection|1 redirection|
 
 ## <a name="moderation-limits"></a>Limites de modération
-<a name="ModerationLimits"> </a>
 
 Ces limites contrôlent les paramètres de modération utilisés pour l'approbation de messages appliquée aux groupes de distribution et aux règles de transport.
 
@@ -525,15 +525,12 @@ Pendant les périodes d'utilisation intensive, certains expéditeurs risquent de
 > <sup>1</sup> Ceci est la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation.
 
 ## <a name="exchange-activesync-limits"></a>Limites d'ActiveSync Exchange
-<a name="BKMK_ExchangeActiveSync_Limits"> </a>
 
 Les limites suivantes s'appliquent à Microsoft Exchange ActiveSync, un protocole client qui synchronise les données de boîtes aux lettres entre les appareils mobiles et Exchange.
 
 - **Limite de l’appareil Exchange ActiveSync**: nombre maximal d’appareils Exchange ActiveSync par boîte aux lettres.
 
 - **Limite de suppression de l’appareil Exchange ActiveSync**: nombre maximal d’appareils Exchange ActiveSync qu’un administrateur Exchange peut supprimer en un mois.
-
-- **Limite de pièces jointes Exchange ActiveSync**: taille maximale d’une pièce jointe de message qui peut être envoyée ou reçue par un appareil Exchange ActiveSync.
 
 ### <a name="exchange-activesync-limits-across-office-365-options"></a>Limites d'ActiveSync Exchange dans les options Office 365
 
@@ -542,7 +539,6 @@ Les limites suivantes s'appliquent à Microsoft Exchange ActiveSync, un protocol
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Limite de l'appareil Exchange ActiveSync|100|100|100|100|100|100|
 |Limite de suppression de l'appareil Exchange ActiveSync|vingtaine|vingtaine|vingtaine|vingtaine|vingtaine|vingtaine|
-|Limite des pièces jointes Exchange ActiveSync|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>Limites d'ActiveSync Exchange dans les options autonomes
 
@@ -551,4 +547,3 @@ Les limites suivantes s'appliquent à Microsoft Exchange ActiveSync, un protocol
 |**Fonctionnalité**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Limite de l'appareil Exchange ActiveSync|100|100|100|100|
 |Limite de suppression de l'appareil Exchange ActiveSync|vingtaine|vingtaine|vingtaine|vingtaine|
-|Limite des pièces jointes Exchange ActiveSync|25 Mo|25 Mo|25 Mo|25 Mo|

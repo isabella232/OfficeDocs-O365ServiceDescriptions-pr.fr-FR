@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233521"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928413"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
@@ -76,15 +76,17 @@ Les abonnements Office 365 dans les environnements GCC High et DoD incluent les 
     
 4. Personnes spécifiques
     
-Les clients qui utilisent SharePoint Online et OneDrive entreprise dans les environnements GCC High ou DoD peuvent conserver des documents privés (première option), partager avec tout le monde dans leur organisation (deuxième option), partager avec toute personne disposant du lien vers le document (troisième option) et partager avec des personnes spécifiques dans les environnements GCC High et DoD uniquement (quatrième option); bien entendu, ces options peuvent également être restreintes en fonction des contrôles d’accès au niveau du client.
+Les clients qui utilisent SharePoint Online et OneDrive entreprise dans les environnements GCC High ou DoD peuvent conserver des documents privés (première option), partager avec tout le monde dans leur organisation (deuxième option), partager avec toute personne disposant du lien vers le document (troisième option) et partager avec des personnes spécifiques (quatrième option). Ces options peuvent également être restreintes en fonction des contrôles d’accès au niveau du client.
+
+Lors du partage avec des personnes spécifiques, SharePoint vérifie que les utilisateurs sont les destinataires d’un lien en leur envoyant un code secret à usage unique à l’adresse de messagerie qui était partagée avec. Toutefois, lorsqu’un client GCC-High partage avec un autre client GCC-High, un compte invité est créé pour le destinataire dans Azure AD et il se connecte avec son nom d’utilisateur et son mot de passe.
   
-Les clients de GCC High peuvent uniquement partager avec d’autres clients GCC High. Par exemple :
+Autres exemples:
   
-- Le client très élevé A peut partager avec le client haut de GCC.
+- GCC High client A peut partager avec GCC High client B, et B se connecter à l’aide d’un nom d’utilisateur et d’un mot de passe Azure AD.
     
-- Le client non GCC peut partager avec GCC High client A ou B.
+- Le client non GCC peut partager avec GCC High client A ou B, et A ou B les utilisateurs se connectent à l’aide de codes secrets à usage unique.
     
-- Le client de GCC High A ou B ne peut pas partager avec le client C High non GCC.
+- Le client de GCC High A ou B peut partager avec des utilisateurs non-GCC High client, et C se connectent à l’aide de codes secrets à usage unique.
     
 En outre, les adresses de messagerie électronique non GCC associées aux profils utilisateur ne sont pas prises en charge et n’autorisent pas l’envoi de messages électroniques d’alerte. Par exemple, l’utilisateur local A reçoit une adresse de messagerie Gmail, puis est synchronisée avec Azure GCC High client. L’utilisateur A accède à une bibliothèque et crée une alerte pour les modifications. L’alerte n’est pas envoyée à l’adresse Gmail.
   
@@ -92,7 +94,7 @@ En outre, les adresses de messagerie électronique non GCC associées aux profil
   
  **Business Connectivity Services** : la fonctionnalité BCS est prise en charge pour les scénarios de connectivité dans lesquels les sources de données restent accessibles dans la limite de sécurité pour votre service Cloud. 
   
- **Solutions bac à sable (sandbox)**: cette fonctionnalité a été déconseillée et n'est pas disponible. Les solutions bac à sable (sandbox) doivent être migrées vers le [modèle d'extensibilité de complément SharePoint]( https://msdn.microsoft.com/library/office/fp179930.aspx).
+ **Solutions bac à sable (sandbox)**: cette fonctionnalité a été déconseillée et n'est pas disponible. Toutes les solutions en bac à sable doivent être migrées vers le [modèle d’extensibilité des compléments SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype Entreprise Online
 

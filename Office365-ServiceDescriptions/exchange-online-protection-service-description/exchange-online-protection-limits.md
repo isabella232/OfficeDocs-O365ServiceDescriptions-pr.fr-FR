@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Les limites suivantes existent actuellement pour Exchange Online Protection. Sauf indication contraire, elles ne sont pas configurables.
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776705"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928403"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
 
@@ -38,7 +38,7 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Sau
     
 - **Limite de report de message** Les messages différés resteront dans nos files d'attente pendant 2 jours. Les nouvelles tentatives d'envoi de message sont basées sur le type d'erreur reçu à partir du système de messagerie du destinataire. Les messages sont renvoyés toutes les 15 minutes. 
     
-- **Période de rétention du courrier indésirable en quarantaine** Par défaut, le courrier indésirable envoyé en quarantaine est conservé pendant 15 jours. Les administrateurs peuvent écourter ce délai via des stratégies de filtrage de contenu. 
+- **Période** de rétention de quarantaine du courrier indésirable Par défaut, les messages indésirables envoyés à la quarantaine sont conservés pendant 30 jours. Les administrateurs peuvent écourter ce délai via des stratégies de filtrage de contenu. 
     
 - **Notifications de mise en quarantaine du courrier indésirable de l'utilisateur final** Par défaut, si cette option est activée, les notifications de mise en quarantaine du courrier indésirable de l'utilisateur final sont envoyées tous les 3 jours. Il est possible de configurer ces notifications afin qu'elles soient envoyées tous les 1 à 15 jours. 
     
@@ -55,7 +55,7 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Sau
 |Nombre limite d'expéditeurs bloqués  <br/> |1 024 entrées  <br/> |1 024 entrées  <br/> ||
 |Limite des listes d'adresses IP autorisées et bloquées  <br/> |1 273 entrées  <br/> |1 273 entrées  <br/> |1 273 entrées  <br/> |
 |Limite de report de message  <br/> |2 jours, nouvelle tentative toutes les 15 minutes  <br/> |2 jours, nouvelle tentative toutes les 15 minutes  <br/> |2 jours, nouvelle tentative toutes les 15 minutes  <br/> |
-|Période de rétention du courrier indésirable en quarantaine  <br/> |15 jours par défaut, mais la période peut être réduite  <br/> |15 jours par défaut, mais la période peut être réduite  <br/> |15 jours par défaut, mais la période peut être réduite  <br/> |
+|Période de rétention du courrier indésirable en quarantaine  <br/> |30 jours par défaut, mais peut être abaissé  <br/> |30 jours par défaut, mais peut être abaissé  <br/> |30 jours par défaut, mais peut être abaissé  <br/> |
 |Notification de mise en quarantaine du courrier indésirable pour l'utilisateur final  <br/> |3 jours par défaut, configurable entre 1 et 15 jours  <br/> |3 jours par défaut, configurable entre 1 et 15 jours  <br/> |3 jours par défaut, configurable entre 1 et 15 jours  <br/> |
    
 
