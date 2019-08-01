@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131238"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051615"
 ---
 # <a name="office-for-the-web-service-description"></a>Description du service Web pour Office
 
@@ -175,7 +175,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Changement de nom et ajout de feuilles](excel-online.md#rename-and-add-sheets) <br/> |Oui  <br/> |Oui  <br/> |
 |[Renommer un fichier alors que le classeur est ouvert](excel-online.md#rename-file-while-workbook-is-open) <br/> |Oui  <br/> |Non  <br/> |
 |[Remplacement](excel-online.md#replace) <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des droits : gestion des droits relatifs à l'information et sécurité par mot de passe](excel-online.md#bkmk_RightsManagement) <br/> |Non  <br/> |Oui  <br/> |
+|[Gestion des droits : gestion des droits relatifs à l'information et sécurité par mot de passe](excel-online.md#rights-management-irm-and-password-security) <br/> |Non  <br/> |Oui  <br/> |
 |[Enregistrement ou téléchargement de copie](excel-online.md#save-or-download-a-copy) <br/> |Oui  <br/> |Oui  <br/> |
 |[Partager](excel-online.md#share) <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection des feuilles](excel-online.md#sheet-protection) <br/> |Oui  <br/> |Oui  <br/> |
