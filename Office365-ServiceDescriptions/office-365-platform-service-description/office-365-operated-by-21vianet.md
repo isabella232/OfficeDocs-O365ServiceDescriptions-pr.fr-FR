@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 76ba8a468a2036818addd3d0ece908a691179ab1
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908811"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058836"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
@@ -357,13 +357,13 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine. <br/>
 |Alertes de capacité  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier non trié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |MailTips  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>12</sup> <br/> |
-|Accès délégué  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
+|Accès délégué  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Règles de boîte de réception  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Comptes connectés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
 |Boîtes aux lettres inactives  <br/> |N °<sup>6</sup> <br/> |--  <br/> |N °<sup>6</sup> <br/> |Oui  <br/> |N °<sup>6</sup> <br/> |Oui  <br/> |Non <sup>6</sup> <br/> |
 |Carnet d'adresses en mode hors connexion  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Stratégies de carnet d'adresses  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Carnet d'adresses hiérarchique  <br/> |Oui  <br/> |--  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
+|Carnet d'adresses hiérarchique  <br/> |Oui  <br/> |--  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Listes d'adresses et liste d'adresses globale  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |
 |Groupes Office 365  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Groupes de distribution  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

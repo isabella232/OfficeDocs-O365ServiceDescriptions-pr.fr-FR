@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
-ms.openlocfilehash: a54d0fddae4430b450b944781cbeca1cbb1e414f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
+ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776415"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36058816"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -133,7 +133,9 @@ Les analyseurs de [menace](https://docs.microsoft.com/office365/securitycomplian
 
 ### <a name="explorer"></a>Explorer
 
-[Explorateur](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance) (également appelé «Explorateur de menaces») est un rapport en temps réel qui permet aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Par défaut, ce rapport affiche les données des 7 derniers jours; Toutefois, les vues peuvent être modifiées pour afficher les données des 30 derniers jours. 
+L’Explorateur (également appelé Explorateur de menaces) est un rapport en temps réel qui permet aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Par défaut, ce rapport affiche les données des 7 derniers jours; Toutefois, les vues peuvent être modifiées pour afficher les données des 30 derniers jours. 
+
+Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/office365/securitycompliance/threat-explorer).
 
 ### <a name="attack-simulator"></a>Simulateur d’attaque
   
