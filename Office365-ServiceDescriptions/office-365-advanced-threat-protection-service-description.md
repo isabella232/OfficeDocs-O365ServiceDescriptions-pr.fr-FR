@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
-ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
-ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
+ms.openlocfilehash: aaa017f127ee17ce872ec7ba8fb13b78bc332048
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36058816"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171694"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -93,7 +93,8 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |Liens fiables |Oui|Oui |Oui | 
 |Stratégies anti-hameçonnage |Oui |Oui |Oui |
 |ATP pour SharePoint, OneDrive et Microsoft teams |Oui |Oui |Oui|
-|Liens fiables dans teams |Oui|Oui |Oui |
+|Pièces jointes fiables dans teams |Oui|Oui |Oui |
+|Liens fiables dans teams |Non |Non |Non |
 |Rapports en temps réel |Oui |Oui |Oui|
 |*Automatisation, recherche, correction et éducation* |
 |Suivi des menaces |Non |Oui |Oui |
@@ -114,6 +115,16 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 ### <a name="safe-links"></a>Liens fiables
 
 La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection est activée à chaque fois qu'ils cliquent sur le lien ; les liens malveillants sont bloqués dynamiquement tandis que les liens fiables peuvent être ouverts.
+
+Les liens fiables sont disponibles pour les URL dans les applications suivantes:
+
+- Office 365 ProPlus sur Windows ou Mac
+- Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web)
+- Word, Excel, PowerPoint et Visio sous Windows, ainsi que des applications Office sur des appareils iOS et Android 
+
+> [!NOTE] 
+> Les utilisateurs doivent disposer d’une licence pour la protection avancée contre les menaces, doivent être inclus dans les stratégies de liens fiables ATP et être connectés sur leurs appareils pour que la protection soit mise en place.
+
 
 ### <a name="anti-phishing-policies"></a>Stratégies anti-hameçonnage
 
