@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour les services de niveau client Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
-ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
+ms.openlocfilehash: 3c77928869c3735a5bad14eafeac0a248455f5e0
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171674"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206864"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Conseils pour la gestion des licences des services de niveau client Microsoft 365
 
@@ -338,6 +338,29 @@ Les administrateurs créent et gèrent des stratégies de barrière des informat
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
 
 Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & conformité d’Office 365. Par exemple, si tous les utilisateurs disposent d’une licence pour Office 365 E3 et qu’aucun ne dispose d’une licence pour Office 365 Advanced Compliance/E5, ils n’ont pas besoin de créer de stratégies de barrière des informations pour l’organisation. Pour plus d’informations, consultez la rubrique [barrières relatives aux informations dans Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+
+## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
+
+Le chiffrement des messages Office 365 (OME) est un service basé sur Azure Rights Management (Azure RMS) qui vous permet d’envoyer des messages chiffrés à des personnes internes ou externes à votre organisation, quelle que soit l’adresse de messagerie de destination (Gmail, Yahoo! Mail, Outlook.com, etc.).
+
+Pour afficher les messages chiffrés, les destinataires peuvent obtenir un code secret à usage unique, se connecter à l’aide d’un compte Microsoft ou se connecter à l’aide d’un compte professionnel ou scolaire associé à Office 365. Les destinataires peuvent également envoyer des réponses chiffrées. Ils n’ont pas besoin d’un abonnement Office 365 pour afficher des messages chiffrés ou envoyer des réponses chiffrées.
+
+### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service?
+
+Les utilisateurs sous licence d’Office 365 E3/a3/G3, Microsoft 365 E3/a3/G3 et Azure information Protection Plan 1 peuvent bénéficier du chiffrement de messages Office 365.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service?
+
+Les expéditeurs de messages bénéficient d’un contrôle supplémentaire sur les messages électroniques sensibles fournis par le chiffrement de messages Office 365.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé?
+
+Les administrateurs créent et gèrent les stratégies de chiffrement des messages Office 365 dans le centre d’administration Exchange sous**règles**de **flux** > de messagerie. Par défaut, ces règles s’appliquent à tous les utilisateurs du client. Pour plus d’informations sur la configuration des nouvelles fonctionnalités de chiffrement de messages Office 365, consultez la rubrique [set up New office 365 message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
+
+Les administrateurs doivent appliquer des règles de flux de messagerie pour le chiffrement de messages Office 365 uniquement aux utilisateurs titulaires d’une licence. Pour plus d’informations sur la définition des règles de flux de messagerie, voir [définir des règles de flux de messagerie pour chiffrer les messages électroniques dans Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
+
 
 ## <a name="office-365-advanced-message-encryption"></a>Chiffrement de messages avancé Office 365
 

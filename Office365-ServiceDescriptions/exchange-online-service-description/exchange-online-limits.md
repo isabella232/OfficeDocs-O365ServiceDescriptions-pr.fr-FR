@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940532"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206844"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -410,7 +410,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 
 - **Limiter l’envoi de messages à de grands groupes de distribution**: les groupes de distribution contenant le nombre de membres spécifiés par cette limite doivent disposer des options de gestion des remises ou d’approbation des messages configurées. La gestion de remise spécifie la liste des expéditeurs autorisés à envoyer des messages au groupe de distribution. L'approbation des messages spécifie un ou plusieurs modérateurs dont la tâche est d'approuver tous les messages envoyés au groupe de distribution.
 
-- **Taille maximale des messages pour les grands groupes de distribution**: si un message est envoyé à 5 000 ou plusieurs destinataires, la taille du message ne peut pas dépasser cette limite. Si la taille du message dépasse la limite, ce dernier n'est pas remis, et l'expéditeur reçoit une notification d'échec de remise. Le nombre total de destinataires est déterminé après l'extension du groupe de distribution.
+- **Taille maximale des messages pour les grands groupes de distribution**: si un message est envoyé à 5 000 ou plusieurs destinataires, la taille du message ne peut pas dépasser cette limite. Si la taille du message dépasse la limite, ce dernier n'est pas remis, et l'expéditeur reçoit une notification d'échec de remise.
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>Limites concernant les groupes de distribution parmi les options Office 365
 

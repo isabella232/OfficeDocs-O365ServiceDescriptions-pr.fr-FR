@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 5b7c6a16fabe62bd4f6bda9cc049b71e50cbac14
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: a2a21a06d90a82423e9a669dec12a5311df33e80
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051595"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206834"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de plateforme Office 365
 
@@ -100,7 +100,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Microsoft Flow  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft MyAnalytics  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |N °<sup>21</sup>  <br/> |Oui  <br/> |Non  <br/> |
+|Microsoft MyAnalytics  <br/> |N °<sup>22</sup>  <br/> |N °<sup>22</sup>  <br/> |N °<sup>22</sup>  <br/> |N °<sup>22</sup>  <br/> |N °<sup>21,</sup> <sup>22</sup>  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft Planner  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft PowerApps  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -225,4 +225,4 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 <br/><sup>19</sup> à compter du 2019 mai, les références SKU existantes d’Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365.
 <br/><sup>20</sup> disponible en tant que module complémentaire gratuit. Pour plus d’informations, consultez la rubrique [Get Access to Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
 <br/><sup>21</sup> pour obtenir MyAnalytics (complet) avec le plan E3, vous devez acheter le complément MyAnalytics. Pour plus d’informations, consultez la rubrique [MyAnalytics plans and Environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments). 
-
+<br/><sup>22</sup> inclut des informations par MyAnalytics. Pour plus d’informations, consultez la rubrique [MyAnalytics plans and Environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).

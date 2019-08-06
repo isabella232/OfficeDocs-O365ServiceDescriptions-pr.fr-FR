@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-june-24-2019"></a>Semaine du 24 juin, 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 6/25/2019 | [Description du service Microsoft 365 Business](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modifié |
-| 6/25/2019 | [Microsoft 365 gouvernement sur l’achat](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy) | modifié |
-| 6/25/2019 | [Office 365 GCC High et DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | modifié |
-| 6/25/2019 | [Support](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modifié |
-| 6/25/2019 | [Limites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modifié |
-| 6/28/2019 | [Description du service Microsoft Dynamics 365 (en ligne)](/Office365/ServiceDescriptions/microsoft-dynamics-365-online-service-description) | modifié |
-| 6/28/2019 | [Descriptions du service Office 365](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modifié |
-| 6/28/2019 | [Domaines](/Office365/ServiceDescriptions/office-365-platform-service-description/domains) | modifié |
-| 6/28/2019 | [Réseau](/Office365/ServiceDescriptions/office-365-platform-service-description/networking) | modifié |
-| 6/28/2019 | [Gestion des comptes d’utilisateur](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | modifié |
-
-
 ## <a name="week-of-july-01-2019"></a>Semaine du 1er juillet 2019
 
 
@@ -148,3 +131,24 @@
 | 7/25/2019 | [Conseils pour la gestion des licences des services de niveau client Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modifié |
 | 7/25/2019 | [Office 365 géré par 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modifié |
 | 7/25/2019 | [Description de service des applications Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modifié |
+
+
+## <a name="week-of-july-29-2019"></a>Semaine du 29 juillet 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 7/29/2019 | [Limites d’Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | modifié |
+| 7/29/2019 | [Limites d’Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modifié |
+| 7/29/2019 | [Description du service Microsoft Dynamics 365 (en ligne)](/Office365/ServiceDescriptions/microsoft-dynamics-365-online-service-description) | modifié |
+| 7/29/2019 | [Office 365 GCC High et DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | modifié |
+| 7/29/2019 | [Informaticiens](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | modifié |
+| 7/30/2019 | [Limites d’Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modifié |
+| 7/31/2019 | [Limites d’Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-limits) | modifié |
+| 7/31/2019 | [Description du service de la plateforme Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modifié |
+| 7/31/2019 | [Excel pour le Web](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modifié |
+| 7/31/2019 | [Description du service Web pour Office](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modifié |
+| 8/1/2019 | [Description du service Office 365 - Protection avancée contre les menaces](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modifié |
+| 8/1/2019 | [Office 365 géré par 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modifié |
+| 8/2/2019 | [Conseils pour la gestion des licences des services de niveau client Microsoft 365](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modifié |
+| 8/2/2019 | [Description du service Office 365 - Protection avancée contre les menaces](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modifié |
