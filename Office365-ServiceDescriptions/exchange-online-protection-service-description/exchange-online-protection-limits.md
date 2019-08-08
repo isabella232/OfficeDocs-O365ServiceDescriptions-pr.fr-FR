@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Les limites suivantes existent actuellement pour Exchange Online Protection. Sauf indication contraire, elles ne sont pas configurables.
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051605"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231392"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
 
@@ -36,7 +36,7 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Sau
     
 - **Limite des listes d'adresses IP autorisées ou bloquées** Lors de la configuration d'une liste d'adresses IP autorisées ou d'une liste d'adresses IP bloquées dans le filtre de connexion, vous pouvez spécifier un maximum de 1 273 adresses IP (en gardant à l'esprit qu'une seule entrée peut couvrir toutes les adresses de 24 à 32 en utilisant une notation CIDR). 
     
-- **Limite de report de message** Les messages différés resteront dans nos files d'attente pendant 2 jours. Les nouvelles tentatives d'envoi de message sont basées sur le type d'erreur reçu à partir du système de messagerie du destinataire. Les messages sont renvoyés toutes les 15 minutes. 
+- **Limite de report de message** Les messages dans le report resteront dans nos files d’attente pendant 24 heures. Les nouvelles tentatives d'envoi de message sont basées sur le type d'erreur reçu à partir du système de messagerie du destinataire. Les messages sont renvoyés toutes les 15 minutes. 
     
 - **Période** de rétention de quarantaine du courrier indésirable Par défaut, les messages indésirables envoyés à la quarantaine sont conservés pendant 30 jours. Les administrateurs peuvent écourter ce délai via des stratégies de filtrage de contenu. 
     

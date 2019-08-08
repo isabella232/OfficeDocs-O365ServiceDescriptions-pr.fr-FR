@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Pour la plupart des organisations utilisant Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s’assurer qu’elles sont conformes aux besoins spécifiques de la réglementation ou de l’entreprise. Vous pouvez en savoir plus sur ces options ici.
-ms.openlocfilehash: d21a5742ccbd032abbad822d4a686174ce5b8baf
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776785"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231412"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 
@@ -29,16 +29,16 @@ Pour la plupart des organisations utilisant Office 365, nous hébergeons vos bo�
 
 Microsoft Exchange Online peut acheminer le courrier sortant de votre organisation via un serveur local ou un service hébergé (parfois appelé « hébergement intelligent »). Ainsi, votre organisation peut utiliser des appliances de protection contre la perte de données, effectuer un post-traitement personnalisé du courrier sortant et remettre le courrier à des partenaires professionnels via des réseaux privés. Exchange Online prend aussi en charge la fonctionnalité de réécriture d'adresse, qui permet d'acheminer le courrier sortant via une passerelle locale qui modifie les adresses. Cette fonctionnalité vous permet de masquer les sous-domaines, de faire apparaître le courrier provenant d'une organisation à plusieurs domaines comme un courrier associé à un domaine unique, ou de faire apparaître le courrier relayé par des partenaires comme étant un courrier envoyé de l'intérieur de l'organisation. Les administrateurs configurent le routage personnalisé du courrier dans le Centre d'administration Exchange (CAE).
   
-Pour plus d'informations, consultez la rubrique [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx).
+Pour plus d'informations, consultez la rubrique [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
 > [!IMPORTANT]
-> Exchange Online transfère le flux de messagerie vers et depuis votre organisation. 
+> Exchange Online transfère le flux de messagerie vers et depuis votre organisation. Si votre domaine de destinataire est hébergé dans Exchange Online avec des enregistrements DNS MX pointant vers Exchange Online Protection, le flux de messagerie de votre client vers le destinataire ne transite pas sur Internet.
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-En tant que client Exchange Online, vous pouvez établir un flux de messagerie sécurisé avec un partenaire de confiance en utilisant les connecteurs d'Office 365. Office 365 prend en charge la communication sécurisée par protocole TLS (Transport Layer Security). Vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) est un protocole de chiffrement qui sécurise les communications sur Internet. Grâce aux connecteurs, vous pouvez configurer un protocole TLS entrant et sortant forcé, à l'aide de certificats validés par une autorité de certification ou auto-signés. Vous pouvez également appliquer d'autres restrictions de sécurité, par exemple en spécifiant des noms de domaine ou des plages d'adresses IP à partir desquels votre organisation partenaire envoie du courrier. 
+En tant que client Exchange Online, vous pouvez établir un flux de messagerie sécurisé avec un partenaire de confiance en utilisant les connecteurs d'Office 365. Office 365 prend en charge la communication sécurisée par protocole TLS (Transport Layer Security). Vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) est un protocole de chiffrement qui sécurise les communications sur Internet. Grâce aux connecteurs, vous pouvez configurer un protocole TLS entrant et sortant forcé, à l'aide de certificats validés par une autorité de certification ou auto-signés. Vous pouvez également appliquer d'autres restrictions de sécurité, par exemple en spécifiant des noms de domaine ou des plages d'adresses IP à partir desquels votre organisation partenaire envoie du courrier. 
   
-Pour plus d'informations, consultez la rubrique [Set up connectors for secure mail flow with a partner organization](http://technet.microsoft.com/library/1ce4d6a4-41ba-4d1e-9ca9-e826252c1041.aspx).
+Pour plus d'informations, consultez la rubrique [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
 > [!IMPORTANT]
 > Il est possible qu'un certificat validé par une autorité de certification soit requis. 
@@ -47,13 +47,13 @@ Pour plus d'informations, consultez la rubrique [Set up connectors for secure ma
 
 Vous pouvez acheminer le courrier vers des sites spécifiques à l'aide de connecteurs et de règles de transport. Avec un routage basé sur des critères, vous pouvez choisir un connecteur en fonction de conditions spécifiques.
   
-Pour plus d'informations, consultez la rubrique [Scenario: Conditional mail routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).
+Pour plus d'informations, consultez la rubrique [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Liste verte de courriers entrants
 
 Vous pouvez ajouter l'adresse IP d'un partenaire de confiance à une liste verte pour être certain que les messages envoyés par le partenaire ne font pas l'objet d'un filtrage du courrier indésirable. Pour ce faire, vous pouvez utiliser la liste d'adresses IP autorisées du filtre de connexion.
   
-Pour plus d'informations, consultez la rubrique [Configure the connection filter policy](http://technet.microsoft.com/library/6ae78c12-7bbe-44fa-ab13-c3768387d0e3.aspx).
+Pour plus d'informations, consultez la rubrique [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Routage hybride du courrier
 
@@ -98,4 +98,3 @@ Pour plus d'informations sur la configuration requise pour un déploiement hybri
 
 Pour afficher la disponibilité des fonctionnalités dans les offres Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
-
