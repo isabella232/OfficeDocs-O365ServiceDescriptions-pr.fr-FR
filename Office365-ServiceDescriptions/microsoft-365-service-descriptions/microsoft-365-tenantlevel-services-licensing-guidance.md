@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour les services de niveau client Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258862"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384868"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Conseils pour la gestion des licences des services de niveau client Microsoft 365
 
@@ -63,7 +63,7 @@ Par défaut, les fonctionnalités Azure ATP sont activées au niveau du client p
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
 
-Microsoft fournit des demandes d’approbation de contrôle d’accès au client pour les utilisateurs titulaires d’une licence.
+Microsoft offre des fonctionnalités de détection des menaces pour les utilisateurs titulaires d’une licence.
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -250,7 +250,7 @@ Les administrateurs peuvent activer les contrôles de référentiel sécurisé d
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service?
 
-Microsoft ne s’engage pas à fournir des demandes d’approbation de contrôle d’accès bte post. Au fil du temps, les vérifications de licence ou les outils ciblés seront ajoutés au référentiel sécurisé du client pour s’assurer que le référentiel sécurisé est accessible aux utilisateurs titulaires d’une licence.
+Microsoft fournit des demandes d’approbation de contrôle d’accès du client à un utilisateur dans votre organisation Office 365.
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestion des accès privilégiés dans Office 365
 
