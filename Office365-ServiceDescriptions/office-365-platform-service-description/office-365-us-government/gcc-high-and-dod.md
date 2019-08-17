@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928413"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450288"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
@@ -84,7 +84,7 @@ Autres exemples:
   
 - GCC High client A peut partager avec GCC High client B, et B se connecter à l’aide d’un nom d’utilisateur et d’un mot de passe Azure AD.
     
-- Le client non GCC peut partager avec GCC High client A ou B, et A ou B les utilisateurs se connectent à l’aide de codes secrets à usage unique.
+- Le client très élevé C peut partager avec GCC High client A ou B, et A ou B les utilisateurs se connectent à l’aide de codes secrets à usage unique.
     
 - Le client de GCC High A ou B peut partager avec des utilisateurs non-GCC High client, et C se connectent à l’aide de codes secrets à usage unique.
     
