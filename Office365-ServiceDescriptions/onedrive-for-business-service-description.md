@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez l’espace de stockage OneDrive fourni pour chaque plan d’abonnement.
-ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
+ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131248"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36407718"
 ---
 # <a name="onedrive-for-business-service-description"></a>Description du service OneDrive Entreprise
 
@@ -38,7 +38,7 @@ Pour connaître la configuration requise pour le client de synchronisation et l�
   
 ## <a name="about-sync"></a>À propos de la synchronisation
 
-Pour installer le client de synchronisation le plus récent, accédez à la [page de téléchargement de OneDrive](https://onedrive.live.com/about/download/). 
+Toute personne disposant d’une offre incluant OneDrive peut utiliser le Client de synchronisation OneDrive à moins que son service informatique ne le désactive explicitement. Pour installer le Client de synchronisation le plus récent, accédez à la [page de téléchargement de OneDrive](https://onedrive.live.com/about/download/). Pour plus d’informations sur le Client de synchronisation, voir [Synchroniser des fichiers avec le Client de synchronisation OneDrive sur Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49).
   
 ## <a name="storage-space-per-user"></a>Espace de stockage par utilisateur
 
@@ -59,15 +59,12 @@ Pour installer le client de synchronisation le plus récent, accédez à la [pag
 - Office 365 E1 pour les associations
 - OneDrive Entreprise (plan 1)
 - SharePoint Online (plan 1)
+- Microsoft 365 Business
 
-**Au-delà de 1 To, illimité**
+**Au-delà de 1 To, jusqu’à illimité**
  
-1 To par utilisateur pour les abonnements de moins de 5 utilisateurs. Pour les abonnements de 5 utilisateurs ou plus, Microsoft fournit au départ 1 To par utilisateur, capacité que les administrateurs peuvent augmenter jusqu’à 5 To par utilisateur. ([Découvrez comment](/onedrive/set-default-storage-space)) Pour demander un espace de stockage supplémentaire, les administrateurs doivent contacter le Support Microsoft. 
+1 To par utilisateur pour les abonnements de moins de 5 utilisateurs. Pour les abonnements comptant au moins 5 utilisateurs (combinaison de plans éligibles), Microsoft fournir initialement une capacité de stockage de 1 To par utilisateur, que les administrateurs peuvent porter à 5 To (pour savoir comment procéder, voir [Définir l’espace de stockage par défaut pour les utilisateurs de OneDrive](/onedrive/set-default-storage-space)). Pour demander un espace de stockage supplémentaire, les administrateurs doivent contacter le Support Microsoft.
 
-- Office 365 Entreprise E3
-- Office 365 Entreprise E5
-- OneDrive Entreprise (plan 2)
-- SharePoint Online (offre 2)
 - Office 365 Entreprise E3
 - Office 365 Entreprise E5
 - Office 365 A1
@@ -75,8 +72,10 @@ Pour installer le client de synchronisation le plus récent, accédez à la [pag
 - Office 365 A5
 - Office 365 pour le gouvernement américain G3
 - Office 365 pour le gouvernement américain G5
-- Office 365 E3 pour les associations 
-- Office 365 pour les associations E5 
+- Office 365 E3 pour les associations
+- Office 365 pour les associations E5
+- OneDrive Entreprise (plan 2)
+- SharePoint Online (offre 2)
 - Microsoft 365 Entreprise E3
 - Microsoft 365 Entreprise E5
 - Microsoft 365 A3
@@ -86,7 +85,6 @@ Pour installer le client de synchronisation le plus récent, accédez à la [pag
 - Microsoft 365 E3 pour les associations
 - Microsoft 365 E5 pour les associations
 
-  
 > [!NOTE]
 > Pour pouvoir augmenter l’espace de stockage OneDrive par défaut, vous devez attribuer au moins une licence à un utilisateur. 
   
