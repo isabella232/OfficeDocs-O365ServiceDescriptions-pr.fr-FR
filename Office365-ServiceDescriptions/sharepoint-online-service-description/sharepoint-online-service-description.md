@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées. Pour une vue d’ensemble rapide, voir qu’est-ce que SharePoint?
-ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777855"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568127"
 ---
 # <a name="sharepoint-online-service-description"></a>Description du service SharePoint Online
 
@@ -90,7 +90,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Récepteur d'événements distant](developer.md#remote-event-receiver) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[API REST](developer.md#rest-apis) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestionnaire de conception SharePoint](developer.md#sharepoint-design-manager) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de travail SharePoint 2010 (prêts à l’emploi)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de travail SharePoint 2013 et SharePoint 2016](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -177,7 +177,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Exploration rapide](insights.md#quick-explore) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[SQL Server Reporting Services (SSRS) Mode intégré](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Segment de chronologie](insights.md#timeline-slicer) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|[Visio pour le Web](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|[Visio pour le Web](../visio-online-service-description/visio-online-service-description.md) <sup>17</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |[Visio Services](insights.md#visio-services) <sup>17</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |**Fonctionnalités de recherche** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Analyses continues](search.md#continuous-crawls) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

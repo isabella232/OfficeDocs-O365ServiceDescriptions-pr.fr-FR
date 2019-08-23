@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 11873d371098fab28a9b5cd7af8ac7632f2164d3
-ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
+ms.openlocfilehash: ce86b6829551ee5d0d82e528cf61dee811d9f1ad
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36286021"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568137"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de plateforme Office 365
 
@@ -104,7 +104,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Microsoft Planner  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft PowerApps  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft Stream  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>18</sup> <br/> |
+|Microsoft Stream  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>18</sup> <br/> |
 |Microsoft Sway  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |
 |Office Delve  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |

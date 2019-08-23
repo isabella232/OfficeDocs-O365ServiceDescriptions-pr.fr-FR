@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450288"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568117"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
@@ -108,4 +108,8 @@ L’authentification multifacteur avec un modèle d’identité fédéré permet
 
 Yammer Enterprise n’est pas disponible dans les environnements GCC High et DoD.
   
+## <a name="customer-support"></a>Service client
 
+Microsoft vous rappelle de ne pas partager d’informations contrôlées, sensibles ou confidentielles avec le personnel du support technique dans le cadre de votre incident de support technique lors de l’utilisation d’Office 365 GCC High/DOD, au moins jusqu’à ce que vous confirmiez l’autorisation de l’agent de support technique à afficher ou accéder à ces données.
+
+Microsoft s’engage à protéger votre [confidentialité](https://privacy.microsoft.com/privacystatement)). Toutefois, la prise en charge du service GCC High/DoD de Office 365 n’est pas incluse dans la limite d’accréditation de service et ne fournit pas de services de conformité FedRAMP, DOD SRG, ITAR, IRS 1075 ou CJIS.
