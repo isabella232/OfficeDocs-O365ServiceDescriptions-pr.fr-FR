@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206854"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717542"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -133,9 +133,9 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Advanced Threat Analytics  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |**Fonctionnalités de gestion des appareils et des applications** <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Gestion des appareils mobiles (MDM)<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Gestion des appareils mobiles Intune pour PC, Mac et appareils mobiles<sup>15</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Gestion des applications mobiles pour les applications Office et les applications métier<sup>17</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Gestion des applications mobiles Intune (MAM) pour les applications Office et les applications métier<sup>17</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des mises à jour Windows, Defender, stratégies de pare-feu<sup>15</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection des données - réinitialisation sélective  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ciblage de groupe de sécurité pour stratégies  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
