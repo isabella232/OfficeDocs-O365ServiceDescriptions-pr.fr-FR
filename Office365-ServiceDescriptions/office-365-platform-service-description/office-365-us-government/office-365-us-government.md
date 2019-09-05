@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: fe89cacd115135cd7cd3c5314b84da64c45edf83
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
+ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231402"
+ms.lasthandoff: 09/05/2019
+ms.locfileid: "36762392"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -93,7 +93,7 @@ Avec le centre FastTrack pour Office 365<sup>1</sup>, vous travaillez à distanc
   
 L’intégration se compose des éléments suivants :
   
-- Intégration de base: tâches requises pour la configuration du client et l’intégration à Azure Active Directory (Azure AD) si nécessaire. L’intégration de base fournit également la ligne de base pour l’intégration d’autres services éligibles.
+- Intégration de base : tâches requises pour la configuration du client et l’intégration à Azure Active Directory (Azure AD) si nécessaire. L’intégration de base fournit également la ligne de base pour l’intégration d’autres services éligibles.
     
 - Intégration de services les tâches d’intégration de service de migration permettent de créer des scénarios dans votre client. La migration des données (y compris la messagerie électronique et les fichiers) est décrite dans la [migration de données](https://aka.ms/whatcanmigrate). <sup>2</sup>
     
@@ -292,9 +292,9 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>5</sup> pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [gestion des mots de passe dans Azure ad](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> vous ne pouvez avoir qu’un seul site Web public avec Office 365, sauf si vous avez effectué une mise à niveau à partir d’une version antérieure d’Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’utilisation des deux sites Web pour les abonnements d’entreprise, consultez la rubrique [utilisation de vos deux sites Web publics Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous disposez d’un autre abonnement, en savoir plus sur les sites Web publics pour [en savoir plus sur l’hébergement de sites Web partenaires et sur les sites Web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009). 
 <br/><sup>7</sup> la réduction des sièges qui ont été achetés avec un escompte de terme peut être soumise à des frais de résiliation anticipée. Ceci n’est pas applicable aux abonnements payés sur une base mensuelle. 
-<br/><sup>8</sup> les plans suivants ne prennent pas en charge les modifications de siège de licence à partir du centre d’administration 365 de Microsoft: Office 365 gouvernement G1, Office 365 gouvernement G3, Office 365 gouvernement F1. 
+<br/><sup>8</sup> les plans suivants ne prennent pas en charge les modifications de siège de licence à partir du centre d’administration 365 de Microsoft : Office 365 gouvernement G1, Office 365 gouvernement G3, Office 365 gouvernement F1. 
 <br/><sup>9</sup> pas encore disponible dans GCC High, mais bientôt disponible.
-<br/><sup>10</sup> pour Office 365 gouvernement G1, G3 et F1, version ciblée et la feuille de route Office 365 pour les entreprises; Toutefois, il peut y avoir des différences ou des retards pour les mises à jour de service spécifiques en raison des [exigences de conformité](https://www.microsoft.com/trust-center).
+<br/><sup>10</sup> pour Office 365 gouvernement G1, G3 et F1, version ciblée et la feuille de route Office 365 pour les entreprises ; Toutefois, il peut y avoir des différences ou des retards pour les mises à jour de service spécifiques en raison des [exigences de conformité](https://www.microsoft.com/trust-center).
 <br/><sup>11</sup> pas encore disponible dans les offres gouvernementales Office 365, mais bientôt disponible. 
 <br/><sup>12</sup> non inclus, mais peut être acheté séparément en tant que module complémentaire dans GCC. 
 <br/><sup>13</sup> non pris en charge pour les offres gouvernementales Office 365. 
@@ -323,10 +323,10 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Skype Entreprise](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Oui<sup>3</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>3</sup> <br/> |
 |[Office pour Mac pour Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Office Mobile pour iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Non  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Non  <br/> |
-|[Office Mobile pour Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Non  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Non  <br/> |
-|[Office Mobile pour Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
-|Office Mobile pour tablettes Windows 10 <br/> |Non  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Non  <br/> |
+|[Office Mobile pour iPad/iPhone](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Oui  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Oui  <br/> |
+|[Office Mobile pour Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Oui  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Oui  <br/> |
+|[Office Mobile pour Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui  <br/> |
+|Office Mobile pour tablettes Windows 10 <br/> |Oui  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Oui  <br/> |
 |Outlook pour iOS et Android<sup>5, 4</sup>  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> |
 |**Enterprise Value** <br/> |**Office 365 pour le gouvernement G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
