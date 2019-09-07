@@ -14,15 +14,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: b2e0b9247b99bebd4f6d84e6cafdf57cf7980848
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 78d9b89213483fa6065a2a667870667769ae4e2d
+ms.sourcegitcommit: d03a05074152139760b0c68dd3e46847623f27b9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777335"
+ms.lasthandoff: 09/07/2019
+ms.locfileid: "36790740"
 ---
 # <a name="project-online-service-description"></a>Description du service Project Online
 
+> [!NOTE]
+> Nous sommes en train de mettre à jour cet article. Pour plus d’informations, reportez-vous au début du 2019 octobre.
+>
 Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe. 
   
 Project Online est disponible dans le cadre de trois offres, Project Online Essentials, Project Online Professionnel et Project Online Premium.
@@ -37,7 +40,7 @@ Il existe certaines limites au service Project Online. Pour plus d'informations,
   
 ## <a name="data-backup"></a>Sauvegarde de données
 
- Project Online dispose de la même stratégie de sauvegarde et de rétention des données que Office 365. Pour plus d’informations, consultez la rubrique relative à la rétention [, la suppression et la destruction des données dans Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview).
+ Project Online dispose de la même stratégie de sauvegarde et de rétention des données que Office 365. Pour plus d’informations, consultez la rubrique relative à la [rétention, la suppression et la destruction des données dans Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview).
   
 ## <a name="use-of-sharepoint-online"></a>Utilisation de SharePoint Online
 
