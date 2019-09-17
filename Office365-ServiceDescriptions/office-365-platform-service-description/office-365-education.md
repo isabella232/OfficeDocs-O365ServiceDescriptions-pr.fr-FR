@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de collaboration et de communication de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online — pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854882"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998486"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -74,7 +74,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Microsoft Flow  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Forms  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft MyAnalytics  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|Microsoft MyAnalytics<sup>9</sup>  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Planner  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft PowerApps  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft StaffHub  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -186,8 +186,9 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 <sup>5</sup> disponible à [https://securescore.office.com](https://securescore.office.com/) (le lien requiert des autorisations d’administrateur). Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> Microsoft Sway n’est pas disponible actuellement pour les clients de certaines régions géographiques. Certains plans Office 365 hérités qui ne sont plus commercialisés depuis août 2015 peuvent également ne pas avoir accès à Microsoft Sway. <br/> 
 <sup>7</sup> Advanced eDiscovery est pris en charge aux États-Unis et dans la région Europe de l’Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) <br>
-<sup>8</sup> pour plus d’informations sur les fonctionnalités de flux de Microsoft incluses dans chaque plan, consultez la rubrique [flux de licences en continu](https://stream.microsoft.com/documentation/stream-license-overview/). <br/>
-  
+<sup>8</sup> pour plus d’informations sur les fonctionnalités de flux de Microsoft incluses dans chaque plan, consultez la rubrique [flux de licences en continu](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
+<sup>9</sup> pour plus d’informations, reportez-vous à la rubrique [MyAnalytics plans and Environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
+
 ## <a name="office-365-security-amp-compliance-center-features"></a>Fonctionnalités du centre &amp; de sécurité conformité Office 365
 <a name="SCC"> </a>
 
@@ -219,8 +220,8 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |||||
    
 > [!NOTE]
-> <sup>1</sup> la gouvernance des données permet aux utilisateurs de créer, publier et appliquer manuellement des étiquettes aux documents; importer des données à l’aide de Drive Expedition ou sur le réseau; et de créer et d’appliquer des stratégies de rétention/suppression entre les charges de travail, les utilisateurs et les groupes. Les stratégies de rétention appliquées aux boîtes aux lettres requièrent Office 365 Entreprise E3 ou E5. <br/> 
-<sup>2</sup> la gouvernance des données avancée vous permet de conserver des informations importantes et de supprimer des informations peu importantes en classant des informations basées sur une stratégie de rétention ou de suppression ou sur les deux. Elle inclut des actions intelligentes/automatisées comme la recommandation de stratégies; application automatique d’étiquettes à des données; application d’étiquettes basées sur des types de données sensibles ou sur des requêtes; et l’utilisation de filtres d’importation intelligents. Elle inclut également la fonctionnalité de surveillance permettant de vérifier les communications des employés à des fins de sécurité et de conformité. <br/> 
+> <sup>1</sup> la gouvernance des données permet aux utilisateurs de créer, publier et appliquer manuellement des étiquettes aux documents ; importer des données à l’aide de Drive Expedition ou sur le réseau ; et de créer et d’appliquer des stratégies de rétention/suppression entre les charges de travail, les utilisateurs et les groupes. Les stratégies de rétention appliquées aux boîtes aux lettres requièrent Office 365 Entreprise E3 ou E5. <br/> 
+<sup>2</sup> la gouvernance des données avancée vous permet de conserver des informations importantes et de supprimer des informations peu importantes en classant des informations basées sur une stratégie de rétention ou de suppression ou sur les deux. Elle inclut des actions intelligentes/automatisées comme la recommandation de stratégies ; application automatique d’étiquettes à des données ; application d’étiquettes basées sur des types de données sensibles ou sur des requêtes ; et l’utilisation de filtres d’importation intelligents. Elle inclut également la fonctionnalité de surveillance permettant de vérifier les communications des employés à des fins de sécurité et de conformité. <br/> 
 <sup>3</sup> illimité. <br/> 
 <sup>4</sup> Advanced eDiscovery est pris en charge aux États-Unis et dans la région Europe de l’Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) <br/> 
 <sup>5</sup> la protection avancée contre les menaces est disponible dans Office 365 a5 et en tant que service autonome pour Office 365 a1 et Office 365 a3.<br/>
@@ -474,7 +475,7 @@ Les limites dans Microsoft Exchange Online peuvent être classées dans l'une de
 >  - Vous ne pouvez pas modifier la plupart de ces limites, mais vous et vos utilisateurs devez les connaître. 
 > - Ces limites s'appliquent aux destinataires internes et externes. 
 > - Par défaut, Exchange Online Protection (EOP) protège les boîtes aux lettres Exchange Online. Pour connaître les limites applicables aux fonctionnalités EOP dans Exchange Online, consultez [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
->  - Pour plus d’informations sur les limites de groupe Office 365, voir «comment gérer mes groupes?» dans [En savoir plus sur les groupes Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
+>  - Pour plus d’informations sur les limites de groupe Office 365, voir « comment gérer mes groupes ? » dans [En savoir plus sur les groupes Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Limites du carnet d’adresses
 <a name="abl"> </a>
@@ -620,7 +621,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 |Limite de taille des messages - Migration  <br/> |150 Mo<sup>4</sup> <br/> |150 Mo<sup>4</sup> <br/> |150 Mo<sup>4</sup> <br/> |
 |Limite de taille pour les messages chiffrés (pour les abonnés utilisant le chiffrement de messages Office 365 avec les nouvelles fonctionnalités)  <br/> |150 Mo<sup>5</sup> <br/> |150 Mo<sup>5</sup> <br/> |150 Mo<sup>5</sup> <br/> |
 |Limite de taille pour les messages chiffrés (pour les abonnés utilisant la version héritée du chiffrement de messages Office 365)  <br/> |25 Mo<sup>5</sup> <br/> |25 Mo<sup>5</sup> <br/> |25 Mo<sup>5</sup> <br/> |
-|Limite de longueur de l’objet  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |
+|Limite de longueur de l’objet  <br/> |255 caractères  <br/> |255 caractères  <br/> |255 caractères  <br/> |
 |Limite du nombre de pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |250 pièces jointes  <br/> |
 |Limite de taille des pièces jointes - Outlook  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
 |Limite de taille des pièces jointes - OWA  <br/> |35 Mo  <br/> |35 Mo  <br/> |35 Mo  <br/> |
@@ -804,7 +805,7 @@ Les limites suivantes s'appliquent à Microsoft Exchange ActiveSync, un protocol
 
 OneDrive entreprise (anciennement SkyDrive Pro) est un espace de stockage en ligne personnel dans le Cloud. Utilisez-le pour stocker vos fichiers professionnels sur plusieurs appareils avec facilité et sécurité. Partagez vos fichiers avec des collègues en fonction de vos besoins, et modifiez les documents Office en temps réel avec Office pour le Web. Synchronisez les fichiers sur votre ordinateur local à l’aide de l’application de synchronisation OneDrive entreprise.
   
-OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L’option OneDrive entreprise autonome inclut Office pour le Web. Pour en savoir plus, consultez la rubrique [qu’est-ce que OneDrive entreprise?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
+OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L’option OneDrive entreprise autonome inclut Office pour le Web. Pour en savoir plus, consultez la rubrique [qu’est-ce que OneDrive entreprise ?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
   
 ### <a name="system-requirements"></a>Configuration requise
 
@@ -848,7 +849,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |[Services de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |BCS: Alerts for External Lists <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : Types de contenus externes étendus aux applications (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[BCS: composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : Liste externe](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : Connecteur OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |BCS: Profile Pages <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -1253,7 +1254,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype entreprise Online d
   
 ### <a name="skype-for-business-online-limits"></a>Limites de Skype entreprise Online
 
-Les limites de Skype entreprise Online appartiennent aux catégories suivantes:
+Les limites de Skype entreprise Online appartiennent aux catégories suivantes :
   
 - [Limites pair à pair](../skype-for-business-online-service-description/skype-for-business-online-limits.md#peer-to-peer-limits)
     

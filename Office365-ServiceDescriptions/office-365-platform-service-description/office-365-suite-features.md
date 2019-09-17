@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: 65d497c213716b28cff0b8d34dea2a3a29bf3a54
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ade0eb80e1161d9dc70baba7496bc2ecc48699aa
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776905"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998456"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 
@@ -38,17 +38,17 @@ Microsoft Flow vous permet d'automatiser des flux de travail dans vos applicatio
 ## <a name="microsoft-forms"></a>Microsoft Forms
 <a name="BKMK_Forms"> </a>
 
-Microsoft Forms est une nouvelle partie de l’éducation Office 365 qui vous permet de créer rapidement et facilement des questionnaires, des enquêtes, des questionnaires, des enregistrements, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats des tests, peuvent être facilement exportées vers Excel pour une analyse ou une notation plus approfondie. Pour en savoir plus, consultez la rubrique [qu’est-ce que Microsoft Forms?](https://support.office.com/en-us/forms).
+Microsoft Forms est une nouvelle partie de l’éducation Office 365 qui vous permet de créer rapidement et facilement des questionnaires, des enquêtes, des questionnaires, des enregistrements, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats des tests, peuvent être facilement exportées vers Excel pour une analyse ou une notation plus approfondie. Pour en savoir plus, consultez la rubrique [qu’est-ce que Microsoft Forms ?](https://support.office.com/en-us/forms).
   
 ## <a name="microsoft-graph-api"></a>API Microsoft Graph
 <a name="BKMK_Graph"> </a>
 
-Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand éventail de ressources, de relations et d’intelligence, tout https://graph.microsoft.comau long d’un point de terminaison unique:. Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, reportez-vous à la [documentation Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
+Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand éventail de ressources, de relations et d’intelligence, tout https://graph.microsoft.comau long d’un point de terminaison unique :. Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, reportez-vous à la [documentation Microsoft Graph](https://go.microsoft.com/fwlink/?linkid=849595).
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 <a name="BKMK_MyAnalytics"> </a>
 
-MyAnalytics fournit des statistiques qui vous aident à comprendre comment vous utilisez votre temps au travail. MyAnalytics analyse vos activités professionnelles quotidiennes, trouve les emplacements auxquels vous devriez accorder votre attention et vous fournit les outils nécessaires pour optimiser votre temps. Pour en savoir plus sur MyAnalytics, consultez l'article relatif à la [façon de travailler avec MyAnalytics](https://support.office.com/en-us/article/Learn-more-about-the-way-you-work-with-Microsoft-MyAnalytics-23462129-e512-40ee-acad-d968916c31b8?ui=en-US&amp;rs=en-US&amp;ad=US) et [Microsoft MyAnalytics pour les administrateurs Office 365](https://support.office.com/en-us/article/Microsoft-MyAnalytics-for-Office-365-admins-77590915-6eb0-47a6-a72f-8116cfcfc2c7).
+MyAnalytics fournit des informations sur deux des facteurs clés de votre productivité personnelle : votre temps et les personnes avec qui vous le consacrez. MyAnalytics examine vos habitudes de travail, trouve les zones qui peuvent bénéficier de votre attention et vous fournit les outils permettant d’obtenir une utilisation plus réfléchie de votre temps. Pour plus d’informations, consultez [Microsoft MyAnalytics](https://products.office.com/business/myanalytics-personal-analytics) et [Microsoft MyAnalytics pour Office 365 admins](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins).
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 <a name="BKMK_Planner"> </a>
