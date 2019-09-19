@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
-ms.openlocfilehash: 6ab6b9832496127f8ceba6d3383c20b68f2f6dbe
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: e335ae1882a6142572eb32df6fc2dcbd8ff89ebe
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998466"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035120"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -69,7 +69,7 @@ Nous continuons à ajouter de nouvelles fonctionnalités à la protection avanc�
 
 |Mises à jour de fonctionnalités|Éléments d’action|
 |---------|---------|
-|[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) sont maintenant des fonctionnalités d’enquête et de réponse aux menaces dans le cadre du plan ATP 2. De nouvelles fonctionnalités, telles que l’analyse [et la réponse automatiques](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office), et les améliorations apportées à l' [Explorateur de menaces](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance), sont déployées.<br/><br/>Si votre organisation ne dispose actuellement pas de la protection avancée contre les menaces, ou si vous aviez une protection avancée contre les menaces, vous disposez maintenant de plusieurs options à prendre en compte, avec la disponibilité des plans ATP 1 et ATP 2. Pour en savoir plus, consultez la rubrique relative à la [disponibilité des fonctionnalités dans les plans de protection avancée contre les menaces](#feature-availability-across-advanced-threat-protection-atp-plans) (dans cet article) et les [offres et tarifs de protection avancée contre les menaces d’Office 365](https://products.office.com/exchange/advance-threat-protection).|Vérifiez l’abonnement de votre organisation et, si nécessaire, [achetez ou modifiez un module complémentaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).|
+|[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) sont maintenant des fonctionnalités d’enquête et de réponse aux menaces dans le cadre du plan ATP 2. De nouvelles fonctionnalités, telles que la [réponse automatique aux incidents](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)et les améliorations apportées à l' [Explorateur de menaces](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance), sont déployées.<br/><br/>Si votre organisation ne dispose actuellement pas de la protection avancée contre les menaces, ou si vous aviez une protection avancée contre les menaces, vous disposez maintenant de plusieurs options à prendre en compte, avec la disponibilité des plans ATP 1 et ATP 2. Pour en savoir plus, consultez la rubrique relative à la [disponibilité des fonctionnalités dans les plans de protection avancée contre les menaces](#feature-availability-across-advanced-threat-protection-atp-plans) (dans cet article) et les [offres et tarifs de protection avancée contre les menaces d’Office 365](https://products.office.com/exchange/advance-threat-protection).|Vérifiez l’abonnement de votre organisation et, si nécessaire, [achetez ou modifiez un module complémentaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).|
 |Lorsque des personnes utilisent Outlook ou Outlook Web App (OWA), les [liens fiables ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) affichent les URL d’origine, pas les URL réécrites. (Nous appelons ce rendu de liaison native.)<br>Lorsque le rendu de liens natif est disponible pour votre organisation, cette fonctionnalité fonctionne dans Outlook 365 (démarrer en un clic), OWA et sous Windows et Mac OS.|Aucun|
 |Les [pages d’avertissement ATP d’Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) comportent un nouveau jeu de couleurs, des détails supplémentaires et la possibilité de continuer à accéder à un site malgré des avertissements et des recommandations.|Aucun|
 |[ATP Safe Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) protection est étendue pour s’appliquer aux URL dans Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web) et Office 365 ProPlus sur Mac.|[Vérifier et modifier vos stratégies de liens fiables ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
@@ -99,7 +99,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |*Automatisation, recherche, correction et éducation*|
 |Suivi des menaces|Non|Oui|Oui|
 |Explorateur (enquête avancée contre les menaces)|Non|Oui|Oui|
-|Examen et réponse automatisés|Non|Oui|Oui|
+|Réponse automatique aux incidents|Non|Oui|Oui|
 |Simulateur d’attaque|Non|Oui|Oui|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de Protection avancée contre les menaces
