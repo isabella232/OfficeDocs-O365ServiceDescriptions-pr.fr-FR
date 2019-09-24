@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées. Pour une vue d’ensemble rapide, voir qu’est-ce que SharePoint?
-ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+description: Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées. Pour une vue d’ensemble rapide, voir qu’est-ce que SharePoint ?
+ms.openlocfilehash: 18f39141220c96b0d85da0a75cd42e09a4d298fc
+ms.sourcegitcommit: 6d5ef72a0919dd8e730031a1ddac4db6632ac2cd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568127"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131475"
 ---
 # <a name="sharepoint-online-service-description"></a>Description du service SharePoint Online
 
-Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées. Pour une vue d’ensemble rapide, voir [qu’est-ce que SharePoint?](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US)
+Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées. Pour une vue d’ensemble rapide, voir [qu’est-ce que SharePoint ?](https://support.office.com/article/what-is-sharepoint-97b915e6-651b-43b2-827d-fb25777f446f?ocmsassetID=HA010378184&CTT=1&CorrelationId=30ae3fd1-2af8-4f5c-a1f6-150e338b43da&ui=en-US&rs=en-US&ad=US)
   
 Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans Office 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
@@ -76,7 +76,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Déploiement d'applications : Applications hébergées par SharePoint](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Services de gestion des applications](developer.md#app-management-services) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : Types de contenus externes étendus aux applications (ECT)](developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|[BCS: composants WebPart de données métiers](developer.md#bcs-business-data-web-parts) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|[BCS : composants WebPart de données métiers](developer.md#bcs-business-data-web-parts) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : Liste externe](developer.md#bcs-external-list) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : Connecteur OData](developer.md#bcs-odata-connector) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : Intégration de client riche](developer.md#bcs-rich-client-integration) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -238,7 +238,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Applications configurées par Azure : Code personnalisé dans le rôle LWR (Lightweight Web Role) d'Azure](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 
 <sup>1</sup> pour utiliser la synchronisation des dossiers, vous devez disposer d’Office 2013 ou version ultérieure (édition standard ou professionnel) ou d’un abonnement Office 365 qui inclut les applications Office. Office 365 Business Essentials, Office 365 Enterprise E1 et Office 365 éducation plans n’incluent pas les abonnements aux applications de bureau Office. Toutefois, vous pouvez utiliser la synchronisation des dossiers si Office 2013 ou une version ultérieure est installé sur votre ordinateur et s’abonner à l’un de ces plans. <br/>
-<sup>2</sup> les employés terrain disposent d’une fonctionnalité OneDrive entreprise limitée. Les utilisateurs terrain reçoivent 2 Go de stockage et ne disposent pas des capacités de synchronisation de bureau. Les comptes terrain n’incluent pas de site personnel OneDrive entreprise, donc ils ne bénéficient pas d’une bibliothèque personnelle OneDrive entreprise avec 1 to ou 5 to de stockage en ligne.<br/> 
+<sup>2</sup> les employés terrain disposent d’une fonctionnalité OneDrive entreprise limitée. Les travailleurs terrain reçoivent 2 Go de stockage.<br/> 
 <sup>3</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1. <br/>
 <sup>4</sup> comme les employés terrain ne peuvent pas être administrateurs, les clients avec des employés terrain ont besoin d’au moins un utilisateur d’entreprise pour accéder au centre d’administration. <br/>
 <sup>5</sup> les clients SharePoint Online doivent télécharger et installer l’application gratuite Rank Model Tuning pour créer et personnaliser des modèles de classement. <br/> 
@@ -250,9 +250,9 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 <sup>11</sup> l’aide est uniquement disponible en chinois simplifié et en anglais. <br/> <sup>12</sup> les commentaires sur les blogs ne peuvent pas être ajoutés. <br/> 
 <sup>13</sup> le site Web communautaire est disponible, mais l’aide communautaire publique n’est pas disponible. <br/>
 <sup>14</sup> Access 2010 n’est pas pris en charge. <br/> 
-<sup>15</sup> pour Office pour le Web, F1 les utilisateurs doivent avoir accès à Office pour le Web (vignettes en direct) pour la création de contenu. Cependant, ils sont limités concernant l’utilisation des principales applications mobiles commerciales. Voici les éléments inclus : Yammer, StaffHub, Microsoft Teams, Skype Entreprise, SharePoint et les groupes. Les éléments suivants **ne sont pas** inclus: Outlook, Word, Excel, PowerPoint et OneNote.<br/> 
+<sup>15</sup> pour Office pour le Web, F1 les utilisateurs doivent avoir accès à Office pour le Web (vignettes en direct) pour la création de contenu. Cependant, ils sont limités concernant l’utilisation des principales applications mobiles commerciales. Voici les éléments inclus : Yammer, StaffHub, Microsoft Teams, Skype Entreprise, SharePoint et les groupes. Les éléments suivants **ne sont pas** inclus : Outlook, Word, Excel, PowerPoint et OneNote.<br/> 
 <sup>16</sup> les formulaires InfoPath qui contiennent du code utilisateur (sandbox) peuvent uniquement être utilisés dans le client riche InfoPath. <br/>
 <sup>17</sup> Visio for the Web consommation (View Capability) est disponible gratuitement. Les fonctionnalités de création et de modification de Visio pour le Web nécessitent une licence. Pour plus d’informations sur Visio pour le Web, reportez-vous à la [Description de Visio pour le service Web](../visio-online-service-description/visio-online-service-description.md).  <br/>
-<sup>18</sup> les utilisateurs de F1 peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 F1 n’inclut pas les droits CAL pour accéder au serveur; ces droits doivent être achetés séparément. <br/>
+<sup>18</sup> les utilisateurs de F1 peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 F1 n’inclut pas les droits CAL pour accéder au serveur ; ces droits doivent être achetés séparément. <br/>
 <sup>19</sup> la clé client est disponible dans Office 365 entreprise E5. Clé client vous permet de contrôler les clés de chiffrement de votre organisation, puis de configurer Office 365 pour les utiliser pour chiffrer vos données au repos dans des centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Clé client vous permet de respecter les obligations de conformité car vous contrôlez les clés de chiffrement utilisées par Office 365 pour déchiffrer les données. Pour plus d’informations, consultez [la rubrique contrôle de vos données dans Office 365 à l’aide de la clé client](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>20</sup> bientôt disponible. 
