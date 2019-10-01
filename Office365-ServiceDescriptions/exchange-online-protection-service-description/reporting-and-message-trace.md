@@ -12,46 +12,36 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) offre un grand nombre de rapports qui peuvent vous aider à déterminer l'état général de votre organisation. Certains rapports sont disponibles dans le centre d’administration 365 de Microsoft, tandis que d’autres sont disponibles dans le centre d’administration Exchange.
-ms.openlocfilehash: ec06c0dea22fc45f2cee507e9022b9babbd809e3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: cedf3d62360ce8c43da9dbb96c0938d78ffec110
+ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776645"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37334114"
 ---
 # <a name="reporting-and-message-trace"></a>Création de rapports et suivi des messages
 
 Microsoft Exchange Online Protection (EOP) offre un grand nombre de rapports qui peuvent vous aider à déterminer l'état général de votre organisation. Certains rapports sont disponibles dans le centre d’administration 365 de Microsoft, tandis que d’autres sont disponibles dans le centre d’administration Exchange.
-  
+
 Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
-  
+
 ## <a name="microsoft-365-admin-center-reports"></a>Rapports du centre d’administration Microsoft 365
-<a name="BKMK_office365admincenterreports"> </a>
 
-La page des rapports dans le centre d’administration Microsoft 365 fournit des informations sur le trafic des messages, les détections de courrier indésirable et les programmes malveillants, ainsi que sur les messages affectés par les règles de transport Exchange ou les stratégies de protection contre la perte de données. Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une expérience interactive des rapports aux administrateurs Exchange Online Protection. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
-  
-Pour plus d'informations sur ces rapports, consultez la rubrique [Utilisation des rapports de protection de messagerie dans Office 365 pour afficher les données sur les programmes malveillants, le courrier électronique et les détections de règles](https://go.microsoft.com/fwlink/p/?LinkID=401102).
-  
-## <a name="excel-download-application-reports"></a>Rapports d’application de téléchargement Excel
-<a name="BKMK_exceldownloadapplicationreports"> </a>
+La page rapports dans le centre d’administration Microsoft 365 fournit des informations sur le trafic des messages, les détections de courrier indésirable et les programmes malveillants, ainsi que sur les messages affectés par les règles de flux de messagerie (également appelées règles de transport) ou par les stratégies de protection contre la perte de données. Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une expérience interactive des rapports aux administrateurs Exchange Online Protection. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
 
-Les rapports de protection de messagerie sont également disponibles dans le classeur de rapports Excel 2013, qui fournit des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d’utiliser à la place les rapports améliorés du centre d’administration 365 Microsoft. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. 
-  
-Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez la rubrique relative aux [rapports de protection du courrier électronique pour Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211).
-  
+Pour plus d’informations sur ces rapports, consultez la rubrique [use mail protection reports in Office 365 pour afficher les données sur les programmes malveillants, le courrier indésirable et les détections de règles](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports).
+
 ## <a name="reporting-using-web-services"></a>Création de rapports à l’aide de services web
-<a name="BKMK_reportingusingwebservices"> </a>
 
-Non disponible pour les clients EOP autonomes. Vous pouvez utiliser le service web REST/de création de rapports de client OData pour collecter via un programme des rapports récapitulatifs et détaillés sur les données de messagerie, et vous pouvez afficher les données sur une page web dans un portail web de gestion personnalisée. Pour plus d'informations, consultez la rubrique relative aux [services web de création de rapports Office 365](https://go.microsoft.com/fwlink/?LinkId=279926).
-  
+> [!NOTE]
+> De nombreuses fonctionnalités de création de rapports basées sur REST et les cmdlets associées ont été déconseillées en janvier 2018. Pour plus d’informations sur les rapports de remplacement disponibles de Microsoft Graph dans Office 365, voir les sous-rubriques relatives à l’utilisation des [rapports d’utilisation d’office 365 dans Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
+
+Non disponible pour les clients EOP autonomes. Vous pouvez utiliser le service Web REST/OData client Reporting pour collecter des rapports de synthèse et des rapports détaillés sur les données de messagerie, et vous pouvez afficher les données sur une page Web dans un portail de gestion Web personnalisé.
+
 ## <a name="message-trace"></a>Suivi des messages
-<a name="BKMK_messagetrace"> </a>
 
-La fonctionnalité de suivi des messages du CAE vous permet, en tant qu'administrateur, de suivre des messages électroniques quand ils sont acheminés via EOP. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Elle indique également les actions appliquées au message avant que ce dernier atteigne son état final. En obtenant des informations détaillées sur un message spécifique, vous pouvez répondre efficacement aux questions de vos utilisateurs, résoudre des problèmes de flux de messagerie, valider des modifications de stratégie et réduire la nécessité de demander de l'aide au support technique. Pour plus d'informations, consultez la rubrique [Suivi d'un message électronique](https://go.microsoft.com/fwlink/p/?LinkID=282262).
-  
+La fonctionnalité de suivi des messages du CAE vous permet, en tant qu’administrateur, de suivre des messages électroniques quand ils sont acheminés via EOP. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Elle indique également les actions appliquées au message avant que ce dernier atteigne son état final. En obtenant des informations détaillées sur un message spécifique, vous pouvez répondre efficacement aux questions de vos utilisateurs, résoudre des problèmes de flux de messagerie, valider des modifications de stratégie et réduire la nécessité de demander de l'aide au support technique. Pour plus d’informations, consultez [la rubrique exécution d’un suivi de message et affichage des résultats dans le centre d’administration Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
+
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
-<a name="BKMK_messagetrace"> </a>
 
 Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
-  
-

@@ -12,122 +12,116 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Cet article fournit la liste des plans qui incluent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités disponibles dans ces plans.
-ms.openlocfilehash: 8344233189e8622fd49907ce4c9e15950ae79ffd
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: bc95415e4f348c326b36f300b39df3fe87f7e282
+ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780653"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37334144"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service de protection Exchange Online
 
 Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Cet article fournit la liste des plans qui incluent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités disponibles dans ces plans.
-  
+
 Microsoft Exchange Online Protection (EOP) est un service de filtrage du courrier électronique dans le nuage, qui contribue à protéger votre organisation contre le courrier indésirable et les logiciels malveillants, ainsi que contre les violations de politique de messagerie. EOP peut simplifier la gestion de votre environnement de messagerie et alléger bon nombre des tâches liées à la maintenance du matériel et des logiciels locaux.
-  
+
 Les principales manières d'utiliser EOP pour protéger la messagerie sont les suivantes :
-  
-- **Dans un scénario autonome** EOP offre une protection de messagerie basée sur le Cloud pour votre environnement Exchange Server 2013 local, les versions d’Exchange Server héritées ou pour toute autre solution de messagerie SMTP locale. 
-    
-- **Dans le cadre d'une installation Microsoft Exchange Online** Par défaut, EOP protège les boîtes aux lettres Exchange Online hébergées dans le nuage. Pour en savoir plus sur Exchange Online, consultez la rubrique [Description du service Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
-    
-- **Dans un déploiement hybride** EOP peut être configuré pour protéger votre environnement de messagerie et contrôler le routage de messagerie quand vous disposez d'une combinaison de boîtes aux lettres locales et en nuage. 
-    
+
+- **Dans un scénario autonome**: EOP offre une protection de messagerie basée sur le Cloud pour votre environnement exchange Server 2013 ou version ultérieure local, les versions d’Exchange Server héritées ou pour toute autre solution de messagerie SMTP locale.
+
+- Dans **le cadre de Microsoft Exchange Online**: par défaut, EOP protège les boîtes aux lettres Exchange Online hébergées dans le Cloud. Pour en savoir plus sur Exchange Online, consultez la rubrique [Description du service Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
+
+- **Dans un déploiement hybride**: EOP peut être configuré pour protéger votre environnement de messagerie et contrôler le routage des messages lorsque vous disposez d’une combinaison de boîtes aux lettres sur site et en nuage.
+
 Pour comparer les fonctionnalités des différents plans, voir [Comparer toutes les offres Office 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans).
-  
+
 Pour acheter Exchange Online Protection, voir [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
-  
-Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions du service Office 365. Découvrez comment [exporter plusieurs pages](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
-  
-> [!IMPORTANT]
-> EOP remplace Forefront Online Protection for Exchange (FOPE). Tous les clients FOPE passeront à EOP. EOP offre une protection et un contrôle identiques à ceux de FOPE, ainsi que des fonctionnalités supplémentaires. Pour plus d'informations sur la transition de FOPE vers EOP, rendez-vous sur la page relative au [centre de transition Forefront Online Protection for Exchange](http://www.movetoeop.com). 
-  
+
+> [!NOTE]
+> EOP a remplacé Forefront Online Protection for Exchange (FOPE). Tous les clients FOPE ont été transférés vers EOP.
+
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Nouveautés d'Exchange Online Protection (EOP)
 
-Pour plus d'informations sur les nouvelles fonctionnalités dans EOP, consultez la rubrique [Nouveautés d'Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-overview). Pour obtenir une comparaison des fonctionnalités FOPE et EOP, consultez la rubrique [Comparaison des fonctions EOP et FOPE](https://go.microsoft.com/fwlink/p/?LinkId=320391).
-  
+La [feuille de route d'Office 365 pour les entreprises](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) est une excellente ressource pour trouver des informations sur les nouvelles fonctionnalités à venir.
+
 ## <a name="exchange-online-protection-eop-plans"></a>Plans Exchange Online Protection (EOP)
 
 EOP est disponible avec les plans d'abonnement suivants :
-  
+
 |**Planifier**|**Description**|
 |:-----|:-----|
-|[EOP autonome](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |Où EOP protège vos boîtes aux lettres locales.  <br/> |
-|[Fonctionnalités EOP dans Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> |Où EOP protège vos boîtes aux lettres hébergées sur le nuage Exchange Online.  <br/> |
-|[Licence d'accès client Exchange Enterprise avec Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/> |Où EOP protège vos boîtes aux lettres locales, comme EOP autonome, et inclut des services de protection contre la perte de données (DLP) et de génération de rapports à l'aide de services web.  <br/> |
-   
+|[EOP autonome](https://products.office.com/exchange/exchange-email-security-spam-protection)|Où EOP protège vos boîtes aux lettres locales.|
+|[Fonctionnalités EOP dans Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Où EOP protège vos boîtes aux lettres hébergées sur le nuage Exchange Online.|
+|[Licence d'accès client Exchange Enterprise avec Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Où EOP protège vos boîtes aux lettres locales, comme EOP autonome, et inclut des services de protection contre la perte de données (DLP) et de génération de rapports à l'aide de services web.|
+
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Fonctionnalités de la licence d’accès client Exchange Enterprise avec Services
 
 La licence d’accès client Microsoft Exchange Enterprise avec Services offre les mêmes fonctionnalités de protection du courrier électronique qu’EOP pour votre environnement de messagerie local, ainsi que les fonctionnalités suivantes :
-  
+
 - [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
-    
-- [Reporting using web services](reporting-and-message-trace.md#reporting-using-web-services)
-    
-Pour plus d'informations sur la licence d'accès client Exchange Enterprise avec Services, consultez la rubrique [Licences d'Exchange Server 2013](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
-  
-Si vous avez une licence d'accès client Exchange Enterprise avec Services et que vous souhaitez configurer le service, suivez les instructions de [configuration de votre service EOP](https://docs.microsoft.com/office365/SecurityCompliance/eop/set-up-your-eop-service). Les étapes de configuration sont les mêmes que pour EOP autonome.
-  
+
+- [Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services)
+
+Pour plus d’informations sur la licence d’accès client Exchange Enterprise avec services, consultez la rubrique gestion des [licences Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
+
+Si vous disposez de licences de licence d’accès client Exchange Enterprise avec services et que vous souhaitez mettre en service le service, suivez les instructions indiquées dans [Set Up Your EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Les étapes de configuration sont les mêmes que pour EOP autonome.
+
 > [!NOTE]
-> De nouvelles fonctionnalités pour la licence d'accès client Exchange Enterprise avec Services sont déployées en même temps qu'Exchange Online, et non EOP autonome. Les calendriers de déploiement pour EOP autonome et Exchange Online/la licence d'accès client Exchange Enterprise avec Services peuvent varier légèrement. 
-  
+> De nouvelles fonctionnalités pour la licence d’accès client Exchange Enterprise avec Services sont déployées en même temps qu’Exchange Online, et non EOP autonome. Les calendriers de déploiement pour EOP autonome et Exchange Online/la licence d’accès client Exchange Enterprise avec Services peuvent varier légèrement.
+
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Configuration requise pour Exchange Online Protection (EOP)
 
-EOP peut être utilisé avec n'importe quel agent de transfert de courrier SMTP, tel que Microsoft Exchange Server 2013. Pour plus d'informations sur les systèmes d'exploitation, les navigateurs web et les langues pris en charge par EOP, consultez les sections « Navigateurs pris en charge » et « Langues prises en charge » dans [Centre d'administration Exchange dans Exchange Online Protection](https://docs.microsoft.com/office365/securitycompliance/exchange-admin-center-in-exchange-online-protection-eop).
-  
+EOP peut être utilisé avec n’importe quel agent de transfert de courrier SMTP, tel que Microsoft Exchange Server. Pour plus d’informations sur les systèmes d’exploitation, les navigateurs Web et les langues pris en charge par EOP, consultez les sections « navigateurs pris en charge » et « langues prises en charge » dans le [Centre d’administration Exchange dans Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
+
 ## <a name="limits"></a>Limites
 
 Pour connaître les limites dans EOP, consultez la rubrique [Limites d'Exchange Online Protection](exchange-online-protection-limits.md).
-  
+
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilité des fonctionnalités pour les différents plans Exchange Online Protection (EOP)
 
 Chaque fonctionnalité est indiquée ci-dessous. Pour obtenir des informations plus détaillées sur les fonctionnalités EOP, cliquez sur les liens du tableau. Lorsque Exchange Online est mentionné, il s'agit généralement de la famille de services Office 365 Entreprise.
-  
+
 |||||
 |:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**EOP autonome** <br/> |**Fonctionnalités EOP dans Exchange Online** <br/> |**Licence d'accès client Exchange Enterprise avec services** <br/> |
-|[Destinataires de messages](recipient-domain-and-company-management.md#mail-recipients) <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |
-|[Autorisations de groupe de rôles d'administrateur](recipient-domain-and-company-management.md#admin-role-group-permissions) <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion de domaines](recipient-domain-and-company-management.md#domain-management) <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |
-|[Mise en correspondance des sous-domaines](recipient-domain-and-company-management.md#match-subdomains) <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Blocage du périmètre basé sur l'annuaire (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Règles de transport](messaging-policy-and-compliance-servicedesc.md#transport-rules) <br/> |Oui<sup>3, 4, 14</sup> <br/> |Oui<sup>3, 4, 14</sup> <br/> |Oui  <br/> |
-|[Journalisation d'audit](messaging-policy-and-compliance-servicedesc.md#audit-logging) <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Protection contre la perte de données (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp) <br/> |Non  <br/> |Oui  <br/> |Oui<sup>6</sup> <br/> |
-|[Chiffrement de messages Office 365](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption) <br/> |Oui<sup>12</sup> <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |
-|[Protection anti-courrier indésirable](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (intégrée)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Configuration de stratégies anti-courrier indésirable](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies) <br/> |Oui<sup>7</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Protection contre les programmes malveillants](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (intégrée)  <br/> |Oui<sup>13</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Personnalisation des stratégies anti-programme malveillant](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Mise en quarantaine](anti-spam-and-anti-malware-protection-eop.md#quarantine) : gestion par l'administrateur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Mise en quarantaine](anti-spam-and-anti-malware-protection-eop.md#quarantine) : autogestion par l'utilisateur final  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Complément Junk Email Reporting pour Microsoft Office Outlook](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-add-in-for-microsoft-office-outlook) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Junk Email Reporting dans Outlook Web App](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-web-app) <br/> |Oui<sup>8</sup> <br/> |N °<sup>8</sup> <br/> |N °<sup>8</sup> <br/> |
-|[Routage des courriers électroniques entre vos serveurs de messagerie et Office 365](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Messagerie sécurisée avec un partenaire de confiance](mail-flow-eop.md#secure-messaging-with-a-trusted-partner) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Saisie de l'adresse IP d'un partenaire sur une liste fiable](mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Routage du courrier conditionnel](mail-flow-eop.md#conditional-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Routage du courrier hybride](mail-flow-eop.md#hybrid-mail-routing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Rapports du centre d’administration Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui <sup>9, 10</sup> <br/> |
-|[Rapports d'application de téléchargement Excel](reporting-and-message-trace.md#excel-download-application-reports) <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>11</sup> <br/> |
-|[Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|[Suivi des messages](reporting-and-message-trace.md#message-trace) <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui  <br/> |
-|[Accès au centre d’administration Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Accès au Centre d'administration Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center) (CAE)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Accès à distance à Windows PowerShell](administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |
-   
+|**Fonctionnalité**|**EOP autonome**|**Fonctionnalités EOP dans <br/> Exchange Online**|**Licence d' <br/> accès client Exchange Enterprise avec services**|
+|[Destinataires de messages](recipient-domain-and-company-management.md#mail-recipients)|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui|
+|[Autorisations de groupe de rôles d'administrateur](recipient-domain-and-company-management.md#admin-role-group-permissions)|Oui<sup>2</sup>|Oui|Oui|
+|[Gestion de domaines](recipient-domain-and-company-management.md#domain-management)|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|
+|[Mise en correspondance des sous-domaines](recipient-domain-and-company-management.md#match-subdomains)|Oui|Oui|Non|
+|[Blocage du périmètre basé sur l'annuaire (DBEB)](recipient-domain-and-company-management.md#directory-based-edge-blocking-dbeb)|Oui|Oui|Oui|
+|[Règles de flux de messagerie](../exchange-online-service-description/message-policy-and-compliance.md#mail-flow-rules)|Oui<sup>4</sup>|Oui<sup>4, 6</sup>|Oui|
+|[Journalisation d'audit](messaging-policy-and-compliance-servicedesc.md#audit-logging)|Oui<sup>5</sup>|Oui|Oui|
+|[Protection contre la perte de données (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)|Non|Oui|Oui<sup>6</sup>|
+|[Chiffrement de messages Office 365](messaging-policy-and-compliance-servicedesc.md#office-365-message-encryption)|Oui<sup>12</sup>|Oui|Oui<sup>12</sup>|
+|[Protection anti-courrier indésirable](anti-spam-and-anti-malware-protection-eop.md#anti-spam-protection) (intégrée)|Oui|Oui|Oui|
+|[Configuration de stratégies anti-courrier indésirable](anti-spam-and-anti-malware-protection-eop.md#customize-anti-spam-policies)|Oui<sup>7</sup>|Oui|Oui|
+|[Protection contre les programmes malveillants](anti-spam-and-anti-malware-protection-eop.md#anti-malware-protection) (intégrée)|Oui<sup>13</sup>|Oui|Oui|
+|[Personnalisation des stratégies anti-programme malveillant](anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Oui|Oui|Oui|
+|[Mise en quarantaine](anti-spam-and-anti-malware-protection-eop.md#quarantine) : gestion par l'administrateur|Oui|Oui|Oui|
+|[Mise en quarantaine](anti-spam-and-anti-malware-protection-eop.md#quarantine) : autogestion par l'utilisateur final|Oui|Oui|Oui|
+|[Complément de message de rapport pour Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Oui|Oui|Oui|
+|[Création de rapports de courrier indésirable dans Outlook sur le Web](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Oui|Oui|Oui|
+|[Routage des courriers électroniques entre vos serveurs de messagerie et Office 365](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Oui|Oui|Oui|
+|[Messagerie sécurisée avec un partenaire de confiance](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Oui|Oui|Oui|
+|[Saisie de l'adresse IP d'un partenaire sur une liste fiable](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Oui|Oui|Oui|
+|[Routage du courrier conditionnel](mail-flow-eop.md#conditional-mail-routing)|Oui|Oui|Oui|
+|[Routage du courrier hybride](mail-flow-eop.md#hybrid-mail-routing)|Oui|Oui|Oui|
+|[Rapports du centre d’administration Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Oui<sup>9</sup>|Oui<sup>10</sup>|Oui <sup>9, 10</sup>|
+|[Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services)|Non|Oui|Oui|
+|[Suivi des messages](reporting-and-message-trace.md#message-trace)|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui|
+|[Accès au centre d’administration Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|Oui|Oui|Oui|
+|[Accès au centre d’administration Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center (CAE))|Oui|Oui|Oui|
+|[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|Oui|Oui|Oui|
+
 <sup>1</sup> Les utilisateurs de messagerie sont définis en tant que « Boîtes aux lettres » et, au même titre que des contacts externes, peuvent être ajoutés, supprimés et gérés directement dans le Centre d'administration Exchange (CAE). <br/>
-<sup>2</sup> Aucune personnalisation RBAC. Rôles d'administrateur uniquement. <br/> 
+<sup>2</sup> Aucune personnalisation RBAC. Rôles d'administrateur uniquement. <br/>
 <sup>3</sup>Le CAE permet d'afficher les domaines gérés et de modifier les types de domaines. Toutes les autres opérations de gestion de domaine doivent être réalisées dans le centre d’administration 365 de Microsoft.<br/>
-<sup>4</sup> Les actions et les critères flexibles disponibles diffèrent entre EOP et Exchange Online. Pour obtenir une liste des critères et des actions disponibles dans EOP, consultez les rubriques [Critères de règles de transport](https://docs.microsoft.com/office365/SecurityCompliance/eop/mail-flow-in-eop) et [Actions de règles de transport](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). Pour obtenir une liste des critères et des actions disponibles dans Exchange Online, consultez les rubriques [Critères de règles de transport](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) et [Actions de règles de transport](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
-<sup>5</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. <br/> 
+<sup>4</sup> les règles de flux de messagerie (également appelées règles de transport) dans EOP sont décrites dans [règles de flux de messagerie (règles de transport) dans Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). Les conditions, les exceptions et les actions de règle de flux de messagerie disponibles diffèrent légèrement entre EOP et Exchange Online. Ces différences sont indiquées dans [conditions de règle de flux de messagerie et exceptions (prédicats) dans Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) et les [actions de règle de flux de messagerie dans Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).<br/>
+<sup>5</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. <br/>
 <sup>6</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services.  <br/>
-<sup>7</sup> L'action de filtrage de contenu par défaut consiste à déplacer les messages de courrier indésirable vers le dossier Courrier indésirable des destinataires. Pour effectuer cette action sur des boîtes aux lettres locales, vous devez configurer deux règles de transport Exchange sur vos serveurs locaux pour détecter les en-têtes de courrier indésirable ajoutés par EOP. Pour plus d'informations, consultez la rubrique [Vérification que le courrier indésirable est acheminé vers le dossier Courrier indésirable de chaque utilisateur](https://docs.microsoft.com/office365/SecurityCompliance/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
-<sup>8</sup> Cette fonctionnalité est disponible pour les clients Exchange Server 2013 Service Pack 1 (SP1) dont les boîtes aux lettres sont filtrées par EOP et sera bientôt disponible pour les clients Exchange Online. <br/>
+<sup>7</sup> L'action de filtrage de contenu par défaut consiste à déplacer les messages de courrier indésirable vers le dossier Courrier indésirable des destinataires. Pour que cela fonctionne avec les boîtes aux lettres Exchange locales, vous devez également configurer deux règles de transport dans votre organisation Exchange locale pour détecter les en-têtes de courrier indésirable ajoutés par EOP. Pour plus d’informations, consultez la rubrique vérifier que le courrier indésirable [est acheminé vers le dossier courrier indésirable de chaque utilisateur](https://docs.microsoft.com/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
 <sup>9</sup> Les rapports EOP sont un sous-ensemble de rapports Exchange Online qui excluent les informations sur les boîtes aux lettres.<br/>
 <sup>10</sup> Comprend des rapports DLP. <br/>
-<sup>11</sup> Les titulaires d'une licence d'accès client Exchange Enterprise avec Services doivent installer le classeur en sélectionnant le service **Exchange Online** plutôt que le service **Exchange Online Protection**. <br/>
-<sup>12</sup> pris en charge pour les clients locaux qui achètent Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. <br/> 
+<sup>12</sup> pris en charge pour les clients locaux qui achètent Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. <br/>
 <sup>13</sup> Analyse les messages entrants et sortants, mais pas les messages internes envoyés par un expéditeur de votre organisation à un destinataire de votre organisation. <br/>
-<sup>14</sup> Les prédicats et actions disponibles diffèrent entre EOP et Exchange Online. <br/> 
-<sup>15</sup> La configuration hybride n'est pas disponible via l'assistant de déploiement hybride, mais peut être configurée manuellement si vous disposez d'Exchange SP1. 
+<sup>15</sup> La configuration hybride n'est pas disponible via l'assistant de déploiement hybride, mais peut être configurée manuellement si vous disposez d'Exchange SP1.
