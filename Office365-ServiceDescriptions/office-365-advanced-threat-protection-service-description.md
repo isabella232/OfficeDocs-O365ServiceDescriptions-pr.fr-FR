@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
-ms.openlocfilehash: e335ae1882a6142572eb32df6fc2dcbd8ff89ebe
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: ffb08bc3104e1c41ebf6441a68fd3d22b367f5c4
+ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035120"
+ms.lasthandoff: 10/05/2019
+ms.locfileid: "37401740"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -65,18 +65,9 @@ Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 f
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Nouveautés d'Office 365 - Protection avancée contre les menaces
 
-Nous continuons à ajouter de nouvelles fonctionnalités à la protection avancée contre les menaces d’Office 365. Vous trouverez ci-dessous une liste de plusieurs nouvelles fonctionnalités, dont certaines appellent une stratégie de protection avancée contre les menaces à examiner et à mettre à jour. Pour en savoir plus sur les nouvelles fonctionnalités disponibles pour la protection avancée contre les menaces (ou Microsoft 365 en général), consultez la feuille de [route microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365).
-
-|Mises à jour de fonctionnalités|Éléments d’action|
-|---------|---------|
-|[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) (TI) sont maintenant des fonctionnalités d’enquête et de réponse aux menaces dans le cadre du plan ATP 2. De nouvelles fonctionnalités, telles que la [réponse automatique aux incidents](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office)et les améliorations apportées à l' [Explorateur de menaces](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance), sont déployées.<br/><br/>Si votre organisation ne dispose actuellement pas de la protection avancée contre les menaces, ou si vous aviez une protection avancée contre les menaces, vous disposez maintenant de plusieurs options à prendre en compte, avec la disponibilité des plans ATP 1 et ATP 2. Pour en savoir plus, consultez la rubrique relative à la [disponibilité des fonctionnalités dans les plans de protection avancée contre les menaces](#feature-availability-across-advanced-threat-protection-atp-plans) (dans cet article) et les [offres et tarifs de protection avancée contre les menaces d’Office 365](https://products.office.com/exchange/advance-threat-protection).|Vérifiez l’abonnement de votre organisation et, si nécessaire, [achetez ou modifiez un module complémentaire](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).|
-|Lorsque des personnes utilisent Outlook ou Outlook Web App (OWA), les [liens fiables ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) affichent les URL d’origine, pas les URL réécrites. (Nous appelons ce rendu de liaison native.)<br>Lorsque le rendu de liens natif est disponible pour votre organisation, cette fonctionnalité fonctionne dans Outlook 365 (démarrer en un clic), OWA et sous Windows et Mac OS.|Aucun|
-|Les [pages d’avertissement ATP d’Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) comportent un nouveau jeu de couleurs, des détails supplémentaires et la possibilité de continuer à accéder à un site malgré des avertissements et des recommandations.|Aucun|
-|[ATP Safe Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) protection est étendue pour s’appliquer aux URL dans Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web) et Office 365 ProPlus sur Mac.|[Vérifier et modifier vos stratégies de liens fiables ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
-|Les fonctionnalités de mise en quarantaine &amp; dans le centre de sécurité conformité sont étendues à la protection avancée contre les menaces [pour SharePoint Online, OneDrive entreprise et Microsoft teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams).|[Vérifier et modifier vos stratégies de pièces jointes approuvées ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies)|
-|[ATP Safe Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) protection est étendue pour s’appliquer aux courriers électroniques envoyés entre les personnes au sein d’une organisation.|[Vérifier et modifier vos stratégies de liens fiables ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)|
-|[ATP Safe Links](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) protection est étendue pour s’appliquer aux URL de messagerie électronique ainsi qu’aux URL des documents Office 365 ProPlus, tels que Word, Excel, PowerPoint et Visio sur Windows, ainsi qu’aux applications Office sur les appareils iOS et Android.|Assurez-vous que vous utilisez l' [authentification moderne pour Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016)|
-
+Nous continuons à ajouter de nouvelles fonctionnalités à la protection avancée contre les menaces d’Office 365. Pour en savoir plus sur les nouvelles fonctionnalités disponibles pour la protection avancée contre les menaces (ou Microsoft 365 en général), consultez les ressources suivantes :
+- [Feuille de route Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
+- [Nouveautés d’Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Configuration requise pour Office 365 - Protection avancée contre les menaces
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: f9ba402476f707748e6b3bd487ce97def3d985cb
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
+ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051625"
+ms.lasthandoff: 10/05/2019
+ms.locfileid: "37401760"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le Web
 
@@ -27,21 +27,25 @@ Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsof
   
 > [!NOTE]
 > Les classeurs qui dépassent les 30 méga-octets (Mo) ne peuvent pas être affichés dans Excel pour le Web à partir de Microsoft SharePoint Online. Pour afficher des fichiers plus volumineux, l'application de bureau Excel doit être installée sur votre ordinateur. 
-  
-> [!NOTE]
-> Pour vous aider à comparer les offres, les fonctionnalités avancées répertoriées dans cet article comprennent les fonctionnalités d'application de bureau Excel disponibles uniquement dans une suite Office (comme Office Professionnel Plus, Office Standard ou Office 365 ProPlus). Pour obtenir la liste de toutes les fonctionnalités Office pour le Web, telles que Word pour le Web et PowerPoint pour le Web, consultez la rubrique relative [à la disponibilité des fonctionnalités dans les plans Web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). 
 
-Pour voir les types de fichiers pris en charge par Excel pour le Web, consultez [la rubrique types de fichiers pris en charge pour Office pour le Web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description). Pour en savoir plus sur les différences entre Excel pour le Web et l’application Excel de bureau, voir [différences entre l’utilisation d’un classeur dans le navigateur et dans Excel](https://support.office.com/article/differences-between-using-a-workbook-in-the-browser-and-in-excel-f0dc28ed-b85d-4e1d-be6d-5878005db3b6?ocmsassetID=HA010369179&CorrelationId=1b10d00b-d045-439b-a3e4-b03be889090e&ui=en-US&rs=en-US&ad=US). 
+> [!NOTE]
+> Pour vous aider à comparer les offres, les fonctionnalités avancées répertoriées dans cet article comprennent les fonctionnalités d'application de bureau Excel disponibles uniquement dans une suite Office (comme Office Professionnel Plus, Office Standard ou Office 365 ProPlus). Pour obtenir la liste de toutes les fonctionnalités Office pour le Web, telles que Word pour le Web et PowerPoint pour le Web, consultez la rubrique relative [à la disponibilité des fonctionnalités dans les plans Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+
+Pour voir les types de fichiers pris en charge par Excel pour le Web, consultez [la rubrique types de fichiers pris en charge pour Office pour le Web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Pour en savoir plus sur les différences entre Excel pour le Web et l’application Excel de bureau, voir [différences entre l’utilisation d’un classeur dans le navigateur et dans Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Ajouter une couleur d’arrière-plan aux onglets de feuille 
 
-Ajoutez une couleur de remplissage d’arrière-plan aux onglets de feuille en bas de votre classeur pour les faire ressortir. Pour plus d’informations, reportez-vous [à la rubrique ajouter une couleur d’arrière-plan à un onglet de feuille](https://support.office.com/article/Add-a-background-color-to-a-sheet-tab-440B28F2-3146-4DCA-95DF-3B9D43ACBE59). 
+Ajoutez une couleur de remplissage d’arrière-plan aux onglets de feuille en bas de votre classeur pour les faire ressortir. Pour plus d’informations, reportez-vous [à la rubrique ajouter une couleur d’arrière-plan à un onglet de feuille](https://support.office.com/article/440B28F2-3146-4DCA-95DF-3B9D43ACBE59).
 
 ## <a name="add-hyperlinks"></a>Ajout de liens hypertexte
 
-Pour lier des pages Web ou ouvrir des fichiers sur le web, ajoutez un lien hypertexte dans une cellule. Vous pouvez taper l'adresse Web directement dans la cellule ou utiliser la commande Insérer un lien hypertexte. 
+Pour lier des pages Web ou ouvrir des fichiers sur le web, ajoutez un lien hypertexte dans une cellule. Vous pouvez taper l'adresse Web directement dans la cellule ou utiliser la commande Insérer un lien hypertexte.
+
+## <a name="advanced-data-types-stocks-and-geography"></a>Types de données avancés : stocks et géographie
+
+Vous pouvez obtenir des données boursières et géographiques dans Excel. Il est aussi facile de taper du texte dans une cellule, puis de le convertir en type de données actions ou en type de données geography. En savoir plus sur [les types de données stocks et géographie](https://support.office.com/article/e61a33056-9935-484f-8ac8-f1a89e210877).
   
-## <a name="advanced-time-filtering-timeline-slicer"></a>Filtrage chronologique avancé (segment chronologique)
+## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
 Le contrôle de chronologie vous permet de filtrer les données modélisées. Vous pouvez visualiser et modifier une plage continue de dates, ainsi que filtrer des objets basés sur des champs dynamiques, comme des tableaux et des graphiques croisés dynamiques.  
   
@@ -59,11 +63,7 @@ Cette fonctionnalité est disponible dans Excel pour le Web. D’autres fonction
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-Non disponible dans Excel pour le Web. Dans l’application Excel de bureau, les graphiques recommandés vous permettent de choisir parmi un grand nombre de graphiques qui conviennent mieux à la présentation de vos données. En savoir plus sur [l’utilisation des recommandations graphiques dans Excel](https://support.office.com/article/create-a-chart-with-recommended-charts-cd131b77-79c7-4537-a438-8db20cea84c0).
-  
-## <a name="office-add-ins"></a>Compléments Office
-
- Certains compléments Office ne sont pas disponibles dans Excel pour le Web. Vous pouvez obtenir un complément pour Excel à partir de l'Office Store. En savoir plus sur l' [obtention d'un complément Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+Non disponible dans Excel pour le Web. Dans l’application Excel de bureau, les graphiques recommandés vous permettent de choisir parmi un grand nombre de graphiques qui conviennent mieux à la présentation de vos données. En savoir plus sur [l’utilisation des recommandations graphiques dans Excel](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="autocomplete"></a>AutoComplete
 
@@ -79,7 +79,7 @@ Vous pouvez utiliser Excel pour effectuer des calculs automatiques, manuels et i
 
 ## <a name="cell-references-in-formulas"></a>Références de cellule dans les formules
 
-Vous pouvez utiliser des références de cellule dans les formules. Lorsque vous faites référence à une cellule ou à une plage dans une formule, la cellule ou la plage référencée est mise en surbrillance avec une couleur. Pour plus d’informations, consultez la rubrique [utiliser des références de cellule dans les formules](https://support.office.com/article/Use-cell-references-in-a-formula-FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+Vous pouvez utiliser des références de cellule dans les formules. Lorsque vous faites référence à une cellule ou à une plage dans une formule, la cellule ou la plage référencée est mise en surbrillance avec une couleur. Pour plus d’informations, consultez [la rubrique utiliser des références de cellule dans une formule](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Animations de graphiques adaptées aux nouvelles données
 
@@ -87,15 +87,15 @@ Seule l'application Microsoft Excel de bureau prend en charge les fonctionnalit�
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Graphiques et tableaux, notamment les rapports de graphique croisé dynamique et de tableau croisé dynamique
 
-Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion des données. Pour plus d'informations, consultez les articles [Création ou suppression d'un tableau Excel](https://support.office.com/article/Create-or-delete-an-Excel-table-e81aa349-b006-4f8a-9806-5af9df0ac664) et [Présentation des rapports de tableau croisé dynamique et de graphique croisé dynamique](https://go.microsoft.com/fwlink/?linkid=55417).
+Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion des données. Pour plus d’informations, consultez la rubrique [créer et mettre en forme des tableaux](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) et obtenir une [vue d’ensemble des rapports PivotTable et PivotChart](https://go.microsoft.com/fwlink/?linkid=55417).
   
 ## <a name="comment-creation"></a>Comment creation
 
-Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. Vous pouvez également résoudre un thème de commentaire, qui le ferme en y apportant des modifications et de nouveaux commentaires, mais il le laisse. Cela vous permet de rouvrir le thread à des commentaires si nécessaire. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Pour obtenir de meilleurs résultats, utilisez les raccourcis clavier, pas le menu contextuel ou les commandes de presse-papiers dans Excel pour le Web, pour copier des éléments vers un autre emplacement de feuille de calcul. En savoir plus sur [l’utilisation de la copie et du collage dans Excel pour le Web](https://go.microsoft.com/fwlink/p/?LinkId=271669).
+Pour obtenir de meilleurs résultats, utilisez les raccourcis clavier, pas le menu contextuel ou les commandes de presse-papiers dans Excel pour le Web, pour copier des éléments vers un autre emplacement de feuille de calcul. En savoir plus sur [l’utilisation de la copie et du collage dans Excel pour le Web](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -109,9 +109,9 @@ Pour organiser et analyser des données connexes, créez un tableau. Les tableau
 
 Les vues d’analyse avancées, comme Power Pivot et Power View, sont disponibles uniquement dans l’application Excel de bureau. Ces fonctionnalités ne sont pas prises en charge dans Excel pour le Web. En savoir plus sur [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671).
   
-## <a name="data-validation"></a>Validation des données
+## <a name="data-validation"></a>Validation de données
 
-Vous pouvez utiliser la validation des données pour limiter le type de données ou les valeurs que les utilisateurs peuvent entrer dans une cellule. Pour plus d'informations, consultez l'article [Application d'une validation des données aux cellules](https://go.microsoft.com/fwlink/?linkid=844735)
+Vous pouvez utiliser la validation des données pour limiter le type de données ou les valeurs que les utilisateurs peuvent entrer dans une cellule. Pour plus d’informations, consultez la rubrique [appliquer la validation des données aux cellules](https://go.microsoft.com/fwlink/?linkid=844735).
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
@@ -123,9 +123,9 @@ Dropbox est un service d’hébergement de fichiers qui offre un stockage dans l
   
 ## <a name="duplicate-copy-worksheets"></a>Feuilles de calcul dupliquées (copier)
 
-Vous pouvez dupliquer (ou copier) des feuilles de calcul dans un classeur ou dans un autre classeur dans Excel pour le Web. En savoir plus sur [la copie de feuilles de calcul dans Excel pour le Web](https://support.office.com/article/Move-or-copy-worksheets-or-worksheet-data-47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online). 
+Vous pouvez dupliquer (ou copier) des feuilles de calcul dans un classeur ou dans un autre classeur dans Excel pour le Web. En savoir plus sur [la copie de feuilles de calcul dans Excel pour le Web](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
 
-## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Embed Workbook on Web or Blog Page (OneDrive)
+## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Incorporer un classeur sur le Web ou une page de blog (OneDrive)
 
 Si vous stockez un classeur Excel sur OneDrive.com, vous pouvez l'incorporer directement dans un blog ou un site web. Vos lecteurs peuvent y trier, filtrer et calculer directement les données et, si vous mettez à jour le classeur dans OneDrive, ils peuvent voir les dernières modifications apportées en actualisant la page. En savoir plus sur l'[incorporation d'un classeur Excel dans un blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
@@ -155,7 +155,7 @@ L’application Microsoft Excel de bureau prend en charge les outils de formule
   
 ## <a name="freeze-panes"></a>Freeze panes
 
-La fonctionnalité figer les volets est disponible dans le ruban Excel pour le Web. Pour en savoir plus sur le fonctionnement des volets de [blocage dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) , [voir conseils pour Excel pour le Web](https://go.microsoft.com/fwlink/?linkid=869873).
+La fonctionnalité figer les volets est disponible dans le ruban Excel pour le Web. Pour en savoir plus sur le fonctionnement des [volets de blocage dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=282331) , [voir conseils pour Excel pour le Web](https://go.microsoft.com/fwlink/?linkid=869873).
   
 ## <a name="full-fidelity-reading-view"></a>Mode Lecture haute fidélité
 
@@ -171,7 +171,7 @@ Naviguez rapidement dans votre feuille de calcul en utilisant la fonction GoTo. 
  
 ## <a name="group-data"></a>Données de groupe
 
-Vous pouvez regrouper ou détourer les lignes et les colonnes de votre feuille de calcul Excel pour le Web. En savoir plus sur [les données de regroupement dans Excel pour le Web](https://support.office.com/article/outline-group-data-in-a-worksheet-08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+Vous pouvez regrouper ou détourer les lignes et les colonnes de votre feuille de calcul Excel pour le Web. En savoir plus sur [les données de regroupement dans Excel pour le Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -187,37 +187,39 @@ Pour ajouter ou supprimer une ou plusieurs lignes ou colonnes dans une feuille d
 
 ## <a name="insert-pictures"></a>Insérer des images
 
-Ajoutez des images dans votre feuille de calcul. En savoir plus sur [l’insertion d’images dans Excel pour le Web](https://support.office.com/article/insert-a-picture-in-excel-online-73660701-018b-4961-bc28-6976cf9ebfb3).
+Ajoutez des images dans votre feuille de calcul. En savoir plus sur [l’insertion d’images dans Excel pour le Web](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Insérer des formes
 
-Ajouter et mettre en forme des formes telles que des cases, des cercles, des traits, des connecteurs ou des flèches vers votre feuille de calcul Excel pour le Web. En savoir plus sur l' [Ajout de formes](https://support.office.com/article/add-shapes-0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+Ajouter et mettre en forme des formes telles que des cases, des cercles, des traits, des connecteurs ou des flèches vers votre feuille de calcul Excel pour le Web. En savoir plus sur l' [Ajout de formes](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
   
 ## <a name="merge-cells"></a>Merge cells
 
 Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
- 
+
 ## <a name="named-ranges"></a>Plages nommées
 
 Vous ne pouvez pas créer de plages nommées dans Excel pour le Web, mais vous pouvez utiliser les plages nommées que vous avez créées dans le bureau Excel dans votre feuille de calcul dans Excel pour le Web.
 
- 
 ## <a name="number-formatting"></a>Format des nombres
 
 Modifiez le format des nombres. Dans la liste des formats, sélectionnez un format, par exemple Monétaire ou Date courte, modifiez le nombre de décimales ou insérez un séparateur des milliers.
   
-## <a name="offline-viewing-and-authoring"></a>Affichage et création en mode hors connexion
+## <a name="office-add-ins"></a>Compléments Office
+
+ Certains compléments Office ne sont pas disponibles dans Excel pour le Web. Vous pouvez obtenir un complément pour Excel à partir de l'Office Store. En savoir plus sur l' [obtention d'un complément Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+
+## <a name="offline-viewing-and-authoring"></a>Création et affichage en mode hors connexion
 
 Excel pour le Web est lancé à partir d’un navigateur Internet et s’appuie sur une connexion Internet. Pour accéder à des feuilles de calcul hors connexion, l'application Excel de bureau doit être installée et utilisée pour l'affichage et la modification de classeurs Excel.
 
 ## <a name="pivottables"></a>Tableaux croisés dynamiques
 
-Vous pouvez insérer des tableaux croisés dynamiques dans Excel pour le feuille de calcul Web et calculer, résumer et analyser des données. En savoir plus sur l’insertion d’un [tableau croisé dynamique dans Excel pour le Web](https://support.office.com/article/Create-a-PivotTable-to-analyze-worksheet-data-A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Online).
+Vous pouvez insérer des tableaux croisés dynamiques dans Excel pour le feuille de calcul Web et calculer, résumer et analyser des données. En savoir plus sur l’insertion d’un [tableau croisé dynamique dans Excel pour le Web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
 
-  
 ## <a name="post-to-social-network-and-present-online"></a>Publication sur les réseaux sociaux et présentation en ligne
 
-Partagez des parties sélectionnées de vos feuilles de calcul sur le web en les incorporant dans vos pages de réseaux sociaux, ou dans vos conversations ou réunions Skype Entreprise. Excel pour le Web ne prend pas en charge ces fonctionnalités. 
+Partagez des parties sélectionnées de vos feuilles de calcul sur le web en les incorporant dans vos pages de réseaux sociaux, ou dans vos conversations ou réunions Skype Entreprise. Excel pour le Web ne prend pas en charge ces fonctionnalités.
   
 ## <a name="power-pivot-viewing"></a>Affichage Power Pivot
 
@@ -245,7 +247,7 @@ Si les données de votre classeur sont connectées à des sources externes, tell
 
 ## <a name="remove-duplicate-values"></a>Supprimer les valeurs en double
 
-Vous pouvez supprimer les valeurs en double d’une plage ou d’une table. Pour plus d’informations, consultez la rubrique [filtre des valeurs uniques ou suppression des valeurs en double](https://support.office.com/article/filter-for-unique-values-or-remove-duplicate-values-ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
+Vous pouvez supprimer les valeurs en double d’une plage ou d’une table. Pour plus d’informations, consultez la rubrique [filtre des valeurs uniques ou suppression des valeurs en double](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
 ## <a name="rename-and-add-sheets"></a>Changement de nom et ajout de feuilles
 
@@ -281,7 +283,7 @@ Pour afficher des segments dans votre feuille de calcul et filtrer vos données,
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données, et explorer les détails des tableaux croisés dynamiques.
+Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données, et explorer les détails des tableaux croisés dynamiques. En savoir plus sur le [Tri et le filtrage des données](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Audit et conformité de feuille de calcul
 
@@ -309,7 +311,7 @@ Vous pouvez rapidement totaliser les données d’un tableau en cliquant sur Aff
 
 ## <a name="undo-and-redo"></a>Annuler et rétablir
 
-Excel pour le Web enregistre votre travail automatiquement. Si vous faites une erreur, utilisez annuler ou appuyez sur Ctrl + Z, puis sur rétablir ou appuyez sur CTRL + Y. en savoir plus sur [les raccourcis clavier dans Excel pour le Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
+Excel pour le Web enregistre votre travail automatiquement. Si vous faites une erreur, utilisez annuler ou appuyez sur Ctrl + Z, puis sur rétablir ou appuyez sur CTRL + Y. En savoir plus sur [les raccourcis clavier dans Excel pour le Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
 ## <a name="vba-and-macro-scripting"></a>Écriture de macro VBA
 
@@ -321,7 +323,7 @@ Affichez des graphiques 3D dans votre feuille de calcul. Vous ne pouvez pas cr�
   
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
-Non disponible dans Excel pour le Web. Vous pouvez afficher les résultats de l’analyse «What If» dans Excel pour le Web, comme prévu. Pour utiliser des outils d'analyse comme Valeur cible, Tables de données, Solveur et Série, vous devez disposer de l'application Excel de bureau. En savoir plus sur les [différences entre l'utilisation d'un classeur dans le navigateur et dans l'application Excel de bureau](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+Non disponible dans Excel pour le Web. Vous pouvez afficher les résultats de l’analyse « What If » dans Excel pour le Web, comme prévu. Pour utiliser des outils d'analyse comme Valeur cible, Tables de données, Solveur et Série, vous devez disposer de l'application Excel de bureau. En savoir plus sur les [différences entre l'utilisation d'un classeur dans le navigateur et dans l'application Excel de bureau](https://go.microsoft.com/fwlink/p/?LinkId=273900).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
