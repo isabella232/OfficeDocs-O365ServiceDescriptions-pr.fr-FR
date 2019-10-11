@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous cherchez une comparaison des fonctionnalités incluses dans les abonnements Office 365, y compris Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 2038f53408d3c7e924e90f8b9f7a898a52d36530
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776595"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442649"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -35,7 +35,7 @@ Vous cherchez une comparaison des fonctionnalités incluses dans les abonnements
   
 Microsoft Exchange Online est une solution de messagerie hébergée qui offre les fonctionnalités de Microsoft Exchange Server sous la forme d'un service en nuage. Elle fournit aux utilisateurs un accès aux messages électroniques, calendriers, contacts et tâches depuis leurs ordinateurs, Internet et des appareils mobiles. Elle s'intègre totalement à Active Directory, permettant ainsi aux administrateurs d'utiliser des stratégies de groupe et d'autres outils d'administration en vue de gérer des fonctionnalités Exchange Online au sein de tout leur environnement.
   
-Les organisations qui souscrivent à Exchange Online conservent leur contrôle sur les services de messagerie qu'elles offrent aux utilisateurs, mais sans subir le fardeau opérationnel de logiciels de serveurs sur site. Grâce aux plans Exchange Online hébergés décrits dans ce document, la messagerie est hébergée sur des serveurs qui prennent en charge plusieurs clients simultanément. Ces serveurs, qui se situent dans des centres de données Microsoft, sont accessibles aux utilisateurs sur un large éventail d'appareils, et ce depuis l'intérieur d'un réseau d'entreprise comme depuis Internet.
+Les organisations qui souscrivent à Exchange Online conservent leur contrôle sur les services de messagerie qu'elles offrent aux utilisateurs, mais sans subir le fardeau opérationnel de logiciels de serveurs sur site. Grâce aux plans Exchange Online hébergés décrits dans ce document, la messagerie est hébergée sur des serveurs qui prennent en charge plusieurs clients simultanément. Ces serveurs sont hébergés dans des centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils à l’intérieur d’un réseau d’entreprise ou sur Internet.
   
 Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans Office 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans). Pour comparer les plans pour Office 365 Germany, consultez la page sur les [plans d'abonnement à Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
@@ -171,7 +171,7 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Stratégies ActiveSync pour appareils mobiles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Rapports d'utilisation|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Compléments Outlook et MAPI Outlook|Oui<sup>19</sup>|Oui|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|Non|
 
 <sup>1</sup> nécessite un abonnement d’archivage Exchange Online pour chaque utilisateur de boîte aux lettres locale qui dispose d’une archive en nuage. <br/>
@@ -196,7 +196,7 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 <sup>20</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud local. <br/>
 <sup>21</sup> le tableau indique si le client fonctionne ou non avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans. <br/>
 <sup>22</sup> pour plus d’informations, reportez-vous à [la rubrique contrôle de vos données dans Office 365 à l’aide de la clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> la prise en charge de la messagerie unifiée Exchange Online pour les systèmes PBX tiers via des connexions directes à partir d’un contrôle d’accès terminal contrôlé par le client prendra fin le 2019 avril. Pour plus d’informations, reportez-vous au blog de l’équipe Exchange [cessation de la prise en charge des contrôleurs de frontière de session dans la messagerie unifiée Exchange Online](https://blogs.technet.microsoft.com/exchange/2018/04/24/new-date-for-discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . <br/>
+<sup>23</sup> la prise en charge de la messagerie unifiée Exchange Online pour les systèmes PBX tiers via des connexions directes à partir d’un contrôle d’accès terminal contrôlé par le client prendra fin le 2019 avril. Pour plus d’informations, reportez-vous au blog de l’équipe Exchange [cessation de la prise en charge des contrôleurs de frontière de session dans la messagerie unifiée Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
 <sup>24</sup> un utilisateur F1 ne peut pas ajouter de délégués à sa propre boîte aux lettres, mais il peut accéder à une autre boîte aux lettres (y compris aux boîtes aux lettres partagées) et effectuer toutes les actions qui lui ont été déléguées.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Exchange Online
@@ -301,7 +301,7 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|
 |Stratégies ActiveSync pour appareils mobiles|Oui|Oui|Oui|Oui|Oui|
 |Rapports d'utilisation|Oui|Oui|Oui|Oui|Oui|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Composants WebPart Outlook Web App|Oui|Oui|Oui|Oui|Oui|
 |Compléments Outlook et MAPI Outlook|Oui|Oui|Oui<sup>21</sup>|Oui<sup>21</sup>|Non|
 

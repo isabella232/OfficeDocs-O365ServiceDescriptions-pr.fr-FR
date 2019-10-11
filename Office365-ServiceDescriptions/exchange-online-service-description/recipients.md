@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: c4bac85f6a3610152cd8cb0767c7344c2e88d1f2
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776885"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442619"
 ---
 # <a name="recipients"></a>Destinataires
 
@@ -155,7 +155,7 @@ Les utilisateurs peuvent partager leur calendrier personnel selon l'une des deux
   
 - **Partage de calendrier fédéré** Le terme fédération fait référence à l'infrastructure d'approbation sous-jacente qui prend en charge le partage fédéré. Il s'agit d'un moyen facile pour les utilisateurs d'Exchange de partager des informations de disponibilité sur le calendrier et des informations de contact avec des destinataires appartenant à d'autres organisations fédérées externes. Ceci inclut des organisations Exchange Online ou des organisations qui exécutent Exchange Server 2010 ou Exchange Server 2013 localement. Les administrateurs d'Exchange Online n'ont pas à configurer une approbation avec la passerelle Microsoft Federation Gateway parce que cette approbation est préconfigurée pour tous les clients d'Exchange Online lorsque le service client Office 365 est créé. Une stratégie de partage par défaut permet à des utilisateurs d'envoyer des invitations de partage de calendrier à partir d'Outlook Web App ou d'Outlook 2010. Les administrateurs se servent de Windows PowerShell à distance pour désactiver cette stratégie ou pour configurer le niveau de calendrier disponible/occupé que des utilisateurs peuvent partager. Ils peuvent également créer une relation d'organisation à organisation avec une autre organisation fédérée, ce qui permet de rendre visible le niveau souhaité d'informations disponible/occupé entre les organisations sans que des utilisateurs individuels aient à générer des invitations de partage. Sous le couvert des stratégies de partage définies par l'administrateur et/ou des relations d'organisation à organisation, les utilisateurs peuvent limiter davantage et de façon individuelle leurs partages. 
     
-- **Partage de calendrier Internet** Exchange Online permet à ses utilisateurs de publier leurs calendriers au format iCal pour un accès anonyme par toute personne intérieure ou extérieure à l'organisation. Les destinataires peuvent utiliser Exchange, une autre plate-forme ou tout simplement un navigateur Web. Les utilisateurs d'Exchange Online peuvent également s'abonner à des calendriers que d'autres ont publiés sur des emplacements Internet via iCal. Ce partage de calendrier personnel diffère du partage de calendrier fédéré qui est configuré par un administrateur, et fournit un partage disponible/occupé d'organisation à organisation. Aucun utilisateur ne peut publier des données de calendrier au format iCal tant que l'administrateur n'a pas défini et appliqué une stratégie de partage qui l'autorise. Les administrateurs peuvent désactiver la publication iCal et des abonnements iCal pour des utilisateurs d'une organisation à l'aide de Windows PowerShell à distance. 
+- **Partage de calendrier Internet** Exchange Online permet à ses utilisateurs de publier leurs calendriers au format iCal pour un accès anonyme par toute personne intérieure ou extérieure à l'organisation. Les destinataires peuvent utiliser Exchange, une autre plate-forme ou tout simplement un navigateur Web. Les utilisateurs Exchange Online peuvent également s’abonner à des calendriers que d’autres ont publiés sur les emplacements Internet via iCal. Ce partage de calendrier personnel diffère du partage de calendrier fédéré qui est configuré par un administrateur, et fournit un partage disponible/occupé d'organisation à organisation. Aucun utilisateur ne peut publier des données de calendrier au format iCal tant que l'administrateur n'a pas défini et appliqué une stratégie de partage qui l'autorise. Les administrateurs peuvent désactiver la publication iCal et des abonnements iCal pour des utilisateurs d'une organisation à l'aide de Windows PowerShell à distance. 
     
 Pour plus d'informations sur le partage fédéré, consultez la rubrique [Partage dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Pour la plupart des organisations qui utilisent Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres en local. Exchange Online Protection (EOP) vous permet de le faire et de traiter les messages antivirus et anti-courrier indésirable dans le Cloud. Pour plus d’informations et pour acheter EOP, accédez à Exchange Online Protection.
-ms.openlocfilehash: 59ccec07af154275697c671014aae6e204710031
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5a581c8004bcdc001160a2499cd623c6eee772f2
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776625"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442729"
 ---
 # <a name="mail-floweop"></a>Flux de messagerie[EOP]
 
@@ -26,29 +26,24 @@ Pour la plupart des organisations qui utilisent Office 365, nous hébergeons vos
 Vous recherchez des informations sur la gestion de domaines ou le blocage du périmètre basé sur l'annuaire (DBEB) ? Consultez la rubrique [Gestion des destinataires, des domaines et des entreprises](recipient-domain-and-company-management.md). Pour en savoir plus sur toutes les fonctionnalités EOP, consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Routage des courriers électroniques entre vos serveurs de messagerie et Office 365
-<a name="BKMK_outboundmailrouting"> </a>
 
-Vous pouvez configurer un connecteur pour activer le flux de messagerie entre Office 365 (notamment Exchange Online ou EOP) et un serveur de messagerie SMTP comme Exchange. Pour plus d'informations à ce sujet, consultez les rubriques [Do I need a connector](http://technet.microsoft.com/library/16731ae9-c909-49dd-bffc-a46e6151fc29.aspx)? et [Set up connectors to route mail between Office 365 and your own email servers](http://technet.microsoft.com/library/2e93fd60-a5ef-4e64-8e62-2b862b2d1033.aspx).
+Vous pouvez configurer un connecteur pour activer le flux de messagerie entre Office 365 (notamment Exchange Online ou EOP) et un serveur de messagerie SMTP comme Exchange. Pour plus d'informations à ce sujet, consultez les rubriques [Do I need a connector](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? et [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
-<a name="BKMK_securemessagingwithatrustedpartner"> </a>
+## <a name="secure-messaging-with-a-trusted-partner"></a>Messagerie sécurisée avec un partenaire de confiance
 
-En tant que client EOP, vous pouvez établir un flux de messagerie sécurisé avec un partenaire de confiance en utilisant les connecteurs d'Office 365. Office 365 prend en charge la communication sécurisée par protocole TLS (Transport Layer Security). Vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS](https://technet.microsoft.com/en-us/library/mt163898.aspx) est un protocole de chiffrement qui sécurise les communications sur Internet. Grâce aux connecteurs, vous pouvez configurer un protocole TLS entrant et sortant forcé, à l'aide de certificats validés par une autorité de certification ou auto-signés. Vous pouvez également appliquer d'autres restrictions de sécurité, par exemple en spécifiant des noms de domaine ou des plages d'adresses IP à partir desquels votre organisation partenaire envoie du courrier. 
+En tant que client EOP, vous pouvez configurer un flux de messagerie sécurisé avec un partenaire approuvé à l’aide des connecteurs Office 365. Office 365 prend en charge la communication sécurisée via le protocole TLS (Transport Layer Security) et vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS](https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections) est un protocole de chiffrement qui fournit la sécurité pour les communications sur Internet. À l’aide de connecteurs, vous pouvez configurer des certificats validés entrants et sortants TLS à l’aide de certificats validés par une autorité de certification ou une autorité de certification auto-signés. Vous pouvez également appliquer d’autres restrictions de sécurité, telles que la spécification des noms de domaine ou des plages d’adresses IP à partir desquelles votre organisation partenaire envoie du courrier. 
   
-Pour plus d'informations, voir [Configurer des connecteurs pour un flux de messagerie sécurisé avec une organisation partenaire](https://technet.microsoft.com/en-us/library/dn751021%28v=exchg.150%29.aspx).
+Pour plus d'informations, voir [Configurer des connecteurs pour un flux de messagerie sécurisé avec une organisation partenaire](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
 ## <a name="safe-listing-a-partners-ip-address"></a>Saisie de l'adresse IP d'un partenaire sur une liste fiable
-<a name="BKMK_safelistingapartnersipaddress"> </a>
 
 Vous pouvez ajouter l'adresse IP d'un partenaire de confiance à une liste verte pour être certain que les messages qui vous sont envoyés ne sont pas considérés comme du courrier indésirable. Pour ce faire, vous pouvez utiliser la liste d'adresses IP autorisées du filtre de connexion. Pour plus d'informations, consultez la rubrique relative à la [configuration de la stratégie de filtre de connexion](https://go.microsoft.com/fwlink/p/?LinkID=287108).
   
 ## <a name="conditional-mail-routing"></a>Routage du courrier conditionnel
-<a name="BKMK_conditionalmailrouting"> </a>
 
-Vous pouvez configurer un connecteur avec une règle de transport afin de router le courrier vers un site spécifique en fonction de certaines conditions. Pour plus d'informations, consultez la rubrique [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).
+Vous pouvez configurer un connecteur avec une règle de transport afin de router le courrier vers un site spécifique en fonction de certaines conditions. Pour plus d'informations, consultez la rubrique [Scenario: Conditional email routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
-## <a name="hybrid-mail-routing"></a>Hybrid mail routing
-<a name="BKMK_hybridmailrouting"> </a>
+## <a name="hybrid-mail-routing"></a>Routage du courrier hybride
 
 « Hybride » signifie que vous hébergez une partie de votre boîte aux lettres localement, et le reste dans le cloud (Exchange Online). Vous pouvez passer d'un déploiement autonome (sur site) à un déploiement hybride.
   
@@ -57,8 +52,5 @@ Si vous disposez d'un déploiement hybride, EOP vous permet de protéger vos bo�
 L'[Assistant de déploiement Microsoft Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036) fournit aussi des instructions détaillées concernant la mise en service d'un déploiement hybride et de transport hybride des messages. 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
-<a name="BKMK_hybridmailrouting"> </a>
 
 Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
-  
-

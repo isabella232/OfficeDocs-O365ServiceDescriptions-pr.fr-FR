@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 114812240efb18573ed7defaa88010bebfdac0bd
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776915"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442539"
 ---
 # <a name="sharing-and-collaboration"></a>Partage et collaboration
 
 ## <a name="federated-sharing"></a>Partage fédéré
 
-Le terme fédération désigne l'infrastructure d'approbation sous-jacente qui prend en charge le partage fédéré, qui permet aux utilisateurs de Microsoft Exchange Online de partager des informations de calendrier, de disponibilité et de contact avec les destinataires d'autres organisations fédérées externes ou avec des utilisateurs disposant d'un accès à Internet. Cela comprend les organisations également hébergées par Exchange Online ou par des organisations externes Microsoft Exchange Server 2010 ou Exchange Server 2013. En utilisant les relations des organisations et les stratégies de partage, les administrateurs Exchange Online peuvent autoriser des utilisateurs à envoyer des invitations de partage de calendrier à provenant de Microsoft Outlook Web App ou Microsoft Outlook 2010 ou d'une version ultérieure.
+La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, une méthode permettant aux utilisateurs de Microsoft Exchange Online de partager des données de calendrier de disponibilité et des informations de contact avec des destinataires d’autres organisations fédérées externes ou avec utilisateurs disposant d’un accès à Internet. Cela comprend les organisations également hébergées par Exchange Online ou par des organisations externes Microsoft Exchange Server 2010 ou Exchange Server 2013. En utilisant les relations des organisations et les stratégies de partage, les administrateurs Exchange Online peuvent autoriser des utilisateurs à envoyer des invitations de partage de calendrier à provenant de Microsoft Outlook Web App ou Microsoft Outlook 2010 ou d'une version ultérieure.
   
 > [!IMPORTANT]
 >  Les organisations externes Exchange 2010 et Exchange 2013 doivent configurer une approbation de fédération avec la Microsoft Federation Gateway dans la configuration du partage fédéré. Les organisations Exchange Online ne doivent pas configurer une approbation de fédération : l'approbation de fédération avec Microsoft Federation Gateway est automatiquement créée lors de la création du client Office 365. >  Les organisations Exchange Online doivent configurer une relation d'organisation ou une stratégie de partage pour activer un partage fédéré. >  Le partage de la liste d'adresses globale (GAL) ou le déplacement des boîtes aux lettres des utilisateurs entre des organisations Exchange Online de différents clients Office 365 n'est pas pris en charge dans le partage fédéré. 

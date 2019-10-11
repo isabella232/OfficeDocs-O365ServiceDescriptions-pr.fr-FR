@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717542"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442549"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -35,7 +35,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype Entreprise Online  <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
-|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |
 |[Applications Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Oui  <br/> |Oui  <br/> |
 |Project Online  <br/> |N °<sup>3</sup> <br/> |N °<sup>3</sup> <br/> |
 |Power BI  <br/> |Non  <br/> |Non  <br/> |
@@ -58,7 +58,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Office 365 Video  <br/> |Non  <br/> |Non  <br/> |
 |Bloc-notes OneNote pour la classe  <br/> |Non  <br/> |Non  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Fonctionnalités d'administration d'Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Fonctionnalités du centre d’administration Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Administrer Office 365 à l’aide du centre d’administration 365 de Microsoft ou de Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>6</sup> <br/> |Oui  <br/> |
 |Shared computer activation <br/> |Non <br/> |Oui  <br/> |
@@ -90,7 +90,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |[Politique de confidentialité, sécurité et transparence](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Protection anti-courrier indésirable intégrée  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection anti-programme malveillant intégrée  <br/> |Oui  <br/> |Oui  <br/> |
-|Office 365-Protection avancée contre les menaces  <br/> |Non  <br/> |Oui<sup>19</sup> <br/> |
+|Office 365 – Protection avancée contre les menaces  <br/> |Non  <br/> |Oui<sup>19</sup> <br/> |
 |Gestion de la sécurité avancée  <br/> |Non  <br/> |Non  <br/> |
 |Référentiel sécurisé client  <br/> |Non  <br/> |Non  <br/> |
 |Clé client pour Office 365<sup>12</sup> <br/> |Non  <br/> |Non  <br/> |
@@ -168,7 +168,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 <br/><sup>4</sup> Azure information protection (AIP) active les fonctionnalités de gestion des droits relatifs à l’information (IRM) prises en charge. Le plan AIP 1 est inclus dans Microsoft 365 Business. 
 <br/><sup>5</sup> Microsoft teams est disponible dans Microsoft 365 Business, Office 365 Business Essentials, Office 365 Business Premium et Office 365 Enterprise (E1, E3, E5, F1). Il n’est pas encore disponible pour les plans Office 365 éducation. 
 <br/><sup>6</sup> Azure information protection (AIP) active les fonctionnalités de gestion des droits relatifs à l’information (IRM) prises en charge. Le plan AIP 1 est inclus dans Microsoft 365 Business. 
-<br/><sup>7</sup> l’outil Azure ad Connect pour l’activation de la synchronisation d’annuaires est pris en charge dans Office 365 Business Premium, qui est un composant de Microsoft 365 Business. Toutefois, lorsque les composants de gestion Windows sont activés pour Microsoft 365 Business, une jointure Azure AD est requise. Si vous disposez d’un environnement Active Directory local et que vous souhaitez joindre vos appareils joints à un domaine à Azure AD, vous pouvez effectuer cette opération en configurant des [appareils joints Azure ad hybrides](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
+<br/><sup>7</sup> l’outil Azure ad Connect pour l’activation de la synchronisation d’annuaires est pris en charge dans Office 365 Business Premium, qui est un composant de Microsoft 365 Business. Toutefois, lorsque les composants de gestion Windows sont activés pour Microsoft 365 Business, une jointure Azure AD est requise. Si vous disposez d’un environnement Active Directory local et que vous souhaitez joindre vos appareils joints à un domaine à Azure AD, vous pouvez effectuer cette opération en [configurant des appareils joints Azure ad hybrides](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
 <br/><sup>8</sup> si vous utilisez la synchronisation d’annuaires avec un annuaire Active Directory local, vous devez supprimer des comptes ou changer des mots de passe à l’aide de l’annuaire Active Directory local, plutôt que du portail Office 365 ou en utilisant le module Azure Active Directory pour Windows PowerShell. 
 <br/><sup>9</sup> identités Cloud uniquement. Consultez [la rubrique autoriser les utilisateurs à réinitialiser leur mot de passe dans Office 365](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords). 
 <br/><sup>10</sup> les sièges qui ont été achetés avec un escompte de terme peuvent être soumis à une redevance de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle. 

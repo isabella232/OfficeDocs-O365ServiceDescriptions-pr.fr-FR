@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d’administration Exchange.
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776865"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442639"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Fonctions de rapport et outils de dépannage
 
@@ -39,9 +39,9 @@ Pour plus d'informations sur les rapports qui sont disponibles avec chaque abonn
 
 Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d’utiliser à la place les rapports améliorés du centre d’administration 365 Microsoft. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez cette [page de téléchargement](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
-### <a name="reporting-using-web-services"></a>Reporting via les services Web
+### <a name="reporting-using-web-services"></a>Création de rapports à l’aide de services web
 
-Accédez à la fois à des rapports récapitulatifs et à des rapports détaillés sur les boîtes aux lettres, les groupes et les données de messagerie en utilisant le service Web de reporting de client REST/OData, qui est une interface de programmation vous permettant de créer des rapports personnalisés. Pour plus d'informations, consultez la rubrique relative aux [services web de création de rapports Office 365](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+L’accès à des rapports récapitulatifs et détaillés concernant les boîtes aux lettres, les groupes et les données de messagerie est disponible à l’aide du service Web REST/OData client de création de rapports, qui est une interface de programmation qui vous permet de créer des rapports personnalisés. Pour plus d’informations, consultez la rubrique [Office 365 reporting Web services](https://go.microsoft.com/fwlink/p/?LinkId=287041).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Fonctionnalités de reporting et outils de dépannage dans le Centre d'Administration Exchange
 

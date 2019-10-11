@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: "Cette section décrit les contrôles d’administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l’environnement Exchange Online d’une organisation. Elle comprend les informations sur les outils d'administration en libre-service et les fonctionnalités à disposition des organisations : responsabilités et engagements de performances de l'administrateur Microsoft et mises à niveau des services et des produits."
-ms.openlocfilehash: eae4fc583661025fdc509d4b36cf0cb46353bed6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: ba7d1aa31aba19f43d3318687daf76f50f60d08f
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776485"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442629"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Configuration et administration d’Exchange Online
 
@@ -40,24 +40,20 @@ Exchange Online offre donc aux administrateurs du client les outils décrits ci-
 - [Windows PowerShell distant pour Exchange Online](exchange-online-setup-and-administration.md#remote-windows-powershell-for-exchange-online)
     
 ### <a name="microsoft-office-365-portal"></a>Portail Microsoft Office 365
-<a name="BKMK_MicrosoftOnlineServicesPortal"> </a>
 
 Le portail Microsoft Office 365 ([https://portal.office.com](https://portal.office.com)) est le site web sur lequel les administrateurs et les partenaires peuvent acheter et gérer les services Office 365 et où les utilisateurs peuvent accéder aux outils de collaboration Office 365.
   
 ### <a name="microsoft-365-admin-center"></a>Centre d’administration Microsoft 365
-<a name="BKMK_Office365admincenterl"> </a>
 
-Le centre d’administration Microsoft 365 est le portail Web à partir duquel les administrateurs de services de chaque entreprise peuvent gérer les comptes d’utilisateur et les paramètres de chaque service Office 365 auquel ils s’abonnent. À partir du centre d’administration 365 de Microsoft, les administrateurs peuvent suivre des liens vers le centre d’administration Exchange, où ils peuvent gérer des paramètres spécifiques d’Exchange Online. Pour plus d’informations sur l’utilisation du centre d’administration Microsoft 365, voir la vidéo suivante: [présentation d’Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+Le centre d’administration Microsoft 365 est le portail Web à partir duquel les administrateurs de services de chaque entreprise peuvent gérer les comptes d’utilisateur et les paramètres de chaque service Office 365 auquel ils s’abonnent. À partir du centre d’administration 365 de Microsoft, les administrateurs peuvent suivre des liens vers le centre d’administration Exchange, où ils peuvent gérer des paramètres spécifiques d’Exchange Online. Pour plus d’informations sur l’utilisation du centre d’administration Microsoft 365, voir la vidéo suivante : [présentation d’Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
-### <a name="exchange-admin-center"></a>Centre d’administration Exchange
-<a name="BKMK_ExchangeAdministrationCenter"> </a>
+### <a name="exchange-admin-center"></a>Centre d'administration Exchange
 
 Exchange Online offre une console de gestion unifiée et unique qui facilite l'utilisation et optimise la gestion des déploiements sur site, en ligne ou hybrides. Dans le Centre d'administration Exchange (CAE), les administrateurs peuvent gérer les paramètres spécifiques d'Exchange.
   
 Pour plus d'informations sur l'utilisation du CAE pour gérer Exchange Online, consultez la rubrique [Centre d'administration Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271807).
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Windows PowerShell distant pour Exchange Online
-<a name="BKMK_RemoteWindowsPowerShell"> </a>
 
 L'application Windows PowerShell distante permet aux administrateurs de se connecter à Exchange Online pour effectuer des tâches de gestion indisponibles ou peu pratiques dans le CAE. Cela comprend la possibilité d'automatiser des tâches répétitives, d'extraire des données de rapports personnalisés, de personnaliser des stratégies et de connecter Exchange Online à une infrastructure et des processus existants. Pour plus d'informations, voir [Connexion à Exchange Online à l'aide de Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
   

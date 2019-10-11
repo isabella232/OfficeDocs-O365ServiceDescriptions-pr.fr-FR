@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Pour la plupart des organisations utilisant Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s’assurer qu’elles sont conformes aux besoins spécifiques de la réglementation ou de l’entreprise. Vous pouvez en savoir plus sur ces options ici.
-ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231412"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442599"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 
@@ -36,7 +36,7 @@ Pour plus d'informations, consultez la rubrique [Set up connectors to route mail
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-En tant que client Exchange Online, vous pouvez établir un flux de messagerie sécurisé avec un partenaire de confiance en utilisant les connecteurs d'Office 365. Office 365 prend en charge la communication sécurisée par protocole TLS (Transport Layer Security). Vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) est un protocole de chiffrement qui sécurise les communications sur Internet. Grâce aux connecteurs, vous pouvez configurer un protocole TLS entrant et sortant forcé, à l'aide de certificats validés par une autorité de certification ou auto-signés. Vous pouvez également appliquer d'autres restrictions de sécurité, par exemple en spécifiant des noms de domaine ou des plages d'adresses IP à partir desquels votre organisation partenaire envoie du courrier. 
+En tant que client Exchange Online, vous pouvez configurer un flux de messagerie sécurisé avec un partenaire approuvé à l’aide des connecteurs Office 365. Office 365 prend en charge la communication sécurisée via le protocole TLS (Transport Layer Security) et vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) est un protocole de chiffrement qui fournit la sécurité pour les communications sur Internet. À l’aide de connecteurs, vous pouvez configurer des certificats validés entrants et sortants TLS à l’aide de certificats validés par une autorité de certification ou une autorité de certification auto-signés. Vous pouvez également appliquer d’autres restrictions de sécurité, telles que la spécification des noms de domaine ou des plages d’adresses IP à partir desquelles votre organisation partenaire envoie du courrier. 
   
 Pour plus d'informations, consultez la rubrique [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -65,7 +65,7 @@ L'[Assistant de déploiement Microsoft Exchange Server](https://go.microsoft.com
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Espace d'adressage partagé avec contrôle de routage local (MX pointe vers le site)
 
-L'espace d'adressage partagé avec contrôle de routage local (MX pointe vers le site) représente un scénario de routage de courrier de déploiement hybride dans lequel vos boîtes aux lettres sont hébergées en partie dans Exchange Online et en partie sur site, et dans lequel le flux de messagerie Internet entrant et sortant est acheminé via l'organisation Exchange locale. Ce scénario est également appelé transport de messagerie centralisé. Dans ce scénario, Exchange Online est mis en service avec EOP, et le courrier Internet entrant est acheminé vers votre serveur de messagerie local avant d'être acheminé vers EOP, puis finalement vers des boîtes aux lettres hébergées dans Exchange Online. De plus, le courrier sortant de boîtes aux lettres Exchange Online est acheminé via l'organisation Exchange locale dans le cas de messages envoyés à des destinataires externes. Avec cette configuration, vous pouvez utiliser un espace de noms de domaine SMTP unique pour toutes les boîtes aux lettres, à la fois dans votre organisation Exchange locale et dans votre organisation Exchange Online. 
+L’espace d’adressage partagé avec un contrôle de routage local (MX pointe vers local) est un scénario de routage de messagerie de déploiement hybride dans lequel vos boîtes aux lettres sont hébergées partiellement dans Exchange Online et partiellement sur site, ainsi que le flux de messagerie Internet entrant et sortant. est routé via l’organisation Exchange locale. Ce scénario est également appelé transport de messagerie centralisé. Dans ce scénario, Exchange Online est configuré avec EOP et le courrier Internet entrant est acheminé vers votre serveur de messagerie local avant d’être routé vers EOP et enfin vers des boîtes aux lettres hébergées dans Exchange Online. De plus, le courrier sortant de boîtes aux lettres Exchange Online est acheminé via l'organisation Exchange locale dans le cas de messages envoyés à des destinataires externes. Avec cette configuration, vous pouvez utiliser un espace de noms de domaine SMTP unique pour toutes les boîtes aux lettres, à la fois dans votre organisation Exchange locale et dans votre organisation Exchange Online. 
   
 Pour plus d'informations sur les options de transport dans un déploiement hybride, consultez la rubrique [Options de transport dans des déploiements hybrides Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   

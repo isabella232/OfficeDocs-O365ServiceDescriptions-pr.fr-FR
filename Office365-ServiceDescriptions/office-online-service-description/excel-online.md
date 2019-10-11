@@ -1,5 +1,5 @@
 ---
-title: Excel pour le Web
+title: Excel pour le web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401760"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442749"
 ---
-# <a name="excel-for-the-web"></a>Excel pour le Web
+# <a name="excel-for-the-web"></a>Excel pour le web
 
 Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
   
@@ -88,7 +88,11 @@ Seule l'application Microsoft Excel de bureau prend en charge les fonctionnalit�
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Graphiques et tableaux, notamment les rapports de graphique croisé dynamique et de tableau croisé dynamique
 
 Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion des données. Pour plus d’informations, consultez la rubrique [créer et mettre en forme des tableaux](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) et obtenir une [vue d’ensemble des rapports PivotTable et PivotChart](https://go.microsoft.com/fwlink/?linkid=55417).
-  
+
+## <a name="check-spelling"></a>Vérifier l’orthographe
+
+Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionnez **examiner** > l’orthographe de la**vérification** > **orthographique**. En savoir plus sur la vérification de l' [orthographe](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+
 ## <a name="comment-creation"></a>Comment creation
 
 Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. Vous pouvez également résoudre un thème de commentaire, qui le ferme en y apportant des modifications et de nouveaux commentaires, mais il le laisse. Cela vous permet de rouvrir le thread à des commentaires si nécessaire. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
@@ -123,7 +127,7 @@ Dropbox est un service d’hébergement de fichiers qui offre un stockage dans l
   
 ## <a name="duplicate-copy-worksheets"></a>Feuilles de calcul dupliquées (copier)
 
-Vous pouvez dupliquer (ou copier) des feuilles de calcul dans un classeur ou dans un autre classeur dans Excel pour le Web. En savoir plus sur [la copie de feuilles de calcul dans Excel pour le Web](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
+Vous pouvez dupliquer (ou copier) des feuilles de calcul dans un classeur ou dans un autre classeur dans Excel pour le Web. En savoir plus sur [la copie de feuilles de calcul dans Excel pour le Web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Incorporer un classeur sur le Web ou une page de blog (OneDrive)
 
@@ -137,7 +141,7 @@ Une référence externe (également appelée « lien ») peut renvoyer vers une 
 
 Faites glisser la poignée de recopie figurant dans le coin inférieur droit d'une cellule ou d'une plage de cellules sélectionnée pour insérer les données dans les cellules adjacentes.
   
-## <a name="find"></a>Rechercher
+## <a name="find"></a>Trouver
 
 Recherchez un contenu de cellule dans la feuille de calcul active. Une boîte de dialogue simple d'utilisation vous permet de rechercher vers le haut ou vers le bas dans la sélection actuelle de la feuille de calcul.
   
@@ -171,7 +175,7 @@ Naviguez rapidement dans votre feuille de calcul en utilisant la fonction GoTo. 
  
 ## <a name="group-data"></a>Données de groupe
 
-Vous pouvez regrouper ou détourer les lignes et les colonnes de votre feuille de calcul Excel pour le Web. En savoir plus sur [les données de regroupement dans Excel pour le Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+Vous pouvez regrouper ou détourer les lignes et les colonnes de votre feuille de calcul Excel pour le Web. En savoir plus sur [les données de regroupement dans Excel pour le Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Vous pouvez masquer et afficher les lignes, colonnes et feuilles dans un classeu
 
 Créez un graphique pour représenter visuellement vos données. Choisissez parmi de nombreux types de graphiques : histogrammes, graphiques en courbes, graphiques à secteurs ou graphiques à barres. En savoir plus sur les [types de graphiques disponibles](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
-## <a name="insertdelete-rows-and-columns"></a>Insertion ou suppression de lignes et de colonnes
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-Pour ajouter ou supprimer une ou plusieurs lignes ou colonnes dans une feuille de calcul, sélectionnez une ou plusieurs lignes ou colonnes, puis cliquez sur Insérer ou sur Supprimer sous l'onglet Accueil.
+Sélectionnez une ou plusieurs lignes avant de sélectionner **Insérer** ou **supprimer** sous l’onglet **Accueil** pour ajouter ou supprimer des lignes ou des colonnes d’une feuille de calcul une à la fois ou plusieurs à la fois.
 
 ## <a name="insert-pictures"></a>Insérer des images
 
@@ -195,7 +199,7 @@ Ajouter et mettre en forme des formes telles que des cases, des cercles, des tra
   
 ## <a name="merge-cells"></a>Merge cells
 
-Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. Vous pouvez modifier l’alignement en sélectionnant les boutons d’alignement.
 
 ## <a name="named-ranges"></a>Plages nommées
 
@@ -249,15 +253,15 @@ Si les données de votre classeur sont connectées à des sources externes, tell
 
 Vous pouvez supprimer les valeurs en double d’une plage ou d’une table. Pour plus d’informations, consultez la rubrique [filtre des valeurs uniques ou suppression des valeurs en double](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
-## <a name="rename-and-add-sheets"></a>Changement de nom et ajout de feuilles
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-Pour ajouter une feuille, cliquez sur l'icône Nouvelle feuille. Pour renommer une feuille, cliquez avec le bouton droit sur son onglet.
+Sélectionnez l’icône de nouvelle feuille pour ajouter une feuille. Pour renommer une feuille, cliquez avec le bouton droit sur son onglet.
   
 ## <a name="rename-file-while-workbook-is-open"></a>Renommer un fichier alors que le classeur est ouvert
 
-Dans Excel pour le Web, vous pouvez renommer un fichier de classeur sans le fermer en cliquant sur le nom de fichier dans l’en-tête et en saisissant un nouveau nom. Pour renommer un fichier à l’aide de l’application de bureau Excel, fermez-le, accédez à son emplacement sur votre périphérique, puis renommez le fichier.
+Dans Excel pour le Web, vous pouvez renommer un fichier de classeur sans le fermer en sélectionnant le nom de fichier dans l’en-tête et en saisissant un nouveau nom. Pour renommer un fichier à l’aide de l’application de bureau Excel, fermez-le, accédez à son emplacement sur votre périphérique, puis renommez le fichier.
   
-## <a name="replace"></a>Remplacement
+## <a name="replace"></a>Remplacer
 
 Non disponible dans Excel pour le Web. Si l'application Excel de bureau est installée sur votre ordinateur, vous pouvez utiliser Excel pour rechercher et remplacer du contenu dans un document. En savoir plus sur [l’utilisation de rechercher et remplacer dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
@@ -279,7 +283,7 @@ Lorsque vous partagez un fichier Excel avec d’autres utilisateurs, vous pouvez
   
 ## <a name="slicer-viewing"></a>Affichage de segments
 
-Pour afficher des segments dans votre feuille de calcul et filtrer vos données, cliquez sur les boutons de segment. Vous ne pouvez pas créer ni modifier des segments dans Excel pour le Web.
+Affichez les segments de votre feuille de calcul et filtrez vos données en sélectionnant les boutons de segment. Vous ne pouvez pas créer ni modifier des segments dans Excel pour le Web.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Vous pouvez appliquer diverses options de mise en forme de texte, y compris barr
 
 ## <a name="total-data"></a>Nombre total de données
 
-Vous pouvez rapidement totaliser les données d’un tableau en cliquant sur Afficher/masquer la ligne des totaux sous format de tableau dans l’onglet Accueil. 
+Vous pouvez rapidement totaliser les données d’un tableau en activant l’option Activer/désactiver la ligne du total. Pour plus d’informations, consultez [la rubrique total des données dans un tableau Excel](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web).
 
 ## <a name="undo-and-redo"></a>Annuler et rétablir
 

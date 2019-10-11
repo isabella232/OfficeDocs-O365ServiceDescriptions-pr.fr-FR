@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: f13bcd40d707f582355d76676212f10b04973bfb
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 4765344c128f53057c75b55e9d79120b03d63942
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998496"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442739"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -122,7 +122,7 @@ Les clients qui choisissent l’avantage de migration [FastTrack](https://fasttr
   
 ## <a name="office-365-us-government-and-azure-government-expressroute"></a>Office 365 pour le gouvernement américain et Azure Government ExpressRoute
 
-Les clients Office 365 pour le gouvernement américain peuvent utiliser les services Azure Government ExpressRoute pour se connecter en privé aux services Office 365 pris en charge plutôt que via Internet.
+Office 365 les clients du gouvernement américain peuvent utiliser les services ExpressRoute gouvernementaux pour se connecter en privé aux services Office 365 pris en charge au lieu de se connecter sur Internet.
   
 Pour obtenir des informations comme les fournisseurs pris en charge, les modèles de tarifs, et plus encore, consultez les [informations Azure ExpressRoute](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
   
@@ -147,7 +147,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Services Office 365** <br/> |**Office 365 pour le gouvernement G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
-|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office 365 ProPlus  <br/> |Non <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
 |Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -157,8 +157,8 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 | Système de téléphonie vocale, audioconférence  <br/> |Non<sup>2, 3</sup> <br/> |Non<sup>2, 3</sup> <br/> |Oui <sup>, 3, 5</sup> <br/> |Non  <br/> |
 |Power BI Pro  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |Project Online  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |
-|Visio pour le Web  <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |
-|Yammer Entreprise  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
+|Visio pour le web  <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |
+|Yammer Enterprise  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus, G3 et G5 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup> non inclus, mais peut être acheté en tant que module complémentaire distinct. Project Online inclut le client de bureau Project Online dans le cadre de l’abonnement.
@@ -262,7 +262,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Cloud App Security  <br/> |N °<sup>11, 12</sup> <br/> |N °<sup>11, 12</sup> <br/> |Oui<sup>11</sup> <br/> |N °<sup>11, 12</sup> <br/> |
 |Protection avancée contre les menaces  <br/> |N °<sup>12, 18</sup> <br/> |N °<sup>12, 18</sup> <br/> |Oui<sup>18</sup>  <br/> |N °<sup>12, 18</sup> <br/> |
 |Référentiel sécurisé client  <br/> |N °<sup>9, 12, 15</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |Oui<sup>, 9</sup> <br/> |N °<sup>9, 12, 15</sup> <br/> |
-|eDiscovery (découverte électronique) avancée Office 365  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui  <br/> |N °<sup>12</sup> <br/> |
+|Office 365 Advanced eDiscovery  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui  <br/> |N °<sup>12</sup> <br/> |
 |Score de sécurité<sup>14</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
 |Chiffrement des messages Office  <br/> |Non  <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
 |Intelligence des menaces  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
@@ -362,7 +362,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
    
 > <sup>1</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure information protection nécessitent un abonnement à Office 365 ProPlus, qui n’est pas inclus dans Office 365 gouvernement G1 ou Office 365 Government F1. 
 <br/><sup>2</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d’activer les fonctionnalités IRM prises en charge. 
-<br/><sup>3</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus et Office 365 Enterprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://technet.microsoft.com/library/gg425836%28v=ocs.15%29.aspx). 
+<br/><sup>3</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus et Office 365 Enterprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). 
 <br/><sup>4</sup> pas encore disponible dans les environnements GCC High ou DOD, mais bientôt disponible.
 <br/><sup>5</sup> pour plus d’informations, consultez [la rubrique utilisation d’Outlook pour iOS et Android dans le nuage communautaire du gouvernement](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) .
   <br/><sup>6</sup> pas encore disponible dans l’environnement DoD Office 365, mais bientôt disponible.
