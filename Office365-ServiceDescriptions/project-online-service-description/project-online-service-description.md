@@ -1,5 +1,5 @@
 ---
-title: Description du service Project Online
+title: Description du service Microsoft Project
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,171 +14,264 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 78d9b89213483fa6065a2a667870667769ae4e2d
-ms.sourcegitcommit: d03a05074152139760b0c68dd3e46847623f27b9
+ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/07/2019
-ms.locfileid: "36790740"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523255"
 ---
-# <a name="project-online-service-description"></a>Description du service Project Online
+# <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
+
+## <a name="overview"></a>Vue d'ensemble
+
+Microsoft Project propose les applications suivantes pour vous aider à répondre aux besoins de votre organisation en matière de gestion des projets et des tâches :
+
+- Project pour le Web
+- Project Online 
+- Client de bureau Project Online
+
+Cet article vous aidera à comprendre les applications fournies dans chaque abonnement de projet et les fonctionnalités offertes par chaque application.
 
 > [!NOTE]
-> Nous sommes en train de mettre à jour cet article. Pour plus d’informations, reportez-vous au début du 2019 octobre.
->
-Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe. 
-  
-Project Online est disponible dans le cadre de trois offres, Project Online Essentials, Project Online Professionnel et Project Online Premium.
-  
-Pour comparer les fonctionnalités de chacune des offres, reportez-vous au [comparatif des offres Project Online](https://products.office.com/en-us/project/compare-microsoft-project-management-software).
-  
-Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions du service Office 365. Découvrez comment [exporter plusieurs pages](https://techcommunity.microsoft.com/t5/Project-Support-Blog/Project-Online-New-ways-to-work-with-Team-Assignments/ba-p/362001?advanced=false&collapse_discussion=true&q=New%20ways%20to%20work%20with%20Team%20Assignments&search_type=thread).
-  
-## <a name="project-online-boundaries-and-limits"></a>Limites et restrictions de Project Online
+> Le 29 octobre 2019, les abonnements Project Online professionnel et Project Online Premium seront renommés en Project Plan 3 et Project plan 5, respectivement.
 
-Il existe certaines limites au service Project Online. Pour plus d'informations, consultez la rubrique [Project Online : limites et frontières logicielles](https://support.office.com/en-us/article/Project-Online-software-boundaries-and-limits-5A09DBCE-1E68-4A7B-B099-D5F1B21BA489).
-  
-## <a name="data-backup"></a>Sauvegarde de données
+### <a name="project-for-the-web"></a>Project pour le Web
 
- Project Online dispose de la même stratégie de sauvegarde et de rétention des données que Office 365. Pour plus d’informations, consultez la rubrique relative à la [rétention, la suppression et la destruction des données dans Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-data-retention-deletion-and-destruction-overview).
-  
-## <a name="use-of-sharepoint-online"></a>Utilisation de SharePoint Online
+Project pour le Web est l’offre la plus récente de Microsoft pour le travail informatique et la gestion de projet. Project pour le Web fournit des fonctionnalités de gestion des tâches simples et puissantes pour répondre à la plupart des besoins et des rôles. Les chefs de projet et les membres de l’équipe peuvent utiliser Project pour le Web pour planifier et gérer le travail de n’importe quelle taille.
 
-Votre service Project Online requiert l'utilisation de SharePoint Online, qui sera configuré pour vous dans le cadre du service Project Online. Les droits d’accès aux fonctionnalités SharePoint Online fournis avec Project Online professionnel ou Premium sont limités au stockage et à l’accès aux données pour prendre en charge Project online.
-  
-## <a name="licensing-considerations"></a>Remarques sur les licences
+Project pour le Web est basé sur la plateforme d’alimentation Microsoft. La plateforme Power est composée de PowerApp, de Microsoft Flow, de Power BI et du Common Data Service (CD). Project pour les données Web est stocké dans des CD. 
 
-### <a name="internal-users"></a>Utilisateurs internes
+Project Online est disponible dans deux abonnements : Project Online professionnel et Project Online Premium. Les fonctionnalités indiquées dans la section [projet pour les fonctionnalités Web](#project-for-the-web-features) interagissent uniquement avec les données du projet pour le magasin de données Web.
 
-Toute interaction sur un site Project Online nécessite une licence Project online.
-  
-- Project Online Essentials est une licence de complément de membre d’équipe pour les clients qui utilisent déjà Project Online professionnel ou Project Online Premium dans leur organisation.
-    
-- Pour les cas d’utilisation plus avancés, les utilisateurs doivent disposer des licences appropriées. Les responsables de projet nécessitent au minimum une licence Project Online professionnel. Les responsables de portefeuilles nécessitent une licence de Project Online Premium.
-    
-> [!IMPORTANT]
->  Project Online Essentials est une licence de *complément* de membre d’équipe pour les clients qui ont Project Online professionnel ou Project Online Premium. 
-<br/>Lorsque votre dernière licence Project Online Professional ou Project Online Premium arrive à expiration, vos instances Project Web App seront supprimées après 120 jours. 
-<br/>Pour les abonnements à la version d’évaluation de Project Online, vos instances Project Web App seront supprimées 30 jours après la fin de la période d’évaluation. 
-  
-### <a name="external-users"></a>Utilisateurs externes
+### <a name="project-online"></a>Project Online
+ 
+Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Project Online offre des fonctionnalités de gestion de projet puissantes pour la planification, la hiérarchisation et la&mdash;gestion des projets et des investissements de portefeuille de projets à partir de quasiment n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
 
-La gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite une licence Project online.
-  
-## <a name="project-online-plans"></a>Offres Project Online
+Project Online est basé sur la plateforme SharePoint et stocke des données dans le magasin de données SharePoint.
 
-Les offres Project Online suivantes sont disponibles. Pour en savoir plus sur Project Online, consultez la rubrique [prise en main de Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
-  
-||||
-|:-----|:-----|:-----|
-|**Offre** <br/> |**Utilisateurs ciblés** <br/> |**Description** <br/> |
-|Project Online Essentials<sup>1</sup> |Membres de l'équipe <br/> <br/> |Interface Web pour les membres d'équipe <br/>  Mettre à jour des tâches, des problèmes et des risques <br/>  Soumettre des feuilles de temps <br/> Partager des documents et collaborer avec Microsoft teams ou la présence de Skype entreprise <br/> 
-|Project Online Professional<sup>1</sup> <br/>|Responsables de projets  <br/> | Toutes les fonctionnalités de Project Online Essentials, ainsi que :  <br/>    Accès à tout moment et en tout lieu via une interface Web  <br/>  Planification de projet et évaluation des coûts  <br/>  Gestion des ressources  <br/>  Publication de projets dans le cloud  <br/>  Inclut la version la plus récente de l'application de bureau Project, instantanément diffusée en continu sur votre PC Windows.  <br/>  Chaque licence d'abonnement permet de mettre en place jusqu'à cinq installations simultanées de l'application de bureau Project.  <br/> |
-|Project Online Premium<sup>1</sup> <br/>|Responsables de portefeuilles et de ressources  <br/> | Toutes les fonctionnalités de Project Online Professionnel, ainsi que :  <br/>  Sélection et optimisation de portefeuille  <br/>  Gestion de la demande  <br/>  Gestion des ressources d'entreprise  <br/>  Rapports de portefeuille prêts à l'emploi  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> Project Online Essentials, Project Online professionnel et Project Online Premium sont également proposés dans le cadre d’Office 365 géré par 21ViaNet, une version d’Office 365 propre à la Chine. 
-  
-## <a name="feature-availability-across-project-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Project Online
-<a name="BKMK_ProjectFeatures"> </a>
+Project Online est disponible par le biais de deux abonnements : Project Online professionnel et Project Online Premium. La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Les fonctionnalités indiquées dans la section [fonctionnalités de Project Online](#project-online-features) interagissent uniquement avec les données du magasin de données SharePoint de Project online.
 
-|||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|**Fonctionnalités principales (client de bureau)** <br/> ||||||
-|[Ajouter des colonnes](core-functionality.md#add-columns) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Arrière-plan](core-functionality.md#backstage) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Démarrer en un clic](core-functionality.md#click-to-run) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Menus contextuels par clic droit](core-functionality.md#contextual-right-click-menus) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Champs personnalisés](core-functionality.md#custom-fields) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Enhanced copy and paste across Microsoft Office applications](core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Diagramme de Gantt, calendrier et vues de feuille de travail](core-functionality.md#gantt-chart-calendar-and-task-sheet-views) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Interface utilisateur Microsoft Fluent : le ruban](core-functionality.md#microsoft-fluent-user-interface-the-ribbon) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Annulations à plusieurs niveaux](core-functionality.md#multiple-level-undo) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Affichage de diagrammes de réseau](core-functionality.md#network-diagram-view) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Boutique Office](core-functionality.md#office-store) <br/> |Non  <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Non  <br/> |
-|[Aide en ligne](core-functionality.md#online-help) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Sortie PDF et XPS](core-functionality.md#pdf-and-xps-output) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Texte d'espace réservé dans les champs de projet](core-functionality.md#placeholder-text-in-project-fields) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Modèles de projets](core-functionality.md#project-templates) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Assistance au démarrage](core-functionality.md#start-experience) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Retour automatique à la ligne](core-functionality.md#text-wrap) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Affichage de la chronologie](core-functionality.md#timeline-view) <br/> |Non <br/>|Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Commandes de zoom](core-functionality.md#zoom-controls) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|**Planification de projet (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Cumul de la ligne de base](project-planning.md#baseline-rollup) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Planification budgétaire](project-planning.md#budget-planning) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Comparer les versions d'un projet](project-planning.md#compare-project-versions) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Délais](project-planning.md#deadlines) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Filtrage](project-planning.md#filtering) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Formules et indicateurs graphiques](project-planning.md#formulas-and-graphical-indicators) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Grouper et trier les données des projets](project-planning.md#group-and-sort-project-data) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Rapports](project-planning.md#reports) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Planificateur d'équipe](project-planning.md#team-planner) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|**Gestion des tâches (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Tâches actives et inactives](task-management.md#active-and-inactive-tasks) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Saisie semi-automatique](task-management.md#auto-complete) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Planification automatique](task-management.md#automatic-scheduling) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Date du calendrier prolongée jusqu'à 2149](task-management.md#calendar-date-extended-to-2149) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Chemin critique entre les projets](task-management.md#cross-project-critical-path) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Inspecteur de tâches](task-management.md#task-inspector) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Analyse de la séquence des tâches](task-management.md#task-path-analysis) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Tâches récapitulatives verticales](task-management.md#top-down-summary-tasks) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Mettre à jour la progression](task-management.md#update-progress) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Planification manuelle et contrôlée par l'utilisateur](task-management.md#user-controlled-and-manual-scheduling) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|**Gestion des ressources de projet (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Ressources de coûts](project-resource-management.md#cost-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Gestion des durées non travaillées](project-resource-management.md#manage-nonworking-time) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Audit des ressources](project-resource-management.md#resource-leveling) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Feuille de ressource et vues d'utilisation](project-resource-management.md#resource-sheet-and-usage-views) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Substitution de ressources](project-resource-management.md#resource-substitution) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Ressources d'équipe](project-resource-management.md#team-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Ressources de travail, générales et matérielles](project-resource-management.md#work-generic-and-material-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|**Publication de projet (client de bureau)** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Créer un site Project](project-publishing.md#create-a-project-site) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Projets principaux dans SharePoint](project-publishing.md#master-projects-on-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Fonctionnalité de présence avec Skype Entreprise](project-publishing.md#presence-with-skype-for-business) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Publier vos projets dans Project Server ou Project Online](project-publishing.md#publish-projects-to-project-server-or-project-online) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Enregistrer un fichier de projet MPP dans SharePoint](project-publishing.md#save-a-project-mpp-file-to-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Synchronisation d'une liste de tâches avec SharePoint](project-publishing.md#task-list-sync-to-sharepoint) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|**Services de base** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Intégration d'Active Directory](core-services-functionality.md#active-directory-integration) <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Administration, déploiement et extensibilité](core-services-functionality.md#administration-deployment-and-extensibility) <br/> |Oui<sup>23</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Mise en route](core-services-functionality.md#getting-started) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gestion des problèmes et des risques (pour les membres de l'équipe)](core-services-functionality.md#issues-and-risk-management-for-team-members) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Centre de gestion de la confidentialité Office 365](core-services-functionality.md#office-365-trust-center) <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |N/D  <br/> |S/O  <br/> |
-|[Écosystème de partenaires de gestion de portefeuille de projets](core-services-functionality.md#ppm-partner-ecosystem) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Fiabilité du service](core-services-functionality.md#service-reliability) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/A  <br/> |S/O  <br/> |
-|[Mises à jour du service](core-services-functionality.md#service-updates) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N/A  <br/> |S/O  <br/> |
-|[Collaboration des membres de l'équipe](core-services-functionality.md#team-member-collaboration) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gestion des tâches et du temps (pour les membres de l'équipe)](core-services-functionality.md#time-and-task-management-for-team-members) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|**Gestion de projet** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Gestion des problèmes et des risques](project-management.md#issues-and-risk-management) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gérer les ressources du projet](project-management.md#manage-project-resources) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gestion de la planification](project-management.md#schedule-management) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion du temps et des tâches](project-management.md#time-and-task-management) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|[Accueil](project-management.md#project-home) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|**Gestion de portefeuille** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Analyser les projets et optimiser le portefeuille](portfolio-management.md#analyze-projects-and-optimize-portfolio) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Créer et modifier des projets](portfolio-management.md#create-and-edit-projects) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gestion financière](portfolio-management.md#financial-management) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Participer à un flux de travail](portfolio-management.md#participate-in-workflow) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Analyse et sélection de portefeuille](portfolio-management.md#portfolio-analytics-and-selection) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gestion de programmes](portfolio-management.md#program-management) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Feuille de route](portfolio-management.md#roadmap) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|**Création de rapports et aide à la décision** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Flux OData](reporting-and-business-intelligence.md#odata-feeds) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Tableaux de bord de portefeuille prêts à l'emploi](reporting-and-business-intelligence.md#out-of-the-box-portfolio-dashboards) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|[Rapports Project sur ordinateur de bureau](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|[Création de rapports chronologiques](reporting-and-business-intelligence.md#project-desktop-reporting) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|**Gestion des ressources** <br/> |**Project Online Essentials** <br/> |**Project Online Professionnel** <br/> |**Project Online Premium** <br/> |**Project Professionnel 2019** <br/> |**Project Server 2019** <br/> |
-|[Approuver/Rejeter/Modifier les demandes entrantes d'engagement de ressources](resource-management.md#approverejectmodify-incoming-resource-engagement-requests) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Gérer la liste des ressources](resource-management.md#manage-resource-pool) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Planifier la capacité des ressources](resource-management.md#plan-resource-capacity) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|[Demander les contrats des ressources](resource-management.md#request-resource-agreements) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Afficher les ressources disponibles et constituer des équipes](resource-management.md#view-available-resources-and-build-teams) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> L'intégration d'Active Directory inclut les utilisateurs de Project Online Essentials. Toutefois, un abonnement Project Online est nécessaire pour gérer l'intégration d'Active Directory. 
- <br/><sup>2</sup> Non disponible dans Project Online pour Office 365 géré par 21Vianet. 
- <br/><sup>3</sup> Seule l'extensibilité pour les scénarios de membre de l'équipe est prise en charge. 
+### <a name="project-online-desktop-client"></a>Client de bureau Project Online
+
+Le client de bureau Microsoft Project Online est un programme de gestion de projets qui offre des fonctionnalités de planification automatisée, de gestion des ressources de projet et de création de rapports. Le client de bureau Project online peut être utilisé comme une application autonome ou il peut se connecter à Project online. Le client de bureau Project Online est la version d’abonnement du client de bureau Project Online et est disponible dans les abonnements Project Online professionnel et Project Online Premium.
+
+### <a name="using-project-for-the-web-and-project-online-together"></a>Utilisation conjointe de Project pour le Web et Project Online
+
+Bien que Project pour le Web et Project Online soient des applications distinctes, vous pouvez les utiliser côte à côte. Vous pouvez voir tous vos projets dans les deux applications de la base de projets. Vous pouvez utiliser la feuille de route de projet pour créer des feuilles de route qui incluent des projets des deux applications. Vous pouvez utiliser Power BI et le projet pour le Pack de contenu Web Power BI pour obtenir des informations sur les projets et les ressources dans les deux applications. <sup>3</sup>
+
+Ce diagramme montre comment les applications peuvent travailler ensemble côte à côte.
+
+![Diagramme illustrant Project sur le Web et Project Online](../media/project-online-applications.png)
+
+À l’avenir, Microsoft sera centré sur Project pour les innovations Web. Toutefois, vous pouvez continuer à utiliser Project Online en toute confiance car elle continuera à recevoir des améliorations clés en matière de performances et de sécurité.
+
+## <a name="microsoft-project-subscriptions"></a>Abonnements Microsoft Project
+
+Microsoft Project est disponible par le biais de deux abonnements différents pour répondre au mieux aux besoins de votre organisation. Pour comparer les fonctionnalités entre les abonnements, consultez la rubrique [Feature Availability Across Applications and subscriptions](#feature-availability-across-applications-and-subscriptions).
+
+|Produit | Project Online Professional Professionnel | Project Online Premium |
+|--------|-----------------------------|------------------------|
+|Project pour le Web |**x x** |**x x**|
+|Project Online |**x x**|**x x x**|
+|Client de bureau Project Online |**x**|**x**|
+
+Dans le tableau ci-dessus, le nombre de contrôles (**x**) indique le niveau général des fonctionnalités fournies par un plan. Par exemple, pour Project Online, Project Online Premium offre davantage de fonctionnalités, puis Project Online professionnel.
+
+## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilité des fonctionnalités pour les applications et les abonnements
+
+### <a name="project-for-the-web-features"></a>Projet pour les fonctionnalités Web
+
+Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du projet pour le magasin de données Web. Toutes ces fonctionnalités sont disponibles dans Project Online professionnel et Project Online Premium.
+
+|Fonctionnalité | Description |
+|--------|-------------|
+|**Gestion du projet, des tâches et des heures**||
+|Vue de carte | Effectuez un suivi visuel des tâches de projet pour améliorer le flux de travail et la surveillance de l’État à l’aide de tableaux de tâches prédéfinis et personnalisés.|
+|Dépendances | Définir et suivre visuellement les dépendances entre les tâches.|
+|Affichage grille | Planifier et gérer des projets à l’aide d’une vue de grille hiérarchique des tâches.|
+|Jalons | Établir et suivre les principaux jalons de projet et de tâche.|
+|Accueil de projet | Obtenez un aperçu des projets sur lesquels vous avez travaillé récemment, ainsi que des projets importants que vous devez surveiller en détail.|
+|Planification des tâches | Utiliser les dates de début et de fin, les efforts, le travail et les dépendances de la tâche pour obtenir un calendrier précis des dates du projet.|
+|Affichage de la chronologie (diagramme de Gantt) | Suivre et comprendre visuellement les dates de projet, les dépendances et les affectations dans une vue de chronologie hiérarchique.|
+|Tâches récapitulatives | Planifier, gérer et suivre les livrables et les phases à l’aide de tâches récapitulatives.|
+|**Collaboration**||
+|Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup>|
+|**Gestion des ressources et des programmes**||
+|Configuration de l’équipe de projet | Gérer une équipe de projet en ajoutant et en supprimant des membres et en définissant le calendrier de travail.|
+|Feuilles de route | Créez des feuilles de route interactives et visuelles dans les projets à partir de Microsoft Project Online, de Microsoft Project pour le Web et des projets de forums Azure. <sup>2</sup>|
+|**Rapports**<sup>3</sup>||
+|Rapports prédéfinis | Utilisez des rapports prédéfinis pour comprendre les données de projet, de programme, de portefeuille et de ressources.|
+|Rapports personnalisés | Comprenez les données importantes pour votre organisation en générant des rapports personnalisés basés sur des rapports prédéfinis ou à partir de zéro.|
+|Tableaux de bord et portails | Créez des portails et des tableaux de bord personnalisés pour répondre aux besoins spécifiques de votre organisation.|
+|**Facilement**||
+|Co-création | Collaborez avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projets et bien plus encore.|
+|Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec des indicateurs graphiques. |
+|**Réduite**||
+|Applications mobiles | Créez des applications mobiles personnalisées avec les PowerApp. <sup>4</sup> |
+|**Personnalisation et intégration**||
+|PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles avec les PowerApp. <sup>4</sup> |
+|Flux de travail | Automatisez et intégrez les processus d’entreprise avec Microsoft Flow. <sup>5</sup> |
+|Intégration de Microsoft Office 365 | Collaborer, gérer des documents et utiliser des outils et applications Office 365 familiers. <sup>1</sup> |
+|**Gestion des utilisateurs et de la sécurité**||
+|Groupes modernes Office | Créez une équipe de projet pour collaborer et configurer facilement une collection de ressources que les membres de l’équipe partagent.|
+
+### <a name="project-online-features"></a>Fonctionnalités de Project Online
+
+Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du magasin de données SharePoint Online.
+
+|Fonctionnalité | Description | Project Online Professional Professionnel | Project Online Premium |
+|--------|-------------|-----------------------------|------------------------|
+|**Gestion du projet, des tâches et des heures**||||
+|Alertes et rappels | Restez informé de la planification des tâches à venir importantes et des événements de projet avec les rappels dans Outlook et Microsoft Teams. <sup>1</sup>| Oui | Oui |
+|Lignes | Définir des planifications de projet pour surveiller les performances actuelles par rapport aux performances passées à l’aide de Project Web App.| Oui | Oui |
+|Vue de carte | Suivez visuellement les tâches de projet pour améliorer le flux de travail et la surveillance de l’État. | Oui | Oui |
+|Chemin critique | Suivez visuellement les tâches qui représentent le chemin le plus long dans le projet à l’aide de Project Web App.| Oui | Oui |
+|Gestion des livrables | Suivre et gérer les livrables à l’aide des dates de début et de fin et de la planification automatisée.| Oui | Oui |
+|Dépendances | Définir et suivre visuellement les dépendances entre les tâches.| Oui | Oui |
+|Affichage Gantt | Suivre et comprendre visuellement les dates, les dépendances et les affectations d’un projet à l’aide de Project Web App.| Oui | Oui |
+|Affichage grille | Planifier et gérer des projets à l’aide d’une vue de grille hiérarchique des tâches à l’aide de Project Web App.| Oui | Oui |
+|Gestion des problèmes et des risques | Identifiez et effectuez le suivi des problèmes et des risques au niveau du projet et de la tâche.| Oui | Oui |
+|Projets maîtres  | Regroupez les projets connexes plus petits sous un seul projet principal à l’aide de Project Web App. | Oui | Oui |
+|Notifications | Restez informé des affectations de tâches, des États et des événements de projet importants avec des notifications Outlook et Teams. <sup>1</sup> | Oui | Oui |
+|Accueil de projet | Obtenez un aperçu des projets sur lesquels vous avez travaillé récemment, ainsi que des projets importants que vous devez surveiller en détail.| Oui | Oui |
+|Gestion des versions de projet | Comparez les différentes versions d’un projet avec un rapport qui indique ce qui a changé entre les versions. | Oui | Oui |
+|Tâches récapitulatives | Planifier, gérer et suivre les livrables et les phases à l’aide de tâches récapitulatives dans Project Web App. | Oui | Oui |
+|Planification des tâches | Utilisez les dates de début et de fin de la tâche, les efforts, le travail, les temps d’avance et de retard, ainsi que les dépendances pour obtenir un calendrier précis des dates de projet à l’aide de Project Web App. | Oui | Oui |
+|Mises à jour de tâches | Capturer le temps et l’état avec des commentaires sur les tâches de projet, le travail hors projet et le temps non travaillé. | Oui | Oui |
+|Chronologies | Suivre et comprendre visuellement les dates, les dépendances et les affectations d’un projet à l’aide de Project Web App. | Oui | Oui |
+|Feuilles de temps | Les membres de l’équipe peuvent entrer le temps et l’état des tâches, le travail hors projet et les périodes chômées. | Oui | Oui |
+|Approbations des feuilles de temps | Les membres de l’équipe peuvent envoyer des feuilles de temps pour approbation. Les responsables de ressources et les superviseurs peuvent consulter, approuver et décliner les feuilles de temps soumises. | Oui | Oui |
+|Configuration de l’heure hors travail | Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. | Non | Oui |
+|**Collaboration** ||||
+|Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
+|Membres de l’équipe externe |Collaborez avec des personnes en dehors de votre organisation en leur accordant l’accès à vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
+|Sites de projet | Créer et personnaliser un concentrateur pour la collaboration et les documents pour un projet. | Oui | Oui |
+Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
+|**Gestion de la demande** ||||
+|Configuration du flux de travail approbation de projet | Créez les flux de travail dont vous avez besoin pour évaluer, classer par priorité et approuver la demande entrante. | Non | Oui |
+|Création de formulaires de demande de projet | Capturez les données importantes relatives à la demande entrante afin de vous aider à évaluer et à hiérarchiser le nouveau travail. | Non | Oui |
+|Demandes de projet | Suivre, gérer, évaluer et hiérarchiser la demande entrante à partir de votre organisation et des clients et partenaires externes. | Oui | Oui |
+|**Gestion des ressources, des programmes et des portefeuilles** ||||
+|Coûts et budgétisation du projet | Comparez l’avancement et le budget planifiés avec le temps et les coûts réels à l’aide de Project Web App. | Oui | Oui |
+|Configuration de l’équipe de projet | Gérer une équipe de projet en ajoutant et en supprimant des membres, en définissant des niveaux de répartition et en ajoutant des membres externes. | Oui | Oui |
+|Affichages capacité des ressources | Effectuer le suivi et la gestion de la capacité des ressources au niveau du projet, de l’équipe et de l’organisation. | Oui | Oui |
+|Coût des ressources | Suivez et gérez les coûts des ressources de votre projet. | Oui | Oui |
+|Engagements de ressources (réservations) | Les responsables de projets peuvent soumettre des demandes de ressources par rôle, compétences ou nom. Les responsables de ressources peuvent consulter les demandes et affecter les meilleures ressources disponibles. |Oui<sup>7</sup> | Oui<sup>8</sup> |
+|Planification de la capacité des ressources | Effectuer le suivi et la gestion de la capacité des ressources au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
+|Feuilles de route | Créez des feuilles de route interactives et visuelles dans les projets à partir de Microsoft Project Online, de Microsoft Project pour le Web et des projets de forums Azure. <sup>2</sup> | Oui | Oui |
+|Analyse de portefeuille et définition des priorités | Identifiez, sélectionnez et proposez des portefeuilles de projets qui correspondent le mieux à la stratégie d’entreprise de votre organisation et optimisez votre retour sur investissement. | Non | Oui |
+|Tableaux de bord/portails | Comprendre l’État, la définition des priorités et bien plus encore au niveau des portefeuilles, des programmes, des projets, des tâches, des équipes et des ressources avec des tableaux de bord interactifs en temps réel. | Oui | Oui |
+|Work, generic, and material resources | Ajoutez des ressources à un projet, telles que des ressources professionnelles comme des personnes, des ressources génériques comme des charpentiers et des ressources matérielles comme des ordinateurs et du ciment. | Oui | Oui |
+|**Rapports**<sup>3</sup> ||||
+|Rapports prédéfinis | Utilisez des rapports prédéfinis pour comprendre les données de projet, de programme, de portefeuille et de ressources. | Oui | Oui |
+|Rapports personnalisés | Comprenez les données importantes pour votre organisation en générant des rapports personnalisés basés sur des rapports prédéfinis ou à partir de zéro. | Oui | Oui |
+|Tableaux de bord et portails | Créez des portails et des tableaux de bord personnalisés pour répondre aux besoins spécifiques de votre organisation. | Oui | Oui |
+|**Personnalisation et intégration**||||
+|Marque personnalisée | Personnalisez votre déploiement de projet à l’aide de votre propre marque, logo et couleurs. | Non | Oui |
+|Custom fields | Ajoutez des champs personnalisés au niveau du projet, de la tâche et des ressources pour effectuer le suivi des données importantes pour votre organisation et vos projets. | Oui | Oui |
+|Formules | Calculer et capturer des données importantes à l’aide de formules entre des tâches et des projets. | Oui | Oui |
+|PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles (via OData) avec les PowerApp. <sup>4</sup> | Oui | Oui |
+|Flux de travail | Automatisez et intégrez les processus d’entreprise (via OData) avec Microsoft Flow. <sup>5</sup> | Oui | Oui |
+|Intégration de Microsoft Office 365 | Collaborer, gérer des documents et utiliser des outils et applications Office 365 familiers. <sup>1</sup> | Oui | Oui |
+|Intégration du planificateur Microsoft | Connecter des tâches de projet à un plan de planificateur et suivre le travail détaillé dans le planificateur. <sup>1</sup> | Oui | Oui |
+|**Gestion de la sécurité, des utilisateurs et des services**||||
+|Active Directory integration | Créez des équipes à partir de n’importe quel membre de l’annuaire Active Directory de votre organisation. <sup>9</sup> | Oui | Oui |
+|Gestion des utilisateurs | Gérer les rôles et les autorisations des utilisateurs et des groupes au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
+|Administration des services | Planifiez, installez et configurez, gérez et étendez votre environnement Microsoft Project dans le cadre de votre environnement Office 365<sup>1</sup> .  | Non | Oui |
+
+#### <a name="notes"></a>Commentaires
+
+<sup>1</sup> nécessite un abonnement commercial Office ou Microsoft 365.</br>
+<sup>2</sup> cartes Azure acquises séparément.</br>
+<sup>3</sup> la création de rapports pour Project pour le Web et Project Online est disponible à l’aide de Power bi. L’affichage, la modification et la création de rapports nécessitent un abonnement Power BI Pro. Microsoft fournit un ensemble prédéfini de rapports Power BI. Les utilisateurs peuvent personnaliser ces rapports ou créer des rapports supplémentaires à l’aide de Power BI.</br> 
+<sup>4</sup> la création d’applications mobiles PowerApp personnalisées qui accèdent à Project pour les données Web nécessite un abonnement powerapps et un abonnement Project Online professionnel ou Project Online Premium.</br>
+<sup>5</sup> l’automatisation et l’intégration de processus d’entreprise avec Microsoft Flow avec Project pour les données Web nécessitent un abonnement de flux Microsoft et un abonnement Project Online professionnel ou Project Online Premium.</br>
+<sup>6</sup> la gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement Project online.</br>
+<sup>7</sup> les utilisateurs disposant d’un abonnement Project Online professionnel peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas consulter, combler ou approuver les demandes d’engagement de ressources.</br>
+<sup>8</sup> les utilisateurs disposant d’un abonnement Project Online Premium peuvent consulter, combler et approuver les demandes d’engagement de ressources.</br>
+<sup>9</sup> Active Directory nécessite un abonnement distinct. </br>
+
+### <a name="project-online-desktop-client-features"></a>Fonctionnalités de client de bureau Project Online
+
+|Fonctionnalité | Description |
+|--------|-------------|
+|**Gestion des projets et des tâches**||
+|Lignes | Définir des planifications de projet pour surveiller les performances actuelles par rapport aux performances passées. |
+|Mode Calendrier | Effectuez le suivi des délais et des échéances importants pour les projets et les tâches dans un affichage de calendrier hebdomadaire ou mensuel. |
+|Chemin critique | Suivez visuellement les tâches qui représentent le chemin le plus long dans le projet. |
+|Délais | Établir et suivre les échéances importantes du projet et de la tâche. |
+|Dépendances | Définir et suivre visuellement les dépendances entre les tâches. |
+|Affichage Gantt | Suivre et comprendre visuellement les dates, les dépendances et les affectations d’un projet dans un affichage Gantt hiérarchique. |
+|Affichage grille | Planifier et gérer des projets à l’aide d’une vue de grille hiérarchique des tâches. |
+|Projets maîtres  | Regroupez les projets connexes plus petits sous un seul projet principal. |
+|Jalons | Établir et suivre les principaux jalons de projet et de tâche. |
+|Diagramme de réseau | Affichez les tâches, les dépendances et le chemin critique de votre projet dans un affichage réseau de tâches. |
+|Planification des tâches | Utilisation des dates de début et de fin de la tâche, des efforts, du travail, des temps d’avance et de retard, ainsi que des dépendances pour obtenir un calendrier précis des dates de projet |
+|Planificateur d’équipe | Suivre l’allocation et la capacité de tous les membres de l’équipe du projet, y compris le travail hors projet et les périodes chômées.|
+|Chronologies | Suivez et comprenez visuellement les dates de projet, les dépendances et les affectations dans un affichage chronologie. |
+|Tâches inactives | Utiliser les tâches inactives pour suivre le travail sans affecter la disponibilité ou l’allocation des ressources et sans affecter la planification du projet. |
+|Tâches récapitulatives | Planifier, gérer et suivre les livrables et les phases à l’aide de tâches récapitulatives. |
+|Inspecteur de tâches | Affichez les facteurs qui influent sur la planification d’une tâche, tels que la modification de la date de début ou les messages d’erreur. |
+|Analyse du chemin des tâches | Visualisez la façon dont une tâche est associée à d'autres en surlignant la séquence des tâches tout au long du projet. |
+|**Gestion des ressources et de l’état financier**||
+|Audit des ressources | Résoudre les conflits de ressources ou les surutilisations en auditant automatiquement les affectations. |
+|Ressources de travail, générales et matérielles | Ajoutez des ressources à un projet, telles que des ressources professionnelles comme des personnes, des ressources génériques comme des charpentiers et des ressources matérielles comme des ordinateurs et du ciment. |
+|Coûts et budgétisation du projet | Comparez l’avancement et le budget planifiés au temps et au coût réels. |
+|Coût des ressources | Suivez et gérez les coûts des ressources de votre projet.|
+|**Rapports** ||
+|Rapports personnalisés | Créer des rapports personnalisés pour des projets, des programmes, des portefeuilles et des ressources. |
+|Rapports prédéfinis | Utilisez des rapports prédéfinis pour comprendre les données de projet, de programme, de portefeuille et de ressources. |
+|Sortie PDF et XPS | Enregistrez un fichier de projet au format PDF ou XPS. |
+|**Facilement**||
+|Saisie semi-automatique | Obtenir des suggestions pour les noms de tâches ou de ressources et les dépendances à mesure que vous tapez. |
+|Vues filtrées | Filtrer les plans de projet en n’importe quelle valeur dans le plan |
+|Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec des indicateurs graphiques. |
+|Annulation à plusieurs niveaux | Annulez plusieurs modifications en même temps à l’aide du menu **Annuler** . |
+|Tri et regroupement | Utilisez le tri et le regroupement personnalisés pour obtenir une vue prioritaire de votre projet, des tâches et des ressources.|
+|**Personnalisation et intégration**||
+|Champs personnalisés | Ajoutez des champs personnalisés au niveau du projet, de la tâche et des ressources pour effectuer le suivi des données importantes pour votre organisation et vos projets. |
+|Formulaires | Créez et déployez des formulaires personnalisés pour capturer des données de projet importantes. |
+|Formules | Calculer et capturer des données importantes à l’aide de formules entre des tâches et des projets. |
+|Modèles | Créez des modèles pour les projets courants, notamment les plans de projet, les équipes et les devoirs. |
+|importation/exportation. mpp | Créez de nouveaux projets à partir de fichiers. mpp existants ou créez un fichier. mpp d’un projet existant. |
+|Importation/exportation Excel | Créez de nouveaux projets à partir de fichiers Excel ou créez un fichier Excel d’un projet existant. |
+
+## <a name="service-considerations"></a>Considérations relatives aux services
+
+### <a name="licensing-considerations"></a>Remarques sur les licences
+
+- Toute interaction sur un site Project Online nécessite un abonnement Project online.
+- Lorsque votre dernier abonnement Project Online Professional ou Project Online Premium arrive à expiration, votre projet pour les instances Web et Project Online sera supprimé après 120 jours.
+- Pour Project pour les abonnements d’évaluation Project Online et Web, vos instances d’évaluation seront supprimées 30 jours après la fin de la période d’évaluation.
+
+### <a name="use-of-sharepoint-online"></a>Utilisation de SharePoint Online
+
+Project Online nécessite l’utilisation de SharePoint Online, qui est configuré pour vous dans le cadre de Project online. Les droits d’accès aux fonctionnalités SharePoint Online fournis avec Project Online professionnel ou Premium sont limités au stockage et à l’accès aux données pour prendre en charge Project online.
+
+### <a name="data-backup-and-retention"></a>Sauvegarde et rétention des données
+
+Project pour le Web et Project Online possèdent les mêmes stratégies de sauvegarde et de rétention des données que Office 365. Pour plus d’informations, consultez la rubrique relative à la [rétention, la suppression et la destruction des données dans Office 365](https://docs.microsoft.com/office365/Enterprise/office-365-data-retention-deletion-and-destruction-overview).
+
+### <a name="project-for-the-web-boundaries-and-limitations"></a>Projet pour les limites et limites du site Web
+
+Project pour le Web présente certaines limitations, décrites dans le tableau suivant.
+
+|Entité/champ | Limite |
+|-------------|-------|
+|**Tâche** ||
+|Max. niveau hiérarchique de la tâche | 10 niveaux |
+|Max. Liens (successeur + prédécesseur) d’une tâche | vingtaine |
+|Max. durée de la tâche terminal | 1250 jours |
+|Max. durée de la tâche récapitulative | 3650 jours (10 ans) |
+|Max. ressources pouvant être affectées à une tâche | 20 ressources |
+|Plage de dates prise en charge pour la tâche | 1/1/1984 &ndash; 12/31/2149 |
+|**Project** ||
+|Max. nombre total de tâches pour le projet | 500 |
+|Max. durée totale du projet | 3650 jours (10 ans) |
+|Max. nombre total de ressources pour le projet | 150 |
+|Max. nombre total de liens (successeur uniquement) pour le projet | 600 |
+
+### <a name="project-online-boundaries-and-limitations"></a>Limites et limites de Project Online
+
+Project Online présente certaines limitations. Pour plus d’informations, consultez la rubrique [Project Online : limites et frontières logicielles](https://support.office.com/article/5A09DBCE-1E68-4A7B-B099-D5F1B21BA489).

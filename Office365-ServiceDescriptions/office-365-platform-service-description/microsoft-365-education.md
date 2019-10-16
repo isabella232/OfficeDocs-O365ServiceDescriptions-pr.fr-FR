@@ -9,28 +9,28 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 09d91efc728184db881d328ce0e3d2c69159b348
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 6bfea07758698fa8cbbdafc06bfed96d2c9607bc
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776995"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523379"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
 Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux. 
   
-Microsoft 365 fournit un système complet, comprenant Office 365, Windows 10 et Enterprise Mobility et Security. Le tableau suivant répertorie les fonctionnalités Office 365 pour l'Éducation A1, A3 et A5, ainsi que les fonctionnalités correspondantes Microsoft 365 pour l'Éducation A3 et A5. Pour comparer les fonctionnalités Office 365 des différents plans pour entreprises, accédez à [Comparer les offres Office 365 pour entreprises](https://go.microsoft.com/fwlink/?linkid=799177) ou, pour une liste plus détaillée des fonctionnalités, consultez la description des services correspondants à l'adresse [Descriptions du service Office 365](https://go.microsoft.com/fwlink/?linkid=839510). Pour rechercher des articles et des informations d'aide, consultez [Aide et formation sur Office](https://support.office.com/).
+Microsoft 365 fournit un système complet, comprenant Office 365, Windows 10 et Enterprise Mobility et Security. Le tableau suivant répertorie les fonctionnalités Office 365 pour l'Éducation A1, A3 et A5, ainsi que les fonctionnalités correspondantes Microsoft 365 pour l'Éducation A3 et A5. Pour comparer les fonctionnalités Office 365 des différents plans pour entreprises, accédez à [Comparer les offres Office 365 pour entreprises](https://go.microsoft.com/fwlink/?linkid=799177) ou, pour une liste plus détaillée des fonctionnalités, consultez la description des services correspondants à l'adresse [Descriptions du service Office 365](../office-365-service-descriptions-technet-library.md). Pour rechercher des articles et des informations d'aide, consultez [Aide et formation sur Office](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Services et fonctionnalités
 
-Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant affiche les services disponibles dans chaque plan Office 365 et Microsoft 365 afin que vous puissiez choisir la solution répondant le mieux à vos besoins. Pour examiner les services et fonctionnalités Office 365 plus en détail, découvrez la description de service [Office 365 Éducation](https://technet.microsoft.com/EN-US/library/mt844095.aspx). 
+Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant affiche les services disponibles dans chaque plan Office 365 et Microsoft 365 afin que vous puissiez choisir la solution répondant le mieux à vos besoins. Pour examiner les services et fonctionnalités Office 365 plus en détail, découvrez la description de service [Office 365 Éducation](office-365-education.md).
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**Services** <br/> |**Office 365 Éducation A1** <br/> |**Office 365 Éducation A3** <br/> |**Office 365 Éducation A5** <br/> |**Microsoft 365 Éducation A3** <br/> |**Microsoft 365 Éducation A5** <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Office 365 ProPlus  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
 |SharePoint Online  <br/> |Oui<sup>3</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
@@ -106,7 +106,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme
 > <sup>8</sup> inclut Intune. <br/>
 > <sup>9</sup> les serveurs et les licences d’accès client sont inclus pour Exchange, SharePoint et Skype entreprise. <br/>
 > <sup>10</sup> ECAL ou licence d’accès client de base, en fonction de la version de a3 achetée, avec a5, les droits ECAL sont inclus. <br/>
-> <sup>11</sup> pour plus d’informations sur Azure Active Directory, consultez la rubrique [qu’est-ce qu’Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
+> <sup>11</sup> pour plus d’informations sur Azure Active Directory, consultez la rubrique [qu’est-ce qu’Active Directory ?](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-whatis). <br/>
 > <sup>12</sup> Office Pro plus est requis pour appliquer des protections et envoyer des courriers électroniques protégés à partir du Bureau Outlook. 
   
 

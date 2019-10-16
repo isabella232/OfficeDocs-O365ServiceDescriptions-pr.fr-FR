@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de collaboration et de communication de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online — pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998486"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523381"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
 Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de collaboration et de communication de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online — pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
   
-Cet article répertorie les fonctionnalités des plans Office 365 éducation (a1, a3 et a5). Pour comparer les fonctionnalités des différents plans commerciaux et d’entreprise, reportez-vous à la rubrique [compare Office 365 for business plans](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée à la rubrique [Office 365 service descriptions](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library).
+Cet article répertorie les fonctionnalités des plans Office 365 éducation (a1, a3 et a5). Pour comparer les fonctionnalités des différents plans commerciaux et d’entreprise, reportez-vous à la rubrique [compare Office 365 for business plans](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée à la rubrique [Office 365 service descriptions](../office-365-service-descriptions-technet-library.md).
   
 Pour rechercher des articles et des informations d'aide, consultez [Aide et formation sur Office](https://support.office.com/).
   
@@ -31,13 +31,13 @@ Chaque plan Office 365 éducation inclut un certain nombre de services individue
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 a5** <sup>3</sup> <br/> |
+|**Service** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 a5**<sup>3</sup> <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>5</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Skype Entreprise Online  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |
-|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Applications Office  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Project Online  <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |
 |Power BI  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
@@ -57,7 +57,7 @@ Pour connaître la configuration requise pour Office 365, reportez-vous à la ru
   
 ## <a name="service-level-agreement"></a>Contrat de niveau de service
 
-Pour plus d'informations sur les contrats de niveau de service, consultez la rubrique [Contrat de niveau de service](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement). Pour plus d'informations sur les temps de fonctionnement récents d'Office 365, consultez la rubrique [Opérations transparentes d'Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity).
+Pour plus d'informations sur les contrats de niveau de service, consultez la rubrique [Contrat de niveau de service](../office-365-platform-service-description/service-level-agreement.md). Pour plus d’informations sur les temps de passe récents pour Office 365, consultez la rubrique [dernières heures de disponibilité dans le monde entier](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes).
   
 ## <a name="platform-features"></a>Fonctionnalités de la plateforme 
 
@@ -66,7 +66,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Fonctionnalités d'administration d'Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
+|**[Fonctionnalités d'administration d'Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Administrer Office 365 à l’aide du centre d’administration 365 de Microsoft ou de Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -204,7 +204,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |[Présentation de la gestion de la sécurité avancée dans Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), telles que le filtrage du courrier électronique et anti-programme malveillant  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion avancée des menaces](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512), telle que l’Explorateur de menaces pour les campagnes de hameçonnage <sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |Non  <br/> |Non  <br/> |Oui  <br/> |
+|[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection contre la perte de données](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance des données](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -213,10 +213,10 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |[cas eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Exportation de la découverte électronique](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[conservations eDiscovery (y compris les conservations eDiscovery basées sur une requête)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Découverte électronique avancée](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20) <sup>4</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|[Archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Advanced eDiscovery](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|[Archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Stratégies de rétention/suppression manuelle](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Audit unifié](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Audit unifié](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |||||
    
 > [!NOTE]
@@ -302,12 +302,12 @@ Le tableau suivant fournit des liens vers des comparaisons d’Office pour les f
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office pour le Web** <br/> |**Créer un lien vers une comparaison détaillée des fonctionnalités** <br/> |
-|Word  <br/> |Word pour le Web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
-|Excel  <br/> |Excel pour le Web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
-|OneNote  <br/> |OneNote pour le Web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|PowerPoint  <br/> |PowerPoint pour le Web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio pour le Web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|**Application** <br/> |**Office pour le web** <br/> |**Créer un lien vers une comparaison détaillée des fonctionnalités** <br/> |
+|Word  <br/> |Word pour le web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
+|Excel  <br/> |Excel pour le web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
+|OneNote  <br/> |OneNote pour le web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|PowerPoint  <br/> |PowerPoint pour le web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
+|Visio  <br/> |Visio pour le web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Fonctionnalités d’Exchange Online 
 <a name="OfcOnline"> </a>
@@ -418,7 +418,7 @@ Le tableau suivant répertorie les fonctionnalités d’Exchange Online disponib
 |Accès à Windows PowerShell à distance  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Stratégies ActiveSync pour appareils mobiles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Rapports d'utilisation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Compléments Outlook et MAPI Outlook  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -805,7 +805,7 @@ Les limites suivantes s'appliquent à Microsoft Exchange ActiveSync, un protocol
 
 OneDrive entreprise (anciennement SkyDrive Pro) est un espace de stockage en ligne personnel dans le Cloud. Utilisez-le pour stocker vos fichiers professionnels sur plusieurs appareils avec facilité et sécurité. Partagez vos fichiers avec des collègues en fonction de vos besoins, et modifiez les documents Office en temps réel avec Office pour le Web. Synchronisez les fichiers sur votre ordinateur local à l’aide de l’application de synchronisation OneDrive entreprise.
   
-OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L’option OneDrive entreprise autonome inclut Office pour le Web. Pour en savoir plus, consultez la rubrique [qu’est-ce que OneDrive entreprise ?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
+OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L’option OneDrive entreprise autonome inclut Office pour le Web. Pour en savoir plus, consultez la rubrique [qu’est-ce que OneDrive entreprise ?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
   
 ### <a name="system-requirements"></a>Configuration requise
 
@@ -825,9 +825,9 @@ Les offres de qualification suivantes fournissent un espace de stockage OneDrive
     
 Vous ne pouvez pas allouer davantage de stockage à un utilisateur OneDrive spécifique. Toutefois, vous pouvez réduire la quantité de stockage qu’un utilisateur voit. Si un utilisateur d’Office 365 Enterprise F1 a besoin de plus de stockage, vous devez effectuer une mise à niveau vers Office 365 Enterprise E1.
   
-Pour plus d’informations sur les types de fichiers que vous ne pouvez pas ajouter à OneDrive entreprise, consultez [la rubrique types de fichiers qui ne peuvent pas être ajoutés à une liste ou une bibliothèque](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US).
+Pour plus d’informations sur les types de fichiers que vous ne pouvez pas ajouter à OneDrive entreprise, consultez [la rubrique types de fichiers qui ne peuvent pas être ajoutés à une liste ou une bibliothèque](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   
-OneDrive Entreprise est inclus dans SharePoint Online. Pour en savoir plus sur les limitations supplémentaires dans SharePoint Online, telles que les quotas de collection de sites, les limites de chargement de fichiers et les limites de stockage, voir limites [et frontières logicielles pour SharePoint Online](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498). 
+OneDrive Entreprise est inclus dans SharePoint Online. Pour en savoir plus sur les limitations supplémentaires dans SharePoint Online, telles que les quotas de collection de sites, les limites de chargement de fichiers et les limites de stockage, voir limites [et frontières logicielles pour SharePoint Online](../sharepoint-online-service-description/sharepoint-online-limits.md).
   
 ### <a name="subscription-plans"></a>Offres d’abonnement
 
@@ -1105,7 +1105,7 @@ Le tableau suivant indique les limites SharePoint pour chaque plan Office 365 é
 |Nombre d'utilisateurs.  <br/> |1 - 500 000<sup>6</sup> <br/> |1 - 500 000<sup>6</sup> <br/> |1 - 500 000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Vous pouvez acheter un volume illimité de stockage SharePoint Online supplémentaire. Consultez la rubrique [Modifier l'espace de stockage pour votre abonnement](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>2</sup> Nous vous recommandons de surveiller la Corbeille et de la vider régulièrement. L'espace de stockage qu'elle utilise fait partie de la limite totale de stockage de fichiers de l'organisation.<br/> 
+> <sup>1</sup> Vous pouvez acheter un volume illimité de stockage SharePoint Online supplémentaire. Consultez [la rubrique ajouter de l’espace de stockage pour votre abonnement](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). <br/> <sup>2</sup> Nous vous recommandons de surveiller la Corbeille et de la vider régulièrement. L'espace de stockage qu'elle utilise fait partie de la limite totale de stockage de fichiers de l'organisation.<br/> 
 <sup>3</sup> Lorsque vous possédez un abonnement Office 365 et un plan autonome SharePoint Online, les volumes de stockage sont additionnés.<br/> 
 <sup>4</sup> Les administrateurs de SharePoint Online peuvent définir des limites d'utilisation du stockage pour les sites et collections de sites.<br/> 
 <sup>5</sup> Les collections de sites OneDrive Entreprise créées pour chaque utilisateur sous licence ne sont pas comprises.<br/> 
@@ -1220,7 +1220,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype entreprise Online d
 |Messagerie vocale  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Plans d'appel dans Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (plan Appels nationaux, achat de module complémentaire requis)  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |
 |[Plans d'appel dans Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (plan Appels internationaux, achat de module complémentaire requis)  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |
-|[Crédits de consommation](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|[Crédits de communication](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Appels vocaux Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Sécurité et archivage](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Messagerie instantanée et chiffrement des données multimédias  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -1269,7 +1269,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
   
 #### <a name="peer-to-peer-limits"></a>Limites pair à pair
 
-- **Limite de transfert de fichiers** Taille maximale d'un fichier qui peut être transféré lors d'une conversation par messagerie instantanée dans Skype Entreprise Online. Pour connaître les types de fichiers dont le transfert est bloqué, consultez l'article du support Microsoft sur [l'envoi ou la réception de fichiers ou de pièces jointes dans Skype Entreprise Online](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o).
+- **Limite de transfert de fichiers** Taille maximale d'un fichier qui peut être transféré lors d'une conversation par messagerie instantanée dans Skype Entreprise Online. Pour connaître les types de fichiers dont le transfert est bloqué, consultez l'article du support Microsoft sur [l'envoi ou la réception de fichiers ou de pièces jointes dans Skype Entreprise Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **Limite des conversations ouvertes dans des onglets** Nombre maximal d'onglets de conversation qu'un utilisateur Skype Entreprise peut ouvrir en même temps. 
     
@@ -1330,4 +1330,3 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 
 Pour plus d’informations sur les limitations de minute dans Skype entreprise Online, consultez la rubrique [conditions d’utilisation des services RTC de Skype entreprise Online](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services).
   
-

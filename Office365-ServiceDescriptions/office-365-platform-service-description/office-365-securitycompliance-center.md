@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité Office 365 est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: bc255f5664281db3c7abf0f30bb1093c373760e4
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 6f522423fd635f08d6f752d345a6677372096a43
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334184"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523272"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -33,12 +33,12 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) comme le filtrage de la messagerie et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion avancée des menaces](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), telle que l’Explorateur de menaces pour les campagnes de hameçonnage<sup>6</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
+|[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup><br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Protection contre la perte de données pour les messages de conversation et de canal Microsoft teams](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/>|
-|Étiquettes de confidentialité<sup>10</sup> | Non <br/>| Non <br/> | Non <br/>| Oui <br/>| Oui <br/>| Non <br/> |
-|[Barrières des informations](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/>|
+|[Étiquettes de confidentialité](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Non <br/>| Non <br/> | Non <br/>| Oui <br/>| Oui <br/>| Non <br/> |
+|[Obstacles aux informations](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/>|
 |[Gouvernance des données](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Recherche de contenu](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -48,7 +48,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |[Découverte électronique avancée](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
 |[Audit unifié](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Stratégies de rétention manuelles](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Stratégies de rétention](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Non  <br/> |Non  <br/> |Oui<sup>11</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>11<br/> |
 |[Stratégies de surveillance](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 ||||||||
    
@@ -61,7 +61,8 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 <sup>7</sup> inclut les fichiers stockés dans les référentiels Microsoft Teams.<br/>
 <sup>8</sup> vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié. <br/>
 <sup>9</sup> un complément DLP peut être ajouté à n’importe quel SKU qui a soit Exchange, soit SharePoint/OneDrive.<br/>
-<sup>10</sup> les étiquettes de confidentialité sont également incluses dans Azure information protection P1 et P2.
+<sup>10</sup> les étiquettes de confidentialité sont également incluses dans Azure information protection P1 et P2.<br/>
+<sup>11</sup> une licence Exchange Online plan 2 est requise pour appliquer une stratégie de rétention à une boîte aux lettres d’utilisateur. 
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
@@ -72,11 +73,11 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des menaces](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security), telles que le filtrage du courrier électronique et anti-programme malveillant  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion avancée des menaces](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), telle que l’Explorateur de menaces pour les campagnes de hameçonnage  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Customer Lockbox](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui <sup>7<sup> <br/> |Non  <br/> |Oui  <br/> |
 |[Protection contre la perte de données pour les messages de conversation et de canal Microsoft teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Barrières des informations](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|[Obstacles aux informations](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Gouvernance des données](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Recherche de contenu](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -86,7 +87,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |[Découverte électronique avancée](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[Audit unifié](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/>
-|[Stratégies de rétention manuelles](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Stratégies de rétention](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Stratégies de surveillance](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |||||||||
    

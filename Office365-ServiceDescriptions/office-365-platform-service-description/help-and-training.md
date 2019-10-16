@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
-ms.openlocfilehash: 7d9769074cea9d9c26eb176183aff6e85ad57000
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 8bd0fbb57d7555514f6aa58c8e1b95740d852f79
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130898"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523412"
 ---
 # <a name="help-and-training"></a>Aide et formation
 
@@ -88,17 +88,17 @@ La communauté Office 365 est une destination unique pour obtenir des informatio
     
 - **Blogs** Le blog technique Office 365 constitue un excellent moyen d'obtenir des informations actualisées sur les services en ligne Office 365 et de découvrir les avantages des fonctionnalités et fonctions Office 365. Les sujets abordés incluent des présentations de produits, des annonces de nouveaux produits, des interviews de clients et des blogs créés par des utilisateurs. 
     
-Pour plus d'informations, visitez la [Communauté Office 365](https://go.microsoft.com/fwlink/?LinkId=272057).
+Pour plus d'informations, visitez la [Communauté Office 365](https://techcommunity.microsoft.com/).
   
-## <a name="office-365-techcenter"></a>TechCenter Office 365
+## <a name="manage-office-365-guidance"></a>Aide à la gestion d’Office 365
 
-Les professionnels de l'informatique travaillant au sein de grandes organisations peuvent accéder au TechCenter Office 365 sur TechNet. Le TechCenter Office 365 fournit des instructions de déploiement complexe destinées aux grandes organisations.
+Les professionnels de l’informatique de grandes organisations peuvent consulter la page d’accueil de la documentation Office 365. Cette page fournit des liens vers des instructions de déploiement complexes destinées aux grandes entreprises.
   
-Pour plus d'informations, visitez le [TechCenter Office 365](https://go.microsoft.com/fwlink/?LinkId=272058).
+Pour plus d’informations, consultez la site [Manage Office 365](https://docs.microsoft.com/Office365/).
   
 ## <a name="other-self-help-resources"></a>Autres ressources d'aide autonome
 
-Outre la communauté Office 365 et l'aide en ligne, Office 365 propose les ressources d'aide sans assistance suivantes :
+En plus de l’aide en ligne et de la communauté Office 365, Office 365 inclut les ressources d’aide automatique suivantes :
   
 - **Outil de dépannage pour Office 365** Une fois que vous avez répondu à quelques brèves questions concernant votre problème, l'outil de dépannage pour Office 365 vous recommande des outils et des informations utiles en fonction de vos réponses. Pour utiliser cet outil, accédez à la page [Outil de dépannage pour Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) de la communauté Office 365. 
     
@@ -149,6 +149,4 @@ Les ressources d'aide et de formation sont disponibles dans les langues suivante
    
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités selon les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
-  
-
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).

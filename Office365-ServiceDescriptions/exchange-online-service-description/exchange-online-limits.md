@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 5e804bdb93ac7f2e001879e6f0555330f7425ff3
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442689"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523449"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -346,23 +346,27 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Limite de débit de destinataires|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
+|Limite de taux de destinataires<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
 |Nombre maximal de destinataires|500 destinataires|500 destinataires|500 destinataires|500 destinataires|500 destinataires|500 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|400|400|
-|Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
+|Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
+
+> [!NOTE]
+> <sup>1</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5 000 à 09:00 AM, puis envoie un autre message aux destinataires 2 500 à 10:00, puis envoie un autre message à 2 500 destinataires à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites d’envoi dans les options autonomes
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
-|Limite de débit de destinataires|Aucune limite<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
+|Limite de débit de destinataires|Aucune limite<sup>1</sup>|10 000 destinataires par jour<sup>2</sup>|10 000 destinataires par jour<sup>2</sup>|10 000 destinataires par jour<sup>2</sup>|
 |Nombre maximal de destinataires|500 destinataires<sup>1</sup>|500 destinataires|500 destinataires|500 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|
-|Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
+|Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
-> <sup>1</sup> Ceci est la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation.
+> <sup>1</sup> Ceci est la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation.<br/>
+<sup>2</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5 000 à 09:00 AM, puis envoie un autre message aux destinataires 2 500 à 10:00, puis envoie un autre message à 2 500 destinataires à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
 
 ## <a name="reporting-and-message-trace-limits"></a>Limites de création de rapports et de suivi de messages
 
@@ -397,7 +401,7 @@ Ces limites contrôlent la durée pendant laquelle les éléments situés dans d
 |**Fonctionnalité**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Période de rétention du dossier Éléments supprimés|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|
 |Période de rétention pour les éléments supprimés du dossier Éléments supprimés|14 jours<sup>1</sup>|14 jours<sup>2</sup>|14 jours<sup>2</sup>|14 jours<sup>2</sup>|
-|Période de rétention du dossier Courrier indésirable|2 ans<sup>1</sup>|30 jours|30 jours|30 jours|
+|Période de rétention du dossier Courrier indésirable|2 ans<sup>1</sup>|30 jours|30 jours|30 jours|
 
 > [!NOTE]
 > <sup>1</sup> Il s'agit de la limite par défaut. Les administrateurs peuvent modifier cette valeur pour leur organisation.<br/> <sup>2</sup> Ceci est la valeur par défaut pour les organisations Exchange Online. Les administrateurs peuvent porter cette valeur à un maximum de 30 jours pour les boîtes aux lettres de leur organisation.
@@ -418,7 +422,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Nombre maximal de membres d’un groupe de distribution<sup>1</sup>|100 000 membres|100 000 membres|100 000 membres|100 000 membres|100 000 membres|100 000 membres|
-|Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
+|Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
 |Taille maximale de message pour les groupes de distribution contenant entre 5000 et 99 999 membres|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 |Taille de message maximal pour groupes de distribution avec 100 000 membres|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|
 |Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |10 |10 |
@@ -474,8 +478,8 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 |Limites d’analyse pour le contenu des pièces jointes|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|
 |Nombre maximal de destinataires ajoutés à un message par l’ensemble des règles de transport|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|
 |Limite des destinataires de transfert|10 destinataires|10 destinataires|10 destinataires|10 destinataires|10 destinataires|10 destinataires|
-|Nombre de fois qu’un message est redirigé|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
-|Nombre de fois qu’un message est redirigé par les règles de transport|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé par les règles de transport|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limites concernant les règles de journal, de transport et de boîte de réception parmi les options autonomes
 
@@ -486,8 +490,8 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 |Nombre maximal de règles de transport|Sans limite|300 règles|300 règles|300 règles|
 |Taille maximale d’une règle de transport|40 Ko|8 Ko|8 Ko|8 Ko|
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport|Sans limite|20 Ko|20 Ko|20 Ko|
-|Nombre maximal de destinataires ajoutés à un message par l’ensemble des règles de transport|Sans limite|100 destinataires|100 destinataires|100 destinataires|
-|Limite des destinataires de transfert|Aucune limite|10 destinataires|10 destinataires|10 destinataires|
+|Nombre maximal de destinataires ajoutés à un message par l’ensemble des règles de transport|Aucune limite|100 destinataires|100 destinataires|100 destinataires|
+|Limite des destinataires de transfert|Sans limite|10 destinataires|10 destinataires|10 destinataires|
 |Nombre de fois qu’un message est redirigé|3 redirections|1 redirection|1 redirection|1 redirection|
 |Nombre de fois qu’un message est redirigé par les règles de transport|Sans limite|1 redirection|1 redirection|1 redirection|
 
@@ -510,7 +514,7 @@ Pendant les périodes d'utilisation intensive, certains expéditeurs risquent de
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Taille maximale de la boîte aux lettres d'arbitrage|10 Go|10 Go|10 Go|10 Go|10 Go|10 Go|
+|Taille maximale de la boîte aux lettres d’arbitrage|10 Go|10 Go|10 Go|10 Go|10 Go|10 Go|
 |Nombre maximal de modérateurs|10 modérateurs|10 modérateurs|10 modérateurs|10 modérateurs|10 modérateurs|10 modérateurs|
 |Expiration des messages en attente de modération|2 jours|2 jours|2 jours|2 jours|2 jours|2 jours|
 |Débit maximal de messages de notification d’expiration du délai de modération|300 notifications d’expiration par heure|300 notifications d'expiration par heure|300 notifications d'expiration par heure|300 notifications d'expiration par heure|300 notifications d'expiration par heure|300 notifications d'expiration par heure|
