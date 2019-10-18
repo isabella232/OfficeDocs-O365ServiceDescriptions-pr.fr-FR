@@ -27,7 +27,7 @@ OneDrive est un espace de stockage en ligne dans le cloud fourni pour les utilis
   
 OneDrive est inclus dans les offres Microsoft 365, Office 365 et SharePoint Online. Vous pouvez également l’acheter séparément. 
     
-Pour comparer les offres, consultez les pages de [comparaison des offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?linkid=799177) et de [comparaison des offres OneDrive Entreprise](https://products.office.com/fr-FR/onedrive-for-business/compare-onedrive-for-business-plans). 
+Pour comparer les offres, consultez les pages de [comparaison des offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?linkid=799177) et de [comparaison des offres OneDrive Entreprise](https://products.office.com/en-us/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Les offres OneDrive Entreprise autonomes incluent Office pour le web. 
