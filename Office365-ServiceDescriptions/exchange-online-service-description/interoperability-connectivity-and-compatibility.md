@@ -11,24 +11,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776795"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581830"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interopérabilité, connectivité et compatibilité
 
 ## <a name="interoperability-with-other-microsoft-products"></a>Interopérabilité avec d'autres produits Microsoft
 
-### <a name="skype-for-business-online"></a>Skype Entreprise Online
+### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
 Pour les clients qui ont déployé Microsoft Lync Server 2010, Lync Server 2013 ou Microsoft Office Communications Server 2007 R2 local, Microsoft Office Communicator peut se connecter à Microsoft Exchange Online à l'aide des services web Exchange afin d'accéder aux messages de notification d'absence du bureau et aux données de calendrier.
   
 Lync Server 2010 et Lync Server 2013 sur site peuvent interagir avec Exchange Online de deux façons supplémentaires :
   
-- Interopérabilité des informations de présence et de messagerie instantanée dans Outlook Web App
+- Interopérabilité de la messagerie instantanée et de la présence dans Outlook sur le Web
     
 - Interopérabilité de la messagerie vocale
     
@@ -50,7 +50,7 @@ Exchange Online offre les fonctionnalités suivantes permettant d'établir une c
     
 ### <a name="exchange-web-services"></a>Services Web Exchange
 
-Les services Web Exchange (EWS) constituent l'API de développement privilégiée pour Exchange Server et Exchange Online. Grâce à EWS ou à l'API gérée EWS, les administrateurs peuvent accéder aux données stockées avec Exchange Online à partir d'applications exécutées sur site dans Azure ou dans d'autres services hébergés. EWS permet aux administrateurs d'effectuer des actions spécialisées, par exemple interroger le contenu d'une boîte aux lettres, publier un événement de calendrier, créer une tâche ou déclencher une action spécifique en fonction du contenu d'un e-mail. Exchange Online active la fonctionnalité EWS en octroyant des autorisations d'application aux comptes clients. Ces autorisations permettent à l'application cliente d'accéder à la boîte aux lettres de l'application et d'ajouter du contenu. L'emprunt d'identité Exchange est une méthode utilisée pour accorder des autorisations d'application. Pour plus d'informations sur la façon d'utiliser les services Web Exchange avec Exchange Online, consultez les articles techniques du Centre pour développeurs Exchange Online.
+Les services Web Exchange (EWS) constituent l'API de développement privilégiée pour Exchange Server et Exchange Online. Grâce à EWS ou à l'API gérée EWS, les administrateurs peuvent accéder aux données stockées avec Exchange Online à partir d'applications exécutées sur site dans Azure ou dans d'autres services hébergés. EWS permet aux administrateurs d’effectuer des actions spécialisées, telles que l’interrogation du contenu d’une boîte aux lettres, la publication d’un événement de calendrier, la création d’une tâche ou le déclenchement d’une action spécifique basée sur le contenu d’un message électronique. Exchange Online active la fonctionnalité EWS en octroyant des autorisations d'application aux comptes clients. Ces autorisations permettent à l'application cliente d'accéder à la boîte aux lettres de l'application et d'ajouter du contenu. L'emprunt d'identité Exchange est une méthode utilisée pour accorder des autorisations d'application. Pour plus d'informations sur la façon d'utiliser les services Web Exchange avec Exchange Online, consultez les articles techniques du Centre pour développeurs Exchange Online.
   
 ### <a name="smtp-relay"></a>Relais SMTP
 
@@ -58,6 +58,6 @@ Exchange Online peut être configuré comme un service de remise SMTP pour relay
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
 

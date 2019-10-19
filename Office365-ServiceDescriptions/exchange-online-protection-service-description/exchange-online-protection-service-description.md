@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
-description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Cet article fournit la liste des plans qui incluent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités disponibles dans ces plans.
-ms.openlocfilehash: bc95415e4f348c326b36f300b39df3fe87f7e282
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
+ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334144"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581910"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service de protection Exchange Online
 
-Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Cet article fournit la liste des plans qui incluent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités disponibles dans ces plans.
+Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
 
 Microsoft Exchange Online Protection (EOP) est un service de filtrage du courrier électronique dans le nuage, qui contribue à protéger votre organisation contre le courrier indésirable et les logiciels malveillants, ainsi que contre les violations de politique de messagerie. EOP peut simplifier la gestion de votre environnement de messagerie et alléger bon nombre des tâches liées à la maintenance du matériel et des logiciels locaux.
 

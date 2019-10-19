@@ -1,5 +1,5 @@
 ---
-title: Limites d’Exchange Online
+title: Limites d’Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 9485753dca545eda8e1407e69bedf58c3e113cc5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523449"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581930"
 ---
-# <a name="exchange-online-limits"></a>Limites d’Exchange Online
+# <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
 Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
 
@@ -48,7 +48,7 @@ Les limites dans Microsoft Exchange Online peuvent être classées dans l'une de
 
 - [Limites concernant les groupes de distribution](#distribution-group-limits)
 
-- [Limites concernant les règles de journal, de transport et de boîte de réception](#journal-transport-and-inbox-rule-limits)
+- [Limites des règles de journal, de transport et de boîte de réception](#journal-transport-and-inbox-rule-limits)
 
 - [Limites de modération](#moderation-limits)
 
@@ -251,7 +251,7 @@ Les limites suivantes s'appliquent à chaque message électronique.
 - **Taille limite des pièces jointes**: taille de fichier maximale d’une seule pièce jointe.
 
     > [!NOTE]
-    > Il s'agit de la taille maximale d'une seule pièce jointe. Il est possible que certains programmes clients, dont Outlook Web App, limitent la taille des pièces jointes en dessous de ce maximum. Exchange ActiveSync n'implémente pas de limite de taille pour une pièce jointe individuelle. La taille totale de toutes les pièces jointes d'un message Exchange ActiveSync doit être inférieure à la limite de taille des messages.
+    > Il s'agit de la taille maximale d'une seule pièce jointe. Les programmes clients individuels, y compris Outlook sur le Web, peuvent limiter la taille des pièces jointes inférieures à ce maximum. Exchange ActiveSync n'implémente pas de limite de taille pour une pièce jointe individuelle. La taille totale de toutes les pièces jointes d'un message Exchange ActiveSync doit être inférieure à la limite de taille des messages.
 
 - **Limite de message en plusieurs**parties : nombre maximal de parties de corps de message autorisées dans un message MIME en plusieurs parties. Cette limite contrôle également le nombre maximal de fichiers en pièce jointe autorisés dans un message.
 
@@ -268,7 +268,7 @@ Les limites suivantes s'appliquent à chaque message électronique.
 |Limite de taille des messages - Migration|150 Mo <sup>1, 4</sup>|150 Mo <sup>1, 4</sup>|150 Mo <sup>1, 4</sup>|150 Mo <sup>1, 4</sup>|150 Mo <sup>1, 4</sup>|150 Mo <sup>1, 4</sup>|
 |Limite de taille des messages-Outlook pour iOS et Android | 33 MO| 33 MO| 33 MO| 33 MO| 33 MO| 33 MO|
 |Limite de taille pour les messages chiffrés (pour les abonnés utilisant le chiffrement de messages Office 365 avec les nouvelles fonctionnalités)<sup>5</sup>|150 Mo|150 Mo|150 Mo|150 Mo|150 Mo|150 Mo|
-|Limite de taille pour les messages chiffrés (pour les abonnés utilisant la version héritée du chiffrement de messages Office 365)<sup>5</sup>|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
+|Limite de taille pour les messages chiffrés (pour les abonnés utilisant la version héritée du chiffrement de messages Office 365)<sup>5</sup>|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 |Limite de longueur de l’objet|255 caractères|255 caractères|255 caractères|255 caractères|255 caractères|255 caractères|
 |Limite du nombre de pièces jointes|250 pièces jointes|250 pièces jointes|250 pièces jointes|250 pièces jointes|250 pièces jointes|250 pièces jointes|
 |Limite de taille des pièces jointes - Outlook|150 Mo|150 Mo|150 Mo|150 Mo|150 Mo|150 Mo|
@@ -389,7 +389,7 @@ Ces limites contrôlent la durée pendant laquelle les éléments situés dans d
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Période de rétention du dossier Éléments supprimés|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|Aucune limite<sup>1</sup>|
 |Période de rétention pour les éléments supprimés du dossier Éléments supprimés|14 jours<sup>1</sup>|14 jours<sup>1</sup>|14 jours<sup>1</sup>|14 jours<sup>1</sup>|14 jours<sup>1</sup>|14 jours<sup>1</sup>|
-|Période de rétention du dossier Courrier indésirable|30 jours|30 jours|30 jours|30 jours|30 jours|30 jours|
+|Période de rétention du dossier Courrier indésirable|30 jours|30 jours|30 jours|30 jours|30 jours|30 jours|
 
 > [!NOTE]
 > <sup>1</sup>Il s’agit de la valeur par défaut pour les organisations Office 365. Les administrateurs peuvent porter cette valeur à un maximum de 30 jours pour les boîtes aux lettres de leur organisation.
@@ -425,7 +425,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
 |Taille maximale de message pour les groupes de distribution contenant entre 5000 et 99 999 membres|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 |Taille de message maximal pour groupes de distribution avec 100 000 membres|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|
-|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |10 |10 |
+|Nombre maximal de propriétaires de groupe de distribution|10|10|10|10|10|10|
 |Nombre maximal de groupes qu’un utilisateur peut créer|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -436,17 +436,17 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
-|Nombre maximal de membres d’un groupe de distribution|100 000 membres<sup>1</sup>|100 000 membres|100 000 membres|100 000 membres|
+|Nombre maximal de membres d’un groupe de distribution|100 000 membres<sup>1</sup>|100 000 membres|100 000 membres|100 000 membres|
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus<sup>1</sup>|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
-|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |
+|Nombre maximal de propriétaires de groupe de distribution|10|10|10|10|
 |Nombre maximal de groupes qu’un utilisateur peut créer|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
 > <sup>1</sup> Ceci est la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation. <br/> <sup>2</sup> Cette limite s’applique également aux administrateurs.
 
-## <a name="journal-transport-and-inbox-rule-limits"></a>Limites concernant les règles de journal, transport et de boîte de réception 
+## <a name="journal-transport-and-inbox-rule-limits"></a>Limites concernant les règles de journal, de transport et de boîte de réception
 
-La liste suivante comprend les limites qui s'appliquent aux règles de journal, aux règles de transport, également appelées règles à l'échelle de l'organisation, ainsi que les limites qui s'appliquent aux règles de boîte de réception. Les règles de boîte de réception sont mises en place par des utilisateurs individuels et appliquées aux messages envoyés et reçus par la boîte aux lettres de l'utilisateur individuel.
+La liste suivante inclut les limites qui s’appliquent aux règles de journal, aux règles de transport (également appelées règles à l’échelle de l’organisation) et aux limites qui s’appliquent aux règles de boîte de réception. Les règles de boîte de réception sont mises en place par des utilisateurs individuels et appliquées aux messages envoyés et reçus par la boîte aux lettres de l'utilisateur individuel.
 
 - **Nombre maximal de règles de journal** Nombre maximal de règles de journal qui peuvent exister dans l'organisation.
 
@@ -456,7 +456,7 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 
 - **Limite du nombre de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport** Nombre total de caractères utilisés par l'ensemble des expressions régulières dans toutes les conditions et exceptions des règles de transport au sein de l'organisation. Il arrive qu'un petit nombre de règles utilisent des expressions régulières longues et complexes, ou qu'un grand nombre de règles utilisent des expressions régulières simples.
 
-- **Limites d'analyse pour le contenu des pièces jointes** Les conditions de la règle de transport vous permettent d'examiner le contenu des pièces jointes du message, mais seul le premier Mo du texte extrait d'une pièce jointe est inspecté. Cette limite de 1 Mo porte sur le texte extrait de la pièce jointe, pas sur la taille du fichier en pièce jointe. Par exemple, un fichier de 1 Mo peut contenir moins de 2 Mo de texte, auquel cas l'ensemble du texte sera examiné.
+- **Limites d’analyse pour le contenu des pièces jointes** Les conditions de règle de transport vous permettent d’examiner le contenu des pièces jointes des messages, mais seuls les premiers 1 Mo du texte extrait d’une pièce jointe sont inspectés. Cette limite de 1 Mo porte sur le texte extrait de la pièce jointe, pas sur la taille du fichier en pièce jointe. Par exemple, un fichier de 1 Mo peut contenir moins de 2 Mo de texte, auquel cas l'ensemble du texte sera examiné.
 
 - **Nombre maximal de destinataires ajoutés à un message par l'ensemble des règles de transport** Quand un message est traité par différentes règles de transport, seul un nombre déterminé de destinataires peuvent être ajoutés au message. Une fois la limite atteinte, les destinataires restants ne sont pas ajoutés au message. De plus, une règle de transport ne peut pas ajouter de groupes de distribution à un message.
 
@@ -466,7 +466,7 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 
 - **Nombre de fois qu’un message est redirigé par les règles de transport** Nombre de fois qu’un message est redirigé en fonction des règles de transport. Par exemple, l’organisation Exchange Tailspin Toys dispose d’une règle de transport pour rediriger chaque message envoyé à l’utilisateur A vers l’utilisateur B, qui se trouve dans l’organisation Exchange contoso. Dans l’organisation Exchange Contoso, une règle de transport est mise en place pour rediriger chaque message envoyé à l’utilisateur B vers l’utilisateur C, qui se trouve dans l’organisation Exchange A. Datum Corporation. Dans ce cas, le message est supprimé et une notification d’échec de remise (NDR) avec un code d’État et un message de rejet *550 5.7.128. Gestion. RejectMessage Nombre de boucles de règles de transport dépassées et message rejeté* est envoyé à l’utilisateur a. Nous utilisons l’en-tête X-MS-Exchange-transport-Rules-Loop pour déterminer le nombre de fois qu’un message a été redirigé par des règles de transport. Cet en-tête reste également à l’échelle de l’organisation Exchange.
 
-### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Limites concernant les règles de journal, de transport et de boîte de réception parmi les options Office 365
+### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Limites des règles de journal, de transport et de boîte de réception parmi les options Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -478,10 +478,10 @@ La liste suivante comprend les limites qui s'appliquent aux règles de journal, 
 |Limites d’analyse pour le contenu des pièces jointes|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|
 |Nombre maximal de destinataires ajoutés à un message par l’ensemble des règles de transport|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|
 |Limite des destinataires de transfert|10 destinataires|10 destinataires|10 destinataires|10 destinataires|10 destinataires|10 destinataires|
-|Nombre de fois qu’un message est redirigé|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
-|Nombre de fois qu’un message est redirigé par les règles de transport|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
+|Nombre de fois qu’un message est redirigé par les règles de transport|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|1 redirection|
 
-### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limites concernant les règles de journal, de transport et de boîte de réception parmi les options autonomes
+### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Limites des règles de journal, de transport et de boîte de réception parmi les options autonomes
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

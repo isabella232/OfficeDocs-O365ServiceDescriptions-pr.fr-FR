@@ -1,5 +1,5 @@
 ---
-title: Gestion des destinataires, des domaines et des entreprises
+title: Gestion des destinataires, des domaines et des sociétés
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) offre plusieurs moyens de gérer les informations concernant les destinataires, les domaines et les entreprises. En tant qu’administrateur, vous pouvez effectuer certaines tâches de gestion dans le centre d’administration Exchange et vérifier les autres tâches de gestion effectuées dans le centre d’administration 365 de Microsoft.
-ms.openlocfilehash: 8cab1137f31917aaae5e10fb116601dabd7fb43b
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 84be0148636b4e345f59158af0a767e9cd2396c7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442719"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581840"
 ---
-# <a name="recipient-domain-and-company-management"></a>Gestion des destinataires, des domaines et des entreprises
+# <a name="recipient-domain-and-company-management"></a>Gestion des destinataires, des domaines et des sociétés
 
 Microsoft Exchange Online Protection (EOP) offre plusieurs moyens de gérer les informations concernant les destinataires, les domaines et les entreprises. En tant qu’administrateur, vous pouvez effectuer certaines tâches de gestion dans le centre d’administration Exchange et vérifier les autres tâches de gestion effectuées dans le centre d’administration 365 de Microsoft.
   
@@ -49,4 +49,4 @@ L'activation de DBEB nécessite une configuration utilisateur et une configurati
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).

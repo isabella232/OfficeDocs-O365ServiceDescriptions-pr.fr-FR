@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 97f2872dd1aa56f99058dabad167422a0d507fa8
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4fd3b239b1cbc433b90b4aa44407f31b18698717
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777366"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582090"
 ---
 # <a name="product-use-rights"></a>Droits d'utilisation de logiciels
 
@@ -28,12 +28,12 @@ Si vous respectez votre Contrat d'abonnement à Microsoft Online, vous pouvez ut
 
 Consultez le [contrat standard pour les services en ligne](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) et les [conditions d'utilisation](http://www.21vbluecloud.com/office365/O365-TOU/).
   
-## <a name="licensing"></a>Licences
+## <a name="licensing"></a>Licence
 
 Pour en savoir plus sur les programmes de licences de votre organisation, consultez la page relative à la [gestion des licences en volume](https://go.microsoft.com/fwlink/?LinkId=393693).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
   
 

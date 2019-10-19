@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: 6bbbd34e080a88f0936d612aba834f854985af19
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442619"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582130"
 ---
 # <a name="recipients"></a>Destinataires
 
@@ -42,7 +42,7 @@ Les infos-courrier sont des messages automatiques et informatifs qui apparaissen
   
 ### <a name="delegate-access"></a>Accès délégué
 
-Exchange Online prend en charge l'accès délégué : il s'agit de la possibilité qu'ont des utilisateurs de permettre à d'autres de gérer leur messagerie électronique et calendriers. L'accès délégué s'utilise habituellement entre un gestionnaire et un assistant, où l'assistant traite les messages électroniques entrants du gestionnaire et coordonne le planning de ce dernier. L'accès délégué peut être activé par les utilisateurs d'Exchange Online dans Outlook ou Outlook Web App, ou par les administrateurs dans le Centre d'administration Exchange. 
+Exchange Online prend en charge l'accès délégué : il s'agit de la possibilité qu'ont des utilisateurs de permettre à d'autres de gérer leur messagerie électronique et calendriers. L'accès délégué s'utilise habituellement entre un gestionnaire et un assistant, où l'assistant traite les messages électroniques entrants du gestionnaire et coordonne le planning de ce dernier. L’accès délégué peut être activé par les utilisateurs d’Exchange Online dans Outlook ou Outlook sur le Web, ou par les administrateurs dans le centre d’administration Exchange. 
   
 Les délégués peuvent avoir deux types d'accès :
   
@@ -54,7 +54,7 @@ Pour plus d'informations sur la délégation d'accès, voir [Gestion des autoris
   
 ### <a name="inbox-rules"></a>Règles de la boîte de réception
 
-Exchange Online autorise des utilisateurs à créer des règles de boîte de réception qui exécutent automatiquement des actions spécifiques fondées sur des critères sur les messages à mesure qu'ils arrivent. Par exemple, il est possible de créer une règle pour que tout le courrier électronique envoyé à un certain groupe de distribution soit automatiquement déplacé vers un dossier spécifique. Les utilisateurs gèrent des règles de boîte de réception à partir d'Outlook ou d'Outlook Web App. Les administrateurs ont la possibilité de bloquer certains types de règles de boîte de réception en désactivant le transfert côté serveur et/ou des réponses automatiques côté serveur. Par exemple, la désactivation du transfert côté des messages électroniques côté serveur peut empêcher les utilisateurs de transférer automatiquement le courrier électronique vers des comptes personnels. De la même manière; la désactivation des réponses automatiques côté serveur permet d'empêcher des correspondants extérieurs d'utiliser ces réponses pour identifier des adresses de messagerie valides. Ces modifications sont effectuées via Windows PowerShell à distance.
+Exchange Online autorise des utilisateurs à créer des règles de boîte de réception qui exécutent automatiquement des actions spécifiques fondées sur des critères sur les messages à mesure qu'ils arrivent. Par exemple, il est possible de créer une règle pour que tout le courrier électronique envoyé à un certain groupe de distribution soit automatiquement déplacé vers un dossier spécifique. Les utilisateurs gèrent les règles de boîte de réception à partir d’Outlook ou d’Outlook sur le Web. Les administrateurs ont la possibilité de bloquer certains types de règles de boîte de réception en désactivant le transfert côté serveur et/ou des réponses automatiques côté serveur. Par exemple, la désactivation du transfert côté des messages électroniques côté serveur peut empêcher les utilisateurs de transférer automatiquement le courrier électronique vers des comptes personnels. De la même manière; la désactivation des réponses automatiques côté serveur permet d'empêcher des correspondants extérieurs d'utiliser ces réponses pour identifier des adresses de messagerie valides. Ces modifications sont effectuées via Windows PowerShell à distance.
   
 ### <a name="clutter"></a>Courrier non trié
 
@@ -62,7 +62,7 @@ La fonctionnalité de courrier non trié est conçue pour vous aider à vous con
   
 ### <a name="connected-accounts"></a>Comptes connectés
 
-La fonctionnalité Comptes connectés permet aux utilisateurs d'Exchange Online de connecter des comptes de messagerie électronique externes (comme des comptes personnels) à leurs comptes de messagerie interne dans Exchange Online et d'utiliser ensuite Outlook Web App pour interagir avec tous leurs messages à un même endroit. Les comptes connectés se synchronisent automatiquement lors de la connexion à Outlook Web App. Les utilisateurs peuvent également synchroniser les comptes manuellement à partir d'Outlook Web App. Les administrateurs peuvent activer et désactiver cette fonctionnalité pour des utilisateurs spécifiques ou pour tous les utilisateurs via le [Centre d'administration Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
+La fonctionnalité comptes connectés permet aux utilisateurs Exchange Online de connecter des comptes de messagerie externes (tels que des comptes personnels) à leurs comptes de messagerie internes dans Exchange Online, puis d’utiliser Outlook sur le Web pour interagir avec tous leurs messages dans un emplacement unique. Les comptes connectés se synchronisent automatiquement lors de la connexion à Outlook sur le Web ; les utilisateurs peuvent également synchroniser manuellement les comptes à partir d’Outlook sur le Web. Les administrateurs peuvent activer et désactiver cette fonctionnalité pour des utilisateurs spécifiques ou pour tous les utilisateurs via le [Centre d’administration Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
   
 ### <a name="inactive-mailboxes"></a>Boîtes aux lettres inactives
 
@@ -85,15 +85,15 @@ Pour plus d'informations, voir :
 
 ### <a name="offline-address-book"></a>Carnet d'adresses en mode hors connexion
 
-La fonctionnalité Liste d'adresses en mode hors connexion fournit un instantané des informations Active Directory disponibles dans la Liste d'adresses globale Outlook. Elle est cachée localement dans Outlook et devient accessible lorsqu'un utilisateur travaille en mode hors connexion.
+La fonctionnalité carnet d’adresses en mode hors connexion fournit une capture instantanée des informations Active Directory disponibles dans la liste d’adresses globale (LAG) d’Outlook. Elle est cachée localement dans Outlook et devient accessible lorsqu'un utilisateur travaille en mode hors connexion.
   
-### <a name="address-book-policies"></a>Stratégies de carnet d'adresses
+### <a name="address-book-policies"></a>Stratégies de carnet d’adresses
 
-Exchange Online prend en charge les stratégies de carnet d'adresses. Les stratégies de carnet d'adresses vous permettent de segmenter des utilisateurs en groupes spécifiques pour fournir des vues personnalisées de la liste d'adresses globale (GAL) de votre organisation. Lorsque vous créez une stratégie de carnet d'adresses, vous affectez une GAL, un carnet d'adresses en mode hors connexion, une liste de pièces ainsi qu'une ou plusieurs listes d'adresses à la stratégie. Vous pouvez alors attribuer la stratégie de carnet d'adresses à des utilisateurs de boîtes aux lettres et leur donner accès à une GAL personnalisée dans Outlook et Outlook Web App. Les administrateurs peuvent configurer les stratégies de carnet d'adresses à l'aide de l'application Windows PowerShell distante. Pour en savoir plus sur les stratégies de carnet d'adresses, voir [Carnets d'adresses dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
+Exchange Online prend en charge les stratégies de carnet d’adresses. Les stratégies de carnet d'adresses vous permettent de segmenter des utilisateurs en groupes spécifiques pour fournir des vues personnalisées de la liste d'adresses globale de votre organisation. Lorsque vous créez une stratégie de carnet d'adresses, vous affectez une LAG, un carnet d'adresses en mode hors connexion, une liste de pièces ainsi qu'une ou plusieurs listes d'adresses à la stratégie. Vous pouvez ensuite affecter le carnet aux utilisateurs de boîtes aux lettres, en leur donnant accès à une liste d’adresses globale personnalisée dans Outlook et Outlook sur le Web. Les administrateurs peuvent configurer les stratégies de carnet d'adresses à l'aide de l'application Windows PowerShell distante. Pour en savoir plus sur les stratégies de carnet d'adresses, voir [Carnets d'adresses dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
   
-### <a name="address-lists"></a>Listes d'adresses
+### <a name="address-lists"></a>Listes d’adresses
 
-Exchange Online prend en charge la personnalisation des listes d'adresses et de la liste d'adresses globale, un annuaire disponible pour l'ensemble de l'organisation, qui regroupe tous les utilisateurs, groupes de distribution et contacts externes à extension messagerie. Les administrateurs peuvent masquer des utilisateurs, des groupes de distribution et des contacts de la liste d'adresses globale à l'aide de l'outil Synchronisation d'annuaires ou de Windows PowerShell à distance.
+Exchange Online prend en charge la personnalisation des listes d’adresses et des GAL. Une liste d’adresses globale est un répertoire à l’échelle de l’organisation de tous les utilisateurs à extension messagerie, des groupes de distribution et des contacts externes. Les administrateurs peuvent masquer des utilisateurs, des groupes de distribution et des contacts de la liste d’adresses globale à l’aide de l’outil de synchronisation d’annuaires ou de Windows PowerShell à distance.
   
 ### <a name="hierarchical-address-books"></a>Carnets d’adresses hiérarchiques
 
@@ -101,7 +101,7 @@ Exchange Online prend en charge la personnalisation des listes d'adresses et de 
   
 ### <a name="distribution-groups-global"></a>Groupes de distribution (globaux)
 
-Un groupe de distribution (ou liste de distribution) est un ensemble d'utilisateurs, de contacts et d'autres groupes de distribution qui sont accessibles à tous les utilisateurs au sein d'une entreprise. Les utilisateurs adressent le courrier électronique à un alias du groupe de distribution pour envoyer des messages à toutes les personnes figurant dans le groupe. Les groupes de distribution sont semblables à des groupes de distribution personnels que des individus créent dans Outlook, seules leurs listes de membres sont globalement accessibles à l'entreprise. Les administrateurs créent les groupes de distribution dans le Centre d'administration Exchange. Les groupes peuvent également être synchronisés avec Exchange Online à partir d'Active Directory local. Ils apparaissent dans la liste d'adresses globale sous Outlook. Exchange Online prend en charge des fonctionnalités avancées de groupe de distribution, y compris celles décrites ci-dessous :
+Un groupe de distribution (ou liste de distribution) est un ensemble d'utilisateurs, de contacts et d'autres groupes de distribution qui sont accessibles à tous les utilisateurs au sein d'une entreprise. Les utilisateurs adressent le courrier électronique à un alias du groupe de distribution pour envoyer des messages à toutes les personnes figurant dans le groupe. Les groupes de distribution sont semblables à des groupes de distribution personnels que des individus créent dans Outlook, seules leurs listes de membres sont globalement accessibles à l'entreprise. Les administrateurs créent les groupes de distribution dans le Centre d'administration Exchange. Les groupes peuvent également être synchronisés avec Exchange Online à partir d'Active Directory local. Ils apparaissent dans la liste d’adresses globale dans Outlook. Exchange Online prend en charge des fonctionnalités avancées de groupe de distribution, y compris celles décrites ci-dessous :
   
 - **Groupes de distribution restreints** Par défaut, toute personne peut envoyer des messages électroniques à un groupe de distribution. Les administrateurs ont la possibilité de modifier des autorisations pour permettre à seulement des individus spécifiques d'envoyer des messages électroniques à un groupe particulier : par exemple, pour décourager toute utilisation inappropriée de listes étendues de distribution. Les administrateurs peuvent également bloquer l'envoi de messages électroniques par des sources externes à des groupes de distribution afin de prévenir les courriers indésirables. S'agissant des groupes de distribution synchronisés à partir d'Active Directory local à l'aide de l'outil de synchronisation d'annuaire, les attributs relatifs à la restriction sont synchronisés sur le cloud automatiquement. Pour plus d'informations, voir [Gestion des groupes de distribution](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx).
     
@@ -119,7 +119,7 @@ Un groupe de distribution (ou liste de distribution) est un ensemble d'utilisate
   
 ### <a name="external-contacts-global"></a>Contacts externes (globaux)
 
-Un contact externe est un enregistrement contenant des informations sur une personne qui travaille en dehors d'une organisation donnée. Les contacts externes sont semblables à des contacts personnels que des individus créent dans Outlook ; ils ne sont accessibles que globalement à l'entreprise. Les administrateurs créent des contacts externes à l'aide du Centre d'administration Exchange ou via l'application Windows PowerShell distante. Ces contacts peuvent également être synchronisés avec Exchange Online à partir d'Active Directory local. Ils apparaissent dans la liste d'adresses globale sous Outlook.
+Un contact externe est un enregistrement contenant des informations sur une personne qui travaille en dehors d'une organisation donnée. Les contacts externes sont semblables à des contacts personnels que des individus créent dans Outlook ; ils ne sont accessibles que globalement à l'entreprise. Les administrateurs créent des contacts externes à l'aide du Centre d'administration Exchange ou via l'application Windows PowerShell distante. Ces contacts peuvent également être synchronisés avec Exchange Online à partir d'Active Directory local. Ils apparaissent dans la liste d’adresses globale dans Outlook.
   
 Pour plus d'informations sur les contacts externes, voir [Créer une relation d'organisation dans Exchange Online](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx).
   
@@ -127,7 +127,7 @@ Pour plus d'informations sur les contacts externes, voir [Créer une relation d'
 
 ### <a name="resource-mailboxes"></a>Boîtes aux lettres de ressources
 
-Les boîtes aux lettres de ressources (comme celles dédiées aux salles de conférence ou aux équipements physiques) représentent les salles de réunions ou d'autres installations ou ressources. Les utilisateurs peuvent réserver des salles ou des ressources en ajoutant l'alias de courrier électronique de la ressources à la demande de réunion dans Outlook ou Outlook Web App. Les salles de conférence et les ressources apparaissent dans la Liste d'adresses globale sous Outlook et Outlook Web App.
+Les boîtes aux lettres de ressources (comme celles dédiées aux salles de conférence ou aux équipements physiques) représentent les salles de réunions ou d'autres installations ou ressources. Les utilisateurs peuvent réserver des salles ou des ressources en ajoutant l’alias de messagerie de la ressource aux demandes de réunion dans Outlook ou Outlook sur le Web. Les salles de conférence et les ressources apparaissent dans la liste d’adresses globale dans Outlook et Outlook sur le Web.
   
 Les administrateurs créent des boîtes aux lettres de ressources à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Les boîtes aux lettres peuvent également être synchronisées avec Exchange Online à partir d'Active Directory local.
   
@@ -135,13 +135,13 @@ Pour plus d'informations sur les boîtes aux lettres de ressources, voir :
   
 - [Créer et gérer des boîtes aux lettres de salle](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
-- [Gérer des boîtes aux lettres de ressource](https://go.microsoft.com/fwlink/?LinkId=717534).
+- [Gérer les boîtes aux lettres d’équipement](https://go.microsoft.com/fwlink/?LinkId=717534)
     
 ### <a name="conference-room-management"></a>Gestion des salles de conférence
 
 Exchange Online inclut l'Assistant Réservation de ressources qui automatise la planification des salles de conférence et d'autres ressources. Une boîte aux lettres de ressources configurée avec l'Assistant Réservation de ressources accepte, refuse ou accuse réception des demandes de réunion émises par l'organisateur de la réunion en fonction des disponibilités figurant sur le calendrier de la ressource. 
   
-Les administrateurs ont la possibilité de personnaliser les réponses automatiques aux demandes de salles de conférence et de configurer des stratégies de réservation dans Outlook Web App. Ces stratégies incluent les critères suivants : qui peut planifier la ressource, quand elle peut être planifiée, quelles informations relatives à la réunion sont visibles sur le calendrier de la ressource et quel pourcentage de conflits est autorisé. Les administrateurs ont la possibilité de désactiver l'Assistant Réservation de ressources et d'affecter à des utilisateurs spécifiques la gestion manuelle des demandes de réunion associées à des salles de conférence.
+Les administrateurs peuvent personnaliser les réponses automatiques des salles de conférence et configurer des stratégies de réservation dans Outlook sur le Web. Ces stratégies incluent les critères suivants : qui peut planifier la ressource, quand elle peut être planifiée, quelles informations relatives à la réunion sont visibles sur le calendrier de la ressource et quel pourcentage de conflits est autorisé. Les administrateurs ont la possibilité de désactiver l'Assistant Réservation de ressources et d'affecter à des utilisateurs spécifiques la gestion manuelle des demandes de réunion associées à des salles de conférence.
   
 Les administrateurs doivent définir et gérer les paramètres de l'Assistant Réservation de ressources via Windows PowerShell à distance.
   
@@ -153,9 +153,9 @@ Les messages de notification d'absence du bureau sont des réponses automatiques
 
 Les utilisateurs peuvent partager leur calendrier personnel selon l'une des deux manières suivantes :
   
-- **Partage de calendrier fédéré** Le terme fédération fait référence à l'infrastructure d'approbation sous-jacente qui prend en charge le partage fédéré. Il s'agit d'un moyen facile pour les utilisateurs d'Exchange de partager des informations de disponibilité sur le calendrier et des informations de contact avec des destinataires appartenant à d'autres organisations fédérées externes. Ceci inclut des organisations Exchange Online ou des organisations qui exécutent Exchange Server 2010 ou Exchange Server 2013 localement. Les administrateurs d'Exchange Online n'ont pas à configurer une approbation avec la passerelle Microsoft Federation Gateway parce que cette approbation est préconfigurée pour tous les clients d'Exchange Online lorsque le service client Office 365 est créé. Une stratégie de partage par défaut permet à des utilisateurs d'envoyer des invitations de partage de calendrier à partir d'Outlook Web App ou d'Outlook 2010. Les administrateurs se servent de Windows PowerShell à distance pour désactiver cette stratégie ou pour configurer le niveau de calendrier disponible/occupé que des utilisateurs peuvent partager. Ils peuvent également créer une relation d'organisation à organisation avec une autre organisation fédérée, ce qui permet de rendre visible le niveau souhaité d'informations disponible/occupé entre les organisations sans que des utilisateurs individuels aient à générer des invitations de partage. Sous le couvert des stratégies de partage définies par l'administrateur et/ou des relations d'organisation à organisation, les utilisateurs peuvent limiter davantage et de façon individuelle leurs partages. 
+- **Partage de calendrier fédéré** La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, méthode facile pour les utilisateurs Exchange de partager les données de calendrier et les informations de contact avec des destinataires d’autres organisations fédérées externes. Il s’agit notamment des organisations ou organisations Exchange Online exécutant Exchange Server 2010 ou Exchange Server 2013 en local. Les administrateurs Exchange Online n’ont pas besoin de configurer une approbation avec Microsoft Federation Gateway, car cette approbation est préconfigurée pour tous les clients Exchange Online lors de la création du service client Office 365. Une stratégie de partage par défaut permet aux utilisateurs d’envoyer des invitations de partage de calendrier à partir d’Outlook sur le Web ou Outlook 2010. Les administrateurs utilisent Windows PowerShell à distance pour désactiver cette stratégie ou pour configurer le niveau des données de calendrier de disponibilité que les utilisateurs peuvent partager. Les administrateurs peuvent également créer une relation organisationnelle organisationnelle avec une autre organisation fédérée, ce qui permet de faire apparaître les informations de disponibilité souhaitées pour chaque utilisateur, sans que des utilisateurs individuels aient besoin d’effectuer une invitation de partage. Dans l’étendue des stratégies de partage définies par l’administrateur et/ou les relations organisationnelles de l’organisation, les utilisateurs peuvent limiter individuellement les détails de leur partage. 
     
-- **Partage de calendrier Internet** Exchange Online permet à ses utilisateurs de publier leurs calendriers au format iCal pour un accès anonyme par toute personne intérieure ou extérieure à l'organisation. Les destinataires peuvent utiliser Exchange, une autre plate-forme ou tout simplement un navigateur Web. Les utilisateurs Exchange Online peuvent également s’abonner à des calendriers que d’autres ont publiés sur les emplacements Internet via iCal. Ce partage de calendrier personnel diffère du partage de calendrier fédéré qui est configuré par un administrateur, et fournit un partage disponible/occupé d'organisation à organisation. Aucun utilisateur ne peut publier des données de calendrier au format iCal tant que l'administrateur n'a pas défini et appliqué une stratégie de partage qui l'autorise. Les administrateurs peuvent désactiver la publication iCal et des abonnements iCal pour des utilisateurs d'une organisation à l'aide de Windows PowerShell à distance. 
+- **Partage de calendrier Internet** Exchange Online permet à ses utilisateurs de publier leurs calendriers au format iCal pour un accès anonyme par toute personne intérieure ou extérieure à l'organisation. Les destinataires peuvent utiliser Exchange, une autre plate-forme ou tout simplement un navigateur Web. Les utilisateurs Exchange Online peuvent également s’abonner à des calendriers que d’autres ont publiés sur les emplacements Internet via iCal. Ce partage de calendrier personnel diffère du partage de calendrier fédéré qui est configuré par un administrateur, et fournit un partage disponible/occupé d'organisation à organisation. Aucun utilisateur ne peut publier des données de calendrier au format iCal tant que l’administrateur n’a pas défini et appliqué une stratégie de partage l’autorisant. Les administrateurs peuvent désactiver la publication iCal et des abonnements iCal pour des utilisateurs d'une organisation à l'aide de Windows PowerShell à distance.
     
 Pour plus d'informations sur le partage fédéré, consultez la rubrique [Partage dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -169,6 +169,5 @@ Exchange Online prend en charge la fonctionnalité Recherche de salles d'Outlook
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
-

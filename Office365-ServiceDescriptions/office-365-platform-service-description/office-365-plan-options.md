@@ -16,21 +16,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131258"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582060"
 ---
 # <a name="office-365-plan-options"></a>Options de plan Office 365
 
 Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
   
 ## <a name="office-365-service-families-and-plans"></a>Familles et plans de services Office 365
-<a name="bkmk_O365Service_Families_and_Plans"> </a>
 
-Le tableau ci-après répertorie les familles et plans de services disponibles dans Office 365. Pour un un aperçu détaillé des fonctionnalités et des informations sur les tarifs, ou pour dialoguer avec un représentant en ligne, cliquez sur un des liens figurant dans la colonne des plans.
+Le tableau ci-après répertorie les familles et plans de services disponibles dans Office 365. Pour obtenir une vue d’ensemble de haut niveau des fonctionnalités et des informations de tarification, ou pour discuter avec un représentant en ligne, sélectionnez l’un des liens dans la colonne plans.
   
 |**Famille de services Office 365**|**Plans**|
 |:-----|:-----|
@@ -56,7 +55,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |SharePoint Online  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |
 |Skype entreprise Online <sup>15</sup> <br/> |Oui<sup>10</sup> <br/> |Non  <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>14</sup> <br/> |
-|Office pour le Web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Applications Office  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Project Online  <br/> |N °<sup>1</sup> <br/> |Non  <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |
 |Power BI  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
@@ -108,7 +107,7 @@ Vous pouvez combiner les plans autonomes, Entreprise et Business (par exemple, E
 ## <a name="standalone-services"></a>Services autonomes
 <a name="bkmk_standaloneservices"> </a>
 
-Les services en ligne suivants sont disponibles séparément, en tant que plans autonomes. Ils peuvent également être ajoutés à des plans de famille de services Business et Entreprise qui ne les englobent pas encore. Pour obtenir des informations sur les tarifs ou pour dialoguer avec un représentant en ligne, cliquez sur un plan dans le tableau suivant.
+Les services en ligne suivants sont disponibles séparément, en tant que plans autonomes. Ils peuvent également être ajoutés à des plans de famille de services Business et Entreprise qui ne les englobent pas encore. Pour obtenir des informations sur les tarifs, ou pour discuter avec un représentant en ligne, sélectionnez l’un des plans figurant dans le tableau suivant.
   
 |**Service**|**Plans**|
 |:-----|:-----|
@@ -128,4 +127,4 @@ Les services en ligne suivants sont disponibles séparément, en tant que plans 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 <a name="bkmk_standaloneservices"> </a>
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).

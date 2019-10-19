@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998516"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595233"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -57,7 +57,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |[Office Mobile pour Android](office-applications.md#office-mobile-for-android) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup>  <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |
 |[Office Mobile pour Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui <sup>13</sup> <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |
 |Outlook pour Android  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|**Enterprise Value** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office professionnel plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**Microsoft 365 Business** <br/>
+|**Valeur entreprise** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office professionnel plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**Microsoft 365 Business** <br/>
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Non  <br/>| Non  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> | Oui<sup>7</sup> <br/> |
 |Mise en service automatisée du compte d'utilisateur  <br/> |N/D  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Interface utilisateur multilingue  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br/> |
@@ -66,7 +66,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Client support for on-premises SharePoint  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Control of software updates  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/>  |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Database Compare  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br> |
-|Virtualisation des services Bureau  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui<sup>8</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br/> |
+|Virtualisation des services Bureau  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui<sup>8</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui <br/> |
 |Comparer les feuilles de calcul Excel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br/> |
 |Analyse de feuilles de calcul Excel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br/>
 |Archivage et conformité avec Exchange Online et SharePoint Online  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/>|Oui<sup>1</sup> <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |

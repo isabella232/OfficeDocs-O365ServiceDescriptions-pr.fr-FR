@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: 746b58eda83545b97e00b77ba67c6e9794420018
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 706ff7bb1f5f3d7b3ae1ba761bcdadc237051e3d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777345"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582100"
 ---
 # <a name="privacy-security-and-transparency"></a>Politique de confidentialité, sécurité et transparence
 
@@ -42,7 +42,7 @@ Pour savoir comment Microsoft garantit les services Office 365 de manière fiabl
 
 En tant que client Office 365, vous pouvez découvrir l'emplacement de stockage de vos données, les personnes de Microsoft y ayant accès et ce que nous faisons en interne avec ces informations. Pour plus d'informations, consultez la rubrique relative à la [transparence](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
   
-## <a name="office-365-advanced-ediscovery"></a>eDiscovery (découverte électronique) avancée Office 365
+## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
 
 La découverte électronique, ou eDiscovery, est le processus d'identification et de livraison d'informations électroniques qui peuvent être utilisées comme preuves dans des affaires juridiques. La découverte électronique avancée Office 365 s'appuie sur l'ensemble des fonctionnalités de découverte électronique d'Office 365, ce qui vous permet d'analyser des ensembles de données volumineux et non structurés pour réduire la quantité de données pertinentes pour un dossier juridique. Vous pouvez utiliser la fonctionnalité de recherche dans le Centre de conformité d'Office 365 pour effectuer une recherche initiale de toutes les sources de contenu de votre organisation, afin d'identifier et de collecter les données qui pourraient être pertinentes pour un dossier juridique donné. Vous pouvez ensuite analyser ces données en appliquant les fonctionnalités d'analyse de texte, d'apprentissage automatique et de codage prédictif/par pertinence de la découverte électronique avancé. Pour plus d'informations, voir [Découverte électronique avancée Office 365](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).
   
@@ -54,10 +54,9 @@ Le référentiel sécurisé du client est inclus dans le plan Office 365 Entrepr
   
 ## <a name="advanced-threat-protection"></a>Protection avancée contre les menaces
 
-Office 365 Advanced Threat Protection contribue à protéger votre organisation contre les programmes malveillants et les virus. ATP inclut [des fonctionnalités de liens approuvés](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), de [pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et d’aide à la [décision](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Les liens fiables protègent vos utilisateurs contre les liens hypertexte malveillants inclus dans les messages, en offrant une protection à chaque clic sur le lien. La fonction de pièces jointes approuvées offre une protection contre les programmes malveillants et les virus inconnus en routant l'ensemble des messages et des pièces jointes qui n'ont pas une signature de virus/programmes malveillants connue vers un environnement spécial où le service de protection avancée peut déterminer s'ils comportent du contenu malveillant. Pour plus d’informations sur ATP, voir [Description du service protection avancée contre les menaces d’Office 365](../office-365-advanced-threat-protection-service-description.md).
+Office 365 Advanced Threat Protection contribue à protéger votre organisation contre les programmes malveillants et les virus. ATP inclut [des fonctionnalités de liens approuvés](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), de [pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et d’aide à la [décision](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Liens fiables protège de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, ce qui assure une protection chaque fois que le lien est sélectionné. La fonction de pièces jointes approuvées offre une protection contre les programmes malveillants et les virus inconnus en routant l'ensemble des messages et des pièces jointes qui n'ont pas une signature de virus/programmes malveillants connue vers un environnement spécial où le service de protection avancée peut déterminer s'ils comportent du contenu malveillant. Pour plus d’informations sur ATP, voir [Description du service protection avancée contre les menaces d’Office 365](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
+Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
   
-

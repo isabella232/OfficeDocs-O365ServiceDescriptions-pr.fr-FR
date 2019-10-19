@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 1701c399fe351356ff8813af8003632402dc2adc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442699"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581920"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients et appareils mobiles
 
@@ -39,7 +39,7 @@ Pour plus d'informations sur les clients Outlook pris en charge par Exchange 201
   
 ## <a name="outlook-on-the-web"></a>Outlook sur le web
 
-Outlook sur le web est une version du programme de messagerie électronique Outlook basée sur le web, utilisée avec Exchange Online. Elle permet aux utilisateurs d’accéder à leur messagerie électronique, leur calendrier et leurs contacts via un navigateur Web où qu’ils se connectent à Internet. Pour plus d'informations sur les navigateurs pris en charge, consultez la rubrique [Navigateurs pris en charge dans Outlook sur le web](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
+Outlook sur le web est une version du programme de messagerie électronique Outlook basée sur le web, utilisée avec Exchange Online. Il permet aux utilisateurs d’accéder à leurs courriers électroniques, calendrier et contacts par le biais d’un navigateur Web où qu’ils se connectent à Internet. Pour plus d'informations sur les navigateurs pris en charge, consultez la rubrique [Navigateurs pris en charge dans Outlook sur le web](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 Outlook sur le web est proposé sous deux versions client, pouvant toutes les deux être utilisées avec Exchange Online :
   
@@ -70,7 +70,7 @@ Il existe également des options pour l’utilisation d’Exchange Online avec d
 
 Outlook offre aux utilisateurs l’expérience de messagerie et de calendrier rapide et intuitive qu’ils attendent d’une application mobile moderne, tout en étant la seule application à prendre en charge les meilleures fonctionnalités d’Office 365. Il s’agit de la seule application de messagerie spécifiquement conçue pour prendre en charge l’expérience complète d’Office 365, offrant ainsi aux utilisateurs une expérience cohérente entre l’ordinateur de bureau et mobile. Outlook est intégré à Intune, à la mobilité et à la sécurité d’entreprise, ainsi qu’aux contrôles Exchange pour garantir la sécurité des données et des utilisateurs.
   
-Outlook permet aux utilisateurs d’effectuer les opérations suivantes :
+Avec Outlook, les utilisateurs peuvent :
   
 - Gérer toute la journée à partir d’un appareil mobile.
 
@@ -161,5 +161,5 @@ Pour plus d'informations, consultez la rubrique [BlackBerry](../office-365-platf
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   

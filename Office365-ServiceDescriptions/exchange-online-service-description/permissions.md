@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utilise un modèle d'autorisations de contrôle d'accès basé sur un rôle (RBAC) pour permettre aux administrateurs d'organisations de contrôler finement ce que les utilisateurs et les employés du service informatique peuvent faire dans le service. Par exemple, si un responsable de la mise en conformité est responsable des demandes de recherche de boîtes aux lettres, l'administrateur peut lui déléguer cette fonction administrative au moyen du contrôle RBAC. Exchange Online utilise le même cadre RBAC que Microsoft Exchange Server 2013.
-ms.openlocfilehash: 49d388e08b606fab5df0fc23435aef37d1029050
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776845"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581950"
 ---
 # <a name="permissions"></a>Autorisations
 
@@ -35,7 +35,7 @@ Il existe deux types de rôles : rôles d'administrateur et rôles d'utilisateur
   
 - **Rôles d'administrateur** Ces rôles comportent des autorisations qu'il est possible d'assigner à des administrateurs ou des utilisateurs spécialisés utilisant des groupes de rôles qui ont une fonction de gestion dans l'organisation Exchange Online (ex. destinataires, des ou bases de données). 
     
-- **Rôles d'utilisateur final** Ces rôles, assignés à l'aide de stratégies d'attribution de rôle, permettent aux utilisateurs de gérer des aspects de leurs boîtes aux lettres et leurs groupes de distribution. Les rôles d'utilisateur final commencent par le préfixe  `My`.
+- **Rôles d’utilisateur final** Ces rôles, assignés à l’aide de stratégies d’attribution de rôle, permettent aux utilisateurs de gérer les aspects de leurs propres boîtes aux lettres et groupes de distribution qu’ils possèdent. Les rôles d'utilisateur final commencent par le préfixe  `My`.
     
 Les rôles concèdent aux administrateurs et utilisateurs auxquels ils sont attribués des autorisations pour effectuer des tâches en mettant à leur disposition des cmdlets. Du fait que le Centre d'administration Exchange et l'environnement de ligne de commande Exchange Management Shell utilisent des cmdlets pour gérer Exchange Online, l'accès à une cmdlet autorise l'administrateur ou l'utilisateur à effectuer des tâches dans chacune des interfaces de gestion Exchange Online.
   
@@ -48,7 +48,7 @@ Pour plus d'informations sur les autorisations disponibles dans Exchange Online,
   
 ## <a name="role-groups"></a>Groupes de rôles
 
-Les groupes de rôles de gestion associent les rôles de gestion à un groupe d'administrateurs ou d'utilisateurs spécialisés. Les administrateurs gèrent une vaste organisation Exchange Online ou une configuration étendue de destinataires. Les utilisateurs spécialisés gèrent les fonctionnalités spécifiques d'Exchange Online, telles que la conformité. Ils peuvent également disposer de compétences de gestion limitées, telles que celles de membres du support technique, mais pas de droits d'administration étendus. Les groupes de rôles associent généralement les rôles de gestion administrative à l'aide desquels les administrateurs et les utilisateurs spécialisés peuvent gérer la configuration de leur organisation et de leurs destinataires. Par exemple, la possibilité pour les administrateurs de gérer des destinataires ou d'exploiter les fonctionnalités de détection est contrôlée au moyen des groupes de rôles. 
+Les groupes de rôles de gestion associent les rôles de gestion à un groupe d'administrateurs ou d'utilisateurs spécialisés. Les administrateurs gèrent une organisation Exchange Online ou une configuration de destinataires étendue. Les utilisateurs spécialisés gèrent les fonctionnalités spécifiques d’Exchange Online, telles que la conformité, ou ils peuvent avoir des capacités de gestion limitées, telles que les membres du support technique, mais ne reçoivent pas de droits d’administration étendus. Les groupes de rôles associent généralement des rôles de gestion administrative permettant aux administrateurs et aux utilisateurs spécialistes de gérer la configuration de leur organisation et des destinataires. Par exemple, si les administrateurs peuvent gérer les destinataires ou utiliser les fonctionnalités de découverte des boîtes aux lettres sont contrôlées à l’aide de groupes de rôles. 
   
 > [!IMPORTANT]
 > Certains groupes de rôles disponibles dans la version sur site de Microsoft Exchange Server 2013 ne sont peut-être pas disponibles dans Exchange Online. 
@@ -66,6 +66,6 @@ Pour plus d'informations sur les stratégies d'attribution de rôle, consultez l
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
 

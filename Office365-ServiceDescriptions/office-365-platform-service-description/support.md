@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d'informations, consultez Options d'assistance Office 365.
-ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854902"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582190"
 ---
-# <a name="support"></a>Assistance
+# <a name="support"></a>Support
 
 Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d'informations, consultez [Options d'assistance Office 365](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
@@ -65,7 +65,7 @@ L'assistance technique pour les abonnements Office 365 fournit une assistance d'
 |Configuration  <br/> | Problèmes d'échec de configuration de service  <br/>  Problèmes de mise en service  <br/>  Configuration et redélégation de domaine  <br/>  Problèmes de configuration de service  <br/>  Authentification unique (SSO)  <br/>  Synchronisation Active Directory  <br/> |
 
 > [!NOTE]
-> Vous pouvez découvrir comment contacter le support technique ici: [Contactez Office 365 pour les professionnels de l’assistance](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+> Vous pouvez découvrir comment contacter le support technique ici : [Contactez Office 365 pour les professionnels de l’assistance](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
 >
 > Le support technique pour Office 365 n’inclut pas la résolution des problèmes liés aux services ou compléments tiers. Découvrez comment trouver des réponses d’autres clients dans la [communauté Microsoft](https://answers.microsoft.com).
   
@@ -201,4 +201,4 @@ Si vous avez déjà acheté des licences auprès de Microsoft dans le cadre d'un
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).

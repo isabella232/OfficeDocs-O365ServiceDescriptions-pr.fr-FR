@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
-ms.openlocfilehash: 50a575da327c05d627edf99c2afd3b5812fc4dd7
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777372"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582110"
 ---
 # <a name="partners"></a>Partenaires
 
@@ -53,6 +53,5 @@ Microsoft Partner Network s'engage à satisfaire les besoins de nos partenaires.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
   
-

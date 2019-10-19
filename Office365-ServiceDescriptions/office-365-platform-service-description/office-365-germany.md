@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
-ms.openlocfilehash: 9302da3783e3cdfb7f228f573efd713b7af74221
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334174"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595292"
 ---
 # <a name="office-365-germany"></a>Office 365 Allemagne
 
@@ -56,7 +56,6 @@ Chaque plan Office 365 Germany inclut un certain nombre de services, comme Excha
 Pour connaître la configuration requise pour Office 365, reportez-vous à la page [Configuration requise pour Office](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) sur le site des produits [office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409).
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
-<a name="BKMK_Security"> </a>
 
 Le centre &amp; de sécurité conformité est disponible pour Office 365 Germany. Pour plus d’informations et pour obtenir la liste des fonctionnalités, consultez [la rubrique Office 365 &amp; Security Compliance Center](office-365-securitycompliance-center.md).
 
@@ -65,7 +64,6 @@ Le centre &amp; de sécurité conformité est disponible pour Office 365 Germany
 Office 365 Germany adhère aux normes de sécurité et de conformité dans le Cloud d’Office 365. Office 365 offre un ensemble complet de certifications, évalués indépendamment par des auditeurs agréés dans le cadre des contrôles d’organisation de service (SOC), de l’Organisation internationale de normalisation (ISO) et des audits. Les certifications incluent ISO 27001/27002, 27017, 27018 et SOC 1 et 2. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
 ## <a name="platform-features"></a>Fonctionnalités de la plateforme 
-<a name="BM1_Platform"> </a>
 
 Le tableau suivant répertorie toutes les fonctionnalités de la plateforme disponibles dans les plans Office 365 Germany.
 
@@ -74,7 +72,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|**[Fonctionnalités d'administration d'Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)**|||||||||
+|**[Fonctionnalités d'administration d'Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Administrer Office 365 à l’aide du centre d’administration 365 de Microsoft ou de Windows PowerShell|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Protéger le contenu à l'aide d'Azure Information Protection|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Non|Non|N °<sup>2</sup>|
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
@@ -90,10 +88,10 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Office Delve<sup></sup>|Oui|Non|Oui|Oui|Oui|Oui|Oui|Non|
 |Groupes Office 365|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Office 365 Video|Non|Non|Non|Oui|Oui|Oui|Oui|Non|
-|**[Gestion des comptes d'utilisateur](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Identité cloud, identité fédérée ou authentification multifacteur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Gestion des comptes d’utilisateurs](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|Identité Cloud, identité fédérée ou authentification multifacteur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Configuration du bureau Office 365|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Téléchargement en bloc utilisant des fichiers .csv|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Téléchargement en bloc à l'aide de fichiers .csv|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Outil de synchronisation d'annuaires|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Migration Exchange (à basculement) simple|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Supprimer des comptes et réinitialiser les mots de passe utilisateur de Office 365 ou en utilisant Windows PowerShell<sup>3</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -145,7 +143,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos rapports à l'aide des services web de rapport Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour de services](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Mises à jour du service](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu'une action est requise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Roadmap.office.com pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -158,12 +156,12 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |**[Réseau](networking.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Protocoles IPv4 et IPv6|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**Approbation**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|**[Politique de confidentialité, sécurité et transparence](privacy-security-and-transparency.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Confidentialité, sécurité et transparence](privacy-security-and-transparency.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Protection avancée contre les menaces|Non|Non|Non|Non|Non|Non|Oui|Non|
 |Référentiel sécurisé client|Non|Non|Non|Non|Non|Non|Oui|Non|
 |eDiscovery (découverte électronique) avancée Office 365|Non|Non|Non|Non|Non|Non|Non|Non|
 |Secure Score|Non|Non|Non|Non|Non|Non|Non|Non|
-|**[Conformité [ServiceDesc]](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[Conformité](compliance-servicedesc.md)**<sup>9</sup>|||||||||
 |Évaluations SAS 70 / SSAE16|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Certification ISO 27001|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Clauses types de l'UE|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -188,12 +186,11 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 <sup>4</sup> Pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [Gestion des mots de passe dans Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/).<br/>
 <sup>5</sup> Reducing seats that were purchased with a term discount may be subject to an early termination fee. Cela ne s’applique pas aux abonnements payés tous les mois.<br/>
 <sup>6</sup> les plans Office 365 Germany éducation a1 ne prennent pas en charge les modifications de siège de licence à partir du centre d’administration Microsoft 365.<br/>
-<sup>7</sup> le droit d’utiliser des applications logicielles client, comme Office 365 ProPlus Office 2016 et Office 2013 est inclus dans certains plans Office 365 Germany. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Client software applications also may enable an end user to access online services that are not German Online Services. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
+<sup>7</sup> le droit d’utiliser des applications logicielles client, comme Office 365 ProPlus Office 2016 et Office 2013 est inclus dans certains plans Office 365 Germany. Client software applications run on an end user's device rather than in data centers in Germany. For purposes of your agreement with Microsoft, client software applications are not [German Online Services](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Les applications logicielles clientes peuvent également lry un utilisateur final à accéder aux services en ligne qui ne sont pas des services en ligne allemands. German data residency commitments and access control by the German data trustee apply only to the German Online Services.<br/>
 <sup>8</sup> [l’authentification moderne](https://support.office.com/article/modern-authentication-be-enabled-776c0036-66fd-41cb-8928-5495c0f9168a) doit être activée pour une utilisation avec Office 365 Germany.<br/>
 <sup>9</sup> Office 365 Germany est basé sur le respect des normes de sécurité et de conformité dans le Cloud d’Office 365. Office 365 offers a comprehensive set of certifications, independently assessed by accredited auditors as part of SOC, ISO and audits. The certifications include ISO 27001/27002, 27017, 27018 and SOC 1 &amp; 2 certification. The additional data trustee controls in Office 365 Germany will be evaluated by independent assessors as part of our annual ISO and SOC audits.
 
-## <a name="office-application-features"></a>Fonctionnalités de l’application Office
-<a name="BM1_Platform"> </a>
+## <a name="office-application-features"></a>Fonctionnalités de l’application Office  
 
 > [!NOTE]
 > Les plans Office 365 Germany incluent les applications logicielles clientes installées et exécutées sur l’appareil d’un utilisateur final (« applications logicielles clientes »), comme Office\*365 ProPlus, Office 2013 et Office 2016. Les applications logicielles clientes ne fonctionnent pas exclusivement dans les centres de données allemands et peuvent permettre à un utilisateur final d’accéder à des services en ligne qui ne sont pas des [services en ligne allemands](http://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Dans le cadre de votre contrat avec Microsoft, les applications logicielles clientes ne sont pas des services en ligne allemands. Les engagements concernant la résidence des données allemandes et le contrôle d’accès effectué par le client approuvé de données en Allemagne s’appliquent uniquement aux services en ligne allemands.<br/> \*Office 2013 pour Office 365 Germany nécessite [l’activation de l’authentification moderne](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
@@ -220,7 +217,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Oui|Non|Oui|N °<sup>7</sup>|Non|Oui|Oui|Non|
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Oui|Non|Oui|N °<sup>7</sup>|Non|Oui|Oui|Non|
 |Outlook pour Android<sup>11</sup>|Non|Non|Non|N °<sup>7</sup>|Non|Non|Non|Non|
-|**Enterprise Value**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**Valeur entreprise**|**Office 365 Germany Business**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Cinq installations par utilisateur sur PC ou Mac|Oui<sup>8</sup>|Non|Oui|N °<sup>7</sup>|Non|Oui|Oui|Non|
 |Mise en service automatisée du compte d'utilisateur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Interface utilisateur multilingue|Non|Non|Oui|Non|Non|Oui|Oui|Non|
@@ -236,7 +233,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |Prise en charge des stratégies de groupe|Non|Non|Non|Non|Non|Oui|Oui|Non|
 |Gestion des droits relatifs à l’information à l’aide d’Azure information protection<sup>3</sup>|Non|Non|Non|Non|Non|Non|Non|Non|
 |Gestion des droits relatifs à l’information à l’aide de Windows Server AD RMS<sup>4</sup>|Non|Non|Non|Non|Non|Non|Non|Non|
-|Prise en charge Office Add-in, ActiveX et BHO|Non|Non|Oui|Non|Non|Oui|Oui|Non|
+|Prise en charge des compléments Office, ActiveX et BHO|Non|Non|Oui|Non|Non|Oui|Oui|Non|
 |Accès des clients OneNote aux blocs-notes sur SharePoint Server, SharePoint Online, OneDrive Entreprise et Office 365|Oui|Non|Oui|Non|Non|Oui|Oui|Non|
 |Office Lens|Non|Non|Non|Non|Non|Non|Non|Non|
 |Télémétrie Office|Non|Non|Non|Non|Non|Oui|Oui|Non|
@@ -253,7 +250,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |Volume activation (KMS/MAK)|Non|Non|Non|Non|Non|Non|Non|Non|
 
 > [!NOTE]
-> <sup>1</sup> les plans Office 365 Germany incluent les applications logicielles clientes installées et exécutées sur l’appareil d’un utilisateur final (« applications logicielles clientes »), comme Office 365 ProPlus, Office 2013 et Office 2016. Elles peuvent permettre à un utilisateur final d’accéder aux services en ligne qui ne sont pas des services en ligne allemands. Dans le cadre de votre contrat avec Microsoft, les applications logicielles clientes ne sont pas des services en ligne allemands. Les engagements concernant la résidence des données allemandes et le contrôle d’accès effectué par le client approuvé de données en Allemagne s’appliquent uniquement aux services en ligne allemands.<br/>
+> <sup>1</sup> les plans Office 365 Germany incluent les applications logicielles clientes installées et exécutées sur l’appareil d’un utilisateur final (« applications logicielles clientes »), comme Office 365 ProPlus, Office 2013 et Office 2016. Les applications logicielles clientes ne fonctionnent pas exclusivement dans les centres de données allemands et peuvent permettre à un utilisateur final d’accéder à des services en ligne qui ne sont pas des services en ligne allemands. Dans le cadre de votre contrat avec Microsoft, les applications logicielles clientes ne sont pas des services en ligne allemands. Les engagements concernant la résidence des données allemandes et le contrôle d’accès effectué par le client approuvé de données en Allemagne s’appliquent uniquement aux services en ligne allemands.<br/>
 <sup>2</sup> Office 2013 nécessite [l’activation de l’authentification moderne](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
 <sup>3</sup> Azure information protection n’est pas inclus mais peut être acheté en tant que module complémentaire distinct afin d’activer les fonctionnalités IRM prises en charge.<br/>
 <sup>4</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge. <br/>
@@ -285,7 +282,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Oui|
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Oui|
 |Outlook pour Android<sup>11</sup>|Non|Non|Non|
-|**Enterprise Value**|**Office Professionnel Plus 2013**|**Office Professionnel Plus 2016**|**Office 365 ProPlus**|
+|**Valeur entreprise**|**Office Professionnel Plus 2013**|**Office Professionnel Plus 2016**|**Office 365 ProPlus**|
 |Cinq installations par utilisateur sur PC ou Mac|Non|Oui|Oui<sup>8</sup>|
 |Mise en service automatisée du compte d'utilisateur|N/D|Oui|Oui|
 |Interface utilisateur multilingue|Oui|Oui|Oui|
@@ -318,7 +315,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |Volume activation (KMS/MAK)|Oui|Oui|N °<sup>10</sup>|
 
 > [!NOTE]
-> <sup>1</sup> les plans Office 365 Germany incluent les applications logicielles clientes installées et exécutées sur l’appareil d’un utilisateur final (« applications logicielles clientes »), comme Office 365 ProPlus, Office 2013 et Office 2016. Elles peuvent permettre à un utilisateur final d’accéder aux services en ligne qui ne sont pas des services en ligne allemands. Dans le cadre de votre contrat avec Microsoft, les applications logicielles clientes ne sont pas des services en ligne allemands. Les engagements concernant la résidence des données allemandes et le contrôle d’accès effectué par le client approuvé de données en Allemagne s’appliquent uniquement aux services en ligne allemands.<br/>
+> <sup>1</sup> les plans Office 365 Germany incluent les applications logicielles clientes installées et exécutées sur l’appareil d’un utilisateur final (« applications logicielles clientes »), comme Office 365 ProPlus, Office 2013 et Office 2016. Les applications logicielles clientes ne fonctionnent pas exclusivement dans les centres de données allemands et peuvent permettre à un utilisateur final d’accéder à des services en ligne qui ne sont pas des services en ligne allemands. Dans le cadre de votre contrat avec Microsoft, les applications logicielles clientes ne sont pas des services en ligne allemands. Les engagements concernant la résidence des données allemandes et le contrôle d’accès effectué par le client approuvé de données en Allemagne s’appliquent uniquement aux services en ligne allemands.<br/>
 <sup>2</sup> Office 2013 nécessite [l’activation de l’authentification moderne](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
 <sup>3</sup> les fonctionnalités d’archivage et de conformité sont prises en charge avec cette version d’Office, mais les offres Exchange Online et SharePoint Online ne sont pas incluses et doivent être achetées séparément ou utilisées avec des équivalents serveur sur site pris en charge.<br/> <sup>4</sup> Azure information protection n’est pas inclus mais peut être acheté en tant que module complémentaire distinct afin d’activer les fonctionnalités IRM prises en charge.<br/> <sup>5</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge.<br/>
 <sup>6</sup> si vous disposez d’Office professionnel plus 2013 ou d’une version autonome d’Excel 2013, vous pouvez télécharger et utiliser [Power Map Preview pour Excel 2013](http://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) comme complément non pris en charge.<br/>
@@ -329,9 +326,8 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 <sup>11</sup> non disponible pour Office 365 Germany, mais bientôt disponible.
 
 ## <a name="office-for-the-web-features"></a>Office pour les fonctionnalités Web
-<a name="BM1_Platform"> </a>
 
-Le tableau suivant fournit des liens vers des comparaisons d’Office pour les fonctionnalités de fonctionnalité Web disponibles dans Office 365 Germany plans pour les applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les comparaisons pour découvrir les fonctionnalités disponibles dans Office pour le Web, puis cliquez sur le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation peuvent avoir besoin de la fonctionnalité graphique avancée de l’application Excel de bureau, tandis que d’autres peuvent avoir besoin d’afficher et de modifier légèrement des documents Word et des présentations PowerPoint avec Office pour le Web.
+Le tableau suivant fournit des liens vers des comparaisons d’Office pour les fonctionnalités de fonctionnalité Web disponibles dans Office 365 Germany plans pour les applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les comparaisons pour découvrir les fonctionnalités disponibles dans Office pour le Web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation peuvent avoir besoin de la fonctionnalité graphique avancée de l’application Excel de bureau, tandis que d’autres peuvent avoir besoin d’afficher et de modifier légèrement des documents Word et des présentations PowerPoint avec Office pour le Web.
 
 > [!NOTE]
 > - Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. La liste des fonctionnalités de Microsoft Office présentées dans ce tableau n’est pas exhaustive. <br/>
@@ -342,13 +338,12 @@ Le tableau suivant fournit des liens vers des comparaisons d’Office pour les f
 ||||
 |:-----|:-----|:-----|
 |**Application**|**Office pour le web**|**Créer un lien vers une comparaison détaillée des fonctionnalités**|
-|Word|Word pour le Web|[Word](../office-online-service-description/office-online-service-description.md#word)|
-|Excel|Excel pour le Web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
-|OneNote|OneNote pour le Web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
-|PowerPoint|PowerPoint pour le Web|[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint)|
+|Word|Word pour le web|[Word](../office-online-service-description/office-online-service-description.md#word)|
+|Excel|Excel pour le web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
+|OneNote|OneNote pour le web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
+|PowerPoint|PowerPoint pour le web|[PowerPoint](../office-online-service-description/office-online-service-description.md#powerpoint)|
 
 ## <a name="exchange-online-features"></a>Fonctionnalités d’Exchange Online 
-<a name="BM1_Platform"> </a>
 
 Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibles dans les plans Office 365 Germany.
 
@@ -363,61 +358,61 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |**[Autorisations](../exchange-online-service-description/permissions.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Autorisations basées sur des rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Groupes de rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Stratégies d'attribution des rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Stratégies d’attribution de rôle|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |**[Stratégie et conformité de message](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Archivage des boîtes aux lettres basées sur Exchange Online|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Archivage en nuage des boîtes aux lettres locales|Non|Non|Non|Oui|Oui|Oui|Oui|Non|
+|Archivage de boîtes aux lettres Exchange Online|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Archivage en nuage de boîtes aux lettres locales|Non|Non|Non|Oui|Oui|Oui|Oui|Non|
 |Balises et stratégies de rétention|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Chiffrement des données statiques (BitLocker)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |IRM à l’aide d’Azure information protection<sup>3</sup>|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|Non|Non|N °<sup>4</sup>|
 |IRM à l’aide de Windows Server AD RMS<sup>3</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|
-|Chiffrement de messages Office 365|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|Oui|Oui|N °<sup>4</sup>|
+|Chiffrement de messages Office 365|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|N °<sup>4</sup>|Oui|Oui|N °<sup>4</sup>|
 |S/MIME|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui||
 |Conservation inaltérable et conservation pour litige|Non|--|Non|Oui|Non|Oui|Oui|Non|
 |Découverte électronique locale|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui|
 |Règles de flux de messagerie|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|
-|Prévention contre la perte de données|Non|Non|Non|Non|Non|Oui|Oui|Non|
+|Protection contre la perte de données|Non|Non|Non|Non|Non|Oui|Oui|Non|
 |Journalisation|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**[Protection contre le courrier indésirable et les programmes malveillants](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Protection intégrée contre le courrier indésirable|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Personnalisation des stratégies de blocage du courrier indésirable|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
-|Protection intégrée contre les programmes malveillants|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|
-|Personnalisation des stratégies de blocage des programmes malveillants|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
+|Protection anti-courrier indésirable intégrée|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Customize anti-spam policies|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
+|Protection anti-programme malveillant intégrée|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|
+|Customize anti-malware policies|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - autogestion par l'utilisateur final|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Protection avancée contre les menaces|Non|--|Non|Non|Non|Non|Oui|Non|
 |**[Flux de messagerie](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Messagerie sécurisée avec un partenaire approuvé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Routage conditionnel du courrier|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Ajout d'un partenaire à une liste sécurisée de courrier entrant|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Routage hybride du courrier|Oui<sup>2</sup>|--|Oui<sup>2</sup>|Oui|Oui|Oui|Oui|Oui|
+|Secure messaging with a trusted partner|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Conditional mail routing|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Ajout d’un partenaire à une liste sécurisée entrante|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Routage de messagerie hybride|Oui<sup>2</sup>|--|Oui<sup>2</sup>|Oui|Oui|Oui|Oui|Oui|
 |**[Destinataires](../exchange-online-service-description/recipients.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Alertes de capacité|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Courrier non trié<sup>3</sup>|Non|Non|Non|Non|Non|Non|Non|Non|
 |MailTips|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès délégué|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Règles de boîte de réception|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Règles de la boîte de réception|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Comptes connectés|Oui|Oui|Oui|Oui<sup>10</sup>|Oui<sup>10</sup>|Oui<sup>10</sup>|Oui<sup>10</sup>|Oui<sup>10</sup>|
 |Boîtes aux lettres inactives|N °<sup>11</sup>|--|N °<sup>11</sup>|Oui|N °<sup>11</sup>|Oui|Oui|N °<sup>11</sup>|
 |Carnet d'adresses en mode hors connexion|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Stratégies de carnet d'adresses|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Stratégies de carnet d’adresses|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Carnet d'adresses hiérarchique|Oui|--|Oui|Oui|Oui|Oui|Oui|Non|
-|Listes d'adresses et liste d'adresses globale|Oui|Oui|Oui|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|
+|Listes d’adresses et liste d’adresses globale|Oui|Oui|Oui|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|
 |Groupes Office 365|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Groupes de distribution|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Contacts externes (globaux)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Carte de visite universelle|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Contact en liaison avec des réseaux sociaux|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Liaison de contacts avec les réseaux sociaux|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Boîtes aux lettres de ressources|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Gestion des salles de conférence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Réponses avec notification d'absence du bureau|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Partage de calendrier|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Fonctions de rapport et outils de dépannage](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|Réponses d’absence du Bureau|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Partage de calendriers|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Fonctionnalités de création de rapports et outils de dépannage](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Rapports du centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Rapports de services web|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Suivi des messages|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Rapports d'audit|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>5</sup>|
+|Rapports de services Web|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Message trace|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Rapports d’audit|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>5</sup>|
 |Rapports de messagerie unifiée|Non|Non|Non|Non|Non|Oui|Oui|Non|
 |**[Partage et collaboration](../exchange-online-service-description/sharing-and-collaboration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Partage fédéré (y compris la publication de calendrier)<sup>13</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -434,10 +429,10 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |Outlook pour Mac|Oui|Oui|Oui|Oui|Oui|Oui|Oui| Non|
 |**[Services de messagerie vocale](../exchange-online-service-description/voice-message-services.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Messagerie vocale|Non|Non|Non|Non|Non|Oui|Oui|Non|
-|Intégration entre messagerie vocale et FAX tiers|Non|Non|Non|Non|Non|Oui|Oui|Non|
+|Intégration entre la messagerie vocale et la télécopie tierce|Non|Non|Non|Non|Non|Oui|Oui|Non|
 |Interopérabilité avec messagerie vocale tierce|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Intégration Skype Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Haute disponibilité et continuité de service](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|Intégration Skype entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Haute disponibilité et continuité de l’activité](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Réplication de boîtes aux lettres dans les centres de données|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Récupération de boîtes aux lettres supprimées|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'éléments supprimés|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -447,14 +442,14 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |Interopérabilité SharePoint|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge de la connectivité EWS|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge du relais SMTP|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Configuration et administration d'Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Configuration et administration d’Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Accès au portail Microsoft Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès au centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Stratégies ActiveSync pour appareils mobiles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Rapports d'utilisation|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|Stratégies ActiveSync pour les appareils mobiles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Rapports d’utilisation|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Extension du service-personnalisation, compléments et ressources](../exchange-online-service-description/exchange-online-service-description.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Compléments Outlook et MAPI Outlook|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui<sup>16</sup>|Non|
 
 > [!NOTE]
@@ -463,7 +458,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 <sup>3</sup> non disponible pour Office 365 Germany, mais bientôt disponible.<br/>
 <sup>4</sup> Azure information protection n’est pas inclus mais peut être acheté en tant que module complémentaire distinct (ou ajouté gratuitement au plan Office 365 Germany éducation a1) afin d’activer les fonctionnalités IRM prises en charge. Le chiffrement de messages Office 365 dépend de la protection des informations Azure.<br/>
 <sup>5</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge.<br/>
-<sup>6</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud et le Cloud.<br/>
+<sup>6</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud local.<br/>
 <sup>7</sup> les règles de flux de messagerie (également appelées règles de transport) sont constituées de critères flexibles, qui vous permettent de définir les conditions, les exceptions et les actions à effectuer en fonction des critères. Les conditions, les exceptions et les actions disponibles diffèrent entre Exchange Online et Microsoft Exchange Server. Pour plus d’informations, reportez-vous aux rubriques correspondantes de chaque produit.<br/>
 <sup>8</sup> uniquement accessible via un accès direct à l’interface de gestion du centre d’administration Exchange. <br/>
 <sup>9</sup> Exchange Server 2013 utilise uniquement le moteur anti-programme malveillant de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes. <br/> <sup>10</sup> les comptes connectés sont pris en &amp; charge pour les comptes IMAP POP, mais sont désactivés pour Outlook.com (Hotmail). <br/>
@@ -474,9 +469,8 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 <sup>16</sup> certains compléments et composants WebPart tiers peuvent ne pas être disponibles.
 
 ## <a name="exchange-online-protection-features"></a>Fonctionnalités d’Exchange Online Protection
-<a name="BM1_Platform"> </a>
 
-Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection (EOP) disponibles dans les plans Office 365 Germany. Pour obtenir des informations plus détaillées sur les fonctionnalités EOP, cliquez sur les liens du tableau. Lorsqu'Exchange Online est mentionné, il s'agit généralement de la famille de services Office 365 Entreprise.
+Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection (EOP) disponibles dans les plans Office 365 Germany. Pour plus d’informations sur les fonctionnalités EOP, sélectionnez les liens dans le tableau. Lorsqu'Exchange Online est mentionné, il s'agit généralement de la famille de services Office 365 Entreprise.
 
 |||||
 |:-----|:-----|:-----|:-----|
@@ -534,9 +528,8 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection
 <sup>18</sup> disponible sous la forme d’une fonctionnalité complémentaire pour Office 365 Germany.
 
 ## <a name="exchange-online-advanced-threat-protection-features"></a>Fonctionnalités d’Exchange Online - Protection avancée contre les menaces
-<a name="BM1_Platform"> </a>
 
-Le tableau suivant répertorie les fonctionnalités d'Exchange Online - Protection avancée contre les menaces disponibles dans les plans Office 365 Germany. Pour obtenir des informations plus détaillées sur les fonctionnalités EOP, cliquez sur les liens du tableau. Lorsqu'Exchange Online est mentionné, il s'agit généralement de la famille de services Office 365 Entreprise.
+Le tableau suivant répertorie les fonctionnalités d'Exchange Online - Protection avancée contre les menaces disponibles dans les plans Office 365 Germany. Pour plus d’informations sur les fonctionnalités EOP, sélectionnez les liens dans le tableau. Lorsqu'Exchange Online est mentionné, il s'agit généralement de la famille de services Office 365 Entreprise.
 
 |**Fonctionnalité**|**Service Protection avancée contre les menaces autonome**|**Fonctionnalités du service Protection avancée contre les menaces dans Exchange Online**|
 |:-----|:-----|:-----|
@@ -544,7 +537,6 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online - Protecti
 |Pièces jointes fiables|Oui|Oui|
 
 ## <a name="onedrive-for-business-features"></a>Fonctionnalités de OneDrive Entreprise
-<a name="BM1_Platform"> </a>
 
 Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDrive Entreprise et de SharePoint Online disponibles dans les plans Office 365 Germany.
 
@@ -555,31 +547,31 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 
 |****Fonctionnalités de développeur****|****OneDrive Entreprise Plan 1****|****OneDrive Entreprise Plan 2****|****SharePoint Online Plan 1****|****SharePoint Online Plan 2****|
 |:-----|:-----|:-----|:-----|:-----|
-|[Catalogue d'applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Oui|Oui|Oui|Oui|
-|[Déploiement d'applications : Applications hébergées en nuage](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Oui|Oui|Oui|Oui|
-|[Déploiement d'applications : Applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Oui|Oui|Oui|Oui|
+|[Catalogue d’applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Oui|Oui|Oui|Oui|
+|[Déploiement d’applications : applications hébergées dans le Cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Oui|Oui|Oui|Oui|
+|[Déploiement d’applications : applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Oui|Oui|Oui|Oui|
 |[Services de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-services)|Oui|Oui|Oui|Oui|
-|BCS: Alerts for External Lists|Non|Non|Non|Oui|
-|[BCS : Types de contenus externes étendus aux applications (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Non|Non|Non|Oui|
+|BCS : alertes pour les listes externes|Non|Non|Non|Oui|
+|[BCS : types de contenu externe d’étendue d’application (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Non|Non|Non|Oui|
 |[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Non|Non|Non|Oui|
-|[BCS : Liste externe](../sharepoint-online-service-description/developer.md#bcs-external-list)|Non|Non|Non|Oui|
+|[BCS : liste externe](../sharepoint-online-service-description/developer.md#bcs-external-list)|Non|Non|Non|Oui|
 |[BCS : Connecteur OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|Non|Non|Non|Oui|
-|BCS: Profile Pages|Non|Non|Non|Non|
-|[BCS : Intégration de client riche](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Non|Non|Non|Non|
+|BCS : pages de profil|Non|Non|Non|Non|
+|[BCS : intégration de client riche](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Non|Non|Non|Non|
 |BCS: Secure Store Service|Non|Non|Non|Oui|
 |BCS: Tenant-level external data log|Non|Non|Non|Oui|
 |Browser-based customizations|Oui|Oui|Oui|Oui|
 |[Modèle d'objet client (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|Oui|Oui|Oui|Oui|
 |Client-side rendering (CSR)|Oui|Oui|Oui|Oui|
-|Custom Site Definitions|Non|Non|Non|Non|
-|[Page de configuration de site personnalisée](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Non|Non|Non|Non|
-|[Site de développeur](../sharepoint-online-service-description/developer.md#developer-site)|Non|Non|Oui|Oui|
+|Les définitions de site personnalisées|Non|Non|Non|Non|
+|[Page de mise en service de site personnalisée](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Non|Non|Non|Non|
+|[Site du développeur](../sharepoint-online-service-description/developer.md#developer-site)|Non|Non|Oui|Oui|
 |[Applications basées sur des formulaires](../sharepoint-online-service-description/developer.md#forms-based-applications)|Non|Non|Oui|Oui|
 |[Solutions de confiance totale](../sharepoint-online-service-description/developer.md#full-trust-solutions)|Non|Non|Non|Non|
 |[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Non|Non|Non|Oui|
 |[Modèle d'objet JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model)|Oui|Oui|Oui|Oui|
-|List and Library APIs|Oui|Oui|Oui|Oui|
-|[Récepteur d'événements distant](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Non|Non|Oui|Oui|
+|API de liste et de bibliothèque|Oui|Oui|Oui|Oui|
+|[Récepteur d’événements distants](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Non|Non|Oui|Oui|
 |[API REST](../sharepoint-online-service-description/developer.md#rest-apis)|Oui|Oui|Oui|Oui|
 |[Gestionnaire de conception SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|Non|Non|Oui|Oui|
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|Non|Non|Oui|Oui|
@@ -593,62 +585,62 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |**Fonctionnalités de professionnel de l'informatique**|**OneDrive Entreprise Plan 1**|**OneDrive Entreprise Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
 |[Synchronisation Active Directory](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization)|Oui|Oui|Oui|Oui|
 |[Mappage des accès de substitution (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Non|Non|Non|Non|
-|Analytics Platform|Non|Non|Oui|Oui|
+|Plateforme d’analyse|Non|Non|Oui|Oui|
 |[Protection contre les programmes malveillants](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|Oui|Oui|Oui|Oui|
-|[Assistance à l'authentification basée sur les revendications](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Non|Non|Non|Non|
-|Configuration Wizards|Non|Non|Non|Non|
+|[Prise en charge de l’authentification basée sur les revendications](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Non|Non|Non|Non|
+|Assistants de configuration|Non|Non|Non|Non|
 |[Protection contre la perte de données](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|Non|Oui|Non|Oui|
-|Deferred Site Collection upgrade|Oui|Oui|Oui|Oui|
-|Distributed Cache|Non|Non|Non|Non|
+|Mise à niveau différée des collections de sites|Oui|Oui|Oui|Oui|
+|Cache distribué|Non|Non|Non|Non|
 |[Chiffrement des données stockées](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|Oui|Oui|Oui|Oui|
-|[Collections de sites d'en-tête d'hôte](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Non|Non|Non|Non|
-|Improved Permissions Management|Oui|Oui|Oui|Oui|
-|Improved Self-Service Site Creation|Non|Non|Non|Non|
-|Managed Accounts|Non|Non|Non|Non|
+|[Collections de sites d’en-tête d’hôte](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Non|Non|Non|Non|
+|Gestion des autorisations améliorée|Oui|Oui|Oui|Oui|
+|Amélioration de la création de sites en libre-service|Non|Non|Non|Non|
+|Comptes gérés|Non|Non|Non|Non|
 |Minimal Download Strategy (MDS)|Oui|Oui|Oui|Oui|
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|Oui|Oui|Oui|Oui|
 |[Gestion des correctifs](../sharepoint-online-service-description/it-professional.md#patch-management)|Non|Non|Non|Non|
 |[Modèles de quotas](../sharepoint-online-service-description/it-professional.md#quota-templates)|Non|Non|Non|Non|
-|[Prise en charge de bases de données en lecture seule](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Non|Non|Non|Non|
-|[Stockage d'objets BLOB distants](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Non|Non|Non|Non|
+|[Prise en charge des bases de données en lecture seule](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Non|Non|Non|Non|
+|[Stockage BLOB distant](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Non|Non|Non|Non|
 |[Gestion des demandes](../sharepoint-online-service-description/it-professional.md#request-management)|Non|Non|Non|Non|
 |Request throttling|Non|Non|Non|Non|
 |[Limitation des ressources](../sharepoint-online-service-description/it-professional.md#resource-throttling)|Non|Non|Non|Non|
-|[Plateforme d'applications de services](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Non|Non|Oui|Oui|
+|[Plateforme d’application de service](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Non|Non|Oui|Oui|
 |[Analyseur d'intégrité SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|Non|Non|Non|Non|
 |[Centre d’administration SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|Oui|Oui|Oui|Oui|
 |Shredded Storage|Oui|Oui|Oui|Oui|
 |[Stratégies de conformité des collections de sites](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|Oui|Oui|Oui|Oui|
-|Site Collection Health Checks|Oui|Oui|Oui|Oui|
-|State Service|Non|Non|Non|Non|
-|Streamlined Central Administration|Non|Non|Non|Non|
-|System Status Notifications|Non|Non|Non|Non|
-|Unattached Content Database Recovery|Non|Non|Non|Non|
+|Contrôles d'intégrité de collections de sites|Oui|Oui|Oui|Oui|
+|Service d’états temporaires|Non|Non|Non|Non|
+|Administration centrale rationalisée|Non|Non|Non|Non|
+|Notifications d’État du système|Non|Non|Non|Non|
+|Récupération de la base de données de contenu non attachée|Non|Non|Non|Non|
 |Upgrade evaluation site collections|Non|Non|Oui|Oui|
-|[Rapports et journalisation de l'utilisation](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Non|Non|Non|Non|
+|[Rapports d’utilisation et journalisation](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Non|Non|Non|Non|
 |[Prise en charge de Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|Oui|Oui|Oui|Oui|
 |**Fonctionnalités de contenu**|**OneDrive Entreprise Plan 1**|**OneDrive Entreprise Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
-|[Prise en charge des normes d'accessibilité](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Oui|Oui|Oui|Oui|
+|[Prise en charge des normes d’accessibilité](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Oui|Oui|Oui|Oui|
 |[Améliorations de la bibliothèque de biens/prise en charge vidéo](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Oui|Oui|Oui|Oui|
 |[Audit](../sharepoint-online-service-description/content.md#auditing)|Oui|Oui|Oui|Oui|
-|[Audit &amp; rapports (par exemple, modifications de documents, modifications de politiques, suppressions)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Oui|Oui|Oui|Oui|
+|[&amp; Création de rapports d’audit (par exemple, modifications de documents, modifications de stratégie, suppressions)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Oui|Oui|Oui|Oui|
 |[Organisateur de contenu](../sharepoint-online-service-description/content.md#content-organizer)|Non|Non|Oui|Oui|
 |[Gestionnaire de conception](../sharepoint-online-service-description/content.md#design-manager)|Non|Non|Oui|Oui|
 |[Ensembles de documents](../sharepoint-online-service-description/content.md#document-sets)|Oui|Oui|Oui|Oui|
 |[Traduction de documents dans Word pour le Web](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|Oui|Oui|Oui|Oui|
 |[Recherche de découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-search)|Oui|Oui|Oui|Oui|
-|[Mise en suspens de la découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-hold)|Non|Oui|Non|Oui|
+|[conservation eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-hold)|Non|Oui|Non|Oui|
 |[Exportation de la découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-export)|Non|Oui|Non|Oui|
-|Email enabled lists and libraries|Non|Non|Non|Non|
-|[Partage externe : accès externe](../sharepoint-online-service-description/content.md#external-sharing-external-access)|Non|Non|Non|Non|
-|[Partage externe : Lien invité](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Non|Non|Non|Non|
-|[Synchronisation de dossiers](../sharepoint-online-service-description/content.md#folder-sync)|Oui|Oui|Oui|Oui|
+|Listes et bibliothèques à extension messagerie|Non|Non|Non|Non|
+|[Partage externe : accès externe](../sharepoint-online-service-description/content.md#external-sharing-external-access)|Non|Non|Non|Non|
+|[Partage externe : lien invité](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|Non|Non|Non|Non|
+|[Synchronisation des dossiers](../sharepoint-online-service-description/content.md#folder-sync)|Oui|Oui|Oui|Oui|
 |Audit hybride|Non|Non|Non|Non|
-|Taxonomie et types de contenu hybrides|Oui|Oui|Oui|Oui|
+|Taxonomie hybride et types de contenu|Oui|Oui|Oui|Oui|
 |Gestion des droits relatifs à l' [information (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)<sup>1</sup>|Non|Non|Non|Non|
 |[Gestion des droits relatifs à l'information (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Non|Non|Non|Non|
 |[Service de métadonnées gérées](../sharepoint-online-service-description/content.md#managed-metadata-service)|Non|Non|Oui|Oui|
-|[Navigation par métadonnées](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Non|Non|Oui|Oui|
+|[Navigation basée sur les métadonnées](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Non|Non|Oui|Oui|
 |[Disposition en plusieurs étapes](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Oui|Oui|Oui|Oui|
 |[Office pour le Web (création/modification)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|Oui|Oui|Non|Non|
 |[Office pour le Web (affichage)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|Oui|Oui|Oui|Oui|
@@ -659,8 +651,8 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |[Gestion des enregistrements](../sharepoint-online-service-description/content.md#records-management)|Non|Non|Oui|Oui|
 |[Corbeille (centre d'administration SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|Oui|Oui|Oui|Oui|
 |[Corbeille (collection de sites)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Oui|Oui|Oui|Oui|
-|Related Items|Non|Non|Oui|Oui|
-|Rich Media Management|Non|Non|Oui|Oui|
+|Éléments associés|Non|Non|Oui|Oui|
+|Gestion des médias enrichis|Non|Non|Oui|Oui|
 |[Types de contenu partagé](../sharepoint-online-service-description/content.md#shared-content-types)|Oui|Oui|Oui|Oui|
 |[Services de traduction SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|Non|Non|Oui|Oui|
 |Enquêtes|Oui|Oui|Oui|Oui|
@@ -671,12 +663,12 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |[Page de catégorie et page d’élément de catalogue](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|Non|Non|Non|Oui|
 |[Composants WebPart de recherche](../sharepoint-online-service-description/content.md#search-web-parts)|Non|Non|Non|Oui|
 |[Publication intersites](../sharepoint-online-service-description/content.md#cross-site-publishing)|Non|Non|Non|Oui|
-|WCM: Designer Tools|Non|Non|Oui|Oui|
+|WCM : outils de conception|Non|Non|Oui|Oui|
 |[Navigation par facettes](../sharepoint-online-service-description/content.md#faceted-navigation)|Non|Non|Non|Non|
 |[Rendus d’image](../sharepoint-online-service-description/content.md#image-renditions)|Non|Non|Oui|Oui|
 |WCM: Managed navigation|Non|Non|Oui|Oui|
-|WCM: Mobile and Device Rendering|Non|Non|Oui|Oui|
-|WCM: Multiple Domains|Non|Non|Non|Non|
+|WCM : rendu mobile et appareil|Non|Non|Oui|Oui|
+|WCM : plusieurs domaines|Non|Non|Non|Non|
 |WCM: Recommendations|Non|Non|Oui|Oui|
 |[WCM : Optimisations du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Non|Non|Oui|Oui|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Non|Non|Non|Non|
@@ -686,8 +678,8 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |[Bibliothèque de connexions de données](../sharepoint-online-service-description/insights.md#data-connection-library)|Non|Non|Non|Oui|
 |[Tableaux croisés dynamiques et graphiques croisés dynamiques découplés](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|Non|Non|Non|Oui|
 |[Excel Services](../sharepoint-online-service-description/insights.md#excel-services)|Non|Non|Non|Oui|
-|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Non|Non|Non|Oui|
-|[Améliorations du filtre](../sharepoint-online-service-description/insights.md#filter-enhancements)|Non|Non|Non|Oui|
+|[Liste des champs et prise en charge des champs](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Non|Non|Non|Oui|
+|[Améliorations des filtres](../sharepoint-online-service-description/insights.md#filter-enhancements)|Non|Non|Non|Oui|
 |[Recherche de filtre](../sharepoint-online-service-description/insights.md#filter-search)|Non|Non|Non|Oui|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|Non|Non|Non|Non|
 |PerformancePoint Services (PPS) Dashboard Migration|Non|Non|Non|Non|
@@ -700,12 +692,12 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |[Visio pour le Web](https://docs.microsoft.com/office365/servicedescriptions/visio-online-service-description/visio-online-service-description)<sup>4</sup>|Oui|Oui|Oui|Oui|
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>4</sup>|Non|Non|Non|Non|
 |**Fonctionnalités de recherche**|**OneDrive Entreprise Plan 1**|**OneDrive Entreprise Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
-|Advanced Content Processing|Non|Non|Non|Non|
+|Traitement de contenu avancé|Non|Non|Non|Non|
 |[Analyses continues](../sharepoint-online-service-description/search.md#continuous-crawls)|Oui|Oui|Oui|Oui|
 |Custom entity extraction|Non|Non|Non|Non|
 |[Liens profonds](../sharepoint-online-service-description/search.md#deep-links)|Oui|Oui|Oui|Oui|
 |[Pertinence basée sur des événements](../sharepoint-online-service-description/search.md#event-based-relevancy)|Oui|Oui|Oui|Oui|
-|[Recherche d'expertise](../sharepoint-online-service-description/search.md#expertise-search)|Oui|Oui|Oui|Oui|
+|[Recherche d’expertise](../sharepoint-online-service-description/search.md#expertise-search)|Oui|Oui|Oui|Oui|
 |Extensible content processing|Non|Non|Non|Non|
 |[Affinements graphiques](../sharepoint-online-service-description/search.md#graphical-refiners)|Oui|Oui|Oui|Oui|
 |[Recherche hybride](../sharepoint-online-service-description/search.md#hybrid-search)|Oui|Oui|Oui|Oui|
@@ -731,28 +723,28 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |**Fonctionnalités des sites**|**OneDrive Entreprise Plan 1**|**OneDrive Entreprise Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
 |Change the look|Non|Non|Oui|Oui|
 |Connections to Microsoft Office Clients|Oui|Oui|Oui|Oui|
-|[Prise en charge inter-navigateur](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Oui|Oui|Oui|Oui|
-|[Chemins d'accès gérés personnalisés](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Non|Non|Non|Non|
+|[Prise en charge de l’Explorateur croisé](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Oui|Oui|Oui|Oui|
+|[Chemins d’accès gérés personnalisés](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Non|Non|Non|Non|
 |[Gouvernance](../sharepoint-online-service-description/sites-servicedesc.md#governance)|Oui|Oui|Oui|Oui|
-|Lanceur d'applications hybride|Oui|Oui|Oui|Oui|
-|Sites et OneDrive Entreprise hybrides|Oui|Oui|Oui|Oui|
+|Lanceur d’applications hybride|Oui|Oui|Oui|Oui|
+|OneDrive entreprise et sites hybrides|Oui|Oui|Oui|Oui|
 |[Évolutivité et gestion des listes volumineuses](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Oui|Oui|Oui|Oui|
 |[Connectivité mobile](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui|Oui|
 |[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Oui|Oui|Oui|Oui|
 |My Tasks|Non|Non|Oui|Oui|
-|[Composants WebPart prêts à l'emploi](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Non|Non|Oui|Oui|
+|[Composants WebPart OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Non|Non|Oui|Oui|
 |[Gestion des autorisations](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Oui|Oui|Oui|Oui|
 |Project functionality for team sites|Non|Non|Oui|Oui|
 |[Modèle de site de projet](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template)|Non|Non|Oui|Oui|
 |Project Summary web part|Non|Non|Oui|Oui|
 |Project workspace|Non|Non|Oui|Oui|
 |[Listes SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|Non|Non|Oui|Oui|
-|SharePoint Ribbon|Non|Non|Oui|Oui|
+|Ruban SharePoint|Non|Non|Oui|Oui|
 |[Bibliothèques de documents](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|Non|Non|Oui|Oui|
 |[Liste des tâches](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|Non|Non|Oui|Oui|
 |Team Site: Drag & Drop|Non|Non|Oui|Oui|
 |[Bloc-notes d’équipe](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|Non|Non|Oui|Oui|
-|Team Site: Simplified Access|Non|Non|Oui|Oui|
+|Site d’équipe : accès simplifié|Non|Non|Oui|Oui|
 |[Conceptions de site](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|Non|Non|Oui|Oui|
 |[Thèmes de site (modifier l’apparence)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|Non|Non|Oui|Oui|
 |[Page Utilisation du site](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|Non|Non|Oui|Oui|
@@ -761,30 +753,30 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |**Fonctionnalités sociales**|**OneDrive Entreprise Plan 1**|**OneDrive Entreprise Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
 |Ask Me About|Oui|Oui|Oui|Oui|
 |[Blogs personnels](../sharepoint-online-service-description/social.md#personal-blogs)|Non|Non|Oui|Oui|
-|Communities Reputation, Badging, and Moderation|Non|Non|Oui|Oui|
+|Réputation des communautés, badges et modération|Non|Non|Oui|Oui|
 |[Communauté](../sharepoint-online-service-description/social.md#community)|Non|Non|Oui|Oui|
-|[Flux de l'entreprise](../sharepoint-online-service-description/social.md#company-feed)|Non|Non|Oui|Oui|
-|Document Conversations with Yammer|Non|Non|Non|Non|
+|[Flux de l’entreprise](../sharepoint-online-service-description/social.md#company-feed)|Non|Non|Oui|Oui|
+|Documenter les conversations avec Yammer|Non|Non|Non|Non|
 |Suivre|Oui|Oui|Oui|Oui|
 |Blog de billets courts|Non|Non|Oui|Oui|
 |Flux d’actualités|Non|Non|Oui|Oui|
-|One Click Sharing|Oui|Oui|Oui|Oui|
-|People, Sites, Document Recommendations|Non|Non|Oui|Oui|
-|Personal Site|Oui|Oui|Oui|Oui|
-|Photos and Presence|Oui|Oui|Oui|Oui|
-|Profil|Oui|Oui|Oui|Oui|
+|Partage en un clic|Oui|Oui|Oui|Oui|
+|Personnes, sites, recommandations de documents|Non|Non|Oui|Oui|
+|Site personnel |Oui|Oui|Oui|Oui|
+|Photos et présence|Oui|Oui|Oui|Oui|
+|Profils|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Non|Non|Oui|Oui|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|
 |Tag profiles|Non|Non|Oui|Oui|
 |Tasks integrated with Outlook|Oui|Oui|Oui|Oui|
-|Trending Tags|Non|Non|Oui|Oui|
+|Balises de tendance|Non|Non|Oui|Oui|
 |[Wikis](../sharepoint-online-service-description/social.md#wikis)|Non|Non|Oui|Oui|
 |**Compléments**|**OneDrive Entreprise Plan 1**|**OneDrive Entreprise Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
 |[Stockage supplémentaire](../sharepoint-online-service-description/add-ons.md#additional-storage)|Non|Non|Non|Non|
-|[Applications configurées par Azure : Services d'accès](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Oui|Oui|Oui|Oui|
-|[Applications configurées par Azure : Code personnalisé dans le rôle LWR (Lightweight Web Role) d'Azure](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Oui|Oui|Oui|Oui|
+|[Applications configurées par Azure : Access services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Oui|Oui|Oui|Oui|
+|[Applications configurées par Azure : code personnalisé dans le rôle Web léger Azure (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Oui|Oui|Oui|Oui|
 
 > [!NOTE]
 > <sup>1</sup> Azure information protection n’est pas inclus mais peut être acheté en tant que module complémentaire distinct pour permettre l’activation des fonctionnalités IRM prises en charge.<br/>
@@ -793,7 +785,6 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 <sup>4</sup> Visio for the Web consommation (View Capability) est disponible gratuitement. Les fonctionnalités de création et de modification de Visio pour le Web nécessitent une licence. Pour plus d’informations sur Visio pour le Web, reportez-vous à la [Description de Visio pour le service Web](../visio-online-service-description/visio-online-service-description.md).
 
 ## <a name="project-online-features"></a>Fonctionnalités de Project Online
-<a name="BM1_Platform"> </a>
 
 Le tableau suivant répertorie les fonctionnalités de Project Online disponibles dans les plans Office 365 Germany. Pour en savoir plus sur Project Online, regardez la [vidéo de présentation de Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
@@ -801,11 +792,10 @@ Le tableau suivant répertorie les fonctionnalités de Project Online disponible
 |:-----|:-----|:-----|
 |**Offre**|**Description**|**Utilisateurs ciblés**|
 |Project Online Essentials| Interface Web pour les membres d'équipe  <br/>  Mettre à jour des tâches, des problèmes et des risques  <br/>  Soumettre des feuilles de temps  <br/>  Partager des documents et collaborer avec la présence Skype Entreprise|Membres de l'équipe|
-|Project Online Professionnel| Toutes les fonctionnalités de Project Online Essentials, ainsi que :  <br/>  Interface utilisateur enrichie via le client pour ordinateur de bureau  <br/>  Accès à tout moment et en tout lieu via une interface Web  <br/>  Planification de projet et évaluation des coûts  <br/>  Gestion des ressources  <br/>  Publication de projets dans le cloud  <br/>  Inclut la version la plus récente de l'application de bureau Project, instantanément diffusée en continu sur votre PC Windows.  <br/>  Chaque licence d'abonnement permet de mettre en place jusqu'à cinq installations simultanées de l'application de bureau Project.|Responsables de projets|
+|Project Online Professionnel| Toutes les fonctionnalités de Project Online Essentials, ainsi que :  <br/>  Interface utilisateur enrichie via le client pour ordinateur de bureau  <br/>  Accès à tout moment ou en tout lieu via une interface Web  <br/>  Planification de projet et évaluation des coûts  <br/>  Gestion des ressources  <br/>  Publication de projets dans le cloud  <br/>  Inclut la version la plus récente de l'application de bureau Project, instantanément diffusée en continu sur votre PC Windows.  <br/>  Chaque licence d'abonnement permet de mettre en place jusqu'à cinq installations simultanées de l'application de bureau Project.|Responsables de projets|
 |Project Online Premium| Toutes les fonctionnalités de Project Online Professionnel, ainsi que :  <br/>  Sélection et optimisation de portefeuille  <br/>  Gestion de la demande  <br/>  Gestion des ressources d'entreprise  <br/>  Rapports de portefeuille prêts à l'emploi|Responsables de portefeuilles et de ressources|
 
 ## <a name="sharepoint-online-features"></a>Fonctionnalités de SharePoint Online
-<a name="BM1_Platform"> </a>
 
 Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne prennent pas tous en charge l'ensemble des fonctionnalités de SharePoint. Le tableau suivant répertorie les fonctionnalités disponibles dans les plans Office 365 Germany.
 
@@ -814,31 +804,31 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalités de développeur**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|[Catalogue d'applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Déploiement d'applications : Applications hébergées en nuage](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Déploiement d'applications : Applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Catalogue d’applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Déploiement d’applications : applications hébergées dans le Cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Déploiement d’applications : applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Services de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-services)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|BCS: Alerts for External Lists|Non|Non|Non|Oui|Non|Oui|Oui|Non|
-|[BCS : Types de contenus externes étendus aux applications (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
+|BCS : alertes pour les listes externes|Non|Non|Non|Oui|Non|Oui|Oui|Non|
+|[BCS : types de contenu externe d’étendue d’application (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
-|[BCS : Liste externe](../sharepoint-online-service-description/developer.md#bcs-external-list)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
+|[BCS : liste externe](../sharepoint-online-service-description/developer.md#bcs-external-list)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[BCS : Connecteur OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |BCS: Profile Pages|Non|Non|Non|Non|Non|Non|Non|Non|
-|[BCS : Intégration de client riche](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Non|Non|Non|Non|Non|Non|Non|Non|
+|[BCS : intégration de client riche](../sharepoint-online-service-description/developer.md#bcs-rich-client-integration)|Non|Non|Non|Non|Non|Non|Non|Non|
 |BCS: Secure Store Service|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |BCS: Tenant-level external data log|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |Browser-based customizations|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Modèle d'objet client (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Client-side rendering (CSR)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Custom Site Definitions|Non|Non|Non|Non|Non|Non|Non|Non|
-|[Page de configuration de site personnalisée](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Non|Non|Non|Non|Non|Non|Non|Non|
-|[Site de développeur](../sharepoint-online-service-description/developer.md#developer-site)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Les définitions de site personnalisées|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Page de mise en service de site personnalisée](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page)|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Site du développeur](../sharepoint-online-service-description/developer.md#developer-site)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Applications basées sur des formulaires](../sharepoint-online-service-description/developer.md#forms-based-applications)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Solutions de confiance totale](../sharepoint-online-service-description/developer.md#full-trust-solutions)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services)|Non|Non|Non|Oui,<sup>17</sup>|Non|Oui,<sup>17</sup>|Oui,<sup>17</sup>|Non|
 |[Modèle d'objet JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|List and Library APIs|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Récepteur d'événements distant](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|API de liste et de bibliothèque|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Récepteur d’événements distants](../sharepoint-online-service-description/developer.md#remote-event-receiver)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[API REST](../sharepoint-online-service-description/developer.md#rest-apis)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Gestionnaire de conception SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -854,60 +844,60 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |[Mappage des accès de substitution (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam)|Non|Non|Non|Non|Non|Non|Non|Non|
 |Analytics Platform|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Protection contre les programmes malveillants](../sharepoint-online-service-description/it-professional.md#anti-malware-protection)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Assistance à l'authentification basée sur les revendications](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Non|Non|Non|Non|Non|Non|Non|Non|
-|Configuration Wizards|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Prise en charge de l’authentification basée sur les revendications](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support)|Non|Non|Non|Non|Non|Non|Non|Non|
+|Assistants de configuration|Non|Non|Non|Non|Non|Non|Non|Non|
 |Data loss prevention|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Deferred Site Collection upgrade|Non|Non|Non|Non|Non|Non|Non|Non|
+|Mise à niveau différée des collections de sites|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Protection contre la perte de données](../sharepoint-online-service-description/it-professional.md#data-loss-prevention)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Chiffrement des données stockées](../sharepoint-online-service-description/it-professional.md#encryption-at-rest)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Collections de sites d'en-tête d'hôte](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Non|Non|Non|Non|Non|Non|Non|Non|
-|Improved Permissions Management|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Improved Self-Service Site Creation|Non|Non|Oui|Non|Non|Non|Non|Non|
-|Managed Accounts|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Collections de sites d’en-tête d’hôte](../sharepoint-online-service-description/it-professional.md#host-header-site-collections)|Non|Non|Non|Non|Non|Non|Non|Non|
+|Gestion des autorisations améliorée|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Amélioration de la création de sites en libre-service|Non|Non|Oui|Non|Non|Non|Non|Non|
+|Comptes gérés|Non|Non|Non|Non|Non|Non|Non|Non|
 |Minimal Download Strategy (MDS)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[OAuth](../sharepoint-online-service-description/it-professional.md#oauth)|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|
 |[Gestion des correctifs](../sharepoint-online-service-description/it-professional.md#patch-management)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Modèles de quotas](../sharepoint-online-service-description/it-professional.md#quota-templates)|Non|Non|Non|Non|Non|Non|Non|Non|
-|[Prise en charge de bases de données en lecture seule](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Non|Non|Non|Non|Non|Non|Non|Non|
-|[Stockage d'objets BLOB distants](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Prise en charge des bases de données en lecture seule](../sharepoint-online-service-description/it-professional.md#read-only-database-support)|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Stockage BLOB distant](../sharepoint-online-service-description/it-professional.md#remote-blob-storage)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Gestion des demandes](../sharepoint-online-service-description/it-professional.md#request-management)|Non|Non|Non|Non|Non|Non|Non|Non|
 |Request throttling|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Limitation des ressources](../sharepoint-online-service-description/it-professional.md#resource-throttling)|Non|Non|Non|Non|Non|Non|Non|Non|
-|[Plateforme d'applications de services](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Plateforme d’application de service](../sharepoint-online-service-description/it-professional.md#service-application-platform)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Analyseur d'intégrité SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Centre d’administration SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|N °<sup>4</sup>|
 |Shredded Storage|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Stratégies de conformité des collections de sites](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Site Collection Health Checks|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|State Service|Non|Non|Non|Non|Non|Non|Non|Non|
+|Contrôles d'intégrité de collections de sites|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Service d’états temporaires|Non|Non|Non|Non|Non|Non|Non|Non|
 |Streamlined Central Administration|Non|Non|Non|Non|Non|Non|Non|Non|
-|System Status Notifications|Non|Non|Non|Non|Non|Non|Non|Non|
-|Unattached Content Database Recovery|Non|Non|Non|Non|Non|Non|Non|Non|
+|Notifications d’État du système|Non|Non|Non|Non|Non|Non|Non|Non|
+|Récupération de la base de données de contenu non attachée|Non|Non|Non|Non|Non|Non|Non|Non|
 |Upgrade evaluation site collections|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Rapports et journalisation de l'utilisation](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Rapports d’utilisation et journalisation](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Prise en charge de Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**Fonctionnalités de contenu**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|[Prise en charge des normes d'accessibilité](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Prise en charge des normes d’accessibilité](../sharepoint-online-service-description/content.md#accessibility-standards-support)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Améliorations de la bibliothèque de biens/prise en charge vidéo](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Audit](../sharepoint-online-service-description/content.md#auditing)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Audit &amp; rapports (par exemple, modifications de documents, modifications de politiques, suppressions)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[&amp; Création de rapports d’audit (par exemple, modifications de documents, modifications de stratégie, suppressions)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Organisateur de contenu](../sharepoint-online-service-description/content.md#content-organizer)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Gestionnaire de conception](../sharepoint-online-service-description/content.md#design-manager)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Ensembles de documents](../sharepoint-online-service-description/content.md#document-sets)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Traduction de documents dans Word pour le Web](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Recherche de découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-search)|Oui<sup>6</sup>|Oui|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|
-|[Mise en suspens de la découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-hold)|N °<sup>6</sup>|Non|N °<sup>6</sup>|Oui<sup>6</sup>|N °<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|N °<sup>6</sup>|
+|[conservation eDiscovery](../sharepoint-online-service-description/content.md#ediscovery-hold)|N °<sup>6</sup>|Non|N °<sup>6</sup>|Oui<sup>6</sup>|N °<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|N °<sup>6</sup>|
 |[Exportation de la découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-export)|N °<sup>6</sup>|Non|N °<sup>6</sup>|Oui<sup>6</sup>|N °<sup>6</sup>|Oui<sup>6</sup>|Oui<sup>6</sup>|N °<sup>6</sup>|
-|Email enabled lists and libraries|Non|Non|Non|Non|Non|Non|Non|Non|
-|[Partage externe : accès externe](../sharepoint-online-service-description/content.md#external-sharing-external-access)|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|
-|[Partage externe : Lien invité](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|
-|[Synchronisation de dossiers](../sharepoint-online-service-description/content.md#folder-sync)|Oui<sup>, 1, 10</sup>|Oui|Oui<sup>1, 9</sup>|Oui<sup>1, 9</sup>|Oui<sup>1</sup>|Oui|Oui|Oui<sup>2, 10</sup>|
+|Listes et bibliothèques à extension messagerie|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Partage externe : accès externe](../sharepoint-online-service-description/content.md#external-sharing-external-access)|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|
+|[Partage externe : lien invité](../sharepoint-online-service-description/content.md#external-sharing-guest-link)|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|
+|[Synchronisation des dossiers](../sharepoint-online-service-description/content.md#folder-sync)|Oui<sup>, 1, 10</sup>|Oui|Oui<sup>1, 9</sup>|Oui<sup>1, 9</sup>|Oui<sup>1</sup>|Oui|Oui|Oui<sup>2, 10</sup>|
 |Audit hybride|Non|Non|Non|Non|Non|Non|Non|Non|
-|Taxonomie et types de contenu hybrides|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>20</sup>|
+|Taxonomie hybride et types de contenu|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>20</sup>|
 |[Gestion des droits relatifs à l'information (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|N °<sup>3</sup>|Non|N °<sup>3</sup>|Oui|N °<sup>3</sup>|Oui|Oui|Non<sup>3, 4</sup>|
 |[Gestion des droits relatifs à l'information (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Service de métadonnées gérées](../sharepoint-online-service-description/content.md#managed-metadata-service)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Navigation par métadonnées](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Navigation basée sur les métadonnées](../sharepoint-online-service-description/content.md#metadata-driven-navigation)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Disposition en plusieurs étapes](../sharepoint-online-service-description/content.md#multi-stage-disposition)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Office pour le Web (création/modification)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>16</sup>|
 |[Office pour le Web (affichage)](../sharepoint-online-service-description/content.md#office-for-the-web-view)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -919,8 +909,8 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |[Gestion des enregistrements](../sharepoint-online-service-description/content.md#records-management)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Corbeille (centre d'administration SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |[Corbeille (collection de sites)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Related Items|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Rich Media Management|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Éléments associés|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Gestion des médias enrichis|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Types de contenu partagé](../sharepoint-online-service-description/content.md#shared-content-types)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Services de traduction SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Enquêtes|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -931,12 +921,12 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |[Page de catégorie et page d’élément de catalogue](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Composants WebPart de recherche](../sharepoint-online-service-description/content.md#search-web-parts)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Publication intersites](../sharepoint-online-service-description/content.md#cross-site-publishing)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
-|WCM: Designer Tools|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|WCM : outils de conception|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Navigation par facettes](../sharepoint-online-service-description/content.md#faceted-navigation)|Non|Non|Non|Non|Non|Oui<sup>7</sup>|Oui<sup>7</sup>|Non|
 |[Rendus d’image](../sharepoint-online-service-description/content.md#image-renditions)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |WCM: Managed navigation|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|WCM: Mobile and Device Rendering|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|WCM: Multiple Domains|Non|Non|Non|Non|Non|Non|Non|Non|
+|WCM : rendu mobile et appareil|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|WCM : plusieurs domaines|Non|Non|Non|Non|Non|Non|Non|Non|
 |WCM: Recommendations|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[WCM : Optimisations du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Non|Non|Non|Non|Non|Non|Non|Non|
@@ -946,8 +936,8 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |[Bibliothèque de connexions de données](../sharepoint-online-service-description/insights.md#data-connection-library)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Tableaux croisés dynamiques et graphiques croisés dynamiques découplés](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |Excel Services|Non|Non|Non|Non|Non|Non|Non|Non|
-|[Field list and Field Support](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
-|[Améliorations du filtre](../sharepoint-online-service-description/insights.md#filter-enhancements)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
+|[Liste des champs et prise en charge des champs](../sharepoint-online-service-description/insights.md#field-list-and-field-support)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
+|[Améliorations des filtres](../sharepoint-online-service-description/insights.md#filter-enhancements)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Recherche de filtre](../sharepoint-online-service-description/insights.md#filter-search)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services)|Non|Non|Non|Non|Non|Non|Non|Non|
 |PerformancePoint Services (PPS) Dashboard Migration|Non|Non|Non|Non|Non|Non|Non|Non|
@@ -955,11 +945,11 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |[Power View pour Excel dans SharePoint](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Power Pivot pour Excel dans SharePoint](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Exploration rapide](../sharepoint-online-service-description/insights.md#quick-explore)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
-|Scorecards & Dashboards|Non|Non|Non|Non|Non|Non|Non|Non|
-|[SQL Server Reporting Services (SSRS) Mode intégré](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode)|Non|Non|Non|Non|Non|Non|Non|Non|
+|Cartes de performance & tableaux de bord|Non|Non|Non|Non|Non|Non|Non|Non|
+|[SQL Server Reporting Services (SSRS) Mode intégré](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-web-part)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Segment de chronologie](../sharepoint-online-service-description/insights.md#timeline-slicer)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[Utiliser les classeurs Excel contenant des modèles de données et interagir avec ceux-ci](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Visio pour le Web](https://technet.microsoft.com/library/mt827475.aspx)<sup>18</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Visio pour le Web](../visio-online-service-description/visio-online-service-description.md)<sup>18</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Visio Services](../sharepoint-online-service-description/insights.md#visio-services)<sup>18</sup>|Non|Non|Non|Non|Non|Non|Non|Non|
 |**Fonctionnalités de recherche**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Advanced Content Processing|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -967,7 +957,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Custom entity extraction|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Liens profonds](../sharepoint-online-service-description/search.md#deep-links)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Pertinence basée sur des événements](../sharepoint-online-service-description/search.md#event-based-relevancy)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Recherche d'expertise](../sharepoint-online-service-description/search.md#expertise-search)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Recherche d’expertise](../sharepoint-online-service-description/search.md#expertise-search)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Extensible content processing|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Affinements graphiques](../sharepoint-online-service-description/search.md#graphical-refiners)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Recherche hybride](../sharepoint-online-service-description/search.md#hybrid-search)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -993,28 +983,28 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |**Fonctionnalités des sites**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Change the look|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Connections to Microsoft Office Clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Prise en charge inter-navigateur](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Chemins d'accès gérés personnalisés](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Prise en charge de l’Explorateur croisé](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Chemins d’accès gérés personnalisés](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths)|Non|Non|Non|Non|Non|Non|Non|Non|
 |[Gouvernance](../sharepoint-online-service-description/sites-servicedesc.md#governance)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Lanceur d'applications hybride|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>19</sup>|
-|Sites et OneDrive Entreprise hybrides|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>19</sup>|
+|Lanceur d’applications hybride|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>19</sup>|
+|OneDrive entreprise et sites hybrides|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>19</sup>|
 |[Évolutivité et gestion des listes volumineuses](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Connectivité mobile](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Non|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|
 |[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|
 |My Tasks|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Composants WebPart prêts à l'emploi](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Composants WebPart OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Gestion des autorisations](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Project functionality for team sites|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Modèle de site de projet](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Project Summary web part|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Project workspace|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Listes SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|SharePoint Ribbon|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Ruban SharePoint|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Bibliothèques de documents](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Liste des tâches](../sharepoint-online-service-description/sites-servicedesc.md#task-list)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Team Site: Drag & Drop|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Site d’équipe : déplacer & glisser|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Bloc-notes d’équipe](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Team Site: Simplified Access|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Site d’équipe : accès simplifié|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Conceptions de site](../sharepoint-online-service-description/sites-servicedesc.md#site-designs)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Thèmes de site (modifier l’apparence)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Page Utilisation du site](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -1023,31 +1013,31 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |**Fonctionnalités sociales**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Ask Me About|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Blogs personnels|Oui<sup>13</sup>|Non|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|
-|Communities Reputation, Badging, and Moderation|Oui<sup>14</sup>|Non|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|N °<sup>14</sup>|
+|Réputation des communautés, badges et modération|Oui<sup>14</sup>|Non|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|N °<sup>14</sup>|
 |[Communauté](../sharepoint-online-service-description/social.md#community)|Oui<sup>14</sup>|Non|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|Oui<sup>14</sup>|Non|
-|[Flux de l'entreprise](../sharepoint-online-service-description/social.md#company-feed)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Non|
-|Document Conversations with Yammer|Non|Non|Non|Non|Non|Non|Non|Non|
+|[Flux de l’entreprise](../sharepoint-online-service-description/social.md#company-feed)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Non|
+|Documenter les conversations avec Yammer|Non|Non|Non|Non|Non|Non|Non|Non|
 |Suivre|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Blog de billets courts|Oui|Non|Oui|Oui|Oui|Oui|Oui|Non|
 |Flux d’actualités|Oui|Non|Oui|Oui|Oui|Oui|Oui|Non|
-|One Click Sharing|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|People, Sites, Document Recommendations|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Personal Site|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Photos and Presence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Profil|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Partage en un clic|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Personnes, sites, recommandations de documents|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Site personnel |Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Photos et présence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Profils|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>2</sup>|
 |Tag profiles|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Tasks integrated with Outlook|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Trending Tags|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Balises de tendance|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Wikis](../sharepoint-online-service-description/social.md#wikis)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Yammer|Non|Non|Non|Non|Non|Non|Non|Non|
 |**Compléments**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |[Stockage supplémentaire](../sharepoint-online-service-description/add-ons.md#additional-storage)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Applications configurées par Azure : Services d'accès](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
-|[Applications configurées par Azure : Code personnalisé dans le rôle LWR (Lightweight Web Role) d'Azure](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Applications configurées par Azure : Access services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services)|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
+|[Applications configurées par Azure : code personnalisé dans le rôle Web léger Azure (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Duet Online|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 
 > [!NOTE]
@@ -1063,13 +1053,12 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 <sup>12</sup> l’aide est uniquement disponible en chinois simplifié et en anglais.<br/>
 <sup>13</sup> les commentaires sur les blogs ne peuvent pas être ajoutés.<br/>
 <sup>14</sup> le site Web communautaire est disponible, mais l’aide communautaire publique n’est pas disponible.<br/>
-<sup>15</sup> Access 2010 n’est pas pris en charge.<br/> <sup>16</sup> les utilisateurs Kiosk ne peuvent pas créer de documents Office à l’aide de vignettes dynamiques. Pour créer un document, les utilisateurs Kiosk doivent le faire à partir d’un site SharePoint Online en cliquant sur **nouveau** , puis en sélectionnant un document de type fichier-Word, un classeur Excel, une présentation PowerPoint, un bloc-notes OneNote ou une enquête Excel : dans le menu **créer un fichier** . <br/>
+<sup>15</sup> Access 2010 n’est pas pris en charge.<br/> <sup>16</sup> les utilisateurs Kiosk ne peuvent pas créer de documents Office à l’aide de vignettes dynamiques. Pour créer un document, les utilisateurs Kiosk doivent le faire à partir d’un site SharePoint Online en sélectionnant **nouveau** , puis en sélectionnant un document de type fichier-Word, un classeur Excel, une présentation PowerPoint, un bloc-notes OneNote ou une enquête Excel : dans le menu **créer un fichier** . <br/>
 <sup>17</sup> les formulaires InfoPath qui contiennent du code utilisateur (sandbox) peuvent uniquement être utilisés dans le client riche InfoPath.<br/>
 <sup>18</sup> Visio for the Web consommation (View Capability) est disponible gratuitement. Les fonctionnalités de création et de modification de Visio pour le Web nécessitent une licence. Pour plus d’informations sur Visio pour le Web, reportez-vous à la [Description de Visio pour le service Web](../visio-online-service-description/visio-online-service-description.md).<br/>
 <sup>19</sup> K1 les utilisateurs peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 K1 n’inclut pas les droits CAL pour accéder au serveur ; ces droits doivent être achetés séparément.
 
 ## <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
-<a name="BM3_Skype"> </a>
 
 Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online disponibles dans les plans Office 365 Germany.
 
@@ -1087,17 +1076,17 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Clients mobiles Skype Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Skype Entreprise Web App|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |**[Messagerie instantanée, présence et contacts](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Présence et messagerie instantanée entre PC|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Messagerie instantanée et présence de groupes|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Messagerie instantanée et présence PC à PC|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Messagerie instantanée et présence à plusieurs|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Configuration de la carte de visite|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Configuration de Mon image|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Mon image : expérience de photo URL|Non|Non|Non|Non|Non|Non|Non|
+|Configuration de mon image|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Mon image : photo-expérience URL|Non|Non|Non|Non|Non|Non|Non|
 |Configuration de la liste des contacts|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Magasin de contacts unifié|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|Non|
-|Recherche dans le carnet d'adresses|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Expansion de la liste de distribution|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Recherche dans le carnet d’adresses|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Développement de la liste de distribution|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Conversation permanente|Non|Non|Non|Non|Non|Non|Non|
-|Photos de l'expéditeur/du récepteur|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Photos de l’expéditeur/du récepteur|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |**[Média, vidéo et audio entre utilisateurs Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|\  <br/> **Office 365 Germany Entreprise E3**|\  <br/> **Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Partage de Bureau et Partage d'écran sur vidéo|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Partage d'applications et de Bureaux et Protocole Bureau à distance|Oui|Oui|Oui|Oui|Oui|Oui|Non|
@@ -1107,36 +1096,36 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |**[Fédération et connectivité PIC (Public IM Connectivity)](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Office Communications Server 2007 R2 et Lync Server 2010 (messagerie instantanée, présence, audio, vidéo, conférences)|Oui|Non|Oui|Oui|Oui|Oui|Non|
 |Fédération XMPP (utilisé par Google Talk, par exemple) et Sametime|Non|Non|Non|Non|Non|Non|Non|
-| Fédération Skype|N °<sup>6</sup>|Non|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|Non|
+|Fédération Skype|N °<sup>6</sup>|Non|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|Non|
 |Fédération AOL et Yahoo!|Non|Non|Non|Non|Non|Non|Non|
 |**[Réunions Skype Entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Audioconférences ad hoc et planifiées|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Vidéoconférences ad hoc et planifiées|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Vidéo de l'intervenant actif|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Encodage et décodage H.264|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Vidéo en groupe|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Vidéo haute définition ou photos de tous les participants|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Services d’audioconférence ad hoc et planifiés|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Conférence vidéo ad hoc et planifiée|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Vidéo haut-parleur actif|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Codage et décodage H. 264|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Vidéo à plusieurs|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Vidéo haute définition ou images de tous les participants|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Contrôles du présentateur|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Vue du participant sélectionné|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Vue sélectionnée par le participant|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Partage OneNote|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Conférences web ad hoc et planifiées|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Accès à une réunion Skype Entreprise via l'audioconférence (interne)|Non|Non|Non|Non|Non|Non|Non|
-|Numérotation de réunion Skype Entreprise via un fournisseur de services d'audioconférence certifié|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|Non|
+|Conférence Web ad hoc et planifiée|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Numérotation de réunion Skype entreprise via l’audioconférence (première partie)|Non|Non|Non|Non|Non|Non|Non|
+|Numérotation de réunion Skype entreprise via un fournisseur de services d’audioconférence certifié (ACP)|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|Non|
 |Partage PowerPoint|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Transfert de fichiers|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Tableau blanc et annotations|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Téléchargement PowerPoint|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Téléchargement de PowerPoint|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Interrogation|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Enregistrement et lecture côté client|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Enregistrement et lecture côté serveur|Non|Non|Non|Non|Non|Non|Non|
-|Salle d'attente|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Salle d’attente|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Diffusion de réunion Skype<sup>6</sup>|Non|Non|N °<sup>6</sup>|Non|N °<sup>6</sup>|N °<sup>6</sup>|Non|
-|Accès invité aux réunions Skype avec Skype Entreprise Web App|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Planification de réunions Skype Entreprise dans Outlook|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Planification de réunions Skype Entreprise dans Outlook pour le compte de tiers (délégation)|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Planification de réunions Skype Entreprise avec Web Scheduler|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|Non|
-|Planification de réunions Lync dans Outlook Web App|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Délégation Outlook pour la planification de réunions|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Accès invité aux réunions Skype avec Skype entreprise Web App|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Planifier des réunions Skype entreprise dans Outlook|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Planifier des réunions Skype entreprise dans Outlook pour le compte d’autres personnes (délégation)|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Planifier des réunions Skype entreprise avec Web Scheduler|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|N °<sup>6</sup>|Non|
+|Planifier des réunions en ligne dans Outlook sur le Web|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Délégation Outlook pour la planification des réunions|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Création de réunions publiques avec des ID de réunion statiques à partir d'Outlook|Non|Non|Non|Non|Non|Non|Non|
 |**Appel vocal**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Options occupées|Non|Non|Non|Non|Non|Non|Non|
@@ -1178,39 +1167,38 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |[Crédits de communication](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json)|Non|Non|Non|Non|Non|Non|Non|
 |Appels vocaux Skype Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |**[Sécurité et archivage](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Messagerie instantanée et chiffrement des données multimédias|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Chiffrement de messages instantanés et multimédias|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Messagerie instantanée et filtrage de fichiers|Non|Non|Non|Non|Non|Non|Non|
-|Contrôle de version de client|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Archivage du contenu de messagerie instantanée|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Oui|Oui|Non|
-|Archivage du contenu de conférence|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Oui|Oui|Non|
-|Archivage du partage d'application et du partage de Bureau|Non|Non|Non|Non|Non|Non|Non|
-|Configuration de l'archivage au niveau utilisateur|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Oui|Oui|Non|
-|Fichiers de trace de connexion|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Contrôle de version du client|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Archivage de contenu de messagerie instantanée|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Oui|Oui|Non|
+|Archivage de contenu de conférence|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Oui|Oui|Non|
+|Archivage du partage d’application et du partage de bureau|Non|Non|Non|Non|Non|Non|Non|
+|Configuration de l’archivage au niveau de l’utilisateur|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Oui|Oui|Non|
+|Fichiers de suivi de connexion|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |**[Interopérabilité Exchange et SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Interopérabilité des informations de présence avec Exchange Server|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Interopérabilité des informations de présence avec Exchange Online|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Interopérabilité de la présence avec Exchange Server|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Interopérabilité de la présence avec Exchange Online|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Interopérabilité de la messagerie unifiée avec Exchange Server|Non|Non|Non|Non|Non|Non|Non|
 |Interopérabilité de la messagerie unifiée avec Exchange Online|Non|Non|Non|Non|Non| Non|Non|
-|Interopérabilité Outlook Web App|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Interopérabilité d’Outlook sur le Web|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Interopérabilité de l'archivage avec Exchange Server|Non|Non|Non|Non|Non|Non|Non|
 |Interopérabilité de l'archivage avec Exchange Online|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Recherche de compétences avec SharePoint Server|Non|Non|Non|Non|Non|Non|Non|
 |Recherche de compétences avec SharePoint Online|Non|Non|Non|Non|Non|Non|Non|
 |**[Gestion et administration de Skype Entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Portail Microsoft Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Centre d'administration de Skype Entreprise Online|Oui|Oui<sup>3</sup>|Oui|Oui|Oui|Oui|Non|
 |Windows PowerShell|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Création de rapports Skype entreprise dans le centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités de Lync Basic, consultez la rubrique [tableau de comparaison des clients de bureau](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Enterprise E3 incluent l’application Skype entreprise (Lync) complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités de Lync Basic, consultez la rubrique [tableau de comparaison des clients de bureau](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
 <sup>2</sup> L'archivage pour Skype Entreprise Online dépend de la fonctionnalité de conservation inaltérable d'Exchange, qui n'est pas incluse dans ce plan.<br/> <sup>3</sup> Only accessible through the Skype for Business Online admin center management interface. <br/>
 <sup>4</sup> You must assign an Exchange Online (Plan 2) plan to users who you want to have voice mail. An Exchange Online (Plan 1) plan can't be used for voice mail. <br/>
-<sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. However, Federated calling is supported.<br/>
+<sup>5</sup> Skype consumer calls are not supported in Office 365 Germany because there is no Skype consumer federation upon which to make calls. Toutefois, les appels fédérés sont pris en charge.<br/>
 <sup>6</sup> Not available in Office 365 Germany, but coming soon.
 
 ## <a name="visio-for-the-web-features"></a>Fonctionnalités de Visio pour le Web
-<a name="BM3_Skype"> </a>
 
 Visio pour le Web est disponible pour Office 365 Germany. Pour plus d’informations sur Visio pour le Web, reportez-vous à la [Description de Visio pour le service Web](../visio-online-service-description/visio-online-service-description.md).

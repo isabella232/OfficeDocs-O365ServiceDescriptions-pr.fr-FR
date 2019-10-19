@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) offre un grand nombre de rapports qui peuvent vous aider à déterminer l'état général de votre organisation. Certains rapports sont disponibles dans le centre d’administration 365 de Microsoft, tandis que d’autres sont disponibles dans le centre d’administration Exchange.
-ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b8afb8a404fb322d70ce5d393c5a5e70cc5af6aa
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442709"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581900"
 ---
 # <a name="reporting-and-message-trace"></a>Création de rapports et suivi des messages
 
@@ -40,8 +40,8 @@ Non disponible pour les clients EOP autonomes. Vous pouvez utiliser le service W
 
 ## <a name="message-trace"></a>Suivi des messages
 
-La fonctionnalité de suivi des messages du CAE vous permet, en tant qu’administrateur, de suivre des messages électroniques quand ils sont acheminés via EOP. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Elle indique également les actions appliquées au message avant que ce dernier atteigne son état final. En obtenant des informations détaillées sur un message spécifique, vous pouvez répondre efficacement aux questions de vos utilisateurs, résoudre des problèmes de flux de messagerie, valider des modifications de stratégie et réduire la nécessité de demander de l'aide au support technique. Pour plus d’informations, consultez [la rubrique exécution d’un suivi de message et affichage des résultats dans le centre d’administration Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
+La fonctionnalité de suivi des messages dans le centre d’administration Exchange vous permet, en tant qu’administrateur, de suivre les messages électroniques lors de leur transmission via EOP. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Elle indique également les actions appliquées au message avant que ce dernier atteigne son état final. En obtenant des informations détaillées sur un message spécifique, vous pouvez répondre efficacement aux questions de vos utilisateurs, résoudre des problèmes de flux de messagerie, valider des modifications de stratégie et réduire la nécessité de demander de l'aide au support technique. Pour plus d’informations, consultez [la rubrique exécution d’un suivi de message et affichage des résultats dans le centre d’administration Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous cherchez une comparaison des fonctionnalités incluses dans les abonnements Office 365, y compris Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442649"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581940"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -58,7 +58,7 @@ Aucun abonnement d'utilisateur n'est requis pour les salles de conférence et le
 
 Pour connaître la configuration système requise pour Office 365, le service par abonnement mensuel disponible pour les entreprises, l'éducation et les agences gouvernementales, voir [Configuration requise pour Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limites de stockage et de destinataires pour Exchange Online
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limites de stockage et de destinataires pour Exchange Online
 
 Pour plus d'informations sur les limites de stockage et de destinataires disponibles dans les plans d'abonnement Exchange Online, consultez la rubrique [Limites d'Exchange Online](exchange-online-limits.md).
   
@@ -76,10 +76,10 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |**[Autorisations](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Autorisations basées sur des rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Groupes de rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Stratégies d'attribution des rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Stratégies d'attribution de rôle|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |**[Stratégie et conformité de message](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Archivage des boîtes aux lettres basées sur Exchange Online| Non|Non|Oui|Oui|Oui|Oui|Oui|Non|
-|Archivage en nuage des boîtes aux lettres locales|Oui <sup>1</sup>|Oui<sup>1</sup>|Non|Non|Oui|Oui|Oui|Non|
+|Archivage de boîtes aux lettres Exchange Online| Non|Non|Oui|Oui|Oui|Oui|Oui|Non|
+|Archivage en nuage de boîtes aux lettres locales|Oui <sup>1</sup>|Oui<sup>1</sup>|Non|Non|Oui|Oui|Oui|Non|
 |Messaging Records Management (MRM) |Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Stratégies, étiquettes et balises de rétention manuelles |Non|Non|Non|Non|Oui|Oui|Oui|Oui|
 |Chiffrement des données statiques (BitLocker)|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -90,57 +90,57 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |S/MIME|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui|Oui|Oui|Oui|Oui|Oui||
 |Conservation inaltérable et conservation pour litige|Oui|Oui|Non|Non|Non|Oui|Oui|Non|
 |Découverte électronique locale|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui|
-|Règles de transport|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|
-|Prévention contre la perte de données|Oui<sup>5, 14</sup>|Oui<sup>5, 14</sup>|Non|Non|Non|Oui|Oui|Non|
+|Transport rules|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|
+|Protection contre la perte de données|Oui<sup>5, 14</sup>|Oui<sup>5, 14</sup>|Non|Non|Non|Oui|Oui|Non|
 |Journalisation|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**[Protection contre le courrier indésirable et les programmes malveillants](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Protection intégrée contre le courrier indésirable|Oui <sup>6</sup>|Oui <sup>6</sup>|Oui|Oui|Oui|Oui|Oui|Oui|
-|Personnalisation des stratégies de blocage du courrier indésirable|Oui, mais uniquement via PowerShell|Oui, mais uniquement via PowerShell|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
-|Protection intégrée contre les programmes malveillants|Oui <sup>8</sup>|Oui <sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|
-|Personnalisation des stratégies de blocage des programmes malveillants|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
+|Protection anti-courrier indésirable intégrée|Oui <sup>6</sup>|Oui <sup>6</sup>|Oui|Oui|Oui|Oui|Oui|Oui|
+|Customize anti-spam policies|Oui, mais uniquement via PowerShell|Oui, mais uniquement via PowerShell|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
+|Protection anti-programme malveillant intégrée|Oui <sup>8</sup>|Oui <sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|Oui<sup>8</sup>|
+|Customize anti-malware policies|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
 |Quarantaine - autogestion par l'utilisateur final|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Protection avancée contre les menaces|Non|Oui|Non|Non|Non|Non|Oui|Non|
 |**[Flux de messagerie](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Messagerie sécurisée avec un partenaire approuvé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Routage conditionnel du courrier|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Ajout d'un partenaire à une liste sécurisée de courrier entrant|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Routage hybride du courrier|Oui|Oui|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui|Oui|Oui|Oui|
+|Secure messaging with a trusted partner|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Conditional mail routing|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Ajout d’un partenaire à une liste sécurisée entrante|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Routage de messagerie hybride|Oui|Oui|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui|Oui|Oui|Oui|
 |**[Destinataires](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Alertes de capacité|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Courrier non trié|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |MailTips|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès délégué|Oui|Oui|Oui|Oui|Oui|Oui|Oui|N °<sup>24</sup>|
-|Règles de boîte de réception|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Règles de la boîte de réception|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Comptes connectés|Oui|Oui|Oui|Oui|Oui,<sup>17</sup>|Oui,<sup>17</sup>|Oui,<sup>17</sup>|Oui,<sup>17</sup>|
 |Boîtes aux lettres inactives|Non|Non|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|Oui|Oui|Non <sup>9</sup>|
 |Carnet d'adresses en mode hors connexion|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Stratégies de carnet d'adresses|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Stratégies de carnet d’adresses|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Carnet d'adresses hiérarchique|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Listes d'adresses et liste d'adresses globale|Oui|Oui|Oui|Oui|Oui<sup>18</sup>|Oui<sup>18</sup>|Oui<sup>18</sup>|Oui<sup>18</sup>|
+|Listes d’adresses et liste d’adresses globale|Oui|Oui|Oui|Oui|Oui<sup>18</sup>|Oui<sup>18</sup>|Oui<sup>18</sup>|Oui<sup>18</sup>|
 |Groupes Office 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Groupes de distribution|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Contacts externes (globaux)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Carte de visite universelle|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Contact en liaison avec des réseaux sociaux|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Liaison de contacts avec les réseaux sociaux|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Boîtes aux lettres de ressources|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Gestion des salles de conférence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Réponses avec notification d'absence du bureau|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Partage de calendrier|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
+|Réponses d’absence du Bureau|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Partage de calendriers|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Fonctionnalités de création de rapports et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Rapports du centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Classeur de rapports Excel|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Rapports de services web|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Suivi des messages|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Rapports d'audit|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>3</sup>|
+|Classeur de création de rapports Excel|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Rapports de services Web|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Message trace|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Rapports d’audit|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>3</sup>|
 |Rapports de messagerie unifiée|Oui|Oui|Non|Non|Non|Oui|Oui|Non|
 |**[Partage et collaboration](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Partage fédéré (incluant la publication de calendrier)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Partage fédéré (y compris la publication de calendrier)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Boîtes aux lettres de site|Oui<sup>10</sup>|Oui<sup>10</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|
 |Dossiers publics|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |**[Clients et appareils mobiles](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-| Outlook pour Windows <sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui| Non|
+|Outlook pour Windows <sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui| Non|
 |Outlook sur le web<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Outlook pour Mac<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui| Non|
 |Outlook pour iOS et Android<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -153,25 +153,25 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Messagerie vocale<sup>23</sup>|Oui|Oui|Non|Non|Non|Oui|Oui|Non|
 |Intégration entre la messagerie vocale et le FAX tiers<sup>23</sup>|Oui|Oui|Non|Non|Non|Oui|Oui|Non|
 |Interopérabilité de la messagerie vocale tierce<sup></sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Intégration Skype Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Haute disponibilité et continuité de service](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
+|Intégration Skype entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Haute disponibilité et continuité de l’activité](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Réplication de boîtes aux lettres dans les centres de données|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Récupération de boîtes aux lettres supprimées|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'éléments supprimés|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'élément unique|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non||
 |**[Interopérabilité, connectivité et compatibilité](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
-|Présence de Skype Entreprise dans OWA et Outlook|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Présence de Skype entreprise dans OWA et Outlook|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Interopérabilité SharePoint|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge de la connectivité EWS|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Prise en charge du relais SMTP|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Configuration et administration d'Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
+|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Accès au portail Microsoft Office 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès au centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Stratégies ActiveSync pour appareils mobiles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Rapports d'utilisation|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
+|Stratégies ActiveSync pour les appareils mobiles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Rapports d’utilisation|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**Extension du service-personnalisation, compléments et ressources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Compléments Outlook et MAPI Outlook|Oui<sup>19</sup>|Oui|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|Non|
 
 <sup>1</sup> nécessite un abonnement d’archivage Exchange Online pour chaque utilisateur de boîte aux lettres locale qui dispose d’une archive en nuage. <br/>
@@ -211,10 +211,10 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |**[Autorisations](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Autorisations basées sur des rôles|Oui|Oui|Oui|Oui|Non|
 |Groupes de rôles|Oui|Oui|Oui|Oui|Non|
-|Stratégies d'attribution des rôles|Oui|Oui|Oui|Oui|Non|
+|Stratégies d'attribution de rôle|Oui|Oui|Oui|Oui|Non|
 |**[Stratégie et conformité de message](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
-|Archivage des boîtes aux lettres basées sur Exchange Online|Oui|Non|Oui|Oui|Non|
-|Archivage en nuage des boîtes aux lettres locales|Oui<sup>5</sup>|Oui <sup>5</sup>|Non|Oui|Non|
+|Archivage de boîtes aux lettres Exchange Online|Oui|Non|Oui|Oui|Non|
+|Archivage en nuage de boîtes aux lettres locales|Oui<sup>5</sup>|Oui <sup>5</sup>|Non|Oui|Non|
 |Messaging Records Management (MRM) |Oui|Oui|Oui|Oui|Oui|
 |Stratégies, étiquettes et balises de rétention manuelles|Non|Non|Oui|Oui|Oui|
 |Chiffrement des données statiques (BitLocker)|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui|Oui|Oui|
@@ -225,56 +225,56 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Conservation inaltérable et conservation pour litige|Oui|Oui|N °<sup>17</sup>|Oui|Non|
 |Découverte électronique locale|Oui<sup>22</sup>|Oui<sup>22</sup>|Oui<sup>22</sup>|Oui<sup>22</sup>|Oui<sup>22</sup>|
 |Règles de transport|Oui <sup>1</sup>|Oui <sup>1</sup>|Oui <sup>1</sup>|Oui <sup>1</sup>|Oui <sup>1</sup>|
-|Prévention contre la perte de données|Oui <sup>10, 14</sup>|Oui <sup>10, 14</sup>|Non|Oui|Non|
+|Protection contre la perte de données|Oui <sup>10, 14</sup>|Oui <sup>10, 14</sup>|Non|Oui|Non|
 |Journalisation|Oui|Oui|Oui|Oui|Oui|
 |**[Protection contre le courrier indésirable et les programmes malveillants](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
-|Protection intégrée contre le courrier indésirable|Oui <sup>2</sup>|Oui <sup>2</sup>|Oui|Oui|Oui|
-|Personnalisation des stratégies de blocage du courrier indésirable|Oui, mais uniquement via PowerShell|Oui, mais uniquement via PowerShell|Oui|Oui|Oui <sup>8</sup>|
-|Protection intégrée contre les programmes malveillants|Oui <sup>7</sup>|Oui <sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|
-|Personnalisation des stratégies de blocage des programmes malveillants|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
+|Protection anti-courrier indésirable intégrée|Oui <sup>2</sup>|Oui <sup>2</sup>|Oui|Oui|Oui|
+|Customize anti-spam policies|Oui, mais uniquement via PowerShell|Oui, mais uniquement via PowerShell|Oui|Oui|Oui <sup>8</sup>|
+|Protection anti-programme malveillant intégrée|Oui <sup>7</sup>|Oui <sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|
+|Customize anti-malware policies|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - autogestion par l'utilisateur final|Non|Non|Oui|Oui|Oui|
 |**[Flux de messagerie](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui|Oui|Oui|
-|Messagerie sécurisée avec un partenaire approuvé|Oui|Oui|Oui|Oui|Oui|
-|Routage conditionnel du courrier|Non|Non|Oui|Oui|Oui|
-|Ajout d'un partenaire à une liste sécurisée de courrier entrant|Non|Non|Oui|Oui|Oui|
-|Routage hybride du courrier|Oui|Oui|Oui|Oui|Oui|
+|Secure messaging with a trusted partner|Oui|Oui|Oui|Oui|Oui|
+|Conditional mail routing|Non|Non|Oui|Oui|Oui|
+|Ajout d’un partenaire à une liste sécurisée entrante|Non|Non|Oui|Oui|Oui|
+|Routage de messagerie hybride|Oui|Oui|Oui|Oui|Oui|
 |**[Destinataires](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Alertes de capacité|Oui|Oui|Oui|Oui|Oui|
 |Courrier non trié|Non|Non|Oui|Oui|Oui|
 |MailTips|Oui|Oui|Oui|Oui|Oui|
 |Accès délégué|Oui|Oui|Oui\|Oui|Non|
-|Règles de boîte de réception|Oui|Oui|Oui|Oui|Non|
+|Règles de la boîte de réception|Oui|Oui|Oui|Oui|Non|
 |Comptes connectés|Oui|Oui|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|
 |Boîtes aux lettres inactives|Non|Non|Non <sup>6</sup>|Oui|Non <sup>6</sup>|
 |Carnet d'adresses en mode hors connexion|Oui|Oui|Oui|Oui|Oui|
-|Stratégies de carnet d'adresses|Oui|Oui|Oui|Oui|Oui|
+|Stratégies de carnet d’adresses|Oui|Oui|Oui|Oui|Oui|
 |Carnet d'adresses hiérarchique|Oui|Oui|Oui|Oui|Non|
-|Listes d'adresses et liste d'adresses globale|Oui|Oui|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui<sup>20</sup>|
+|Listes d’adresses et liste d’adresses globale|Oui|Oui|Oui<sup>20</sup>|Oui<sup>20</sup>|Oui<sup>20</sup>|
 |Groupes Office 365|Non|Non|Oui<sup>24</sup>|Oui<sup>24</sup>|Non|
 |Groupes de distribution|Oui|Oui|Oui|Oui|Oui|
 |Contacts externes (globaux)|Oui|Oui|Oui|Oui|Oui|
 |Carte de visite universelle|Oui|Oui|Oui|Oui|Oui|
-|Contact en liaison avec des réseaux sociaux|Oui|Oui|Oui|Oui|Oui|
+|Liaison de contacts avec les réseaux sociaux|Oui|Oui|Oui|Oui|Oui|
 |Boîtes aux lettres de ressources|Oui|Oui|Oui|Oui|Oui|
 |Gestion des salles de conférence|Oui|Oui|Oui|Oui|Oui|
-|Réponses avec notification d'absence du bureau|Oui|Oui|Oui|Oui|Oui|
-|Partage de calendrier|Oui|Oui|Oui|Oui|Oui <sup>18</sup>|
-|**[Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|Réponses d’absence du Bureau|Oui|Oui|Oui|Oui|Oui|
+|Partage de calendriers|Oui|Oui|Oui|Oui|Oui <sup>18</sup>|
+|**[Fonctionnalités de création de rapports et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Rapports du centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|
-|Classeur de rapports Excel|Non|Non|Oui|Oui|Oui|
-|Rapports de services web|Non|Non|Oui|Oui|Oui|
-|Suivi des messages|Non|Oui|Oui|Oui|Oui <sup>8</sup>|
-|Rapports d'audit|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
+|Classeur de création de rapports Excel|Non|Non|Oui|Oui|Oui|
+|Rapports de services Web|Non|Non|Oui|Oui|Oui|
+|Message trace|Non|Oui|Oui|Oui|Oui <sup>8</sup>|
+|Rapports d’audit|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Rapports de messagerie unifiée|Oui|Oui|Non|Oui|Non|
 |**[Partage et collaboration](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Partage fédéré|Oui|Oui|Oui|Oui|Oui|
-|Boîtes aux lettres de site|Oui<sup>3</sup>|Oui <sup>3</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui <sup>4</sup>|
+|Boîtes aux lettres de site|Oui<sup>3</sup>|Oui <sup>3</sup>|Oui <sup>4</sup>|Oui <sup>4</sup>|Oui <sup>4</sup>|
 |Dossiers publics|Oui|Oui|Oui|Oui|Non|
 |**[Clients et appareils mobiles](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Microsoft Outlook|Oui|Oui|Oui|Oui|Non|
-|Outlook Web App|Oui|Oui|Oui|Oui|Oui|
+|Outlook sur le web|Oui|Oui|Oui|Oui|Oui|
 |Exchange ActiveSync|Oui|Oui|Oui|Oui|Oui|
 |POP et IMAP|Oui|Oui|Oui|Oui|Oui <sup>9</sup>|
 |SMTP|Oui|Oui|Oui|Oui|Oui|
@@ -282,27 +282,27 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Outlook pour Mac|Oui|Oui|Oui|Oui|Non|
 |**[Services de messagerie vocale](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Messagerie vocale|Oui|Oui|Non|Oui|Non|
-|Interopérabilité avec messagerie vocale tierce|Oui|Oui|Oui|Oui|Oui|
-|Intégration Skype Entreprise|Oui|Oui|Oui|Oui|Oui|
+|Interopérabilité de la messagerie vocale tierce|Oui|Oui|Oui|Oui|Oui|
+|Intégration Skype entreprise|Oui|Oui|Oui|Oui|Oui|
 |**[Haute disponibilité et continuité de service](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Réplication de boîtes aux lettres dans les centres de données|Non|Non|Oui|Oui|Oui|
 |Récupération de boîtes aux lettres supprimées|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'éléments supprimés|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'élément unique|Oui|Oui|Oui|Oui|Non|
 |**[Interopérabilité, connectivité et compatibilité](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
-|Présence de Skype Entreprise dans OWA et Outlook|Oui|Oui|Oui|Oui|Oui|
+|Présence de Skype entreprise dans OWA et Outlook|Oui|Oui|Oui|Oui|Oui|
 |Interopérabilité SharePoint|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge de la connectivité EWS|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge du relais SMTP|Oui|Oui|Oui|Oui|Oui|
-|**[Configuration et administration d'Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Accès au portail Microsoft Office 365|Non|Non|Oui|Oui|Oui|
 |Accès au centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|
-|Stratégies ActiveSync pour appareils mobiles|Oui|Oui|Oui|Oui|Oui|
-|Rapports d'utilisation|Oui|Oui|Oui|Oui|Oui|
+|Stratégies ActiveSync pour les appareils mobiles|Oui|Oui|Oui|Oui|Oui|
+|Rapports d’utilisation|Oui|Oui|Oui|Oui|Oui|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
-|Composants WebPart Outlook Web App|Oui|Oui|Oui|Oui|Oui|
+|Composants WebPart Outlook sur le Web|Oui|Oui|Oui|Oui|Oui|
 |Compléments Outlook et MAPI Outlook|Oui|Oui|Oui<sup>21</sup>|Oui<sup>21</sup>|Non|
 
 <sup>1</sup> les règles de transport sont constituées de critères flexibles, qui vous permettent de définir les conditions et les exceptions, ainsi que les actions à effectuer en fonction des critères. Les critères et actions disponibles diffèrent entre Exchange Online et Microsoft Exchange Server 2013. Pour obtenir la liste des critères et actions disponibles, consultez les rubriques dédiées aux critères et actions correspondant à chaque produit. <br/>
@@ -326,6 +326,6 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 <sup>19</sup> les comptes connectés sont pris en &amp; charge pour les comptes IMAP POP, mais sont désactivés pour Outlook.com (Hotmail). <br/>
 <sup>20</sup> l’utilisation d’applets de commande dans Exchange Online PowerShell pour personnaliser les listes d’adresses par défaut et la liste d’adresses globale (LAG) par défaut n’est pas prise en charge. <br/>
 <sup>21</sup> certains compléments et composants WebPart tiers peuvent ne pas être disponibles. <br/>
-<sup>22</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud et le Cloud. <br/>
+<sup>22</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud local. <br/>
 <sup>23</sup> Exchange Online Kiosk ne fournit pas de droits d’accès pour l’utilisation avec des serveurs locaux. Pour des questions de conformité, le client doit acheter ou avoir déjà acheté les licences d’accès client appropriées ou mettre à niveau une référence SKU d’entreprise qui fournit ces droits d’accès. <br/>
 <sup>24</sup> groupes Office 365 sont disponibles avec des fonctionnalités réduites.

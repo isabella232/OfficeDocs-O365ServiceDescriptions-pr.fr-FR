@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: Cette section décrit les interfaces de gestion disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442479"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581464"
 ---
 # <a name="administration-and-managementeop"></a>Administration et gestion [EOP]
 
@@ -39,5 +39,5 @@ Le Centre d'administration Exchange (CAE) est une console de gestion unifiée fa
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
   

@@ -11,32 +11,30 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: a88ccb9ec0280b43d58c290210b569fb17e7f7a0
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 815800d14ab4eacf43ef966218117db5ad3c90f4
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776475"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581880"
 ---
-# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans l'archivage Exchange Online
+# <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans l’archivage Exchange Online
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité dans l'archivage Exchange Online
 
 Les sections suivantes décrivent les fonctionnalités de conformité de Microsoft Archivage Exchange Online.
   
 ### <a name="retention-policies"></a>Stratégies de conservation
-<a name="BKMK_Retentionpolicies"> </a>
 
-Archivage Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également fournir aux utilisateurs un menu de stratégies de rétention et leur permettre d'appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l'aide d'Outlook 2010 ou version ultérieure ou d'Outlook Web App. Dans l'Archivage Exchange Online, les administrateurs gèrent les stratégies de rétention à partir de l'infrastructure sur site.
+Archivage Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également donner aux utilisateurs un menu de stratégies de rétention et les autoriser à appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l’aide d’Outlook 2010 ou version ultérieure ou d’Outlook sur le Web. Dans l'Archivage Exchange Online, les administrateurs gèrent les stratégies de rétention à partir de l'infrastructure sur site.
   
 L'Archivage Exchange Online offre deux types de stratégies : archiver et supprimer. Ces deux types peuvent être appliqués au même élément ou dossier. Par exemple, un utilisateur peut baliser un message électronique afin qu'il soit automatiquement transféré dans l'archive personnelle après un nombre spécifié de jours, puis supprimé après un autre nombre de jours.
   
-Avec Outlook 2010 ou version ultérieure et Outlook Web App, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels, et peuvent également afficher les stratégies de rétention appliquées et les dates de suppression prévues sur les messages. Les utilisateurs des autres clients de messagerie peuvent également faire supprimer ou archiver des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur, mais ils ne bénéficient pas du même niveau de visibilité et de contrôle.
+Avec Outlook 2010 et versions ultérieures et Outlook sur le Web, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels et peuvent également afficher les stratégies de rétention appliquées et les dates de suppression attendues sur les messages. Les utilisateurs des autres clients de messagerie peuvent également faire supprimer ou archiver des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur, mais ils ne bénéficient pas du même niveau de visibilité et de contrôle.
   
 Les fonctionnalités de stratégie de rétention disponibles dans Archivage Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 (SP2) et versions ultérieures. Les administrateurs peuvent gérer les stratégies de rétention à partir des environnements locaux Exchange Server 2010 et versions ultérieures. Les dossiers gérés, ancienne approche de la gestion des enregistrements de messagerie qui a été introduite dans Exchange 2007, ne sont pas disponibles dans l'archivage Exchange Online et sont incompatibles. Pour en savoir plus, consultez la rubrique [Balises et stratégies de rétention dans Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
-### <a name="in-place-hold-and-litigation-hold"></a>Conservation inaltérable et conservation pour litige
-<a name="BKMK_In_placehold"> </a>
+### <a name="in-place-hold-and-litigation-hold"></a>Archive permanente et mise en attente pour litige
 
 Lorsqu'une situation de litige est vraisemblablement à craindre, les organisations ont pour obligation de conserver les informations pertinentes qui sont stockées électroniquement (ESI), y compris la messagerie. Cette exigence de stockage de la correspondance électronique peut se faire ressentir avant que les détails précis du litige soient connus, et la conservation s'applique généralement à un grand nombre d'éléments. Les organisations peuvent conserver tous les messages électroniques concernant un sujet spécifique, ou tous les messages de certaines personnes.
   
@@ -72,7 +70,6 @@ Pour plus d'informations, consultez la rubrique [Conservation inaltérable et co
 > Le quota par défaut pour le dossier Éléments récupérables est de 100 Go pour les utilisateurs de l'Archivage Exchange Online. 
   
 ### <a name="in-place-ediscovery"></a>Découverte électronique locale
-<a name="BKMK_In_placehold"> </a>
 
 L'Archivage Exchange Online prend en charge la fonction eDiscovery inaltérable pour rechercher les contenus des boîtes aux lettres dans une organisation. Avec le Centre d'administration Exchange ou Windows PowerShell à distance à partir d'un serveur Exchange 2013 local, les administrateurs ou les gestionnaires de découverte autorisés peuvent rechercher dans une boîte aux lettres toutes sortes d'éléments, notamment des e-mails, des pièces jointes, des rendez-vous, des tâches et des contacts. La fonction eDiscovery inaltérable vous permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le récepteur, le type de message, la date d'envoi, la date de réception, la copie carbone et la copie carbone invisible, ainsi que la syntaxe Keyword Query Language (KQL). Pour en savoir plus, consultez la rubrique [Découverte électronique locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
@@ -100,7 +97,7 @@ TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pou
 
 Les connexions client à l'Archivage Exchange Online utilisent les méthodes de chiffrement suivantes pour améliorer la sécurité :
   
-- SSL est utilisé pour sécuriser Outlook, Outlook Web App et le trafic des services web Exchange, à l'aide du port TCP 443.
+- Le protocole SSL est utilisé pour sécuriser Outlook, Outlook sur le Web et le trafic des services Web Exchange, à l’aide du port TCP 443.
     
 - Les connexions client aux serveurs locaux ne changent pas avec l'introduction de l'Archivage Exchange Online.
     
@@ -114,13 +111,13 @@ De même, l'Archivage Exchange Online stocke les messages chiffrés à l'aide de
 
 L'Archivage Exchange Online ne fournit pas de services de Gestion des droits relatifs à l'information (IRM), mais les administrateurs peuvent utiliser des services AD RMS (Active Directory Rights Management Services). Si un serveur AD RMS est déployé, Outlook peut communiquer directement avec ce serveur, en permettant aux utilisateurs de composer et de lire les messages protégés par IRM. Si l'interopérabilité entre le serveur AD RMS et l'environnement Exchange sur site est configurée, les utilisateurs pourront composer et lire les messages protégés par IRM.
   
-#### <a name="support-for-irm-in-outlook-web-app"></a>Prise en charge de la Gestion des droits relatifs à l’information dans Outlook Web App
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Prise en charge d’IRM dans Outlook sur le Web
 
-Les utilisateurs peuvent lire et créer des messages protégés par la Gestion des droits relatifs à l'information (IRM) en mode natif dans Outlook Web App, tout comme dans Outlook. Ils peuvent également consulter les messages protégés par IRM dans Outlook Web App à l'aide de navigateurs Internet Explorer, Firefox, Safari et Chrome (aucun plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L'interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l'environnement Exchange sur site doit être configurée pour les activer.
+Les utilisateurs peuvent lire et créer des messages protégés par IRM en mode natif dans Outlook sur le Web, tout comme ils le peuvent dans Outlook. Les messages protégés par IRM dans Outlook sur le Web sont accessibles via Internet Explorer, Firefox, Safari et chrome (sans aucun plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L'interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l'environnement Exchange sur site doit être configurée pour les activer.
   
 #### <a name="irm-search"></a>Recherche de la Gestion des droits relatifs à l’information
 
-Les messages protégés par la Gestion des droits relatifs à l'information (IRM) sont indexés et peuvent faire l'objet d'une recherche portant notamment sur les en-têtes, l'objet, le corps du message et les pièces jointes. Les utilisateurs peuvent rechercher des éléments protégés par IRM dans Outlook et Outlook Web App, et les administrateurs peuvent rechercher des éléments protégés par IRM à l'aide de la découverte électronique inaltérable ou de la cmdlet **Search-Mailbox**. 
+Les messages protégés par la Gestion des droits relatifs à l'information (IRM) sont indexés et peuvent faire l'objet d'une recherche portant notamment sur les en-têtes, l'objet, le corps du message et les pièces jointes. Les utilisateurs peuvent rechercher des éléments protégés par IRM dans Outlook et Outlook sur le Web, et les administrateurs peuvent rechercher des éléments protégés par IRM à l’aide de la découverte électronique inaltérable ou de la cmdlet **Search-Mailbox** .
   
 ### <a name="auditing"></a>Audit
 

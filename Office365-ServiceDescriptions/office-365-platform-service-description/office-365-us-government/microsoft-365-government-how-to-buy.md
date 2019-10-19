@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839865"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595263"
 ---
 ---
 
@@ -117,10 +117,12 @@ Le tableau suivant présente les options qui peuvent répondre aux besoins de ch
 ## <a name="how-do-i-buy-microsoft-365-government"></a>Comment puis-je acheter le gouvernement Microsoft 365 ?
 
 Suivez les étapes ci-dessous pour acheter des licences gouvernementales Microsoft 365 :
+
 1. [Complétez et envoyez le formulaire](https://products.office.com/government/eligibility-validation) pour valider l’éligibilité de votre organisation.
 2. Collaborez avec l’équipe de compte Microsoft ou un partenaire qualifié pour passer une commande. Les clients peuvent acheter des licences Microsoft 365 pour le gouvernement américain uniquement par le biais de partenaires sélectionnés.
 
 **LSP GCC et GCC High (+ 500 sièges)**
+
 - CHOISI
 - Connexion (anciennement connexion au PC)
 - Dell
@@ -145,7 +147,7 @@ Suivez les étapes ci-dessous pour acheter des licences gouvernementales Microso
 
 **Remarque :** Tous les fournisseurs de solutions de licence Microsoft de la liste précédente peuvent effectuer des opérations de Transact et de GCC par accord entreprise (EA) pour créer la feuille de prix client (CPS). Les organisations qui ne sont pas éligibles pour AE peuvent acheter des licences GCC via le programme d’AOS-G de partenaires ou de fournisseurs agréés.
 
-**Si vous travaillez avec un partenaire CSP, contactez- [le ou recherchez un fournisseur de services cryptographiques.](https://www.microsoft.com/solution-providers/home)**
+**Si vous travaillez avec un partenaire CSP, contactez- [le ou recherchez un fournisseur de services cryptographiques](https://www.microsoft.com/solution-providers/home).**
 
 ## <a name="what-trials-are-available"></a>Quels sont les essais disponibles ?
 

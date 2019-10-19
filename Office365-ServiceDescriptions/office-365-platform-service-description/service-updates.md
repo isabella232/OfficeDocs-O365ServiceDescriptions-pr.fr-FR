@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Pour en savoir plus sur les fonctionnalités d’Office 365 qui viennent d’être publiées ou qui sont sur le présent, consultez la feuille de route Microsoft 365.
-ms.openlocfilehash: cd9de8191efb5d22644ba2901735c4be82f5ae62
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777495"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581350"
 ---
 # <a name="service-updates"></a>Mises à jour de services
 
@@ -35,7 +35,7 @@ Avec la version ciblée, votre organisation ou un groupe de vos utilisateurs re�
   
 ## <a name="update-notifications"></a>Notifications de mise à jour
 
-Office 365 s'efforce d'informer ses clients avant toute modification nécessitant que l'administrateur prenne des mesures pour assurer le fonctionnement normal du service. Sauf mention contraire, Microsoft enverra une notification au moins 30 jours à l'avance par le biais du [Message Center](http://technet.microsoft.com/library/38FB3333-BFCC-4340-A37B-DEDA509C209.aspx) lorsqu'une mise à jour nécessite une action de l'administrateur. 
+Office 365 s'efforce d'informer ses clients avant toute modification nécessitant que l'administrateur prenne des mesures pour assurer le fonctionnement normal du service. Sauf mention contraire, Microsoft enverra une notification au moins 30 jours à l'avance par le biais du [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide) lorsqu'une mise à jour nécessite une action de l'administrateur. 
   
 La plupart des mises à jour de service Office 365 sont des correctifs de bogue, des améliorations de performances et des mises à jour de sécurité qui ne nécessitent aucune action au nom du client. Des fonctionnalités nouvelles et améliorées sont disponibles dans la feuille [de route Microsoft 365 pour les entreprises](http://roadmap.office.com/).
   
@@ -43,6 +43,6 @@ Notez qu'Office 365 suit la [stratégie de cycle de vie en ligne](https://suppor
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](https://technet.microsoft.com/library/office-365-platform-service-description.aspx).
+Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
   
 

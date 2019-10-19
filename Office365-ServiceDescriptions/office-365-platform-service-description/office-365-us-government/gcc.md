@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines.
-ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998506"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595282"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -37,23 +37,24 @@ Exchange Online, SharePoint Online, archivage Exchange Online, Skype entreprise 
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Personnel de la communauté Office 365 pour le gouvernement américain trié sur le volet
 
-Le personnel d'Office 365 ne dispose pas d'un accès permanent au contenu client hébergé dans la Communauté Office 365 pour le gouvernement américain. Toutes les personnes demandant une élévation temporaire des autorisations qui lui accorderait l'accès au contenu client doit d'abord faire l'objet des vérifications des antécédents suivantes : 
+Le personnel d'Office 365 ne dispose pas d'un accès permanent au contenu client hébergé dans la Communauté Office 365 pour le gouvernement américain. Les personnes qui demandent une élévation d’autorisation temporaire qui accorderait l’accès au contenu client doivent d’abord avoir passé les vérifications d’arrière-plan suivantes. 
   
 |||
 |:-----|:-----|
-|**Vérifications de personnel et de vérification de l’arrière-plan de Microsoft** <sup>1</sup> <br/> |**Description** <br/> |
-|Informations d'identification personnelle Citoyenneté  <br/> |Vérification de la citoyenneté américaine  <br/> |
-|Vérification de l'expérience professionnelle  <br/> |Vérification de l'expérience professionnelle sur sept (7) ans  <br/> |
-|Vérification de la formation professionnelle  <br/> |Vérification du plus haut diplôme obtenu  <br/> |
-|Recherche du numéro de sécurité sociale américain (SSN)  <br/> |Vérification de la validité du numéro de sécurité sociale fourni  <br/> |
-|Vérification du casier judiciaire  <br/> |Recherche de crimes et délits au niveau étatique, régional et local et au niveau fédéral dans le casier judiciaire sur sept (7) ans  <br/> |
+|**Recherche de personnel et vérifications d’arrière-plan de Microsoft** <sup>1</sup> <br/> |**Description** <br/> |
+|Citoyenneté américaine  <br/> |Vérification de la citoyenneté américaine  <br/> |
+|Vérification de l’historique des emplois  <br/> |Vérification de l'expérience professionnelle sur sept (7) ans  <br/> |
+|Vérification de l’éducation  <br/> |Vérification du plus haut diplôme obtenu  <br/> |
+|Recherche de numéro de sécurité sociale (SSN)  <br/> |Vérification de la validité du numéro de sécurité sociale fourni  <br/> |
+|Vérification de l’historique pénal  <br/> |Recherche de crimes et délits au niveau étatique, régional et local et au niveau fédéral dans le casier judiciaire sur sept (7) ans  <br/> |
 |Liste du Bureau du contrôle des avoirs étrangers (OFAC)  <br/> |Validation par rapport à la liste du Département du Trésor répertoriant les groupes avec lesquels les personnes américaines ne sont pas autorisées à réaliser des transactions commerciales ou financières  <br/> |
 |Liste du Bureau de l'industrie et de la sécurité (BIS)  <br/> |Validation par rapport à la liste du Département du Commerce répertoriant les individus et entités exclus de toute activité d'exportation  <br/> |
 |Liste rouge du Bureau des contrôles commerciaux en matière de défense (DDTC)  <br/> |Validation par rapport à la liste du Département d'État répertoriant les individus et entités avec lesquels il est interdit de mener des activités d'exportation liées à l'industrie de la défense  <br/> |
 |Vérification des empreintes digitales  <br/> |Vérification des antécédents par empreintes digitales par rapport aux bases de données du FBI  <br/> |
-|Filtrage des antécédents avec CJIS  <br/> |Examen validé par l'État du casier judiciaire fédéral et étatique par l'autorité étatique nommée par le CSA au sein de chaque état qui s'est inscrit au programme Microsoft CJIS IA  <br/> |
+|Filtrage en arrière-plan CJIS  <br/> |Examen validé par l'État du casier judiciaire fédéral et étatique par l'autorité étatique nommée par le CSA au sein de chaque état qui s'est inscrit au programme Microsoft CJIS IA  <br/> |
 
-<sup>1</sup> concerne uniquement le personnel disposant d’un accès temporaire ou permanent au contenu client hébergé dans Office 365 le Cloud communautaire pour le gouvernement américain (GCC)  
+<sup>1</sup> concerne uniquement le personnel disposant d’un accès temporaire ou permanent au contenu client hébergé dans Office 365 le Cloud communautaire pour le gouvernement américain (GCC).
+  
 ## <a name="office-365-us-government-community-and-yammer"></a>Communauté Office 365 pour le gouvernement américain et Yammer
 
 Yammer Enterprise n'est pas un composant d'Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu'offre autonome pour chaque utilisateur disposant d'une licence pour Office 365 pour le gouvernement américain Plan E1 et E3. Cette offre est actuellement limitée aux clients qui achètent Office 365 pour le gouvernement américain sous contrats Entreprise et Souscription Entreprise. 

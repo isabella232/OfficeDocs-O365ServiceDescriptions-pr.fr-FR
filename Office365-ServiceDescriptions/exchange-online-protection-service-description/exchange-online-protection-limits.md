@@ -1,5 +1,5 @@
 ---
-title: Limites d’Exchange Online Protection
+title: Limites d’Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Les limites suivantes existent actuellement pour Exchange Online Protection. Sauf indication contraire, elles ne sont pas configurables.
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables sauf indication contraire.
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231392"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581462"
 ---
-# <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
+# <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
 
-Les limites suivantes existent actuellement pour Exchange Online Protection. Sauf indication contraire, elles ne sont pas configurables. 
+Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables sauf indication contraire. 
   
 > [!TIP]
 > Pour plus d'informations sur les limites de Exchange Online, voir [Limites d'Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Les limites de règle de transport s'appliquent également aux clients autonomes EOP. Les limites de fréquence de messages et de débit maximal pour les destinataires dans Exchange Online ne s'appliquent pas aux clients autonomes EOP. 
@@ -38,7 +38,7 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Sau
     
 - **Limite de report de message** Les messages dans le report resteront dans nos files d’attente pendant 24 heures. Les nouvelles tentatives d'envoi de message sont basées sur le type d'erreur reçu à partir du système de messagerie du destinataire. Les messages sont renvoyés toutes les 15 minutes. 
     
-- **Période** de rétention de quarantaine du courrier indésirable Par défaut, les messages indésirables envoyés à la quarantaine sont conservés pendant 30 jours. Les administrateurs peuvent écourter ce délai via des stratégies de filtrage de contenu. 
+- **Période de rétention de quarantaine du courrier indésirable** Par défaut, les messages indésirables envoyés à la quarantaine sont conservés pendant 30 jours. Les administrateurs peuvent écourter ce délai via des stratégies de filtrage de contenu. 
     
 - **Notifications de mise en quarantaine du courrier indésirable de l'utilisateur final** Par défaut, si cette option est activée, les notifications de mise en quarantaine du courrier indésirable de l'utilisateur final sont envoyées tous les 3 jours. Il est possible de configurer ces notifications afin qu'elles soient envoyées tous les 1 à 15 jours. 
     

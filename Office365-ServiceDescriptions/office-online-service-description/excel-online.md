@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442749"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595302"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -96,6 +96,10 @@ Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionne
 ## <a name="comment-creation"></a>Comment creation
 
 Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. Vous pouvez également résoudre un thème de commentaire, qui le ferme en y apportant des modifications et de nouveaux commentaires, mais il le laisse. Cela vous permet de rouvrir le thread à des commentaires si nécessaire. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+
+## <a name="convert-a-table-to-a-range"></a>Convertir un tableau en plage
+
+Après avoir créé un tableau Excel, vous souhaiterez peut-être uniquement le style de tableau sans la fonctionnalité tableau. Pour cesser d’utiliser les données d’un tableau sans perdre la mise en forme de style de tableau que vous avez appliquée, vous pouvez convertir le tableau dans une plage de données normale dans la feuille de calcul. En savoir plus sur la [conversion d’un tableau Excel en une plage de données](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ Naviguez rapidement dans votre feuille de calcul en utilisant la fonction GoTo. 
  
 ## <a name="group-data"></a>Données de groupe
 
-Vous pouvez regrouper ou détourer les lignes et les colonnes de votre feuille de calcul Excel pour le Web. En savoir plus sur [les données de regroupement dans Excel pour le Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
+Vous pouvez regrouper ou détourer les lignes et les colonnes de votre feuille de calcul Excel pour le Web. Les raccourcis clavier permettent de développer et de réduire rapidement les groupes que vous créez. En savoir plus sur [les données de regroupement dans Excel pour le Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 Vous pouvez masquer et afficher les lignes, colonnes et feuilles dans un classeur dans Excel pour le Web.
+
+## <a name="ideas"></a>Idées
+
+Les idées dans Excel vous aident à comprendre vos données via des résumés visuels, des tendances et des modèles visuels de haut niveau. Sélectionnez simplement une cellule dans une plage de données, puis cliquez sur le bouton **idées** sous l’onglet **Accueil** . les idées dans Excel analysent vos données et renvoient des éléments visuels intéressants à leur sujet dans un volet de tâches. En savoir plus sur les [idées dans Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -287,7 +295,7 @@ Affichez les segments de votre feuille de calcul et filtrez vos données en sél
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données, et explorer les détails des tableaux croisés dynamiques. En savoir plus sur le [Tri et le filtrage des données](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données (de haut en bas ou de gauche à droite) et approfondir les détails des tableaux croisés dynamiques. En savoir plus sur le [Tri et le filtrage des données](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Audit et conformité de feuille de calcul
 

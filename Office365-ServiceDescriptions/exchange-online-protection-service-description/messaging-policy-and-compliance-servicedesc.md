@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: af611b7124c85866bad5bec74f853d70f721e5ae
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334124"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581870"
 ---
 # <a name="messaging-policy-and-compliance"></a>Stratégie et conformité de messagerie
 
@@ -35,7 +35,7 @@ La journalisation d’audit vous permet de suivre les modifications apportées p
 
 ## <a name="data-loss-prevention-dlp"></a>Protection contre la perte de données (DLP)
 
-Non disponible pour les clients EOP autonomes. La protection contre la perte de données (DLP) vous aide à identifier, à surveiller et à protéger des informations sensibles de votre organisation grâce à l'analyse approfondie du contenu. Il s'agit d'une fonctionnalité de plus en plus importante pour les systèmes de messagerie d'entreprise car certains messages électroniques vitaux contiennent des données sensibles qui doivent être protégées. La fonctionnalité de protection contre la perte de données vous permet de protéger les données sensibles sans affecter la productivité de vos collaborateurs.
+Non disponible pour les clients EOP autonomes. La protection contre la perte de données (DLP) vous aide à identifier, à surveiller et à protéger des informations sensibles de votre organisation grâce à l'analyse approfondie du contenu. Il s'agit d'une fonctionnalité de plus en plus importante pour les systèmes de messagerie d'entreprise car certains messages électroniques vitaux contiennent des données sensibles qui doivent être protégées. La fonctionnalité DLP vous permet de protéger les données sensibles sans affecter la productivité des travailleurs.
 
 Vous pouvez configurer des stratégies de protection contre la perte de données dans le CAE qui vous offre les possibilités suivantes :
 
@@ -51,7 +51,7 @@ Vous pouvez configurer des stratégies de protection contre la perte de données
 
 - Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. La création d’une empreinte numérique de document vous permet de créer facilement des types d’informations sensibles personnalisés basés sur des formulaires basés sur du texte que vous pouvez utiliser pour définir des règles de flux de messagerie et des stratégies DLP.
 
-- Ajouter des conseils de stratégie qui permettent de réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2013, Outlook Web App et OWA pour les périphériques ainsi que d'améliorer l'efficacité de vos stratégies en autorisant la création de rapports de faux-positifs.
+- Ajoutez des conseils de stratégie, qui peuvent aider à réduire les pertes de données en affichant un avertissement pour les utilisateurs d’Outlook 2013, Outlook sur le Web et OWA pour les appareils et peuvent également améliorer l’efficacité de vos stratégies en autorisant la création de rapports faux positifs.
 
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
 

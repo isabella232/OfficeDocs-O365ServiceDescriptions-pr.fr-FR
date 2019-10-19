@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Pour la plupart des organisations utilisant Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s’assurer qu’elles sont conformes aux besoins spécifiques de la réglementation ou de l’entreprise. Vous pouvez en savoir plus sur ces options ici.
-ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442599"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581450"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 
@@ -27,7 +27,7 @@ Pour la plupart des organisations utilisant Office 365, nous hébergeons vos bo�
   
 ## <a name="custom-routing-of-outbound-email"></a>Routage personnalisé du courrier sortant
 
-Microsoft Exchange Online peut acheminer le courrier sortant de votre organisation via un serveur local ou un service hébergé (parfois appelé « hébergement intelligent »). Ainsi, votre organisation peut utiliser des appliances de protection contre la perte de données, effectuer un post-traitement personnalisé du courrier sortant et remettre le courrier à des partenaires professionnels via des réseaux privés. Exchange Online prend aussi en charge la fonctionnalité de réécriture d'adresse, qui permet d'acheminer le courrier sortant via une passerelle locale qui modifie les adresses. Cette fonctionnalité vous permet de masquer les sous-domaines, de faire apparaître le courrier provenant d'une organisation à plusieurs domaines comme un courrier associé à un domaine unique, ou de faire apparaître le courrier relayé par des partenaires comme étant un courrier envoyé de l'intérieur de l'organisation. Les administrateurs configurent le routage personnalisé du courrier dans le Centre d'administration Exchange (CAE).
+Microsoft Exchange Online peut acheminer le courrier sortant de votre organisation via un serveur local ou un service hébergé (parfois appelé « hébergement intelligent »). Cela permet à votre organisation d’utiliser des appliances de protection contre la perte de données (DLP), d’effectuer un post-traitement personnalisé du courrier électronique sortant et de livrer des courriers électroniques à des partenaires commerciaux via des réseaux privés. Exchange Online prend aussi en charge la fonctionnalité de réécriture d'adresse, qui permet d'acheminer le courrier sortant via une passerelle locale qui modifie les adresses. Cette fonctionnalité vous permet de masquer des sous-domaines, de faire en sorte que les messages provenant d’une organisation à plusieurs domaines apparaissent sous la forme d’un seul domaine ou que le courrier relayé par un partenaire apparaisse comme s’il était envoyé de l’intérieur de votre organisation. Les administrateurs configurent le routage personnalisé du courrier dans le Centre d'administration Exchange (CAE).
   
 Pour plus d'informations, consultez la rubrique [Set up connectors to route mail between Office 365 and your own email servers](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail).
   
@@ -96,5 +96,5 @@ Pour plus d'informations sur la configuration requise pour un déploiement hybri
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les offres Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   

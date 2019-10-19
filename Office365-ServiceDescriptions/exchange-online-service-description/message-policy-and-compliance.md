@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231422"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581960"
 ---
 # <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
@@ -24,9 +24,9 @@ ms.locfileid: "36231422"
 
 Les boîtes aux lettres Exchange Online résident dans le nuage. Pour les archiver, vous nécessitez d'environnements d'hébergement uniques. Dans certains cas, Exchange Online peut également être utilisé pour archiver des boîtes aux lettres locales dans le nuage. Les options d'archivage d'Exchange Online sont décrites dans cette section.
   
-Exchange Online intègre des fonctionnalités d'archivage pour les boîtes aux lettres en nuage, notamment la fonction d'archivage sur place qui fournit aux utilisateurs un emplacement pratique dans lequel ils peuvent stocker d'anciens messages électroniques. La fonction d'archivage sur place est un type spécial de boîte aux lettres qui apparaît à côté des dossiers de boîtes aux lettres principales d'un utilisateur dans Outlook et Outlook Web App. Les utilisateurs peuvent accéder à l'archive et l'explorer de la même manière que pour leurs boîtes aux lettres principales. Les fonctionnalités disponibles varient en fonction du client utilisé :
+Exchange Online intègre des fonctionnalités d'archivage pour les boîtes aux lettres en nuage, notamment la fonction d'archivage sur place qui fournit aux utilisateurs un emplacement pratique dans lequel ils peuvent stocker d'anciens messages électroniques. Une archive inaltérable est un type spécial de boîte aux lettres qui apparaît à côté des dossiers de boîte aux lettres principale d’un utilisateur dans Outlook et Outlook sur le Web. Les utilisateurs peuvent accéder à l'archive et l'explorer de la même manière que pour leurs boîtes aux lettres principales. Les fonctionnalités disponibles varient en fonction du client utilisé :
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 et Outlook Web App** Les utilisateurs ont accès aux fonctionnalités complètes de l'archive, ainsi qu'aux fonctionnalités de conformité correspondantes, telles que le contrôle des stratégies de rétention et d'archivage. 
+- **Outlook 2016, outlook 2013, outlook 2010 et Outlook sur le Web** Les utilisateurs ont accès aux fonctionnalités complètes de l’archive, ainsi qu’aux fonctionnalités de conformité associées, telles que le contrôle des stratégies de rétention et d’archivage. 
     
 - **Outlook 2007** Les utilisateurs bénéficient d'une assistance élémentaire pour l'archivage local, et certaines fonctionnalités d'archivage et de conformité ne sont pas disponibles. Par exemple, les utilisateurs ne peuvent pas appliquer de stratégies de rétention ou d'archivage aux éléments de boîte aux lettres, et doivent se baser sur des stratégies configurées par l'administrateur 
     
@@ -45,7 +45,8 @@ Il n'est possible de stocker les données de messagerie que d'un seul utilisateu
 > [!IMPORTANT]
 > - L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages dans une boîte aux lettres Exchange Online à des fins d'archivage n'est pas autorisée. Microsoft se réserve le droit de refuser l'archivage illimité dans les cas où une archive de boîte aux lettres n'est pas utilisée dans un scénario personnel. 
 > - L'archivage local exige impose certaines conditions de licence aux utilisateurs d'Outlook. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive personnelle. 
-> - Exchange Online ne prend pas en charge l’applet de commande Windows PowerShell _New-MailboxImportRequest_ d’exchange Server 2010 Service Pack 1 ou une version ultérieure pour l’importation par un administrateur de fichiers. pst dans une archive personnelle. Si la boîte aux lettres principale et l'archive de l'utilisateur se situent dans Exchange Online, un administrateur peut utiliser PST Capture, un outil gratuit qui permet d'importer les données du fichier .pst bers la boîte aux lettres ou l'archive principale de l'utilisateur. 
+> - Exchange Online ne prend pas en charge l’applet de commande Windows PowerShell _New-MailboxImportRequest_ d’exchange Server 2010 Service Pack 1 ou une version ultérieure pour l’importation par un administrateur de fichiers. pst dans une archive personnelle. Si la boîte aux lettres principale et l'archive de l'utilisateur se situent dans Exchange Online, un administrateur peut utiliser PST Capture, un outil gratuit qui permet d'importer les données du fichier .pst bers la boîte aux lettres ou l'archive principale de l'utilisateur.
+
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archivage en nuage de boîtes aux lettres locales
 
 L'utilisation d'Exchange Online pour l'archivage en nuage de boîtes aux lettres locales Exchange Server 2010 ou version ultérieure est possible avec Microsoft Exchange Online Archiving, une solution d'archivage hébergée de Microsoft. Cette dernière requiert que l'organisation locale soit en mode hybride ou configurée pour Exchange Online Archiving.
@@ -55,13 +56,13 @@ L'utilisation d'Exchange Online pour l'archivage en nuage de boîtes aux lettres
   
 ## <a name="retention-tags-and-retention-policies"></a>Balises et stratégies de rétention
 
-Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également fournir aux utilisateurs un menu de stratégies de rétention et leur permettre d'appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l'aide d'Outlook 2010 ou version ultérieure ou d'Outlook Web App.
+Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également donner aux utilisateurs un menu de stratégies de rétention et les autoriser à appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l’aide d’Outlook 2010 ou version ultérieure ou d’Outlook sur le Web.
   
 Dans Exchange Online, les administrateurs gèrent les stratégies de rétention à l'aide du Centre d'administration Exchange (CAE) ou de l'application Windows PowerShell distante.
   
 Exchange Online propose deux types de stratégies : les stratégies d'archivage et les stratégies de suppression. Ces deux types peuvent être combinés sur le même élément ou dossier. Par exemple, un utilisateur peut baliser un message électronique afin de le déplacer automatiquement vers l'archive locale dans un certain nombre de jours et le supprimer après quelques jours d'intervalle.
   
-Dans Outlook 2010 ou version ultérieure et Outlook Web App, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels. Ils peuvent également visualiser les stratégies de rétention appliquées et les dates de suppression prévues des messages. Les utilisateurs d'autres clients de messagerie peuvent uniquement archiver ou supprimer des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur.
+Avec Outlook 2010 ou une version ultérieure et Outlook sur le Web, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels. Ils peuvent également visualiser les stratégies de rétention appliquées et les dates de suppression prévues des messages. Les utilisateurs d'autres clients de messagerie peuvent uniquement archiver ou supprimer des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur.
   
 Les fonctionnalités de stratégie de rétention disponibles dans Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 RU4. Les administrateurs peuvent utiliser Windows PowerShell à distance pour migrer les stratégies de rétention des environnements locaux Exchange Server 2010 ou version ultérieure vers Exchange Online.
   
@@ -84,7 +85,7 @@ En plus de BitLocker, nous utilisons une technologie appelée gestionnaire de cl
   
 ## <a name="customer-key"></a>Clé client
 
-Avec la clé client, vous contrôlez les clés de chiffrement de votre organisation, puis vous configurez Office 365 afin de les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Pour plus d’informations, reportez-vous à [la rubrique contrôle de vos données dans office 365 utilisation de la clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) et du chiffrement de [service avec la clé client pour Office 365](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
+Avec la clé client, vous contrôlez les clés de chiffrement de votre organisation, puis vous configurez Office 365 afin de les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Pour plus d’informations, reportez-vous à [la rubrique contrôle de vos données dans office 365 utilisation de la clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) et du [chiffrement de service avec la clé client pour Office 365](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
   
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 
@@ -129,7 +130,7 @@ Pour plus d'informations, consultez la rubrique [Conservation inaltérable et co
   
 ## <a name="in-place-ediscovery"></a>Découverte électronique locale
 
-Exchange Online permet aux utilisateurs d'explorer le contenu des boîtes aux lettres d'une organisation à l'aide d'une interface Web. Les administrateurs ou les responsables de la conformité et de la sécurité qui sont autorisés à effectuer des recherches de découverte électronique locale (par affectation) peuvent rechercher dans les messages électroniques, les pièces jointes, les rendez-vous de calendrier, les tâches, les contacts et d'autres éléments. La découverte électronique locale permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le destinataire, le type de message, la date d'envoi/de réception, la copie carbone/copie carbone invisible ainsi que la syntaxe KQL. Les résultats de la recherche incluent également des éléments du dossier Éléments supprimés s'ils correspondent à la requête de recherche.
+Exchange Online permet aux clients d’effectuer des recherches dans le contenu des boîtes aux lettres au sein d’une organisation à l’aide d’une interface Web. Les administrateurs ou les responsables de la conformité et de la sécurité qui sont autorisés à effectuer des recherches de découverte électronique locale (par affectation) peuvent rechercher dans les messages électroniques, les pièces jointes, les rendez-vous de calendrier, les tâches, les contacts et d'autres éléments. La découverte électronique locale permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le destinataire, le type de message, la date d'envoi/de réception, la copie carbone/copie carbone invisible ainsi que la syntaxe KQL. Les résultats de la recherche incluent également des éléments du dossier Éléments supprimés s'ils correspondent à la requête de recherche.
   
 Les résultats des recherches de découverte électronique locale peuvent être prévisualisés dans l'interface web, exportés dans un fichier PST, ou copiés dans un type spécial de boîte aux lettres appelé boîte aux lettres de découverte. Une boîte aux lettres de découverte présente un quota de 50 Go pour le stockage des résultats de la recherche. Les administrateurs peuvent également connecter Outlook à la boîte aux lettres de découverte pour accéder aux résultats de la recherche et les exporter dans un fichier .pst.
   
@@ -174,7 +175,7 @@ Pour plus d’informations sur les règles de flux de messagerie, consultez la r
   
 ## <a name="data-loss-prevention"></a>Protection contre la perte de données
 
-La fonctionnalité de protection contre la perte de données (DLP) vous permet d'identifier, de contrôler et de protéger les informations sensibles de votre organisation via une analyse de contenu approfondie. DLP est une fonctionnalité haut de gamme de plus en plus importante pour les systèmes de message d'entreprise car la messagerie essentielle comprend des données sensibles qui doivent être protégées. La fonctionnalité DLP d'Exchange Online vous permet de protéger les données sensibles sans affecter la productivité des collaborateurs.
+La fonctionnalité de protection contre la perte de données (DLP) vous permet d'identifier, de contrôler et de protéger les informations sensibles de votre organisation via une analyse de contenu approfondie. DLP est une fonctionnalité haut de gamme de plus en plus importante pour les systèmes de message d'entreprise car la messagerie essentielle comprend des données sensibles qui doivent être protégées. La fonctionnalité DLP dans Exchange Online vous permet de protéger les données sensibles sans affecter la productivité des travailleurs.
   
 Vous pouvez configurer les stratégies DLP dans l'interface de gestion du Centre d'administration Exchange (CAE), qui vous permet de réaliser les opérations suivantes : 
   
@@ -190,7 +191,7 @@ Vous pouvez configurer les stratégies DLP dans l'interface de gestion du Centre
     
 - Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. La création d'empreintes digitales document vous permet de créer facilement des types d'informations sensibles personnalisés à partir des formulaires texte que vous pouvez utiliser pour définir des règles de transport et des stratégies de protection contre la perte de données.
     
-- Ajouter des conseils de stratégie qui permettent de réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2016, Outlook 2013, Outlook Web App et OWA pour les appareils, tout en améliorant l'efficacité de vos stratégies en autorisant la création de rapports de faux-positifs. 
+- Ajoutez des conseils de stratégie, qui peuvent aider à réduire les pertes de données en affichant un avertissement pour les utilisateurs d’Outlook 2016, Outlook 2013, Outlook sur le Web et OWA pour les appareils et peuvent également améliorer l’efficacité de vos stratégies en autorisant la création de rapports faux positifs. 
     
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
     
@@ -202,7 +203,7 @@ Vous pouvez configurer Exchange Online pour journaliser des copies de messages �
   
 Vous pouvez gérer les règles de journal à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Vous pouvez configurer la journalisation en fonction de la liste d'utilisateurs ou de distribution, et choisir de ne consigner que les messages internes, les messages externes, ou les deux. Les messages journalisés incluent non seulement le message d'origine, mais également des informations sur l'expéditeur, les destinataires, les copies et les copies invisibles.
   
-Pour garantir la réussite et la fiabilité de la solution de journalisation, vous devez effectuer les tâches suivantes:
+Pour garantir la réussite et la fiabilité de la solution de journalisation, vous devez effectuer les tâches suivantes :
   
 - Assurez-vous que la destination de journalisation n’est pas une boîte aux lettres Exchange Online.
     
@@ -218,6 +219,6 @@ Pour plus d'informations sur la journalisation, consultez la rubrique [Journalis
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour les services de niveau client Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035130"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582030"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Conseils pour la gestion des licences des services de niveau client Microsoft 365
 
@@ -45,7 +45,7 @@ Par défaut, les fonctionnalités AADIP sont activées au niveau du client pour 
 
 Les administrateurs peuvent définir l’étendue AADIP en affectant des stratégies de risque qui définissent le niveau des réinitialisations de mot de passe et autorisent l’accès aux utilisateurs sous licence uniquement. Pour obtenir des instructions sur l’étendue des déploiements AADIP, consultez [la rubrique Configure the sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="azure-advanced-threat-protection"></a>Protection avancée contre les menaces
+## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
 La protection avancée contre les menaces (ATP) est un service Cloud qui permet de protéger les environnements hybrides d’entreprise contre plusieurs types de menaces informatiques ciblées avancées et de menaces Insiders.
 
@@ -80,13 +80,14 @@ La fonctionnalité de scanneur AIP classe, étiquette et protège automatiquemen
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
 Par défaut, les fonctionnalités AIP sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur la configuration des stratégies AIP pour les utilisateurs sous licence, consultez la rubrique activation de la [gestion des droits Azure](https://docs.microsoft.com/azure/information-protection/activate-service).
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
 Les stratégies de fonctionnalité AIP (à l’exception de la fonctionnalité scanneur) peuvent être étendues à des groupes ou à des utilisateurs spécifiques ; les registres peuvent être modifiés pour empêcher les utilisateurs sans licence d’exécuter des fonctionnalités de classification ou d’étiquetage AIP. Pour obtenir des instructions sur la façon d’étendre les déploiements AIP, consultez [la rubrique Configuration de la stratégie Azure information protection](https://docs.microsoft.com/azure/information-protection/configure-policy).
 
 Pour la fonctionnalité de scanneur AIP, Microsoft ne s’engage pas à fournir des fonctionnalités de classification, d’étiquetage ou de protection des fichiers aux utilisateurs qui ne sont pas titulaires d’une licence. Au fil du temps, les vérifications de licence ou les outils ciblés seront ajoutés à AIP pour s’assurer que la fonctionnalité de scanneur peut être attribuée aux utilisateurs titulaires d’une licence.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365-Protection avancée contre les menaces
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -188,7 +189,7 @@ Par défaut, les fonctionnalités ADG sont activées au niveau du client pour to
 
 Les stratégies de rétention ADG peuvent être appliquées aux utilisateurs titulaires d’une licence dans des emplacements spécifiques (sites d’équipe, sites de groupe, etc.) par le biais de la classification automatique. Pour obtenir des instructions sur l’application des stratégies de rétention ADG, consultez [la rubrique application d’une stratégie de rétention à une organisation ou à des emplacements spécifiques](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).
 
-## <a name="office-365-advanced-ediscovery"></a>eDiscovery (découverte électronique) avancée Office 365
+## <a name="office-365-advanced-ediscovery"></a>Office 365 Advanced eDiscovery
 
 Office 365 Advanced eDiscovery fournit des solutions d’enquête et de découverte électronique pour les services informatiques et juridiques dans les entreprises pour identifier, collecter, conserver, réduire et consulter le contenu lié à une enquête ou litige avant l’exportation en dehors du Office 365 System.
 
@@ -312,7 +313,7 @@ Par défaut, la conversation de teams et les messages de canal sont un *emplacem
 
 Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de la sécurité Office 365, sous**emplacements**de **protection contre** > la perte de données.
 
-## <a name="information-barriers"></a>Barrières des informations
+## <a name="information-barriers"></a>Obstacles aux informations
 
 Les barrières d’informations sont des stratégies qu’un administrateur peut configurer pour empêcher des personnes ou des groupes de communiquer entre eux. Ceci est utile si, par exemple, un service gère des informations qui ne doivent pas être partagées avec d’autres services, ou si un groupe ne doit pas être en mesure de communiquer avec des contacts externes. Les stratégies de barrière des informations empêchent également les recherches et la découverte. Cela signifie que si vous tentez de communiquer avec une personne avec laquelle vous ne devez pas communiquer, vous ne trouverez pas cet utilisateur dans le sélecteur de personnes.
 

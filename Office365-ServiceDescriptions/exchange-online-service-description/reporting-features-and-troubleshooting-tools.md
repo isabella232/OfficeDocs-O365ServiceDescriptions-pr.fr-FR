@@ -1,5 +1,5 @@
 ---
-title: Fonctions de rapport et outils de dépannage
+title: Fonctionnalités de création de rapports et outils de dépannage
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d’administration Exchange.
-ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442639"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581990"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>Fonctions de rapport et outils de dépannage
+# <a name="reporting-features-and-troubleshooting-tools"></a>Fonctionnalités de création de rapports et outils de dépannage
 
 Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d’administration Exchange.
   
@@ -49,7 +49,7 @@ Le Centre d'administration Exchange propose les fonctionnalités de création de
   
 ### <a name="trace-an-email-message"></a>Suivre un message électronique
 
-La fonctionnalité de suivi des messages vous permet, en tant qu'administrateur, de suivre des messages électroniques lorsqu'ils sont acheminés via votre service Exchange Online. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Vous pouvez ainsi répondre efficacement aux questions de vos utilisateurs et résoudre les problèmes de flux de messagerie, tout en réduisant la nécessité de demander de l'aide à l'assistance technique.
+La fonctionnalité de suivi des messages vous permet, en tant qu’administrateur, de suivre des messages électroniques lors de leur transmission via votre service Exchange Online. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Vous pouvez ainsi répondre efficacement aux questions de vos utilisateurs et résoudre les problèmes de flux de messagerie, tout en réduisant la nécessité de demander de l'aide à l'assistance technique.
   
 > [!IMPORTANT]
 > Dans le cadre de tendances et problèmes généraux de dépannage, utilisez les outils de reporting pour obtenir les données correspondantes. Pour des points spécifiques où les détails relatifs à un message sont requis, recourez à l'outil de suivi des messages. 
@@ -72,6 +72,6 @@ Vous pouvez utiliser ces rapports pour surveiller et dépanner la messagerie uni
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
 

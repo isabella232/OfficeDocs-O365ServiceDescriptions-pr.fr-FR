@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. . Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir description du service Office 365.
-ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05e2da6ede768120c0cde61eb28ca1deb7c2cbf5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442549"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582040"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -87,17 +87,17 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Découverte électronique locale  <br/> |Oui  <br/> |Oui  <br/> |
 |Règles de transport  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection contre la perte de données  <br/> |Non  <br/> |Oui <br/> |
-|[Politique de confidentialité, sécurité et transparence](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Confidentialité, sécurité et transparence](../office-365-platform-service-description/privacy-security-and-transparency.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Protection anti-courrier indésirable intégrée  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection anti-programme malveillant intégrée  <br/> |Oui  <br/> |Oui  <br/> |
-|Office 365 – Protection avancée contre les menaces  <br/> |Non  <br/> |Oui<sup>19</sup> <br/> |
+|Office 365 Advanced Threat Protection  <br/> |Non  <br/> |Oui<sup>19</sup> <br/> |
 |Gestion de la sécurité avancée  <br/> |Non  <br/> |Non  <br/> |
 |Référentiel sécurisé client  <br/> |Non  <br/> |Non  <br/> |
 |Clé client pour Office 365<sup>12</sup> <br/> |Non  <br/> |Non  <br/> |
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |Non  <br/> |Non  <br/> |
 |Score de sécurité<sup>14</sup> <br/> |Oui  <br/> |Oui  <br/> |
 |Intelligence des menaces  <br/> |Non  <br/> |Non  <br/> |
-|[Conformité [ServiceDesc]](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
+|[Conformité](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |
 |Évaluations SAS 70 / SSAE16  <br/> |Oui  <br/> |Oui  <br/> |
 |Certification ISO 27001  <br/> |Oui  <br/> |Oui  <br/> |
 |Clauses types de l'UE  <br/> |Oui  <br/> |Oui  <br/> |
@@ -138,7 +138,7 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |Gestion des applications mobiles Intune (MAM) pour les applications Office et les applications métier<sup>17</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des mises à jour Windows, Defender, stratégies de pare-feu<sup>15</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection des données - réinitialisation sélective  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Ciblage de groupe de sécurité pour stratégies  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Ciblage du groupe de sécurité (SG) pour les stratégies  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Installation d'applications Office sur des appareils Windows 10 inscrits  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Configuration de Windows Defender  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Déploiement des profils de périphérique et de la configuration de sécurité<sup>15</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -149,11 +149,11 @@ Pour connaître les fonctionnalités disponibles dans les offres Office 365, rep
 |:-----|:-----|
 |**Fonctionnalités de gestion Windows 10** - Microsoft 365 Business facilite la gestion des appareils. Lorsque vous configurez votre client Microsoft 365 Business vous sélectionnez la protection d'application et les paramètres de configuration des appareils. Ces paramètres déterminent les stratégies appliquées automatiquement aux appareils lorsqu'ils connectent à Azure Active Directory. Les fonctionnalités de gestion Windows 10 Pro sont les suivantes :  <br/>|**Microsoft 365 Business** <br/> |
 |Déploiement est simplifié grâce à Windows AutoPilot  <br/> |Oui  <br/> |
-|Activation de l'abonnement  <br/> |Oui  <br/> |
-|Contrôle structurel de l'écran d'un appareil inactif  <br/> |Oui  <br/> |
-|Contrôle structurel de l'accès utilisateur aux applications dans Microsoft Store  <br/> |Oui  <br/> |
-|Contrôle structurel de l'accès utilisateur à Cortana  <br/> |Oui  <br/> |
-|Contrôle structurel des conseils et des publicités Windows dans Microsoft  <br/> |Oui  <br/> |
+|Activation de l’abonnement  <br/> |Oui  <br/> |
+|Contrôle organisationnel de l’écran du périphérique sur inactif  <br/> |Oui  <br/> |
+|Contrôle organisationnel de l’accès des utilisateurs aux applications à partir du Microsoft Store  <br/> |Oui  <br/> |
+|Contrôle organisationnel de l’accès des utilisateurs à Cortana  <br/> |Oui  <br/> |
+|Contrôle organisationnel des conseils et des publicités Windows de Microsoft  <br/> |Oui  <br/> |
 |Mise à jour automatique des appareils Windows 10  <br/> |Oui  <br/> |
 |**Fonctionnalités de sécurité Windows 10** <br/> |**Microsoft 365 Business** <br/> |
 |Protection des PC contre les virus et les autres menaces à l’aide de l’antivirus Windows Defender  <br/> |Oui  <br/> |
