@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 prend en charge les méthodes suivantes pour la création, la gestion et l’authentification des utilisateurs.
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582170"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631653"
 ---
 # <a name="user-account-management"></a>Gestion des comptes d'utilisateur
 
@@ -104,7 +104,7 @@ L'expérience de connexion change selon le type d'identité Office 365 étant ut
 |Outlook 2010 ou Office Outlook 2007 sous Windows Vista  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
 |POP, IMAP, Outlook pour Mac  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
-|Expériences Web : Portail Office 365/Outlook Web App/SharePoint Online/Office pour le Web  <br/> |Connexion à chaque session de navigateur<sup>4</sup> <br/> |Connexion à chaque session <sup>3</sup> <br/> |
+|Expériences Web : Office 365 Portal/Outlook sur le Web/SharePoint Online/Office pour le Web  <br/> |Connexion à chaque session de navigateur<sup>4</sup> <br/> |Connexion à chaque session <sup>3</sup> <br/> |
 |Office 2010 ou Office 2007 à l'aide de SharePoint Online  <br/> |Connexion à chaque session SharePoint Online<sup>4</sup> <br/> |Connexion à chaque session SharePoint Online<sup>3</sup> <br/> |
 |Skype Entreprise Online  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Aucune invite de commande  <br/> |
 |Outlook pour Mac  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Plusieurs outils permettent aux utilisateurs possédant une identité cloud (en 
     
     Pour les plans d’entreprise, si les administrateurs perdent ou oublient leur mot de passe, un autre administrateur disposant du rôle administrateur général peut réinitialiser les mots de passe des administrateurs dans le centre d’administration 365 de Microsoft ou à l’aide de Windows PowerShell. Pour plus d'informations, voir [Réinitialiser les mots de passe des administrateurs](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Si vous travaillez dans Office 365 géré par 21Vianet en Chine, reportez-vous à l'article relatif à la [modification ou la réinitialisation des mots de passe dans Office 365 géré par 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **L'utilisateur modifie son mot de passe avec Outlook Web App** La page des options d'Outlook Web App contient un lien hypertexte Changer le mot de passe qui redirige les utilisateurs vers la page **Changer le mot de passe**. L'utilisateur doit connaître son mot de passe précédent. Pour plus d'informations, voir [Modifier le mot de passe](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Si vous utilisez Office 365 géré par 21Vianet en Chine, reportez-vous à l'article relatif à la [modification ou la réinitialisation des mots de passe dans Office 365 géré par 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- **Un utilisateur modifie les mots de passe avec Outlook sur le Web** La page d’options Outlook sur le Web inclut un lien hypertexte modifier le mot de passe, qui redirige les utilisateurs vers la page **modifier le mot de passe** . L'utilisateur doit connaître son mot de passe précédent. Pour plus d'informations, voir [Modifier le mot de passe](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Si vous utilisez Office 365 géré par 21Vianet en Chine, reportez-vous à l'article relatif à la [modification ou la réinitialisation des mots de passe dans Office 365 géré par 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 - **Droits de réinitialisation de mots de passe basés sur des rôles** Pour les plans Entreprise, les utilisateurs autorisés comme le personnel du support technique peuvent se voir attribuer le droit d'utilisateur **Réinitialiser le mot de passe** et le droit de changer des mots de passe en utilisant des rôles Office 365 prédéfinis ou personnalisés, sans pour autant devenir pleinement des administrateurs de services fédérés. Par défaut dans les plans Entreprise, les administrateurs ayant le rôle d'administrateur général, d'administrateur de mots de passe ou d'administrateur de gestion des utilisateurs peuvent modifier les mots de passe. Pour plus d'informations, consultez la rubrique [Affectation de rôles d'administrateur](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
     
@@ -157,7 +157,7 @@ Plusieurs outils permettent aux utilisateurs possédant une identité cloud (en 
     
  **Gestion des mots de passe des identités fédérées :**
   
-Si des identités fédérées sont utilisées, les mots de passe sont gérés dans Active Directory. Le service d’émission de jeton de sécurité sur site négocie l’authentification avec la passerelle de Fédération Office 365 sans passer les mots de passe Active Directory locaux des utilisateurs sur Internet à Office 365. Des stratégies de mot de passe locales sont utilisées, ou, pour les clients web, une identification à deux facteurs. Outlook Web App n'inclut pas de lien hypertexte Modifier le mot de passe. Pour changer leurs mots de passe, les utilisateurs se servent des outils locaux standard ou des options de connexion au bureau de leur PC.
+Si des identités fédérées sont utilisées, les mots de passe sont gérés dans Active Directory. Le service d’émission de jeton de sécurité sur site négocie l’authentification avec la passerelle de Fédération Office 365 sans passer les mots de passe Active Directory locaux des utilisateurs sur Internet à Office 365. Des stratégies de mot de passe locales sont utilisées, ou, pour les clients web, une identification à deux facteurs. Outlook sur le Web n’inclut pas de lien hypertexte modifier le mot de passe. Pour changer leurs mots de passe, les utilisateurs se servent des outils locaux standard ou des options de connexion au bureau de leur PC.
   
 Si le [scénario de synchronisation d'annuaires avec authentification unique](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100)) est activé dans votre environnement Office 365 et qu'une panne touche votre fournisseur d'identité fédéré, la sauvegarde de synchronisation de mot de passe pour la connexion fédérée offre la possibilité de passer manuellement votre domaine à la synchronisation de mot de passe. L'utilisation de la synchronisation de mot de passe permettra à vos utilisateurs d'accéder à Office 365 pendant la réparation de la panne. Apprenez à [basculer de l'authentification unique à la synchronisation de mot de passe](https://go.microsoft.com/fwlink/p/?LinkId=509832).
   

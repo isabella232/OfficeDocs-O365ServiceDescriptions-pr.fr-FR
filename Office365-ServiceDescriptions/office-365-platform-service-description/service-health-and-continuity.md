@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en se connectant à Office 365.
-ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450278"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633435"
 ---
 # <a name="service-health-and-continuity"></a>État des services
 
@@ -34,9 +34,9 @@ La section service Health d’Office 365 affiche l’état actuel du service et 
 
 Un incident de service est un événement qui a une incidence sur la prestation d’un service. Les incidents de service peuvent être causés par des défaillances matérielles ou logicielles dans le centre de données Microsoft, une connexion réseau défectueuse entre le client et Microsoft, ou un défi majeur pour le centre de données, tel qu’un incendie, une inondation ou une catastrophe régionale. La plupart des incidents de service peuvent être résolus au moyen des technologies et solutions de traitement Microsoft, dans un délai court. Cependant, certains incidents de service sont plus graves et peuvent aboutir à des pannes à plus long terme.
   
-Il existe deux types de notifications concernant les heures où les services peuvent ne pas être disponibles:
+Il existe deux types de notifications concernant les heures où les services peuvent ne pas être disponibles :
   
-- **Événements de maintenance planifiée:** La maintenance planifiée est une mise à jour normale des services initiés par Microsoft vers les applications logicielles et d’infrastructure. Les notifications de maintenance planifiée informent les clients du travail de service susceptible d’affecter les fonctionnalités d’un service Office 365. Les clients sont informés au plus tard cinq jours avant l’avancement de toutes les opérations de maintenance planifiée via le centre de messages sur le portail d’administration Office 365. Microsoft prévoit généralement la maintenance pour les heures où l’utilisation du service est historique en fonction de ses fuseaux horaires régionaux. 
+- **Événements de maintenance planifiée :** La maintenance planifiée est une mise à jour normale des services initiés par Microsoft vers les applications logicielles et d’infrastructure. Les notifications de maintenance planifiée informent les clients du travail de service susceptible d’affecter les fonctionnalités d’un service Office 365. Les clients sont informés au plus tard cinq jours avant l’avancement de toutes les opérations de maintenance planifiée via le centre de messages sur le portail d’administration Office 365. Microsoft prévoit généralement la maintenance pour les heures où l’utilisation du service est historique en fonction de ses fuseaux horaires régionaux. 
     
 - **Temps d'arrêt non planifiés :** Les incidents de service non planifiés surviennent quand un des services de la suite Office 365 est indisponible ou ne répond pas. 
 
@@ -83,7 +83,7 @@ Microsoft System Center est une plateforme de gestion intégrée qui vous perm
   
 ### <a name="office-365-service-communications-api"></a>API de communications de service Office 365
 
-L’API de communications de service Office 365 vous permet d’accéder aux communications de service Office 365 comme vous le souhaitez. Grâce à ce nouvel outil d’administration, vous pouvez désormais créer ou connecter vos outils aux communications de service Office 365, ce qui peut simplifier la manière dont vous surveillez votre environnement. L’API de communications de service vous permet de surveiller les éléments suivants dans votre environnement :
+L’API de communications de service Office 365 vous permet d’accéder aux communications des services Office 365 comme vous le souhaitez. Grâce à ce nouvel outil d'administration, vous pouvez désormais créer ou connecter vos outils aux communications de service Office 365, ce qui peut simplifier la manière dont vous surveillez votre environnement. L’API de communications de service vous permet de surveiller les éléments suivants dans votre environnement :
   
 - État du service en temps réel
     
@@ -99,7 +99,7 @@ L'engagement de Microsoft pour une amélioration continue implique l'analyse des
   
 Les incidents de service non planifiés sont définis comme des interruptions de service mutualisées qui influent sur l’utilisation du service définies par nos SLA de service, et qui ont été déclarées comme telles sur le tableau de bord d’intégrité des services.
   
- Pour les incidents de service non planifiés ayant un impact sur les clients qui ont eu un impact important et notable sur un grand nombre d’organisations, un examen post-incident préliminaire (PIR) sera fourni via votre tableau de bord d’état des services dans les 48 heures de l’incident. résolution, suivie d’un PIR final dans les cinq jours ouvrés. Le rapport PIR détaillé inclut: 
+ Pour les incidents de service non planifiés ayant un impact sur les clients qui ont eu un impact important et notable sur un grand nombre d’organisations, un examen post-incident préliminaire (PIR) sera fourni via votre tableau de bord d’état des services dans les 48 heures de l’incident. résolution, suivie d’un PIR final dans les cinq jours ouvrés. Le rapport PIR détaillé inclut : 
   
 - Impact sur les clients et l'expérience utilisateur
     
@@ -137,7 +137,7 @@ Microsoft garantit à tout moment la disponibilité des données du client par l
     
 - **Exécution de la maintenance préventive :** La maintenance préventive inclut les vérifications de la cohérence des bases de données, la compression périodique des données et les analyses des journaux d’erreurs. 
     
-## <a name="support"></a>Assistance
+## <a name="support"></a>Support
 
 Le développement Office 365 et les équipes d'exploitation sont réalisés par une organisation de support Office 365 dédié qui joue un rôle important dans l'offre aux clients d'une continuité opérationnelle. L'équipe de support détient une connaissance approfondie du service et ses applications associées, et dispose d'un accès direct aux experts Microsoft en architecture, développement et test.
   

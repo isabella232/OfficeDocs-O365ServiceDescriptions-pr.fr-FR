@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 18fb079e0d6353595841d02c274ba5bbab35935b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582060"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633499"
 ---
 # <a name="office-365-plan-options"></a>Options de plan Office 365
 
@@ -33,10 +33,10 @@ Le tableau ci-après répertorie les familles et plans de services disponibles d
   
 |**Famille de services Office 365**|**Plans**|
 |:-----|:-----|
-|**Business (maximum 300 utilisateurs)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**Entreprise (nombre illimité d'utilisateurs)** <br/> |[Office 365 Entreprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Entreprise F1](https://products.office.com/business/office-365-f1) <br/> |
-|**Éducation (nombre illimité d'utilisateurs)** <br/> |[Office 365 Éducation](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Éducation E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
-|**Secteur public (nombre illimité d'utilisateurs)** <br/> |[Voir tous les abonnements professionnels disponibles](https://products.office.com/government/compare-office-365-government-plans) <br/> |
+|**Entreprise (maximum de 300 utilisateurs)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Entreprise (nombre illimité d’utilisateurs)** <br/> |[Office 365 Entreprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Entreprise F1](https://products.office.com/business/office-365-f1) <br/> |
+|**Éducation (nombre illimité d’utilisateurs)** <br/> |[Office 365 Éducation](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Éducation E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
+|**Secteur public (nombre illimité d’utilisateurs)** <br/> |[Voir tous les abonnements professionnels disponibles](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Office 365 géré par 21Vianet en Chine** <br/> |[Voir toutes les offres disponibles pour les entreprises](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[Voir tous les abonnements professionnels disponibles](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview) <br/> |
    
@@ -84,6 +84,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 #### <a name="basic-client-limitations"></a>Restrictions de base appliquées aux certificats par les clients
 
 Les fonctionnalités suivantes sont disponibles dans la version complète du client (et non dans la version de base) :
+
 - Gérer les paramètres d'appel d'équipe
 - Gérer les délégués    
 - Passer un appel pour le compte d'un autre contact (scénario responsable/délégué)    
@@ -97,7 +98,7 @@ Les fonctionnalités suivantes sont disponibles dans la version complète du cli
 
 Lorsque les besoins de votre organisation changent, il se peut que vous deviez modifier votre plan Office 365. Vous pouvez passer de votre abonnement Office 365 actuel à un autre abonnement Office 365 : 
   
-- **Au sein de la même famille de services :** par exemple, vous pouvez passer d'Office 365 Business Essentials à Office 365 Business Premium ou d'Office 365 Entreprise E1 à Office 365 Entreprise E3.     
+- **Au sein de la même famille de services :** par exemple, vous pouvez passer d'Office 365 Business Essentials à Office 365 Business Premium ou d'Office 365 Entreprise E1 à Office 365 Entreprise E3.
 - **À partir d'un plan autonome :** Par exemple, vous pouvez passer d'Exchange Online Plan 1 à Office 365 Entreprise E1.     
 - **Vers une famille de services différente :** par exemple, vous pouvez passer d'Office 365 Business Essentials à Office 365 Entreprise E3.     
 Pour plus d'informations sur la modification des abonnements, y compris le passage d'une version d'évaluation à un abonnement payant, consultez la rubrique [Changer d'offre ou d'abonnement Office 365](https://support.office.com/article/HA104031833)
@@ -105,7 +106,6 @@ Pour plus d'informations sur la modification des abonnements, y compris le passa
 Vous pouvez combiner les plans autonomes, Entreprise et Business (par exemple, Exchange Online Plan 1) en un seul compte. Toutefois, les limites existantes sur le nombre d'utilisateurs par plan ne changent pas. Par exemple, vous pouvez avoir jusqu'à 300 utilisateurs par plan sur Office 365 Business Essentials, ainsi que sur Office 365 Business Premium, mais vous disposez d'un nombre illimité d'utilisateurs sur Exchange Online Plan 1.
   
 ## <a name="standalone-services"></a>Services autonomes
-<a name="bkmk_standaloneservices"> </a>
 
 Les services en ligne suivants sont disponibles séparément, en tant que plans autonomes. Ils peuvent également être ajoutés à des plans de famille de services Business et Entreprise qui ne les englobent pas encore. Pour obtenir des informations sur les tarifs, ou pour discuter avec un représentant en ligne, sélectionnez l’un des plans figurant dans le tableau suivant.
   
@@ -125,6 +125,5 @@ Les services en ligne suivants sont disponibles séparément, en tant que plans 
 |Kaizala  <br/> |[Microsoft Kaizala Pro](https://signup.microsoft.com/Signup?OfferId=b03ad9b6-42e5-4899-9a84-f7666ded99a1&culture=en-US&ali=1) <br/> |
    
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
-<a name="bkmk_standaloneservices"> </a>
 
 Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).

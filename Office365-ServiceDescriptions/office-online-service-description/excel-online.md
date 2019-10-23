@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595302"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631633"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -79,10 +79,9 @@ Vous pouvez utiliser Excel pour effectuer des calculs automatiques, manuels et i
 
 ## <a name="cell-references-in-formulas"></a>Références de cellule dans les formules
 
-Vous pouvez utiliser des références de cellule dans les formules. Lorsque vous faites référence à une cellule ou à une plage dans une formule, la cellule ou la plage référencée est mise en surbrillance avec une couleur. Pour plus d’informations, consultez [la rubrique utiliser des références de cellule dans une formule](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+Vous pouvez utiliser des références de cellule dans les formules. Lorsque vous [faites référence à une cellule ou à une plage dans une formule](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa), la cellule ou la plage référencée est mise en surbrillance avec une couleur. Pour plus d’informations, consultez [la rubrique utiliser des références de cellule dans une formule](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Animations de graphiques adaptées aux nouvelles données
-
 Seule l'application Microsoft Excel de bureau prend en charge les fonctionnalités graphiques avancées. En savoir plus sur l'[animation d'un graphique SmartArt](https://go.microsoft.com/fwlink/p/?LinkId=271668).
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Graphiques et tableaux, notamment les rapports de graphique croisé dynamique et de tableau croisé dynamique
@@ -95,7 +94,7 @@ Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionne
 
 ## <a name="comment-creation"></a>Comment creation
 
-Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. Vous pouvez également résoudre un thème de commentaire, qui le ferme en y apportant des modifications et de nouveaux commentaires, mais il le laisse. Cela vous permet de rouvrir le thread à des commentaires si nécessaire. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. Vous pouvez également résoudre un thème de commentaire, qui le ferme en y apportant des modifications et de nouveaux commentaires, mais il le laisse. Cela vous permet de rouvrir le thread à des commentaires si nécessaire. Utilisez @mentions dans vos commentaires pour envoyer un courrier électronique à la personne que vous mentionnez. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertir un tableau en plage
 
@@ -103,7 +102,7 @@ Après avoir créé un tableau Excel, vous souhaiterez peut-être uniquement le 
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Pour obtenir de meilleurs résultats, utilisez les raccourcis clavier, pas le menu contextuel ou les commandes de presse-papiers dans Excel pour le Web, pour copier des éléments vers un autre emplacement de feuille de calcul. En savoir plus sur [l’utilisation de la copie et du collage dans Excel pour le Web](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
+Vous pouvez couper, copier et coller du texte, des nombres, des équations, des formes, des graphiques et des images. Si vous avez des données dans des colonnes que vous devez faire pivoter pour les réorganiser en lignes, utilisez la fonctionnalité de **transpose** dans le menu **coller** .
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Vous pouvez utiliser la validation des données pour limiter le type de données
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 Vous pouvez déplacer la valeur de la cellule dans Excel pour le Web en faisant glisser et en déplaçant les cellules d’un endroit à un autre.
+
+## <a name="draw-cell-borders"></a>Dessiner des bordures de cellule
+
+Vous pouvez dessiner des bordures sur les cellules d’une feuille de calcul pour faciliter l’organisation de vos données. En savoir plus sur les [bordures de cellule dans Excel](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web).
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,11 +158,11 @@ Personnalisez vos données pour leur donner exactement l'aspect souhaité. Chois
   
 ## <a name="formula-bar"></a>Formula bar
 
-Affichez les formules sous-jacentes aux résultats d'une cellule dans la barre de formule. Vous pouvez ajouter, modifier ou supprimer des parties d'une formule dans le navigateur, exactement comme dans l'application Excel de bureau.
+Affichez les formules sous-jacentes aux résultats d'une cellule dans la barre de formule. Vous pouvez ajouter, modifier ou supprimer des parties d'une formule dans le navigateur, exactement comme dans l'application Excel de bureau. Excel pour le Web met en surbrillance les arguments de la formule avec des couleurs qui fournissent un mappage visuel entre la formule et les données de la feuille de calcul.
   
-## <a name="formula-tools--advanced"></a>Outils de formule avancés
+## <a name="formula-tools-advanced"></a>Outils de formule, avancé
 
-L’application Microsoft Excel de bureau prend en charge les outils de formule les plus avancés, comme le style de référence 3D et les formules de tableaux. Excel pour le Web prend en charge uniquement les formules Excel de base. En savoir plus sur les [formules](https://go.microsoft.com/fwlink/p/?LinkId=271665).
+L'application Microsoft Excel de bureau prend en charge les outils de formule les plus avancés, comme le style de référence 3D et les formules de tableaux. Excel pour le Web prend en charge uniquement les formules Excel de base. En savoir plus sur les [formules](https://go.microsoft.com/fwlink/p/?LinkId=271665).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -211,7 +214,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>Plages nommées
 
-Vous ne pouvez pas créer de plages nommées dans Excel pour le Web, mais vous pouvez utiliser les plages nommées que vous avez créées dans le bureau Excel dans votre feuille de calcul dans Excel pour le Web.
+Vous ne pouvez pas créer de plages nommées dans Excel pour le Web, mais vous pouvez utiliser les plages nommées que vous avez créées dans le bureau Excel dans votre feuille de calcul dans Excel pour le Web. Lorsque vous sélectionnez une plage nommée, le nom s’affiche juste avant la barre de formule.
 
 ## <a name="number-formatting"></a>Format des nombres
 
@@ -295,7 +298,7 @@ Affichez les segments de votre feuille de calcul et filtrez vos données en sél
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données (de haut en bas ou de gauche à droite) et approfondir les détails des tableaux croisés dynamiques. En savoir plus sur le [Tri et le filtrage des données](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données (de haut en bas ou de gauche à droite, plusieurs niveaux) et explorer les détails des tableaux croisés dynamiques. En savoir plus sur le [Tri et le filtrage des données](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Audit et conformité de feuille de calcul
 
