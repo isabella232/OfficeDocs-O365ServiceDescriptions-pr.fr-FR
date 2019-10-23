@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
+ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631633"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637251"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -94,7 +94,7 @@ Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionne
 
 ## <a name="comment-creation"></a>Comment creation
 
-Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. Vous pouvez également résoudre un thème de commentaire, qui le ferme en y apportant des modifications et de nouveaux commentaires, mais il le laisse. Cela vous permet de rouvrir le thread à des commentaires si nécessaire. Utilisez @mentions dans vos commentaires pour envoyer un courrier électronique à la personne que vous mentionnez. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Vous pouvez insérer, modifier et supprimer des commentaires dans Excel pour le Web. Vous pouvez également résoudre un thème de commentaire, qui le ferme en y apportant des modifications et de nouveaux commentaires, mais il le laisse. Cela vous permet de rouvrir le thread à des commentaires si nécessaire. [Utilisez @mentions dans vos commentaires](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) pour envoyer un courrier électronique à la personne que vous mentionnez. En savoir plus sur l'[ajout de commentaires dans Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertir un tableau en plage
 
