@@ -12,45 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: cd60bc6c7e24598241b56a12f6193b81fc50b74a
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777985"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726377"
 ---
 # <a name="discovery-features-in-yammer"></a>Fonctionnalités de découverte dans Yammer
 
 Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
   
 ## <a name="feeds"></a>Flux
-<a name="bkmk_Feeds"> </a>
 
-Restez informé des conversations, des fichiers et des projets qui vous intéressent dans l'entreprise. Les flux vous permettent de vous engager rapidement dans les conversations, de mentionner vos collègues afin de les intégrer à une discussion et d'afficher un aperçu des documents.
-  
+Restez au fait des conversations pertinentes, des fichiers et des projets qui se produisent au sein de l’organisation. Les flux vous permettent de participer rapidement à des conversations, de @mention des collègues pour les parcourir dans une discussion et de prévisualiser des documents.
+
+## <a name="instant-type-ahead"></a>Type de saisie semi-automatique
+
+Des suggestions de résultats de recherche apparaissent au fur et à mesure de votre saisie pour vous aider à trouver ce dont vous avez besoin plus rapidement. Les résultats sont catégorisés par des personnes, des groupes, des fichiers, des notes, des rubriques et des applications.
+    
 ## <a name="ticker"></a>Télex
-<a name="bkmk_Ticker"> </a>
 
-Découvrez ce sur quoi vos collègues travaillent à tout moment. Le Télex affiche l'historique des activités en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour effectués dans d'autres applications métiers.
+Découvrez ce sur quoi vos collègues travaillent à tout moment. Le téléscripteur affiche les activités qui se produisent en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour effectuées dans d’autres applications d’entreprise.
   
 ## <a name="topics"></a>Topics
-<a name="bkmk_Topics"> </a>
 
-Marquez du contenu pour permettre aux autres utilisateurs de trouver rapidement des messages, des fichiers et des notes associés en ajoutant simplement un hashtag (#) avant le mot ou en recherchant des sujets existants.
+Baliser le contenu avec des rubriques pour aider les autres utilisateurs à trouver rapidement des messages, des fichiers, des notes connexes et plus encore en ajoutant un mot-dièse (#) avant le mot ou en recherchant des rubriques existantes.
   
 ## <a name="universal-search"></a>Recherche universelle
-<a name="bkmk_UniversalSearch"> </a>
 
-La recherche en texte intégral vous permet de trouver rapidement des fichiers, des notes, des conversations, des personnes et des données sur votre réseau Yammer, ainsi que des applications métiers intégrées.
-  
-## <a name="instant-type-ahead"></a>Saisie semi-automatique instantanée
-<a name="bkmk_InstantTypeAhead"> </a>
-
-Des suggestions de résultats de recherche apparaissent au fur et à mesure de votre saisie pour vous aider à trouver ce dont vous avez besoin plus rapidement. Les résultats sont classés par personnes, groupes, fichiers, notes, sujets et applications.
+La recherche en texte intégral vous permet de trouver rapidement des fichiers, des notes, des conversations, des personnes et des données au sein de votre réseau Yammer et des applications métiers intégrées.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
-<a name="bkmk_InstantTypeAhead"> </a>
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description de service Yammer](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
   
   

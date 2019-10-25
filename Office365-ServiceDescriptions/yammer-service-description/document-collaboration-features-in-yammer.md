@@ -12,41 +12,36 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Les fonctionnalités de collaboration sur les documents suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 4fa20ae0209c0b70ad26790f12e70394f45a5d6c
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777965"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726367"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Fonctionnalités de collaboration sur les documents dans Yammer
 
 Les fonctionnalités de collaboration sur les documents suivantes sont disponibles dans Yammer.
   
-## <a name="files"></a>Fichiers
-<a name="bkmk_Files"> </a>
-
-Partagez des documents Microsoft Office, des fichiers PDF, des images et des vidéos entre vos équipes et bénéficiez de commentaires instantanés. Téléchargez les nouvelles versions afin de vous assurer que tous les utilisateurs visualisent les dernières modifications et peuvent accéder aux anciennes versions à tout moment.
-  
-## <a name="recent-changes"></a>Recent Changes
-<a name="bkmk_RecentChanges"> </a>
-
-Visualisez, en un coup d'œil, toutes les modifications apportées à un document par chaque collaborateur dans le volet Modifications récentes. Vous pouvez rétablir une version précédente à tout moment.
-  
-## <a name="official-content"></a>Official Content
-<a name="bkmk_OfficialContent"> </a>
-
-Marquez les fichiers comme officiels et en lecture seule. Le contenu officiel apparaît en haut de la liste dans les résultats de recherche et les annuaires de contenu pour un accès simplifié.
-  
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Fonctionnalités de collaboration sur les documents dans les plans Yammer
-<a name="bkmk_OfficialContent"> </a>
 
 Vous avez besoin d'aide pour déterminer quel plan Yammer répond le mieux aux besoins de votre organisation ? Le tableau suivant répertorie les fonctionnalités de collaboration sur les documents disponibles dans chaque plan.
   
 |**Fonctionnalité**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
 |[Fichiers](document-collaboration-features-in-yammer.md#files) <br/> |Oui  <br/> |Oui  <br/> |
-|[Modifications récentes](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Contenu officiel](document-collaboration-features-in-yammer.md#official-content) <br/> |Non  <br/> |Oui  <br/> |
-   
+|[Modifications récentes](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Oui  <br/> |Oui  <br/> |
 
+## <a name="files"></a>Fichiers
+
+Partager des documents, des fichiers PDF, des images et des vidéos Microsoft Office entre les équipes et obtenir des commentaires immédiatement. Téléchargez les nouvelles versions afin de vous assurer que tous les utilisateurs visualisent les dernières modifications et peuvent accéder aux anciennes versions à tout moment.
+  
+## <a name="official-content"></a>Contenu officiel
+
+Marquez les fichiers comme officiels et en lecture seule. Le contenu officiel apparaît plus haut dans les résultats de recherche et les répertoires de contenu pour en faciliter l’accès.
+
+## <a name="recent-changes"></a>Modifications récentes
+
+En un clin d’œil, affichez toutes les modifications apportées à un document par chaque collaborateur dans le volet **modifications récentes** . Vous pouvez rétablir une version précédente à tout moment.
+  

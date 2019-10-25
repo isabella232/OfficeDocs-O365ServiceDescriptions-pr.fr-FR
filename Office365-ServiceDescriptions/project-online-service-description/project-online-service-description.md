@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: e580a6ae92655c39be38f7eb0a6bf48b74b31bf5
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523255"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700246"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Microsoft Project propose les applications suivantes pour vous aider à répondre aux besoins de votre organisation en matière de gestion des projets et des tâches :
 
@@ -50,7 +50,18 @@ Project Online est une solution en ligne flexible pour la gestion de portefeuill
 
 Project Online est basé sur la plateforme SharePoint et stocke des données dans le magasin de données SharePoint.
 
-Project Online est disponible par le biais de deux abonnements : Project Online professionnel et Project Online Premium. La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Les fonctionnalités indiquées dans la section [fonctionnalités de Project Online](#project-online-features) interagissent uniquement avec les données du magasin de données SharePoint de Project online.
+Project Online est disponible par le biais de deux abonnements : Project Online professionnel et Project Online Premium. Les fonctionnalités indiquées dans la section [fonctionnalités de Project Online](#project-online-features) interagissent uniquement avec les données du magasin de données SharePoint de Project online.
+
+La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Project Online Essentials est un abonnement de *complément* de membre d’équipe pour les clients qui ont des abonnements Project Online professionnel ou Project Online Premium. Il donne aux membres de l’équipe une interface Web pour effectuer des mises à jour de tâches et de temps pour les projets gérés dans Project online. 
+
+Les membres de l’équipe avec Project Online Essentials peuvent effectuer les fonctions suivantes de Project Online :
+
+- Utiliser une interface Web
+- Mettre à jour des tâches, des problèmes et des risques
+- Soumettre des feuilles de temps
+- Partager des documents et collaborer avec des utilisateurs de Microsoft teams ou de Skype entreprise
+
+Project Online Essentials n’inclut pas Project pour le Web.
 
 ### <a name="project-online-desktop-client"></a>Client de bureau Project Online
 
@@ -107,7 +118,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |**Facilement**||
 |Co-création | Collaborez avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projets et bien plus encore.|
 |Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec des indicateurs graphiques. |
-|**Réduite**||
+|**Mobilité**||
 |Applications mobiles | Créez des applications mobiles personnalisées avec les PowerApp. <sup>4</sup> |
 |**Personnalisation et intégration**||
 |PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles avec les PowerApp. <sup>4</sup> |
@@ -180,7 +191,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 |Gestion des utilisateurs | Gérer les rôles et les autorisations des utilisateurs et des groupes au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
 |Administration des services | Planifiez, installez et configurez, gérez et étendez votre environnement Microsoft Project dans le cadre de votre environnement Office 365<sup>1</sup> .  | Non | Oui |
 
-#### <a name="notes"></a>Commentaires
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> nécessite un abonnement commercial Office ou Microsoft 365.</br>
 <sup>2</sup> cartes Azure acquises séparément.</br>
@@ -247,7 +258,15 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 
 ### <a name="use-of-sharepoint-online"></a>Utilisation de SharePoint Online
 
-Project Online nécessite l’utilisation de SharePoint Online, qui est configuré pour vous dans le cadre de Project online. Les droits d’accès aux fonctionnalités SharePoint Online fournis avec Project Online professionnel ou Premium sont limités au stockage et à l’accès aux données pour prendre en charge Project online.
+Project Online nécessite l’utilisation de SharePoint Online, qui est mis en service dans le cadre de Project online. Les droits d’accès aux fonctionnalités SharePoint Online fournis avec Project Online professionnel ou Premium sont limités au stockage et à l’accès aux données pour prendre en charge Project online.
+
+### <a name="project-roadmap-and-microsoft-flow"></a>Feuille de route de projet et flux Microsoft
+
+La feuille de route de projet requiert l’utilisation de Microsoft Flow, qui est mis en service dans le cadre de votre abonnement à votre projet. Les droits sur la fonctionnalité de flux de Microsoft sont limités aux fonctionnalités de flux de Microsoft nécessaires à la feuille de route Project. La fonctionnalité de flux Microsoft requise par Project feuille de route apparaît en tant que l' **intégration de données pour Project avec** le plan de service de flux dans la section **applications** du centre d’administration 365 de Microsoft.
+
+### <a name="project-for-the-web-and-common-data-service"></a>Projet pour le Web et le service de données commun
+
+Project pour le Web nécessite l’utilisation du CD (Common Data Service) pour stocker ses données. Les CD sont mis en service dans le cadre de votre abonnement au projet. Les fonctionnalités de droits sur les CD sont limitées au stockage et à l’accès aux données pour prendre en charge Project pour le Web. Les fonctionnalités de CD requises par Project apparaissent comme le **service de données commun pour** le plan de service Project dans la section **applications** du centre d’administration 365 de Microsoft.
 
 ### <a name="data-backup-and-retention"></a>Sauvegarde et rétention des données
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de collaboration et de communication de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online&mdash;pour aider les utilisateurs à être productifs quasiment n’importe où sur Internet.
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595271"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701396"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -829,7 +829,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |[Catalogue d’applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Déploiement d’applications : applications hébergées dans le Cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Déploiement d’applications : applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Services de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Service de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |BCS : alertes pour les listes externes <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : types de contenu externe d’étendue d’application (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -951,7 +951,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |WCM : rendu mobile et appareil <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |WCM : plusieurs domaines <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |WCM: Recommendations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[WCM : Optimisations du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[WCM : optimisation du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |**Fonctionnalités décisionnelles** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -1011,7 +1011,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |OneDrive entreprise et sites hybrides  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Évolutivité et gestion des listes volumineuses](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Connectivité mobile](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |
-|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |
+|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |
 |My Tasks <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Composants WebPart OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion des autorisations](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

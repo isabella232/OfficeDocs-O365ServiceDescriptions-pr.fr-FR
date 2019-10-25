@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous cherchez une comparaison des fonctionnalités incluses dans les abonnements Office 365, y compris Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581940"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701361"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -245,7 +245,7 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Courrier non trié|Non|Non|Oui|Oui|Oui|
 |MailTips|Oui|Oui|Oui|Oui|Oui|
 |Accès délégué|Oui|Oui|Oui\|Oui|Non|
-|Règles de la boîte de réception|Oui|Oui|Oui|Oui|Non|
+|Règles de la boîte de réception|Oui|Oui|Oui|Oui|Oui|
 |Comptes connectés|Oui|Oui|Oui<sup>19</sup>|Oui<sup>19</sup>|Oui<sup>19</sup>|
 |Boîtes aux lettres inactives|Non|Non|Non <sup>6</sup>|Oui|Non <sup>6</sup>|
 |Carnet d'adresses en mode hors connexion|Oui|Oui|Oui|Oui|Oui|

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 4c2f6398f59bbb7045c3afa09193077975214170
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633533"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701706"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
@@ -573,7 +573,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |[Catalogue d’applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Déploiement d’applications : applications hébergées dans le Cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Déploiement d’applications : applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Services de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-services)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Service de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-service)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |BCS : alertes pour les listes externes|Non|Non|Non|Non|Non|Oui|Non|
 |[BCS : types de contenu externe d’étendue d’application (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Non|Non|Non|Non|Non|Oui|Non|
 |[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Non|Non|Non|Non|Non|Oui|Non|
@@ -694,7 +694,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |WCM : rendu mobile et appareil|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |WCM : plusieurs domaines|Non|Non|Non|Non|Non|Non|Non|
 |WCM: Recommendations|Oui|Non|Oui|Oui|Oui|Oui|Oui|
-|[WCM : Optimisations du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Oui|Non|Oui|Oui|Oui|Oui|Oui|
+|[WCM : optimisation du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Non|Non|Non|Non|Non|Non|Non|
 |**Fonctionnalités décisionnelles**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F1 géré par 21Vianet**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Non|Non|Non|Non|Non|Non|Non|
@@ -756,7 +756,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |Sites OneDrive entreprise et sites hybrides|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>15</sup>|
 |[Évolutivité et gestion des listes volumineuses](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Connectivité mobile](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Non|Oui<sup>13</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|
-|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|
+|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|Oui<sup>13</sup>|
 |My Tasks|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |[Composants WebPart OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |[Gestion des autorisations](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
-ms.openlocfilehash: 0b975ca872e580cc8293fee0c0929d80edda0524
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 1c0882c54a90f2e5ec298c29fba5c6cfb4b00d2a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595292"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701686"
 ---
 # <a name="office-365-germany"></a>Office 365 Allemagne
 
@@ -282,7 +282,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Oui|
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Oui|
 |Outlook pour Android<sup>11</sup>|Non|Non|Non|
-|**Valeur entreprise**|**Office Professionnel Plus 2013**|**Office Professionnel Plus 2016**|**Office 365 ProPlus**|
+|**Valeur entreprise**|**Office Professionnel Plus 2013**|**Office Professionnel Plus 2016**|**Office 365 ProPlus**|
 |Cinq installations par utilisateur sur PC ou Mac|Non|Oui|Oui<sup>8</sup>|
 |Mise en service automatisée du compte d'utilisateur|N/D|Oui|Oui|
 |Interface utilisateur multilingue|Oui|Oui|Oui|
@@ -550,7 +550,7 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |[Catalogue d’applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Oui|Oui|Oui|Oui|
 |[Déploiement d’applications : applications hébergées dans le Cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Oui|Oui|Oui|Oui|
 |[Déploiement d’applications : applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Oui|Oui|Oui|Oui|
-|[Services de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-services)|Oui|Oui|Oui|Oui|
+|[Service de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-service)|Oui|Oui|Oui|Oui|
 |BCS : alertes pour les listes externes|Non|Non|Non|Oui|
 |[BCS : types de contenu externe d’étendue d’application (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Non|Non|Non|Oui|
 |[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Non|Non|Non|Oui|
@@ -670,7 +670,7 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |WCM : rendu mobile et appareil|Non|Non|Oui|Oui|
 |WCM : plusieurs domaines|Non|Non|Non|Non|
 |WCM: Recommendations|Non|Non|Oui|Oui|
-|[WCM : Optimisations du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Non|Non|Oui|Oui|
+|[WCM : optimisation du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Non|Non|Oui|Oui|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Non|Non|Non|Non|
 |**Fonctionnalités décisionnelles**|**OneDrive Entreprise Plan 1**|**OneDrive Entreprise Plan 2**|**SharePoint Online Plan 1**|**SharePoint Online Plan 2**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Non|Non|Non|Oui|
@@ -730,7 +730,7 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |OneDrive entreprise et sites hybrides|Oui|Oui|Oui|Oui|
 |[Évolutivité et gestion des listes volumineuses](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Oui|Oui|Oui|Oui|
 |[Connectivité mobile](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui|Oui|
-|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Oui|Oui|Oui|Oui|
+|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Oui|Oui|Oui|Oui|
 |My Tasks|Non|Non|Oui|Oui|
 |[Composants WebPart OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Non|Non|Oui|Oui|
 |[Gestion des autorisations](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Oui|Oui|Oui|Oui|
@@ -807,7 +807,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |[Catalogue d’applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Déploiement d’applications : applications hébergées dans le Cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Déploiement d’applications : applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Services de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-services)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|[Service de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-service)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |BCS : alertes pour les listes externes|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[BCS : types de contenu externe d’étendue d’application (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
 |[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts)|Non|Non|Non|Oui|Non|Oui|Oui|Non|
@@ -928,7 +928,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |WCM : rendu mobile et appareil|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |WCM : plusieurs domaines|Non|Non|Non|Non|Non|Non|Non|Non|
 |WCM: Recommendations|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|[WCM : Optimisations du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|[WCM : optimisation du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services)|Non|Non|Non|Non|Non|Non|Non|Non|
 |**Fonctionnalités décisionnelles**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center)|Non|Non|Non|Non|Non|Oui|Oui|Non|
@@ -990,7 +990,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |OneDrive entreprise et sites hybrides|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>19</sup>|
 |[Évolutivité et gestion des listes volumineuses](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Connectivité mobile](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity)|Non|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|
-|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface)|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|
+|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface)|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|Oui<sup>12</sup>|
 |My Tasks|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Composants WebPart OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Gestion des autorisations](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|

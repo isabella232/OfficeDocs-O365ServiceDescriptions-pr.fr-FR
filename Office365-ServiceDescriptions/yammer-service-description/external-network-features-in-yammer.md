@@ -12,28 +12,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: Les fonctionnalités de réseau externe suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 1d73561103ecb7e94e57307d47db3f31ac9e607a
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 25a8bace73fdd1d8fddb5c0d16d846845eb687ba
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777955"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726357"
 ---
 # <a name="external-network-features-in-yammer"></a>Fonctionnalités de réseau externe dans Yammer
 
 Les fonctionnalités de réseau externe suivantes sont disponibles dans Yammer.
   
-## <a name="external-networks"></a>External Networks
-<a name="bkmk_ExternalNetworks"> </a>
+## <a name="external-networks"></a>Réseaux externes
 
-Créez un espace de travail en ligne dédié à la collaboration avec des contacts professionnels en dehors du réseau Yammer de votre entreprise.
+Créez un espace de travail en ligne dédié pour collaborer avec des contacts professionnels en dehors du réseau Yammer de votre organisation.
   
-## <a name="fast-network-switching"></a>Fast Network Switching
-<a name="bkmk_FastNetworkSwitching"> </a>
+## <a name="fast-network-switching"></a>Basculement réseau rapide
 
-Basculez de façon transparente entre les réseaux internes et externes. Surveillez facilement les conversations ayant lieu sur les réseaux externes et partagez immédiatement les informations sur le réseau interne de votre entreprise.
+Basculez de façon transparente entre les réseaux internes et externes. Surveillez facilement les conversations au sein des réseaux externes et partagez immédiatement des informations avec le réseau interne de votre organisation.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
-<a name="bkmk_FastNetworkSwitching"> </a>
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description de service Yammer](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
