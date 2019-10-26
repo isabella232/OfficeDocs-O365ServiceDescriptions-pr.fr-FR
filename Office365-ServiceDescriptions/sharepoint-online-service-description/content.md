@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de contenu suivantes rendent Enterprise Content Management (ECM) accessible à tous les types d'utilisateurs. Ce système combine une solution de gestion de contenu standard, des fonctionnalités sociales et un puissant outil de recherche.
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726261"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733955"
 ---
 # <a name="content"></a>Contenu
 
@@ -172,7 +172,7 @@ Les utilisateurs SharePoint disposent d'une Corbeille dans laquelle le contenu s
     
 Les personnalisations de sites effectuées à l'aide de SharePoint Designer ne sont pas capturées dans la Corbeille. 
   
-Pour plus d'informations, consultez la rubrique [Gérer la Corbeille d'une collection de sites SharePoint ](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
+Pour plus d'informations, consultez la rubrique [Gérer la Corbeille d'une collection de sites SharePoint ](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
   
 ## <a name="search-web-parts"></a>Composants WebPart de recherche
 

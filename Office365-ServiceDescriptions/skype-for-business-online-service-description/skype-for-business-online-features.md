@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype entreprise Online dans la configuration de Skype entreprise online.
-ms.openlocfilehash: b149dff807a32beced9bc5358435075229acda57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726080"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733795"
 ---
 # <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
@@ -113,11 +113,11 @@ Pour consulter les dernières rubriques d’aide et les procédures de l’admin
 
 Une audioconférence est une conférence dans laquelle au moins un participant se connecte à la partie audio à l'aide d'un téléphone. La possibilité d'accéder à une réunion par téléphone est utile pour les personnes qui sont en déplacement ou ne peuvent pas y participer via un PC ou un appareil mobile. Le téléphone peut également être une meilleure option dans d'autres cas de figure, par exemple lorsque la connectivité Internet est limitée ou lorsqu'une réunion est uniquement diffusée en audio.
   
-Avec l'audioconférence, les utilisateurs de votre organisation peuvent héberger ou créer des réunions qui contiennent des numéros de conférence téléphonique. Les appelants peuvent ensuite utiliser ces numéros de téléphone pour appeler et participer à une réunion avec leur téléphone (ces utilisateurs auront uniquement accès à l'audio, pas aux messages instantanés, aux partages de bureaux ou aux fichiers partagés pendant la réunion). Il vous suffit de configurer la conférence rendez-vous pour les utilisateurs qui comptent planifier ou organiser des réunions. Toute personne en possession du numéro d'appel entrant et de l'ID de conférence peut participer à la réunion, sauf si l'organisateur a verrouillé la réunion. Pour obtenir plus d'informations, consultez les articles sur la [prise en main de la conférence audio](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) et les [numéros d'accès disponibles pour les conférences audio](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Avec l'audioconférence, les utilisateurs de votre organisation peuvent héberger ou créer des réunions qui contiennent des numéros de conférence téléphonique. Les appelants peuvent ensuite utiliser ces numéros de téléphone pour appeler et participer à une réunion avec leur téléphone (ces utilisateurs auront uniquement accès à l'audio, pas aux messages instantanés, aux partages de bureaux ou aux fichiers partagés pendant la réunion). Il vous suffit de configurer la conférence rendez-vous pour les utilisateurs qui comptent planifier ou organiser des réunions. Toute personne en possession du numéro d'appel entrant et de l'ID de conférence peut participer à la réunion, sauf si l'organisateur a verrouillé la réunion. Pour obtenir plus d'informations, consultez les articles sur la [prise en main de la conférence audio](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) et les [numéros d'accès disponibles pour les conférences audio](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Dans Office 365, vous pouvez activer l'accès aux conférences rendez-vous en utilisant Office 365 comme fournisseur de conférence RTC, ou en utilisant un fournisseur tiers (également appelé fournisseur de services d'audioconférence).
   
-La fonctionnalité d'audioconférence n'est pas disponible dans tous les pays ou toutes les régions. Pour obtenir la liste des pays ou régions dans lesquels vous pouvez acquérir la fonction de conférence audio, reportez-vous à [l'article dédié](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+La fonctionnalité d'audioconférence n'est pas disponible dans tous les pays ou toutes les régions. Pour obtenir la liste des pays ou régions dans lesquels vous pouvez acquérir la fonction de conférence audio, reportez-vous à [l'article dédié](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans-in-office-365"></a>Plans d’appel dans Office 365
 

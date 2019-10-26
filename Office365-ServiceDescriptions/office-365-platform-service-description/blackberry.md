@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d6d172d8-8c0e-4dbd-b570-a5585a27edaf
 description: Les smartphones BlackBerry® peuvent accéder au courrier électronique et aux documents dans Office 365.
-ms.openlocfilehash: 45271840070ede0ce00cbb85fe2d5fdca0429555
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: dd744fb5e90240c3f5c01f53ffe895e69c7b2d4e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523469"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734162"
 ---
 # <a name="blackberry"></a>BlackBerry
 
@@ -38,11 +38,11 @@ Vous pouvez utiliser le service BlackBerry® Internet Service (BIS) pour connect
   
 Le service BIS est installé sur la plupart des opérateurs mobiles. Les utilisateurs finaux devront donc configurer la synchronisation de la messagerie, du calendrier et des contacts en utilisant les instructions figurant dans les articles suivants de la Base de connaissances :
   
-- [KB31310 - BlackBerry Internet Service et services Microsoft Office 365](http://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
+- [KB31310 - BlackBerry Internet Service et services Microsoft Office 365](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
-- [KB00561 - Comment configurer la synchronisation du calendrier sans fil sur un smartphone BlackBerry](http://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
+- [KB00561 - Comment configurer la synchronisation du calendrier sans fil sur un smartphone BlackBerry](https://go.microsoft.com/fwlink/?LinkID=826160&amp;clcid=0x409)
     
-- [KB22430 - Activation ou désactivation de la synchronisation sans fil des contacts avec BlackBerry Internet Service](http://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
+- [KB22430 - Activation ou désactivation de la synchronisation sans fil des contacts avec BlackBerry Internet Service](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
 > Les utilisateurs qui se connectent à leurs comptes via des connexions IMAP ou POP peuvent synchroniser leur messagerie uniquement en utilisant une connexion sans fil. Pour plus d'informations sur la façon dont les utilisateurs du service BIS peuvent utiliser une connexion filaire afin de synchroniser les contacts et le calendrier entre leur smartphone BlackBerry et leurs comptes, contactez l'assistance de BlackBerry. 

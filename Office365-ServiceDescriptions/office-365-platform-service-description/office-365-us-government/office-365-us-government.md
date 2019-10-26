@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595241"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734232"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -124,15 +124,15 @@ Les clients qui choisissent l’avantage de migration [FastTrack](https://fasttr
 
 Office 365 les clients du gouvernement américain peuvent utiliser les services ExpressRoute gouvernementaux pour se connecter en privé aux services Office 365 pris en charge au lieu de se connecter sur Internet.
   
-Pour obtenir des informations comme les fournisseurs pris en charge, les modèles de tarifs, et plus encore, consultez les [informations Azure ExpressRoute](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
+Pour obtenir des informations comme les fournisseurs pris en charge, les modèles de tarifs, et plus encore, consultez les [informations Azure ExpressRoute](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
   
-Pour plus d'informations sur la prise en charge d'ExpressRoute Azure par Office 365, voir [ExpressRoute Azure pour Office 365](http://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409).
+Pour plus d'informations sur la prise en charge d'ExpressRoute Azure par Office 365, voir [ExpressRoute Azure pour Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409).
   
 [Utilisation de cette section Description du service](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="system-requirements"></a>Configuration requise
 
-Pour connaître la configuration requise pour installer et utiliser les plans Office 365 pour le gouvernement américain, reportez-vous à la page [Configuration requise pour Office](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) sur le site des produits [office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
+Pour connaître la configuration requise pour installer et utiliser les plans Office 365 pour le gouvernement américain, reportez-vous à la page [Configuration requise pour Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) sur le site des produits [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
   
 [Utilisation de cette section Description du service](office-365-us-government.md#how-to-use-this-service-description-section)
   

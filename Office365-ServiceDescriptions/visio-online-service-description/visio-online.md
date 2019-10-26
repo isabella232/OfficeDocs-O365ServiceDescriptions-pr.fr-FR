@@ -1,5 +1,5 @@
 ---
-title: Visio pour le Web
+title: Visio pour le web
 ms.author: sharik
 author: skjerland
 audience: ITPro
@@ -13,14 +13,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio pour le Web étend votre expérience de Microsoft Visio au navigateur, qui vous permet de créer et de modifier des diagrammes enregistrés dans le Cloud. Les clients Microsoft Office 365 peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en déplacement.
-ms.openlocfilehash: 6230cb61748d4e64614e9e2ea130c0495a092328
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450308"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700216"
 ---
-# <a name="visio-for-the-web"></a>Visio pour le Web
+# <a name="visio-for-the-web"></a>Visio pour le web
 
 Visio pour le Web étend votre expérience de Microsoft Visio au navigateur, qui vous permet de créer et de modifier des diagrammes enregistrés dans le Cloud. Les clients Microsoft Office 365 peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en déplacement. Si vous disposez d’un abonnement Visio, vous pouvez utiliser des fonctionnalités supplémentaires, telles que celles décrites dans les sections suivantes.
   
@@ -34,7 +34,7 @@ Vous pouvez déplacer, redimensionner, faire pivoter, retourner ou classer des f
   
 ## <a name="build-mashup-solutions"></a>Créer des solutions d’application web hybride
 
-Visio pour l’API Web hybride de JavaScript permet aux développeurs d’accéder à un diagramme Web Visio, à ses pages et à ses formes et de les manipuler. Pour plus d’informations, consultez [la rubrique Visio for the Web: Forum aux questions](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
+Visio pour l’API Web hybride de JavaScript permet aux développeurs d’accéder à un diagramme Web Visio, à ses pages et à ses formes et de les manipuler. Pour plus d’informations, consultez [la rubrique Visio for the Web : Forum aux questions](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
   
 ## <a name="create-diagrams"></a>Créer des diagrammes
 
@@ -50,11 +50,11 @@ Visio pour le Web inclut une édition enrichie, que vous pouvez utiliser pour mo
   
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>Incorporer un diagramme dans une page SharePoint, web ou de blog
 
-Vous pouvez utiliser Visio pour le Web pour insérer un diagramme Visio (créé dans l’application de bureau Visio) sur une page SharePoint, Web ou de blog. Pour plus d’informations, consultez [la rubrique Visio for the Web: Forum aux questions](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
+Vous pouvez utiliser Visio pour le Web pour insérer un diagramme Visio (créé dans l’application de bureau Visio) sur une page SharePoint, Web ou de blog. Pour plus d’informations, consultez [la rubrique Visio for the Web : Forum aux questions](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
   
-## <a name="find"></a>Rechercher
+## <a name="find"></a>Trouver
 
-Dans Visio pour le Web, vous pouvez rechercher toutes les occurrences d’un mot, d’un numéro ou d’une expression sur la page en cliquant sur le bouton de sélection (...), puis en sélectionnant Rechercher (ou appuyez sur Ctrl + F). Les résultats s'affichent en regard de votre diagramme. Visio effectue une recherche dans les noms de forme, le texte des forme, les données de forme et les cellules définies par l'utilisateur.
+Dans Visio pour le Web, vous pouvez rechercher toutes les occurrences d’un mot, d’un numéro ou d’une expression sur la page en sélectionnant **plus** (bouton points de suspension) et en sélectionnant **Rechercher** (ou appuyez sur Ctrl + F). Les résultats s'affichent en regard de votre diagramme. Visio effectue une recherche dans les noms de forme, le texte des forme, les données de forme et les cellules définies par l'utilisateur.
   
 ## <a name="font-formatting"></a>Mise en forme des caractères
 
@@ -62,11 +62,11 @@ Vous pouvez modifier la police, la taille de police et d’autres attributs d’
   
 ## <a name="hyperlinks"></a>Liens hypertexte
 
-Dans Visio pour le Web, vous pouvez accéder directement aux liens hypertexte en cliquant sur la forme.
+Dans Visio pour le Web, vous pouvez accéder directement aux liens hypertexte en sélectionnant la forme.
   
 ## <a name="navigation"></a>Navigation
 
-Dans Visio pour le Web, vous pouvez accéder à d’autres pages en cliquant sur les onglets situés en bas à gauche.
+Dans Visio pour le Web, vous pouvez accéder à d’autres pages en sélectionnant les onglets dans la partie inférieure gauche.
   
 ## <a name="office-add-ins"></a>Compléments Office
 
@@ -94,7 +94,7 @@ Visio pour le Web vous permet d’utiliser la fonctionnalité enregistrer sous o
   
 ## <a name="share-a-diagram"></a>Partager un diagramme
 
-Si votre diagramme est enregistré dans une bibliothèque de documents SharePoint ou dans OneDrive Entreprise, votre diagramme est en ligne et vous pouvez le partager en envoyant un lien au lieu d’une pièce jointe. Les personnes disposant des autorisations adéquates pourront ainsi l'afficher dans leur navigateur web ou sur leur appareil mobile. Cliquez simplement sur **Partager** en haut à droite. Nous vous recommandons de partager un lien pour éviter de créer des diagrammes connectés à des données en double.
+Si votre diagramme est enregistré dans une bibliothèque de documents SharePoint ou dans OneDrive Entreprise, votre diagramme est en ligne et vous pouvez le partager en envoyant un lien au lieu d’une pièce jointe. Les personnes disposant des autorisations adéquates pourront ainsi l'afficher dans leur navigateur web ou sur leur appareil mobile. Sélectionnez **partager** dans le coin supérieur droit. Nous vous recommandons de partager un lien pour éviter de créer des diagrammes connectés à des données en double.
   
 ## <a name="smartart"></a>SmartArt
 
@@ -102,7 +102,7 @@ Avec Visio pour le Web, vous ne pouvez pas ajouter de SmartArt à un diagramme. 
   
 ## <a name="tell-me"></a>Rechercher
 
-La fonctionnalité rechercher n’est pas disponible dans Visio pour le Web. Dans l’application de bureau Visio, vous pouvez utiliser la fonctionnalité Rechercher pour obtenir rapidement de l’aide concernant une tâche que vous souhaitez effectuer.
+La fonctionnalité rechercher n’est pas disponible dans Visio pour le Web. Dans l'application de bureau Visio, vous pouvez utiliser la fonctionnalité Rechercher pour obtenir rapidement de l'aide concernant une tâche que vous souhaitez effectuer.
   
 ## <a name="undo-and-redo"></a>Annulation et rétablissement
 
@@ -114,7 +114,7 @@ Les fonctionnalités d’annulation et de rétablissement sont disponibles dans 
   
 ## <a name="view-shape-data"></a>Afficher les données de forme
 
-Vous pouvez utiliser Visio pour le Web pour afficher les métadonnées d’un diagramme: cliquez simplement sur la forme, puis sur informations sur la **forme**.
+Vous pouvez utiliser Visio pour le Web pour afficher les métadonnées d’un diagramme : sélectionnez simplement la forme, puis sélectionnez **informations sur la forme**.
   
 ## <a name="view-visio-files-in-the-browser"></a>Afficher des fichiers Visio dans le navigateur
 

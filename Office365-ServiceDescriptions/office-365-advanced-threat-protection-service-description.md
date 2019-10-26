@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
-ms.openlocfilehash: ffb08bc3104e1c41ebf6441a68fd3d22b367f5c4
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
+ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401740"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734172"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -49,9 +49,9 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
 
 - Office 365 Business Premium
 
-- Office 365 Entreprise E1
+- Office 365 Entreprise E1
 
-- Office 365 Entreprise E3
+- Office 365 Entreprise E3
 
 - Office 365 Entreprise F1
 
@@ -61,13 +61,15 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
 
 Pour acheter Office 365 - Protection avancée contre les menaces, reportez-vous à l'article [Office 365 - Protection avancée contre les menaces](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 for business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) et [découvrir la solution Microsoft 365 Enterprise qui vous convient](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 for business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) et [découvrir la solution Microsoft 365 Enterprise qui vous convient](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Nouveautés d'Office 365 - Protection avancée contre les menaces
 
 Nous continuons à ajouter de nouvelles fonctionnalités à la protection avancée contre les menaces d’Office 365. Pour en savoir plus sur les nouvelles fonctionnalités disponibles pour la protection avancée contre les menaces (ou Microsoft 365 en général), consultez les ressources suivantes :
+
 - [Feuille de route Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
-- [Nouveautés d’Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
+
+- [Nouveautés d’Office 365 - Protection avancée contre les menaces](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Configuration requise pour Office 365 - Protection avancée contre les menaces
 
@@ -77,7 +79,7 @@ La protection avancée contre les menaces peut être utilisée avec n’importe 
 
 Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online » fait généralement référence à la famille de services Office 365 Entreprise.
 
-|**Fonctionnalité**|**Plan de l’ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel| Office 365 Entreprise E5|
+|**Fonctionnalité**|**Plan de l’ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel| Office 365 Entreprise E5|
 |:-----|:-----|:-----|:-----|
 |*Configuration, protection et détection*|
 |Pièces jointes fiables|Oui|Oui|Oui|
@@ -93,7 +95,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |Réponse automatique aux incidents|Non|Oui|Oui|
 |Simulateur d’attaque|Non|Oui|Oui|
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de Protection avancée contre les menaces
+## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de protection avancée contre les menaces (ATP)
 
 ### <a name="safe-attachments"></a>Pièces jointes fiables
 
@@ -104,15 +106,15 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 
 ### <a name="safe-links"></a>Liens fiables
 
-La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection est activée à chaque fois qu'ils cliquent sur le lien ; les liens malveillants sont bloqués dynamiquement tandis que les liens fiables peuvent être ouverts.
+La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection reste chaque fois qu’elle sélectionne le lien, car les liens malveillants sont bloqués de manière dynamique alors que des liens valides sont accessibles.
 
 Les liens fiables sont disponibles pour les URL dans les applications suivantes :
 
-- Office 365 ProPlus sur Windows ou Mac.
+- Office 365 ProPlus sur Windows ou Mac
 
-- Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web).
+- Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web)
 
-- Word, Excel, PowerPoint et Visio sous Windows, ainsi que des applications Office sur des appareils iOS et Android.
+- Word, Excel, PowerPoint et Visio sous Windows, ainsi que des applications Office sur des appareils iOS et Android
 
 > [!NOTE]
 > Les utilisateurs doivent disposer d’une<sup>\*</sup>licence pour la protection avancée contre les menaces, doivent être inclus dans les stratégies de liens fiables ATP et être connectés sur leurs appareils pour que la protection soit mise en place.
@@ -129,7 +131,7 @@ La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsof
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
-Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) des informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
+Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et des](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
 
 ### <a name="threat-trackers"></a>Suivi des menaces
 

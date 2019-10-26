@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: 8e91644898b688237a12715ef457a66589e5406e
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633423"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734112"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 
@@ -47,7 +47,7 @@ MyAnalytics fournit des informations sur deux des facteurs clés de votre produc
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner est un outil qui offre aux utilisateurs un moyen visuel pour organiser le travail d'équipe. Les équipes peuvent créer des plans, organiser et affecter des tâches, partager des fichiers, discutez de ce sur quoi ils travaillent, définir des dates d'échéance et mettre à jour les statuts des tâches. Microsoft Planner offre également la possibilité d'associer des documents à des tâches spécifiques, de les modifier simultanément et de tenir des conversations autour des tâches. Pour plus d'informations, voir [Présentation de Microsoft Planner](http://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
+Microsoft Planner est un outil qui offre aux utilisateurs un moyen visuel pour organiser le travail d'équipe. Les équipes peuvent créer des plans, organiser et affecter des tâches, partager des fichiers, discutez de ce sur quoi ils travaillent, définir des dates d'échéance et mettre à jour les statuts des tâches. Microsoft Planner offre également la possibilité d'associer des documents à des tâches spécifiques, de les modifier simultanément et de tenir des conversations autour des tâches. Pour plus d'informations, voir [Présentation de Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 

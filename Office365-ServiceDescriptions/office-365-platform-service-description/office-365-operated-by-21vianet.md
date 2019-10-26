@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: ad4ffbd80396304f3c3e7a6155cb91cdd9bd4f3e
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 0d03633ddf45012c3e40d1c0548cb4c481164ef4
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701706"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734142"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
@@ -200,8 +200,8 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 <sup>6</sup> La réduction des sièges qui ont été achetés avec une remise à long terme peut être soumise à des frais de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle.<br/>
 <sup>7</sup> les plans de formation Office 365 ne prennent pas en charge les modifications de siège de licence à partir du centre d’administration 365 Microsoft.<br/>
 <sup>8</sup> Microsoft Sway n'est pas disponible actuellement pour les clients de certaines régions géographiques. Certains plans Office 365 hérités qui ne sont plus commercialisés depuis août 2015 peuvent également ne pas avoir accès à Microsoft Sway. <br/>
-<sup>9</sup> Pour Office 365 géré par 21Vianet, reportez-vous au contrat de niveau de service [ici](http://www.21vbluecloud.com/office365/O365-SLA/).<br/>
-<sup>10</sup> Pour Office 365 géré par 21Vianet, reportez-vous au [contrat standard pour les services en ligne pour Office 365](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) de 21Vianet.
+<sup>9</sup> Pour Office 365 géré par 21Vianet, reportez-vous au contrat de niveau de service [ici](https://www.21vbluecloud.com/office365/O365-SLA/).<br/>
+<sup>10</sup> Pour Office 365 géré par 21Vianet, reportez-vous au [contrat standard pour les services en ligne pour Office 365](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) de 21Vianet.
 <br/>
 <sup>11</sup> la stratégie de conformité Internet de la Chine exige que vous obteniez un numéro de fournisseur de contenu Internet (ICP) pour un site Web public. Pour plus d'informations, consultez l'article relatif aux fournisseurs de contenu Internet correspondant. <br/>
 <sup>12</sup> une partie du contenu peut ne pas s’appliquer à Office 365 géré par 21ViaNet.<br/>

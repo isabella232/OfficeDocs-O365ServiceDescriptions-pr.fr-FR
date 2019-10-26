@@ -8,17 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-description: Office 365 Engineering direct est un service de support technique d’entreprise supplémentaire pour un contrat de support Microsoft premier. La description de service ingénierie technique Office 365 contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l’implémentation.
-ms.openlocfilehash: eb890bdd2ab0fa5b01702828b0eb9a02eb7c8a91
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Office 365 Engineering direct est un complément de services de support au niveau de l’entreprise pour un contrat de support Microsoft premier. La description de service ingénierie technique Office 365 contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l’implémentation.
+ms.openlocfilehash: 57274511660f36e7948bc42e9fd6214cf2c0ec52
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776455"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733885"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Description du service d’ingénierie technique Office 365
 
-Office 365 Engineering direct est un service de support technique d’entreprise supplémentaire pour un contrat de support Microsoft premier. La [Description de service ingénierie technique Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l’implémentation.
+Office 365 Engineering direct est un complément de services de support au niveau de l’entreprise pour un contrat de support Microsoft premier. La [Description de service ingénierie technique Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l’implémentation.
 
 Pour obtenir l’offre Office 365 ingénierie directe en tant que nouveau client, votre organisation doit s’abonner à une offre de support Microsoft premier, respecter le niveau de classification de grande entreprise pour les services 365 Office et exécuter un addendum de contrat de support. Un coût supplémentaire s’applique à la suite de services ajoutés. Contactez le représentant de votre équipe de compte Microsoft pour confirmer l’état de votre contrat de support et pour initier des modifications contractuelles afin de sécuriser l’offre de support technique. 
 

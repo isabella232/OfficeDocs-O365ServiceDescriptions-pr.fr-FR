@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
-description: Microsoft Workplace Analytics offre des informations riches et actionnables sur les tendances de communication et de collaboration de votre entreprise pour vous aider à prendre des décisions commerciales plus efficaces.
-ms.openlocfilehash: 3a0ab6b1bb936922581a70bbae651cbe5e4c52a5
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+description: Microsoft Workplace Analytics offre des informations riches et actionnables sur les tendances de communication et de collaboration de votre organisation pour vous aider à prendre des décisions professionnelles plus efficaces.
+ms.openlocfilehash: f048b57a1a41137941fe80edbdcc3f683fd23718
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998526"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733615"
 ---
 # <a name="workplace-analytics-service-description"></a>Description du service Workplace Analytics
 
-Microsoft Workplace Analytics offre des informations riches et actionnables sur les tendances de communication et de collaboration de votre entreprise pour vous aider à prendre des décisions commerciales plus efficaces.
+Microsoft Workplace Analytics offre des informations riches et actionnables sur les tendances de communication et de collaboration de votre organisation pour vous aider à prendre des décisions professionnelles plus efficaces.
 
 ## <a name="transform-unprecedented-insights-into-action"></a>Transformation des informations sans précédent en action
 

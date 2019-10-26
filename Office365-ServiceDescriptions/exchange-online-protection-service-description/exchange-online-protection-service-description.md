@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
-ms.openlocfilehash: 462e1f100382ffddd9f456f38525158826720f53
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581910"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700226"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service de protection Exchange Online
 
@@ -25,9 +25,9 @@ Obtenez des informations sur les fonctionnalités d’Exchange Online Protection
 
 Microsoft Exchange Online Protection (EOP) est un service de filtrage du courrier électronique dans le nuage, qui contribue à protéger votre organisation contre le courrier indésirable et les logiciels malveillants, ainsi que contre les violations de politique de messagerie. EOP peut simplifier la gestion de votre environnement de messagerie et alléger bon nombre des tâches liées à la maintenance du matériel et des logiciels locaux.
 
-Les principales manières d'utiliser EOP pour protéger la messagerie sont les suivantes :
+La liste suivante décrit les principales façons d’utiliser EOP pour la protection de la messagerie :
 
-- **Dans un scénario autonome**: EOP offre une protection de messagerie basée sur le Cloud pour votre environnement exchange Server 2013 ou version ultérieure local, les versions d’Exchange Server héritées ou pour toute autre solution de messagerie SMTP locale.
+- **Dans un scénario autonome**: EOP offre une protection de messagerie en nuage pour votre environnement de messagerie local (Exchange Server ou d’autres solutions de messagerie électronique SMTP sur site).
 
 - Dans **le cadre de Microsoft Exchange Online**: par défaut, EOP protège les boîtes aux lettres Exchange Online hébergées dans le Cloud. Pour en savoir plus sur Exchange Online, consultez la rubrique [Description du service Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
 
@@ -50,13 +50,13 @@ EOP est disponible avec les plans d'abonnement suivants :
 
 |**Planifier**|**Description**|
 |:-----|:-----|
-|[EOP autonome](https://products.office.com/exchange/exchange-email-security-spam-protection)|Où EOP protège vos boîtes aux lettres locales.|
-|[Fonctionnalités EOP dans Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|Où EOP protège vos boîtes aux lettres hébergées sur le nuage Exchange Online.|
-|[Licence d'accès client Exchange Enterprise avec Services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Où EOP protège vos boîtes aux lettres locales, comme EOP autonome, et inclut des services de protection contre la perte de données (DLP) et de génération de rapports à l'aide de services web.|
+|[EOP autonome](https://products.office.com/exchange/exchange-email-security-spam-protection)|Un service informatique distinct qui protège votre organisation de messagerie locale.|
+|[Fonctionnalités EOP dans Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|La protection intégrée de vos boîtes aux lettres Exchange Online hébergées dans le Cloud.|
+|[Licence d'accès client Exchange Enterprise avec services](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Licences de module complémentaire que vous achetez pour votre organisation Exchange locale qui inclut EOP et d’autres fonctionnalités basées sur le Cloud (pour plus d’informations, consultez la section suivante).|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Fonctionnalités de la licence d’accès client Exchange Enterprise avec Services
 
-La licence d’accès client Microsoft Exchange Enterprise avec Services offre les mêmes fonctionnalités de protection du courrier électronique qu’EOP pour votre environnement de messagerie local, ainsi que les fonctionnalités suivantes :
+La licence d’accès client Microsoft Exchange Enterprise avec services fournit les fonctionnalités de protection de messagerie d’EOP et les fonctionnalités supplémentaires suivantes basées sur le Cloud :
 
 - [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
@@ -64,7 +64,7 @@ La licence d’accès client Microsoft Exchange Enterprise avec Services offre l
 
 Pour plus d’informations sur la licence d’accès client Exchange Enterprise avec services, consultez la rubrique gestion des [licences Exchange Server](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
-Si vous disposez de licences de licence d’accès client Exchange Enterprise avec services et que vous souhaitez mettre en service le service, suivez les instructions indiquées dans [Set Up Your EOP service](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Les étapes de configuration sont les mêmes que pour EOP autonome.
+Si vous disposez de licences de licence d’accès client Exchange Enterprise avec services et que vous souhaitez mettre en service EOP, suivez les instructions de la procédure de [configuration de votre service EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Les étapes de configuration sont les mêmes que pour EOP autonome.
 
 > [!NOTE]
 > De nouvelles fonctionnalités pour la licence d’accès client Exchange Enterprise avec Services sont déployées en même temps qu’Exchange Online, et non EOP autonome. Les calendriers de déploiement pour EOP autonome et Exchange Online/la licence d’accès client Exchange Enterprise avec Services peuvent varier légèrement.

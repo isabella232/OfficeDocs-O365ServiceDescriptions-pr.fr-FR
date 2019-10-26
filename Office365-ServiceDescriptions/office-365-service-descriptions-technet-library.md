@@ -1,5 +1,5 @@
 ---
-title: 'Descriptions du service Office 365 '
+title: 'Description des services Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs.
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777475"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734031"
 ---
-# <a name="office-365-service-descriptions"></a>Descriptions du service Office 365 
+# <a name="office-365-service-descriptions"></a>Description des services Office 365 
 
 Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs. 
   
-Les rubriques de cette bibliothèque décrivent en détail les services et les fonctionnalités disponibles avec Office 365. Pour comparer les fonctionnalités des différents plans, voir [Comparer toutes les offres Office 365 pour les entreprises](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou la description du service voulu dans la liste ci-dessous. 
+Les rubriques de cette bibliothèque décrivent en détail les services et les fonctionnalités disponibles avec Office 365. Pour comparer les fonctionnalités des différents plans, voir [Comparer toutes les offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou la description du service voulu dans la liste ci-dessous. 
   
 Pour rechercher des articles et des informations de support technique, voir [Support technique Office](https://support.office.com/).
   
@@ -40,7 +40,7 @@ Pour commencer, lisez les descriptions suivantes :
     
 - [Description de service des applications Office](office-applications-service-description/office-applications-service-description.md)
     
-- [Description du service Web pour Office](office-online-service-description/office-online-service-description.md)
+- [Description du service Office pour le web](office-online-service-description/office-online-service-description.md)
     
 - [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
     
@@ -64,20 +64,20 @@ Pour commencer, lisez les descriptions suivantes :
     
 - [Description du service Project Online](project-online-service-description/project-online-service-description.md)
     
-- [Visio pour la description du service Web](visio-online-service-description/visio-online-service-description.md)
+- [Description du service Visio pour le web](visio-online-service-description/visio-online-service-description.md)
     
 - [Description du service Yammer](yammer-service-description/yammer-service-description.md)
 
 - [Description du service Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Conseils pour la gestion des licences des services de niveau client Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Aide sur les licences des services de niveau client pour Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Description du service Microsoft Dynamics 365 (en ligne)](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> Inclut la disponibilité des [fonctionnalités de la suite](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx), telles qu'Office Delve, Microsoft MyAnalytics, Microsoft Sway et Microsoft Teams. 
+> <sup>1</sup> Inclut la disponibilité des [fonctionnalités de la suite](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), telles qu'Office Delve, Microsoft MyAnalytics, Microsoft Sway et Microsoft Teams.
   
-## <a name="disclaimer"></a>Clause d’exclusion de responsabilité
+## <a name="disclaimer"></a>Clause d’exclusion
 
 © 2018 Microsoft Corporation. Tous droits réservés. Microsoft, Office 365 et d'autres noms de produits et de services sont ou peuvent être des marques déposées et/ou des marques commerciales aux États-Unis et/ou dans d'autres pays. Les informations contenues dans ce document sont fournies uniquement à titre d'information et représentent la vision actuelle de Microsoft Corporation à la date de sa dernière publication ou révision. Elles ne constituent pas un contrat de service et n'engagent en aucun cas Microsoft ou le client quant aux caractéristiques, fonctionnalités ou responsabilités mentionnées dans ce document. MICROSOFT EXCLUT TOUTE GARANTIE, EXPRESSE, IMPLICITE OU LÉGALE, RELATIVE AUX INFORMATIONS CONTENUES DANS CE DOCUMENT. 
   

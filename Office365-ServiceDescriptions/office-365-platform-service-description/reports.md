@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Les administrateurs de Microsoft Office 365 peuvent afficher des rapports illustrant la façon dont votre organisation utilise les services Office 365. Ces rapports permettent d'identifier des problèmes, de filtrer des données et de télécharger des données vers Microsoft Excel. Vous pouvez également créer vos propres rapports à l'aide des services web de création de rapports Office 365. Les administrateurs Exchange Online et Exchange Online Protection (EOP) peuvent utiliser des rapports de protection de messagerie dans Office 365 pour afficher les données sur les programmes malveillants, le courrier électronique et les détections de règles.
-ms.openlocfilehash: 3cc3423998b975a0bd5aaa61de48359ec29ca8aa
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 05219812609c4dbaa51756ed24d1bad2e9fc4c28
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582080"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734061"
 ---
 # <a name="reports"></a>Rapports
 
 Les administrateurs de Microsoft Office 365 peuvent afficher des rapports illustrant la façon dont votre organisation utilise les services Office 365. Ces rapports permettent d'identifier des problèmes, de filtrer des données et de télécharger des données vers Microsoft Excel. Vous pouvez également créer vos propres rapports à l'aide des services web de création de rapports Office 365. Les administrateurs Exchange Online et Exchange Online Protection (EOP) peuvent [utiliser des rapports de protection de messagerie dans Office 365 pour afficher les données sur les programmes malveillants, le courrier électronique et les détections de règles](https://go.microsoft.com/fwlink/p/?LinkId=401102).
   
-Pour plus d'informations, consultez la rubrique [Rapports d'activité dans le Centre d'administration Office 365](https://go.microsoft.com/fwlink/p/?LinkID=270182). Pour Office 365 géré par 21Vianet, consultez la rubrique relative à l'[affichage et au téléchargement des rapports pour Office 365 géré par 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409).
+Pour plus d'informations, consultez la rubrique [Rapports d'activité dans le Centre d'administration Office 365](https://go.microsoft.com/fwlink/p/?LinkID=270182). Pour Office 365 géré par 21Vianet, consultez la rubrique relative à l'[affichage et au téléchargement des rapports pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733348&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

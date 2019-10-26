@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Les fonctionnalités de gestion de portefeuille suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633741"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733875"
 ---
 # <a name="portfolio-management"></a>La gestion de portefeuille
 
@@ -25,11 +25,11 @@ Vous recherchez des informations sur toutes les fonctionnalités de Project Onli
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analyser les projets et optimiser le portefeuille
 
-Analysez vos projets pour déterminer ceux qui bénéficieront du meilleur retour sur votre investissement du budget et des ressources. Ce processus est appelé analyse de portefeuille. Pour plus d'informations, voir la rubrique sur l'[utilisation du graphique à nuages de points de l'analyse de portefeuille](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
+Analysez vos projets pour déterminer ceux qui bénéficieront du meilleur retour sur votre investissement du budget et des ressources. Ce processus est appelé analyse de portefeuille. Pour plus d'informations, voir la rubrique sur l'[utilisation du graphique à nuages de points de l'analyse de portefeuille](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
   
 ## <a name="create-and-edit-projects"></a>Créer et modifier des projets
 
-Créez des projets de différentes manières. Pour plus d'informations, voir [Créer un projet dans Project Web App](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
+Créez des projets de différentes manières. Pour plus d'informations, voir [Créer un projet dans Project Web App](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
   
 ## <a name="enterprise-resource-management"></a>Gestion des ressources d’entreprise
 

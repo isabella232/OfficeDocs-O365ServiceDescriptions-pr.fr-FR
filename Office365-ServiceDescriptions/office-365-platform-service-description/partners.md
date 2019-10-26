@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582110"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734081"
 ---
 # <a name="partners"></a>Partenaires
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582110"
 En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
   
 > [!NOTE]
-> Pour plus d'informations sur l'utilisation des fonctionnalités partenaires, consultez l'article sur [le développement de votre activité et la gestion de votre compte Office 365](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) et lisez la présentation des fonctionnalités partenaires. Pour obtenir un accès aux fonctionnalités partenaires, vous pouvez rejoindre Cloud Essentials en signant l' [accord Partenaires Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
+> Pour plus d'informations sur l'utilisation des fonctionnalités partenaires, consultez l'article sur [le développement de votre activité et la gestion de votre compte Office 365](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) et lisez la présentation des fonctionnalités partenaires. Pour obtenir un accès aux fonctionnalités partenaires, vous pouvez rejoindre Cloud Essentials en signant l' [accord Partenaires Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>Création d’offres d’essai et de bons de commande
 
@@ -47,9 +47,9 @@ Même si un client a autorisé un partenaire à effectuer des tâches administra
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Connexion avec des clients et d'autres partenaires du Marketplace Office 365
 
-Le Office 365 offre aux clients l'opportunité de rechercher les services et le savoir-faire de partenaires. Pour plus d'informations, voir [Me répertorier sur le Marketplace](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
+Le Office 365 offre aux clients l'opportunité de rechercher les services et le savoir-faire de partenaires. Pour plus d'informations, voir [Me répertorier sur le Marketplace](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
   
-Microsoft Partner Network s'engage à satisfaire les besoins de nos partenaires. Pour rejoindre ce réseau et savoir comment Microsoft satisfait ses partenaires, voir la rubrique [Microsoft Partner Network](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
+Microsoft Partner Network s'engage à satisfaire les besoins de nos partenaires. Pour rejoindre ce réseau et savoir comment Microsoft satisfait ses partenaires, voir la rubrique [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

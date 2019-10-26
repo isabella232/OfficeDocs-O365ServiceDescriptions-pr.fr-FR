@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0b5768720514572299814dd5ecd9c3a200f1958a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 78495334dc89f3e806bff3639eac448edcaaedf3
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581920"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734222"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients et appareils mobiles
 
@@ -47,7 +47,7 @@ Outlook sur le web est proposé sous deux versions client, pouvant toutes les de
 
 - **Version Light d’Outlook sur le Web** La version Light d’Outlook sur le Web permet aux utilisateurs Exchange Online d’accéder à la boîte aux lettres à l’aide de quasiment n’importe quel navigateur Web. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts, et planifier des rendez-vous et des réunions. Le délai d’expiration basé sur l’activité par défaut est défini sur six heures, mais il peut être [configuré par un administrateur dans Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutes à 8 heures. Ce délai d’attente dépend des interactions de l’utilisateur au sein de l’application Web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’expiration de sécurité distinct, qui n’est pas configurable et qui se produit indépendamment de l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, la version Light d’OWA journalise automatiquement l’utilisateur et demande une nouvelle authentification. 
 
-Outlook sur le web est également disponible en versions mobiles. Pour plus d'informations, voir [cette page](http://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
+Outlook sur le web est également disponible en versions mobiles. Pour plus d'informations, voir [cette page](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
 ## <a name="outlook-for-mac"></a>Outlook pour Mac
 
@@ -59,7 +59,7 @@ Exchange Online fonctionne avec les applications Outlook disponibles pour iOS, A
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Appareil  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilité de l’application mobile Outlook  <br/> |Oui  <br/> [Obtenir Outlook pour Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Oui  <br/> [Obtenir Outlook pour iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Intégré  <br/> |
 |Applications de messagerie intégrées compatibles avec Exchange Online  <br/> |Application de messagerie Gmail App/Samsung  <br/> |application de messagerie iOS  <br/> |Courrier, calendrier, contacts Outlook  <br/> |
 |Plus d’informations  <br/> |[Configuration d’Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[programme d’installation de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuration de Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |

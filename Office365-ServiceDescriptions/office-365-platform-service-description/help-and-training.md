@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
-ms.openlocfilehash: 537388fdbd104591ee746cf5629b0b7e7e3355cb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 3dbeb76225c641cb57d5cbc849df2d56fcecf3cb
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595213"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734152"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
   
 ## <a name="online-help"></a>Aide en ligne
 
-Les articles d’aide et les vidéos sont disponibles à partir de n’importe quel lien d’aide incorporé dans le service, y compris l’icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d’administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Les articles d’aide et les vidéos sont disponibles à partir de n’importe quel lien d’aide incorporé dans le service, y compris l’icône aide dans la barre de navigation supérieure du portail Office 365 et le centre d’administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formation
 
@@ -46,7 +46,7 @@ Une formation est disponible via des vidéos, des conférences en ligne et des c
 ## <a name="community"></a>Communauté
 
 > [!NOTE]
-> Les ressources de la communauté s'appliquent aux versions internationales d'Office 365. Si vous utilisez Office 365 géré par 21Vianet, vous pouvez utiliser WeChat. Reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) et accédez au bas de la page pour obtenir un code QR. 
+> Les ressources de la communauté s'appliquent aux versions internationales d'Office 365. Si vous utilisez Office 365 géré par 21Vianet, vous pouvez utiliser WeChat. Reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) et accédez au bas de la page pour obtenir un code QR. 
   
 La communauté Office 365 est une destination unique pour obtenir des informations de support sans assistance. Vous y trouverez les dernières informations pour aider les clients à trouver des réponses à un vaste éventail de questions techniques, de facturation et de service à travers différents forums de support, wikis et blogs. Les forums de support sont gérés et animés par des agents du Support Microsoft.
   
@@ -104,9 +104,9 @@ En plus de l’aide en ligne et de la communauté Office 365, Office 365 inclut 
     
 - **Vidéos de support technique** Vidéos pédagogiques de dépannage élaborées pour répondre aux questions les plus fréquemment posées par les clients. Il existe plus de 35 vidéos et la liste augmente chaque semaine. Les sujets abordés sont très variés, de la présentation du Centre d'administration BlackBerry® à l'activation et à la migration d'une synchronisation d'annuaire. Pour visionner ces vidéos, accédez au site de la communauté Office 365 et recherchez des vidéos. Les clients sont invités à soumettre une demande de vidéo via le portail de la communauté. Ils peuvent également accéder à la page [YouTube Office 365](https://go.microsoft.com/fwlink/?LinkId=272059) et aux chaînes [Démo ](https://go.microsoft.com/fwlink/?LinkId=272060). 
     
-- **Réseaux sociaux** En suivant Office 365 sur [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), sur [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) et sur [LinkedIn](http://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1), clients et partenaires peuvent approfondir leurs connaissances concernant Office 365. Ce moyen rapide et facile de découvrir Office 365 permet aux clients de découvrir les avis d'autres utilisateurs et d'ajouter leurs propres commentaires et tweets. Les professionnels du support Microsoft surveillent les activités liées aux comptes Facebook et Twitter de Microsoft afin de répondre à toutes les demandes relatives au support. Pour consulter les derniers flux Facebook et les derniers tweets publiés, reportez-vous à la partie inférieure de la page d'accueil de la communauté Office 365 afin de prendre connaissance des dernières discussions entre clients et partenaires. 
+- **Réseaux sociaux** En suivant Office 365 sur [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), sur [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) et sur [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1), clients et partenaires peuvent approfondir leurs connaissances concernant Office 365. Ce moyen rapide et facile de découvrir Office 365 permet aux clients de découvrir les avis d'autres utilisateurs et d'ajouter leurs propres commentaires et tweets. Les professionnels du support Microsoft surveillent les activités liées aux comptes Facebook et Twitter de Microsoft afin de répondre à toutes les demandes relatives au support. Pour consulter les derniers flux Facebook et les derniers tweets publiés, reportez-vous à la partie inférieure de la page d'accueil de la communauté Office 365 afin de prendre connaissance des dernières discussions entre clients et partenaires. 
     
-    Si vous utilisez Office 365 géré par 21Vianet, vous pouvez utiliser WeChat. Reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) et accédez au bas de la page pour obtenir un code QR. 
+    Si vous utilisez Office 365 géré par 21Vianet, vous pouvez utiliser WeChat. Reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) et accédez au bas de la page pour obtenir un code QR. 
     
 ## <a name="languages"></a>Langages
 

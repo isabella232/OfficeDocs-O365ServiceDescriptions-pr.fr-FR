@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en se connectant à Office 365.
-ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 76e202056145aca9c4a1bbe390728e6a4e062753
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633435"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734051"
 ---
 # <a name="service-health-and-continuity"></a>État des services
 
 Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en se connectant à Office 365.
   
 > [!NOTE]
-> Si vous utilisez Office 365 géré par 21Vianet, certaines des informations ci-dessous peuvent ne pas vous concerner. Consultez plutôt le [contrat de niveau de service 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
+> Si vous utilisez Office 365 géré par 21Vianet, certaines des informations ci-dessous peuvent ne pas vous concerner. Consultez plutôt le [contrat de niveau de service 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="view-status-of-services"></a>Afficher l'état des Services
 
@@ -75,7 +75,7 @@ Quand un incident de service se produit, Microsoft reconnaît que les communicat
 
 ### <a name="office-365-admin-app"></a>Application d’administration Office 365
 
-L’application d’administration pour les administrateurs clients Office 365 vous permet de vous connecter à l’état du service 365 Office de votre organisation en déplacement. Les administrateurs client Office 365 pourront afficher les informations relatives à l’état du service et les mises à jour de l’état de la maintenance à partir de leurs appareils mobiles. Pour plus d'informations, consultez la [FAQ de l'application d'administration](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+L’application d’administration pour les administrateurs clients Office 365 vous permet de vous connecter à l’état du service 365 Office de votre organisation en déplacement. Les administrateurs client Office 365 pourront afficher les informations relatives à l’état du service et les mises à jour de l’état de la maintenance à partir de leurs appareils mobiles. Pour plus d'informations, consultez la [FAQ de l'application d'administration](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d’administration d’Office 365 pour Microsoft System Center 2012 R2
 
@@ -115,7 +115,7 @@ Pour tous les autres incidents de service, le tableau de bord d’État du servi
 
 Les offres Microsoft Office 365 sont fournies par des systèmes hautement résistants qui permettent de maintenir des performances de service optimales. Les dispositions de continuité de service font partie de la conception du système Office 365. Ces dispositions permettent à Office 365 de procéder rapidement à la récupération à partir d'événements inattendus, tels qu'une erreur du matériel ou de l'application, l'endommagement des données ou d'autres incidents qui ont une incidence sur les utilisateurs. Ces solutions de continuité de service s'appliquent également en cas de pannes de grande envergure (par exemple, des catastrophes naturelles ou un incident dans un centre de données Microsoft qui provoque l'arrêt de tout le centre de données).
   
-Notez bien qu'après la récupération d'une panne de grande envergure, un certain délai doit forcément s'écouler avant la restauration de l'intégralité de la redondance du centre de données du service. Par exemple, si un incident survient dans le centre de données 1, les services sont restaurés par les ressources du centre de données 2. Cependant, il est possible qu'un certain délai s'écoule avant que le centre de données 2 ne bénéficie d'une prise en charge de la continuité du service, soit par des ressources restaurées dans le centre de données 1, soit par de nouvelles ressources dans le centre de données 3. Le [contrat de niveau de service](service-level-agreement.md) Office 365 s'applique pendant ce temps. Office 365 géré par 21Vianet est régi par un contrat de niveau de service différent. Pour plus d'informations, rendez-vous sur le [site 21Vianet](http://www.21vbluecloud.com/office365/O365-SLA/). 
+Notez bien qu'après la récupération d'une panne de grande envergure, un certain délai doit forcément s'écouler avant la restauration de l'intégralité de la redondance du centre de données du service. Par exemple, si un incident survient dans le centre de données 1, les services sont restaurés par les ressources du centre de données 2. Cependant, il est possible qu'un certain délai s'écoule avant que le centre de données 2 ne bénéficie d'une prise en charge de la continuité du service, soit par des ressources restaurées dans le centre de données 1, soit par de nouvelles ressources dans le centre de données 3. Le [contrat de niveau de service](service-level-agreement.md) Office 365 s'applique pendant ce temps. Office 365 géré par 21Vianet est régi par un contrat de niveau de service différent. Pour plus d'informations, rendez-vous sur le [site 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Assurer la disponibilité des données
 

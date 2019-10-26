@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: 0cb39edea15d784e0009d56dda1a648602b09fa9
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 5740dbe2eaafc464060b6c9554e9acdc734e912d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633457"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734122"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de plateforme Office 365
 
@@ -27,7 +27,7 @@ Microsoft Office 365 est disponible dans différents plans pour satisfaire au m
   
 Microsoft Office 365 offre la puissance de la connectivité en nuage aux entreprises de toutes tailles pour gagner du temps, réaliser des économies et libérer des ressources précieuses. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de collaboration et de communication de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online — pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
   
-Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 for business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée à la rubrique [Office 365 service descriptions ](../office-365-service-descriptions-technet-library.md).
+Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 for business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée à la rubrique [Office 365 service descriptions ](../office-365-service-descriptions-technet-library.md).
   
 - Pour plus d'informations sur les plans Office 365 Éducation, commencez par la page [Office 365 Éducation](office-365-education.md). 
     
@@ -45,7 +45,7 @@ Pour en savoir plus sur les licences en volume pour Office 365, consultez [Terme
   
 ## <a name="office-365-nonprofit-plans-and-pricing"></a>Offres et tarifs Office 365 pour les associations
 
-Pour les organisations éligibles pour les offres Office 365 destinées aux associations, ces offres incluent exactement les mêmes fonctionnalités que les offres commerciales correspondantes (par exemple, Office 365 Enterprise E5 pour les associations inclut les mêmes fonctionnalités que Office 365 Enterprise E5). La seule différence entre les offres équivalentes est le prix. Pour plus d'informations sur les offres Office 365 pour les associations, voir [Offres et tarifs Office 365 pour les associations](http://go.microsoft.com/fwlink/?LinkID=627221)et ce [Forum aux questions](http://go.microsoft.com/fwlink/?LinkID=786641).
+Pour les organisations éligibles pour les offres Office 365 destinées aux associations, ces offres incluent exactement les mêmes fonctionnalités que les offres commerciales correspondantes (par exemple, Office 365 Enterprise E5 pour les associations inclut les mêmes fonctionnalités que Office 365 Enterprise E5). La seule différence entre les offres équivalentes est le prix. Pour plus d'informations sur les offres Office 365 pour les associations, voir [Offres et tarifs Office 365 pour les associations](https://go.microsoft.com/fwlink/?LinkID=627221)et ce [Forum aux questions](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Configuration requise
 
@@ -81,13 +81,13 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
     
 - Éducation : [Offres et tarifs Office 365 Éducation](https://go.microsoft.com/fwlink/?LinkID=827897)
     
-- Administration américaine : [Offres Office 365 pour l'administration américaine](http://go.microsoft.com/fwlink/?LinkID=827898)
+- Administration américaine : [Offres Office 365 pour l'administration américaine](https://go.microsoft.com/fwlink/?LinkID=827898)
     
 - Associations : [Offres et tarifs Office 365 pour les associations](https://go.microsoft.com/fwlink/?LinkID=733237)
     
 - Office 365 Germany : [Offres Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
-Plusieurs offres Office 365 pour les entreprises disposent de modules complémentaires que vous pouvez acheter pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d'informations, consultez « Modules complémentaires qui sont disponibles pour les différentes versions d'Office 365 pour les entreprises » dans [Acheter ou modifier un module complémentaire pour Office 365 pour les entreprises](https://support.office.com/en-us/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+Plusieurs offres Office 365 pour les entreprises disposent de modules complémentaires que vous pouvez acheter pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d'informations, consultez « Modules complémentaires qui sont disponibles pour les différentes versions d'Office 365 pour les entreprises » dans [Acheter ou modifier un module complémentaire pour Office 365 pour les entreprises](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -209,7 +209,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 > <sup>1</sup> Office 365 ne prend pas en charge les systèmes d’exploitation qui ne sont pas pris en charge par son fabricant. 
 <br/><sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1. Les applications clientes Office fournies avec Microsoft 365 entreprise prennent également en charge les fonctionnalités Azure information protection (plan 1).
 <br/><sup>3</sup> Si la synchronisation d'annuaires est utilisée avec Active Directory en local, vous devez supprimer des comptes ou changer des mots de passe à l'aide d'Active Directory en local au lieu du portail Office 365 ou à l'aide du module Azure Active Directory pour Windows PowerShell. 
-<br/><sup>4</sup> Pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [Gestion des mots de passe dans Azure AD](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). 
+<br/><sup>4</sup> Pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, consultez la rubrique [Gestion des mots de passe dans Azure AD](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
 <br/><sup>6</sup> La réduction des sièges qui ont été achetés avec une remise à long terme peut être soumise à des frais de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle. 
 <br/><sup>7</sup> Disponibles sur le site [https://securescore.office.com](https://securescore.office.com). Nécessite des autorisations d'administration. Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](https://go.microsoft.com/fwlink/?linkid=836894). 
 <br/><sup>8</sup> Microsoft Sway n'est pas disponible actuellement pour les clients de certaines régions géographiques. Certains plans Office 365 hérités qui ne sont plus commercialisés depuis août 2015 peuvent également ne pas avoir accès à Microsoft Sway. 
@@ -220,7 +220,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 <br/><sup>13</sup> Dans Office 365 Entreprise F1, PowerApps est limité à la consommation uniquement (aucune publication ni aucun partage). 
 <br/><sup>14</sup> Dans Office 365 Entreprise F1, Flow est limité à la consommation uniquement et les exécutions sont limitées à 750 par utilisateur et par mois. 
 <br/><sup>15</sup> Disponible uniquement dans les offres Office 365 Éducation, y compris Office 365 Éducation E5. Il n'est pas disponible dans Office 365 Entreprise E5. 
-<br/><sup>16</sup> Pour plus d'informations, consultez l'article [Contrôle de vos données dans Office 365 à l'aide de la clé du client](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>16</sup> Pour plus d'informations, consultez l'article [Contrôle de vos données dans Office 365 à l'aide de la clé du client](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
 <br/><sup>17</sup> La découverte électronique avancée est prise en charge aux États-Unis et en Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].)
 <br/><sup>18</sup> consommation uniquement pour Microsoft Stream : pas de publication ni de partage.
 <br/><sup>19</sup> à compter du 2019 mai, les références SKU existantes d’Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365.
