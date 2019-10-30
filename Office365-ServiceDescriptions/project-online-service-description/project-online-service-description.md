@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: f061f7fb43d9f6283d64cb14672da8af7945ca4f
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
+ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700246"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37765635"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Vue d'ensemble
 
 Microsoft Project propose les applications suivantes pour vous aider à répondre aux besoins de votre organisation en matière de gestion des projets et des tâches :
 
@@ -33,16 +33,13 @@ Microsoft Project propose les applications suivantes pour vous aider à répondr
 
 Cet article vous aidera à comprendre les applications fournies dans chaque abonnement de projet et les fonctionnalités offertes par chaque application.
 
-> [!NOTE]
-> Le 29 octobre 2019, les abonnements Project Online professionnel et Project Online Premium seront renommés en Project Plan 3 et Project plan 5, respectivement.
-
 ### <a name="project-for-the-web"></a>Project pour le Web
 
 Project pour le Web est l’offre la plus récente de Microsoft pour le travail informatique et la gestion de projet. Project pour le Web fournit des fonctionnalités de gestion des tâches simples et puissantes pour répondre à la plupart des besoins et des rôles. Les chefs de projet et les membres de l’équipe peuvent utiliser Project pour le Web pour planifier et gérer le travail de n’importe quelle taille.
 
 Project pour le Web est basé sur la plateforme d’alimentation Microsoft. La plateforme Power est composée de PowerApp, de Microsoft Flow, de Power BI et du Common Data Service (CD). Project pour les données Web est stocké dans des CD. 
 
-Project Online est disponible dans deux abonnements : Project Online professionnel et Project Online Premium. Les fonctionnalités indiquées dans la section [projet pour les fonctionnalités Web](#project-for-the-web-features) interagissent uniquement avec les données du projet pour le magasin de données Web.
+Project pour le Web est disponible par le biais de trois abonnements : plan de projet 1, plan de projet 3 et plan de projet 5. Les fonctionnalités indiquées dans la section [projet pour les fonctionnalités Web](#project-for-the-web-features) interagissent uniquement avec les données du projet pour le magasin de données Web.
 
 ### <a name="project-online"></a>Project Online
  
@@ -50,9 +47,9 @@ Project Online est une solution en ligne flexible pour la gestion de portefeuill
 
 Project Online est basé sur la plateforme SharePoint et stocke des données dans le magasin de données SharePoint.
 
-Project Online est disponible par le biais de deux abonnements : Project Online professionnel et Project Online Premium. Les fonctionnalités indiquées dans la section [fonctionnalités de Project Online](#project-online-features) interagissent uniquement avec les données du magasin de données SharePoint de Project online.
+Project Online est disponible par le biais de deux abonnements : plan de projet 3 et plan de projet 5. Les fonctionnalités indiquées dans la section [fonctionnalités de Project Online](#project-online-features) interagissent uniquement avec les données du magasin de données SharePoint de Project online.
 
-La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement [Project Online Essentials](https://www.microsoft.com/p/project-online-essentials/CFQ7TTC0K8V3) . Project Online Essentials est un abonnement de *complément* de membre d’équipe pour les clients qui ont des abonnements Project Online professionnel ou Project Online Premium. Il donne aux membres de l’équipe une interface Web pour effectuer des mises à jour de tâches et de temps pour les projets gérés dans Project online. 
+La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement Project Online Essentials. Project Online Essentials est un abonnement de *complément*de membre d’équipe pour les clients qui ont prévu un abonnement plan de projet 3 ou plan de projet 5. Il donne aux membres de l’équipe une interface Web pour effectuer des mises à jour de tâches et de temps pour les projets gérés dans Project online.
 
 Les membres de l’équipe avec Project Online Essentials peuvent effectuer les fonctions suivantes de Project Online :
 
@@ -65,7 +62,7 @@ Project Online Essentials n’inclut pas Project pour le Web.
 
 ### <a name="project-online-desktop-client"></a>Client de bureau Project Online
 
-Le client de bureau Microsoft Project Online est un programme de gestion de projets qui offre des fonctionnalités de planification automatisée, de gestion des ressources de projet et de création de rapports. Le client de bureau Project online peut être utilisé comme une application autonome ou il peut se connecter à Project online. Le client de bureau Project Online est la version d’abonnement du client de bureau Project Online et est disponible dans les abonnements Project Online professionnel et Project Online Premium.
+Le client de bureau Microsoft Project Online est un programme de gestion de projets qui offre des fonctionnalités de planification automatisée, de gestion des ressources de projet et de création de rapports. Le client de bureau Project online peut être utilisé comme une application autonome ou il peut se connecter à Project online. Le client de bureau Project Online est la version d’abonnement du client de bureau Project Online et est disponible dans les abonnements plan de projet 3 et plan de projet 5.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Utilisation conjointe de Project pour le Web et Project Online
 
@@ -79,21 +76,21 @@ Ce diagramme montre comment les applications peuvent travailler ensemble côte �
 
 ## <a name="microsoft-project-subscriptions"></a>Abonnements Microsoft Project
 
-Microsoft Project est disponible par le biais de deux abonnements différents pour répondre au mieux aux besoins de votre organisation. Pour comparer les fonctionnalités entre les abonnements, consultez la rubrique [Feature Availability Across Applications and subscriptions](#feature-availability-across-applications-and-subscriptions).
+Microsoft Project est disponible par le biais de trois abonnements différents pour répondre au mieux aux besoins de votre organisation. Ces abonnements sont plan de projet 1, plan de projet 3 et plan de projet 5. Pour comparer les fonctionnalités entre les abonnements, consultez la rubrique [Feature Availability Across Applications and subscriptions](#feature-availability-across-applications-and-subscriptions).
 
-|Produit | Project Online Professional Professionnel | Project Online Premium |
-|--------|-----------------------------|------------------------|
-|Project pour le Web |**x x** |**x x**|
-|Project Online |**x x**|**x x x**|
-|Client de bureau Project Online |**x**|**x**|
+|Produit | Offre 1 | Plan 3 | Plan 5 |
+|--------|-----------------------------|------------------------|------------------------|
+|Project pour le Web |**x**  | **x x** | **x x** |
+|Project Online | |**x x**| **x x x** |
+|Client de bureau Project Online | |**x**|**x**|
 
-Dans le tableau ci-dessus, le nombre de contrôles (**x**) indique le niveau général des fonctionnalités fournies par un plan. Par exemple, pour Project Online, Project Online Premium offre davantage de fonctionnalités, puis Project Online professionnel.
+Dans le tableau ci-dessus, le nombre de contrôles (**x**) indique le niveau général des fonctionnalités fournies par un plan. Par exemple, pour Project Online, plan 5 fournit davantage de fonctionnalités, puis prévoit 3.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilité des fonctionnalités pour les applications et les abonnements
 
 ### <a name="project-for-the-web-features"></a>Projet pour les fonctionnalités Web
 
-Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du projet pour le magasin de données Web. Toutes ces fonctionnalités sont disponibles dans Project Online professionnel et Project Online Premium.
+Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du projet pour le magasin de données Web. Toutes ces fonctionnalités sont disponibles dans tous les abonnements Microsoft Project : plan de projet 1, plan de projet 3 et plan de projet 5.
 
 |Fonctionnalité | Description |
 |--------|-------------|
@@ -110,7 +107,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup>|
 |**Gestion des ressources et des programmes**||
 |Configuration de l’équipe de projet | Gérer une équipe de projet en ajoutant et en supprimant des membres et en définissant le calendrier de travail.|
-|Feuilles de route | Créez des feuilles de route interactives et visuelles dans les projets à partir de Microsoft Project Online, de Microsoft Project pour le Web et des projets de forums Azure. <sup>2</sup>|
+|Feuilles de route | Créez des feuilles de route interactives et visuelles dans les projets à partir de Microsoft Project Online, de Microsoft Project pour le Web et des projets de forums Azure. <sup>2</sup> avec plan de projet 1, vous disposez d’un accès en lecture seule aux feuilles de route. Avec le plan de projet 3 ou le plan de projet 5, vous pouvez également créer des feuilles de route. |
 |**Rapports**<sup>3</sup>||
 |Rapports prédéfinis | Utilisez des rapports prédéfinis pour comprendre les données de projet, de programme, de portefeuille et de ressources.|
 |Rapports personnalisés | Comprenez les données importantes pour votre organisation en générant des rapports personnalisés basés sur des rapports prédéfinis ou à partir de zéro.|
@@ -131,7 +128,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 
 Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du magasin de données SharePoint Online.
 
-|Fonctionnalité | Description | Project Online Professional Professionnel | Project Online Premium |
+|Fonctionnalité | Description | Plan de projet 3 | Plan de projet 5 |
 |--------|-------------|-----------------------------|------------------------|
 |**Gestion du projet, des tâches et des heures**||||
 |Alertes et rappels | Restez informé de la planification des tâches à venir importantes et des événements de projet avec les rappels dans Outlook et Microsoft Teams. <sup>1</sup>| Oui | Oui |
@@ -155,7 +152,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Approbations des feuilles de temps | Les membres de l’équipe peuvent envoyer des feuilles de temps pour approbation. Les responsables de ressources et les superviseurs peuvent consulter, approuver et décliner les feuilles de temps soumises. | Oui | Oui |
 |Configuration de l’heure hors travail | Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. | Non | Oui |
 |**Collaboration** ||||
-|Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
+|Pièces jointes | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
 |Membres de l’équipe externe |Collaborez avec des personnes en dehors de votre organisation en leur accordant l’accès à vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
 |Sites de projet | Créer et personnaliser un concentrateur pour la collaboration et les documents pour un projet. | Oui | Oui |
 Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
@@ -196,11 +193,11 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 <sup>1</sup> nécessite un abonnement commercial Office ou Microsoft 365.</br>
 <sup>2</sup> cartes Azure acquises séparément.</br>
 <sup>3</sup> la création de rapports pour Project pour le Web et Project Online est disponible à l’aide de Power bi. L’affichage, la modification et la création de rapports nécessitent un abonnement Power BI Pro. Microsoft fournit un ensemble prédéfini de rapports Power BI. Les utilisateurs peuvent personnaliser ces rapports ou créer des rapports supplémentaires à l’aide de Power BI.</br> 
-<sup>4</sup> la création d’applications mobiles PowerApp personnalisées qui accèdent à Project pour les données Web nécessite un abonnement powerapps et un abonnement Project Online professionnel ou Project Online Premium.</br>
-<sup>5</sup> l’automatisation et l’intégration de processus d’entreprise avec Microsoft Flow avec Project pour les données Web nécessitent un abonnement de flux Microsoft et un abonnement Project Online professionnel ou Project Online Premium.</br>
-<sup>6</sup> la gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement Project online.</br>
-<sup>7</sup> les utilisateurs disposant d’un abonnement Project Online professionnel peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas consulter, combler ou approuver les demandes d’engagement de ressources.</br>
-<sup>8</sup> les utilisateurs disposant d’un abonnement Project Online Premium peuvent consulter, combler et approuver les demandes d’engagement de ressources.</br>
+<sup>4</sup> la création d’applications mobiles PowerApp personnalisées qui accèdent à Project pour les données Web nécessite un abonnement powerapps et un abonnement Project Plan 3 ou Project plan 5.</br>
+<sup>5</sup> l’automatisation et l’intégration de processus d’entreprise avec Microsoft Flow avec Project pour les données Web nécessitent un abonnement de flux Microsoft et un abonnement de plan de projet 3 ou de plan de projet 5.</br>
+<sup>6</sup> la gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement de plan de projet 3 ou de plan de projet 5.</br>
+<sup>7</sup> les utilisateurs disposant d’un abonnement de plan de projet 3 ou de plan de projet 5 peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas consulter, combler ou approuver les demandes d’engagement de ressources.</br>
+<sup>8</sup> les utilisateurs disposant d’un abonnement à un plan de projet 5 peuvent consulter, combler et approuver les demandes d’engagement de ressources.</br>
 <sup>9</sup> Active Directory nécessite un abonnement distinct. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Fonctionnalités de client de bureau Project Online
@@ -252,13 +249,14 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 
 ### <a name="licensing-considerations"></a>Remarques sur les licences
 
-- Toute interaction sur un site Project Online nécessite un abonnement Project online.
-- Lorsque votre dernier abonnement Project Online Professional ou Project Online Premium arrive à expiration, votre projet pour les instances Web et Project Online sera supprimé après 120 jours.
+- Toute interaction sur un site Project Online nécessite un abonnement de plan de projet 3 ou de plan de projet 5.
+- Lorsque votre dernier abonnement de plan de projet 1, de plan de projet 3 ou de plan de projet 5 expire, votre projet pour les instances Web est supprimé après 120 jours.
+- Lorsque votre dernier abonnement de plan de projet 3 ou de plan de projet 5 expire, vos instances de Project Online seront supprimées après 120 jours.
 - Pour Project pour les abonnements d’évaluation Project Online et Web, vos instances d’évaluation seront supprimées 30 jours après la fin de la période d’évaluation.
 
 ### <a name="use-of-sharepoint-online"></a>Utilisation de SharePoint Online
 
-Project Online nécessite l’utilisation de SharePoint Online, qui est mis en service dans le cadre de Project online. Les droits d’accès aux fonctionnalités SharePoint Online fournis avec Project Online professionnel ou Premium sont limités au stockage et à l’accès aux données pour prendre en charge Project online.
+Project Online nécessite l’utilisation de SharePoint Online, qui est mis en service dans le cadre de Project online. Les droits d’accès aux fonctionnalités SharePoint Online fournis avec le plan de projet 3 ou les abonnements de plan de projet 5 sont limités au stockage et à l’accès aux données pour prendre en charge Project online.
 
 ### <a name="project-roadmap-and-microsoft-flow"></a>Feuille de route de projet et flux Microsoft
 
