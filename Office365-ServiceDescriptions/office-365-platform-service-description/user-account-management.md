@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 prend en charge les méthodes suivantes pour la création, la gestion et l’authentification des utilisateurs.
-ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
+ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631653"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890053"
 ---
 # <a name="user-account-management"></a>Gestion des comptes d'utilisateur
 
@@ -64,9 +64,9 @@ Pour plus d'informations à propos des domaines dans Office 365, voir la descrip
 
 À l'exception des sites Internet permettant un accès anonyme créé avec SharePoint Online, les utilisateurs doivent être authentifiés lorsqu'ils accèdent à des services Office 365. 
   
-- **Authentification moderne** L'authentification moderne permet de prendre en charge la connexion ADAL (Active Directory Authentication Library) sur des applications clientes Office sur plusieurs plateformes. Cela active des fonctionnalités de connexion telles que MFA (Multi-Factor Authentication), des fournisseurs d'identité tiers SAML avec des applications clientes Office et l'authentification par carte à puce et basée sur des certificats. Microsoft Outlook n'a plus besoin non plus d'utiliser le protocole d'authentification de base. Pour plus d'informations, notamment sur la disponibilité de l'authentification moderne sur des applications Office, voir la page relative au [fonctionnement de l'authentification modernes pour les applications clientes Office 2013 et Office 2016](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) et à l' [utilisation de l'authentification moderne d'Office 365 avec les clients Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
+- **Authentification moderne** L'authentification moderne permet de prendre en charge la connexion ADAL (Active Directory Authentication Library) sur des applications clientes Office sur plusieurs plateformes. Cela active des fonctionnalités de connexion telles que MFA (Multi-Factor Authentication), des fournisseurs d'identité tiers SAML avec des applications clientes Office et l'authentification par carte à puce et basée sur des certificats. Microsoft Outlook n'a plus besoin non plus d'utiliser le protocole d'authentification de base. Pour plus d’informations, notamment la disponibilité de l’authentification moderne dans les applications Office, voir [How Authentication Modern Works for office 2013 and office 2016 client Apps](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
     
-    L'authentification moderne n'est pas activée par défaut pour Exchange Online. Pour savoir comment l'activer, voir [Activer Exchange Online pour l'authentification moderne](https://docs.microsoft.com/Exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+    L’authentification moderne est activée par défaut pour Exchange Online. Pour savoir comment activer ou désactiver [l’authentification moderne dans Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
     
 - **Authentification d'identité cloud (en nuage)** L'authentification des utilisateurs avec des identités cloud (en nuage) s'effectue via l'authentification par stimulation/réponse traditionnelle. Le navigateur web est redirigé vers le service de connexion de Office 365, dans lequel vous entrez les nom d'utilisateur et mot de passe de votre compte professionnel ou scolaire. Le service de connexion authentifie vos informations d'identification et génère un jeton de service que le navigateur web adresse au service demandé pour vous y connecter. 
     
