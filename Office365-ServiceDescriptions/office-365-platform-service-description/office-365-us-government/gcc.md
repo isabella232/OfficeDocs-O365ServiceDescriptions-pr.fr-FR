@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines.
-ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595282"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890420"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
 Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines. 
   
-Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Vous trouverez des informations supplémentaires sur la page [Offres Office 365 Secteur Public](https://products.office.com/en-us/government/compare-office-365-government-plans). 
+Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Vous trouverez des informations supplémentaires sur la page [Offres Office 365 Secteur Public](https://products.office.com/government/compare-office-365-government-plans). 
   
 ## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description de service
 
@@ -69,7 +69,6 @@ MyAnalytics est conçu et exploité conformément à l'implémentation de contr�
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 le service client Cloud Community Government (GCC)
 
-Office 365 le support client GCC est fourni dans les mêmes conditions générales que celles offertes aux [versions mondiales d’Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
-), y compris l’emplacement physique de l’agent de support ou les assurances de citoyenneté. Office 365 GCC fonctionne en association avec le cloud public Azure, qui est pris en charge dans les conditions [générales suivantes.](https://azure.microsoft.com/en-us/support/plans/)
+Office 365 le support client GCC est fourni dans les mêmes conditions générales que celles offertes aux [versions mondiales d’Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/support), y compris l’emplacement physique de l’agent de support ou les assurances de citoyenneté. Office 365 GCC fonctionne en association avec le cloud public Azure, qui est pris en charge dans les conditions [générales suivantes.](https://azure.microsoft.com/support/plans/)
 
 Microsoft rappelle que vous ne partagez pas d’informations sensibles, sensibles ou confidentielles avec le personnel de support dans le cadre de votre incident de support technique Office 365 GCC, jusqu’à ce que vous confirmiez leur autorisation d’afficher ou d’accéder à ces données. Microsoft s’engage à [protéger votre confidentialité.](https://privacy.microsoft.com/en-US/privacystatement ) Office 365 le support client GCC n’est pas inclus dans la limite d’accréditation de service et ne fournit pas FedRAMP, SRG, ITAR, IRS 1075 ou CJIS gestion des données et/ou garanties de conformité.

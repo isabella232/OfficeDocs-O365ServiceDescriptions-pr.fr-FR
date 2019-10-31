@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées.
-ms.openlocfilehash: ec12aa14160415cc2de93742d05e7b80bcb3fa01
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
+ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726166"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890410"
 ---
 # <a name="sharepoint-online-service-description"></a>Description du service SharePoint Online
 
@@ -50,7 +50,7 @@ Office 365 est disponible dans le cadre de différents plans destinés à répon
   
 Toute personne accédant à SharePoint Online doit être associée à un plan Office 365 ou à un service autonome SharePoint Online Plan 1 ou SharePoint Online Plan 2. Toutefois, un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre de l’abonnement terrain, tel que SharePoint Online terrain. Dans la mesure où les employés terrain ne peuvent pas être administrateurs, les clients avec des employés terrain ont besoin d’au moins un administrateur d’entreprise pour gérer SharePoint. Les utilisateurs de terrain ne voient pas les menus de navigation SharePoint, de sorte que les employés terrain doivent accéder directement aux sites SharePoint par URL.
   
-## <a name="onedrive-for-business"></a>OneDrive Entreprise
+## <a name="onedrive-for-business"></a>OneDrive Entreprise
 
 OneDrive Entreprise (anciennement SkyDrive Pro) est le stockage en ligne personnel des employés d'une entreprise. Il s'agit de l'endroit où les personnes peuvent stocker, synchroniser et partager leurs fichiers de travail sur plusieurs dispositifs, en toute simplicité et sécurité. OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L’option OneDrive entreprise autonome inclut Office pour le Web. Pour voir les fonctionnalités incluses dans OneDrive entreprise avec Office pour le Web, reportez-vous à la rubrique [Description du service Onedrive entreprise](../onedrive-for-business-service-description.md).
   
@@ -254,5 +254,5 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 <sup>16</sup> les formulaires InfoPath qui contiennent du code utilisateur (sandbox) peuvent uniquement être utilisés dans le client riche InfoPath. <br/>
 <sup>17</sup> Visio for the Web consommation (View Capability) est disponible gratuitement. Les fonctionnalités de création et de modification de Visio pour le Web nécessitent une licence. Pour plus d’informations sur Visio pour le Web, reportez-vous à la [Description de Visio pour le service Web](../visio-online-service-description/visio-online-service-description.md).  <br/>
 <sup>18</sup> les utilisateurs de F1 peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 F1 n’inclut pas les droits CAL pour accéder au serveur ; ces droits doivent être achetés séparément. <br/>
-<sup>19</sup> la clé client est disponible dans Office 365 entreprise E5. La clé client vous permet de contrôler les clés de chiffrement de votre organisation, puis de configurer Office 365 afin de les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Clé client vous permet de respecter les obligations de conformité car vous contrôlez les clés de chiffrement utilisées par Office 365 pour déchiffrer les données. Pour plus d’informations, consultez [la rubrique contrôle de vos données dans Office 365 à l’aide de la clé client](https://docs.microsoft.com/en-us/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
+<sup>19</sup> la clé client est disponible dans Office 365 entreprise E5. La clé client vous permet de contrôler les clés de chiffrement de votre organisation, puis de configurer Office 365 afin de les utiliser pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Clé client vous permet de respecter les obligations de conformité car vous contrôlez les clés de chiffrement utilisées par Office 365 pour déchiffrer les données. Pour plus d’informations, consultez [la rubrique contrôle de vos données dans Office 365 à l’aide de la clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>20</sup> bientôt disponible. 
