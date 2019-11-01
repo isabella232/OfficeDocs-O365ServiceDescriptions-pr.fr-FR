@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
-ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733575"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911827"
 ---
 # <a name="yammer-service-description"></a>Description de service Yammer
 
@@ -49,7 +49,7 @@ Yammer est disponible avec les plans suivants :
 ## <a name="yammer-enterprise-service-communications-policy"></a>Stratégie de communication de service d’entreprise Yammer
 <a name="YammerCommsPolicy"> </a>
 
-Yammer fait partie d’Office 365 et adhère à la stratégie de [gestion des modifications d’office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n’utilise pas la version ciblée pour déployer les mises à jour. 
+Yammer fait partie d’Office 365 et adhère à la stratégie de [gestion des modifications d’office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n’utilise pas la version ciblée pour déployer les mises à jour. 
   
 Tous les utilisateurs de Yammer sont soumis au test de fonctionnalité A/B. Cela permet à Microsoft de tester la stabilité, les performances et l'amélioration de l'expérience des fonctionnalités sur de nombreux environnements et périphériques. Des utilisateurs au sein du même réseau peuvent avoir différentes expériences au cours du test. Les clients ne peuvent pas refuser un test A/B.
   
