@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: eeee52cb0c42cc654fff2a42c1f09243c45aebcf
+ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734232"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37971720"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -180,12 +180,12 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>1</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup>  <br/> |N °<sup>1</sup> <br/> |
 |**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Microsoft Flow  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
+|Microsoft Flow  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Oui <br/> |Oui <br/> |Oui<br/> |Oui</sup> <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics  <br/> |Non <br/> |Non <br/> |Oui,<sup>17</sup> <br/> |Non <br/> |
-|Microsoft Planner  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|Microsoft PowerApps  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
+|Microsoft Planner  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> |
+|Microsoft PowerApps  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |Non <br/> |Non <br/> |Non <br/> |Non<br/> |
 |Microsoft Stream  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Non  <br/> |
 |Microsoft Sway  <br/> |Non <br/> |Non <br/> |Non <br/> |Non <br/> |
@@ -244,7 +244,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Système d'exploitation utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|**[Mises à jour du service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
+|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |
