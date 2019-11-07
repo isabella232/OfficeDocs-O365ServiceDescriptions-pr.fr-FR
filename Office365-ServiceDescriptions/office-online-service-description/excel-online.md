@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
-ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
+ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
+ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637251"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38020261"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -150,7 +150,7 @@ Faites glisser la poignée de recopie figurant dans le coin inférieur droit d'u
   
 ## <a name="find"></a>Trouver
 
-Recherchez un contenu de cellule dans la feuille de calcul active. Une boîte de dialogue simple d'utilisation vous permet de rechercher vers le haut ou vers le bas dans la sélection actuelle de la feuille de calcul.
+Recherchez un contenu de cellule dans la feuille de calcul active. Une boîte de dialogue conviviale offre la possibilité d’effectuer une recherche vers le haut ou vers le bas à partir de la sélection actuelle dans la feuille de calcul. **Tout Rechercher** vous permet de mettre en surbrillance toutes les instances de votre terme de recherche.
   
 ## <a name="font-and-cell-formatting"></a>Mise en forme de caractères et de cellules
 
@@ -284,7 +284,7 @@ Non disponible dans Excel pour le Web. Si l'application Excel de bureau est inst
 
 Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie à votre ordinateur, utilisez la commande Enregistrer sous de l'onglet Fichier ou cliquez avec le bouton droit sur le nom du classeur dans son dossier, puis utilisez la commande Télécharger .
   
-## <a name="share"></a>Partager
+## <a name="share"></a>Share
 
 Un seul clic suffit pour envoyer à vos collaborateurs un lien leur permettant d’afficher ou de modifier le document. En savoir plus sur [l’utilisation d’Office pour le Web afin de collaborer dans office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
