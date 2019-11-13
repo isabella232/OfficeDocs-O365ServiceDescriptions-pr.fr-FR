@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables sauf indication contraire.
-ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581462"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289774"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
 
@@ -54,7 +54,7 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Ces
 |Nombre limite d'expéditeurs autorisés  <br/> |1 024 entrées  <br/> |1 024 entrées  <br/> ||
 |Nombre limite d’expéditeurs bloqués par stratégie  <br/> |1 024 entrées  <br/> |1 024 entrées  <br/> ||
 |Limite des listes d'adresses IP autorisées et bloquées  <br/> |1 273 entrées  <br/> |1 273 entrées  <br/> |1 273 entrées  <br/> |
-|Limite de report de message  <br/> |2 jours, nouvelle tentative toutes les 15 minutes  <br/> |2 jours, nouvelle tentative toutes les 15 minutes  <br/> |2 jours, nouvelle tentative toutes les 15 minutes  <br/> |
+|Limite de report de message  <br/> |1 jour, nouvelle tentative toutes les 15 minutes  <br/> |1 jour, nouvelle tentative toutes les 15 minutes  <br/> |1 jour, nouvelle tentative toutes les 15 minutes  <br/> |
 |Période de rétention du courrier indésirable en quarantaine  <br/> |30 jours par défaut, mais peut être abaissé  <br/> |30 jours par défaut, mais peut être abaissé  <br/> |30 jours par défaut, mais peut être abaissé  <br/> |
 |Notification de mise en quarantaine du courrier indésirable pour l'utilisateur final  <br/> |3 jours par défaut, configurable entre 1 et 15 jours  <br/> |3 jours par défaut, configurable entre 1 et 15 jours  <br/> |3 jours par défaut, configurable entre 1 et 15 jours  <br/> |
    
