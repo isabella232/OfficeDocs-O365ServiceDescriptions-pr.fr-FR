@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans les entités américaines Federal, State, local, tribal ou territoriale territoriale ou d’autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 le gouvernement-GCC est approprié pour répondre à ces exigences.
-ms.openlocfilehash: 50649287df37afe20b58f98333a10bc7885b417d
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890483"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319492"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité de Microsoft 365 (GCC)
 
@@ -62,14 +61,14 @@ Nous vous recommandons de prendre le temps de vérifier soigneusement vos param�
 
 **Point de décision**: *Déterminez si vous allez modifier les paramètres de sécurité du gouvernement Microsoft 365 par défaut, afin de comprendre tout d’abord l’impact des modifications que vous pourriez apporter.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 Government-GCC
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 gouvernement – GCC<sup>1</sup>
 
 Pour répondre aux exigences de nos clients Cloud au niveau public, il existe certaines différences entre les plans d’entreprise et les forfaits Microsoft 365 Government. Consultez le tableau suivant pour voir les fonctionnalités disponibles.
 
 |                                         | **Fonctionnalité**                                     | **État GCC**         |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protection des informations & gouvernance** | Archivage                                       | Available              |
-|                                         | Étiquettes et stratégies manuelles                      | Available              |
+|                                         | Étiquettes et stratégies manuelles<sup>2</sup>          | Available              |
 |                                         | Application automatique d’étiquettes                      | Dans le backlog d’ingénierie |
 |                                         | Étiquettes basées sur des types de données sensibles            | Dans le backlog d’ingénierie |
 |                                         | Étiquettes et stratégies associées basées sur les requêtes | Dans le backlog d’ingénierie |
@@ -80,15 +79,15 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Révision de la disposition                              | Dans le backlog d’ingénierie |
 |                                         | Obstacles aux informations                            | Available              |
 |                                         | Protection contre la perte de données (DLP) pour les fichiers et le courrier électronique  | Available              |
-|                                         | DLP pour les conversations de conversation et de canal    | Available              |
+|                                         | DLP pour les conversations de conversation et de canal    | Dans le backlog d’ingénierie |
 | **Gestion des risques initiés**             | Chiffrement de messages avancé                     | Available              |
-|                                         | Conformité de la communication                        | Dans le backlog d’ingénierie |
+|                                         | Conformité des communications                        | Dans le backlog d’ingénierie |
 |                                         | Référentiel sécurisé client                                | Available              |
 |                                         | Clé client                                    | Available              |
 |                                         | Gestion des accès privilégiés                    | Dans le backlog d’ingénierie |
 | **Découvrir & répondre**                  | Réservation sur place                            | Available              |
 |                                         | Gestion des cas                                 | Available              |
-|                                         | Rechercher                                          | Available              |
+|                                         | Recherche                                          | Available              |
 |                                         | Exporter                                          | Available              |
 |                                         | Déchiffrement RMS                                  | Available              |
 |                                         | Exportation Native                                   | Available              |
@@ -109,5 +108,9 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Révision et annotation                             | Dans le backlog d’ingénierie |
 |                                         | Ingestion de non-Office 365                        | Dans le backlog d’ingénierie |
 |                                         | Rapport de termes de recherche                              | Dans le backlog d’ingénierie |
+
+<sup>1</sup> le statut identifié est susceptible d’être modifié à mesure que les plans de projet et les priorités sont réévalués.<br/>
+<sup>2</sup> l’application manuelle des étiquettes nécessite le [client Azure information protection (AIP) version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Point de décision**: *Déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*
