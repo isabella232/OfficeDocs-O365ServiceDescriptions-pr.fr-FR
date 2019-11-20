@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
+ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911817"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748978"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -126,3 +126,88 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 > <sup>1</sup> Office 2016 pour Mac requiert Mac OS X 10,10 ou version ultérieure. Pour les clients qui se connectent à Exchange via Outlook pour Mac, la connectivité à Microsoft Exchange Server 2010 Service Pack 2 ou version ultérieure est nécessaire. Pour en savoir plus, consultez la rubrique [Configuration requise pour Office](https://products.office.com/en-US/office-system-requirements).<br/>
 <sup>2</sup> Disponible en téléchargement séparé à partir de l'App Store. Pour en savoir plus, consultez la page dédiée à [OneNote pour Mac](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
 <sup>3</sup> Office pour Mac 2011 peut être installé, mais pas activé.
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>Disponibilité des fonctionnalités et des applications Office dans les plans gouvernementaux
+
+Les applications Office suivantes sont disponibles dans les nuages des gouvernements ; Toutefois, certaines fonctionnalités basées sur le Cloud peuvent ne pas être disponibles actuellement, comme indiqué dans le tableau.
+
+|||||
+|-----|-----|-----|-----|
+|**Applications Office** | **GCC** | **GCC High** | **DOD** |
+|**[Microsoft Excel](office-applications.md#microsoft-excel)** est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes qui ne sont pas disponibles pour le moment :| Oui | Oui | Oui |
+|animations 3D incorporées et modèles 3D | Non | Non | Non |
+|Types de données | Non | Non | Non |
+|Remplissage instantané  | Non | Non | Non |
+|Idées (Insight services) | Non | Non | Non |
+|Intégration améliorée avec PowerBI (éléments visuels personnalisés, créer des graphiques PBI directement à partir d’Excel) | Non | Non | Non |
+|Entrée manuscrite numérique intelligente | Non | Non | Non |
+|Groupes Office 365 | Non | Non | Non |
+|Données graphiques croisés dynamiques connectées à des tableaux croisés | Non | Non | Non |
+|PowerPivot | Non | Non | Non |
+|Publier sur PowerBI | Non | Non | Non |
+|Collaboration en temps réel (présence, co-création régulière, conversation en document) | Non | Non | Non |
+|Shared with Me | Non | Non | Non |
+|Recherche intelligente | Non | Non | Non |
+|Graphiques : soleil, TreeMap, en cascade, histogramme, cartes, chronologie, entonnoir | Non | Non | Non |
+|Historique des versions| Non | Non | Non | 
+|**Microsoft Forms** est entièrement disponible dans les clouds gouvernementaux, à l’exception des fonctionnalités suivantes qui ne sont pas disponibles pour le moment : | Oui | Oui | Non |
+|Notification par courrier électronique | N °<sup>1</sup> | N °<sup>1</sup> | Non |
+|Insérer une image | N °<sup>1</sup> | N °<sup>1</sup> | Non |
+|Insérer une vidéo | N °<sup>1</sup> | N °<sup>1</sup> | Non |
+|Mathématiques | N °<sup>1</sup> | N °<sup>1</sup> | Non |
+|Intégration d’Office | N °<sup>1</sup> | N °<sup>1</sup> | Non |
+|Formulaires de groupe les plus récents | N °<sup>1</sup> | N °<sup>1</sup> | Non |
+|Partage externe |Oui | Non | Non |
+|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes qui ne sont pas disponibles pour le moment :| Oui | Oui | Oui |
+|Recherche | Non | Non | Non |
+|Entrée manuscrite numérique intelligente | Non | Non | Non |
+|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes qui ne sont pas disponibles pour le moment :| Oui | Oui | Oui |
+|Sons Office (Some) | Non | Non | Non |
+|DDE désactivé par défaut  | Non | Non | Non |
+|Dictée | N °<sup>1</sup> | N °<sup>1</sup> | N °<sup>1</sup> |
+|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** est entièrement disponible dans les clouds gouvernementaux, à l’exception des fonctionnalités suivantes qui ne sont pas disponibles pour le moment :| Oui | Oui | Oui |
+|Recherche intelligente | Non | Non | Non |
+|Sons Office (Some) | Non | Non | Non |
+|modèles 3D et animations incorporées 3D | Non | Non | Non |
+Graphiques : cartes | Non | Non | Non |
+|Entrée manuscrite numérique intelligente | Non | Non | Non |
+|Légendes & sous-titres dans PowerPoint | Non | Non | Non |
+|Autocar de présentateur | Non | Non | Non |
+|Shared with Me| Non | Non | Non |
+|Intégration de Skype entreprise avec le partage| Non | Non | Non |
+|Historique des versions | Non | Non | Non |
+|Groupes Office 365 | Non | Non | Non |
+|Collaboration en temps réel (présence, co-création régulière, conversation en document) | Non | Non | Non |
+|Dictée | N °<sup>1</sup> | N °<sup>1</sup> | N °<sup>1</sup> |
+|Le **tableau blanc de Microsoft** dans les clouds gouvernementaux n’est actuellement disponible que sur les clients Hub, et non sur le bureau. | Oui<sup>2</sup> | Oui<sup>2</sup> | Oui<sup>2</sup> |
+|Insérer des pense-bêtes, du texte et des images |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
+|Entrée manuscrite en forme et entrée manuscrite en tableau |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
+|Entrée manuscrite Beautification |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
+|Convertir une image en entrée manuscrite |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
+|Vérificateur d'accessibilité |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
+|Modèles dynamiques (KANBAN, SWOT, etc.) | Non | Non | Non |
+|Collaboration en temps réel | Non | Non | Non |
+|Présence en temps réel | Non | Non | Non |
+|Réactions sur le contenu | Non | Non | Non |
+|Galerie de tableaux blancs, notamment partagés avec vous | Non | Non | Non |
+|**[Microsoft Word](office-applications.md#microsoft-word)** est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes qui ne sont pas disponibles pour le moment :| Oui | Oui | Oui |
+|Recherche intelligente | Non | Non | Non |
+|Recherche | Non | Non | Non |
+|Sons Office | Non | Non | Non |
+|modèles 3D | Non | Non | Non |
+|animations 3D incorporées | Non | Non | Non |
+|Recommandations | Non | Non | Non |
+|Assistant C.V. | Non | Non | Non |
+|Graphiques de carte | Non | Non | Non |
+|Entrée manuscrite numérique intelligente | Non | Non | Non |
+|Shared with Me | Non | Non | Non |
+|Conversion | Non | Non | Non |
+|Intégration de Skype entreprise avec le partage | Non | Non | Non |
+|Historique des versions | Non | Non | Non |
+|Groupes Office 365 | Non | Non | Non |
+|Conversation contextuelle avec co-auteurs : conversion avec les co-auteurs dans le document | Non | Non | Non |
+|Dictée| N °<sup>1</sup> | N °<sup>1</sup> | N °<sup>1</sup> |
+
+> [!NOTE]
+> <sup>1</sup> disponible en décembre 2019. <br/>
+> <sup>2</sup> disponible sur le hub de surface local (non connecté).
