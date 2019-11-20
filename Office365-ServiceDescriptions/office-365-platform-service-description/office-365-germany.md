@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
-ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911806"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724692"
 ---
 # <a name="office-365-germany"></a>Office 365 Allemagne
 
@@ -77,6 +77,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Protéger le contenu à l'aide d'Azure Information Protection|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|N °<sup>2</sup>|Non|Non|N °<sup>2</sup>|
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Réservations Microsoft|Non|Non|Non|Non|Non|Non|Non|Non|
+|Courrier électronique de briefing Microsoft|Non|Non|Non|Non|Non|Non|Non|Non|
 |Microsoft Flow|Non|Non|Non|Non|Non|Non|Non|Non|
 |Microsoft Forms|Non|Non|Non|Non|Non|Non|Non|Non|
 |Microsoft MyAnalytics|Non|Non|Non|Non|Non|Non|Non|Non|
@@ -256,7 +257,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 <sup>4</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge. <br/>
 <sup>5</sup> si vous disposez d’Office professionnel plus 2013 ou d’une version autonome d’Excel 2013, vous pouvez télécharger et utiliser [Power Map Preview pour Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) comme complément non pris en charge. <br/>
 <sup>6</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus et Office 365 Germany Enterprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités de Lync Basic, consultez la rubrique [dektop client Comparison Tables](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
-<sup>7</sup> certaines écoles sont éligibles à l’éducation plus, qui inclut Office 365 ProPlus, et permettent aux étudiants, aux enseignants et au personnel d’installer la dernière version d’Office sur un maximum de cinq ordinateurs PC ou Mac et sur d’autres appareils mobiles, notamment des tablettes Windows et le réglages. Pour pouvoir bénéficier d'Office 365 Éducation Plus, les écoles doivent acquérir une licence Office pour les enseignants et le personnel à l'échelle de l'établissement via l'inscription aux solutions Éducation, le programme Open Value Subscription pour les solutions Éducation ou un contrat pour établissements scolaires. Access et Publisher sont uniquement disponibles sur PC. OneNote pour Mac est disponible en téléchargement séparé à partir de l'App Store Mac.<br/>
+<sup>7</sup> certaines écoles sont éligibles à l’éducation plus, qui inclut Office 365 ProPlus, et permettent aux étudiants, aux enseignants et au personnel d’installer la dernière version d’Office sur un maximum de cinq ordinateurs PC ou Mac et sur d’autres appareils mobiles, notamment des tablettes Windows et l’iPad. Pour pouvoir bénéficier d'Office 365 Éducation Plus, les écoles doivent acquérir une licence Office pour les enseignants et le personnel à l'échelle de l'établissement via l'inscription aux solutions Éducation, le programme Open Value Subscription pour les solutions Éducation ou un contrat pour établissements scolaires. Access et Publisher sont uniquement disponibles sur PC. OneNote pour Mac est disponible en téléchargement séparé à partir de l'App Store Mac.<br/>
 <sup>8</sup> Office 2011 pour Mac peut être installé, mais pas activé. <br/>
 <sup>9</sup> l’activation en volume pour Office 365 Germany entreprise E3 et Office 365 ProPlus est limitée aux installations sur Windows Server 2008 R2 et versions ultérieures avec le rôle RDS activé ou les installations Windows to go. Dans les deux cas, les utilisateurs qui accèdent à ces installations doivent être titulaires d’une licence Office 365 Germany entreprise E3 ou Office 365 ProPlus.<br/>
 <sup>10</sup> l’accès est actuellement disponible si vous êtes sur le canal actuel ou sur la version ciblée pour le canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d'informations, reportez-vous à l'article relatif à [l'inclusion d'Access dans le cadre d'Office 365 Business et de Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
@@ -764,7 +765,7 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |Personnes, sites, recommandations de documents|Non|Non|Oui|Oui|
 |Site personnel |Oui|Oui|Oui|Oui|
 |Photos et présence|Oui|Oui|Oui|Oui|
-|Profils|Oui|Oui|Oui|Oui|
+|Profil|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Non|Non|Oui|Oui|
@@ -1024,7 +1025,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Personnes, sites, recommandations de documents|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Site personnel |Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Photos et présence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Profils|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Profil|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|

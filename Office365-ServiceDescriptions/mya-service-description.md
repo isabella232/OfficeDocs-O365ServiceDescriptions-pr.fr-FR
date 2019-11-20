@@ -9,12 +9,12 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Fonctionnalités MyAnalytics, distributions, confidentialité et conditions préalables
-ms.openlocfilehash: e557c1043579bf38fa3504686551e76609d211b9
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: ceb62bdbfe71ba9a9871194d6135ad8021723a2f
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998476"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724702"
 ---
 # <a name="myanalytics-service-description"></a>Description du service MyAnalytics
 
@@ -45,7 +45,7 @@ En respectant les instructions suivantes, MyAnalytics protège la confidentialit
 * MyAnalytics et Delve sont des applications distinctes avec aucune interdépendance.
 * MyAnalytics rappelle aux personnes que leurs données sont privées et sécurisées.
 
-Pour plus d’informations, voir [Guide confidentialité MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).
+Pour plus d’informations, reportez-vous au [Guide de confidentialité d’MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).
 
 [En savoir plus sur la façon dont MyAnalytics peut vous aider à travailler plus efficacement](https://products.office.com/business/myanalytics-personal-analytics).
 

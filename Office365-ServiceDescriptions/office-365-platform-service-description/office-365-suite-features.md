@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911707"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724732"
 ---
 # <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
 
@@ -28,7 +28,17 @@ Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’out
 Microsoft Bookings est une application mobile et en ligne pour les petites entreprises fournissant des services aux clients sur la base de rendez-vous. Par exemple, cela inclut les salons de coiffure, les cabinets dentaires, les spas, les cabinets d'avocats, les prestataires de services financiers, les consultants et les garages automobiles. Bookings Microsoft est disponible aux États-Unis et au Canada pour les clients possédant un abonnement à Office 365 Business Premium. 
   
 Pour plus d'informations sur Microsoft Bookings, reportez-vous à [Découvrir Microsoft Bookings](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
-  
+
+## <a name="microsoft-briefing-email"></a>Courrier électronique de briefing Microsoft
+
+Le courrier électronique de briefing permet aux utilisateurs de tirer le meilleur parti de chaque jour en les aidant :
+
+* Préparez les réunions en affichant les tâches connexes ou les documents pertinents.
+* Gérer les tâches identifiées à partir du courrier électronique en attente.
+* Prendre le temps de focalisation en fonction de la durée du calendrier et des notifications en sourdine.
+
+Un message succinct est fourni automatiquement à tous les utilisateurs d’Exchange Online. Pour en savoir plus, consultez la rubrique [Résumé du courrier électronique](https://docs.microsoft.com/Briefing/be-overview).
+
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
 Microsoft Flow vous permet d'automatiser des flux de travail dans vos applications. Vous pouvez utiliser Microsoft Flow pour connecter votre messagerie électronique et vos alertes de messagerie instantanée, synchroniser des fichiers entre les applications, copier des fichiers d'un service à un autre, collecter des données à partir d'une application et les stocker dans une autre, et bien plus encore. Des modèles sont disponibles pour vous aider à vous lancer. Pour en savoir plus sur les fonctionnalités de Microsoft Flow et comment les utiliser, accédez au [site web de Microsoft Flow](https://flow.microsoft.com/en-us/).
@@ -65,7 +75,7 @@ Microsoft Stream est un service vidéo d’entreprise que les membres de votre o
 
 Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu’à vos collègues, de formuler des idées à l’aide d’un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d’une mise en forme ou d’une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l’apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n’importe quel navigateur de n’importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d’extraire tous les types de contenu sans quitter l’application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft Teams est un espace de travail centré sur les conversations dans Office 365 qui permet aux équipes d'unir leurs efforts. Microsoft Teams sert de plateforme pour le travail d'équipe, permettant aux équipes d'accéder instantanément à des conversations, du contenu et des outils d'Office 365 dans un espace de travail unique. SharePoint et OneNote sont intégrés, et les membres de l'équipe peuvent travailler sur des documents Office directement dans l'application. À part les conversations, Microsoft teams prend également en charge les réunions et les appels vidéo pour permettre aux équipes de répondre aux besoins en direct, à la demande ou planifiés. Les utilisateurs peuvent facilement collaborer avec plusieurs équipes et effectuer des recherches parmi des personnes, des conversations et des fichiers à tout moment. Microsoft teams fonctionne sur les plateformes Windows, Mac, Web, Android et iOS. Pour en savoir plus, voir [Aide de Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
@@ -87,7 +97,7 @@ Le bloc-notes de classe fait partie de OneNote et est disponible pour Office 365
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala est une application de gestion de travail mobile simple et sécurisée, qui apporte des fonctionnalités uniques à Microsoft 365, avec sa capacité de connexion et d’intervention de personnes à la fois à l’intérieur et à l’extérieur de l’annuaire de l’organisation, y compris les professionnels du contrat, les fournisseurs, partenaires, fournisseurs, clients et citoyens – utilisation de types de [groupes flexibles](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)et de grande taille. Le modèle Open Directory de Kaizala permet une intégration facile à l’aide d’un numéro de téléphone et une expérience utilisateur simple pour la gestion de la messagerie et des tâches. L’application mobile Kaizala permet aux utilisateurs d’envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des sons et d’autres personnes, ainsi que d’utiliser des cartes d’action pour des enquêtes, des sondages, des missions, des annonces, des annonces, etc. [Kaizala est disponible avec Office 365](https://products.office.com/en/business/microsoft-kaizala) et fonctionne sur iPhone et Android. Pour en savoir plus, accédez au [site Web Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
+Microsoft Kaizala est une application de gestion de travail mobile simple et sécurisée, qui offre des fonctionnalités uniques à Microsoft 365, avec sa capacité de connexion et d’intervention de personnes à la fois à l’intérieur et à l’extérieur de l’annuaire de l’organisation, y compris les professionnels du contrat, les fournisseurs, les partenaires, les fournisseurs, les clients et les citoyens, à l’aide de [types de groupes](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Le modèle Open Directory de Kaizala permet une intégration facile à l’aide d’un numéro de téléphone et une expérience utilisateur simple pour la gestion de la messagerie et des tâches. L’application mobile Kaizala permet aux utilisateurs d’envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des sons et d’autres personnes, ainsi que d’utiliser des cartes d’action pour des enquêtes, des sondages, des missions, des annonces, des annonces, etc. [Kaizala est disponible avec Office 365](https://products.office.com/en/business/microsoft-kaizala) et fonctionne sur iPhone et Android. Pour en savoir plus, accédez au [site Web Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
