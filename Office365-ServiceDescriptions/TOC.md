@@ -79,6 +79,7 @@
 ## [Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Fonctionnalités de Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Limites de Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)
+## [Description du service de courrier](briefing-service-description.md)
 ## [Description du service Workplace Analytics](workplace-analytics-service-description.md)
 ## [Description du service MyAnalytics](mya-service-description.md)
 ## [Description du service Power BI](power-bi-service-description.md)
