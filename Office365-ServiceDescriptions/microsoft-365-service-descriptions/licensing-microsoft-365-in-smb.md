@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business est l’offre Microsoft de meilleure qualité pour les petites et moyennes entreprises. Microsoft 365 Business est une solution intégrée qui rassemble la productivité d’Office 365, la sécurité avancée et la gestion des appareils.
-ms.openlocfilehash: 4b07cf8b823f0fa73fb13650bb108ff4c43a334b
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
+ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724662"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38755472"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licences Microsoft 365 pour les petites et moyennes entreprises
 
@@ -148,6 +148,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Conformité** | Archivage de courrier électronique illimité<sup>2</sup> | Non | Oui | Oui | Oui |
 |   | Advanced eDiscovery, Customer Lockbox et Gouvernance des données avancée | Non | Non | Non | Oui |
 |**Analyse** | Power BI Pro, MyAnalytics | Non | Non | Non | Oui |
+| | Insights par MyAnalytics | Oui | Oui | Oui | Oui |
 |**Assistance** | Courrier électronique de briefing | Oui | Oui | Oui | Oui |
 |**Vocale** | Conférence RTC, PBX Cloud | Non | Non | Non | Oui |
 
@@ -190,9 +191,9 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 | **Licences**                                   | **Office 365 Business** | **Office 365 ProPlus** |
 | Modèle de licence                                 | Par utilisateur                | Par utilisateur               |
 | Type de licence                                    | Abonnement            | Abonnement           |
-| Installations PC/Mac<sup>6</sup>                     | disque                       | disque                      |
-| installe le smartphone iOS/Android<sup>6</sup>     | disque                       | disque                      |
-| Installations de Tablet PC<sup>6</sup>                     | disque                       | disque                      |
+| Installations PC/Mac<sup>6</sup>                     | 5                        | disque                      |
+| installe le smartphone iOS/Android<sup>6</sup>     | 5                        | disque                      |
+| Installations de Tablet PC<sup>6</sup>                     | 5                        | disque                      |
 | Droits commerciaux Office RT                     | Oui                     | Oui                    |
 | Applications Office Online/Web                          | Oui                     | Oui                    |
 | Droits d’utilisation commerciale                           | Oui                     | Oui                    |

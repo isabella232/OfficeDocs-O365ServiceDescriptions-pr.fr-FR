@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en se connectant à Office 365.
-ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
+ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911792"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38752713"
 ---
 # <a name="service-health-and-continuity"></a>État des services
 
@@ -49,7 +49,7 @@ Le passage à un service Cloud ne doit pas signifier perdre la capacité à savo
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
-| 99,97% <br/> | 99,97% <br/> |  <br/> |  <br/> |
+| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> |  <br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Quand un incident de service se produit, Microsoft reconnaît que les communicat
 
 ### <a name="office-365-admin-app"></a>Application d’administration Office 365
 
-L’application d’administration pour les administrateurs clients Office 365 vous permet de vous connecter à l’état du service 365 Office de votre organisation en déplacement. Les administrateurs client Office 365 pourront afficher les informations relatives à l’état du service et les mises à jour de l’état de la maintenance à partir de leurs appareils mobiles. Pour plus d'informations, consultez la [FAQ de l'application d'administration](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+L’application d’administration pour les administrateurs clients Office 365 vous permet de vous connecter à l’état du service 365 Office de votre organisation en déplacement. Les administrateurs client Office 365 pourront afficher les informations relatives à l’état du service et les mises à jour de l’état de la maintenance à partir de leurs appareils mobiles. Pour plus d’informations, consultez le [FAQ sur l’application d’administration](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d’administration d’Office 365 pour Microsoft System Center 2012 R2
 
