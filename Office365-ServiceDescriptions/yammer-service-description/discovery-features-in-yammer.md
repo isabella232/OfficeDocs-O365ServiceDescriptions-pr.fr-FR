@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726377"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263095"
 ---
-# <a name="discovery-features-in-yammer"></a><span data-ttu-id="76284-103">Fonctionnalités de découverte dans Yammer</span><span class="sxs-lookup"><span data-stu-id="76284-103">Discovery features in Yammer</span></span>
+# <a name="discovery-features-in-yammer"></a><span data-ttu-id="88772-103">Fonctionnalités de découverte dans Yammer</span><span class="sxs-lookup"><span data-stu-id="88772-103">Discovery features in Yammer</span></span>
 
-<span data-ttu-id="76284-104">Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.</span><span class="sxs-lookup"><span data-stu-id="76284-104">The following discovery features are available in Yammer.</span></span>
+<span data-ttu-id="88772-104">Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.</span><span class="sxs-lookup"><span data-stu-id="88772-104">The following discovery features are available in Yammer.</span></span>
   
-## <a name="feeds"></a><span data-ttu-id="76284-105">Flux</span><span class="sxs-lookup"><span data-stu-id="76284-105">Feeds</span></span>
+## <a name="feeds"></a><span data-ttu-id="88772-105">Flux</span><span class="sxs-lookup"><span data-stu-id="88772-105">Feeds</span></span>
 
-<span data-ttu-id="76284-106">Restez au fait des conversations pertinentes, des fichiers et des projets qui se produisent au sein de l’organisation.</span><span class="sxs-lookup"><span data-stu-id="76284-106">Stay on top of relevant conversations, filesm and projects happening across the organization.</span></span> <span data-ttu-id="76284-107">Les flux vous permettent de participer rapidement à des conversations, de @mention des collègues pour les parcourir dans une discussion et de prévisualiser des documents.</span><span class="sxs-lookup"><span data-stu-id="76284-107">Feeds let you quickly engage in conversations, @mention coworkers to loop them into a discussion, and preview documents.</span></span>
+<span data-ttu-id="88772-106">Restez au fait des conversations pertinentes, des fichiers et des projets qui se produisent au sein de l’organisation.</span><span class="sxs-lookup"><span data-stu-id="88772-106">Stay on top of relevant conversations, filesm and projects happening across the organization.</span></span> <span data-ttu-id="88772-107">Les flux vous permettent de participer rapidement à des conversations, de @mention des collègues pour les parcourir dans une discussion et de prévisualiser des documents.</span><span class="sxs-lookup"><span data-stu-id="88772-107">Feeds let you quickly engage in conversations, @mention coworkers to loop them into a discussion, and preview documents.</span></span>
 
-## <a name="instant-type-ahead"></a><span data-ttu-id="76284-108">Type de saisie semi-automatique</span><span class="sxs-lookup"><span data-stu-id="76284-108">Instant type-ahead</span></span>
+## <a name="instant-type-ahead"></a><span data-ttu-id="88772-108">Type de saisie semi-automatique</span><span class="sxs-lookup"><span data-stu-id="88772-108">Instant type-ahead</span></span>
 
-<span data-ttu-id="76284-109">Des suggestions de résultats de recherche apparaissent au fur et à mesure de votre saisie pour vous aider à trouver ce dont vous avez besoin plus rapidement.</span><span class="sxs-lookup"><span data-stu-id="76284-109">Suggested search results appear as you type to help you find what you need faster.</span></span> <span data-ttu-id="76284-110">Les résultats sont catégorisés par des personnes, des groupes, des fichiers, des notes, des rubriques et des applications.</span><span class="sxs-lookup"><span data-stu-id="76284-110">Results are categorized by people, groups, files, notes, topics, and applications.</span></span>
+<span data-ttu-id="88772-109">Des suggestions de résultats de recherche apparaissent au fur et à mesure de votre saisie pour vous aider à trouver ce dont vous avez besoin plus rapidement.</span><span class="sxs-lookup"><span data-stu-id="88772-109">Suggested search results appear as you type to help you find what you need faster.</span></span> <span data-ttu-id="88772-110">Les résultats sont catégorisés par des personnes, des groupes, des fichiers, des notes, des rubriques et des applications.</span><span class="sxs-lookup"><span data-stu-id="88772-110">Results are categorized by people, groups, files, notes, topics, and applications.</span></span>
     
-## <a name="ticker"></a><span data-ttu-id="76284-111">Télex</span><span class="sxs-lookup"><span data-stu-id="76284-111">Ticker</span></span>
+## <a name="ticker"></a><span data-ttu-id="88772-111">Télex</span><span class="sxs-lookup"><span data-stu-id="88772-111">Ticker</span></span>
 
-<span data-ttu-id="76284-112">Découvrez ce sur quoi vos collègues travaillent à tout moment.</span><span class="sxs-lookup"><span data-stu-id="76284-112">Discover what your coworkers are working on as it happens.</span></span> <span data-ttu-id="76284-113">Le téléscripteur affiche les activités qui se produisent en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour effectuées dans d’autres applications d’entreprise.</span><span class="sxs-lookup"><span data-stu-id="76284-113">Ticker shows you activity stories happening in real time, including page edits, file uploads, and updates made in other business applications.</span></span>
+<span data-ttu-id="88772-112">Découvrez ce sur quoi vos collègues travaillent à tout moment.</span><span class="sxs-lookup"><span data-stu-id="88772-112">Discover what your coworkers are working on as it happens.</span></span> <span data-ttu-id="88772-113">Le téléscripteur affiche les activités qui se produisent en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour effectuées dans d’autres applications d’entreprise.</span><span class="sxs-lookup"><span data-stu-id="88772-113">Ticker shows you activity stories happening in real time, including page edits, file uploads, and updates made in other business applications.</span></span>
   
-## <a name="topics"></a><span data-ttu-id="76284-114">Topics</span><span class="sxs-lookup"><span data-stu-id="76284-114">Topics</span></span>
+## <a name="topics"></a><span data-ttu-id="88772-114">Topics</span><span class="sxs-lookup"><span data-stu-id="88772-114">Topics</span></span>
 
-<span data-ttu-id="76284-115">Baliser le contenu avec des rubriques pour aider les autres utilisateurs à trouver rapidement des messages, des fichiers, des notes connexes et plus encore en ajoutant un mot-dièse (#) avant le mot ou en recherchant des rubriques existantes.</span><span class="sxs-lookup"><span data-stu-id="76284-115">Tag content with topics to help others quickly find related messages, files, notes, and more by adding a hashtag (#) before the word or by searching for existing topics.</span></span>
+<span data-ttu-id="88772-115">Baliser le contenu avec des rubriques pour aider les autres utilisateurs à trouver rapidement des messages, des fichiers, des notes connexes et plus encore en ajoutant un mot-dièse (#) avant le mot ou en recherchant des rubriques existantes.</span><span class="sxs-lookup"><span data-stu-id="88772-115">Tag content with topics to help others quickly find related messages, files, notes, and more by adding a hashtag (#) before the word or by searching for existing topics.</span></span>
   
-## <a name="universal-search"></a><span data-ttu-id="76284-116">Recherche universelle</span><span class="sxs-lookup"><span data-stu-id="76284-116">Universal search</span></span>
+## <a name="universal-search"></a><span data-ttu-id="88772-116">Recherche universelle</span><span class="sxs-lookup"><span data-stu-id="88772-116">Universal search</span></span>
 
-<span data-ttu-id="76284-117">La recherche en texte intégral vous permet de trouver rapidement des fichiers, des notes, des conversations, des personnes et des données au sein de votre réseau Yammer et des applications métiers intégrées.</span><span class="sxs-lookup"><span data-stu-id="76284-117">Full-text search lets you quickly find files, notes, conversations, people, and data across your Yammer network and integrated business apps.</span></span>
+<span data-ttu-id="88772-117">La recherche en texte intégral vous permet de trouver rapidement des fichiers, des notes, des conversations, des personnes et des données au sein de votre réseau Yammer et des applications métiers intégrées.</span><span class="sxs-lookup"><span data-stu-id="88772-117">Full-text search lets you quickly find files, notes, conversations, people, and data across your Yammer network and integrated business apps.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="76284-118">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="76284-118">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="88772-118">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="88772-118">Feature availability</span></span>
 
-<span data-ttu-id="76284-119">Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="76284-119">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer Service Description](yammer-service-description.md).</span></span>
+<span data-ttu-id="88772-119">Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="88772-119">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
   

@@ -12,60 +12,60 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
-ms.openlocfilehash: c457dbbc77afa6539b01fb457ed42d554c575533
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633563"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263378"
 ---
-# <a name="task-management"></a><span data-ttu-id="3fa1a-103">Gestion des tâches</span><span class="sxs-lookup"><span data-stu-id="3fa1a-103">Task management</span></span>
+# <a name="task-management"></a><span data-ttu-id="79d4a-103">Gestion des tâches</span><span class="sxs-lookup"><span data-stu-id="79d4a-103">Task management</span></span>
 
-<span data-ttu-id="3fa1a-104">Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-104">The following task management features are available in Project Online.</span></span>
+<span data-ttu-id="79d4a-104">Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.</span><span class="sxs-lookup"><span data-stu-id="79d4a-104">The following task management features are available in Project Online.</span></span>
   
-<span data-ttu-id="3fa1a-105">Vous recherchez des informations sur toutes les fonctionnalités de Project Online ?</span><span class="sxs-lookup"><span data-stu-id="3fa1a-105">Looking for information about all Project Online features?</span></span> <span data-ttu-id="3fa1a-106">Consultez [Description du service Project Online](project-online-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="3fa1a-106">See the [Project Online Service Description](project-online-service-description.md).</span></span>
+<span data-ttu-id="79d4a-105">Vous recherchez des informations sur toutes les fonctionnalités de Project Online ?</span><span class="sxs-lookup"><span data-stu-id="79d4a-105">Looking for information about all Project Online features?</span></span> <span data-ttu-id="79d4a-106">Consultez la rubrique [Description du service Project Online](project-online-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="79d4a-106">See the [Project Online service description](project-online-service-description.md).</span></span>
   
-## <a name="active-and-inactive-tasks"></a><span data-ttu-id="3fa1a-107">Active and inactive tasks</span><span class="sxs-lookup"><span data-stu-id="3fa1a-107">Active and inactive tasks</span></span>
+## <a name="active-and-inactive-tasks"></a><span data-ttu-id="79d4a-107">Active and inactive tasks</span><span class="sxs-lookup"><span data-stu-id="79d4a-107">Active and inactive tasks</span></span>
 
-<span data-ttu-id="3fa1a-p102">Lorsque vous désactivez une tâche, elle reste dans le plan du projet mais n'a aucune incidence sur les éléments suivants : la disponibilité des ressources, le planning du projet ou la planification des autres tâches. Pour en savoir plus, consultez la rubrique [Désactiver une tâche](https://go.microsoft.com/fwlink/p/?LinkId=271335).</span><span class="sxs-lookup"><span data-stu-id="3fa1a-p102">When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).</span></span>
+<span data-ttu-id="79d4a-p102">Lorsque vous désactivez une tâche, elle reste dans le plan du projet mais n'a aucune incidence sur les éléments suivants : la disponibilité des ressources, le planning du projet ou la planification des autres tâches. Pour en savoir plus, consultez la rubrique [Désactiver une tâche](https://go.microsoft.com/fwlink/p/?LinkId=271335).</span><span class="sxs-lookup"><span data-stu-id="79d4a-p102">When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).</span></span>
   
-## <a name="auto-complete"></a><span data-ttu-id="3fa1a-110">Saisie semi-automatique</span><span class="sxs-lookup"><span data-stu-id="3fa1a-110">Auto-complete</span></span>
+## <a name="auto-complete"></a><span data-ttu-id="79d4a-110">Saisie semi-automatique</span><span class="sxs-lookup"><span data-stu-id="79d4a-110">Auto-complete</span></span>
 
-<span data-ttu-id="3fa1a-111">Obtenez des suggestions pour les noms des tâches ou des ressources lorsque vous les saisissez.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-111">Get suggestions for task or resource names as you type.</span></span> 
+<span data-ttu-id="79d4a-111">Obtenez des suggestions pour les noms des tâches ou des ressources lorsque vous les saisissez.</span><span class="sxs-lookup"><span data-stu-id="79d4a-111">Get suggestions for task or resource names as you type.</span></span> 
   
-## <a name="automatic-scheduling"></a><span data-ttu-id="3fa1a-112">Planification automatique</span><span class="sxs-lookup"><span data-stu-id="3fa1a-112">Automatic scheduling</span></span>
+## <a name="automatic-scheduling"></a><span data-ttu-id="79d4a-112">Planification automatique</span><span class="sxs-lookup"><span data-stu-id="79d4a-112">Automatic scheduling</span></span>
 
-<span data-ttu-id="3fa1a-113">Utilisez le mode de planification automatique pour planifier vos tâches automatiquement.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-113">Use Auto Schedule mode to schedule your tasks automatically.</span></span> <span data-ttu-id="3fa1a-114">En savoir plus sur la [planification des tâches dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span><span class="sxs-lookup"><span data-stu-id="3fa1a-114">Learn more about [how Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span> 
+<span data-ttu-id="79d4a-113">Utilisez le mode de planification automatique pour planifier vos tâches automatiquement.</span><span class="sxs-lookup"><span data-stu-id="79d4a-113">Use Auto Schedule mode to schedule your tasks automatically.</span></span> <span data-ttu-id="79d4a-114">En savoir plus sur la [planification des tâches dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span><span class="sxs-lookup"><span data-stu-id="79d4a-114">Learn more about [how Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span> 
   
-## <a name="calendar-date-extended-to-2149"></a><span data-ttu-id="3fa1a-115">Date du calendrier prolongée jusqu’à 2149</span><span class="sxs-lookup"><span data-stu-id="3fa1a-115">Calendar date extended to 2149</span></span>
+## <a name="calendar-date-extended-to-2149"></a><span data-ttu-id="79d4a-115">Date du calendrier prolongée jusqu’à 2149</span><span class="sxs-lookup"><span data-stu-id="79d4a-115">Calendar date extended to 2149</span></span>
 
-<span data-ttu-id="3fa1a-116">Les tâches des projets peuvent maintenant utiliser des dates du calendrier jusqu’à 2149.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-116">Project tasks can now use calendar dates up to 2149.</span></span> 
+<span data-ttu-id="79d4a-116">Les tâches des projets peuvent maintenant utiliser des dates du calendrier jusqu’à 2149.</span><span class="sxs-lookup"><span data-stu-id="79d4a-116">Project tasks can now use calendar dates up to 2149.</span></span> 
   
-## <a name="cross-project-critical-path"></a><span data-ttu-id="3fa1a-117">Chemin critique entre les projets</span><span class="sxs-lookup"><span data-stu-id="3fa1a-117">Cross-project critical path</span></span>
+## <a name="cross-project-critical-path"></a><span data-ttu-id="79d4a-117">Chemin critique entre les projets</span><span class="sxs-lookup"><span data-stu-id="79d4a-117">Cross-project critical path</span></span>
 
-<span data-ttu-id="3fa1a-p104">Un chemin critique représente la série de tâches qui doivent être accomplies dans les délais pour qu'un projet soit terminé en temps voulu. Vous pouvez créer, modifier et supprimer une relation de dépendance avec une tâche dans un autre projet.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-p104">A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project.</span></span> 
+<span data-ttu-id="79d4a-p104">Un chemin critique représente la série de tâches qui doivent être accomplies dans les délais pour qu'un projet soit terminé en temps voulu. Vous pouvez créer, modifier et supprimer une relation de dépendance avec une tâche dans un autre projet.</span><span class="sxs-lookup"><span data-stu-id="79d4a-p104">A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project.</span></span> 
   
-## <a name="task-inspector"></a><span data-ttu-id="3fa1a-120">Inspecteur de tâches</span><span class="sxs-lookup"><span data-stu-id="3fa1a-120">Task inspector</span></span>
+## <a name="task-inspector"></a><span data-ttu-id="79d4a-120">Inspecteur de tâches</span><span class="sxs-lookup"><span data-stu-id="79d4a-120">Task inspector</span></span>
 
-<span data-ttu-id="3fa1a-121">Affichez les facteurs qui influent sur la planification d’une tâche, tels que la modification de la date de début ou les messages d’erreur.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-121">View factors that affect the scheduling of a task, such as a changed start date or error messages.</span></span>
+<span data-ttu-id="79d4a-121">Affichez les facteurs qui influent sur la planification d’une tâche, tels que la modification de la date de début ou les messages d’erreur.</span><span class="sxs-lookup"><span data-stu-id="79d4a-121">View factors that affect the scheduling of a task, such as a changed start date or error messages.</span></span>
   
-## <a name="task-path-analysis"></a><span data-ttu-id="3fa1a-122">Analyse du chemin des tâches</span><span class="sxs-lookup"><span data-stu-id="3fa1a-122">Task path analysis</span></span>
+## <a name="task-path-analysis"></a><span data-ttu-id="79d4a-122">Analyse du chemin des tâches</span><span class="sxs-lookup"><span data-stu-id="79d4a-122">Task path analysis</span></span>
 
-<span data-ttu-id="3fa1a-p105">Visualisez la façon dont une tâche est associée à d'autres en surlignant la séquence des tâches tout au long du projet. Pour en savoir plus, consultez la rubrique relative à la [mise en évidence des liens entre les tâches](https://go.microsoft.com/fwlink/p/?LinkId=271345).</span><span class="sxs-lookup"><span data-stu-id="3fa1a-p105">See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).</span></span>
+<span data-ttu-id="79d4a-p105">Visualisez la façon dont une tâche est associée à d'autres en surlignant la séquence des tâches tout au long du projet. Pour en savoir plus, consultez la rubrique relative à la [mise en évidence des liens entre les tâches](https://go.microsoft.com/fwlink/p/?LinkId=271345).</span><span class="sxs-lookup"><span data-stu-id="79d4a-p105">See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).</span></span>
   
-## <a name="top-down-summary-tasks"></a><span data-ttu-id="3fa1a-125">Tâches récapitulatives verticales</span><span class="sxs-lookup"><span data-stu-id="3fa1a-125">Top-down summary tasks</span></span>
+## <a name="top-down-summary-tasks"></a><span data-ttu-id="79d4a-125">Tâches récapitulatives verticales</span><span class="sxs-lookup"><span data-stu-id="79d4a-125">Top-down summary tasks</span></span>
 
-<span data-ttu-id="3fa1a-126">Créez une affectation de ressource dans une tâche récapitulative.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-126">Create a resource assignment on a summary task.</span></span> <span data-ttu-id="3fa1a-127">En savoir plus sur la [planification verticale](https://go.microsoft.com/fwlink/p/?LinkId=271333).</span><span class="sxs-lookup"><span data-stu-id="3fa1a-127">Learn more about [top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).</span></span>
+<span data-ttu-id="79d4a-126">Créez une affectation de ressource dans une tâche récapitulative.</span><span class="sxs-lookup"><span data-stu-id="79d4a-126">Create a resource assignment on a summary task.</span></span> <span data-ttu-id="79d4a-127">En savoir plus sur la [planification verticale](https://go.microsoft.com/fwlink/p/?LinkId=271333).</span><span class="sxs-lookup"><span data-stu-id="79d4a-127">Learn more about [top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).</span></span>
   
-## <a name="update-progress"></a><span data-ttu-id="3fa1a-128">Mettre à jour la progression</span><span class="sxs-lookup"><span data-stu-id="3fa1a-128">Update progress</span></span>
+## <a name="update-progress"></a><span data-ttu-id="79d4a-128">Mettre à jour la progression</span><span class="sxs-lookup"><span data-stu-id="79d4a-128">Update progress</span></span>
 
-<span data-ttu-id="3fa1a-129">Mettez à jour la progression d’une tâche pour afficher le pourcentage réalisé.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-129">Update the progress on a task to show percent completed.</span></span>
+<span data-ttu-id="79d4a-129">Mettez à jour la progression d’une tâche pour afficher le pourcentage réalisé.</span><span class="sxs-lookup"><span data-stu-id="79d4a-129">Update the progress on a task to show percent completed.</span></span>
   
-## <a name="user-controlled-and-manual-scheduling"></a><span data-ttu-id="3fa1a-130">Planification manuelle et contrôlée par l’utilisateur</span><span class="sxs-lookup"><span data-stu-id="3fa1a-130">User-controlled and manual scheduling</span></span>
+## <a name="user-controlled-and-manual-scheduling"></a><span data-ttu-id="79d4a-130">Planification manuelle et contrôlée par l’utilisateur</span><span class="sxs-lookup"><span data-stu-id="79d4a-130">User-controlled and manual scheduling</span></span>
 
-<span data-ttu-id="3fa1a-131">Utilisez le mode de planification manuelle pour planifier des tâches manuellement.</span><span class="sxs-lookup"><span data-stu-id="3fa1a-131">Use Manually Schedule mode to schedule tasks manually.</span></span> <span data-ttu-id="3fa1a-132">En savoir plus sur la [planification des tâches dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span><span class="sxs-lookup"><span data-stu-id="3fa1a-132">See [How Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span>
+<span data-ttu-id="79d4a-131">Utilisez le mode de planification manuelle pour planifier des tâches manuellement.</span><span class="sxs-lookup"><span data-stu-id="79d4a-131">Use Manually Schedule mode to schedule tasks manually.</span></span> <span data-ttu-id="79d4a-132">En savoir plus sur la [planification des tâches dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span><span class="sxs-lookup"><span data-stu-id="79d4a-132">See [How Project schedules tasks](https://go.microsoft.com/fwlink/p/?LinkId=271331).</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="3fa1a-133">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="3fa1a-133">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="79d4a-133">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="79d4a-133">Feature availability</span></span>
 
-<span data-ttu-id="3fa1a-134">Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="3fa1a-134">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Project Online Service Description](project-online-service-description.md).</span></span>
+<span data-ttu-id="79d4a-134">Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="79d4a-134">To view feature availability across Office 365 plans, standalone options, and on-premises solutions, see [Project Online service description](project-online-service-description.md).</span></span>
   
