@@ -1,5 +1,5 @@
 ---
-title: Fonctionnalités de la suite Office 365
+title: Office 365 suite features
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724732"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263125"
 ---
-# <a name="office-365-suite-features"></a>Fonctionnalités de la suite Office 365
+# <a name="office-365-suite-features"></a>Office 365 suite features
 
 Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
   
@@ -75,7 +75,7 @@ Microsoft Stream est un service vidéo d’entreprise que les membres de votre o
 
 Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu’à vos collègues, de formuler des idées à l’aide d’un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d’une mise en forme ou d’une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l’apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n’importe quel navigateur de n’importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d’extraire tous les types de contenu sans quitter l’application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft Teams est un espace de travail centré sur les conversations dans Office 365 qui permet aux équipes d'unir leurs efforts. Microsoft Teams sert de plateforme pour le travail d'équipe, permettant aux équipes d'accéder instantanément à des conversations, du contenu et des outils d'Office 365 dans un espace de travail unique. SharePoint et OneNote sont intégrés, et les membres de l'équipe peuvent travailler sur des documents Office directement dans l'application. À part les conversations, Microsoft teams prend également en charge les réunions et les appels vidéo pour permettre aux équipes de répondre aux besoins en direct, à la demande ou planifiés. Les utilisateurs peuvent facilement collaborer avec plusieurs équipes et effectuer des recherches parmi des personnes, des conversations et des fichiers à tout moment. Microsoft teams fonctionne sur les plateformes Windows, Mac, Web, Android et iOS. Pour en savoir plus, voir [Aide de Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
@@ -101,6 +101,6 @@ Microsoft Kaizala est une application de gestion de travail mobile simple et sé
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).
   
 

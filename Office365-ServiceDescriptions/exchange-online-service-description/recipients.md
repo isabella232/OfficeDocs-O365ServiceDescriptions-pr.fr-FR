@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911717"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262727"
 ---
-# <a name="recipients"></a>Recipients
+# <a name="recipients"></a>Destinataires
 
 Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
   
@@ -34,7 +34,7 @@ Une boîte aux lettres est attribuée à chaque abonné Microsoft Exchange Onlin
 
 Le volume de stockage de boîte aux lettres disponible pour un utilisateur et la taille de boîte aux lettres par défaut sont déterminés par le type de boîte aux lettres et la licence d'abonnement de l'utilisateur . Les administrateurs peuvent réduire les tailles maximales de boîte aux lettres au niveau de chaque utilisateur ou globalement. Exchange Online fournit également des notifications quand la capacité de la boîte aux lettres d'un utilisateur est proche du maximum ou l'atteint :
   
-Pour plus d'informations, consultez les sections « Limites de stockage des boîtes aux lettres » et « Alertes de capacité » de l'article [Limites d'Exchange Online](exchange-online-limits.md).
+Pour plus d’informations, consultez les sections « limites de stockage des boîtes aux lettres » et « alertes de capacité » dans la rubrique [Exchange Online Limits](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>MailTips
 
@@ -91,7 +91,7 @@ La fonctionnalité carnet d’adresses en mode hors connexion fournit une captur
 
 Exchange Online prend en charge les stratégies de carnet d’adresses. Les stratégies de carnet d'adresses vous permettent de segmenter des utilisateurs en groupes spécifiques pour fournir des vues personnalisées de la liste d'adresses globale de votre organisation. Lorsque vous créez une stratégie de carnet d'adresses, vous affectez une LAG, un carnet d'adresses en mode hors connexion, une liste de pièces ainsi qu'une ou plusieurs listes d'adresses à la stratégie. Vous pouvez ensuite affecter le carnet aux utilisateurs de boîtes aux lettres, en leur donnant accès à une liste d’adresses globale personnalisée dans Outlook et Outlook sur le Web. Les administrateurs peuvent configurer les stratégies de carnet d'adresses à l'aide de l'application Windows PowerShell distante. Pour en savoir plus sur les stratégies de carnet d'adresses, voir [Carnets d'adresses dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=394203).
   
-### <a name="address-lists"></a>Listes d’adresses
+### <a name="address-lists"></a>Listes d'adresses
 
 Exchange Online prend en charge la personnalisation des listes d’adresses et des GAL. Une liste d’adresses globale est un répertoire à l’échelle de l’organisation de tous les utilisateurs à extension messagerie, des groupes de distribution et des contacts externes. Les administrateurs peuvent masquer des utilisateurs, des groupes de distribution et des contacts de la liste d’adresses globale à l’aide de l’outil de synchronisation d’annuaires ou de Windows PowerShell à distance.
   
@@ -153,7 +153,7 @@ Les messages de notification d'absence du bureau sont des réponses automatiques
 
 Les utilisateurs peuvent partager leur calendrier personnel selon l'une des deux manières suivantes :
   
-- **Partage de calendrier fédéré** La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, méthode facile pour les utilisateurs Exchange de partager les données de calendrier et les informations de contact avec des destinataires d’autres organisations fédérées externes. Il s’agit notamment des organisations ou organisations Exchange Online exécutant Exchange Server 2010 ou Exchange Server 2013 en local. Les administrateurs Exchange Online n’ont pas besoin de configurer une approbation avec Microsoft Federation Gateway, car cette approbation est préconfigurée pour tous les clients Exchange Online lors de la création du service client Office 365. Une stratégie de partage par défaut permet aux utilisateurs d’envoyer des invitations de partage de calendrier à partir d’Outlook sur le Web ou Outlook 2010. Les administrateurs utilisent Windows PowerShell à distance pour désactiver cette stratégie ou pour configurer le niveau des données de calendrier de disponibilité que les utilisateurs peuvent partager. Les administrateurs peuvent également créer une relation organisationnelle organisationnelle avec une autre organisation fédérée, ce qui permet de faire apparaître les informations de disponibilité souhaitées pour chaque utilisateur, sans que des utilisateurs individuels aient besoin d’effectuer une invitation de partage. Dans l’étendue des stratégies de partage définies par l’administrateur et/ou les relations organisationnelles de l’organisation, les utilisateurs peuvent limiter individuellement les détails de leur partage. 
+- **Partage de calendrier fédéré** La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, méthode facile pour les utilisateurs Exchange de partager les données de calendrier et les informations de contact avec des destinataires d’autres organisations fédérées externes. Il s’agit notamment des organisations ou organisations Exchange Online exécutant Exchange Server 2010 ou Exchange Server 2013 en local. Les administrateurs Exchange Online n’ont pas besoin de configurer une approbation avec Microsoft Federation Gateway, car cette approbation est préconfigurée pour tous les clients Exchange Online lors de la création du service client Office 365. Une stratégie de partage par défaut permet aux utilisateurs d’envoyer des invitations de partage de calendrier à partir d’Outlook sur le Web ou Outlook 2010. Les administrateurs utilisent Windows PowerShell à distance pour désactiver cette stratégie ou pour configurer le niveau des données de calendrier de disponibilité que les utilisateurs peuvent partager. Les administrateurs peuvent également créer une relation organisationnelle organisationnelle avec une autre organisation fédérée, ce qui permet au niveau souhaité d’informations de disponibilité pour chaque utilisateur d’être visible, sans que des utilisateurs individuels aient besoin d’effectuer une invitation de partage. Dans l’étendue des stratégies de partage définies par l’administrateur et/ou les relations organisationnelles de l’organisation, les utilisateurs peuvent limiter individuellement les détails de leur partage. 
     
 - **Partage de calendrier Internet** Exchange Online permet à ses utilisateurs de publier leurs calendriers au format iCal pour un accès anonyme par toute personne intérieure ou extérieure à l'organisation. Les destinataires peuvent utiliser Exchange, une autre plate-forme ou tout simplement un navigateur Web. Les utilisateurs Exchange Online peuvent également s’abonner à des calendriers que d’autres ont publiés sur les emplacements Internet via iCal. Ce partage de calendrier personnel diffère du partage de calendrier fédéré qui est configuré par un administrateur, et fournit un partage disponible/occupé d'organisation à organisation. Aucun utilisateur ne peut publier des données de calendrier au format iCal tant que l’administrateur n’a pas défini et appliqué une stratégie de partage l’autorisant. Les administrateurs peuvent désactiver la publication iCal et des abonnements iCal pour des utilisateurs d'une organisation à l'aide de Windows PowerShell à distance.
     

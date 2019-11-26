@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
-ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724692"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263055"
 ---
-# <a name="office-365-germany"></a>Office 365 Allemagne
+# <a name="office-365-germany"></a>Office 365 Allemagne
 
 Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
 
@@ -32,7 +32,7 @@ Chaque plan Office 365 Germany inclut un certain nombre de services, comme Excha
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Service**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
-|Plateforme Office 365 <sup>1</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Office 365, plateforme <sup>1</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Exchange Online|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |SharePoint Online|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
@@ -42,7 +42,7 @@ Chaque plan Office 365 Germany inclut un certain nombre de services, comme Excha
 |Project Online <sup>3</sup>|Non|Non|Non|Non|Non|Non|Non|Non|
 |Power BI <sup>3</sup>|Non|Non|Non|Non|Non|Non|Non|Non|
 |Visio pour le Web <sup>4</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Yammer Enterprise|N/D|N/A|N/A|N/A|N/A|N/A|N/A|S/O|
+|Yammer Enterprise|N/A|N/A|N/A|N/A|N/A|N/A|N/A|N/A|
 |Azure Information Protection|Non|Non|Non|Non|Non|Non|Non|Non|
 
 > [!NOTE]
@@ -116,7 +116,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Utilisation d'un autre fournisseur pour le courrier électronique et la messagerie instantanée|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy|Non|Non|Non|Non|Non|Non|Non|Non|
-|**[État des services](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[État et continuité du service](service-health-and-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Status information available on the **Service health** or **Service status** page|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |État des alertes individuelles disponible dans le tableau de bord du centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Flux RSS **État du service**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -144,7 +144,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos rapports à l'aide des services web de rapport Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour de service](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Mises à jour du service](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu'une action est requise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Roadmap.office.com pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -178,7 +178,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Administration déléguée|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**[Contrat de niveau de service](service-level-agreement.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Droits d'utilisation de logiciels](product-use-rights.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Droits d’utilisation des produits](product-use-rights.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Germany ne prend en charge aucun système d’exploitation qui n’est pas pris en charge par son fabricant.<br/>
@@ -765,7 +765,7 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |Personnes, sites, recommandations de documents|Non|Non|Oui|Oui|
 |Site personnel |Oui|Oui|Oui|Oui|
 |Photos et présence|Oui|Oui|Oui|Oui|
-|Profil|Oui|Oui|Oui|Oui|
+|Profils|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Non|Non|Oui|Oui|
@@ -1025,7 +1025,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Personnes, sites, recommandations de documents|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Site personnel |Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Photos et présence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Profil|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Profils|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|

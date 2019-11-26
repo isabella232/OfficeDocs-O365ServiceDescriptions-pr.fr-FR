@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020261"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261915"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -102,7 +102,7 @@ Après avoir créé un tableau Excel, vous souhaiterez peut-être uniquement le 
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Vous pouvez couper, copier et coller du texte, des nombres, des équations, des formes, des graphiques et des images. Si vous avez des données dans des colonnes que vous devez faire pivoter pour les réorganiser en lignes, utilisez la fonctionnalité de **transpose** dans le menu **coller** .
+Vous pouvez couper, copier et coller du texte, des liens hypertexte, des nombres, des formules, des formes, des graphiques et des images. Si vous avez des données dans des colonnes que vous devez faire pivoter pour les réorganiser en lignes, utilisez la fonctionnalité de **transpose** dans le menu **coller** . En savoir plus sur [la copie et le collage dans Excel pour le Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -244,7 +244,7 @@ Excel pour le Web vous permet d’afficher les tableaux et les graphiques de Pow
 
 Vous pouvez afficher et interagir avec les feuilles de mode Power View dans un classeur, mais vous ne pouvez pas créer Power View à l’aide d’Excel pour le Web. Pour créer des vues Power View, vous devez utiliser l'application de bureau. Power View permet de créer, de partager et d'explorer des données dans des vues interactives prêtes à l'emploi. Affichez des informations dans des cartes, des graphiques et des tableaux interactifs liés entre eux dans une seule feuille de calcul. En savoir plus sur [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Imprimer
 
 Utilisez la commande Imprimer dans Excel pour le Web pour envoyer la feuille de calcul entière ou la sélection actuelle à l’imprimante. En savoir plus sur l' [impression dans Excel pour le Web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
@@ -284,7 +284,7 @@ Non disponible dans Excel pour le Web. Si l'application Excel de bureau est inst
 
 Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie à votre ordinateur, utilisez la commande Enregistrer sous de l'onglet Fichier ou cliquez avec le bouton droit sur le nom du classeur dans son dossier, puis utilisez la commande Télécharger .
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 
 Un seul clic suffit pour envoyer à vos collaborateurs un lien leur permettant d’afficher ou de modifier le document. En savoir plus sur [l’utilisation d’Office pour le Web afin de collaborer dans office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

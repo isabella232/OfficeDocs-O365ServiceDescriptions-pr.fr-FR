@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre un large éventail de fonctionnalités de création de rapports dans et en dehors du centre d’administration Exchange.
-ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581990"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262707"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Fonctionnalités de création de rapports et outils de dépannage
 
@@ -33,7 +33,7 @@ Il existe des rapports sur la page rapports dans le centre d’administration Mi
   
 En outre, la page rapports du centre d’administration Microsoft 365 contient des rapports de données de messagerie, qui fournissent des informations sur le trafic des messages, les détections de courrier indésirable et les programmes malveillants et les messages affectés par les règles de transport Exchange ou la protection contre la perte de données (DLP). règles. Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une utilisation interactive des rapports aux administrateurs Exchange Online. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
   
-Pour plus d'informations sur les rapports qui sont disponibles avec chaque abonnement Office 365, consultez la rubrique [Rapports](../office-365-platform-service-description/reports.md). Pour plus d’informations sur la page rapports dans le centre d’administration 365 de Microsoft, consultez la rubrique [afficher et télécharger des rapports sur l’utilisation des services dans office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) et [utiliser les rapports de protection du courrier électronique dans Office 365 pour afficher les données sur les programmes malveillants, le courrier indésirable et les détections de règles. ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Pour plus d'informations sur les rapports qui sont disponibles avec chaque abonnement Office 365, consultez la rubrique [Rapports](../office-365-platform-service-description/reports.md). Pour plus d’informations sur la page rapports dans le centre d’administration 365 de Microsoft, consultez la rubrique [afficher et télécharger des rapports sur l’utilisation des services dans office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) et [utiliser les rapports de protection du courrier électronique dans Office 365 pour afficher les données sur les programmes malveillants, le courrier indésirable et les détections de règles](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Rapports utilisant le classeur de rapports Excel
 

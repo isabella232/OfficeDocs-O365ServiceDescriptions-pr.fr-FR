@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724762"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263065"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
@@ -41,7 +41,7 @@ Chaque plan Office 365 géré par 21Vianet inclut un certain nombre de services,
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Service**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F1 géré par 21Vianet**|
-|Plateforme Office 365<sup>1</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Office 365, plateforme<sup>1</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Exchange Online|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |SharePoint Online|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -124,7 +124,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Hébergement de plusieurs sites web publics SharePoint Online avec des noms de domaine personnalisés<sup>5</sup>|Non|Non|Non|Non|Non|Non|Non|
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy|Non|Non|Non|Non|Non|Non|Non|
-|**[État des services](service-health-and-continuity.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F1 géré par 21Vianet**|
+|**[État et continuité du service](service-health-and-continuity.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F1 géré par 21Vianet**|
 |Status information available on the **Service health** or **Service status** page|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |État des alertes individuelles disponible dans le tableau de bord du centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Flux RSS **État du service**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -153,7 +153,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos rapports à l'aide des services web de rapport Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour de service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F1 géré par 21Vianet**|
+|**[Mises à jour du service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F1 géré par 21Vianet**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu’une action est requise, qu’un problème est résolu, que les fonctionnalités sont déployées ou que les modifications apportées à votre service|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|
@@ -191,7 +191,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Administration déléguée|Non|Non|Non|Non|Non|Non|Non|
 |**[Contrat de niveau de service](service-level-agreement.md)**<sup>9</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Droits d'utilisation de logiciels](product-use-rights.md)**<sup>10</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Droits d’utilisation du produit](product-use-rights.md)**<sup>10</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 
 <sup>1</sup> Office 365 et Office 365 géré par 21ViaNet ne prennent pas en charge les systèmes d’exploitation qui ne sont pas pris en charge par son fabricant.<br/>
 <sup>2</sup> dans Office 365 entreprise F1 géré par 21ViaNet, la vidéo Office 365 est limitée à l’affichage uniquement (aucune publication ni aucun partage). <br/>
@@ -460,7 +460,7 @@ Pour plus d’informations sur les limites d’Exchange Online, reportez-vous �
 > - Les limites appliquées à une organisation Microsoft Office 365 peuvent varier selon le temps d'inscription de cette dernière au service. En cas de modification d'une limite dans les centres de données Microsoft, l'application de la modification à tous les clients existants peut prendre un certain temps.
 > - Vous ne pouvez pas modifier la plupart de ces limites, mais vous et vos utilisateurs devez les connaître.
 > - Ces limites s'appliquent aux destinataires internes et externes.
-> - Par défaut, Exchange Online Protection (EOP) protège les boîtes aux lettres Exchange Online. Pour connaître les limites applicables aux fonctionnalités EOP dans Exchange Online, consultez [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - Par défaut, Exchange Online Protection (EOP) protège les boîtes aux lettres Exchange Online. Pour connaître les limites qui s’appliquent aux fonctionnalités EOP dans Exchange Online, consultez la rubrique [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Fonctionnalités d’Exchange Online Protection
 
@@ -791,7 +791,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |Personnes, sites, recommandations de documents|Non|Non|Non|Non|Non|Non|Non|
 |Site personnel |Non|Non|Non|Non|Non|Non|Non|
 |Photos et présence|Non|Non|Non|Non|Non|Non|Non|
-|Profil|Non|Non|Non|Non|Non|Non|Non|
+|Profils|Non|Non|Non|Non|Non|Non|Non|
 |Évaluations|Non|Non|Non|Non|Non|Non|Non|
 |Shared with Me|Non|Non|Non|Non|Non|Non|Non|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Non|Non|Non|Non|Non|Non|Non|
@@ -1136,10 +1136,10 @@ Le tableau suivant répertorie les fonctionnalités de Project Online disponible
 |[Administration, déploiement et extensibilité](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|N °<sup>2</sup>|Oui|Oui|Non|Oui|
 |[Prise en main](../project-online-service-description/core-services-functionality.md#getting-started)|Oui|Oui|Oui|Non|Oui|
 |[Gestion des problèmes et des risques (pour les membres de l'équipe)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|Oui|Oui|Oui|Non|Oui|
-|[Centre de gestion de la confidentialité Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Non|Non|Non|N/A|S/O|
+|[Centre de gestion de la confidentialité Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|Non|Non|Non|N/A|N/A|
 |[Écosystème de partenaires de gestion de portefeuille de projets](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|Oui|Oui|Oui|Non|Oui|
-|[Fiabilité du service](../project-online-service-description/core-services-functionality.md#service-reliability)|Oui|Oui|Oui|N/A|S/O|
-|[Mises à jour du service](../project-online-service-description/core-services-functionality.md#service-updates)|Oui|Oui|Oui|N/A|S/O|
+|[Fiabilité du service](../project-online-service-description/core-services-functionality.md#service-reliability)|Oui|Oui|Oui|N/A|N/A|
+|[Mises à jour du service](../project-online-service-description/core-services-functionality.md#service-updates)|Oui|Oui|Oui|N/A|N/A|
 |[Collaboration des membres de l'équipe](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|Oui|Oui|Oui|Non|Oui|
 |[Gestion des tâches et du temps (pour les membres de l'équipe)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|Oui|Oui|Oui|Non|Oui|
 |**Gestion de projet**|**Project Online Essentials pour Office 365 géré par 21Vianet**|**Project Online Professionnel pour Office 365 géré par 21Vianet**|**Project Online Premium pour Office 365 géré par 21Vianet**|**Project Professionnel 2016 pour Office 365 géré par 21Vianet**|**Project Server 2016 pour Office 365 géré par 21Vianet**|

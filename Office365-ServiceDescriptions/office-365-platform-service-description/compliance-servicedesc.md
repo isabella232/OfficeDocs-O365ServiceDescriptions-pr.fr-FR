@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 est conforme aux réglementations et aux normes du secteur, et est conçu dans l'optique de vous aider à répondre aux exigences réglementaires dans le cadre de vos activités professionnelles. Pour plus d'informations, consultez la rubrique Offres relatives à la conformité.
-ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523459"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262867"
 ---
 # <a name="compliance"></a>Conformité
 
@@ -111,5 +111,5 @@ En outre, prenez en compte les questions suivantes pour PCI-DSS :
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).
   

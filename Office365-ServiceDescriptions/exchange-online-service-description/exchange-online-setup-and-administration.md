@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: "Cet article décrit les contrôles d’administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l’environnement Exchange Online d’une organisation. Elle comprend les informations sur les outils d'administration en libre-service et les fonctionnalités à disposition des organisations : responsabilités et engagements de performances de l'administrateur Microsoft et mises à niveau des services et des produits."
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581980"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262607"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Configuration et administration d’Exchange Online
 
@@ -74,7 +74,7 @@ Exchange Online prend en charge les mêmes stratégies ActiveSync pour les pér
   
 ### <a name="message-tracking-for-exchange-online"></a>Suivi des messages pour Exchange Online
 
-Le suivi des messages au moyen des rapports de remise est décrit dans les rubriques suivantes : [Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md).
+Le suivi des messages via la fonctionnalité de rapports de remise est décrit dans la rubrique suivante : [Reporting features and Troubleshooting tools](reporting-features-and-troubleshooting-tools.md).
   
 ### <a name="usage-reporting-for-exchange-online"></a>Création de rapports d’utilisation pour Exchange Online
 
@@ -92,7 +92,7 @@ Pour plus d'informations sur les cmdlets Windows PowerShell utilisables avec Exc
   
 ### <a name="auditing-for-exchange-online"></a>Audit dans Exchange Online
 
-L'enregistrement d'audit est décrit dans la rubrique : [Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md).
+La fonctionnalité de journalisation d’audit est décrite dans la rubrique suivante : [fonctionnalités de création de rapports et outils de dépannage](reporting-features-and-troubleshooting-tools.md).
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Mises à niveau des produits et services pour Exchange Online
 

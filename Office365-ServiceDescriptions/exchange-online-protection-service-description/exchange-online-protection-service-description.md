@@ -1,5 +1,5 @@
 ---
-title: Description du service de protection Exchange Online
+title: Description du service Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
-ms.openlocfilehash: 92363cebf6478f87f553792d449f0b9b0784fa5b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700226"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260919"
 ---
-# <a name="exchange-online-protection-service-description"></a>Description du service de protection Exchange Online
+# <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
 
 Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
 
@@ -75,7 +75,7 @@ EOP peut être utilisé avec n’importe quel agent de transfert de courrier SMT
 
 ## <a name="limits"></a>Limites
 
-Pour connaître les limites dans EOP, consultez la rubrique [Limites d'Exchange Online Protection](exchange-online-protection-limits.md).
+Pour connaître les limites dans EOP, consultez la rubrique [limites d’Exchange Online Protection](exchange-online-protection-limits.md).
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilité des fonctionnalités pour les différents plans Exchange Online Protection (EOP)
 

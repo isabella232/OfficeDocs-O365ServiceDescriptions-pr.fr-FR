@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous cherchez une comparaison des fonctionnalités incluses dans les abonnements Office 365, y compris Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701361"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262767"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -40,7 +40,7 @@ Les organisations qui souscrivent à Exchange Online conservent leur contrôle s
 Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans Office 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans). Pour comparer les plans pour Office 365 Germany, consultez la page sur les [plans d'abonnement à Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions du service Office 365. Découvrez comment [exporter plusieurs pages](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions de service Office 365. Découvrez comment [exporter plusieurs pages](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="whats-new-in-exchange-online"></a>Nouveautés d'Exchange Online
 
@@ -48,7 +48,7 @@ Pour plus d'informations sur les nouvelles fonctionnalités dans Exchange Online
   
 ## <a name="office-365-plans-for-exchange-online"></a>Plans Office 365 pour Exchange Online
 
-Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d'informations sur les plans, y compris les options de plan autonome, et sur le passage d'un plan à un autre, consultez la rubrique [Options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d’informations sur les différents plans, y compris des options de plan autonomes et des informations sur le passage d’un plan à l’autre, voir [options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
 Un plan d'abonnement doit être attribué à chaque utilisateur qui veut accéder au service Exchange Online, et chaque abonnement d'utilisateur est associé à une boîte aux lettres propre. Les dossiers et messages contenus dans ces boîtes aux lettres résident sur un ordinateur exécutant Exchange Server dans un centre de données Microsoft.
   
@@ -60,7 +60,7 @@ Pour connaître la configuration système requise pour Office 365, le service pa
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Limites de stockage et de destinataires pour Exchange Online
 
-Pour plus d'informations sur les limites de stockage et de destinataires disponibles dans les plans d'abonnement Exchange Online, consultez la rubrique [Limites d'Exchange Online](exchange-online-limits.md).
+Pour plus d’informations sur les limites de stockage et de destinataires disponibles dans les plans d’abonnement Exchange Online, consultez la rubrique [limites d’Exchange Online](exchange-online-limits.md).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilité des fonctionnalités pour les différents plans Office 365
 
@@ -284,7 +284,7 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Messagerie vocale|Oui|Oui|Non|Oui|Non|
 |Interopérabilité de la messagerie vocale tierce|Oui|Oui|Oui|Oui|Oui|
 |Intégration Skype entreprise|Oui|Oui|Oui|Oui|Oui|
-|**[Haute disponibilité et continuité de service](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Haute disponibilité et continuité de l’activité](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Réplication de boîtes aux lettres dans les centres de données|Non|Non|Oui|Oui|Oui|
 |Récupération de boîtes aux lettres supprimées|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'éléments supprimés|Oui|Oui|Oui|Oui|Oui|

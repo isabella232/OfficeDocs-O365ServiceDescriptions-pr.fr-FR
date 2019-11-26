@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI est une suite d’outils d’analyse commerciale basée sur le Cloud qui permet à quiconque de se connecter à des données, de les visualiser et de les analyser avec une rapidité, une efficacité et une compréhension accrues. Ce service connecte les utilisateurs à un large éventail de données actives par le biais de tableaux de bord faciles d'utilisation, fournit des rapports interactifs et propose des affichages attrayants qui donnent vie aux données.
-ms.openlocfilehash: 1190c6af728f3f09c023f59673372a7ddf30adce
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: eca434b58fb379c025a44073fdea23a40a746861
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733991"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263468"
 ---
 # <a name="power-bi-service-description"></a>Description du service Power BI
 

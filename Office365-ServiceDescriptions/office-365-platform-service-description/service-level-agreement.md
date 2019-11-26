@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 9dfa0f5b1e7ade5a957d8acb83dc0658077c5cdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: cd9b8aad786cb23a4b6ad4dfdae64e2be5c28dc7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581360"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262415"
 ---
 # <a name="service-level-agreement"></a>Contrat de niveau de service
 
@@ -35,5 +35,5 @@ Consultez la page relative au [contrat de niveau de service 21Vianet](https://go
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).
   

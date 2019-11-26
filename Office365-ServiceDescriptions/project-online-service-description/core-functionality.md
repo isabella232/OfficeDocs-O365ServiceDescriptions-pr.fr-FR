@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Les fonctionnalités de base suivantes sont disponibles dans Project online.
-ms.openlocfilehash: a9b5667875214409896d7e1bd42c275961c1f84c
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 2e0b026933c9fbe1da8f015251c93833822a8d71
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631566"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263458"
 ---
 # <a name="core-functionality"></a>Fonctionnalités principales
 
 Les fonctionnalités de base suivantes sont disponibles dans Project online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la rubrique [Description du service Project Online](project-online-service-description.md).
   
 ## <a name="add-columns"></a>Ajouter des colonnes
 

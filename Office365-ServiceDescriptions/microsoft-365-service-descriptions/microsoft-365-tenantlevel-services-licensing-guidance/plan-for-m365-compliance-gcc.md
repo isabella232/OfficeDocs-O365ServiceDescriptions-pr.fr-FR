@@ -1,5 +1,5 @@
 ---
-title: Planifier la conformité de Microsoft 365-GCC
+title: Plan de conformité de Microsoft 365 – GCC
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans les entités américaines Federal, State, local, tribal ou territoriale territoriale ou d’autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 le gouvernement-GCC est approprié pour répondre à ces exigences.
-ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319492"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262817"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité de Microsoft 365 (GCC)
 
@@ -69,20 +69,25 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protection des informations & gouvernance** | Archivage                                       | Available              |
 |                                         | Étiquettes et stratégies manuelles<sup>2</sup>          | Available              |
-|                                         | Application automatique d’étiquettes                      | Dans le backlog d’ingénierie |
+|                                         | Application automatique d’étiquettes                      | Available              |
 |                                         | Étiquettes basées sur des types de données sensibles            | Dans le backlog d’ingénierie |
-|                                         | Étiquettes et stratégies associées basées sur les requêtes | Dans le backlog d’ingénierie |
-|                                         | Plan de gestion de fichiers                                       | Dans le backlog d’ingénierie |
+|                                         | Étiquettes et stratégies associées basées sur les requêtes | Available              |
+|                                         | Plan de gestion de fichiers                                       | Available              |
 |                                         | Stratégies recommandées                            | Dans le backlog d’ingénierie |
 |                                         | Filtres d’importation actifs                            | Dans le backlog d’ingénierie |
-|                                         | Rétention basée sur des événements                           | Dans le backlog d’ingénierie |
-|                                         | Révision de la disposition                              | Dans le backlog d’ingénierie |
+|                                         | Rétention basée sur des événements                           | Available              |
+|                                         | Révision de la disposition                              | Available              |
 |                                         | Obstacles aux informations                            | Available              |
 |                                         | Protection contre la perte de données (DLP) pour les fichiers et le courrier électronique  | Available              |
 |                                         | DLP pour les conversations de conversation et de canal    | Dans le backlog d’ingénierie |
+|                                         | Correspondance exacte des données DLP                            | Dans le backlog d’ingénierie |
+|                                         | Explorateur d’activité des étiquettes                         | Dans le backlog d’ingénierie |
+|                                         | Classifieurs de formation                           | Dans le backlog d’ingénierie |
+|                                         | Étiquettes de confidentialité et d’étiquetage unifiées         | Dans le backlog d’ingénierie |
 | **Gestion des risques initiés**             | Chiffrement de messages avancé                     | Available              |
+|                                         | Gestion des risques initiés                         | Dans le backlog d’ingénierie |
 |                                         | Conformité des communications                        | Dans le backlog d’ingénierie |
-|                                         | Référentiel sécurisé client                                | Available              |
+|                                         | Référentiel sécurisé de client                                | Available              |
 |                                         | Clé client                                    | Available              |
 |                                         | Gestion des accès privilégiés                    | Dans le backlog d’ingénierie |
 | **Découvrir & répondre**                  | Réservation sur place                            | Available              |

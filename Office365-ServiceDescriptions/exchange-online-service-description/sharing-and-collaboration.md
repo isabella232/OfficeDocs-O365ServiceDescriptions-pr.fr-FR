@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582010"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262717"
 ---
 # <a name="sharing-and-collaboration"></a>Partage et collaboration
 
 ## <a name="federated-sharing"></a>Partage fédéré
 
-La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, une méthode permettant aux utilisateurs de Microsoft Exchange Online de partager des données de calendrier de disponibilité et des informations de contact avec des destinataires d’autres organisations fédérées externes ou avec utilisateurs disposant d’un accès à Internet. Cela comprend les organisations également hébergées par Exchange Online ou par des organisations externes Microsoft Exchange Server 2010 ou Exchange Server 2013. À l’aide des relations d’organisation et des stratégies de partage, les administrateurs Exchange Online peuvent permettre aux utilisateurs d’envoyer des invitations de partage de calendrier à partir de Microsoft Outlook sur le Web ou Microsoft Outlook 2010 ou une version ultérieure.
+La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, une méthode permettant aux utilisateurs de Microsoft Exchange Online de partager des données de calendrier de disponibilité et des informations de contact avec des destinataires d’autres organisations fédérées externes ou avec des utilisateurs disposant d’un accès à Internet. Cela comprend les organisations également hébergées par Exchange Online ou par des organisations externes Microsoft Exchange Server 2010 ou Exchange Server 2013. À l’aide des relations d’organisation et des stratégies de partage, les administrateurs Exchange Online peuvent permettre aux utilisateurs d’envoyer des invitations de partage de calendrier à partir de Microsoft Outlook sur le Web ou Microsoft Outlook 2010 ou une version ultérieure.
   
 > [!IMPORTANT]
 >  Les organisations externes Exchange 2010 et Exchange 2013 doivent configurer une approbation de fédération avec la Microsoft Federation Gateway dans la configuration du partage fédéré. Les organisations Exchange Online ne doivent pas configurer une approbation de fédération : l'approbation de fédération avec Microsoft Federation Gateway est automatiquement créée lors de la création du client Office 365. 
@@ -46,7 +46,7 @@ Pour plus d'informations sur les boîtes aux lettres de site, consultez la rubri
   
 ## <a name="public-folders"></a>Dossiers publics
 
-Les dossiers publics Exchange Online ont été améliorés afin de bénéficier des technologies de haute disponibilité et de stockage existantes de la base de données de boîtes aux lettres. L'architecture de dossiers publics utilise des boîtes aux lettres spécialement conçues pour stocker à la fois la hiérarchie et les contenus des dossiers publics. Ceci signifie qu'il n'existe plus de base de données indépendante de dossiers publics. La réplication des dossiers publics utilise désormais le modèle de réplication continue. C'est le groupe de disponibilité de base de données (DAG) qui fournit la haute disponibilité en termes de hiérarchie et de contenu des boîtes aux lettres dans le centre de données. Dans Exchange Online, vous êtes limité à 1000 boîtes aux lettres de dossiers publics. Chaque boîte aux lettres de dossiers publics est également limitée par une taille maximale de stockage. Pour plus d'informations, consultez la section relative aux limites s'appliquant aux dossiers de boîte aux lettres dans la rubrique [Limites d'Exchange Online](exchange-online-limits.md). Les boîtes aux lettres de dossiers publics présentent les mêmes limites d'alerte de messages, de destinataires et de capacité que les boîtes aux lettres ordinaires. Pour plus d'informations, consultez la rubrique [Destinataires](recipients.md). 
+Les dossiers publics Exchange Online ont été améliorés afin de bénéficier des technologies de haute disponibilité et de stockage existantes de la base de données de boîtes aux lettres. L'architecture de dossiers publics utilise des boîtes aux lettres spécialement conçues pour stocker à la fois la hiérarchie et les contenus des dossiers publics. Ceci signifie qu'il n'existe plus de base de données indépendante de dossiers publics. La réplication des dossiers publics utilise désormais le modèle de réplication continue. C'est le groupe de disponibilité de base de données (DAG) qui fournit la haute disponibilité en termes de hiérarchie et de contenu des boîtes aux lettres dans le centre de données. Dans Exchange Online, vous êtes limité à 1000 boîtes aux lettres de dossiers publics. Chaque boîte aux lettres de dossiers publics est également limitée par une taille maximale de stockage. Pour plus d’informations, consultez la section « limites des dossiers de boîte aux lettres » dans [limites d’Exchange Online](exchange-online-limits.md). Les boîtes aux lettres de dossiers publics présentent les mêmes limites d'alerte de messages, de destinataires et de capacité que les boîtes aux lettres ordinaires. Pour plus d'informations, consultez la rubrique [Destinataires](recipients.md). 
   
 Pour plus d'informations sur les dossiers publics, consultez la rubrique [Dossiers publics](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

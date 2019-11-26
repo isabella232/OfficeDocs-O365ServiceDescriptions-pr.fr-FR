@@ -1,5 +1,5 @@
 ---
-title: Description du service Microsoft Dynamics 365 (en ligne)
+title: Description du service Microsoft Dynamics 365 (en ligne)
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: À compter de la mise à jour de décembre 2016 pour Dynamics 365 (en ligne et en local), la fonctionnalité Dynamics CRM est incluse dans le cadre de Dynamics 365, suite d’applications métiers intelligentes. Dynamics 365 unifie les fonctionnalités de gestion des relations client (CRM) et de planification des ressources d’entreprise (ERP) en proposant de nouvelles applications pour faciliter la gestion des fonctions professionnelles spécifiques.
-ms.openlocfilehash: ae234baf353258f6d2158c2636a8139133a812ee
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 35a1dbe7eef9fed64ad1738d84687a39ca45bef9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734182"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262807"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Description du service Microsoft Dynamics 365 (en ligne)
+# <a name="microsoft-dynamics-365-online-service-description"></a>Description du service Microsoft Dynamics 365 (en ligne)
 
 À compter de la mise à jour de décembre 2016 pour Dynamics 365 (en ligne et en local), la fonctionnalité Dynamics CRM est incluse dans le cadre de Dynamics 365, suite d’applications métiers intelligentes. Dynamics 365 unifie les fonctionnalités de gestion des relations client (CRM) et de planification des ressources d’entreprise (ERP) en proposant de nouvelles applications pour faciliter la gestion des fonctions professionnelles spécifiques.
   
@@ -84,7 +84,7 @@ Vous trouverez ci-dessous un résumé de haut niveau des droits d’utilisation 
 |**Portail uniquement : soumission d'incidents en libre-service et initiations de chat en tant qu'utilisateur pris en charge (pas agent)** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |
 |**Portail uniquement, non employé uniquement : mise à jour des ordres de travail, création et mise à jour des opportunités** <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup> <br/> |Full<sup>3</sup>`  <br/> |
 |**Graphiques, tableaux de bord et rapports utilisateurs** <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
-|**Configuration des rapports système, graphiques système, tableaux de bord système** <br/> |Aucun  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |
+|**Configuration des rapports système, graphiques système, tableaux de bord système** <br/> |Aucune  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |
 |**Prospects, opportunités, objectifs, contrats, devis, commandes, factures, concurrents** <br/> |Lecture seule  <br/> |Complet  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |
 |**Campagnes de vente, campagnes rapides, listes de marketing, listes de prix, listes de produits** <br/> |Lecture seule  <br/> |Complet  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |
 |**Unified Service Desk** <br/> |Lecture seule  <br/> |Complet  <br/> |Complet  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |
@@ -92,7 +92,7 @@ Vous trouverez ci-dessous un résumé de haut niveau des droits d’utilisation 
 |**Ordres de travail, planification et expédition avec carte de calendrier, contrats de service, factures et bons de commande du service après-vente, ressources du client, stock, réparations et retours** <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |Lecture seule  <br/> |Complet  <br/> |
 |**Projet, dépenses et estimations de projet, affichage de la disponibilité des ressources et gestion de la planification, grilles tarifaires/contrats/factures de projet, approbation des transactions de projet, Microsoft Project Online Premium** <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Lecture seule  <br/> |Complet  <br/> |Complet  <br/> |
 |**PowerApps** <br/> |Lecture seule<sup>4</sup> <br/> |Lecture seule<sup>4</sup> <br/> |Lecture seule<sup>4</sup> <br/> |Lecture seule<sup>4</sup> <br/> |Lecture seule<sup>4</sup> <br/> |Complet  <br/> |
-|**Engagement social Microsoft, voix du client, mode hors connexion mobile, joueur ludification Player et administrateur** <br/> |Aucun  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
+|**Engagement social Microsoft, voix du client, mode hors connexion mobile, joueur ludification Player et administrateur** <br/> |Aucune  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |Complet  <br/> |
 |**Création de flux de travail, importation de données en vrac et personnalisation d'entités incluses dans l'application** <br/> |Aucun  <br/> |Lecture seule<sup>4</sup> <br/> |Lecture seule<sup>4</sup> <br/> |Lecture seule<sup>4</sup> <br/> |Lecture seule<sup>4</sup> <br/> |Complet  <br/> |
    
  **Complet** = droits d'accès complets 

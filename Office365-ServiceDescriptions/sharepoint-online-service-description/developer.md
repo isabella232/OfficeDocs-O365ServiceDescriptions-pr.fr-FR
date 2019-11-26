@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. Basé sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour travailler sur des projets, stocker des données et des documents à un emplacement central et partager des informations avec d'autres utilisateurs. Les fonctionnalités suivantes assistent les développeurs qui souhaitent concevoir des applications et des solutions destinées à étendre les fonctionnalités de SharePoint.
-ms.openlocfilehash: 52b1b15dd098b6dd40a531cb5b462a7fff8b69f7
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 56ea1e5a083c4dd35eab8da537b77e802551ce32
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726251"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263115"
 ---
 # <a name="developer"></a>Développeur
 

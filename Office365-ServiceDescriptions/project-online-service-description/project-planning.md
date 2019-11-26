@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Les fonctionnalités de planification de projet suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 3db03307450ef29a6bddc055cea8df845b648f87
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631583"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263408"
 ---
 # <a name="project-planning"></a>La planification de projet
 
 Les fonctionnalités de planification de projet suivantes sont disponibles dans Project online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la rubrique [Description du service Project Online](project-online-service-description.md).
   
 ## <a name="baseline-rollup"></a>Cumul de la ligne de base
 

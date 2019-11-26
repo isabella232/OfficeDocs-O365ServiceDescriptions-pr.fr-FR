@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online est un ensemble d’outils et de technologies Web qui permettent à votre organisation de stocker, de partager et de gérer des informations numériques. S'appuyant sur Microsoft SharePoint Server 2013, ce service hébergé est idéal pour développer des projets, stocker des données et des documents en un même lieu, et partager des informations avec des tiers. Les fonctionnalités de contenu suivantes rendent Enterprise Content Management (ECM) accessible à tous les types d'utilisateurs. Ce système combine une solution de gestion de contenu standard, des fonctionnalités sociales et un puissant outil de recherche.
-ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 22a23195b82ac696ae5afedf9a35a17971eeeb81
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733955"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263348"
 ---
 # <a name="content"></a>Contenu
 

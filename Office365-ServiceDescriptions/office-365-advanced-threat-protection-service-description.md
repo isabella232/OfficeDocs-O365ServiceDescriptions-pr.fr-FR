@@ -1,5 +1,5 @@
 ---
-title: Description du service Office 365 - Protection avancée contre les menaces
+title: Description du service de protection avancée contre les menaces Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734172"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262797"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
+# <a name="office-365-advanced-threat-protection-service-description"></a>Description du service de protection avancée contre les menaces Office 365
 
 Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
 
@@ -27,9 +27,9 @@ Les principales façons d’utiliser la protection avancée contre les menaces p
 
 - Dans un scénario Office 365 ATP à filtrage uniquement, l’ATP fournit une protection de messagerie en nuage pour votre environnement Exchange Server local ou toute autre solution de messagerie SMTP locale.
 
-- Office 365 - Protection avancée contre les menaces peut être activé pour protéger les boîtes aux lettres Exchange Online hébergées dans le cloud. Pour en savoir plus sur Exchange Online, reportez-vous à l'article [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
+- Office 365 - Protection avancée contre les menaces peut être activé pour protéger les boîtes aux lettres Exchange Online hébergées dans le cloud. Pour en savoir plus sur Exchange Online, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
 
-- Dans un déploiement hybride, le service peut être configuré pour protéger votre environnement de messagerie et contrôler le routage de messagerie lorsque vous disposez à la fois de boîtes aux lettres locales et de boîtes aux lettres dans le cloud avec Exchange Online Protection pour le filtrage des messages entrants.
+- Dans un déploiement hybride, le service peut être configuré pour protéger votre environnement de messagerie et contrôler le routage de messagerie lorsque vous disposez à la fois de boîtes aux lettres locales et de boîtes aux lettres dans le cloud avec Exchange Online Protection pour le filtrage des messages entrants.
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilité d’Office 365 - Protection avancée contre les menaces
 
@@ -51,7 +51,7 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
 
 - Office 365 Entreprise E1
 
-- Office 365 Entreprise E3
+- Office 365 Entreprise E3
 
 - Office 365 Entreprise F1
 
@@ -131,7 +131,7 @@ La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsof
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
-Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et des](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
+Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) des informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation de l’activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
 
 ### <a name="threat-trackers"></a>Suivi des menaces
 

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581430"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262687"
 ---
 # <a name="voice-message-services"></a>Services de messagerie vocale
 
@@ -76,7 +76,7 @@ Interopérabilité avec messagerie vocale tierce
   
 ## <a name="skype-for-business-integration"></a>Intégration Skype Entreprise
 
-Les organisations peuvent acheter Skype Entreprise Online en tant que service autonome ou composant de Microsoft Office 365. Pour plus d'informations sur Skype Entreprise Online, consultez la rubrique [Description du service Skype Entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Les organisations peuvent acheter Skype Entreprise Online en tant que service autonome ou composant de Microsoft Office 365. Skype entreprise 2015 en local est également pris en charge. Pour en savoir plus sur Skype entreprise Online, reportez-vous à la rubrique [Description du service Skype entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

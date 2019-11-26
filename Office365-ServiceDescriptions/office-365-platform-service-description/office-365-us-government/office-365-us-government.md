@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 5676680e5285b7b825388e8140480a07bef047b6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724632"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262525"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -245,7 +245,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Système d'exploitation utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
+|**[Mises à jour du service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |
@@ -284,7 +284,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié  <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |
 |Administration déléguée  <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |N °<sup>11</sup> <br/> |
 |**[Contrat de niveau de service](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Droits d'utilisation de logiciels](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|**[Droits d’utilisation des produits](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
    
 > <sup>1</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure information protection nécessitent un abonnement à Office 365 ProPlus, qui n’est pas inclus dans Office 365 gouvernement G1 ou Office 365 Government F1. > 
 <br/><sup>2</sup> les clients BBCS et bis existants peuvent continuer à utiliser le service. Les nouveaux clients ne sont pas acceptés. 

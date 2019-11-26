@@ -1,5 +1,5 @@
 ---
-title: Limites de Skype Entreprise Online
+title: Limites de Skype entreprise Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Les limites de Skype entreprise Online appartiennent aux catégories suivantes.
-ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726063"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263278"
 ---
-# <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
+# <a name="skype-for-business-online-limits"></a>Limites de Skype entreprise Online
 
 Les limites de Skype entreprise Online appartiennent aux catégories suivantes :
   

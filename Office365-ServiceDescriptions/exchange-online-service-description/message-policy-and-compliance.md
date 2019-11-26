@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581960"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262577"
 ---
 # <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
@@ -40,7 +40,7 @@ Pour plus d'informations, voir les pages suivantes :
     
 ### <a name="archive-sizes"></a>Tailles de l'archive
 
-Il n'est possible de stocker les données de messagerie que d'un seul utilisateur dans chaque archive personnelle. L'allocation de l'espace de stockage dépend du plan d'abonnement. Pour plus d'informations sur les tailles de boîtes aux lettres d'archivage, consultez la section « Limites de stockage des boîtes aux lettres » dans la rubrique [Limites d'Exchange Online](exchange-online-limits.md).
+Il n'est possible de stocker les données de messagerie que d'un seul utilisateur dans chaque archive personnelle. L'allocation de l'espace de stockage dépend du plan d'abonnement. Pour plus d’informations sur la taille des boîtes aux lettres d’archivage, consultez la section « limites de stockage des boîtes aux lettres » dans [limites d’Exchange Online](exchange-online-limits.md).
   
 > [!IMPORTANT]
 > - L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages dans une boîte aux lettres Exchange Online à des fins d'archivage n'est pas autorisée. Microsoft se réserve le droit de refuser l'archivage illimité dans les cas où une archive de boîte aux lettres n'est pas utilisée dans un scénario personnel. 

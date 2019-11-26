@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633499"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263045"
 ---
 # <a name="office-365-plan-options"></a>Options de plan Office 365
 
@@ -126,4 +126,4 @@ Les services en ligne suivants sont disponibles séparément, en tant que plans 
    
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).

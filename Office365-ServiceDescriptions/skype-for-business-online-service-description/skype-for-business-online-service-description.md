@@ -1,5 +1,5 @@
 ---
-title: Description du service Skype Entreprise Online
+title: Description du service Skype entreprise Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Voulez-vous savoir quelles licences vous devez acheter pour obtenir certaines fonctionnalités de Skype Entreprise ? Consultez la rubrique vue d’ensemble des licences Skype entreprise.
-ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733745"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263268"
 ---
-# <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
+# <a name="skype-for-business-online-service-description"></a>Description du service Skype entreprise Online
 
 > [!NOTE]
 > Microsoft teams est à présent le client principal pour la messagerie, les réunions et les appels dans Office 365. Les nouveaux clients Office 365 avec 500 postes ou moins seront intégrés à Microsoft teams et n’auront pas accès à Skype entreprise online. Les clients qui utilisent déjà Skype entreprise Online pourront continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu’à ce qu’ils aient terminé leur transition vers Microsoft Teams.
@@ -40,13 +40,13 @@ Skype Entrepriseest hébergé sur des serveurs mutualisés qui prennent en charg
 Pour plus d'informations sur les nouvelles fonctionnalités de Skype Entreprise Online, consultez la rubrique [Découvrir Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=529224), ainsi que la rubrique relative aux [nouveautés de Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=846973).
   
 > [!TIP]
-> Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions du service Office 365. Découvrez comment [exporter plusieurs pages](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions de service Office 365. Découvrez comment [exporter plusieurs pages](https://go.microsoft.com/fwlink/?LinkId=403349). 
   
 ## <a name="compare-skype-for-business-online-features-across-office-365-plans"></a>Comparaison des fonctionnalités de Skype Entreprise Online selon les plans Office 365
 
 Nous vous recommandons d'utiliser notre page comparative pour choisir facilement votre version de Skype Entreprise Online. Consultez la page [Comparer les offres Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=798291). Si vous souhaitez une comparaison plus approfondie, consultez les tableaux de fonctionnalité ci-dessous. Si vous avez besoin d'aide supplémentaire, appelez le [support technique](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support). Vous pouvez sélectionner vos paramètres régionaux à partir de la liste déroulante pour obtenir un numéro local.
   
-Pour afficher l'ensemble des plans Office 365, consultez la page [Comparez toutes les offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Pour obtenir une comparaison plus détaillée, consultez la rubrique [Options de plan Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
+Pour afficher l'ensemble des plans Office 365, consultez la page [Comparez toutes les offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Pour une comparaison plus détaillée, consultez la rubrique [options de plan Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
   
  Pour comparer les fonctionnalités individuelles entre les clients Skype Entreprise de bureau et web, consultez la rubrique [Tableau de comparaison des clients pour Skype Entreprise Server 2015](https://go.microsoft.com/fwlink/?linkid=829754). Pour une comparaison détaillée des clients Skype Entreprise mobiles, consultez la rubrique [Tableau de comparaison des clients mobiles](https://go.microsoft.com/fwlink/?linkid=846932).
   

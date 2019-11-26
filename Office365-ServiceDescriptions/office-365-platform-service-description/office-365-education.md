@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de communication et de collaboration de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise&mdash;Online pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724642"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263035"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -23,7 +23,7 @@ Microsoft Office 365 est disponible dans différents plans pour satisfaire au m
   
 Cet article répertorie les fonctionnalités des plans Office 365 éducation (a1, a3 et a5). Pour comparer les fonctionnalités des différents plans commerciaux et d’entreprise, reportez-vous à la rubrique [compare Office 365 for business plans](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée à la rubrique [Office 365 service descriptions](../office-365-service-descriptions-technet-library.md).
   
-Pour rechercher des articles et des informations d'aide, consultez [Aide et formation sur Office](https://support.office.com/).
+Pour rechercher des articles et des informations de support technique, consultez la rubrique [formation sur Office Help &amp; ](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilité des services pour chaque plan
 
@@ -141,7 +141,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -472,7 +472,7 @@ Les limites dans Microsoft Exchange Online peuvent être classées dans l'une de
 >  - Les limites appliquées à une organisation Microsoft Office 365 peuvent varier selon le temps d'inscription de cette dernière au service. En cas de modification d’une limite dans les centres de données Microsoft, l’application de la modification à tous les clients existants peut prendre un certain temps. 
 >  - Vous ne pouvez pas modifier la plupart de ces limites, mais vous et vos utilisateurs devez les connaître. 
 > - Ces limites s'appliquent aux destinataires internes et externes. 
-> - Par défaut, Exchange Online Protection (EOP) protège les boîtes aux lettres Exchange Online. Pour connaître les limites applicables aux fonctionnalités EOP dans Exchange Online, consultez [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - Par défaut, Exchange Online Protection (EOP) protège les boîtes aux lettres Exchange Online. Pour connaître les limites qui s’appliquent aux fonctionnalités EOP dans Exchange Online, consultez la rubrique [Exchange Online Protection Limits](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
 >  - Pour plus d’informations sur les limites de groupe Office 365, voir « comment gérer mes groupes ? » dans [En savoir plus sur les groupes Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Limites du carnet d’adresses
@@ -671,7 +671,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
    
 #### <a name="reporting-and-message-trace-limits"></a>Limites de création de rapports et de suivi de messages
 
-Pour connaître les limites de création de rapports et de suivi de messages, voir la section relative à la latence et à la disponibilité des données en matière de création de rapports et de suivi des messages dans [Création de rapports et suivi des messages dans Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
+Pour plus d’informations sur les rapports et les limites de suivi des messages, consultez la section « disponibilité et latence des données de suivi des rapports et des messages » dans [Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
   
 #### <a name="retention-limits"></a>Limites de rétention
 
@@ -709,7 +709,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Nombre maximal de membres d’un groupe de distribution<sup>1</sup> <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |
 |Limite d’envoi de messages à de grands groupes de distribution  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |
 |Taille maximale de message pour les grands groupes de distribution  <br/> |2 Mo  <br/> |2 Mo  <br/> |2 Mo  <br/> |
-|Nombre maximal de propriétaires de groupe de distribution  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|Nombre maximal de propriétaires de groupe de distribution  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Nombre maximal de groupes qu’un utilisateur peut créer  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -1047,7 +1047,7 @@ Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaq
 |Personnes, sites, recommandations de documents <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Site personnel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Photos et présence <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Profil <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Profils <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Évaluations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Partagés avec moi <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

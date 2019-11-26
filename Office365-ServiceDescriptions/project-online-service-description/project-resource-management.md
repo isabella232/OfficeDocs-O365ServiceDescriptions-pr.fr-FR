@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project online.
-ms.openlocfilehash: f1d7dd59dd9456172929dbad512161abbdc688ce
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631593"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263388"
 ---
 # <a name="project-resource-management"></a>Gestion des ressources du projet
 
 Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la rubrique [Description du service Project Online](project-online-service-description.md).
   
 ## <a name="cost-resources"></a>Ressources de coûts
 
@@ -55,6 +55,6 @@ Ajoutez des ressources à votre projet, y compris des ressources de travail tell
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Project for Office 365 Service Description](project-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
   
 

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) offre plusieurs moyens de gérer les informations concernant les destinataires, les domaines et les entreprises. En tant qu’administrateur, vous pouvez effectuer certaines tâches de gestion dans le centre d’administration Exchange et vérifier les autres tâches de gestion effectuées dans le centre d’administration 365 de Microsoft.
-ms.openlocfilehash: 84be0148636b4e345f59158af0a767e9cd2396c7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1183a90754edc2bab698fb4d8d8b97acff90370c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581840"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262637"
 ---
 # <a name="recipient-domain-and-company-management"></a>Gestion des destinataires, des domaines et des sociétés
 
 Microsoft Exchange Online Protection (EOP) offre plusieurs moyens de gérer les informations concernant les destinataires, les domaines et les entreprises. En tant qu’administrateur, vous pouvez effectuer certaines tâches de gestion dans le centre d’administration Exchange et vérifier les autres tâches de gestion effectuées dans le centre d’administration 365 de Microsoft.
   
-Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service Exchange Online Protection](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>Mail recipients
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568117"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262545"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
@@ -23,9 +23,9 @@ Pour satisfaire les exigences uniques et en constante évolution du département
   
 Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Pour plus d’informations sur l’achat, consultez [la rubrique Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
-## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description de service
+## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description du service
 
-La description de service Office 365 pour le gouvernement américain est conçue pour s'ajouter à la description de service générale Office 365. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
+La description du service Office 365 pour le gouvernement américain est conçue pour servir de superposition à la description de service générale d’Office 365. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
   
 ## <a name="compliance"></a>Conformité
 
@@ -43,7 +43,7 @@ Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’envir
   
 |||
 |:-----|:-----|
-|**Vérifications de personnel et de vérification de l’arrière-plan de Microsoft** <sup>1</sup> <br/> |**Description** <br/> |
+|**Recherche de personnel et vérifications d’arrière-plan de Microsoft**<sup>1</sup> <br/> |**Description** <br/> |
 |Informations d'identification personnelle Citoyenneté  <br/> |Vérification de la citoyenneté américaine  <br/> |
 |Vérification de l'expérience professionnelle  <br/> |Vérification de l'expérience professionnelle sur sept (7) ans  <br/> |
 |Vérification de la formation professionnelle  <br/> |Vérification du plus haut diplôme obtenu  <br/> |
@@ -80,7 +80,7 @@ Les clients qui utilisent SharePoint Online et OneDrive entreprise dans les envi
 
 Lors du partage avec des personnes spécifiques, SharePoint vérifie que les utilisateurs sont les destinataires d’un lien en leur envoyant un code secret à usage unique à l’adresse de messagerie qui était partagée avec. Toutefois, lorsqu’un client GCC-High partage avec un autre client GCC-High, un compte invité est créé pour le destinataire dans Azure AD et il se connecte avec son nom d’utilisateur et son mot de passe.
   
-Autres exemples:
+Autres exemples :
   
 - GCC High client A peut partager avec GCC High client B, et B se connecter à l’aide d’un nom d’utilisateur et d’un mot de passe Azure AD.
     
@@ -96,7 +96,7 @@ En outre, les adresses de messagerie électronique non GCC associées aux profil
   
  **Solutions bac à sable (sandbox)**: cette fonctionnalité a été déconseillée et n'est pas disponible. Toutes les solutions en bac à sable doivent être migrées vers le [modèle d’extensibilité des compléments SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
-### <a name="skype-for-business-online"></a>Skype Entreprise Online
+### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
   
@@ -110,6 +110,6 @@ Yammer Enterprise n’est pas disponible dans les environnements GCC High et DoD
   
 ## <a name="customer-support"></a>Service client
 
-Microsoft vous rappelle de ne pas partager d’informations contrôlées, sensibles ou confidentielles avec le personnel du support technique dans le cadre de votre incident de support technique lors de l’utilisation d’Office 365 GCC High/DOD, au moins jusqu’à ce que vous confirmiez l’autorisation de l’agent de support technique à afficher ou accéder à ces données.
+Microsoft vous rappelle de ne pas partager d’informations contrôlées, sensibles ou confidentielles avec le personnel du support technique dans le cadre de votre incident de support technique lors de l’utilisation d’Office 365 GCC High/DOD, au moins jusqu’à ce que vous confirmiez l’autorisation de l’agent de support technique à consulter ou accéder à ces données.
 
 Microsoft s’engage à protéger votre [confidentialité](https://privacy.microsoft.com/privacystatement)). Toutefois, la prise en charge du service GCC High/DoD de Office 365 n’est pas incluse dans la limite d’accréditation de service et ne fournit pas de services de conformité FedRAMP, DOD SRG, ITAR, IRS 1075 ou CJIS.

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
-ms.openlocfilehash: c457dbbc77afa6539b01fb457ed42d554c575533
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633563"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263378"
 ---
 # <a name="task-management"></a>Gestion des tâches
 
 Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la rubrique [Description du service Project Online](project-online-service-description.md).
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 

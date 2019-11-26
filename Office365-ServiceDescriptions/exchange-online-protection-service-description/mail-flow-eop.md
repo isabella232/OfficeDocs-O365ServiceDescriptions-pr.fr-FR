@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Pour la plupart des organisations qui utilisent Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres en local. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement des messages antivirus et anti-courrier indésirable dans le Cloud.
-ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581850"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260939"
 ---
 # <a name="mail-floweop"></a>Flux de messagerie [EOP]
 
 Pour la plupart des organisations qui utilisent Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres en local. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement des messages antivirus et anti-courrier indésirable dans le Cloud. Pour plus d’informations et pour acheter EOP, accédez à [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-Vous recherchez des informations sur la gestion de domaines ou le blocage du périmètre basé sur l'annuaire (DBEB) ? Consultez la rubrique [gestion des destinataires, des domaines et des sociétés](recipient-domain-and-company-management.md). Pour en savoir plus sur toutes les fonctionnalités EOP, consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
+Vous recherchez des informations sur la gestion de domaines ou le blocage du périmètre basé sur l'annuaire (DBEB) ? Consultez la rubrique [gestion des destinataires, des domaines et des sociétés](recipient-domain-and-company-management.md). Pour en savoir plus sur toutes les fonctionnalités EOP, consultez la rubrique [Description du service Exchange Online Protection](exchange-online-protection-service-description.md).
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Routage des courriers électroniques entre vos serveurs de messagerie et Office 365
 

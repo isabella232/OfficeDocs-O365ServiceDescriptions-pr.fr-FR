@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581870"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262647"
 ---
 # <a name="messaging-policy-and-compliance"></a>Stratégie et conformité de messagerie
 
 Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
 
-Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service Exchange Online Protection](exchange-online-protection-service-description.md).
 
 ## <a name="mail-flow-rules"></a>Règles de flux de messagerie
 

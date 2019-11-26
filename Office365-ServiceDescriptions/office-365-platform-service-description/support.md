@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d'informations, consultez Options d'assistance Office 365.
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582190"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262215"
 ---
 # <a name="support"></a>Support
 
@@ -31,7 +31,7 @@ La portée de l'assistance de l'équipe de support technique Office 365 se limit
   
 ## <a name="community-and-self-service-support-options"></a>Communauté et options d’assistance en libre service
 
-L'assistance en libre service est disponible pour tous les plans Office 365, et inclut des vidéos et des outils de dépannage, des vidéos et des articles d'aide ainsi que des forums et des wikis dans la [Communauté d'Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Pour plus d'informations sur les ressources d'assistance en libre service, consultez la description du service [Aide et formation](help-and-training.md).
+L'assistance en libre service est disponible pour tous les plans Office 365, et inclut des vidéos et des outils de dépannage, des vidéos et des articles d'aide ainsi que des forums et des wikis dans la [Communauté d'Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Pour plus d’informations sur les ressources d’assistance en libre service, voir la description du service [d’aide et de formation](help-and-training.md) .
   
 ## <a name="pre-sales-support"></a>Assistance avant-vente
 
@@ -201,4 +201,4 @@ Si vous avez déjà acheté des licences auprès de Microsoft dans le cadre d'un
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).

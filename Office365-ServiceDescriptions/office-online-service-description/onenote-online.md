@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilisez OneNote pour le Web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe où et partager facilement avec d’autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 6dac216c117175f3f2842476a0aaebf2e99461c7
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631623"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263508"
 ---
 # <a name="onenote-for-the-web"></a>OneNote pour le web
 
@@ -122,7 +122,7 @@ Avec OneNote pour le Web, vous pouvez modifier l’alignement des paragraphes, a
 
 Avec OneNote pour le Web, vous pouvez insérer une image à partir d’un fichier ou d’images Bing. Vous pouvez également redimensionner les images et ajouter un nouveau texte. Pour des fonctionnalités d'image plus avancées, comme des captures d'écran, des images numérisées ou des images en ligne, vous devrez utiliser l'application OneNote de bureau. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Imprimer
 
 Vous pouvez imprimer des notes dans OneNote pour le Web.
   
@@ -154,7 +154,7 @@ Avec OneNote pour le Web, vous pouvez désactiver les balises d’auteur qui app
 
 Avec OneNote pour le Web, vous pouvez facilement appliquer des styles de texte pour une mise en forme rapide. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="tables"></a>Tableaux
+## <a name="tables"></a>Tables
 
 Avec OneNote pour le Web, vous pouvez insérer un tableau, modifier le texte du tableau et facilement modifier la structure d’un tableau de base, par exemple en ajoutant ou en supprimant des lignes et des colonnes. Pour des fonctions de tableau plus avancées, comme la conversion d'un tableau en feuille de calcul Excel ou l'ombrage de cellule, les lignes d'en-tête et le tri de données dans les cellules d'un tableau, vous devrez utiliser l'application OneNote de bureau. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   

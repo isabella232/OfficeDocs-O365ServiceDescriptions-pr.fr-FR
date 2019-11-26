@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice est un service de complément qui vous permet d’utiliser Microsoft teams pour les appels téléphoniques. Cela combine le système téléphonique, le plan d’appels nationaux, l’audioconférence et l’audioconférence.
-ms.openlocfilehash: a2d8c50e83a19b6c8b5602b55fa7feb10039364c
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: c6a00e2292027b1ba96ab7edd6d545ff9b736c60
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37972506"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262777"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Description du service Microsoft 365 Business Voice
 
@@ -34,7 +34,7 @@ Microsoft 365 Business Voice est disponible avec les abonnements de petite et mo
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
 - [Microsoft 365 a1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
-- [Microsoft 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
+- [Microsoft 365 a3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
 
 ## <a name="microsoft-365-business-voice-features"></a>Fonctionnalités vocales de Microsoft 365
 

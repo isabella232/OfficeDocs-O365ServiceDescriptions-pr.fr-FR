@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765635"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263418"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Microsoft Project propose les applications suivantes pour vous aider à répondre aux besoins de votre organisation en matière de gestion des projets et des tâches :
 
@@ -152,7 +152,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Approbations des feuilles de temps | Les membres de l’équipe peuvent envoyer des feuilles de temps pour approbation. Les responsables de ressources et les superviseurs peuvent consulter, approuver et décliner les feuilles de temps soumises. | Oui | Oui |
 |Configuration de l’heure hors travail | Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. | Non | Oui |
 |**Collaboration** ||||
-|Pièces jointes | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
+|Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
 |Membres de l’équipe externe |Collaborez avec des personnes en dehors de votre organisation en leur accordant l’accès à vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
 |Sites de projet | Créer et personnaliser un concentrateur pour la collaboration et les documents pour un projet. | Oui | Oui |
 Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |

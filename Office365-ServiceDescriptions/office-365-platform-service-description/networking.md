@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft Office 365 prend en charge les fonctionnalités de mise en réseau suivantes.
-ms.openlocfilehash: 915736e704f3d3995993100a82515ee71113be5b
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f2343872faac2b1b289c37b8dc91240fa030482d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523422"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262897"
 ---
 # <a name="networking"></a>Réseau
 
@@ -64,6 +64,6 @@ Pour plus d'informations, rendez-vous dans le [Centre de gestion de la confident
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).
   
 

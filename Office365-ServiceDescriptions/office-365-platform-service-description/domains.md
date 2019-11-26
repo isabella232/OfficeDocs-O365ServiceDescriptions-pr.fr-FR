@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Lorsque vous ajoutez un domaine, un assistant vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie Office 365 et d’autres services pour que le nom de votre entreprise y figure. Une fois l'assistant terminé, vos courriers électroniques professionnels commencent à être dirigés vers Office 365 au lieu de votre fournisseur de messagerie actuel. Pour plus d'informations, voir Ajouter vos utilisateurs et votre domaine à Office 365. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à la rubrique Verify Your Domain.
-ms.openlocfilehash: cc88aeb19573b089d06749df5ab6db5de4bbecfa
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: a1038e0ff6db0dc5def4fd5d50bd5798e45fde2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595221"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262787"
 ---
 # <a name="domains"></a>Domaines
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Pour la plupart des organisations utilisant Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie qu’Office 365 gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s’assurer qu’elles sont conformes aux besoins spécifiques de la réglementation ou de l’entreprise. Vous pouvez en savoir plus sur ces options ici.
-ms.openlocfilehash: 774ad3239f9e8e8dc0751ca23a8f99a436b09126
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 48e989c0aa0a84bea7f3f18fb80f225e5f645981
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581450"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262587"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online dans Office 365 permet aux utilisateurs de partager et de collaborer, d’informer et de contacter les autres membres de l’entreprise, de transformer les processus d’entreprise et de maîtriser les connaissances collectives. De plus, SharePoint offre aux organisations la possibilité de protéger et de gérer les données et de créer des solutions personnalisées.
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890410"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263308"
 ---
 # <a name="sharepoint-online-service-description"></a>Description du service SharePoint Online
 
@@ -40,17 +40,17 @@ Pour connaître la configuration système requise pour Office 365, le service pa
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>Limites et restrictions de SharePoint Online
 
-Il existe certaines limites au service SharePoint Online géré par Microsoft, telles que les quotas de collection de sites, les limites de chargement de fichiers et les limites de stockage. Pour en savoir plus, consultez l'article [Limites de SharePoint Online](sharepoint-online-limits.md).
+Il existe certaines limites au service SharePoint Online géré par Microsoft, telles que les quotas de collection de sites, les limites de chargement de fichiers et les limites de stockage. Pour plus d’informations, consultez la rubrique [limites de SharePoint Online](sharepoint-online-limits.md).
   
 Pour en savoir plus sur la prise en charge des appareils mobiles, consultez la page [Utiliser un appareil mobile pour travailler sur les sites SharePoint Online](https://support.office.com/article/a99f2acf-381a-442c-b305-3e74c251bcb6).
   
 ## <a name="subscription-options"></a>Options d’abonnement
 
-Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d'informations sur les plans, y compris les options de plan autonome, et sur le passage d'un plan à un autre, consultez la rubrique [Options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d’informations sur les différents plans, y compris des options de plan autonomes et des informations sur le passage d’un plan à l’autre, voir [options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
 Toute personne accédant à SharePoint Online doit être associée à un plan Office 365 ou à un service autonome SharePoint Online Plan 1 ou SharePoint Online Plan 2. Toutefois, un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre de l’abonnement terrain, tel que SharePoint Online terrain. Dans la mesure où les employés terrain ne peuvent pas être administrateurs, les clients avec des employés terrain ont besoin d’au moins un administrateur d’entreprise pour gérer SharePoint. Les utilisateurs de terrain ne voient pas les menus de navigation SharePoint, de sorte que les employés terrain doivent accéder directement aux sites SharePoint par URL.
   
-## <a name="onedrive-for-business"></a>OneDrive Entreprise
+## <a name="onedrive-for-business"></a>OneDrive Entreprise
 
 OneDrive Entreprise (anciennement SkyDrive Pro) est le stockage en ligne personnel des employés d'une entreprise. Il s'agit de l'endroit où les personnes peuvent stocker, synchroniser et partager leurs fichiers de travail sur plusieurs dispositifs, en toute simplicité et sécurité. OneDrive Entreprise est inclus dans SharePoint Online et peut également être acheté sous forme de plan autonome. L’option OneDrive entreprise autonome inclut Office pour le Web. Pour voir les fonctionnalités incluses dans OneDrive entreprise avec Office pour le Web, reportez-vous à la rubrique [Description du service Onedrive entreprise](../onedrive-for-business-service-description.md).
   
@@ -105,16 +105,16 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Collections de sites d’en-tête d’hôte](it-professional.md#host-header-site-collections) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion des appareils mobiles pour Office 365](it-professional.md#mobile-device-management-for-office-365) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |[OAuth](it-professional.md#oauth) <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des correctifs](it-professional.md#patch-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
+|[Gestion des correctifs](it-professional.md#patch-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |Oui  <br/> |Oui  <br/> |
 |[Modèles de quotas](it-professional.md#quota-templates) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|[Prise en charge des bases de données en lecture seule](it-professional.md#read-only-database-support) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
-|[Stockage d'objets BLOB distants](it-professional.md#remote-blob-storage) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des demandes](it-professional.md#request-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
-|[Limitation des ressources](it-professional.md#resource-throttling) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
+|[Prise en charge des bases de données en lecture seule](it-professional.md#read-only-database-support) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |Oui  <br/> |Oui  <br/> |
+|[Stockage d'objets BLOB distants](it-professional.md#remote-blob-storage) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |Oui  <br/> |Oui  <br/> |
+|[Gestion des demandes](it-professional.md#request-management) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |Oui  <br/> |Oui  <br/> |
+|[Limitation des ressources](it-professional.md#resource-throttling) <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |Oui  <br/> |Oui  <br/> |
 |[Plateforme d’application de service](it-professional.md#service-application-platform) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Analyseur d'intégrité SharePoint](it-professional.md#sharepoint-health-analyzer) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|[Centre d’administration SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>4</sup> <br/> |N/A  <br/> |S/O  <br/> |
-|Centre d’administration centrale de SharePoint  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/D  <br/> |Oui  <br/> |Oui  <br/> |
+|[Centre d’administration SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>4</sup> <br/> |N/A  <br/> |N/A  <br/> |
+|Centre d’administration centrale de SharePoint  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |N/A  <br/> |Oui  <br/> |Oui  <br/> |
 |[Stratégies de conformité des collections de sites](it-professional.md#site-collection-compliance-policies) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Rapports d’utilisation et journalisation](it-professional.md#usage-reporting-and-logging) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Prise en charge de Windows PowerShell](it-professional.md#windows-powershell-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -209,7 +209,7 @@ Consultez le tableau suivant pour savoir si une fonctionnalité SharePoint est d
 |[Chemins d’accès gérés personnalisés](sites-servicedesc.md#custom-managed-paths) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Bibliothèques de documents  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance](sites-servicedesc.md#governance) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Sites hub  <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |Non  <br/> |Non  <br/> |
+|Sites concentrateurs  <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |N °<sup>20</sup> <br/> |Non  <br/> |Non  <br/> |
 |Lanceur d'applications hybride  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>18</sup> <br/> |Oui  <br/> |Oui  <br/> |
 |OneDrive entreprise et sites hybrides  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>18</sup> <br/> |Oui  <br/> |Oui  <br/> |
 |[Évolutivité et gestion des listes volumineuses](sites-servicedesc.md#large-list-scalability-and-management) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

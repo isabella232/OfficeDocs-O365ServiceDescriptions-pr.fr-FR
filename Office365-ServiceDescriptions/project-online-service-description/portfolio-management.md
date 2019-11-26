@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Les fonctionnalités de gestion de portefeuille suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733875"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263438"
 ---
 # <a name="portfolio-management"></a>La gestion de portefeuille
 
 Les fonctionnalités de gestion de portefeuille suivantes sont disponibles dans Project online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez [Description du service Project Online](project-online-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la rubrique [Description du service Project Online](project-online-service-description.md).
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analyser les projets et optimiser le portefeuille
 

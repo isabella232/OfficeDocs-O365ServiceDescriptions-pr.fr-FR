@@ -1,5 +1,5 @@
 ---
-title: Mises à jour de services
+title: Mises à jour du service
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Pour en savoir plus sur les fonctionnalités d’Office 365 qui viennent d’être publiées ou qui sont sur le présent, consultez la feuille de route Microsoft 365.
-ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 3ef34fc02754702e16d077da85042d3f100fe812
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734041"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262405"
 ---
-# <a name="service-updates"></a>Mises à jour de services
+# <a name="service-updates"></a>Mises à jour du service
 
 > [!NOTE]
 > Cette rubrique ne s'applique pas à Office 365 géré par 21Vianet. Pour plus d'informations sur les mises à jour de services, reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
@@ -43,6 +43,6 @@ Notez qu'Office 365 suit la [stratégie de cycle de vie en ligne](https://suppor
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans Office 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).
   
 

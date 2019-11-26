@@ -1,5 +1,5 @@
 ---
-title: Description de service des applications Office
+title: Description du service d’applications Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
-ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
+ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748978"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261955"
 ---
-# <a name="office-applications-service-description"></a>Description de service des applications Office
+# <a name="office-applications-service-description"></a>Description du service d’applications Office
 
 Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
   
