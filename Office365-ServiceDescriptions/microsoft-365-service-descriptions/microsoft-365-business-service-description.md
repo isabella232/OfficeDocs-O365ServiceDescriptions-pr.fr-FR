@@ -1,5 +1,5 @@
 ---
-title: Description du service d’entreprise Microsoft 365
+title: Description du service Microsoft 365 Business
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: 5da58f1000468d25d4e62a40b2cd602165ad899e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262847"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810803"
 ---
-# <a name="microsoft-365-business-service-description"></a>Description du service d’entreprise Microsoft 365
+# <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
 Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 à la gestion avancée de la sécurité et des périphériques pour vous aider à protéger votre entreprise contre les menaces avancées. Cette description du service présente les options et les fonctionnalités de l'offre. Pour plus d’informations sur Office 365, voir [Description du service office 365](../office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Disponibilité des fonctionnalités dans les offres Office 365 Business Premium et Microsoft 365 Business
 
-Microsoft 365 Business inclut toutes les fonctionnalités disponibles dans Office 365 Business Premium, ainsi que des fonctionnalités de sécurité Office 365 supplémentaires.
+Microsoft 365 Business inclut essentiellement toutes les fonctionnalités disponibles dans Office 365 Business Premium, ainsi que des fonctionnalités de sécurité Office 365 supplémentaires.
+
+Microsoft 365 Business inclut les fonctionnalités Azure AD Premium P1 suivantes : réinitialisation du mot de passe en libre-service avec l’écriture différée AD, Azure Multi-Factor Authentication (MFA) et accès conditionnel. Il n’inclut pas l’intégralité d’Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
@@ -34,7 +36,7 @@ Microsoft 365 Business inclut toutes les fonctionnalités disponibles dans Offic
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Teams <br/> |Oui <br/> |Oui <br/> |
 |Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |
-|[Applications Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Oui  <br/> |Oui  <br/> |
+|[Applications Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Oui  <br/> |Oui  <br/> |
 |Yammer Enterprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Réservations Microsoft  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Flow  <br/> |Oui  <br/> |Oui  <br/> |
@@ -76,9 +78,9 @@ Microsoft 365 Business inclut toutes les fonctionnalités disponibles dans Offic
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Advanced Threat Analytics  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des appareils et des applications](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business inclut des fonctionnalités Intune complètes pour iOS, Android, Mac OS et d’autres types de gestion des périphériques multiplateforme. <sup>9</sup> <br/> |**Office 365 Business Premium** <br/> |**Microsoft 365 Business** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Gestion des appareils mobiles Intune pour PC, Mac et appareils mobiles<sup>5</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Gestion des appareils mobiles Intune pour PC, Mac et appareils mobiles<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Gestion des applications mobiles Intune (MAM) pour les applications Office et les applications métier<sup>17</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
+|Gestion des applications mobiles Intune (MAM) pour les applications Office et les applications métier<sup>9</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des mises à jour Windows, Defender, stratégies de pare-feu<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Protection des données - réinitialisation sélective  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ciblage du groupe de sécurité (SG) pour les stratégies  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -106,7 +108,7 @@ Microsoft 365 Business inclut toutes les fonctionnalités disponibles dans Offic
 |Protéger les dossiers contre des menaces telles que des rançongiciels <br/> |Oui  <br/> |
 |Aider à protéger les fichiers et les dossiers sur des PC contre les accès non autorisés avec BitLocker <br/> |Oui  <br/> |
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>Remarques
 <sup>1</sup> inclut Exchange Online plan 1.<br/>
 <sup>2</sup> Azure information protection (AIP) active les fonctionnalités de gestion des droits relatifs à l’information (IRM) prises en charge. Le plan AIP 1 est inclus dans Microsoft 365 Business. <br/>
 <sup>3</sup> Microsoft 365 entreprise inclut un abonnement à l’archivage Exchange Online. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l’archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d'informations, reportez-vous à la rubrique [Présentation de l'archivage illimité dans Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>

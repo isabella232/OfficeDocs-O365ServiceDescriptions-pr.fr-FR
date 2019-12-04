@@ -1,5 +1,5 @@
 ---
-title: Options de plan Office 365
+title: Options de plan Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263045"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810813"
 ---
-# <a name="office-365-plan-options"></a>Options de plan Office 365
+# <a name="office-365-plan-options"></a>Options de plan Office 365
 
 Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
   
@@ -67,7 +67,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 <sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1.<br/>
 <sup>3</sup> pour en savoir plus sur les fonctionnalités Azure information protection incluses dans les plans Office 365, consultez la rubrique [Azure information protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> Office 365 entreprise E5 contient les fonctionnalités de système téléphonique, d’audioconférence et de plan d’appel. Pour implémenter la fonctionnalité Forfait d’appels, vous devez souscrire à un plan supplémentaire (Forfait d’appels nationaux ou Forfait d’appels internationaux).<br/>
-<sup>5</sup> inclut un stockage de 2 Go. N’inclut pas de fonctionnalité de synchronisation du bureau. <br/>
+<sup>5</sup> inclut un stockage de 2 Go. <br/>
 <sup>6</sup> inclut Exchange Online plan 1. <br/>
 <sup>7</sup> inclut Exchange Online plan 2. <br/>
 <sup>8</sup> inclut Exchange Online plan 1 et des fonctionnalités supplémentaires. <br/>

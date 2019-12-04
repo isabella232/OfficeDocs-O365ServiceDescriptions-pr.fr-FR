@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261915"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810823"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
 Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
   
 > [!NOTE]
-> Les classeurs qui dépassent les 30 méga-octets (Mo) ne peuvent pas être affichés dans Excel pour le Web à partir de Microsoft SharePoint Online. Pour afficher des fichiers plus volumineux, l'application de bureau Excel doit être installée sur votre ordinateur. 
+> Les classeurs qui dépassent 50 mégaoctets (Mo) ne peuvent pas être affichés dans Excel pour le Web à partir de Microsoft SharePoint Online. Pour afficher des fichiers plus volumineux, l'application de bureau Excel doit être installée sur votre ordinateur. 
 
 > [!NOTE]
 > Pour vous aider à comparer les offres, les fonctionnalités avancées répertoriées dans cet article comprennent les fonctionnalités d'application de bureau Excel disponibles uniquement dans une suite Office (comme Office Professionnel Plus, Office Standard ou Office 365 ProPlus). Pour obtenir la liste de toutes les fonctionnalités Office pour le Web, telles que Word pour le Web et PowerPoint pour le Web, consultez la rubrique relative [à la disponibilité des fonctionnalités dans les plans Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
@@ -284,7 +284,7 @@ Non disponible dans Excel pour le Web. Si l'application Excel de bureau est inst
 
 Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie à votre ordinateur, utilisez la commande Enregistrer sous de l'onglet Fichier ou cliquez avec le bouton droit sur le nom du classeur dans son dossier, puis utilisez la commande Télécharger .
   
-## <a name="share"></a>Partager
+## <a name="share"></a>Share
 
 Un seul clic suffit pour envoyer à vos collaborateurs un lien leur permettant d’afficher ou de modifier le document. En savoir plus sur [l’utilisation d’Office pour le Web afin de collaborer dans office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
