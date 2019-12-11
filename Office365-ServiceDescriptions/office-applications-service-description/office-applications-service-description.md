@@ -1,5 +1,5 @@
 ---
-title: Description du service d’applications Office
+title: Description de service des applications Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261955"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969951"
 ---
-# <a name="office-applications-service-description"></a>Description du service d’applications Office
+# <a name="office-applications-service-description"></a>Description de service des applications Office
 
 Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
   
@@ -71,7 +71,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Archivage et conformité avec Exchange Online et SharePoint Online  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/>|Oui<sup>1</sup> <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Prise en charge des stratégies de groupe  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br/> |
 |Prise en charge de la stratégie Cloud Office  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br/> |
-|Gestion des droits relatifs à l’information à l’aide d’Azure information protection  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |
+|Gestion des droits relatifs à l’information à l’aide d’Azure information protection  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |Oui <br/> |
 |Gestion des droits relatifs à l'information à l'aide de Windows Server AD RMS  <br/> |Oui<sup>3</sup> <br/> |Oui  <br/> |Oui <br/>| Oui<sup>3</sup> <br/>|Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |
 |Prise en charge Office Add-in, ActiveX et BHO  <br/> |Oui  <br/> |Oui  <br/> |OK<sup>+++<sup> <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui <br/> |
 |Accès des clients OneNote aux blocs-notes sur SharePoint Server, SharePoint Online, OneDrive Entreprise et Office 365  <br/> |Oui  <br/> |Oui  <br/> |OK<sup>++</sup> <br/> |Oui <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Oui <br/> |
@@ -169,7 +169,7 @@ Les applications Office suivantes sont disponibles dans les nuages des gouvernem
 |Recherche intelligente | Non | Non | Non |
 |Sons Office (Some) | Non | Non | Non |
 |modèles 3D et animations incorporées 3D | Non | Non | Non |
-Graphiques : cartes | Non | Non | Non |
+|Graphiques : cartes | Non | Non | Non |
 |Entrée manuscrite numérique intelligente | Non | Non | Non |
 |Légendes & sous-titres dans PowerPoint | Non | Non | Non |
 |Autocar de présentateur | Non | Non | Non |
@@ -179,6 +179,7 @@ Graphiques : cartes | Non | Non | Non |
 |Groupes Office 365 | Non | Non | Non |
 |Collaboration en temps réel (présence, co-création régulière, conversation en document) | Non | Non | Non |
 |Dictée | N °<sup>1</sup> | N °<sup>1</sup> | N °<sup>1</sup> |
+|Réutilisation de diapositives | Non | Non | Non |
 |Le **tableau blanc de Microsoft** dans les clouds gouvernementaux n’est actuellement disponible que sur les clients Hub, et non sur le bureau. | Oui<sup>2</sup> | Oui<sup>2</sup> | Oui<sup>2</sup> |
 |Insérer des pense-bêtes, du texte et des images |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
 |Entrée manuscrite en forme et entrée manuscrite en tableau |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |

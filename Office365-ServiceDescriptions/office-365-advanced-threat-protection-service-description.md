@@ -1,5 +1,5 @@
 ---
-title: Description du service de protection avancée contre les menaces Office 365
+title: Description du service Office 365 - Protection avancée contre les menaces
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 30b57b2bc0150be299861626aa17aa32fa5d3f6f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262797"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969970"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Description du service de protection avancée contre les menaces Office 365
+# <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
 Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
 
@@ -79,34 +79,34 @@ La protection avancée contre les menaces peut être utilisée avec n’importe 
 
 Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online » fait généralement référence à la famille de services Office 365 Entreprise.
 
-|**Fonctionnalité**|**Plan de l’ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel| Office 365 Entreprise E5|
+|**Fonctionnalité**|**Plan de l’ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel| Office 365 Entreprise E5|
 |:-----|:-----|:-----|:-----|
 |*Configuration, protection et détection*|
-|Pièces jointes fiables|Oui|Oui|Oui|
-|Liens fiables|Oui|Oui|Oui|
-|Stratégies anti-hameçonnage|Oui|Oui|Oui|
-|ATP pour SharePoint, OneDrive et Microsoft teams|Oui|Oui|Oui|
+|[Pièces jointes fiables](#safe-attachments)|Oui|Oui|Oui|
 |Pièces jointes fiables dans teams|Oui|Oui|Oui|
+|[Liens fiables](#safe-links)|Oui|Oui|Oui|
 |Liens fiables dans teams|Non|Non|Non|
-|Rapports en temps réel|Oui|Oui|Oui|
+|[ATP pour SharePoint, OneDrive et Microsoft teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Oui|Oui|Oui|
+|[Stratégies anti-hameçonnage](#anti-phishing-policies)|Oui|Oui|Oui|
+|[Rapports en temps réel](#real-time-reports)|Oui|Oui|Oui|
 |*Automatisation, recherche, correction et éducation*|
-|Suivi des menaces|Non|Oui|Oui|
-|Explorateur (enquête avancée contre les menaces)|Non|Oui|Oui|
-|Réponse automatique aux incidents|Non|Oui|Oui|
-|Simulateur d’attaque|Non|Oui|Oui|
+|[Suivi des menaces](#threat-trackers)|Non|Oui|Oui|
+|[Explorateur](#explorer) (enquête avancée contre les menaces)|Non|Oui|Oui|
+|[Réponse automatique aux incidents](#automated-incident-response)|Non|Oui|Oui|
+|[Simulateur d’attaque](#attack-simulator)|Non|Oui|Oui|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de protection avancée contre les menaces (ATP)
 
 ### <a name="safe-attachments"></a>Pièces jointes fiables
 
-[Les pièces jointes approuvées ATP](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) protègent contre les programmes malveillants et les virus inconnus et fournissent une protection contre les menaces pour protéger votre système de messagerie. L'ensemble des messages et pièces jointes qui ne comportent pas de signature connue de virus/programme malveillant sont acheminés vers un environnement spécial dans lequel le service Protection avancée contre les menaces utilise diverses techniques d'analyse et de Machine Learning pour détecter des intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
+[Les pièces jointes approuvées ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) protègent contre les programmes malveillants et les virus inconnus et fournissent une protection contre les menaces pour protéger votre système de messagerie. L'ensemble des messages et pièces jointes qui ne comportent pas de signature connue de virus/programme malveillant sont acheminés vers un environnement spécial dans lequel le service Protection avancée contre les menaces utilise diverses techniques d'analyse et de Machine Learning pour détecter des intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
 
 > [!NOTE]
 > L’analyse des pièces jointes approuvées ATP a lieu dans la région où se trouvent vos données Office 365. Pour plus d’informations sur la géographie du centre de données, voir [où se trouvent vos données ?](https://products.office.com/where-is-your-data-located?geo=All)
 
 ### <a name="safe-links"></a>Liens fiables
 
-La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection reste chaque fois qu’elle sélectionne le lien, car les liens malveillants sont bloqués de manière dynamique alors que des liens valides sont accessibles.
+La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection reste chaque fois qu’elle sélectionne le lien, car les liens malveillants sont bloqués de manière dynamique alors que des liens valides sont accessibles.
 
 Les liens fiables sont disponibles pour les URL dans les applications suivantes :
 
@@ -121,28 +121,32 @@ Les liens fiables sont disponibles pour les URL dans les applications suivantes�
 
 <sup>\*</sup>Pour les licences ATP à l’échelle de l’organisation (par exemple, ATP_ENTERPRISE_FACULTY), vous n’avez pas besoin d’attribuer des licences ATP à des utilisateurs individuels.
 
-### <a name="anti-phishing-policies"></a>Stratégies anti-hameçonnage
-
-[Protection contre le hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing) pour les messages entrants pour les indicateurs qu’un message peut être une tentative de hameçonnage. Lorsque les utilisateurs sont couverts par des stratégies ATP (pièces jointes fiables, liens fiables ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise en fonction des stratégies configurées.
-
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pour SharePoint, OneDrive et Microsoft Teams.
 
-La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsoft teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams) permet de détecter et de bloquer des fichiers identifiés comme étant malveillants dans les sites d’équipe et les bibliothèques de documents.
+La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) permet de détecter et de bloquer des fichiers identifiés comme étant malveillants dans les sites d’équipe et les bibliothèques de documents.
+
+### <a name="anti-phishing-policies"></a>Stratégies anti-hameçonnage
+
+[Protection contre le hameçonnage](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) pour les messages entrants pour les indicateurs qu’un message peut être une tentative de hameçonnage. Lorsque les utilisateurs sont couverts par des stratégies ATP (pièces jointes fiables, liens fiables ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise en fonction des stratégies configurées.
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
-Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) des informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation de l’activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
+Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) des informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation de l’activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
 
 ### <a name="threat-trackers"></a>Suivi des menaces
 
-Les analyseurs de [menace](https://docs.microsoft.com/office365/securitycompliance/threat-trackers) sont des widgets informatifs et des vues qui fournissent aux utilisateurs autorisés des renseignements sur les problèmes de Cybersecurity susceptibles d’avoir un impact sur votre organisation.
+Les analyseurs de [menace](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) sont des widgets informatifs et des vues qui fournissent aux utilisateurs autorisés des renseignements sur les problèmes de Cybersecurity susceptibles d’avoir un impact sur votre organisation.
 
 ### <a name="explorer"></a>Explorer
 
 L’Explorateur (également appelé Explorateur de menaces) est un rapport en temps réel qui permet aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Par défaut, ce rapport affiche les données des 7 derniers jours ; Toutefois, les vues peuvent être modifiées pour afficher les données des 30 derniers jours.
 
-Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/office365/securitycompliance/threat-explorer).
+Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="automated-incident-response"></a>Réponse automatique aux incidents
+
+Les fonctionnalités de [réponse aux incidents automatisées](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) disponibles dans Office 365 ATP plan 2 vous permettent d’exécuter des processus d’enquête automatisés en réponse à des menaces connues qui existent aujourd’hui. En automatisant certaines tâches d’enquête, votre équipe des opérations de sécurité peut fonctionner de manière plus efficace. Les actions de correction, telles que la suppression des messages électroniques malveillants, sont prises en approbation par votre équipe des opérations de sécurité. Pour en savoir plus, consultez [la rubrique How air fonctionne dans Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
 
 ### <a name="attack-simulator"></a>Simulateur d’attaque
 
-Le [simulateur d’attaque](https://docs.microsoft.com/office365/SecurityCompliance/attack-simulator) permet aux utilisateurs autorisés d’exécuter des scénarios d’attaque réaliste dans votre organisation. Plusieurs types d’attaques sont disponibles, y compris une attaque de Spear Phishing, une attaque par pulvérisation de mot de passe et une attaque de mot de passe en force.
+Le [simulateur d’attaque](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) permet aux utilisateurs autorisés d’exécuter des scénarios d’attaque réaliste dans votre organisation. Plusieurs types d’attaques sont disponibles, y compris une attaque de Spear Phishing, une attaque par pulvérisation de mot de passe et une attaque de mot de passe en force.
