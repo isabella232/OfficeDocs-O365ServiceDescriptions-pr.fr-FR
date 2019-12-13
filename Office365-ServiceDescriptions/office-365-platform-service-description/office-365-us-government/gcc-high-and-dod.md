@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment. '
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262545"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003959"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
@@ -60,7 +60,7 @@ Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’envir
 
 Les abonnements Office 365 dans les environnements GCC High et DoD incluent les fonctionnalités Exchange Online, SharePoint Online et Skype Entreprise de base. Étant donné les exigences de certification et d'accréditation accrues de l'infrastructure, certaines fonctionnalités diffèrent entre les offres commerciales générales d'Office 365 et celles qui sont disponibles dans GCC High et DoD.
   
-### <a name="exchange-online"></a>Exchange Online
+### <a name="exchange-online"></a>Exchange Online
 
  **Prise en charge de la messagerie unifiée Exchange Online pour le système IP-PBX local**: l'intégration des systèmes IP-PBX locaux avec la messagerie unifiée Exchange Online n'est pas prise en charge dans les abonnements GCC High et DoD. 
   
@@ -98,8 +98,15 @@ En outre, les adresses de messagerie électronique non GCC associées aux profil
   
 ### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
- **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD. 
-  
+ **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**Système téléphonique et conférence audio (via le routage direct)**: le système téléphonique et l’audioconférence pour les environnements GCC High et DoD sont fournis via le routage direct. Pour plus d’informations, consultez la documentation relative au niveau de service ici :
+
+- [Système téléphonique via le routage direct](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [Conférence audio avec routage direct pour GCC High and DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>Identité
 
 L’authentification multifacteur avec un modèle d’identité fédéré permet d’utiliser des cartes PIV et CAC.
