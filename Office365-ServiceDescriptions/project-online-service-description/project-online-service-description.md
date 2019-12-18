@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263418"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614823"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -246,6 +246,11 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 |Importation/exportation Excel | Créez de nouveaux projets à partir de fichiers Excel ou créez un fichier Excel d’un projet existant. |
 
 ## <a name="service-considerations"></a>Considérations relatives aux services
+
+> [!NOTE]
+> - Le projet de la &ndash; France et de la Corée du Sud pour le Web est actuellement indisponible. Nous nous efforcerons de livrer Project pour le Web à votre région et vous informeront de sa disponibilité par le biais des canaux de communication indiqués ci-dessous.
+> - Le &ndash; projet d’éducation pour le Web est bientôt disponible pour nos clients scolaires. Une période exacte est en attente.
+> - GCC, GCC High, DoD &ndash; actuellement, Project pour le Web n’est pas disponible pour GCC, GCC High et DoD. Nous travaillons sur la remise d’un projet pour le Web, mais vous ne pouvez pas partager un créneau horaire de la société.
 
 ### <a name="licensing-considerations"></a>Remarques sur les licences
 
