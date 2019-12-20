@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 30b57b2bc0150be299861626aa17aa32fa5d3f6f
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
+ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969970"
+ms.lasthandoff: 12/20/2019
+ms.locfileid: "40824988"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -93,7 +93,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |[Suivi des menaces](#threat-trackers)|Non|Oui|Oui|
 |[Explorateur](#explorer) (enquête avancée contre les menaces)|Non|Oui|Oui|
 |[Réponse automatique aux incidents](#automated-incident-response)|Non|Oui|Oui|
-|[Simulateur d’attaque](#attack-simulator)|Non|Oui|Oui|
+|[Simulateur d’attaques](#attack-simulator)|Non|Oui|Oui|
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de protection avancée contre les menaces (ATP)
 
@@ -118,8 +118,10 @@ Les liens fiables sont disponibles pour les URL dans les applications suivantes�
 
 > [!NOTE]
 > Les utilisateurs doivent disposer d’une<sup>\*</sup>licence pour la protection avancée contre les menaces, doivent être inclus dans les stratégies de liens fiables ATP et être connectés sur leurs appareils pour que la protection soit mise en place.
-
-<sup>\*</sup>Pour les licences ATP à l’échelle de l’organisation (par exemple, ATP_ENTERPRISE_FACULTY), vous n’avez pas besoin d’attribuer des licences ATP à des utilisateurs individuels.
+>
+> <sup>\*</sup>Pour les licences ATP à l’échelle de l’organisation (par exemple, ATP_ENTERPRISE_FACULTY), vous n’avez pas besoin d’attribuer des licences ATP à des utilisateurs individuels.
+>
+> Pour plus d’informations sur la protection des liens fiables ATP, consultez la rubrique relative [à l’utilisation des liens fiables ATP avec des URL dans les documents Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pour SharePoint, OneDrive et Microsoft Teams.
 
@@ -147,6 +149,6 @@ Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat 
 
 Les fonctionnalités de [réponse aux incidents automatisées](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) disponibles dans Office 365 ATP plan 2 vous permettent d’exécuter des processus d’enquête automatisés en réponse à des menaces connues qui existent aujourd’hui. En automatisant certaines tâches d’enquête, votre équipe des opérations de sécurité peut fonctionner de manière plus efficace. Les actions de correction, telles que la suppression des messages électroniques malveillants, sont prises en approbation par votre équipe des opérations de sécurité. Pour en savoir plus, consultez [la rubrique How air fonctionne dans Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
 
-### <a name="attack-simulator"></a>Simulateur d’attaque
+### <a name="attack-simulator"></a>Simulateur d’attaques
 
 Le [simulateur d’attaque](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator) permet aux utilisateurs autorisés d’exécuter des scénarios d’attaque réaliste dans votre organisation. Plusieurs types d’attaques sont disponibles, y compris une attaque de Spear Phishing, une attaque par pulvérisation de mot de passe et une attaque de mot de passe en force.
