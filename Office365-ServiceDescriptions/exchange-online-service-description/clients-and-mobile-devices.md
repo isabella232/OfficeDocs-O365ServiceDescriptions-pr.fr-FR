@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 0a94e61fb7721861df57c72bb52f71b25848ba85
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 065154bb8447bbe38f5cd8319fea4fdc6883cb70
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262757"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840243"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients et appareils mobiles
 
@@ -32,8 +32,13 @@ Microsoft Outlook est un programme de messagerie électronique qui inclut la pri
 
 Par défaut, l'accès Outlook est activé pour tous les utilisateurs. Les administrateurs peuvent désactiver l'accès de certains utilisateurs ou groupes via Windows PowerShell. Il est recommandé d'utiliser la dernière version d'Outlookavec le dernier Service Pack installépour avoir accès à Exchange Online. 
   
-Pour plus d'informations sur les clients Outlook pris en charge par Exchange 2016 et Exchange Online, consultez la section « Clients pris en charge » dans [Configuration requise pour Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
-  
+Pour plus d’informations sur les clients Outlook pris en charge par Exchange 2016 et Exchange Online, voir [Configuration requise pour Office](https://products.office.com/office-system-requirements). 
+
+Office 365 est conçu pour fonctionner avec les derniers navigateurs et versions d’Office. Si vous utilisez d’anciens navigateurs et versions d’Office qui ne sont pas compatibles avec le support standard :
+
+- Microsoft ne vous empêchera pas délibérément de vous connecter au service, mais la qualité de votre expérience Office 365 peut diminuer au fil du temps.
+- Microsoft ne fournira pas de mises à jour logicielles pour résoudre les problèmes non liés à la sécurité.
+
 > [!IMPORTANT]
 >  Outlook n'est pas fourni dans le cadre du prix d'abonnement Exchange Online. Microsoft Office Pro Plus (qui inclut Microsoft Outlook) est inclus dans certains plans Office 365 et est disponible dans le cadre d'un abonnement à part. Si vous utilisez POP pour se connecter à un compte de messagerie Exchange Online, les limitations suivantes s’affichent : > aucune information de calendrier > aucune information de disponibilité > pas de liste d’adresses globale > aucun courrier électronique n' > lors de la connexion via POP, tous les messages seront téléchargés sur le client et il n’y aura pas de synchronisation entre plusieurs ordinateurs ou appareils (par exemple, entre un 
   
@@ -59,7 +64,7 @@ Exchange Online fonctionne avec les applications Outlook disponibles pour iOS, A
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Appareil  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilité de l’application mobile Outlook  <br/> |Oui  <br/> [Obtenir Outlook pour Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Oui  <br/> [Obtenir Outlook pour iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Intégré  <br/> |
 |Applications de messagerie intégrées compatibles avec Exchange Online  <br/> |Application de messagerie Gmail App/Samsung  <br/> |application de messagerie iOS  <br/> |Courrier, calendrier, contacts Outlook  <br/> |
 |Plus d’informations  <br/> |[Configuration d’Android Mobile](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[programme d’installation de iPhone ou iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuration de Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: 836f7aae584d4a878acaeddc068beff9a08131e8
-ms.sourcegitcommit: 08b15860a56f5c9fbf61fca54b0b2878bb9f9956
+ms.openlocfilehash: 9328f2c56fedc9531559e7d8720f97e83dd6072b
+ms.sourcegitcommit: e3a4f05ddd94f77ca0026cceb394fc75a6c94edd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40749410"
+ms.lasthandoff: 12/21/2019
+ms.locfileid: "40840253"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -357,7 +357,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |Power Query pour Excel  <br/> |Non  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
 |Power View pour Excel  <br/> |Non  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
 |Paramètres d'itinérance  <br/> |Non  <br/> |Oui<sup></sup> <br/> |Oui<sup></sup> <br/> |Non  <br/> |
-|Activation d'ordinateurs partagés  <br/> |Oui  <br/> |Oui <br/> |Oui <br/> |Oui  <br/> |
+|Activation d'ordinateurs partagés  <br/> |Non  <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
 |Support pour bloquer le stockage de fichiers informatiques  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Mises à niveau de la version  <br/> |Non  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Non  <br/> |
 |Volume activation (KMS/MAK)  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
