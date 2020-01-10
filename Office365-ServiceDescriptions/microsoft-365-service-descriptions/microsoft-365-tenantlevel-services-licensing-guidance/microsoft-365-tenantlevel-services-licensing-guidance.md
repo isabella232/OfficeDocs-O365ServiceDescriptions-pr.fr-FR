@@ -1,5 +1,5 @@
 ---
-title: Conseils pour la gestion des licences des services de niveau client Microsoft 365
+title: Aide sur les licences des services de niveau client pour Microsoft 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour les services de niveau client Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890485"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000864"
 ---
-# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Conseils pour la gestion des licences des services de niveau client Microsoft 365
+# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Aide sur les licences des services de niveau client pour Microsoft 365
 
 Pour les besoins de cet article, un service au niveau du client est un service en&mdash;ligne qui, lorsqu’il est acheté pour n’importe quel utilisateur dans le client (autonome ou en tant que&mdash;partie de plans Office 365 ou Microsoft 365) est activé partiellement ou intégralement pour tous les utilisateurs du client. Bien que certains utilisateurs sans licence puissent techniquement être en mesure d’accéder au service, une licence est requise pour tous les utilisateurs que vous envisagez de bénéficier du service.
 
@@ -39,7 +39,7 @@ Les analystes et les professionnels de la sécurité de SECOPS bénéficient d�
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Par défaut, les fonctionnalités AADIP sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur la configuration de AADIP, consultez la rubrique activation de la [protection des identités Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
+Par défaut, les fonctionnalités AADIP sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur AADIP, voir [qu’est-ce que Azure Active Directory Identity Protection ?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
@@ -87,7 +87,7 @@ Les stratégies de fonctionnalité AIP (à l’exception de la fonctionnalité s
 
 Pour la fonctionnalité de scanneur AIP, Microsoft ne s’engage pas à fournir des fonctionnalités de classification, d’étiquetage ou de protection des fichiers aux utilisateurs qui ne sont pas titulaires d’une licence. Au fil du temps, les vérifications de licence ou les outils ciblés seront ajoutés à AIP pour s’assurer que la fonctionnalité de scanneur peut être attribuée aux utilisateurs titulaires d’une licence.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -141,7 +141,7 @@ Les administrateurs peuvent étendre les déploiements OCAS pour appliquer la ma
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) est une solution CASB (Cloud Access Security Broker) qui donne aux organisations une visibilité sur leurs applications et services Cloud, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur permet de contrôler la façon dont les données se&mdash;déplace dans n’importe quelle application Cloud.
+Microsoft Cloud App Security (MCAS) est une solution CASB (Cloud Access Security Broker) qui donne aux organisations une visibilité sur leurs applications et services Cloud, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur&mdash;permet de contrôler la façon dont les données transitent dans n’importe quelle application Cloud.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
 
@@ -149,7 +149,7 @@ Les utilisateurs sous licence de MCAS, Enterprise Mobility + Security E5/a5/G5, 
 
 Les utilisateurs sous licence d’Azure AD P1 peuvent bénéficier des fonctionnalités de découverte dans MCAS.
 
-Pour bénéficier des fonctionnalités de [contrôle d’application d’accès conditionnel](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) dans MCAS, les utilisateurs doivent également être titulaires d’une licence pour Azure Active Directory P1, inclus dans Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/a5/G5 et Microsoft 365 E5/a5/G5 Security.
+Pour bénéficier des fonctionnalités de [contrôle d’application d’accès conditionnel](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) dans MCAS, les utilisateurs doivent également être titulaires d’une licence pour Azure Active Directory P1, inclus dans Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E3/a3/G3, Microsoft 365 E5/a5/G5 et Microsoft 365 E5/a5/G5 Security.
 
 Pour bénéficier de l' [étiquetage automatique](https://docs.microsoft.com/cloud-app-security/data-protection-policies), les utilisateurs doivent disposer d’une licence pour Azure information protection P2, inclus dans Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5 et conformité Microsoft 365 E5/a5/G5.
 
@@ -344,7 +344,7 @@ Les administrateurs peuvent personnaliser les emplacements (charges de travail),
 
 Le chiffrement des messages Office 365 (OME) est un service basé sur Azure Rights Management (Azure RMS) qui vous permet d’envoyer des messages chiffrés à des personnes internes ou externes à votre organisation, quelle que soit l’adresse de messagerie de destination (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
-Pour afficher les messages chiffrés, les destinataires peuvent obtenir un code secret à usage unique, se connecter à l’aide d’un compte Microsoft ou se connecter à l’aide d’un compte professionnel ou scolaire associé à Office 365. Les destinataires peuvent également envoyer des réponses chiffrées. Ils n’ont pas besoin d’un abonnement Office 365 pour afficher des messages chiffrés ou envoyer des réponses chiffrées.
+Pour afficher les messages chiffrés, les destinataires peuvent obtenir un code secret à usage unique, se connecter à l’aide d’un compte Microsoft ou se connecter à l’aide d’un compte professionnel ou scolaire associé à Office 365. Les destinataires peuvent également envoyer des réponses chiffrées. Ils n’ont pas besoin de disposer d’un abonnement à Office 365 pour afficher des messages chiffrés ni pour envoyer des réponses chiffrées.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
 
@@ -361,7 +361,6 @@ Les administrateurs créent et gèrent les stratégies de chiffrement des messag
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
 Les administrateurs doivent appliquer des règles de flux de messagerie pour le chiffrement de messages Office 365 uniquement aux utilisateurs titulaires d’une licence. Pour plus d’informations sur la définition des règles de flux de messagerie, voir [définir des règles de flux de messagerie pour chiffrer les messages électroniques dans Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Chiffrement de messages avancé Office 365
 
@@ -402,3 +401,23 @@ Les administrateurs créent des stratégies de surveillance dans le centre de s�
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
 Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de surveillance. Lors du choix d’un groupe, il peut également sélectionner des utilisateurs spécifiques dans le groupe à exclure de la stratégie de surveillance. Pour plus d’informations sur les stratégies de surveillance, consultez la rubrique [surveillance des stratégies dans Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
+
+## <a name="conditional-access-policies"></a>Stratégies d’accès conditionnel
+
+L’accès conditionnel est l’outil utilisé par Azure Active Directory pour rassembler des signaux, prendre des décisions et appliquer des stratégies d’organisation. L’accès conditionnel est au cœur du plan de contrôle d’identité. Les stratégies d’accès conditionnel les plus simples sont les instructions If-Then. Si un utilisateur souhaite accéder à une ressource, il doit effectuer une action. Exemple : un responsable de la paie souhaite accéder à l’application de paie et est requis pour effectuer l’authentification multifacteur pour y accéder.
+
+### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
+
+Les utilisateurs sous licence de Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3 et Azure Active Directory Premium plan 1 peuvent bénéficier des stratégies d’accès conditionnel. Les utilisateurs sous licence d’Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft E5 Security et Azure Active Directory Premium plan 2 peuvent tirer parti de la protection des identités (stratégies d’accès conditionnel basées sur les risques).
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
+
+Les experts en matière de sécurité, analystes et professionnels de la sécurité, ont la possibilité d’appliquer des stratégies organisationnelles aux utilisateurs, ce qui les oblige à répondre à certains critères avant d’accorder un accès au contenu de l’entreprise. Les utilisateurs finals peuvent accéder à leur travail où et quand ils choisissent, tout en protégeant les ressources de l’organisation.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
+
+Par défaut, les fonctionnalités d’accès conditionnel sont activées au niveau du client pour tous les utilisateurs au sein du client.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
+
+Pour la protection des identités et l’accès conditionnel, un utilisateur doit être inclus dans un groupe ou ajouté à une stratégie d’accès conditionnel. La condition Users and groups est obligatoire dans une stratégie d’accès conditionnel. Dans votre stratégie, vous pouvez sélectionner **tous les utilisateurs** ou des utilisateurs et des groupes spécifiques. Vous devez sélectionner uniquement les utilisateurs et les groupes sous licence appropriée. Pour plus d’informations, consultez la rubrique [Quelles sont les conditions d’accès conditionnel Azure Active Directory ?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
