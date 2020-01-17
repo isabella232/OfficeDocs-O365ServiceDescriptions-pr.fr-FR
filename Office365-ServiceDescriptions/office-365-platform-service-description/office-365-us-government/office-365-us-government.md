@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux descriptions de service Office 365.
-ms.openlocfilehash: d305fa31fa63d24b0f42f91f2f82085b0ea375eb
-ms.sourcegitcommit: e80ced3148cb7d281d7270f36380578a8dc21f42
+ms.openlocfilehash: be73b616012d37c2bd58df63587201675962ae11
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40884329"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216739"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -182,7 +182,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Courrier électronique de briefing Microsoft  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Microsoft Flow  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
+|Microsoft Power Automated  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Oui <br/> |Oui <br/> |Oui<br/> |Oui</sup> <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics  <br/> |Non <br/> |Non <br/> |Oui,<sup>17</sup> <br/> |Non <br/> |

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de communication et de collaboration de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise&mdash;Online pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987646"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216523"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -72,7 +72,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier électronique de briefing Microsoft<sup>10</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft Flow  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Microsoft Power Automated  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Forms  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics<sup>9</sup>  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |

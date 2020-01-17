@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, à partir de centres de données allemands, avec une résidence des données en Allemagne et en stricte accès aux données et aux mesures de contrôle via un modèle unique de client approuvé régi par la loi allemande.
-ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a62211889e0b7830f4aa00fec16a0da207e1a654
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263055"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216653"
 ---
 # <a name="office-365-germany"></a>Office 365 Allemagne
 
@@ -78,7 +78,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Réservations Microsoft|Non|Non|Non|Non|Non|Non|Non|Non|
 |Courrier électronique de briefing Microsoft|Non|Non|Non|Non|Non|Non|Non|Non|
-|Microsoft Flow|Non|Non|Non|Non|Non|Non|Non|Non|
+|Microsoft Power Automated|Non|Non|Non|Non|Non|Non|Non|Non|
 |Microsoft Forms|Non|Non|Non|Non|Non|Non|Non|Non|
 |Microsoft MyAnalytics|Non|Non|Non|Non|Non|Non|Non|Non|
 |Microsoft Planner|Non|Non|Non|Non|Non|Non|Non|Non|
@@ -89,7 +89,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Office Delve<sup></sup>|Oui|Non|Oui|Oui|Oui|Oui|Oui|Non|
 |Groupes Office 365|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Office 365 Video|Non|Non|Non|Oui|Oui|Oui|Oui|Non|
-|**[Gestion des comptes d’utilisateurs](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Gestion des comptes d’utilisateur](user-account-management.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Identité Cloud, identité fédérée ou authentification multifacteur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Configuration du bureau Office 365|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Téléchargement en bloc à l'aide de fichiers .csv|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -178,7 +178,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Administration déléguée|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**[Contrat de niveau de service](service-level-agreement.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Droits d’utilisation des produits](product-use-rights.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Droits d’utilisation de logiciels](product-use-rights.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Germany ne prend en charge aucun système d’exploitation qui n’est pas pris en charge par son fabricant.<br/>
@@ -283,7 +283,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Oui|
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Oui|
 |Outlook pour Android<sup>11</sup>|Non|Non|Non|
-|**Valeur entreprise**|**Office Professionnel Plus 2013**|**Office Professionnel Plus 2016**|**Office 365 ProPlus**|
+|**Valeur entreprise**|**Office Professionnel Plus 2013**|**Office Professionnel Plus 2016**|**Office 365 ProPlus**|
 |Cinq installations par utilisateur sur PC ou Mac|Non|Oui|Oui<sup>8</sup>|
 |Mise en service automatisée du compte d'utilisateur|N/D|Oui|Oui|
 |Interface utilisateur multilingue|Oui|Oui|Oui|
@@ -409,7 +409,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |Gestion des salles de conférence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Réponses d’absence du Bureau|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Partage de calendriers|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Fonctionnalités de création de rapports et outils de dépannage](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Fonctions de rapport et outils de dépannage](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Rapports du centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Rapports de services Web|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Message trace|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -433,7 +433,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |Intégration entre la messagerie vocale et la télécopie tierce|Non|Non|Non|Non|Non|Oui|Oui|Non|
 |Interopérabilité avec messagerie vocale tierce|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Intégration Skype entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Haute disponibilité et continuité de l’activité](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Haute disponibilité et continuité de service](../exchange-online-service-description/high-availability-and-business-continuity.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Réplication de boîtes aux lettres dans les centres de données|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Récupération de boîtes aux lettres supprimées|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'éléments supprimés|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -443,7 +443,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |Interopérabilité SharePoint|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge de la connectivité EWS|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge du relais SMTP|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Configuration et administration d’Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Configuration et administration d’Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Accès au portail Microsoft Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès au centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -765,7 +765,7 @@ Le tableau suivant répertorie les fonctionnalités de l'option autonome OneDriv
 |Personnes, sites, recommandations de documents|Non|Non|Oui|Oui|
 |Site personnel |Oui|Oui|Oui|Oui|
 |Photos et présence|Oui|Oui|Oui|Oui|
-|Profils|Oui|Oui|Oui|Oui|
+|Profil|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Non|Non|Oui|Oui|
@@ -1025,7 +1025,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Personnes, sites, recommandations de documents|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Site personnel |Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Photos et présence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Profils|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Profil|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|

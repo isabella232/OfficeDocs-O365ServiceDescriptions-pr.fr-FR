@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business est une solution intégrée qui associe la meilleure productivité d’Office 365 aux fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810803"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216633"
 ---
 # <a name="microsoft-365-business-service-description"></a>Description du service Microsoft 365 Business
 
@@ -39,7 +39,7 @@ Microsoft 365 Business inclut les fonctionnalités Azure AD Premium P1 suivantes
 |[Applications Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Oui  <br/> |Oui  <br/> |
 |Yammer Enterprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Réservations Microsoft  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft Flow  <br/> |Oui  <br/> |Oui  <br/> |
+|Microsoft Power Automated  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Forms  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Planner  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft PowerApps  <br/> |Oui  <br/> |Oui  <br/> |
@@ -89,7 +89,7 @@ Microsoft 365 Business inclut les fonctionnalités Azure AD Premium P1 suivantes
 |Déploiement des profils de périphérique et de la configuration de sécurité<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Enterprise State Roaming pour Windows 10 avec jointure Azure AD  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Récupération BitLocker en libre-service  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Bureau virtuel Windows <br/> |Non <br/> |Oui <br/> |Oui <br/> |
+|Windows Virtual Desktop <br/> |Non <br/> |Oui <br/> |Oui <br/> |
 
 |||
 |:-----|:-----|
@@ -108,7 +108,7 @@ Microsoft 365 Business inclut les fonctionnalités Azure AD Premium P1 suivantes
 |Protéger les dossiers contre des menaces telles que des rançongiciels <br/> |Oui  <br/> |
 |Aider à protéger les fichiers et les dossiers sur des PC contre les accès non autorisés avec BitLocker <br/> |Oui  <br/> |
 
-### <a name="notes"></a>Remarques
+### <a name="notes"></a>Notes
 <sup>1</sup> inclut Exchange Online plan 1.<br/>
 <sup>2</sup> Azure information protection (AIP) active les fonctionnalités de gestion des droits relatifs à l’information (IRM) prises en charge. Le plan AIP 1 est inclus dans Microsoft 365 Business. <br/>
 <sup>3</sup> Microsoft 365 entreprise inclut un abonnement à l’archivage Exchange Online. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l’archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d'informations, reportez-vous à la rubrique [Présentation de l'archivage illimité dans Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). <br/>

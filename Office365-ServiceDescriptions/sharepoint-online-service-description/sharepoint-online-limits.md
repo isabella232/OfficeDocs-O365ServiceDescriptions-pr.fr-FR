@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint Online pour les plans Office 365 Entreprise et pour les plans autonomes.
-ms.openlocfilehash: acf9731e4515a345f0cc9e0ac676c5ac8ed13ed4
-ms.sourcegitcommit: 3417565ac5e101726865f3f6cfb8d13317350693
+ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40952035"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216643"
 ---
 # <a name="sharepoint-online-limits"></a>Limites de SharePoint Online
 
@@ -66,7 +66,7 @@ Découvrez les limites de SharePoint pour les plans Office 365 et les plans auto
 
 - **Applications hébergées SharePoint** -20 000 instances par organisation.
 
-- **Étendues de sécurité uniques par liste ou par bibliothèque** -5 000. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
+- **Étendues de sécurité uniques par liste ou par bibliothèque** : la limite imposée est de 50 000, mais la limite générale recommandée est 5 000. Au-delà de 5 000, la taille de la liste de contrôle d’accès (ACL) est importante. Bien que vous puissiez ajouter des étendues jusqu’à la limite imposée de 50 000, Microsoft ne vous recommande pas, sauf si vous avez un scénario très spécifique à l’esprit. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
 
 - **Utilisateurs** -2 millions par collection de sites.
     > [!NOTE]

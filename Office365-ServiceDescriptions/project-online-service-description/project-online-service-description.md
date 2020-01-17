@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614823"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216663"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -27,17 +27,17 @@ ms.locfileid: "40614823"
 
 Microsoft Project propose les applications suivantes pour vous aider à répondre aux besoins de votre organisation en matière de gestion des projets et des tâches :
 
-- Project pour le Web
+- Project pour le web
 - Project Online 
 - Client de bureau Project Online
 
 Cet article vous aidera à comprendre les applications fournies dans chaque abonnement de projet et les fonctionnalités offertes par chaque application.
 
-### <a name="project-for-the-web"></a>Project pour le Web
+### <a name="project-for-the-web"></a>Project pour le web
 
 Project pour le Web est l’offre la plus récente de Microsoft pour le travail informatique et la gestion de projet. Project pour le Web fournit des fonctionnalités de gestion des tâches simples et puissantes pour répondre à la plupart des besoins et des rôles. Les chefs de projet et les membres de l’équipe peuvent utiliser Project pour le Web pour planifier et gérer le travail de n’importe quelle taille.
 
-Project pour le Web est basé sur la plateforme d’alimentation Microsoft. La plateforme Power est composée de PowerApp, de Microsoft Flow, de Power BI et du Common Data Service (CD). Project pour les données Web est stocké dans des CD. 
+Project pour le Web est basé sur la plateforme d’alimentation Microsoft. La plateforme Power se compose de PowerApp, Power automate, Power BI et du service de données commun (CD). Project pour les données Web est stocké dans des CD. 
 
 Project pour le Web est disponible par le biais de trois abonnements : plan de projet 1, plan de projet 3 et plan de projet 5. Les fonctionnalités indiquées dans la section [projet pour les fonctionnalités Web](#project-for-the-web-features) interagissent uniquement avec les données du projet pour le magasin de données Web.
 
@@ -80,7 +80,7 @@ Microsoft Project est disponible par le biais de trois abonnements différents p
 
 |Produit | Offre 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project pour le Web |**x**  | **x x** | **x x** |
+|Project pour le web |**x**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Client de bureau Project Online | |**x**|**x**|
 
@@ -119,7 +119,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Applications mobiles | Créez des applications mobiles personnalisées avec les PowerApp. <sup>4</sup> |
 |**Personnalisation et intégration**||
 |PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles avec les PowerApp. <sup>4</sup> |
-|Flux de travail | Automatisez et intégrez les processus d’entreprise avec Microsoft Flow. <sup>5</sup> |
+|Flux de travail | Automatisez et intégrez les processus d’entreprise avec Power Automated. <sup>5</sup> |
 |Intégration de Microsoft Office 365 | Collaborer, gérer des documents et utiliser des outils et applications Office 365 familiers. <sup>1</sup> |
 |**Gestion des utilisateurs et de la sécurité**||
 |Groupes modernes Office | Créez une équipe de projet pour collaborer et configurer facilement une collection de ressources que les membres de l’équipe partagent.|
@@ -180,7 +180,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 |Custom fields | Ajoutez des champs personnalisés au niveau du projet, de la tâche et des ressources pour effectuer le suivi des données importantes pour votre organisation et vos projets. | Oui | Oui |
 |Formules | Calculer et capturer des données importantes à l’aide de formules entre des tâches et des projets. | Oui | Oui |
 |PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles (via OData) avec les PowerApp. <sup>4</sup> | Oui | Oui |
-|Flux de travail | Automatisez et intégrez les processus d’entreprise (via OData) avec Microsoft Flow. <sup>5</sup> | Oui | Oui |
+|Flux de travail | Automatisez et intégrez les processus d’entreprise (via OData) avec Power Automated. <sup>5</sup> | Oui | Oui |
 |Intégration de Microsoft Office 365 | Collaborer, gérer des documents et utiliser des outils et applications Office 365 familiers. <sup>1</sup> | Oui | Oui |
 |Intégration du planificateur Microsoft | Connecter des tâches de projet à un plan de planificateur et suivre le travail détaillé dans le planificateur. <sup>1</sup> | Oui | Oui |
 |**Gestion de la sécurité, des utilisateurs et des services**||||
@@ -194,7 +194,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 <sup>2</sup> cartes Azure acquises séparément.</br>
 <sup>3</sup> la création de rapports pour Project pour le Web et Project Online est disponible à l’aide de Power bi. L’affichage, la modification et la création de rapports nécessitent un abonnement Power BI Pro. Microsoft fournit un ensemble prédéfini de rapports Power BI. Les utilisateurs peuvent personnaliser ces rapports ou créer des rapports supplémentaires à l’aide de Power BI.</br> 
 <sup>4</sup> la création d’applications mobiles PowerApp personnalisées qui accèdent à Project pour les données Web nécessite un abonnement powerapps et un abonnement Project Plan 3 ou Project plan 5.</br>
-<sup>5</sup> l’automatisation et l’intégration de processus d’entreprise avec Microsoft Flow avec Project pour les données Web nécessitent un abonnement de flux Microsoft et un abonnement de plan de projet 3 ou de plan de projet 5.</br>
+<sup>5</sup> l’automatisation et l’intégration de processus d’entreprise avec Power Automated with Project for the Web Data nécessitent un abonnement Power Automated et un abonnement plan Project 3 ou Project plan 5.</br>
 <sup>6</sup> la gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement de plan de projet 3 ou de plan de projet 5.</br>
 <sup>7</sup> les utilisateurs disposant d’un abonnement de plan de projet 3 ou de plan de projet 5 peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas consulter, combler ou approuver les demandes d’engagement de ressources.</br>
 <sup>8</sup> les utilisateurs disposant d’un abonnement à un plan de projet 5 peuvent consulter, combler et approuver les demandes d’engagement de ressources.</br>
@@ -263,9 +263,9 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 
 Project Online nécessite l’utilisation de SharePoint Online, qui est mis en service dans le cadre de Project online. Les droits d’accès aux fonctionnalités SharePoint Online fournis avec le plan de projet 3 ou les abonnements de plan de projet 5 sont limités au stockage et à l’accès aux données pour prendre en charge Project online.
 
-### <a name="project-roadmap-and-microsoft-flow"></a>Feuille de route de projet et flux Microsoft
+### <a name="project-roadmap-and-power-automate"></a>Feuille de route et automate de puissance de projet
 
-La feuille de route de projet requiert l’utilisation de Microsoft Flow, qui est mis en service dans le cadre de votre abonnement à votre projet. Les droits sur la fonctionnalité de flux de Microsoft sont limités aux fonctionnalités de flux de Microsoft nécessaires à la feuille de route Project. La fonctionnalité de flux Microsoft requise par Project feuille de route apparaît en tant que l' **intégration de données pour Project avec** le plan de service de flux dans la section **applications** du centre d’administration 365 de Microsoft.
+La feuille de route de projet requiert l’utilisation de Power automate, qui est configurée dans le cadre de votre abonnement à votre projet. Les droits de fonctionnement de la fonctionnalité automatique sont limités à ceux des fonctionnalités automatiques requises par la feuille de route Project. Power automatiser les fonctionnalités requises par Project la feuille de route s’affiche en tant que l' **intégration de données pour Project avec** le plan de service de flux dans la section **applications** du centre d’administration 365 de Microsoft.
 
 ### <a name="project-for-the-web-and-common-data-service"></a>Projet pour le Web et le service de données commun
 
