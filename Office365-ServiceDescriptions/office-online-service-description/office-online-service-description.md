@@ -1,5 +1,5 @@
 ---
-title: Description du service Web pour Office
+title: Description du service Office pour le web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263518"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711904"
 ---
-# <a name="office-for-the-web-service-description"></a>Description du service Web pour Office
+# <a name="office-for-the-web-service-description"></a>Description du service Office pour le web
 
 Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements. 
   
@@ -192,7 +192,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 > [!NOTE] 
 > <sup>1</sup> impossible de créer des graphiques croisés dynamiques.
  <br/><sup>2</sup> en fonction de la configuration de votre environnement, certains types de connexions de données sont pris en charge pour les classeurs affichés dans Excel pour le Web. Pour plus d’informations, consultez la rubrique actualisation des données dans un classeur dans une fenêtre de navigateur. 
- <br/><sup>3</sup> vous ne pouvez pas créer de macros avec VBA dans Excel pour le Web, mais vous pouvez ouvrir et modifier des feuilles de calcul prenant en charge VBA sans supprimer (ou endommager) le code VBA contenu dans le fichier.
+ <br/><sup>3</sup> vous ne pouvez pas créer ou exécuter de macros avec VBA dans Excel pour le Web, mais vous pouvez ouvrir et modifier des feuilles de calcul prenant en charge VBA sans supprimer (ou endommager) le code VBA contenu dans le fichier.
  <br/><sup>4</sup> dans Excel pour le Web, la dernière valeur de référence connue s’affiche dans la fenêtre du navigateur ; Toutefois, il doit être mis à jour à l’aide de l’application Excel de bureau. 
  <br/><sup>5</sup> Certains compléments Office sont disponibles, mais pas tous. 
   

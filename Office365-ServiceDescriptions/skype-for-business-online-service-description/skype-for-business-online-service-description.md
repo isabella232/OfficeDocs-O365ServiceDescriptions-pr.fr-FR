@@ -1,5 +1,5 @@
 ---
-title: Description du service Skype entreprise Online
+title: Description du service Skype Entreprise Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Voulez-vous savoir quelles licences vous devez acheter pour obtenir certaines fonctionnalités de Skype Entreprise ? Consultez la rubrique vue d’ensemble des licences Skype entreprise.
-ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263268"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711914"
 ---
-# <a name="skype-for-business-online-service-description"></a>Description du service Skype entreprise Online
+# <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
 
 > [!NOTE]
-> Microsoft teams est à présent le client principal pour la messagerie, les réunions et les appels dans Office 365. Les nouveaux clients Office 365 avec 500 postes ou moins seront intégrés à Microsoft teams et n’auront pas accès à Skype entreprise online. Les clients qui utilisent déjà Skype entreprise Online pourront continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu’à ce qu’ils aient terminé leur transition vers Microsoft Teams.
+> Microsoft teams est à présent le client principal pour la messagerie, les réunions et les appels dans Office 365. À partir du 1er octobre 2018, les nouveaux clients d’Office 365 avec 500 sièges ou moins seront intégrés à Microsoft teams et n’auront pas accès à Skype entreprise online. À partir du 1er septembre 2019, cela s’applique à tous les nouveaux clients. Les clients qui utilisent déjà Skype entreprise Online peuvent continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu’à ce qu’ils aient terminé leur transition vers Microsoft Teams.
 
 > [!NOTE]
 > Skype entreprise Online plan 2 retiré de la vente le 1er juillet 2019. Cela signifie que vous ne pourrez plus acquérir Skype entreprise Online plan 2 pour la messagerie instantanée, la présence, les réunions, et les communications vocales et vidéo d’égal à égal. Ces fonctionnalités continueront à être prises en charge dans toutes les offres Office 365 qui incluent Teams, y compris les Suites Office 365. Lorsque votre plan expire à la fin de votre terme actuel, pour avoir un accès continu à ces fonctionnalités, vous devez passer à un autre plan. Nous vous recommandons d’évaluer les Suites Office 365 Business Essentials, Business Premium ou toute autre suite Office pour les utilisateurs pour lesquels Skype entreprise Online plan 2 est affecté. 
