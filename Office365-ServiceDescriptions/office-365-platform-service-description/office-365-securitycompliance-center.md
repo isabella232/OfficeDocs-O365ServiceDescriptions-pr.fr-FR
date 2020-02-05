@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité Office 365 est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: deda84949994d65d025df9ae781d82827cf8518d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9b21d4c6224afb0fea3c0425a671bcdd5c888510
+ms.sourcegitcommit: e8eb7062cf2a572e027d30e6abf619965dc91eae
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262567"
+ms.lasthandoff: 02/05/2020
+ms.locfileid: "41773774"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -62,7 +62,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 <sup>8</sup> vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié. <br/>
 <sup>9</sup> un complément DLP peut être ajouté à n’importe quel SKU qui a soit Exchange, soit SharePoint/OneDrive.<br/>
 <sup>10</sup> les étiquettes de confidentialité sont également incluses dans Azure information protection P1 et P2.<br/>
-<sup>11</sup> une licence Exchange Online plan 2 est requise pour appliquer une stratégie de rétention à une boîte aux lettres d’utilisateur. 
+<sup>11</sup> une licence Exchange Online plan 2 est requise pour mettre une boîte aux lettres d’utilisateur en attente à l’aide d’une stratégie de rétention.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
 
@@ -87,7 +87,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 |[Découverte électronique avancée](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |[Archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>10</sup> <br/>|Oui<sup>10</sup> <br/> |Non  <br/> |Non  <br/> |
 |[Audit unifié](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>10</sup> <br/>|Oui<sup>10</sup> <br/> |Non  <br/> |Non  <br/> |
-|[Stratégies de rétention](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>10</sup> <br/>|Oui<sup>10</sup> <br/> |Oui  <br/> |Oui  <br/> |
+|[Stratégies de rétention](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Oui<sup>11</sup>  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>10</sup> <br/>|Oui<sup>10</sup> <br/> |Oui  <br/> |Oui  <br/> |
 |[Stratégies de surveillance](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |||||||||
    
@@ -100,7 +100,8 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 <sup>7</sup> inclut les fichiers stockés dans les référentiels Microsoft Teams.<br/>
 <sup>8</sup> vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié. <br/>
 <sup>9</sup> un complément DLP peut être ajouté à n’importe quel SKU qui a soit Exchange, soit SharePoint/OneDrive.<br/>
-<sup>10</sup> limité aux fichiers stockés dans OneDrive entreprise.
+<sup>10</sup> limité aux fichiers stockés dans OneDrive entreprise.<br/>
+<sup>11</sup> une licence Exchange Online plan 2 est requise pour mettre une boîte aux lettres d’utilisateur en attente à l’aide d’une stratégie de rétention.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
