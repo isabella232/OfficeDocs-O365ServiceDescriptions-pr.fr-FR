@@ -1,5 +1,5 @@
 ---
-title: 'Description du service Office 365 '
+title: 'Descriptions du service Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs.
-ms.openlocfilehash: 45f666b7b3cf741bc101bf8dbfeef2a50dd85206
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: d07435954bb46a8e38b69415f70f3c194473cdaa
+ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262035"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41787016"
 ---
-# <a name="office-365-service-descriptions"></a>Description du service Office 365 
+# <a name="office-365-service-descriptions"></a>Descriptions du service Office 365 
 
 Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs. 
   
@@ -37,49 +37,49 @@ Microsoft propose le centre FastTrack pour Office 365 pour les services éligibl
 Pour commencer, lisez les descriptions suivantes :
   
 - [Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
-    
-- [Description du service d’applications Office](office-applications-service-description/office-applications-service-description.md)
-    
-- [Description du service Web pour Office](office-online-service-description/office-online-service-description.md)
-    
+
+- [Description de service des applications Office](office-applications-service-description/office-applications-service-description.md)
+
+- [Description du service Office pour le web](office-online-service-description/office-online-service-description.md)
+
 - [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
-    
-- [Description du service Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
-    
-- [Description du service de protection avancée contre les menaces Office 365](office-365-advanced-threat-protection-service-description.md)
-    
-- [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
-    
-- [Description du service OneDrive entreprise](onedrive-for-business-service-description.md)
-    
-- [Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
-    
-- [Description du service Skype entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
-    
-- [Description du service de messagerie de briefing](briefing-service-description.md)
+
+- [Description du service Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
+
+- [Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md)
+
+- [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+
+- [Description du service OneDrive Entreprise](onedrive-for-business-service-description.md)
+
+- [Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
+
+- [Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+
+- [Description du service de courrier](briefing-service-description.md)
 
 - [Description du service Workplace Analytics](workplace-analytics-service-description.md)
 
-- [Description du service MyAnalytics](mya-service-description.md)
-    
+- [Description de service MyAnalytics](mya-service-description.md)
+
 - [Description du service Power BI](power-bi-service-description.md)
-    
+
 - [Description du service Project Online](project-online-service-description/project-online-service-description.md)
-    
-- [Visio pour la description du service Web](visio-online-service-description/visio-online-service-description.md)
-    
+
+- [Description du service Visio pour le web](visio-online-service-description/visio-online-service-description.md)
+
 - [Description du service Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Description du service d’entreprise Microsoft 365](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Description du service Microsoft 365 Business](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Conseils pour la gestion des licences des services de niveau client Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-tenantlevel-services-licensing-guidance.md)
-    
-- [Description du service Microsoft Dynamics 365 (en ligne)](microsoft-dynamics-365-online-service-description.md)
-    
+- [Conseils en matière de licences de conformité Microsoft 365 Security &](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+
+- [Description du service Microsoft Dynamics 365 (en ligne)](microsoft-dynamics-365-online-service-description.md)
+
 > [!NOTE]
 > <sup>1</sup> Inclut la disponibilité des [fonctionnalités de la suite](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), telles qu'Office Delve, Microsoft MyAnalytics, Microsoft Sway et Microsoft Teams.
   
 ## <a name="disclaimer"></a>Clause d’exclusion
 
-© 2018 Microsoft Corporation. Tous droits réservés. Microsoft, Office 365 et d'autres noms de produits et de services sont ou peuvent être des marques déposées et/ou des marques commerciales aux États-Unis et/ou dans d'autres pays. Les informations contenues dans ce document sont fournies uniquement à titre d'information et représentent la vision actuelle de Microsoft Corporation à la date de sa dernière publication ou révision. Elles ne constituent pas un contrat de service et n'engagent en aucun cas Microsoft ou le client quant aux caractéristiques, fonctionnalités ou responsabilités mentionnées dans ce document. MICROSOFT EXCLUT TOUTE GARANTIE, EXPRESSE, IMPLICITE OU LÉGALE, RELATIVE AUX INFORMATIONS CONTENUES DANS CE DOCUMENT. 
-  
+© 2018 Microsoft Corporation. Tous droits réservés. Microsoft, Office 365 et d'autres noms de produits et de services sont ou peuvent être des marques déposées et/ou des marques commerciales aux États-Unis et/ou dans d'autres pays. Les informations contenues dans ce document sont fournies uniquement à titre d'information et représentent la vision actuelle de Microsoft Corporation à la date de sa dernière publication ou révision. Elles ne constituent pas un contrat de service et n'engagent en aucun cas Microsoft ou le client quant aux caractéristiques, fonctionnalités ou responsabilités mentionnées dans ce document. MICROSOFT EXCLUT TOUTE GARANTIE, EXPRESSE, IMPLICITE OU LÉGALE, RELATIVE AUX INFORMATIONS CONTENUES DANS CE DOCUMENT.
+ 
