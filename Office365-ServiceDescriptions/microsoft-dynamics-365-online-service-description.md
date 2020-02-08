@@ -1,5 +1,5 @@
 ---
-title: Description du service Microsoft Dynamics 365 (en ligne)
+title: Description du service Microsoft Dynamics 365 (en ligne)
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: À compter de la mise à jour de décembre 2016 pour Dynamics 365 (en ligne et en local), la fonctionnalité Dynamics CRM est incluse dans le cadre de Dynamics 365, suite d’applications métiers intelligentes. Dynamics 365 unifie les fonctionnalités de gestion des relations client (CRM) et de planification des ressources d’entreprise (ERP) en proposant de nouvelles applications pour faciliter la gestion des fonctions professionnelles spécifiques.
-ms.openlocfilehash: 35a1dbe7eef9fed64ad1738d84687a39ca45bef9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fac2e8a70cb3063c26827c4878009b4e9ad1d0f6
+ms.sourcegitcommit: cb70d69d8b563db91923be371b0307db91219030
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262807"
+ms.lasthandoff: 02/08/2020
+ms.locfileid: "41857303"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Description du service Microsoft Dynamics 365 (en ligne)
+# <a name="microsoft-dynamics-365-online-service-description"></a>Description du service Microsoft Dynamics 365 (en ligne)
 
 À compter de la mise à jour de décembre 2016 pour Dynamics 365 (en ligne et en local), la fonctionnalité Dynamics CRM est incluse dans le cadre de Dynamics 365, suite d’applications métiers intelligentes. Dynamics 365 unifie les fonctionnalités de gestion des relations client (CRM) et de planification des ressources d’entreprise (ERP) en proposant de nouvelles applications pour faciliter la gestion des fonctions professionnelles spécifiques.
   
@@ -108,7 +108,7 @@ Vous trouverez ci-dessous un résumé de haut niveau des droits d’utilisation 
   
 ## <a name="dynamics-365-service-level-agreement"></a>Contrat de niveau de service Dynamics 365
 
-Pour obtenir plus d'informations sur les termes du contrat de licence, les conditions et l'utilisation de produits et services sous licence via les programmes de licence en volume Microsoft, voir [Contrat de niveau de service pour Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249).
+Pour obtenir plus d'informations sur les termes du contrat de licence, les conditions et l'utilisation de produits et services sous licence via les programmes de licence en volume Microsoft, voir [Contrat de niveau de service pour Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Fenêtres de temps d’arrêt du service Dynamics 365
 
@@ -122,7 +122,7 @@ Les fenêtres de temps d’arrêt pour le service Dynamics 365 sont définies co
 |Correctif cumulatif  <br/> |Aucun impact/Aucun temps d'arrêt  <br/> |Centre de messages  <br/> |48 heures  <br/> |
 |Mise à niveau majeure  <br/> |Planifiée par le client et effectuée dans la fenêtre sélectionnée  <br/> |Centre de messages  <br/> |90 jours  <br/> |
    
-Consultez le [contrat de niveau de service pour Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249) pour télécharger les dernières informations concernant les fenêtres de temps d'arrêt de service. 
+Consultez le [contrat de niveau de service pour Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) pour télécharger les dernières informations concernant les fenêtres de temps d'arrêt de service. 
   
 \* **Contrat de niveau opérationnel** = temps nécessaire à l'équipe des opérations pour la fourniture d'un ensemble de services définis dans le contrat de niveau de service. 
   
