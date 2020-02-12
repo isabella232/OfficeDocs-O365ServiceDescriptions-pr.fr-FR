@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216663"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931940"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -62,7 +62,7 @@ Project Online Essentials n’inclut pas Project pour le Web.
 
 ### <a name="project-online-desktop-client"></a>Client de bureau Project Online
 
-Le client de bureau Microsoft Project Online est un programme de gestion de projets qui offre des fonctionnalités de planification automatisée, de gestion des ressources de projet et de création de rapports. Le client de bureau Project online peut être utilisé comme une application autonome ou il peut se connecter à Project online. Le client de bureau Project Online est la version d’abonnement du client de bureau Project Online et est disponible dans les abonnements plan de projet 3 et plan de projet 5.
+Le client de bureau Microsoft Project Online est un programme de gestion de projets qui offre des fonctionnalités de planification automatisée, de gestion des ressources de projet et de création de rapports. Le client de bureau Project online peut être utilisé comme une application autonome ou il peut se connecter à Project online. Le client de bureau Project Online est la version d’abonnement du client de bureau Project professionnel et est disponible dans les abonnements plan de projet 3 et plan de projet 5.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Utilisation conjointe de Project pour le Web et Project Online
 
@@ -152,7 +152,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Approbations des feuilles de temps | Les membres de l’équipe peuvent envoyer des feuilles de temps pour approbation. Les responsables de ressources et les superviseurs peuvent consulter, approuver et décliner les feuilles de temps soumises. | Oui | Oui |
 |Configuration de l’heure hors travail | Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. | Non | Oui |
 |**Collaboration** ||||
-|Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
+|Pièces jointes | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
 |Membres de l’équipe externe |Collaborez avec des personnes en dehors de votre organisation en leur accordant l’accès à vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
 |Sites de projet | Créer et personnaliser un concentrateur pour la collaboration et les documents pour un projet. | Oui | Oui |
 Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
@@ -281,7 +281,7 @@ Project pour le Web présente certaines limitations, décrites dans le tableau s
 
 |Entité/champ | Limite |
 |-------------|-------|
-|**Tâche** ||
+|**Task** ||
 |Max. niveau hiérarchique de la tâche | 10 niveaux |
 |Max. Liens (successeur + prédécesseur) d’une tâche | vingtaine |
 |Max. durée de la tâche terminal | 1250 jours |
