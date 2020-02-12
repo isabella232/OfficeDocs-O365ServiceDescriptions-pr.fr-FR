@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs de Microsoft Office 365 peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en se connectant à Office 365.
-ms.openlocfilehash: 4707d3eb79072e28e82aa565f50f6d0cf5d3c05c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 612233533b6feb8cfb812661e2566cf6e0526200
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262475"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931930"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -49,7 +49,7 @@ Le passage à un service Cloud ne doit pas signifier perdre la capacité à savo
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
-| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> |  <br/> |
+| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> | 99,98% <br/> |
 
 <br/>
 
