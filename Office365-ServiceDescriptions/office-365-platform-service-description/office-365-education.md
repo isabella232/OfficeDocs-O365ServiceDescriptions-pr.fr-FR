@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de communication et de collaboration de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise&mdash;Online pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: aef2ede957404e73ab723766239ffbbd186e1d3c
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216523"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172236"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -72,7 +72,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Courrier électronique de briefing Microsoft<sup>10</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft Power Automated  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Microsoft Power Automate  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Forms  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics<sup>9</sup>  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -141,7 +141,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -821,260 +821,8 @@ OneDrive entreprise plan 2 est disponible pour Office 365 a1, a3 et a5. Pour aff
   
 ## <a name="sharepoint-online-features"></a>Fonctionnalités de SharePoint Online
 
-Le tableau suivant décrit les fonctionnalités SharePoint disponibles dans chaque plan Office 365 éducation. 
-  
-****
+Pour plus d’informations sur les fonctionnalités de SharePoint Online, voir la [Description du service SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md).
 
-|||||
-|:-----|:-----|:-----|:-----|
-|**Fonctionnalités de développeur** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Catalogue d’applications (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Déploiement d’applications : applications hébergées dans le Cloud](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Déploiement d’applications : applications hébergées par SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Service de gestion des applications](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|BCS : alertes pour les listes externes <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[BCS : types de contenu externe d’étendue d’application (ECT)](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[BCS : composants WebPart de données métiers](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[BCS : liste externe](../sharepoint-online-service-description/developer.md#bcs-external-list) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[BCS : Connecteur OData](../sharepoint-online-service-description/developer.md#bcs-odata-connector) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|BCS : pages de profil <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|BCS : intégration de client riche <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|BCS : service Banque d’assistance sécurisé <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|BCS: Tenant-level external data log <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Browser-based customizations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Modèle d'objet client (OM)](../sharepoint-online-service-description/developer.md#client-object-model-om) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Client-side rendering (CSR) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Les définitions de site personnalisées <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Page de mise en service de site personnalisée](../sharepoint-online-service-description/developer.md#custom-site-provisioning-page) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Site du développeur](../sharepoint-online-service-description/developer.md#developer-site) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Applications basées sur des formulaires](../sharepoint-online-service-description/developer.md#forms-based-applications) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Solutions de confiance totale](../sharepoint-online-service-description/developer.md#full-trust-solutions) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[InfoPath Forms Services](../sharepoint-online-service-description/developer.md#infopath-forms-services) <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
-|[Modèle d'objet JavaScript](../sharepoint-online-service-description/developer.md#javascript-object-model) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|List and Library APIs <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Récepteur d’événements distants](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[API REST](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestionnaire de conception SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|SharePoint Store <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Flux de travail SharePoint 2010 (.NET 3.5) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Flux de travail SharePoint 2010 (prêts à l’emploi)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Flux de travail SharePoint 2013 et SharePoint 2016](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |Oui<sup>2</sup> <br/> |
-|Workload API: ECM APIs <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Workload API: Search APIs <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Workload API: Social APIs <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités de professionnel de l'informatique** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Synchronisation Active Directory](../sharepoint-online-service-description/it-professional.md#active-directory-synchronization) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Mappage des accès de substitution (AAM)](../sharepoint-online-service-description/it-professional.md#alternate-access-mapping-aam) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Analytics Platform <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Protection contre les programmes malveillants](../sharepoint-online-service-description/it-professional.md#anti-malware-protection) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Prise en charge de l’authentification basée sur les revendications](../sharepoint-online-service-description/it-professional.md#claims-based-authentication-support) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Assistants de configuration <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Mise à niveau différée des collections de sites <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Cache distribué <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Protection contre la perte de données](../sharepoint-online-service-description/it-professional.md#data-loss-prevention) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Chiffrement des données stockées](../sharepoint-online-service-description/it-professional.md#encryption-at-rest) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Collections de sites d’en-tête d’hôte](../sharepoint-online-service-description/it-professional.md#host-header-site-collections) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Gestion des autorisations améliorée <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Amélioration de la création de sites en libre-service <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Comptes gérés <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Minimal Download Strategy (MDS) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des appareils mobiles pour Office 365](../sharepoint-online-service-description/it-professional.md#mobile-device-management-for-office-365) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[OAuth](../sharepoint-online-service-description/it-professional.md#oauth) <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |
-|[Gestion des correctifs](../sharepoint-online-service-description/it-professional.md#patch-management) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Modèles de quotas](../sharepoint-online-service-description/it-professional.md#quota-templates) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Prise en charge des bases de données en lecture seule](../sharepoint-online-service-description/it-professional.md#read-only-database-support) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Stockage BLOB distant](../sharepoint-online-service-description/it-professional.md#remote-blob-storage) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Gestion des demandes](../sharepoint-online-service-description/it-professional.md#request-management) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Request throttling <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Limitation des ressources](../sharepoint-online-service-description/it-professional.md#resource-throttling) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Plateforme d’application de service](../sharepoint-online-service-description/it-professional.md#service-application-platform) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Analyseur d'intégrité SharePoint](../sharepoint-online-service-description/it-professional.md#sharepoint-health-analyzer) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Centre d’administration SharePoint (Office 365)](../sharepoint-online-service-description/it-professional.md#sharepoint-admin-center-office-365) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Shredded Storage <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Stratégies de conformité des collections de sites](../sharepoint-online-service-description/it-professional.md#site-collection-compliance-policies) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Contrôles d'intégrité de collections de sites <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Service d’états temporaires <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Administration centrale rationalisée <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Notifications d’État du système <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Récupération de la base de données de contenu non attachée <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Upgrade evaluation site collections <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Rapports d’utilisation et journalisation](../sharepoint-online-service-description/it-professional.md#usage-reporting-and-logging) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Prise en charge de Windows PowerShell](../sharepoint-online-service-description/it-professional.md#windows-powershell-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités de contenu** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Prise en charge des normes d’accessibilité](../sharepoint-online-service-description/content.md#accessibility-standards-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Améliorations de la bibliothèque de biens/prise en charge vidéo](../sharepoint-online-service-description/content.md#asset-library-enhancementsvideo-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Audit](../sharepoint-online-service-description/content.md#auditing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[&amp; Création de rapports d’audit (par exemple, modifications de documents, modifications de stratégie, suppressions)](../sharepoint-online-service-description/content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Organisateur de contenu](../sharepoint-online-service-description/content.md#content-organizer) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestionnaire de conception](../sharepoint-online-service-description/content.md#design-manager) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Ensembles de documents](../sharepoint-online-service-description/content.md#document-sets) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Traduction de documents dans Word pour le Web](../sharepoint-online-service-description/content.md#document-translation-in-word-for-the-web) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherche de découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-search) <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
-|[Mise en suspens de la découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-hold) <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
-|[Exportation de la découverte électronique](../sharepoint-online-service-description/content.md#ediscovery-export) <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
-|Listes et bibliothèques à extension messagerie <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Partage externe : accès externe](../sharepoint-online-service-description/content.md#external-sharing-external-access) <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |
-|[Partage externe : lien invité](../sharepoint-online-service-description/content.md#external-sharing-guest-link) <br/> |Oui<sup>6</sup> <br/> |Oui  <br/> |Oui<sup>6</sup> <br/> |
-|[Synchronisation des dossiers](../sharepoint-online-service-description/content.md#folder-sync) <br/> |Oui<sup>, 1, 6</sup> <br/> |Oui  <br/> |Oui  <br/> |
-|Audit hybride  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Taxonomie hybride et types de contenu  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des droits relatifs à l'information (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Oui  <br/> |Oui  <br/> |<sup>6</sup> OK  <br/> |
-|[Gestion des droits relatifs à l'information (IRM)](../sharepoint-online-service-description/content.md#information-rights-management-irm) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Service de métadonnées gérées](../sharepoint-online-service-description/content.md#managed-metadata-service) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Navigation basée sur les métadonnées](../sharepoint-online-service-description/content.md#metadata-driven-navigation) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Disposition en plusieurs étapes](../sharepoint-online-service-description/content.md#multi-stage-disposition) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Office pour le Web (création/modification)](../sharepoint-online-service-description/content.md#office-for-the-web-createedit) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Office pour le Web (affichage)](../sharepoint-online-service-description/content.md#office-for-the-web-view) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Office ProPlus (Osub)  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|[Intégration d'Office Web Apps Server](../sharepoint-online-service-description/content.md#office-web-apps-server-integration) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|PowerPoint Automation Services <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Bibliothèque de conservation](../sharepoint-online-service-description/content.md#preservation-hold-library) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Modification rapide](../sharepoint-online-service-description/content.md#quick-edit) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des enregistrements](../sharepoint-online-service-description/content.md#records-management) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Corbeille (Centre d’administration SharePoint)](../sharepoint-online-service-description/content.md#recycle-bin-sharepoint-admin-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Corbeille (collection de sites)](../sharepoint-online-service-description/content.md#recycle-bin-site-collection) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Éléments associés <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Rich Media Management <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Types de contenu partagé](../sharepoint-online-service-description/content.md#shared-content-types) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Services de traduction SharePoint](../sharepoint-online-service-description/content.md#sharepoint-translation-services) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Enquêtes <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[ID de document uniques](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherche de vidéos](../sharepoint-online-service-description/content.md#video-search) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Analyse de publication](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Page de catégorie et page d’élément de catalogue](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Composants WebPart de recherche](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Publication intersites](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|WCM : outils de conception <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Navigation par facettes](../sharepoint-online-service-description/content.md#faceted-navigation) <br/> |Non  <br/> |Oui<sup>14</sup> <br/> |Oui<sup>14</sup> <br/> |
-|[Rendus d’image](../sharepoint-online-service-description/content.md#image-renditions) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|WCM: Managed navigation <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|WCM : rendu mobile et appareil <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|WCM : plusieurs domaines <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|WCM: Recommendations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[WCM : optimisation du moteur de recherche (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**Fonctionnalités décisionnelles** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Business Intelligence Center](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|[Mesures et membres calculés](../sharepoint-online-service-description/insights.md#calculated-measures-and-members) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Bibliothèque de connexions de données](../sharepoint-online-service-description/insights.md#data-connection-library) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Tableaux croisés dynamiques et graphiques croisés dynamiques découplés](../sharepoint-online-service-description/insights.md#decoupled-pivottables-and-pivotcharts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Liste des champs et prise en charge des champs](../sharepoint-online-service-description/insights.md#field-list-and-field-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Améliorations des filtres](../sharepoint-online-service-description/insights.md#filter-enhancements) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherche de filtre](../sharepoint-online-service-description/insights.md#filter-search) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[PerformancePoint Services](../sharepoint-online-service-description/insights.md#performancepoint-services) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|PerformancePoint Services (PPS) Dashboard Migration <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Composant WebPart Power BI](../sharepoint-online-service-description/insights.md#power-bi-web-part) <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|[Power View pour Excel dans SharePoint](../sharepoint-online-service-description/insights.md#power-view-for-excel-in-sharepoint) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Power Pivot pour Excel dans SharePoint](../sharepoint-online-service-description/insights.md#power-pivot-for-excel-in-sharepoint) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Exploration rapide](../sharepoint-online-service-description/insights.md#quick-explore) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Scorecards & Dashboards <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[SQL Server Reporting Services (SSRS) Mode intégré](../sharepoint-online-service-description/insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Segment de chronologie](../sharepoint-online-service-description/insights.md#timeline-slicer) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Utiliser les classeurs Excel contenant des modèles de données et interagir avec ceux-ci](../sharepoint-online-service-description/insights.md#use-and-interact-with-excel-workbooks-containing-data-models) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Visio Services](../sharepoint-online-service-description/insights.md#visio-services) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités de recherche** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Advanced Content Processing <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Analyses continues](../sharepoint-online-service-description/search.md#continuous-crawls) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Custom entity extraction <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Liens profonds](../sharepoint-online-service-description/search.md#deep-links) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Pertinence basée sur des événements](../sharepoint-online-service-description/search.md#event-based-relevancy) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherche d’expertise](../sharepoint-online-service-description/search.md#expertise-search) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Traitement de contenu extensible] <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Affinements graphiques](../sharepoint-online-service-description/search.md#graphical-refiners) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherche hybride](../sharepoint-online-service-description/search.md#hybrid-search) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion du schéma de recherche](../sharepoint-online-service-description/search.md#manage-search-schema) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|On-premises search index <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Recherche de nom phonétique](../sharepoint-online-service-description/search.md#phonetic-name-matching) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Règles de requête  ajouter des résultats promus](../sharepoint-online-service-description/search.md#query-rulesadd-promoted-results) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Règles de requête  actions avancées](../sharepoint-online-service-description/search.md#query-rulesadvanced-actions) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Correction orthographique de requête](../sharepoint-online-service-description/search.md#query-spelling-correction) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Suggestions de requête](../sharepoint-online-service-description/search.md#query-suggestions) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Query throttling <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Aperçu en survol](../sharepoint-online-service-description/search.md#on-hover-preview) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Modèles de classement](../sharepoint-online-service-description/search.md#ranking-models) <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |
-|[Affinements](../sharepoint-online-service-description/search.md#refiners) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[API de requête RESTful/Modèle d'objet de requête](../sharepoint-online-service-description/search.md#restful-query-apiquery-om) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Result sources <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Search connector framework <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Tri des résultats de la recherche](../sharepoint-online-service-description/search.md#search-results-sorting) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Search vertical: “Conversations” <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Search vertical: “People” <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Search vertical: “Video” <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Recherches « Cette liste »](../sharepoint-online-service-description/search.md#this-list-searches) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités des sites** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Change the look <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Connexions aux clients Microsoft Office <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Prise en charge de l’Explorateur croisé](../sharepoint-online-service-description/sites-servicedesc.md#cross-browser-support) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Chemins d’accès gérés personnalisés](../sharepoint-online-service-description/sites-servicedesc.md#custom-managed-paths) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|[Gouvernance](../sharepoint-online-service-description/sites-servicedesc.md#governance) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Lanceur d’applications hybride  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|OneDrive entreprise et sites hybrides  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Évolutivité et gestion des listes volumineuses](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Connectivité mobile](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |
-|[Interface utilisateur multilingue](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |
-|My Tasks <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Composants WebPart OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des autorisations](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Project functionality for team sites <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Modèle de site de projet](../sharepoint-online-service-description/sites-servicedesc.md#project-site-template) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Project Summary web part <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Project workspace <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Listes SharePoint](../sharepoint-online-service-description/sites-servicedesc.md#sharepoint-lists) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Ruban SharePoint <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Bibliothèques de documents](../sharepoint-online-service-description/sites-servicedesc.md#document-libraries) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Liste des tâches](../sharepoint-online-service-description/sites-servicedesc.md#task-list) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Team Site: Drag & Drop <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Bloc-notes d’équipe](../sharepoint-online-service-description/sites-servicedesc.md#team-notebook) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Team Site: Simplified Access <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Conceptions de site](../sharepoint-online-service-description/sites-servicedesc.md#site-designs) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Thèmes de site (modifier l’apparence)](../sharepoint-online-service-description/sites-servicedesc.md#site-themes-change-the-look) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Page Utilisation du site](../sharepoint-online-service-description/sites-servicedesc.md#site-usage-page) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Variantes](../sharepoint-online-service-description/sites-servicedesc.md#variations) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Work Management Service <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Fonctionnalités sociales** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Ask Me About <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Blogs personnels](../sharepoint-online-service-description/social.md#personal-blogs) <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |
-|Réputation des communautés, badges et modération <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |
-|[Communauté](../sharepoint-online-service-description/social.md#community) <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>10</sup> <br/> |
-|[Flux de l’entreprise](../sharepoint-online-service-description/social.md#company-feed) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Documenter les conversations avec Yammer <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Suivre <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Blog de billets courts <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Flux d’actualités <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Partage en un clic <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Personnes, sites, recommandations de documents <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Site personnel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Photos et présence <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Profil <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Évaluations <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Partagés avec moi <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Flux de site (site d’équipe classique à l’aide de SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|OneDrive Entreprise <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Tag profiles <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Tasks integrated with Outlook <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Balises de tendance <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Wikis](../sharepoint-online-service-description/social.md#wikis) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Yammer  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Compléments** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Stockage supplémentaire](../sharepoint-online-service-description/add-ons.md#additional-storage) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Applications configurées par Azure : Access services](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-access-services) <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |Oui<sup>11</sup> <br/> |
-|[Applications configurées par Azure : code personnalisé dans le rôle Web léger Azure (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> pour utiliser la synchronisation des dossiers, vous devez disposer d’Office 2013 ou version ultérieure (édition standard ou professionnel) ou d’un abonnement Office 365 qui inclut les applications Office. Office 365 Business Essentials, Office 365 Enterprise E1 et Office 365 éducation plans n’incluent pas les abonnements aux applications de bureau Office. Toutefois, vous pouvez utiliser la synchronisation des dossiers si Office 2013 ou une version ultérieure est installé sur votre ordinateur et s’abonner à l’un de ces plans. <br/> 
-<sup>2</sup> étant donné que les utilisateurs Kiosk ne peuvent pas être administrateurs, les clients avec des utilisateurs Kiosk ont besoin d’au moins un utilisateur d’entreprise pour accéder au centre d’administration. <br/> 
-<sup>3</sup> les clients SharePoint Online doivent télécharger et installer l’application gratuite Rank Model Tuning pour créer et personnaliser des modèles de classement. <br/> 
-<sup>4</sup> lorsque vous utilisez les fonctionnalités de découverte électronique, la condition de licence pour un plan qui permet à cette fonctionnalité de s’appliquer à tous les utilisateurs finaux qui font partie de l’action de découverte électronique (Rechercher, mettre en attente, exporter). <br/> 
-<sup>5</sup> certains fournisseurs peuvent être bloqués dans votre pays/région. <br/> 
-<sup>6</sup> partage d’un document, d’une bibliothèque ou d’un site par courrier électronique avec une personne extérieure à votre organisation. Les administrateurs ont la possibilité de les activer, mais reçoivent un message d’avertissement indiquant qu’il est possible de partager des fichiers accessibles en dehors de votre pays. Users who attempt to share with someone outside of the organization will receive the same warning message. <br/> 
-<sup>7</sup> vous pouvez afficher des documents dans n’importe quel navigateur mobile. Vous devez installer l’application Office Mobile pour modifier des documents. Office Mobile est actuellement disponible pour les tablettes et téléphones Windows, les tablettes et téléphones Android, l’iPhone et l’iPad. <br/> <sup>8</sup> l’aide est uniquement disponible en chinois simplifié et en anglais. <br/> 
-<sup>9</sup> les commentaires sur les blogs ne peuvent pas être ajoutés.<br/> 
-<sup>10</sup> le site Web communautaire est disponible, mais l’aide communautaire publique n’est pas disponible. <br/> <sup>11</sup> Access 2010 n’est pas pris en charge. <br/> 
-<sup>12</sup> les solutions en bac à sable ne peuvent pas contenir de code utilisateur. Elles peuvent uniquement contenir des ressources et des fichiers (.xml) de définition qui sont traités par le serveur au moment de leur activation. <br/> <sup>13</sup> les formulaires InfoPath qui contiennent du code utilisateur (sandbox) peuvent uniquement être utilisés dans le client riche InfoPath. <br/> 
-<sup>14</sup> les utilisateurs SharePoint Online authentifiés peuvent accéder à des collections de sites privées avec la navigation par facettes. 
-  
 ### <a name="sharepoint-online-limits"></a>Limites de SharePoint Online
 
 Le tableau suivant indique les limites SharePoint pour chaque plan Office 365 éducation.
