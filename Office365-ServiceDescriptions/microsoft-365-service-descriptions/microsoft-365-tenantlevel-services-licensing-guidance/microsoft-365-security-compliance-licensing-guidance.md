@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 Security & afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787029"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279857"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -87,7 +87,7 @@ Les stratégies de fonctionnalité AIP (à l’exception de la fonctionnalité s
 
 Pour la fonctionnalité de scanneur AIP, Microsoft ne s’engage pas à fournir des fonctionnalités de classification, d’étiquetage ou de protection des fichiers aux utilisateurs qui ne sont pas titulaires d’une licence. Au fil du temps, les vérifications de licence ou les outils ciblés seront ajoutés à AIP pour s’assurer que la fonctionnalité de scanneur peut être attribuée aux utilisateurs titulaires d’une licence.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365-Protection avancée contre les menaces
+## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -139,7 +139,7 @@ Pour plus d’informations sur la configuration du service, voir [Basic Setup fo
 
 Les administrateurs peuvent étendre les déploiements OCAS pour appliquer la manière dont certaines applications sont consultées et limiter les groupes d’utilisateurs surveillés par la sécurité des applications Cloud d’Office 365. Pour plus d’informations, reportez-vous à la rubrique [déploiement étendu](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) est une solution CASB (Cloud Access Security Broker) qui donne aux organisations une visibilité sur leurs applications et services Cloud, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur&mdash;permet de contrôler la façon dont les données transitent dans n’importe quelle application Cloud.
 
@@ -421,3 +421,23 @@ Par défaut, les fonctionnalités d’accès conditionnel sont activées au nive
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
 Pour la protection des identités et l’accès conditionnel, un utilisateur doit être inclus dans un groupe ou ajouté à une stratégie d’accès conditionnel. La condition Users and groups est obligatoire dans une stratégie d’accès conditionnel. Dans votre stratégie, vous pouvez sélectionner **tous les utilisateurs** ou des utilisateurs et des groupes spécifiques. Vous devez sélectionner uniquement les utilisateurs et les groupes sous licence appropriée. Pour plus d’informations, consultez la rubrique [Quelles sont les conditions d’accès conditionnel Azure Active Directory ?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
+
+## <a name="advanced-audit"></a>Audit avancé
+
+Advanced audit in Microsoft 365 fournit une rétention d’un an des journaux d’audit pour les activités de l’utilisateur et de l’administrateur, et permet de créer des stratégies de rétention de journal d’audit personnalisées pour gérer la rétention des journaux d’audit pour d’autres services Microsoft 365. Il permet également d’accéder à des événements cruciaux pour les enquêtes et un accès à bande passante élevée à l’API activité de gestion d’Office 365. Pour plus d’informations, consultez la rubrique [audit avancé dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
+
+### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
+
+Les utilisateurs sous licence d’Office 365 E5, Microsoft 365 E5 et Microsoft 365 E5 la conformité peuvent bénéficier d’un audit avancé.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
+
+Un utilisateur bénéficie d’un audit avancé car les enregistrements d’audit liés à l’activité de l’utilisateur dans les services Microsoft 365 peuvent être conservés pendant un an maximum. En outre, les événements d’audit à valeur élevée sont enregistrés dans un journal, par exemple lorsque des éléments sont consultés ou lus dans la boîte aux lettres d’un utilisateur. Pour plus d’informations, consultez la rubrique [événements d’audit à valeur élevée](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
+
+Par défaut, l’audit avancé est activé au niveau du client pour toutes les organisations disposant d’un abonnement Office 365 ou Microsoft 365 E5, et fournit automatiquement une rétention des journaux d’audit pour les activités (effectuée par les utilisateurs disposant de la licence appropriée) dans Azure Active Directory, Exchange et SharePoint. En outre, les organisations peuvent utiliser des stratégies de rétention du journal d’audit pour gérer la période de rétention des enregistrements d’audit générés par l’activité dans d’autres services Microsoft 365. Pour plus d’informations, voir [gérer les stratégies de rétention du journal d’audit](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
+
+La rétention d’un an des journaux d’audit et des événements à valeur élevée d’audit s’applique uniquement aux utilisateurs disposant de la licence appropriée. En outre, les administrateurs peuvent utiliser des stratégies de rétention du journal d’audit pour spécifier des durées de rétention plus courtes pour les journaux d’audit d’utilisateurs spécifiques.
