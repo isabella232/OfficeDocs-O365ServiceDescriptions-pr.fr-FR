@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: a1f83239d3ac63ea8b8ef2559fe962f131c96110
-ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
+ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41000854"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374181"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -355,12 +355,12 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F1**|
 |Limite de taux de destinataires<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
-|Nombre maximal de destinataires|500 destinataires|500 destinataires|500 destinataires|500 destinataires|500 destinataires|500 destinataires|
+|Nombre maximal de destinataires|500 destinataires|1000 destinataires|1000 destinataires|1000 destinataires|1000 destinataires|1000 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|400|400|
 |Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
-> <sup>1</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5 000 à 09:00 AM, puis envoie un autre message aux destinataires 2 500 à 10:00, puis envoie un autre message à 2 500 destinataires à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
+> <sup>1</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5 000 à 09:00 AM, puis envoie un autre message à 2, 1 000 destinataires à 10:00 AM, puis envoie un autre message aux destinataires 2 500 à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites d’envoi dans les options autonomes
 
@@ -368,7 +368,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 |:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Exchange Server 2013**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Limite de débit de destinataires|Aucune limite<sup>1</sup>|10 000 destinataires par jour<sup>2</sup>|10 000 destinataires par jour<sup>2</sup>|10 000 destinataires par jour<sup>2</sup>|
-|Nombre maximal de destinataires|500 destinataires<sup>1</sup>|500 destinataires|500 destinataires|500 destinataires|
+|Nombre maximal de destinataires|1000 destinataires<sup>1</sup>|1000 destinataires|1000 destinataires|1000 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|
 |Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 

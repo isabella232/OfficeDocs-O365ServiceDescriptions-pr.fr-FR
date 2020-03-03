@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 1456d280f07dc6997cd8c8366fd4ff5f601cb197
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279837"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374191"
 ---
-# <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
+# <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
 Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
 
@@ -52,11 +52,12 @@ Chaque plan Office 365 géré par 21Vianet inclut un certain nombre de services,
 |Power BI|Non|Non|Non|Non|Non|Non|Non|
 |Visio pour le site Web<sup>3</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Yammer Enterprise|Non|Non|Non|Non|Non|Non|Non|
-|Azure Information Protection|Non|Non|Non|Non|Non|Non|Non|
+|Azure Information Protection|Non|Non|Non|Non|Non|Oui<sup>4</sup>|Non|
 
 <sup>1</sup> Inclut des fonctionnalités telles que l'administration d'Office 365, les applications de la suite Office 365, la gestion des comptes d'utilisateur, les domaines, la continuité et l'état du service, la création de rapports, les mises à jour de service, l'aide et la formation, la mise en réseau et ainsi de suite. Pour plus d'informations, reportez-vous au tableau des [Fonctionnalités de la plateforme](office-365-operated-by-21vianet.md#platform-features).
 <br/><sup>2</sup> Project Online n'est pas inclus, mais peut être acheté en tant que service complémentaire distinct ou ajouté gratuitement au plan Office 365 A1.
 <br/><sup>3</sup> Visio for the Web consommation (View Capability) est disponible gratuitement. Les fonctionnalités de création et de modification de Visio pour le Web nécessitent une licence. Pour plus d’informations sur Visio pour le Web, reportez-vous à la [Description de Visio pour le service Web](../visio-online-service-description/visio-online-service-description.md).
+<br/><sup>4</sup> Azure information protection (AIP) est partiellement pris en charge dans Office 365 géré par 21ViaNet. Pour plus d’informations, reportez-vous à la rubrique [parité entre Azure information protection pour Office 365 géré par 21ViaNet et les offres commerciales](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet).
 
 ## <a name="system-requirements"></a>Configuration requise
 
@@ -793,7 +794,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |Personnes, sites, recommandations de documents|Non|Non|Non|Non|Non|Non|Non|
 |Site personnel |Non|Non|Non|Non|Non|Non|Non|
 |Photos et présence|Non|Non|Non|Non|Non|Non|Non|
-|Profil|Non|Non|Non|Non|Non|Non|Non|
+|Profils|Non|Non|Non|Non|Non|Non|Non|
 |Évaluations|Non|Non|Non|Non|Non|Non|Non|
 |Shared with Me|Non|Non|Non|Non|Non|Non|Non|
 |Flux de site (site d’équipe classique à l’aide de SharePoint social)|Non|Non|Non|Non|Non|Non|Non|
