@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
 ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810823"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545797"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -284,7 +284,7 @@ Non disponible dans Excel pour le Web. Si l'application Excel de bureau est inst
 
 Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie à votre ordinateur, utilisez la commande Enregistrer sous de l'onglet Fichier ou cliquez avec le bouton droit sur le nom du classeur dans son dossier, puis utilisez la commande Télécharger .
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 
 Un seul clic suffit pour envoyer à vos collaborateurs un lien leur permettant d’afficher ou de modifier le document. En savoir plus sur [l’utilisation d’Office pour le Web afin de collaborer dans office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

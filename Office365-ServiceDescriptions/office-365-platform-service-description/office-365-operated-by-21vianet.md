@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 668307267529b9d65a05e9296d80ea7da6350bc9
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 0e07a9958800c56c6c6ccfc3e3e3bf964b7c74a8
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374191"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545997"
 ---
-# <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
+# <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
 Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
 
@@ -234,9 +234,11 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Non|Non|Non|Non|Non|Non|N °<sup>5</sup>|Non|Non|Non|
 |[Applications Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |[Office pour Mac pour Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Non|Oui|Non|Non|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
+|Application Microsoft Office pour Android|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Application Microsoft Office pour iOS|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Office Mobile pour iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>5</sup>|Oui|Oui|Oui|
 |[Microsoft Outlook](../office-applications-service-description/office-applications.md#microsoft-outlook)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Office Mobile pour Android] <sup>15</sup>(.. /Office-applications-Service-Description/Office-applications.MD # Office-Mobile-pour-Android)|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>5</sup>|Oui|Oui|Oui|
+|[Office Mobile pour Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)<sup>15</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>5</sup>|Oui|Oui|Oui|
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Non|Non|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
 |[Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Non|Oui|Non|Non|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
 |Outlook pour Android|Non|Oui|Oui|Oui|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
@@ -746,9 +748,9 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |Result sources|Oui|Oui|Oui|Non|Non|Non|Non|
 |Search connector framework|Non|Non|Non|Non|Non|Non|Non|
 |Search results sorting|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Search vertical: “Conversations”|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Search vertical: “People”|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Search vertical: “Video”|Non|Non|Non|Non|Non|Oui|Non|
+|Recherche verticale : « Conversations »|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Recherche verticale : « Personnes »|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Recherche verticale : « Vidéos »|Non|Non|Non|Non|Non|Oui|Non|
 |Recherches « Cette liste »|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**Fonctionnalités des sites**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F1 géré par 21Vianet**|
 |Change the look|Oui|Non|Oui|Oui|Oui|Oui|Oui|

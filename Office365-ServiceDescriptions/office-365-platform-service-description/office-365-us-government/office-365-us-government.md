@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux.
-ms.openlocfilehash: 7fdf83fc7cd4ededf28826861ef0202aca6185bf
-ms.sourcegitcommit: 66e0fa8f265fe5cdb0d94c340fef5cb5431fc600
+ms.openlocfilehash: d94134443ffa106fa162690908825ab295d733e5
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/18/2020
-ms.locfileid: "41233357"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545717"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -143,7 +143,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Power BI Pro  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |Project Online  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |
 |Visio pour le web  <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |
-|Yammer Entreprise  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
+|Yammer Enterprise  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus, G3 et G5 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup> non inclus, mais peut être acheté en tant que module complémentaire distinct. Project Online inclut le client de bureau Project Online dans le cadre de l’abonnement.
@@ -167,14 +167,14 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Courrier électronique de briefing Microsoft  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Microsoft Power Automated  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
+|Microsoft Power Automate  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Oui <br/> |Oui <br/> |Oui<br/> |Oui</sup> <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics  <br/> |Non <br/> |Non <br/> |Oui,<sup>17</sup> <br/> |Non <br/> |
 |Microsoft Planner  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> |
 |Microsoft PowerApps  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Microsoft StaffHub  <br/> |Non <br/> |Non <br/> |Non <br/> |Non<br/> |
-|Microsoft Stream  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Non  <br/> |
+|Microsoft Stream  <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>9, 15, 20</sup>  <br/> |
 |Microsoft Sway  <br/> |Non <br/> |Non <br/> |Non <br/> |Non <br/> |
 |Microsoft Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> |
 |Office Delve  <br/> |Oui,<sup>17</sup> <br/> |Oui,<sup>17</sup> <br/> |Oui  <br/> |Oui,<sup>17</sup> <br/> |
@@ -219,10 +219,10 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Principaux programmes malveillants pour le courrier électronique  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Correspondances de règles pour le courrier électronique  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Principales correspondances de règles pour le courrier électronique  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|Principales correspondances de stratégies DLP pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|Correspondances de stratégies DLP par gravité pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|Correspondances de stratégies DLP, de remplacements et de faux positifs pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|Principales correspondances de règles DLP pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
+|Principales correspondances de stratégies DLP pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Non <br/> |
+|Correspondances de stratégies DLP par gravité pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Non <br/> |
+|Correspondances de stratégies DLP, de remplacements et de faux positifs pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Non <br/> |
+|Principales correspondances de règles DLP pour le courrier électronique  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Non <br/> |
 |Sessions de messagerie instantanée et audio  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Conférences de partage d'application, web et rendez-vous  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Sessions vidéo, de partage d'application et de transfert de fichiers  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
@@ -231,7 +231,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Système d'exploitation utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|**[Mises à jour du service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
+|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |
@@ -246,7 +246,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**Approbation** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F1** <br/> |
 |**[Confidentialité, sécurité et transparence](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Gouvernance des données avancée  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
-|Sécurité de l’application Cloud  <br/> |N °<sup>12, 15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |Oui<sup>15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |
+|Sécurité de l’application cloud  <br/> |N °<sup>12, 15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |Oui<sup>15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |
 |Protection avancée contre les menaces  <br/> |N °<sup>12, 18</sup> <br/> |N °<sup>12, 18</sup> <br/> |Oui<sup>18</sup>  <br/> |N °<sup>12, 18</sup> <br/> |
 |Référentiel sécurisé de client  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
 |Office 365 Advanced eDiscovery  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui  <br/> |N °<sup>12</sup> <br/> |
@@ -285,12 +285,14 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>11</sup> pas encore disponible dans les offres gouvernementales Office 365, mais bientôt disponible. 
 <br/><sup>12</sup> non inclus, mais peut être acheté séparément en tant que module complémentaire dans GCC. 
 <br/><sup>13</sup> non pris en charge pour les offres gouvernementales Office 365. 
-<br/><sup>14</sup> disponible à [https://securescore.office.com](https://securescore.office.com)l’adresse. Nécessite des autorisations d'administration. Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](https://go.microsoft.com/fwlink/?linkid=836894). 
+<br/><sup>14</sup> disponible à [https://securescore.office.com](https://securescore.office.com)l’adresse. Nécessite des autorisations d'administration. Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+). 
 <br/><sup>15</sup> pas encore disponible dans l’environnement DOD, mais bientôt disponible. 
 <br/><sup>16</sup> le centre d’administration n’inclut pas l’analyse de l’utilisation dans les environnements DoD ou GCC High.
 <br/><sup>17</sup> non pris en charge pour les environnements GCC High ou DoD.
 <br/><sup>18</sup> le hameçonnage pour l’emprunt d’identité d’utilisateur et de domaine et l’aide à l’usurpation ne sont pas encore disponibles dans GCC High et DoD.
 <br/><sup>19</sup> pas encore disponible dans l’environnement GCC, mais bientôt disponible.
+<br/><sup>20</sup> consommation uniquement pour Microsoft Stream : pas de publication ni de partage. 
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Disponibilité de l’application Office et valeur entreprise
 
@@ -378,14 +380,14 @@ Les applications Office suivantes sont disponibles dans les nuages des gouvernem
 |Recherche intelligente | Non <br/> | Non <br/> | Non <br/> |
 |Graphiques : compartimentage de soleil, cascade, histogramme, cartes, chronologie, entonnoir | Non <br/> | Non <br/> | Non <br/> |
 |Historique des versions | Non <br/> | Non <br/> | Non <br/> |
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) est entièrement disponible dans les clouds gouvernementaux, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DoD**<sup>3</sup> <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) est entièrement disponible dans les clouds gouvernementaux, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Notification par courrier électronique | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> | 
 |Insérer une image | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> |
 |Insérer une vidéo | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> |
 |Mathématiques | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> |
 |Intégration d’Office | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> |
-|Formulaires de groupe les plus récents | Oui <br/> | Oui <br/> | Non <br/> |
-|Partage externe <sup>4</sup> | Oui <br/> | Non <br/> | Non <br/> |
+|Formulaires de groupe les plus récents | N °<sup>4</sup> <br/> | Oui <br/> | Oui <br/> |
+|Partage externe <sup>3</sup> | Oui <br/> | Non <br/> | Non <br/> |
 |Forms Pro | Non | Non | Non |
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Recherche | Non <br/> | Non <br/> | Non <br/> |
@@ -438,7 +440,7 @@ Les applications Office suivantes sont disponibles dans les nuages des gouvernem
 |Conversation contextuelle avec co-auteurs : conversion avec les co-auteurs dans le document | Non <br/> | Non <br/> | Non <br/> |
 |Dictée | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> |
 
-> <sup>1</sup> disponibilité à venir.<br/>
-<sup>2</sup> disponibilité sur un concentrateur de surface local (non connecté).<br/>
-<sup>3</sup> l’application n’est pas disponible actuellement dans le Cloud DoD.<br/>
-<sup>4</sup> le partage externe est disponible pour l’environnement GCC. En savoir plus sur l’activation ou l’activation de [Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements GCC High et DOD. les utilisateurs au sein de votre organisation peuvent effectuer les opérations suivantes : remplir un formulaire et envoyer des réponses, [dupliquer et partager un formulaire en tant que modèle](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [co-auteur ou collaborer sur un formulaire](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b), et [accéder aux résultats de formulaire](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+><sup>1</sup> disponibilité à venir.
+<br/><sup>2</sup> disponibilité sur un concentrateur de surface local (non connecté).
+<br/><sup>3</sup> le partage externe est disponible pour l’environnement GCC. En savoir plus sur l’activation ou l’activation de [Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements GCC High et DOD. les utilisateurs au sein de votre organisation peuvent effectuer les opérations suivantes : remplir un formulaire et envoyer des réponses, [dupliquer et partager un formulaire en tant que modèle](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [co-auteur ou collaborer sur un formulaire](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b), et [accéder aux résultats de formulaire](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).
+<br/><sup>4</sup> la fonctionnalité des formulaires de groupe récents est désactivée pour l’environnement GCC. Toutefois, les utilisateurs peuvent toujours accéder aux formulaires de groupe en sélectionnant un groupe spécifique sous l’onglet Formulaires de groupe.
