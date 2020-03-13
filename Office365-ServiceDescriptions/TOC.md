@@ -65,6 +65,7 @@
 ### [Fonctionnalités client](exchange-online-archiving-service-description/client-features.md)
 ### [Fonctionnalités de conformité et de sécurité](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md)
+## [Description du service Microsoft Teams](teams-service-description.md)
 ## [Description du service OneDrive](onedrive-for-business-service-description.md)
 ## [Description du service SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [Limites de SharePoint](sharepoint-online-service-description/sharepoint-online-limits.md)
