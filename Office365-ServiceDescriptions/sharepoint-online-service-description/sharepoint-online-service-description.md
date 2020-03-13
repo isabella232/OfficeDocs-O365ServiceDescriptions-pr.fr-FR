@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172851"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609865"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -43,7 +43,7 @@ Pour plus d’informations sur les dernières fonctionnalités publiées, voir [
 
 Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d'informations sur les plans, y compris les options de plan autonome, et sur le passage d'un plan à un autre, consultez la rubrique [Options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Pour accéder à SharePoint, les utilisateurs de votre organisation doivent disposer d’une licence qui inclut SharePoint. Un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre de l’abonnement terrain. Les utilisateurs de terrain ne voient pas les menus de navigation SharePoint, de sorte que les employés terrain doivent accéder directement aux sites SharePoint par URL.
+Pour accéder à SharePoint, les utilisateurs de votre organisation doivent disposer d’une licence qui inclut SharePoint. Un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre de l' [abonnement terrain](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Droits des invités
 
@@ -152,7 +152,7 @@ Pour plus d’informations sur la disponibilité de la clé client, voir [How is
 Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans tous les plans qui incluent SharePoint, ainsi que tous les plans autonomes SharePoint :
 
 - [Accessibilité](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Ajoutez Microsoft teams à des sites](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Nécessite un abonnement qui inclut Office 365 et qui exige que l’utilisateur soit concédé sous licence pour Teams.
+- [Ajoutez Microsoft teams à des sites](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Nécessite un abonnement incluant Office 365 et l'utilisateur doit disposer d'une licence pour Teams.
 - [Ciblage d’audience](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [Connectez les sites d’équipe classiques à de nouveaux groupes Office 365](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Nécessite un abonnement qui inclut Office 365.
 - [Créer un plan (intégration du planificateur)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Nécessite un abonnement qui inclut Office 365 et nécessite que l’utilisateur soit concédé sous licence pour le planificateur.
@@ -163,7 +163,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Méga-menus](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Intégration de Microsoft Forms](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). Nécessite un abonnement qui inclut Office 365 et qui exige que l’utilisateur soit concédé sous licence pour les formulaires.
 - [Actualités](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- Intégration des applications de bureau Office. Nécessite un abonnement qui inclut les applications de bureau Office.
+- Intégration des applications de bureau Office. Nécessite un abonnement incluant les applications de bureau Office.
 - Office pour l’intégration Web. Nécessite un abonnement qui inclut Office 365.
 - [Bibliothèque de biens de l’Organisation](/sharepoint/organization-assets-library)
 - [Informations sur l’Organisation](/sharepoint/organization-news-site)
@@ -185,11 +185,11 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Bloc-notes OneNote d’équipe](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Thèmes (modifier l’apparence)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Composants WebPart](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Utiliser le contenu SharePoint dans Microsoft teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Nécessite un abonnement qui inclut Office 365 et qui exige que l’utilisateur soit concédé sous licence pour Teams.
+- [Utiliser le contenu SharePoint dans Microsoft teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Nécessite un abonnement incluant Office 365 et l'utilisateur doit disposer d'une licence pour Teams.
 
 Pour en savoir plus sur la disponibilité des applications d’alimentation et de gestion de l’alimentation Microsoft, voir le Forum aux questions sur les [applications puissantes et la gestion des licences](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Pour plus d’informations sur les fonctionnalités liées au partage, voir la [Description du service OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+Pour plus d’informations sur les fonctionnalités liées au partage, voir la [Description du service OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features).
 
 ## <a name="search-features"></a>Fonctionnalités de recherche
 

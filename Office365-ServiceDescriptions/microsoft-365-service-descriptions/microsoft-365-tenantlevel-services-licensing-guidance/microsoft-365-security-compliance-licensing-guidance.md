@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 Security & afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374161"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609915"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -71,7 +71,7 @@ Azure information protection (AIP) aide les organisations à découvrir, classer
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
 
-Les utilisateurs titulaires d’une licence Microsoft 365 F1, Microsoft 365 Business, Microsoft 365 E3/a3/G3 et AIP plan 1 peuvent bénéficier de l’AIP plan 1. Les utilisateurs sous licence de Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Compliance et AIP plan 2 peuvent bénéficier de l’AIP plan 2.
+Les utilisateurs titulaires d’une licence Microsoft 365 F3, Microsoft 365 entreprise, Microsoft 365 E3/a3/G3 et AIP plan 1 peuvent bénéficier de l’AIP plan 1. Les utilisateurs sous licence de Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Compliance et AIP plan 2 peuvent bénéficier de l’AIP plan 2.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -87,7 +87,7 @@ Les stratégies de fonctionnalité AIP (à l’exception de la fonctionnalité s
 
 Pour la fonctionnalité de scanneur AIP, Microsoft ne s’engage pas à fournir des fonctionnalités de classification, d’étiquetage ou de protection des fichiers aux utilisateurs qui ne sont pas titulaires d’une licence. Au fil du temps, les vérifications de licence ou les outils ciblés seront ajoutés à AIP pour s’assurer que la fonctionnalité de scanneur peut être attribuée aux utilisateurs titulaires d’une licence.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
+## <a name="office-365-advanced-threat-protection"></a>Protection avancée contre les menaces Office 365
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -408,7 +408,7 @@ L’accès conditionnel est l’outil utilisé par Azure Active Directory pour r
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
 
-Les utilisateurs sous licence de Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3 et Azure Active Directory Premium plan 1 peuvent bénéficier des stratégies d’accès conditionnel. Les utilisateurs sous licence d’Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft E5 Security et Azure Active Directory Premium plan 2 peuvent tirer parti de la protection des identités (stratégies d’accès conditionnel basées sur les risques).
+Les utilisateurs sous licence de Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F3/E3/a3/G3 et Azure Active Directory Premium plan 1 peuvent bénéficier des stratégies d’accès conditionnel. Les utilisateurs sous licence d’Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft E5 Security et Azure Active Directory Premium plan 2 peuvent tirer parti de la protection des identités (stratégies d’accès conditionnel basées sur les risques).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -436,7 +436,7 @@ Un utilisateur bénéficie d’un audit avancé car les enregistrements d’audi
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Par défaut, l’audit avancé est activé au niveau du client pour toutes les organisations disposant d’un abonnement Office 365 ou Microsoft 365 E5, et fournit automatiquement une rétention des journaux d’audit pour les activités (effectuée par les utilisateurs disposant de la licence appropriée) dans Azure Active Directory, Exchange et SharePoint. En outre, les organisations peuvent utiliser des stratégies de rétention du journal d’audit pour gérer la période de rétention des enregistrements d’audit générés par l’activité dans d’autres services Microsoft 365. Pour plus d’informations, voir [Gérer les stratégies de rétention du journal d’audit](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+Par défaut, l’audit avancé est activé au niveau du client pour toutes les organisations disposant d’un abonnement Office 365 ou Microsoft 365 E5, et fournit automatiquement une rétention des journaux d’audit pour les activités (effectuée par les utilisateurs disposant de la licence appropriée) dans Azure Active Directory, Exchange et SharePoint. En outre, les organisations peuvent utiliser des stratégies de rétention du journal d’audit pour gérer la période de rétention des enregistrements d’audit générés par l’activité dans d’autres services Microsoft 365. Pour plus d’informations, voir [gérer les stratégies de rétention du journal d’audit](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 

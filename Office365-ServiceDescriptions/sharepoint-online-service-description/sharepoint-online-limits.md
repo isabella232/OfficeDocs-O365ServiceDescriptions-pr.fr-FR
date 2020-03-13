@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour Office 365 et les plans autonomes.
-ms.openlocfilehash: 03cf3a792bb88d1a6c6d6048752fe2caaf695f35
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279867"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609975"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -24,7 +24,7 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials ou Business Premium** <br/> |**Office 365 entreprise E1, E3 ou E5, ou SharePoint plan 1 ou 2** <br/> | **Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials ou Business Premium** <br/> |**Office 365 entreprise E1, E3 ou E5, ou SharePoint plan 1 ou 2** <br/> | **Office 365 entreprise F3** <br/> |
 |Stockage total par organisation<sup>1, 2, 6</sup> <br/> |1 to plus 10 Go par licence achetée  <br/> |1 to plus 10 Go par licence achetée<sup>3</sup> <br/> |1 to<sup>3</sup> <br/> |
 |Stockage maximal par site (collection de sites)<sup>4</sup><br/> |25 TO <br/> |25 TO <br/> |25 to<sup>5</sup> <br/> |
 |Sites (collections de sites) par organisation  <br/> |2 millions<sup>6</sup> <br/> |2 millions<sup>6</sup> <br/> |2 millions<br/> |
@@ -105,6 +105,6 @@ Un utilisateur peut appartenir à des groupes 5 000 et chaque groupe peut avoir 
 > [!NOTE]
 > Il n’y a pas de limite au nombre d’invités que vous pouvez inviter sur les sites SharePoint. Pour plus d’informations sur le partage externe, consultez la rubrique [vue d’ensemble du partage externe](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Consultez aussi
+## <a name="see-also"></a>Voir aussi
 
 [Limites de recherche pour SharePoint](/sharepoint/search-limits)

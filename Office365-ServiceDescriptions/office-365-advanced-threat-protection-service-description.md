@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 2c08cb74b826602ec9e123cae3e6e29390b37895
-ms.sourcegitcommit: faa19e491c43f33c0a07077b7dcb74daa11d4842
+ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/20/2019
-ms.locfileid: "40824988"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609835"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -53,7 +53,7 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
 
 - Office 365 Entreprise E3
 
-- Office 365 Entreprise F1
+- Office 365 entreprise F3
 
 - Office 365 A1
 
@@ -123,7 +123,7 @@ Les liens fiables sont disponibles pour les URL dans les applications suivantes�
 >
 > Pour plus d’informations sur la protection des liens fiables ATP, consultez la rubrique relative [à l’utilisation des liens fiables ATP avec des URL dans les documents Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
-### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pour SharePoint, OneDrive et Microsoft Teams.
+### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>PACM pour SharePoint, OneDrive et Microsoft Teams
 
 La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) permet de détecter et de bloquer des fichiers identifiés comme étant malveillants dans les sites d’équipe et les bibliothèques de documents.
 

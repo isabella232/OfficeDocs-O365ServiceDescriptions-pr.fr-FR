@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 64c73c3f14e4afb57a459592eba18b2fd6a38870
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810813"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42614537"
 ---
 # <a name="office-365-plan-options"></a>Options de plan Office 365
 
@@ -34,7 +34,7 @@ Le tableau ci-après répertorie les familles et plans de services disponibles d
 |**Famille de services Office 365**|**Plans**|
 |:-----|:-----|
 |**Entreprise (maximum de 300 utilisateurs)** <br/> |[Office 365 Business Essentials](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Office 365 Business](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Office 365 Business Premium](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
-|**Entreprise (nombre illimité d’utilisateurs)** <br/> |[Office 365 Entreprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Entreprise F1](https://products.office.com/business/office-365-f1) <br/> |
+|**Entreprise (nombre illimité d’utilisateurs)** <br/> |[Office 365 Entreprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Entreprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Entreprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 entreprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Éducation (nombre illimité d’utilisateurs)** <br/> |[Office 365 Éducation](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Éducation E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Secteur public (nombre illimité d’utilisateurs)** <br/> |[Voir tous les abonnements professionnels disponibles](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Office 365 géré par 21Vianet en Chine** <br/> |[Voir toutes les offres disponibles pour les entreprises](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
@@ -49,7 +49,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Service** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 entreprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Service** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 entreprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 entreprise F3** <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>6</sup> <br/> |Non  <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Oui<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -64,7 +64,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Microsoft Kaizala<sup>17</sup> <br/> |Oui <br/> |Non  <br/> |Oui <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
    
 <sup>1</sup> Project Online n’est pas inclus, mais peut être acheté en tant que service complémentaire distinct ou ajouté gratuitement au plan Office 365 éducation.<br/>
-<sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1.<br/>
+<sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure information protection requièrent un abonnement à Office 365 ProPlus, qui n’est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 entreprise E1, Office 365 éducation ou Office 365 Enterprise F3.<br/>
 <sup>3</sup> pour en savoir plus sur les fonctionnalités Azure information protection incluses dans les plans Office 365, consultez la rubrique [Azure information protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> Office 365 entreprise E5 contient les fonctionnalités de système téléphonique, d’audioconférence et de plan d’appel. Pour implémenter la fonctionnalité Forfait d’appels, vous devez souscrire à un plan supplémentaire (Forfait d’appels nationaux ou Forfait d’appels internationaux).<br/>
 <sup>5</sup> inclut un stockage de 2 Go. <br/>

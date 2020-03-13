@@ -1,5 +1,5 @@
 ---
-title: Limites de Skype entreprise Online
+title: Limites de Skype Entreprise Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Les limites de Skype entreprise Online appartiennent aux catégories suivantes.
-ms.openlocfilehash: bbe968670e8fcaf442422c8f835363f7dc5f0c66
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263278"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609955"
 ---
-# <a name="skype-for-business-online-limits"></a>Limites de Skype entreprise Online
+# <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
 Les limites de Skype entreprise Online appartiennent aux catégories suivantes :
   
@@ -47,7 +47,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 entreprise F3** <br/> |
 |Limite de transfert de fichiers  <br/> |Sans limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Non applicable  <br/> |
 |Limite de conversation<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicable  <br/> |
@@ -85,7 +85,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F1** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 entreprise F3** <br/> |
 |Limite de chargement de fichiers  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |Non applicable  <br/> |
 |Participants à une réunion Skype Entreprise<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
 |Présentateurs dans une réunion Skype Entreprise  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de communication et de collaboration de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise&mdash;Online pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: aef2ede957404e73ab723766239ffbbd186e1d3c
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172236"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609965"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -141,7 +141,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -709,7 +709,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Nombre maximal de membres d’un groupe de distribution<sup>1</sup> <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |
 |Limite d’envoi de messages à de grands groupes de distribution  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |
 |Taille maximale de message pour les grands groupes de distribution  <br/> |2 Mo  <br/> |2 Mo  <br/> |2 Mo  <br/> |
-|Nombre maximal de propriétaires de groupe de distribution  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|Nombre maximal de propriétaires de groupe de distribution  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Nombre maximal de groupes qu’un utilisateur peut créer  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -809,7 +809,7 @@ Les offres de qualification suivantes fournissent un espace de stockage OneDrive
     
 - Office 365 A5
     
-Vous ne pouvez pas allouer davantage de stockage à un utilisateur OneDrive spécifique. Toutefois, vous pouvez réduire la quantité de stockage qu’un utilisateur voit. Si un utilisateur d’Office 365 Enterprise F1 a besoin de plus de stockage, vous devez effectuer une mise à niveau vers Office 365 Enterprise E1.
+Vous ne pouvez pas allouer davantage de stockage à un utilisateur OneDrive spécifique. Toutefois, vous pouvez réduire la quantité de stockage qu’un utilisateur voit. Si un utilisateur d’Office 365 Enterprise F3 a besoin de plus de stockage, vous devez effectuer une mise à niveau vers Office 365 entreprise E1.
   
 Pour plus d’informations sur les types de fichiers que vous ne pouvez pas ajouter à OneDrive entreprise, consultez [la rubrique types de fichiers qui ne peuvent pas être ajoutés à une liste ou une bibliothèque](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   

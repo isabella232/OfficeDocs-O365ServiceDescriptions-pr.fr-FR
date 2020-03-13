@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+ms.openlocfilehash: d87b95a87e133f5862e6ef93109414bb7ebd5063
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969951"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609905"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -39,7 +39,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 
 |||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office professionnel plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**Microsoft 365 Business** <br/> |
+|**Fonctionnalité** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office professionnel plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |**Microsoft 365 Business** <br/> |
 |**Applications Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
@@ -56,7 +56,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |[Office Mobile pour Android](office-applications.md#office-mobile-for-android) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup>  <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |
 |[Office Mobile pour Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Oui <sup>13</sup> <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup>  <br/> |Oui  <br/> |
 |Outlook pour Android  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|**Valeur entreprise** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office professionnel plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F1** <br/> |**Microsoft 365 Business** <br/>
+|**Valeur entreprise** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office professionnel plus 2019** <br/> |**Office 365 ProPlus** <br/> |**Office 365 Business** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |**Microsoft 365 Business** <br/>
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Non  <br/>| Non  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> | Oui<sup>7</sup> <br/> |
 |Mise en service automatisée du compte d'utilisateur  <br/> |N/D  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Interface utilisateur multilingue  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Non <br/> |
@@ -93,7 +93,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 ><sup>++</sup>Application OneNote accès aux blocs-notes sur SharePoint Server, SharePoint Online, OneDrive entreprise et Office 365. <br/>
 ><sup>+++</sup>La prise en charge des BHO est une technologie d’extension pour Internet Explorer. <br/>
 ><sup>1</sup> Les fonctionnalités d'archivage et de conformité sont prises en charge avec cette version d'Office, mais les plans SharePoint Online et Exchange Online ne sont pas inclus et doivent être achetés séparément ou utilisés avec les équivalents de serveur local pris en charge.<br/>
-<sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Office 365 ProPlus qui n'est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F1.<br/>
+<sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure information protection requièrent un abonnement à Office 365 ProPlus, qui n’est pas inclus dans Office 365 Business Essentials, Office 365 Business Premium, Office 365 entreprise E1, Office 365 éducation ou Office 365 Enterprise F3.<br/>
 <sup>3</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge.<br/>
 <sup>4</sup> Si vous disposez d'Office Professionnel Plus 2013 ou d'une version autonome d'Excel 2013, vous pouvez télécharger et utiliser [Power Map Preview pour Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) en tant que module complémentaire non pris en charge.<br/> 
 <sup>5</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype complète, qui intègre des fonctionnalités supplémentaires, y compris le support téléphonique, l'archivage et la conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour obtenir une comparaison des fonctionnalités et des fonctionnalités, consultez la rubrique [Desktop Client Comparison Tables for Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
@@ -101,7 +101,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 <sup>7</sup> Office pour Mac 2011 peut être installé, mais pas activé. <br/>
 <sup>8</sup> Office 365 ProPlus est pris en charge sur une infrastructure VDI (Virtual Desktop Infrastructure) dédiée aux utilisateurs. Office 365 ProPlus prend uniquement en charge les services Bureau à distance s'il est acheté dans le cadre d'un programme de licences en volume.<br/>
 <sup>9</sup> L'activation en volume pour Office 365 Entreprise E3 et Office 365 ProPlus est limitée aux installations sur Windows Server 2008 R2 et version ultérieure avec le rôle des services Bureau à distance activé, ou aux installations Windows To Go. Dans les deux cas, les utilisateurs qui accèdent à ces installations doivent disposer d'une licence Office 365 Entreprise E3 ou Office 365 ProPlus.<br/> 
-<sup>10</sup> Les fonctionnalités Skype Entreprise dans Office 365 Entreprise F1 incluent Skype Entreprise Plan 1 (pas de partage de bureau ni d'application, impossible de démarrer une conversation audio, vidéo ou une conférence web en groupe, impossible de planifier des réunions).<br/> 
+<sup>10</sup> les fonctionnalités Skype entreprise dans Office 365 entreprise F3 incluent Skype entreprise plan 1 (pas de partage de bureau, pas de partage d’application, impossible d’initier des conférences audio, vidéo ou Web, impossible de planifier des réunions).<br/> 
 <sup>11</sup> l’accès est actuellement disponible si vous êtes sur le canal actuel ou sur la version cible du canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d'informations, reportez-vous à l'article relatif à [l'inclusion d'Access dans le cadre d'Office 365 Business et de Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
 <sup>12</sup> InfoPath 2013 est toujours pris en charge et est disponible dans l’installation d’Office professionnel plus 2016, mais il n’existe pas de nouvelle version pour Office 2016.<br/> 
 <sup>13</sup> prise en charge des fonctionnalités d’édition de base uniquement.<br/> 
