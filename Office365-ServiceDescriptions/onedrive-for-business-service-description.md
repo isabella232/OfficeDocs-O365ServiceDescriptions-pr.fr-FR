@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez les fonctionnalités OneDrive disponibles par offre.
-ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374171"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609875"
 ---
 # <a name="onedrive-service-description"></a>Description du service OneDrive
 
@@ -40,7 +40,7 @@ Pour connaître la configuration requise pour l'application mobile et l'applicat
 
 **2 Go**
 
-- Office 365 Entreprise F1
+- Office 365 Entreprise F3
 
 **1 To**
 
@@ -88,7 +88,7 @@ En cas de besoin d’une capacité de stockage dans le cloud supérieure à la c
   
 - Si un utilisateur utilise au moins 90 % de l’espace de stockage OneDrive de 5 To, Microsoft augmente l’espace de stockage par défaut dans OneDrive jusqu’à 25 To par utilisateur (les administrateurs peuvent définir une limite par utilisateur inférieure s’ils le souhaitent). 
     
-- Tout utilisateur utilisant au moins 90 % de son espace de stockage OneDrive de 25 To se voit attribuer un espace de stockage dans le cloud supplémentaire, par exemple de 25 To pour un site d’équipe SharePoint.
+- Tout utilisateur utilisant au moins 90 % de son espace de stockage OneDrive de 25 To se voit attribuer un espace de stockage dans le cloud supplémentaire, par exemple de 25 To pour un site d’équipe SharePoint. Pour plus d’informations et obtenir de l’aide, contactez le support technique Microsoft.
     
 Pour afficher l’espace de stockage et l’utilisation d’un utilisateur, accédez à [Gérer le stockage](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) dans l'application de synchronisation OneDrive. Pour connaître la quantité d’espace de stockage utilisée par l’organisation, accédez au [Rapport d’utilisation du site OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) dans le Centre d’administration Microsoft 365. 
    
@@ -184,5 +184,5 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 
 ## <a name="it-admin-security-and-compliance-features"></a>Fonctionnalités de conformité et de sécurité avancées, et administrateurs informatiques
 
-Pour plus d’informations sur ces fonctionnalités, voir la [description du service SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-descriptions#security-and-compliance-features).
-  
+Pour plus d’informations sur ces fonctionnalités, voir la [description du service SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
+
