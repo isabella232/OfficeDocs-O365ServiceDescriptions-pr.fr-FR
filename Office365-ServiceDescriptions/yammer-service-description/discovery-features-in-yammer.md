@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
 ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263095"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688228"
 ---
 # <a name="discovery-features-in-yammer"></a>Fonctionnalités de découverte dans Yammer
 

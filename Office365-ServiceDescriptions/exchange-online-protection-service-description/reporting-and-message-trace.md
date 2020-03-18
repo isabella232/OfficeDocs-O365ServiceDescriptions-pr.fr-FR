@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) offre un grand nombre de rapports qui peuvent vous aider à déterminer l'état général de votre organisation. Certains rapports sont disponibles dans le centre d’administration 365 de Microsoft, tandis que d’autres sont disponibles dans le centre d’administration Exchange.
 ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545857"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687921"
 ---
 # <a name="reporting-and-message-trace"></a>Création de rapports et suivi des messages
 

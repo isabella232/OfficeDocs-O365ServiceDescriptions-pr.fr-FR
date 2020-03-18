@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Les fonctionnalités des services principaux suivantes sont disponibles dans Project online.
 ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546007"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688198"
 ---
 # <a name="core-services-functionality"></a>Services de base
 

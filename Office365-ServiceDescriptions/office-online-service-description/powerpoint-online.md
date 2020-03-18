@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint pour le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft Office 365 avec Office pour le Web peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
 ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545747"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688081"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint pour le web
 
@@ -171,7 +171,7 @@ PowerPoint pour le Web enregistre votre travail chaque fois que vous effectuez u
 
 Word Art et les graphiques ne peuvent pas être insérés dans PowerPoint pour le Web, mais PowerPoint pour le Web les affiche comme prévu. Le mode Édition permet de modifier et de mettre en forme un texte. Si vous souhaitez appliquer des effets de texte à Word Art, vous aurez besoin de l’application de bureau Microsoft PowerPoint.
   
-## <a name="share"></a>Partager
+## <a name="share"></a>Share
 
 Si votre présentation est enregistrée dans une bibliothèque de documents SharePoint, votre présentation est en ligne et vous pouvez la partager en envoyant un lien au lieu de l'insérer en pièce jointe à un e-mail. Les personnes autorisées pourront ainsi l'afficher dans leur navigateur web ou sur leur appareil mobile. En savoir plus sur [le partage d'une présentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   

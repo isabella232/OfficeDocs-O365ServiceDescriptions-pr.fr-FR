@@ -13,11 +13,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Les fonctionnalités de collaboration sur les documents suivantes sont disponibles dans Yammer.
 ms.openlocfilehash: 5576d34b81f517d00d120fae761a5fdb1a0c6b7c
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726367"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687881"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Fonctionnalités de collaboration sur les documents dans Yammer
 

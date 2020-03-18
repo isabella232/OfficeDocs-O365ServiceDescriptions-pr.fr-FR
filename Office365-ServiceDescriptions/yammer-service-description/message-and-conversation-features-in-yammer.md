@@ -1,5 +1,5 @@
 ---
-title: Fonctionnalités de message et de conversation dans Yammer
+title: Fonctionnalités de messagerie et de conversation dans Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Les fonctionnalités de messagerie et de conversation suivantes sont disponibles dans Yammer.
 ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263085"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42687876"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Fonctionnalités de message et de conversation dans Yammer
+# <a name="message-and-conversation-features-in-yammer"></a>Fonctionnalités de messagerie et de conversation dans Yammer
 
 Les fonctionnalités de messagerie et de conversation suivantes sont disponibles dans Yammer.
   
