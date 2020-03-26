@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
-ms.openlocfilehash: fa5ebea4cd3c5bd1b26e9d51e0bd8e2f9b4ea0e2
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: c1e424939962ab4d106bfdc3c3e8a335810ffdb0
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609715"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954801"
 ---
 # <a name="office-365-platform-service-description"></a>Description du service de la plateforme Office 365
 
@@ -91,18 +91,18 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |**[Fonctionnalités d'administration d'Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Administrer Office 365 à l’aide du centre d’administration 365 de Microsoft ou de Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
-|**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |N °<sup>20</sup>  <br/> |N °<sup>20</sup>  <br/> |Non  <br/> |
 |Courrier électronique de briefing Microsoft<sup>23</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Power Automate  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics<sup>21</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|Microsoft Planner  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Microsoft Planner  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft PowerApps  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Stream  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>18</sup> <br/> |
@@ -113,7 +113,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Office 365 Video  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>11</sup> <br/> |
 |Bloc-notes OneNote pour la classe  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui<sup>15</sup> <br/> |Non  <br/> |
 |Microsoft Kaizala<sup>19</sup> <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
-|**[Gestion des comptes d’utilisateur](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[Gestion des comptes d’utilisateur](user-account-management.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Identité cloud, identité fédérée ou authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Configuration du bureau Office 365  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Téléchargement en bloc utilisant des fichiers .csv  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -126,7 +126,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Plusieurs rôles d'administrateur disponibles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Autoriser un partenaire à administrer Office 365 pour vous  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Azure Active Directory Services<sup>22</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Domaines](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[Domaines](domains.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Ajouter des domaines personnalisés de 2ème niveau, comme fourthcoffee.com  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ajouter des domaines personnalisés de 3ème niveau, comme marketing.fourthcoffee.com  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ajouter jusqu'à 900 domaines personnalisés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -139,11 +139,11 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Utilisation d'un autre fournisseur pour le courrier électronique et la messagerie instantanée  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[État et continuité du service](service-health-and-continuity.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[État et continuité du service](service-health-and-continuity.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Status information available on the **Service health** or **Service status** page  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |État des alertes individuelles disponible dans le tableau de bord du centre d’administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Flux RSS **État du service**  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Rapports](reports.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[Rapports](reports.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Boîtes aux lettres actives et inactives  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Boîtes aux lettres supprimées et nouvelles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Groupes nouveaux et supprimés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -168,19 +168,19 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |--  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Option pour activer la mise en production ciblée  <br/> |Oui  <br/> |--  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Aide et formation](help-and-training.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[Aide et formation](help-and-training.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Aide en ligne  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Communauté  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Autres ressources d'aide autonome  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Auto-formation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Réseau](networking.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[Réseau](networking.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Protocoles IPv4 et IPv6  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Approbation** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**Approbation** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |**[Confidentialité, sécurité et transparence](privacy-security-and-transparency.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Sécurité de l’application cloud Office 365  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Protection avancée contre les menaces  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
@@ -199,7 +199,7 @@ Plusieurs offres Office 365 pour les entreprises disposent de modules complémen
 |Accord de traitement de données Microsoft  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Données PAN sous régie PCI  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |**[Continuité de service](service-health-and-continuity.md)** <br/> ||||||||
-|**[BlackBerry](blackberry.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> |
+|**[BlackBerry](blackberry.md)** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business** <br/> |**Office 365 Business Premium** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Utilisation de BlackBerry Internet Service (BIS)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Partenaires](partners.md)** <br/> ||||||||
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

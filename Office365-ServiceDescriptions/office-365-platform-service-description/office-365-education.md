@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de communication et de collaboration de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise&mdash;Online pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: 7f2c794c60e0c2b9ce677291c134aa5aa3be4dc4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 949fe15b1bb6f0d8823aeb2156975636149e2b4e
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609965"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959292"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -39,13 +39,13 @@ Chaque plan Office 365 éducation inclut un certain nombre de services individue
 |Skype Entreprise Online  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |
 |Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Applications Office  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Project Online  <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |
+|Project  <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |N °<sup>1</sup> <br/> |
 |Power BI  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Yammer Academic  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Azure information protection<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project Online n’est pas inclus mais peut être ajouté gratuitement au plan Office 365 éducation. <br/> 
+> <sup>1</sup> Microsoft Project n’est pas inclus dans Office 365, mais peut être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement scolaire, vous pouvez être éligible à l’achat du plan de projet 3 et à la planification 5 à des prix éducatifs.   <br/> 
 <sup>2</sup> pour en savoir plus sur les fonctionnalités Azure information protection incluses dans les plans Office 365, consultez la rubrique [Azure information protection](https://azure.microsoft.com/services/information-protection/).<br/> 
 <sup>3</sup> Office 365 A5 contient les fonctionnalités de système téléphonique, d’audioconférence et de plan d’appel. Pour implémenter la fonctionnalité Forfait d'appels, l’acquisition d’une offre supplémentaire (soit Forfait d'appels nationaux, soit Forfait d'appels internationaux) est requise. <br/> <sup>4</sup> inclut Exchange Online plan 2. <br/> 
 <sup>5</sup> inclut Exchange Online plan 1 et des fonctionnalités supplémentaires. <br/> 
@@ -141,7 +141,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

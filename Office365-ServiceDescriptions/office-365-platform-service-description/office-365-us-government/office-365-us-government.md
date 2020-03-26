@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux.
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609895"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954811"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
+
+> [!IMPORTANT]
+> Microsoft teams rencontre un pic énorme dans les appels en ligne et les conférences audio/vidéo en raison de l’coronavirus (COVID-19) Pandemic.<br/>
+> 
+>En réponse à une augmentation inégalée des appels, et pour garantir la continuité et la disponibilité, Microsoft autorise les serveurs audio/vidéo de Microsoft teams à tirer parti de la capacité de traitement dans nos centres de données commerciaux, ainsi que dans nos centres de données gouvernementaux.<br/>
+> 
+>Ces serveurs audio/vidéo résident dans les serveurs de frontière de haute accréditation Microsoft Azure FedRAMP aux États-Unis et ne stockent pas de contenu client. Toutefois, ces serveurs traitent l’audio et la vidéo pour les appels et les conférences et fonctionnent au cours de notre équipe commerciale pendant cette période intermédiaire.<br/>
+> 
+>Les membres du personnel qualifiés et filtrés surveillent ces serveurs pour qu’ils puissent accéder aux données client en examinant tous les modules de journalisation interactifs sur ces serveurs. Personnel qualifié répondre aux exigences de GCC pour accéder au contenu du client. Pour plus d’informations sur les exigences de filtrage, voir la [Description du service GCC](gcc.md).<br/>
+> 
+>Nous vous remercions de votre soutien, car nous nous assurons que nos services restent disponibles et fiables dans ces temps exceptionnels.<br/> 
 
 En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire parallèlement aux [descriptions de service Office 365 ](../../office-365-service-descriptions-technet-library.md).
   
@@ -143,7 +154,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Power BI Pro  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
 |Project Online  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |
 |Visio pour le web  <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |N °<sup>6</sup> <br/> |
-|Yammer Enterprise  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
+|Yammer Entreprise  <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |N °<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus, G3 et G5 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, telles que la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user.
 <br/><sup>2</sup> non inclus, mais peut être acheté en tant que module complémentaire distinct. Project Online inclut le client de bureau Project Online dans le cadre de l’abonnement.
@@ -182,7 +193,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**[Gestion des comptes d’utilisateur](../../office-365-platform-service-description/user-account-management.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
 |Identité de nuage  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Identités fédérées (authentification unique)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|	Authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Authentification par facteur de téléphone  <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui  <br/> |Oui<sup>9</sup> <br/> |
 |Configuration du bureau Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des utilisateurs avec Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -231,7 +242,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Système d'exploitation utilisé  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Créer vos rapports à l'aide des services web de rapport Office 365  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
-|**[Mises à jour du service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
+|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |N °<sup>10, 13</sup> <br/> |
@@ -248,7 +259,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Gouvernance des données avancée  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |N °<sup>12, 15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |Oui<sup>15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |
 |Protection avancée contre les menaces  <br/> |N °<sup>12, 18</sup> <br/> |N °<sup>12, 18</sup> <br/> |Oui<sup>18</sup>  <br/> |N °<sup>12, 18</sup> <br/> |
-|Référentiel sécurisé de client  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
+|Référentiel sécurisé client  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
 |Office 365 Advanced eDiscovery  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui  <br/> |N °<sup>12</sup> <br/> |
 |Score de sécurité<sup>14</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>, 9</sup> <br/> |Oui<sup>, 9</sup> <br/> |
 |Chiffrement des messages Office  <br/> |Non  <br/> |Oui <br/> |Oui <br/> |Non  <br/> |

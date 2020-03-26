@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint pour le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft Office 365 avec Office pour le Web peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688081"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959322"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint pour le web
 
@@ -117,7 +117,7 @@ Non disponible dans PowerPoint pour le Web. Avec PowerPoint pour le Web, vous po
   
 ## <a name="navigation---slide-sorter"></a>Trieuse de diapositives de navigation
 
-Non disponible dans PowerPoint pour le Web. Le mode Trieuse de diapositives, qui vous donne un aperçu de vos diapositives sous forme de miniatures, facilite le tri et l’organisation de vos diapositives, n’est pas disponible dans PowerPoint pour le Web. À l’aide de l’application de bureau PowerPoint, vous pouvez utiliser le mode Trieuse de diapositives pour organiser vos diapositives, ajouter des sections et trier les diapositives dans différentes catégories.
+Le mode Trieuse de diapositives, qui vous donne un aperçu de vos diapositives sous forme de miniatures, facilite le tri et l’organisation de vos diapositives. Vous pouvez utiliser le mode Trieuse de diapositives pour organiser vos diapositives, ajouter des sections et trier les diapositives dans différentes catégories.
   
 ## <a name="offline-viewing-and-authoring"></a>Création et affichage en mode hors connexion
 

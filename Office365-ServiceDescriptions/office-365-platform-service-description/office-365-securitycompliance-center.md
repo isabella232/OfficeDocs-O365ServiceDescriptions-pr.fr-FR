@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité Office 365 est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 00eb75df2e902131a2e5dd3c8d584d5f31db59db
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 8fbcf9354e116e3f924272d5ebe74a8a71369820
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609945"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959302"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
-Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.com/office365/securitycompliance/) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+Le [Centre de sécurité &amp; conformité Office 365](https://protection.office.com/) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -28,7 +28,7 @@ Le [Centre de sécurité &amp; conformité Office 365](https://docs.microsoft.co
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 gouvernement américain G1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 entreprise F3** <br/> **Office 365 gouvernement américain F3** <br/> |
+|**Fonctionnalité** <br/> |**Office 365 Business Essentials** <br/> |**Office 365 Business Premium** <br/> |**Office 365 Entreprise E1** <br/> **Office 365 gouvernement américain G1** <br/> |**Office 365 Entreprise E3** <br/> **Office 365 gouvernement américain G3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> **Office 365 gouvernement américain F3** <br/> |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) comme le filtrage de la messagerie et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
