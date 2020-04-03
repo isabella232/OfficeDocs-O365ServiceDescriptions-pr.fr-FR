@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité Office 365 est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101123"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109434"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 <sup>8</sup> vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié.
 
-<sup>9</sup> un complément DLP peut être ajouté à n’importe quel SKU qui a soit Exchange, soit SharePoint/OneDrive.
+<sup>9</sup> nécessite le complément de protection contre la perte de données Office 365.
 
 <sup>10</sup> les étiquettes de confidentialité sont également incluses dans Azure information protection P1 et P2.
 
-<sup>11</sup> une licence Exchange Online plan 2 est requise pour conserver le contenu d’une boîte aux lettres d’utilisateur à l’aide d’une stratégie de rétention.
+<sup>11</sup> une licence d’archivage Exchange Online plan 2 ou Exchange Online est requise pour conserver le contenu d’une boîte aux lettres d’utilisateur à l’aide d’une stratégie de rétention.
 
 <sup>12</sup> l’audit avancé fournit une rétention d’un an des journaux d’audit pour les activités dans Azure Active Directory, Exchange et SharePoint, et permet de créer des stratégies de rétention de journal d’audit personnalisées pour gérer la rétention des journaux d’audit pour les autres services Office 365. Il permet également d’accéder à des événements cruciaux pour les enquêtes et un accès à bande passante élevée à l’API activité de gestion d’Office 365.
 
@@ -131,7 +131,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 <sup>8</sup> vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié.
 
-<sup>9</sup> un complément DLP peut être ajouté à n’importe quel SKU qui a soit Exchange, soit SharePoint/OneDrive.
+<sup>9</sup> nécessite le complément de protection contre la perte de données Office 365.
 
 <sup>10</sup> limité aux fichiers stockés dans OneDrive entreprise.
 
