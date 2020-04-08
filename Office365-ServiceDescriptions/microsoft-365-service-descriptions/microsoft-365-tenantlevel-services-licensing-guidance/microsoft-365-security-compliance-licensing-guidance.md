@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 Security & afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101113"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171140"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -323,7 +323,7 @@ L’activation de PAM permet aux organisations de fonctionner avec des privilèg
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ? 
 
-Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 conformité, Microsoft 365 E5/a5 information protection et gouvernance, Office 365 E5/a5/G5 et la conformité avancée d’Office 365 fournissent les droits nécessaires pour qu’un utilisateur bénéficie de PAM.
+Office 365 E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, et la gestion des risques de Microsoft 365 E5/a5 Insider fournissent les droits permettant à un utilisateur de bénéficier du module PAM.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -444,23 +444,23 @@ Les administrateurs doivent appliquer des règles de flux de messagerie pour le 
 
 ## <a name="communication-compliance"></a>Conformité de la communication
 
-La conformité de la communication dans Office 365 vous permet de créer des stratégies de surveillance pour capturer les communications des employés afin de les examiner par les réviseurs désignés. Vous pouvez définir des stratégies spécifiques qui capturent les messages internes et externes, Microsoft teams ou les communications tierces au sein de votre organisation. Les relecteurs peuvent alors examiner les messages pour s’assurer qu’ils sont conformes aux standards de messages de votre organisation et les résoudre avec le type de classification.
+La conformité de la communication dans Microsoft 365 aide à réduire les risques de communication en vous aidant à détecter, capturer et prendre des mesures correctives pour les messages inappropriés dans votre organisation. Vous pouvez définir des stratégies spécifiques qui capturent les messages internes et externes, Microsoft teams ou les communications tierces au sein de votre organisation. Les relecteurs peuvent prendre des mesures correctives appropriées pour s’assurer qu’elles sont conformes aux standards de messages de votre organisation.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Les utilisateurs bénéficient du service en faisant en sorte que leurs communications soient surveillées par les stratégies de surveillance.
+Les spécialistes de la conformité bénéficient du service en faisant en sorte que les communications de l’Organisation soient surveillées par les stratégies de conformité des communications.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, conformité Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5 information protection et gouvernance et Office 365 Advanced Compliance fournissent les droits nécessaires à un utilisateur pour bénéficier de la conformité de la communication.
+Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, conformité Microsoft 365 E5/a5/G5, et gestion des risques Insider de Microsoft 365 E5/a5 procurent aux utilisateurs des droits de conformité à la communication.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Les administrateurs créent des stratégies de surveillance dans le centre de sécurité & conformité. Ces stratégies définissent les communications et les utilisateurs qui font l’objet d’un examen au sein de l’organisation, définissent les conditions personnalisées que les communications doivent respecter et indiquent qui doit effectuer des révisions.
+Les administrateurs et les spécialistes de la conformité créent des stratégies de conformité de communication dans le centre de conformité Microsoft 365. Ces stratégies définissent les communications et les utilisateurs qui font l’objet d’un examen au sein de l’organisation, définissent les conditions personnalisées que les communications doivent respecter et indiquent qui doit effectuer des révisions.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de surveillance. Lors du choix d’un groupe, il peut également sélectionner des utilisateurs spécifiques dans le groupe à exclure de la stratégie de surveillance. Pour plus d’informations sur les stratégies de surveillance, consultez la rubrique [surveillance des stratégies dans Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies).
+Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de conformité de communication. Lors du choix d’un groupe, il peut également sélectionner des utilisateurs spécifiques dans le groupe à exclure de la stratégie de conformité des communications. Pour plus d’informations sur les stratégies de conformité de communication, consultez [la rubrique communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Gestion des risques initiés
 
