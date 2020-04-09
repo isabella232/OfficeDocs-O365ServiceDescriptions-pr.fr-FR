@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
+ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609835"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43197960"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -53,7 +53,7 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
 
 - Office 365 Entreprise E3
 
-- Office 365 entreprise F3
+- Office 365 Entreprise F3
 
 - Office 365 A1
 
@@ -85,13 +85,13 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |[Pièces jointes fiables](#safe-attachments)|Oui|Oui|Oui|
 |Pièces jointes fiables dans teams|Oui|Oui|Oui|
 |[Liens fiables](#safe-links)|Oui|Oui|Oui|
-|Liens fiables dans teams|Non|Non|Non|
+|Liens fiables dans Teams|Oui|Oui|Oui|
 |[ATP pour SharePoint, OneDrive et Microsoft teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Oui|Oui|Oui|
 |[Stratégies anti-hameçonnage](#anti-phishing-policies)|Oui|Oui|Oui|
 |[Rapports en temps réel](#real-time-reports)|Oui|Oui|Oui|
 |*Automatisation, recherche, correction et éducation*|
 |[Suivi des menaces](#threat-trackers)|Non|Oui|Oui|
-|[Explorateur](#explorer) (enquête avancée contre les menaces)|Non|Oui|Oui|
+|Enquête sur les menaces (enquête avancée contre les menaces)|[Détections en temps réel](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Réponse automatique aux incidents](#automated-incident-response)|Non|Oui|Oui|
 |[Simulateur d’attaques](#attack-simulator)|Non|Oui|Oui|
 
@@ -116,6 +116,8 @@ Les liens fiables sont disponibles pour les URL dans les applications suivantes�
 
 - Word, Excel, PowerPoint et Visio sous Windows, ainsi que des applications Office sur des appareils iOS et Android
 
+- Canaux et conversations Microsoft Teams
+
 > [!NOTE]
 > Les utilisateurs doivent disposer d’une<sup>\*</sup>licence pour la protection avancée contre les menaces, doivent être inclus dans les stratégies de liens fiables ATP et être connectés sur leurs appareils pour que la protection soit mise en place.
 >
@@ -125,7 +127,7 @@ Les liens fiables sont disponibles pour les URL dans les applications suivantes�
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>PACM pour SharePoint, OneDrive et Microsoft Teams
 
-La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) permet de détecter et de bloquer des fichiers identifiés comme étant malveillants dans les sites d’équipe et les bibliothèques de documents.
+La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) permet de détecter et de bloquer des fichiers identifiés comme étant malveillants dans les sites d’équipe et les bibliothèques de documents. En outre, la protection des liens fiables ATP est désormais disponible dans les conversations et les conversations de Microsoft Teams.
 
 ### <a name="anti-phishing-policies"></a>Stratégies anti-hameçonnage
 
@@ -135,15 +137,25 @@ La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsof
 
 Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) des informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation de l’activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
 
-### <a name="threat-trackers"></a>Suivi des menaces
-
-Les analyseurs de [menace](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) sont des widgets informatifs et des vues qui fournissent aux utilisateurs autorisés des renseignements sur les problèmes de Cybersecurity susceptibles d’avoir un impact sur votre organisation.
-
 ### <a name="explorer"></a>Explorer
 
 L’Explorateur (également appelé Explorateur de menaces) est un rapport en temps réel qui permet aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Par défaut, ce rapport affiche les données des 7 derniers jours ; Toutefois, les vues peuvent être modifiées pour afficher les données des 30 derniers jours.
 
+L’Explorateur contient des vues, telles que des programmes malveillants (pour le courrier électronique et le contenu), des envois, des hameçons et tous les messages électroniques.
+
 Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="real-time-detections"></a>Détections en temps réel
+
+Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Comme dans l’Explorateur, par défaut, ce rapport affiche les données des 7 derniers jours.
+
+Les détections en temps réel contiennent des affichages, tels que des programmes malveillants (pour la messagerie électronique et du contenu), des envois et des hameçons.
+
+Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="threat-trackers"></a>Suivi des menaces
+
+Les analyseurs de [menace](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) sont des widgets informatifs et des vues qui fournissent aux utilisateurs autorisés des renseignements sur les problèmes de Cybersecurity susceptibles d’avoir un impact sur votre organisation.
 
 ### <a name="automated-incident-response"></a>Réponse automatique aux incidents
 
