@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 Security & afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171140"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215113"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -353,13 +353,13 @@ Par défaut, les messages électroniques Exchange Online, les sites SharePoint e
 
 Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de la sécurité Office 365, sous**emplacements**de **protection contre** > la perte de données.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Protection contre la perte de données pour les messages de conversation et de canal teams
+## <a name="communication-data-loss-prevention-for-teams"></a>Protection contre la perte de données de communication pour teams
 
-Avec la protection contre la perte de données (DLP) pour la conversation de teams et les messages de canal, les organisations peuvent bloquer les conversations et les messages de canal contenant des informations sensibles, telles que des informations financières, des informations d’identification personnelle, des informations relatives à l’état de santé ou d’autres informations confidentielles.
+Avec la communication DLP pour Teams, les organisations peuvent bloquer les conversations et les messages de canal contenant des informations sensibles, telles que des informations financières, des informations d’identification personnelle, des informations relatives à la santé ou d’autres informations confidentielles.
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
 
-Les utilisateurs sous licence d’Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, conformité de Microsoft 365 E5/a5/G5 et Office 365 Advanced Compliance peuvent tirer parti de DLP pour les conversations et les messages des canaux de DLP pour Teams.
+Les utilisateurs sous licence d’Office 365 E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5, et Office 365 Advanced Compliance peuvent tirer parti de la technologie de communication DLP pour Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
