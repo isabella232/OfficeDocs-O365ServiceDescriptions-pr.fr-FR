@@ -5,18 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
+ms.date: 4/10/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 Security & afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
-ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
+ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
+ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43215113"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43230794"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -37,7 +38,7 @@ Les analystes et les professionnels de la sécurité de SECOPS bénéficient d�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security et Azure Active Directory Premium plan 2 fournissent les droits pour qu’un utilisateur bénéficie de la protection des identités Azure Active Directory.
+Enterprise Mobility + Security E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 Security et Azure Active Directory Premium plan 2 permettent à un utilisateur de bénéficier de la protection des identités Azure Active Directory.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -57,7 +58,7 @@ Les analystes et les professionnels de la sécurité d’SecOp bénéficient de 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security et Azure Advanced Threat Protection for Users fournissent les droits pour bénéficier d’Azure ATP.
+Enterprise Mobility + Security E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 Security et Azure protection avancée contre les menaces pour les utilisateurs fournissent les droits nécessaires à Azure ATP.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -77,7 +78,7 @@ ATP protège les utilisateurs contre les attaques sophistiquées telles que le h
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, Microsoft 365 Business, et Office 365 les plans de la protection avancée contre les menaces 1 et 2 permettent à un utilisateur de bénéficier d’Office 365 Advanced Threat Protection.
+Office 365 Advanced Threat Protection, Office 365 E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 Security, Microsoft 365 Business et Office 365 les plans de protection avancée contre les menaces 1 et 2 fournissent les droits nécessaires à un utilisateur pour bénéficier d’Office 365 Advanced Threat Protection.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
