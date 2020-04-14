@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 83067b99f816744b6c2ec0e18c72a3e322072ea8
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230804"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285550"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -96,7 +96,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |[Simulateur d’attaques](#attack-simulator)|Non|Oui|Oui|
 
 > [!TIP]
-> Vous souhaitez obtenir une liste téléchargeable des différences entre Office 365 ATP plan 1 et plan 2 ? [Obtenir le PDF](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr/raw/live/Office365-ServiceDescriptions/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
+> Vous souhaitez obtenir une liste téléchargeable des différences entre Office 365 ATP plan 1 et plan 2 ? [Obtenir le PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de protection avancée contre les menaces (ATP)
 
@@ -144,7 +144,7 @@ Les fonctionnalités de surveillance disponibles dans le centre de sécurité & 
 
 L’Explorateur (également appelé Explorateur de menaces) est un rapport en temps réel qui permet aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Par défaut, ce rapport affiche les données des 7 derniers jours ; Toutefois, les vues peuvent être modifiées pour afficher les données des 30 derniers jours.
 
-L’Explorateur contient des vues, telles que des programmes malveillants (pour le courrier électronique et le contenu), des envois, des hameçons et tous les messages électroniques.
+L’Explorateur contient des vues, telles que des programmes malveillants (pour le courrier électronique et le contenu), des envois, des hameçons et tous les messages électroniques. Pour savoir comment Explorer compare les détections en temps réel, [Téléchargez ce PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
 
 Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
@@ -152,7 +152,7 @@ Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat 
 
 Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Comme dans l’Explorateur, par défaut, ce rapport affiche les données des 7 derniers jours.
 
-Les détections en temps réel contiennent des affichages, tels que des programmes malveillants (pour la messagerie électronique et du contenu), des envois et des hameçons.
+Les détections en temps réel contiennent des affichages, tels que des programmes malveillants (pour la messagerie électronique et du contenu), des envois et des hameçons. Pour voir comment les détections en temps réel sont comparées avec l’Explorateur, [Téléchargez ce PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
 
 Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 

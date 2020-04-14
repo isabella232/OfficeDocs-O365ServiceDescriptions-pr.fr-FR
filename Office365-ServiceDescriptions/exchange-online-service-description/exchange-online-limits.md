@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: High
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 31042c0cb80a844502ab77208c9684f47835f4cf
-ms.sourcegitcommit: 346e5482d49a354a48fc69c57b55d21a31a70f51
+ms.openlocfilehash: cc3abf1d5b2efa529a40851b1b8e536dcc3bc944
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707065"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285530"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -354,13 +354,14 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
-|Limite de taux de destinataires<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
-|Nombre maximal de destinataires|500 destinataires|1000 destinataires|1000 destinataires|1000 destinataires|1000 destinataires|1000 destinataires|
+|Limite de taux de destinataires<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
+|Limite de destinataires<sup>2</sup>|Personnalisable jusqu’à 1000 destinataires|Personnalisable jusqu’à 1000 destinataires|Personnalisable jusqu’à 1000 destinataires|Personnalisable jusqu’à 1000 destinataires|Personnalisable jusqu’à 1000 destinataires|Personnalisable jusqu’à 1000 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|400|400|
 |Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
 > <sup>1</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5 000 à 09:00 AM, puis envoie un autre message à 2, 1 000 destinataires à 10:00 AM, puis envoie un autre message aux destinataires 2 500 à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
+> <sup>2</sup> vous pouvez personnaliser les limites des destinataires entre 1 et 1000 pour les boîtes aux lettres existantes et pour les nouvelles boîtes aux lettres qui seront créées à l’avenir. Modifier la limite de destinataires sur les boîtes aux lettres existantes individuellement ou en bloc à l’aide du centre d’administration Exchange et personnaliser le paramètre par défaut pour les nouvelles boîtes aux lettres via PowerShell à distance. Pour plus d’informations, consultez la rubrique [limites des destinataires personnalisables dans Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites d’envoi dans les options autonomes
 
@@ -431,7 +432,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
 |Nombre maximal de membres d’un groupe de distribution<sup>1</sup>|100 000 membres|100 000 membres|100 000 membres|100 000 membres|100 000 membres|100 000 membres|
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
-|Taille maximale de message pour les groupes de distribution contenant entre 5000 et 99 999 membres|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
+|Taille maximale de message pour les groupes de distribution contenant entre 5000 et 99 999 membres|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 |Taille de message maximal pour groupes de distribution avec 100 000 membres|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|
 |Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |10 |10 |
 |Nombre maximal de groupes qu’un utilisateur peut créer|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
@@ -481,7 +482,7 @@ La liste suivante inclut les limites qui s’appliquent aux règles de journal, 
 |**Fonctionnalité**|**Office 365 Business Essentials**|**Office 365 Business Premium**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
 |Nombre maximal de règles de journal|300 règles|300 règles|300 règles|300 règles|300 règles|300 règles|
 |Nombre maximal de règles de transport|300 règles|300 règles|300 règles|300 règles|300 règles|300 règles|
-|Taille maximale d’une règle de transport|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|
+|Taille maximale d’une règle de transport|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|8 Ko|
 |Limite de caractères pour l'ensemble des expressions régulières utilisées dans toutes les règles de transport|20 Ko|20 Ko|20 Ko|20 Ko|20 Ko|20 Ko|
 |Limites d’analyse pour le contenu des pièces jointes|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|1 Mo|
 |Nombre maximal de destinataires ajoutés à un message par l'ensemble des règles de transport|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|100 destinataires|
