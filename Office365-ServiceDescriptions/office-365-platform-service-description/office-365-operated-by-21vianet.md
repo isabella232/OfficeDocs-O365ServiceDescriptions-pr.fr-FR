@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609935"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581976"
 ---
-# <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
+# <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
 Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
 
@@ -154,7 +154,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos rapports à l'aide des services web de rapport Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour du service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
+|**[Mises à jour de service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu’une action est requise, qu’un problème est résolu, que les fonctionnalités sont déployées ou que les modifications apportées à votre service|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|
@@ -796,7 +796,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |Personnes, sites, recommandations de documents|Non|Non|Non|Non|Non|Non|Non|
 |Site personnel |Non|Non|Non|Non|Non|Non|Non|
 |Photos et présence|Non|Non|Non|Non|Non|Non|Non|
-|Profils|Non|Non|Non|Non|Non|Non|Non|
+|Profil|Non|Non|Non|Non|Non|Non|Non|
 |Évaluations|Non|Non|Non|Non|Non|Non|Non|
 |Shared with Me|Non|Non|Non|Non|Non|Non|Non|
 |Flux de site (site d’équipe classique à l’aide de SharePoint social)|Non|Non|Non|Non|Non|Non|Non|
@@ -1070,41 +1070,31 @@ Le tableau suivant répertorie les plans Office 365 qui incluent le service Shar
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Fonctionnalités mobiles Outlook
+## <a name="outlook-features-for-ios-and-android"></a>Fonctionnalités Outlook pour iOS et Android
 
-Le tableau suivant répertorie les fonctionnalités et les plateformes mobiles Outlook disponibles dans tous les services Office 365 gérés par 21Vianet.
+Office 365 géré par 21Vianet prend en charge Outlook pour iOS et Outlook pour Android.
 
-### <a name="mobile-platforms-supported"></a>Plateformes mobiles prises en charge
+Les fonctionnalités mobiles suivantes ne sont pas prises en charge :
 
-|||
-|:-----|:-----|:-----|
-| |**Outlook pour iOS (iPhone & iPad)**|**Outlook pour Android**|
-|Office 365 géré 21Vianet|Oui|Non|
-
-### <a name="mobile-features-supported"></a>Fonctionnalités mobiles prises en charge
-
-|||
-|:-----|:-----|:-----|
-|**Fonctionnalité**|**Outlook pour iOS (iPhone & iPad)**|**Outlook pour Android**|
-|OneDrive Entreprise|Non|N/A|
-|Recherche de calendrier & de personnes|Non|N/A|
-|Réservation des & de la salle de conférence|Non|N/A|
-|Carte emplacements|Non|N/A|
-|« LinkedIn » & les rapports sur « données sur la carte de personnes »|Non|N/A|
-|Favoris|Non|N/A|
-|Lire mes courriers électroniques|Non|N/A|
-|Compléments|Non|N/A|
-|Groupes|Non|N/A|
-|Réponse intelligente|Non|N/A|
-|Flux Office|Non|N/A|
-|Durée de départ|Non|N/A|
-|CLP/MIL|Non|N/A|
-|Stockage de Dropbox|Non|N/A|
-|Google Drive Storage|Non|N/A|
-|Stockage de boîtes|Non|N/A|
-|Calendrier Facebook|Non|N/A|
-|Helpshift|Non|N/A|
-|UserVoice|Non|N/A|
+- OneDrive entreprise (pris en charge sur Android uniquement)
+- Recherche de calendrier & de personnes
+- Réservation des & de la salle de conférence
+- Carte emplacements
+- « LinkedIn » & les rapports sur « données sur la carte de personnes »
+- Favoris
+- Lire mes courriers électroniques
+- Compléments
+- Groupes
+- Réponse intelligente
+- Flux Office
+- Durée de départ
+- Étiquette de sensibilité de la protection des informations Microsoft
+- Stockage de Dropbox
+- Google Drive Storage
+- Stockage de boîtes
+- Calendrier Facebook
+- Helpshift
+- UserVoice
 
 ## <a name="project-online-features"></a>Fonctionnalités de Project Online
 
