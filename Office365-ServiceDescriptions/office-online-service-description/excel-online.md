@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545797"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639882"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
-Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
+Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
   
 > [!NOTE]
 > Les classeurs qui dépassent 50 mégaoctets (Mo) ne peuvent pas être affichés dans Excel pour le Web à partir de Microsoft SharePoint Online. Pour afficher des fichiers plus volumineux, l'application de bureau Excel doit être installée sur votre ordinateur. 
 
 > [!NOTE]
-> Pour vous aider à comparer les offres, les fonctionnalités avancées répertoriées dans cet article comprennent les fonctionnalités d'application de bureau Excel disponibles uniquement dans une suite Office (comme Office Professionnel Plus, Office Standard ou Office 365 ProPlus). Pour obtenir la liste de toutes les fonctionnalités Office pour le Web, telles que Word pour le Web et PowerPoint pour le Web, consultez la rubrique relative [à la disponibilité des fonctionnalités dans les plans Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Pour vous aider à comparer les offres, les fonctionnalités avancées répertoriées dans cet article incluent les fonctionnalités d’application de bureau Excel qui sont disponibles uniquement dans la suite Office (par exemple, Office professionnel plus, Office standard ou Microsoft 365 Apps Enterprise). Pour obtenir la liste de toutes les fonctionnalités Office pour le Web, telles que Word pour le Web et PowerPoint pour le Web, consultez la rubrique relative [à la disponibilité des fonctionnalités dans les plans Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
 Pour voir les types de fichiers pris en charge par Excel pour le Web, consultez [la rubrique types de fichiers pris en charge pour Office pour le Web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Pour en savoir plus sur les différences entre Excel pour le Web et l’application Excel de bureau, voir [différences entre l’utilisation d’un classeur dans le navigateur et dans Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
@@ -330,7 +330,7 @@ Excel pour le Web enregistre votre travail automatiquement. Si vous faites une e
   
 ## <a name="vba-and-macro-scripting"></a>Écriture de macro VBA
 
-L’application de bureau Microsoft Excel est un outil extrêmement puissant permettant de manipuler, d’analyser et de présenter des données. Parfois, malgré l’ensemble des fonctionnalités, votre organisation peut trouver plus facile d’utiliser Visual Basic pour applications (VBA), un langage de programmation, pour créer une macro qui effectue des tâches courantes ou répétitives, ou pour effectuer une tâche que fait l’interface utilisateur (IU). ne semble pas répondre. Vous ne pouvez pas créer de macros avec VBA dans Excel pour le Web, mais vous pouvez ouvrir et modifier des feuilles de calcul prenant en charge VBA sans supprimer (ou corrompre) le code VBA contenu dans le fichier. En savoir plus sur la [prise en main des macros](https://go.microsoft.com/fwlink/p/?LinkId=271678).
+L’application de bureau Microsoft Excel est un outil extrêmement puissant permettant de manipuler, d’analyser et de présenter des données. Parfois, malgré l’ensemble des fonctionnalités, votre organisation peut trouver plus facile d’utiliser Visual Basic pour applications (VBA), un langage de programmation, pour créer une macro qui effectue des tâches courantes ou répétitives ou pour effectuer certaines tâches que l’interface utilisateur ne semble pas adresse. Vous ne pouvez pas créer de macros avec VBA dans Excel pour le Web, mais vous pouvez ouvrir et modifier des feuilles de calcul prenant en charge VBA sans supprimer (ou corrompre) le code VBA contenu dans le fichier. En savoir plus sur la [prise en main des macros](https://go.microsoft.com/fwlink/p/?LinkId=271678).
   
 ## <a name="view-3d-charts"></a>Affichage de graphiques 3D
 
@@ -342,4 +342,4 @@ Non disponible dans Excel pour le Web. Vous pouvez afficher les résultats de l�
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, reportez-vous à [la rubrique Office for the Web Service Description](office-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez [la rubrique Office for the Web Service Description](office-online-service-description.md).

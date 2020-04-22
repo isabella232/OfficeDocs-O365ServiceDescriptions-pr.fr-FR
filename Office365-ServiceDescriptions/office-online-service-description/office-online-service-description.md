@@ -11,29 +11,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+description: Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
+ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545787"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640132"
 ---
 # <a name="office-for-the-web-service-description"></a>Description du service Office pour le web
 
-Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft Office 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements. 
+Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements. 
   
-Pour comparer les fonctionnalités entre les plans, voir [Comparaison des plans Office 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Pour comparer les fonctionnalités de tous les plans, voir [compare Microsoft 365 for business plans](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilité des fonctionnalités dans Office pour les plans Web
 
 Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mieux aux besoins de votre organisation ? Les tableaux suivants comparent les fonctionnalités Office de fonctionnalité Web aux applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les tableaux pour découvrir les fonctionnalités disponibles dans Office pour le Web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin de la fonctionnalité de graphique avancée de l’application de bureau Excel, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement des documents Word et des présentations PowerPoint avec Office pour le Web. 
   
 > [!NOTE]
->  Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. <br/>  Microsoft Office 365 ProPlus est une offre d’abonnement mensuel à la dernière suite bureautique Office. <br/>  Les clients Microsoft Office Online Server sur site reçoivent une licence de modification de site Web si elles ont acheté une licence pour la suite bureautique Office (par exemple, une licence Office professionnel plus, Office standard ou Office 365 ProPlus). 
+>  Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. <br/>  Microsoft 365 apps pour les entreprises est une offre d’abonnement mensuel à la dernière suite bureautique Office. <br/>  Les clients Microsoft Office Online Server sur site disposent d’une licence de modification Web si elles ont acheté une licence pour la suite bureautique Office (par exemple, une licence pour les applications Office professionnel plus, Office standard ou Microsoft 365 pour Enterprise). 
   
 > [!NOTE]
-> Lorsque vous ouvrez un document Office, qu’il s’agisse d’une pièce jointe de courrier électronique Outlook ou d’une bibliothèque de documents SharePoint, le document est lancé dans Office pour le Web et est en lecture seule. Pour modifier un document dans Office pour le Web (mode édition), vous avez besoin d’une licence Office 365 suite, telle qu’Office 365 Enterprise E1. Pour modifier un document dans l'application de bureau, vous avez besoin d'une licence pour la suite Office, comme un abonnement à Office 365 ProPlus ou une version installée d'Office Professionnel Plus 2010. 
+> Lorsque vous ouvrez un document Office, qu’il s’agisse d’une pièce jointe de courrier électronique Outlook ou d’une bibliothèque de documents SharePoint, le document est lancé dans Office pour le Web et est en lecture seule. Pour modifier un document dans Office pour le Web (mode édition), vous avez besoin d’une licence de suite, telle qu’Office 365 entreprise E1. Pour modifier un document dans l’application de bureau, vous avez besoin d’une licence pour une suite bureautique Office, telle qu’un abonnement Microsoft 365 apps pour Enterprise ou une version installée d’Office professionnel plus 2010. 
   
 ### <a name="word"></a>Word
 

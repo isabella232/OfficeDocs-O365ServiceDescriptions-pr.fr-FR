@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: Les fonctionnalités suivantes de la plateforme Yammer sont disponibles dans Yammer.
-ms.openlocfilehash: bbae95e2284cac39e8e4bbfbb08faeac5c4b3fad
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 25d579b08716b91dce1a3973c72f4d9b28432c53
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263145"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638672"
 ---
 # <a name="yammer-platform-features"></a>Fonctionnalités de la plateforme Yammer
 
@@ -45,6 +45,6 @@ Ajoutez le bouton de connexion à vos applications d’entreprise afin que les u
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
   
 

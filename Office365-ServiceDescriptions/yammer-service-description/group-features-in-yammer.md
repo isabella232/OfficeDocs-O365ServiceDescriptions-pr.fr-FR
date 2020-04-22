@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: Les fonctionnalités de groupe suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: d362905170141d3bd838b342971816168821106e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 873698fbe21f1be210fb89271bce0365ea4e69a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263176"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640052"
 ---
 # <a name="group-features-in-yammer"></a>Fonctionnalités de groupe dans Yammer
 
@@ -37,5 +37,5 @@ Ajouter et classer par priorité des groupes associés à ceux que vous avez dé
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
   

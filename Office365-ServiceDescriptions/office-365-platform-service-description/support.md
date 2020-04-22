@@ -13,33 +13,33 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d'informations, consultez Options d'assistance Office 365.
-ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le centre d’administration Microsoft365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d’informations, consultez la rubrique options de support Microsoft.
+ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262215"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639902"
 ---
 # <a name="support"></a>Support
 
-Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le portail Office 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d'informations, consultez [Options d'assistance Office 365](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le centre d’administration Microsoft 365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d’informations, consultez la rubrique [options de support Microsoft](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
-Les administrateurs autorisés peuvent utiliser le portail Office 365 pour soumettre des demandes de services en ligne, accéder aux numéros de téléphone d'assistance et consulter toutes les demandes de services ouvertes et récemment closes. Les demandes de service soumises via le portail Office 365 peuvent être rouvertes jusqu'à 14 jours après avoir été closes. Pour obtenir des instructions, voir [Contacter Office 365 en cas de problème technique](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+Les administrateurs autorisés peuvent utiliser le centre d’administration Microsoft 365 pour soumettre des demandes de services en ligne, accéder aux numéros de téléphone pris en charge et afficher toutes les demandes de service ouvertes et récemment fermées. Les demandes de service soumises dans le centre d’administration peuvent être rouvertes jusqu’à 14 jours après la fermeture de la demande. Pour obtenir des instructions, consultez la rubrique [contacter Microsoft 365 pour les entreprises](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
-La portée de l'assistance de l'équipe de support technique Office 365 se limite aux problèmes liés à Office 365. Les problèmes liés au réseau du client sont en dehors des limites de l'assistance Office 365. Dans de tels cas, les clients doivent se tourner vers l'équipe en charge de leur réseau ou contacter l'[équipe réseau Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) pour obtenir de l'aide.
+L’équipe du support technique O365 ne dépannera que les problèmes liés à Office 365. Les problèmes qui proviennent de réseaux clients se situent en dehors des limites de prise en charge et, dans ce cas, les clients doivent travailler avec leur équipe réseau ou participer à l' [équipe réseau Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) pour obtenir de l’aide.
   
 ## <a name="community-and-self-service-support-options"></a>Communauté et options d’assistance en libre service
 
-L'assistance en libre service est disponible pour tous les plans Office 365, et inclut des vidéos et des outils de dépannage, des vidéos et des articles d'aide ainsi que des forums et des wikis dans la [Communauté d'Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Pour plus d’informations sur les ressources d’assistance en libre service, voir la description du service [d’aide et de formation](help-and-training.md) .
+La prise en charge en libre service est disponible pour tous les plans, inclut des outils et vidéos de dépannage, des articles d’aide et des vidéos, ainsi que des forums et des wikis dans la [communauté Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Pour plus d’informations sur les ressources d’assistance en libre service, voir la description du service [d’aide et de formation](help-and-training.md) .
   
 ## <a name="pre-sales-support"></a>Assistance avant-vente
 
-L'assistance avant-vente pour Office 365 vous fournit une assistance sur les avantages et les fonctionnalités d'abonnement, la comparaison des offres, les tarifs et les licences, et vous aide à identifier la solution la plus adaptée pour répondre aux besoins spécifiques de votre entreprise. En outre, l'assistance avant-vente peut vous aider à trouver un partenaire, ainsi qu'à acheter un essai et à vous y inscrire. Vous pouvez appeler durant les heures ouvrables de votre pays/région, du lundi au vendredi. L'assistance avant-vente est accessible au même numéro de téléphone que l'assistance technique. Le numéro de téléphone de l'assistance est indiqué sur le portail Office 365 de l'essai gratuit. Pour obtenir des instructions, voir [Contacter Office 365 en cas de problème technique](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+Le support avant-vente offre une assistance sur les fonctionnalités et les avantages des abonnements, les comparaisons de planification, les tarifs et les licences, et vous aide à identifier la bonne solution pour répondre aux besoins de votre entreprise. En outre, l'assistance avant-vente peut vous aider à trouver un partenaire, ainsi qu'à acheter un essai et à vous y inscrire. Vous pouvez appeler durant les heures ouvrables de votre pays/région, du lundi au vendredi. L'assistance avant-vente est accessible au même numéro de téléphone que l'assistance technique. Le numéro de téléphone du support technique est disponible dans le centre d’administration de la version d’évaluation gratuite. Pour obtenir des instructions, consultez la rubrique [contacter Microsoft 365 pour les entreprises](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
 ## <a name="billing-and-subscription-management-support"></a>Assistance de gestion de facturation et d’abonnement
 
-L'assistance fournie pour des problèmes de gestion de facturation et d'abonnement est disponible en ligne ou par téléphone aux heures ouvrables, du lundi au vendredi. L'assistance de gestion de facturation et d'abonnement est accessible via le même numéro de téléphone et processus de demande de service en ligne que l'assistance technique. Le numéro de téléphone de l'assistance est indiqué sur le portail Office 365. Pour obtenir des instructions, voir [Contacter Office 365 en cas de problème technique](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+L’assistance fournie pour des problèmes de gestion de facturation et d’abonnement est disponible en ligne ou par téléphone aux heures ouvrables, du lundi au vendredi. L'assistance de gestion de facturation et d'abonnement est accessible via le même numéro de téléphone et processus de demande de service en ligne que l'assistance technique. Le numéro de téléphone du support technique est disponible dans le centre d’administration. Pour obtenir des instructions, consultez la rubrique [contacter Microsoft 365 pour les entreprises](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
 Voici quelques exemples de problèmes de gestion de facturation et d’abonnement :
   
@@ -57,17 +57,17 @@ Voici quelques exemples de problèmes de gestion de facturation et d’abonnemen
 
 ## <a name="technical-support"></a>Assistance technique
 
-L'assistance technique pour les abonnements Office 365 fournit une assistance d'installation de base, de configuration et d'utilisation technique générale. Quelques exemples de ces problèmes sont répertoriés dans le tableau suivant.
+Support technique pour les abonnements Microsoft 365 fournit une assistance pour l’installation de base, la configuration et l’utilisation technique générale. Quelques exemples de ces problèmes sont répertoriés dans le tableau suivant.
   
 |**Catégorie d'assistance**|**Exemples**|
 |:-----|:-----|
-|Installation et configuration  <br/> | Exchange Online:  <br/>  Migration de boîtes aux lettres Office 365  <br/>  Configuration du destinataire (autorisations de boîte aux lettres, configuration de transfert de messages, configuration de boîte aux lettres partagée)  <br/>  Configuration de la découverte automatique  <br/>  SharePoint Online:  <br/>  Groupes d’utilisateurs et autorisations  <br/>  Configuration d’utilisateurs externes  <br/>  Skype Entreprise Online:  <br/>  Installation et création de contacts  <br/>  Microsoft Office 365 ProPlus : Assistance d'installation et de configuration  <br/> |
+|Installation et configuration  <br/> | Exchange Online:  <br/>  Migration des boîtes aux lettres  <br/>  Configuration du destinataire (autorisations de boîte aux lettres, configuration de transfert de messages, configuration de boîte aux lettres partagée)  <br/>  Configuration de la découverte automatique  <br/>  SharePoint Online:  <br/>  Groupes d’utilisateurs et autorisations  <br/>  Configuration d’utilisateurs externes  <br/>  Skype Entreprise Online:  <br/>  Installation et création de contacts  <br/>  Microsoft Microsoft 365 apps pour les entreprises : assistance d’installation et de configuration  <br/> |
 |Configuration  <br/> | Problèmes d'échec de configuration de service  <br/>  Problèmes de mise en service  <br/>  Configuration et redélégation de domaine  <br/>  Problèmes de configuration de service  <br/>  Authentification unique (SSO)  <br/>  Synchronisation Active Directory  <br/> |
 
 > [!NOTE]
-> Vous pouvez découvrir comment contacter le support technique ici : [Contactez Office 365 pour les professionnels de l’assistance](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
+> Vous pouvez découvrir comment contacter le support technique ici : [Contactez le support technique Microsoft 365 pour les entreprises](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
 >
-> Le support technique pour Office 365 n’inclut pas la résolution des problèmes liés aux services ou compléments tiers. Découvrez comment trouver des réponses d’autres clients dans la [communauté Microsoft](https://answers.microsoft.com).
+> Le support technique n’inclut pas la résolution des problèmes liés aux services ou compléments tiers. Découvrez comment trouver des réponses d’autres clients dans la [communauté Microsoft](https://answers.microsoft.com).
   
 ### <a name="technical-support-case-handling"></a>Gestion des incidents d’assistance technique
 
@@ -81,11 +81,11 @@ Microsoft affecte un niveau de gravité à un incident lorsqu'il est ouvert en f
 
 ### <a name="technical-support-initial-response-times"></a>Délais de réponse initiaux d’assistance technique
 
-Le délai de réponse initial dépend des niveaux de gravité décrits ci-avant et du type d'abonnement Office 365. Les objectifs des délais de réponse sont décrits dans le tableau suivant.
+Le temps de réponse initial dépend des niveaux de gravité décrits ci-dessus et du type d’abonnement. Les objectifs des délais de réponse sont décrits dans le tableau suivant.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Niveau de gravité** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 Business<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> |**Office 365 entreprise E1<sup>2</sup>** <br/> **Office 365 entreprise E3<sup>2</sup>** <br/> **Office 365 gouvernement G2<sup>2</sup>** <br/> **Office 365 gouvernement américain E3<sup>2</sup>** <br/> **Office 365 éducation<sup>2</sup>** <br/> |**Office 365 entreprise F1<sup>2</sup>** <br/> **Office 365 gouvernement américain K1<sup>2</sup>** <br/> |**Options d'assistance avancées<sup>3</sup>** <br/> |
+|**Niveau de gravité** <br/> |**Microsoft 365 entreprise Basic<sup>1</sup>** <br/> **Microsoft 365 apps pour les entreprises<sup>1</sup>** <br/> **Microsoft 365 Business standard<sup>1</sup>** <br/> |**Office 365 entreprise E1<sup>2</sup>** <br/> **Office 365 entreprise E3<sup>2</sup>** <br/> **Office 365 gouvernement G2<sup>2</sup>** <br/> **Office 365 gouvernement américain E3<sup>2</sup>** <br/> **Office 365 éducation<sup>2</sup>** <br/> |**Office 365 entreprise F1<sup>2</sup>** <br/> **Office 365 gouvernement américain K1<sup>2</sup>** <br/> |**Options d'assistance avancées<sup>3</sup>** <br/> |
 | Niveau de gravité A (Critique)  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : une heure  <br/> |
 |Niveau de gravité B (Haute)  <br/> |Disponible : heures d'ouverture  <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : un jour  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : un jour  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : 2 heures  <br/> |
 |Niveau de gravité C (Moyenne)  <br/> |Disponible : heures d'ouverture  <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : aucun engagement  <br/> |Disponible : 24/7<sup>4</sup> <br/> Temps de réponse : 4 heures  <br/> |
@@ -98,11 +98,11 @@ Le délai de réponse initial dépend des niveaux de gravité décrits ci-avant 
   
 ### <a name="support-for-standalone-plans"></a>Assistance pour les plans autonomes
 
-Les plans payants autonomes font l'objet d'une assistance présentant les mêmes objectifs d'assistance et de délai de réponse que les plans Office 365 de la famille de services Entreprise. Pour obtenir la liste des plans autonomes, voir [Services autonomes](office-365-plan-options.md#standalone-services).
+La prise en charge des plans autonomes payants est gérée avec le même niveau de prise en charge et les mêmes objectifs de temps de réponse que les plans de la famille de services d’entreprise. Pour obtenir la liste des plans autonomes, voir [Standalone services](office-365-plan-options.md#standalone-services).
   
 ### <a name="technical-support-languages"></a>Langues d’assistance technique
 
-Selon la région et la langue, les ingénieurs de l'assistance sont disponibles pendant la majeure partie des heures ouvrables de la région et, dans certains cas, 24H/24. Pour plus d'informations, consultez [Numéros de téléphone internationaux](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products) et [Options d'assistance Office 365](https://products.office.com/business/office-365-for-business-support-options). Si un service de traduction supplémentaire est requis, les ingénieurs de l'assistance peuvent rester en ligne et faire en sorte qu'un traducteur rejoigne la conversation.
+Selon la région et la langue, les ingénieurs de l’assistance sont disponibles pendant la majeure partie des heures ouvrables de la région et, dans certains cas, 24H/24. Pour plus d’informations, consultez les [numéros de téléphone internationaux](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products) et les [options de support Microsoft](https://products.office.com/business/office-365-for-business-support-options). Si un service de traduction supplémentaire est requis, les ingénieurs de l’assistance peuvent rester en ligne et faire en sorte qu’un traducteur rejoigne la conversation.
   
 ## <a name="shared-support-responsibilities"></a>Responsabilités d’assistance partagées
 
@@ -110,9 +110,9 @@ Microsoft comprend que bénéficier d'une assistance technique opportune de prof
   
 ### <a name="administrator-role-and-responsibilities"></a>Rôle et responsabilités de l’administrateur
 
-Les personnes ayant des rôles d'administrateur Office 365 sont les seules dans l'organisation du client autorisées à accéder à la rubrique **Admin** du portail Office 365 et à communiquer directement avec Microsoft sur des demandes de services Office 365.
+Les personnes disposant de rôles d’administrateur Microsoft sont les seuls de l’organisation du client autorisés à accéder à la section **administrateur** du centre d’administration et à communiquer directement avec Microsoft sur les demandes de service.
   
-Avec les plans Office 365 Entreprise et Office 365 Business, vous pouvez désigner plusieurs types d'administrateurs qui assurent différentes fonctions. Cette description de service utilise le titre générique d'administrateur pour désigner toutes les catégories d'administrateurs. Pour plus d'informations sur les types de rôles d'administrateur, consultez [Affectation de rôles d'administrateur](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Avec Office 365 Enterprise et Microsoft 365 Apps plan, vous pouvez désigner plusieurs types d’administrateurs qui utilisent différentes fonctions. Cette description de service utilise le titre générique d'administrateur pour désigner toutes les catégories d'administrateurs. Pour plus d'informations sur les types de rôles d'administrateur, consultez [Affectation de rôles d'administrateur](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 L’administrateur est :
   
@@ -156,7 +156,7 @@ L'administrateur est supposé fournir une assistance initiale aux utilisateurs d
 
 ### <a name="elevated-support-options"></a>Options d’assistance avancées
 
-Tandis que les services d'assistance inclus dans Office 365 répondent aux besoins de nombreux clients, les clients aux exigences plus strictes ou aux environnements plus complexes doivent envisager des options d'assistance payantes de Microsoft. Ces offres d'assistance avancées incluent des objectifs de réponse plus rapide, la possibilité de définir un niveau de gravité des problèmes et d'accéder à des ressources techniques supplémentaires et de gestion de compte d'assistance.
+Bien que les services d’assistance fournis avec Microsoft répondent aux besoins de nombreux clients, les clients ayant des exigences plus avancées ou des environnements complexes doivent envisager les options de support payant de Microsoft. Ces offres d'assistance avancées incluent des objectifs de réponse plus rapide, la possibilité de définir un niveau de gravité des problèmes et d'accéder à des ressources techniques supplémentaires et de gestion de compte d'assistance.
   
 Voici quelques exemples de prise en charge avec élévation de privilèges :
   
@@ -172,7 +172,7 @@ Plusieurs types de services d'assistance supplémentaires sont disponibles :
   
 - Pour connaître les options de grands clients professionnels recherchant une assistance complète pour leur migration vers Office 365, consultez les [Services Microsoft pour Office 365](https://www.microsoft.com/microsoftservices/cloud-productivity.aspx).
 
-- Pour connaître les options de grands clients professionnels recherchant un service d'assistance gérée couvrant à la fois Office 365 et des technologies locales requises pour accéder au service en ligne, consultez [Assistance Premier](https://www.microsoft.com/enterprise/services/support).
+- Pour les options destinées aux grandes entreprises qui recherchent un service de support géré couvrant à la fois les technologies Microsoft et locales requises pour accéder au service en ligne, consultez la rubrique [premier support](https://www.microsoft.com/enterprise/services/support).
 
 - Afin de connaître les options disponibles pour les entreprises clientes plus petites aux États-Unis, au Canada et au Royaume-Uni, consultez la page [Aide et Support](https://support.microsoft.com/help/4341255/support-for-business).
 
@@ -182,10 +182,10 @@ Vous pouvez sélectionner un partenaire Microsoft et déléguer des fonctions ad
   
 ### <a name="developers"></a>Développeurs
 
-Les développeurs peuvent en savoir plus sur le développement d'applications Office et SharePoint pour Office 365 sur le [MSDN (Microsoft Developer Network)](https://developer.microsoft.com/office/docs). L'assistance pour développeurs est disponible via des forums et des blogs en ligne de la communauté des développeurs, via des ressources d'assistance Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers des options d'assistance pour développeurs, voir les [ressources d'assistance](https://developer.microsoft.com/office/docs).
+Les développeurs peuvent en savoir plus sur le développement d’applications Office et SharePoint sur le [réseau de développement MSDN Microsoft](https://developer.microsoft.com/office/docs). L'assistance pour développeurs est disponible via des forums et des blogs en ligne de la communauté des développeurs, via des ressources d'assistance Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers des options d'assistance pour développeurs, voir les [ressources d'assistance](https://developer.microsoft.com/office/docs).
   
 > [!NOTE]
-> L’équipe Office 365 ne prend pas en charge les scripts (par exemple, les techniques de script telles que JavaScript, VBScript, etc., ou VBA). Si vous avez besoin d'aide avec des scripts, contactez l'[assistance Microsoft](https://support.microsoft.com/). Pour la prise en charge de l’utilisation des applications Office, consultez la rubrique [options de support pour les problèmes d’applications Microsoft Office pour les abonnés Office 365](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
+> L’équipe Microsoft ne prend pas en charge les scripts (par exemple, les techniques de script telles que JavaScript, VBScript, etc., ou VBA). Si vous avez besoin d'aide avec des scripts, contactez l'[assistance Microsoft](https://support.microsoft.com/). Pour la prise en charge de l’utilisation des applications Office, consultez la rubrique [options de support pour les problèmes d’applications Microsoft Office pour les abonnés](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
   
 ### <a name="volume-licensing"></a>Licences en volume
 
@@ -201,4 +201,4 @@ Si vous avez déjà acheté des licences auprès de Microsoft dans le cadre d'un
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 9766161bf6ad67e66e6b13f77ceaa628142a017d
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546097"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640272"
 ---
 # <a name="task-management"></a>Gestion des tâches
 
@@ -67,5 +67,5 @@ Utilisez le mode de planification manuelle pour planifier des tâches manuelleme
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
   

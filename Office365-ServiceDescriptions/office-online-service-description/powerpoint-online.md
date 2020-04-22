@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint pour le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft Office 365 avec Office pour le Web peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+description: PowerPoint pour le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft 365 avec Office pour le Web peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
+ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959322"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640282"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint pour le web
 
-PowerPoint pour le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft Office 365 avec Office pour le Web peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
+PowerPoint pour le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft 365 avec Office pour le Web peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
   
 L’éditeur PowerPoint est un composant Web frontal qui crée une surface d’édition basée sur un navigateur, qui permet aux utilisateurs de travailler sur des documents sans perte de fidélité.
   
 Si vous sélectionnez le bouton **ouvrir dans PowerPoint** sur la barre d’outils PowerPoint pour le Web, la présentation s’ouvre dans l’application de bureau PowerPoint (si Microsoft PowerPoint 2010 ou une version ultérieure est installé sur l’ordinateur).
   
-Découvrez comment [Télécharger et installer Office à l’aide d’office 365 pour les entreprises sur un PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
+Découvrez comment [Télécharger et installer Office à l’aide de Microsoft 365 pour les entreprises sur un PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
@@ -171,7 +171,7 @@ PowerPoint pour le Web enregistre votre travail chaque fois que vous effectuez u
 
 Word Art et les graphiques ne peuvent pas être insérés dans PowerPoint pour le Web, mais PowerPoint pour le Web les affiche comme prévu. Le mode Édition permet de modifier et de mettre en forme un texte. Si vous souhaitez appliquer des effets de texte à Word Art, vous aurez besoin de l’application de bureau Microsoft PowerPoint.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 
 Si votre présentation est enregistrée dans une bibliothèque de documents SharePoint, votre présentation est en ligne et vous pouvez la partager en envoyant un lien au lieu de l'insérer en pièce jointe à un e-mail. Les personnes autorisées pourront ainsi l'afficher dans leur navigateur web ou sur leur appareil mobile. En savoir plus sur [le partage d'une présentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
@@ -211,4 +211,4 @@ Modifiez votre présentation dans un formulaire conforme à son apparence lorsqu
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, reportez-vous à [la rubrique Office for the Web Service Description](office-online-service-description.md). 
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez [la rubrique Office for the Web Service Description](office-online-service-description.md). 

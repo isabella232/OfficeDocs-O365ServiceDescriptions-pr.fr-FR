@@ -12,17 +12,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio pour le Web étend votre expérience de Microsoft Visio au navigateur, qui vous permet de créer et de modifier des diagrammes enregistrés dans le Cloud. Les clients Microsoft Office 365 peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en déplacement.
-ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+description: Visio pour le Web étend votre expérience de Microsoft Visio au navigateur, qui vous permet de créer et de modifier des diagrammes enregistrés dans le Cloud. Les clients de Microsoft 365 peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en déplacement.
+ms.openlocfilehash: 26852615913a07c667e10c052563b7e8680b9350
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37700216"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640092"
 ---
 # <a name="visio-for-the-web"></a>Visio pour le web
 
-Visio pour le Web étend votre expérience de Microsoft Visio au navigateur, qui vous permet de créer et de modifier des diagrammes enregistrés dans le Cloud. Les clients Microsoft Office 365 peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en déplacement. Si vous disposez d’un abonnement Visio, vous pouvez utiliser des fonctionnalités supplémentaires, telles que celles décrites dans les sections suivantes.
+Visio pour le Web étend votre expérience de Microsoft Visio au navigateur, qui vous permet de créer et de modifier des diagrammes enregistrés dans le Cloud. Les clients de Microsoft 365 peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en déplacement. Si vous disposez d’un abonnement Visio, vous pouvez utiliser des fonctionnalités supplémentaires, telles que celles décrites dans les sections suivantes.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Appliquer des formes et une mise en forme enrichie au texte
 

@@ -13,50 +13,50 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Lorsque vous ajoutez un domaine, un assistant vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie Office 365 et d’autres services pour que le nom de votre entreprise y figure. Une fois l'assistant terminé, vos courriers électroniques professionnels commencent à être dirigés vers Office 365 au lieu de votre fournisseur de messagerie actuel. Pour plus d'informations, voir Ajouter vos utilisateurs et votre domaine à Office 365. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à la rubrique Verify Your Domain.
-ms.openlocfilehash: a1038e0ff6db0dc5def4fd5d50bd5798e45fde2c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Lorsque vous ajoutez un domaine, un assistant étape par étape vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services en nom professionnel. Lorsque vous avez terminé l’Assistant, votre courrier professionnel commence à Microsoft au lieu de passer à votre fournisseur de messagerie actuel. Pour plus d’informations, consultez la rubrique ajouter des utilisateurs et des domaines à Microsoft. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la vérification de votre domaine.
+ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262787"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638862"
 ---
 # <a name="domains"></a>Domaines
 
-Lorsque vous ajoutez un domaine, un assistant vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie Office 365 et d’autres services pour que le nom de votre entreprise y figure. Une fois l’assistant terminé, vos courriers électroniques professionnels commencent à être dirigés vers Office 365 au lieu de votre fournisseur de messagerie actuel. Pour plus d'informations, voir [Ajouter vos utilisateurs et votre domaine à Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la [vérification de votre domaine](https://docs.microsoft.com/office365/admin/setup/add-domain).
+Lorsque vous ajoutez un domaine, un assistant étape par étape vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services en nom professionnel. Lorsque vous avez terminé l’Assistant, votre courrier professionnel commence à Microsoft au lieu de passer à votre fournisseur de messagerie actuel. Pour plus d’informations, consultez [la rubrique ajouter des utilisateurs et des domaines à Microsoft](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la [vérification de votre domaine](https://docs.microsoft.com/office365/admin/setup/add-domain).
   
 ## <a name="custom-domains"></a>Domaines personnalisés
 
-Vous pouvez ajouter jusqu'à 900 domaines à votre abonnement Office 365. Cependant, vous ne pouvez pas ajouter à Office 365 un domaine que vous utilisez déjà dans un autre service cloud de Microsoft. Cela signifie que vous ne pouvez pas ajouter le même domaine à plusieurs abonnements Office 365. Pour plus d’informations, consultez la section [Forum aux questions sur les domaines](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Vous pouvez ajouter jusqu’à 900 domaines à votre abonnement. Cependant, vous ne pouvez pas ajouter à Office 365 un domaine que vous utilisez déjà dans un autre service cloud de Microsoft. Cela signifie que vous ne pouvez pas ajouter le même domaine à plusieurs abonnements. Pour plus d’informations, consultez la section [Forum aux questions sur les domaines](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domaines de deuxième et de troisième niveau
 
-Avec Office 365 Entreprise et Office 365 Business, vous pouvez ajouter un domaine de n'importe quel niveau, y compris des domaines de troisième niveau tels que marketing.contoso.com. Voir [Ajouter des sous-domaines ou plusieurs domaines personnalisés à Office 365](https://docs.microsoft.com/office365/admin/setup/domains-faq). Si vous utilisez Office 365 géré par 21Vianet, voir [Ajouter des sous-domaines ou plusieurs domaines personnalisés à Office 365 géré par 21Vianet](https://docs.microsoft.com/office365/admin/setup/domains-faq).
+Avec Office 365 Enterprise et Microsoft 365 Apps for Business, vous pouvez ajouter n’importe quel domaine de niveau, y compris des domaines de troisième niveau tels que marketing.contoso.com. Consultez la rubrique [Ajouter des sous-domaines personnalisés ou plusieurs domaines à Microsoft](https://docs.microsoft.com/office365/admin/setup/domains-faq). Si vous utilisez Office 365 géré par 21Vianet, voir [Ajouter des sous-domaines ou plusieurs domaines personnalisés à Office 365 géré par 21Vianet](https://docs.microsoft.com/office365/admin/setup/domains-faq).
   
 ## <a name="domain-verification-and-managing-dns-records"></a>Vérification de domaine et gestion des enregistrements DNS
 
-Avec Office 365, vous pouvez gérer tous vos enregistrements DNS au niveau de votre fournisseur d'hébergement DNS ou choisir que Office 365 configure et gère les enregistrements DNS de votre domaine pour vous. Si vous continuez à gérer les enregistrements, vous modifiez des enregistrements spécifiques pour qu'ils pointent vers les services Office 365, le cas échéant. Pour obtenir la liste des bureaux d'enregistrement de domaines pour lesquels nous fournissons des instructions étape par étape pour ajouter des enregistrements, notamment les valeurs spécifiques à utiliser pour chaque enregistrement, consultez la rubrique [Créer des enregistrements DNS auprès d'un fournisseur d'hébergement DNS pour Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) ou, si vous utilisez Office 365 géré par 21Vianet, consultez la rubrique relative à la création des enregistrements DNS auprès d'un fournisseur d'hébergement DNS pour Office 365 géré par .21Vianet. 
+Avec Microsoft 365, vous pouvez gérer tous vos enregistrements DNS auprès de votre fournisseur d’hébergement DNS ou choisir de configurer Microsoft et de gérer les enregistrements DNS de votre domaine pour vous. Si vous continuez à gérer les enregistrements, vous modifiez des enregistrements spécifiques afin qu’ils pointent vers les services Microsoft selon vos besoins. Pour obtenir la liste des registres de domaine pour lesquels nous fournissons des instructions étape par étape pour ajouter les enregistrements, notamment les valeurs spécifiques à utiliser pour chaque enregistrement, consultez la rubrique créer des enregistrements [DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) ou, si vous utilisez Office 365 géré par 21ViaNet, consultez la rubrique créer des enregistrements DNS auprès d’un fournisseur pour Office 365 géré par 21ViaNet. 
   
-Si Office 365 gère les enregistrements DNS de votre domaine pour vous, vous devez d'abord basculer les enregistrements de serveur de noms de votre domaine pour qu'ils pointent vers Office 365, puis Office 365 configure vos services Office 365 et les enregistrements DNS de votre domaine sont gérés au niveau d'Office 365.
+Si Microsoft gère les enregistrements DNS de votre domaine, vous devez d’abord basculer les enregistrements de serveur de noms de votre domaine pour qu’ils pointent vers Microsoft, puis Microsoft configure vos services et que les enregistrements DNS de votre domaine soient gérés chez Microsoft.
   
-Si votre domaine est inscrit sur Go Daddy, Office 365 peut créer les enregistrements nécessaires pour vous sur Go Daddy. 
+Si votre domaine est inscrit sur GoDaddy, Microsoft peut créer les enregistrements nécessaires pour vous sur GoDaddy. 
   
-Peu importe où vos enregistrements DNS sont hébergés, vous pouvez les configurer pour qu'ils utilisent votre domaine pour l'URL d'un site web public hébergé sur Office 365 ou un fournisseur d'hébergement différent. 
+Quelle que soit l’emplacement où vos enregistrements DNS sont hébergés, vous pouvez configurer les enregistrements DNS de sorte qu’ils utilisent votre domaine pour l’URL d’un site Web public hébergé sur Microsoft ou avec un fournisseur d’hébergement différent. 
   
-Office 365 vérifie vos enregistrements DNS de façon proactive pour rechercher les problèmes liés à DNS et les résoudre. Si vos enregistrements DNS ne correspondent pas à ce que nous attendions, vous recevrez une notification dans le centre d’administration 365 de Microsoft, ainsi que des informations qui vous expliquent comment résoudre les problèmes susceptibles d’être identifiés.
+Microsoft vérifie de manière proactive vos enregistrements DNS pour trouver et résoudre les problèmes liés au DNS. Si vos enregistrements DNS ne correspondent pas à ce que nous attendions, vous recevrez une notification dans le centre d’administration 365 de Microsoft, ainsi que des informations qui vous expliquent comment résoudre les problèmes susceptibles d’être identifiés.
   
-Pour plus d'informations, consultez la [FAQ sur les domaines](https://docs.microsoft.com/office365/admin/setup/domains-faq) ou, pour Office 365 géré par 21Vianet, consultez la rubrique relative à la [création d'enregistrements DNS pour Office 365 lorsque vous gérez vos enregistrements DNS](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
+Pour plus d’informations, consultez la rubrique relative à [la gestion des enregistrements DNS par Microsoft](https://docs.microsoft.com/office365/admin/setup/domains-faq) ou, pour Office 365 géré par 21ViaNet, consultez la rubrique [créer des enregistrements dns pour Office 365 lors de la gestion de vos enregistrements DNS](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
   
 ## <a name="sharing-a-domain"></a>Partage d’un domaine
 
-Vous pouvez piloter Office 365 avec quelques adresses de messagerie pour un domaine sur Office 365 et quelques-unes sur votre fournisseur de messagerie précédent. Cette option est recommandée pour une utilisation au cours d’un projet pilote d’Office 365, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services 365 Office. Pour plus d'informations, consultez les rubriques suivantes :
+Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microsoft et d’autres sur votre fournisseur de messagerie précédent. Cette option est recommandée pour une utilisation au cours d’un projet pilote, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services Microsoft. Si vous souhaitez en savoir plus, consultez les articles : 
   
-- [Essai pilote d'Office 365 pour une petite entreprise](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
+- [Pilote Microsoft 365 pour une petite entreprise](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [Pilote Office 365 pour une grande entreprise (avec FastTrack)](https://fasttrack.office.com/onboard)
+- [Pilote Microsoft 365 pour une grande entreprise (avec FastTrack)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service de plateforme office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans d’entreprise, les options autonomes et les solutions locales de Microsoft 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
   
 

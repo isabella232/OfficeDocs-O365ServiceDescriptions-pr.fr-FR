@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
-ms.openlocfilehash: 807494ef23a089008ee3f9ff9b9e5191511afd99
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262515"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638752"
 ---
 # <a name="partners"></a>Partenaires
 
@@ -41,7 +41,7 @@ L'administration déléguée permet à un partenaire de bénéficier de l'accès
   
 Avant de pouvoir commencer à gérer le compte d'un client, celui-ci doit vous autoriser en tant qu'administrateur délégué. Pour obtenir cet accord, vous lui envoyez une proposition d'administration déléguée que vous pouvez inclure à une offre d'essai ou à une proposition d'achat. Le client autorise un partenaire à agir en tant qu'administrateur délégué en répondant au courrier électronique d'offre du partenaire.
   
-Chaque client Office 365 a le droit d'avoir un partenaire administrateur délégué. Ce partenaire peut également être un partenaire de référence (POR), mais cela n'est pas indispensable. Les rôles des partenaires de référence et des administrateurs délégués sont indépendants : le client les désigne séparément. Cela permet à un client de choisir un partenaire qui le conseille pour les achats et un autre pour l'implémentation des services gérés. Cela permet également aux partenaires de choisir d'établir des relations commerciales dans un domaine spécialisé avec l'un de ces rôles ou les deux.
+Chaque client a le droit d’avoir un partenaire d’administration déléguée. Ce partenaire peut également être un partenaire de référence (POR), mais cela n'est pas indispensable. Les rôles des partenaires de référence et des administrateurs délégués sont indépendants : le client les désigne séparément. Cela permet à un client de choisir un partenaire qui le conseille pour les achats et un autre pour l'implémentation des services gérés. Cela permet également aux partenaires de choisir d'établir des relations commerciales dans un domaine spécialisé avec l'un de ces rôles ou les deux.
   
 Même si un client a autorisé un partenaire à effectuer des tâches administratives pour son compte, il peut toujours contacter directement le Support Microsoft et envoyer des demandes de services.
   

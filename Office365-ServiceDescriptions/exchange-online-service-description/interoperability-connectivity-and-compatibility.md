@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262657"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639992"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interopérabilité, connectivité et compatibilité
 
@@ -36,7 +36,7 @@ Pour plus d'informations sur la configuration de Skype Entreprise Server 2015 av
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d'un abonnement Office 365, SharePoint peut se connecter à Exchange Online afin d'accéder aux services intégrés.
+Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d’un plan d’abonnement, SharePoint peut se connecter à Exchange Online pour les services intégrés.
   
 Pour plus d'informations sur la connexion de SharePoint à Exchange Online, visitez la page [Utiliser SharePoint Online sur un domaine personnalisé avec d'autres services](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,6 +58,6 @@ Exchange Online peut être configuré comme un service de remise SMTP pour relay
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
 

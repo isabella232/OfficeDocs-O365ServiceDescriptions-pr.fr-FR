@@ -1,5 +1,5 @@
 ---
-title: Description du service Microsoft teams
+title: Description du service Microsoft Teams
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -8,14 +8,14 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: cd16f511c5bd0af7c8e64cf4efd383ca48f74b30
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 260710e9f794c4c59447ceabd37626162e24ecbf
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609985"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640112"
 ---
-# <a name="microsoft-teams-service-description"></a>Description du service Microsoft teams
+# <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
 Microsoft teams est le Hub pour le travail d’équipe dans Microsoft 365. Le service teams permet des fonctions de messagerie instantanée, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues. En outre, teams offre des fonctionnalités de collaboration et de fichier de données et d’extensibilité, et s’intègre à Microsoft 365 et à d’autres applications Microsoft et partenaires.
 
@@ -23,18 +23,18 @@ Skype entreprise Online sera retiré le 31 juillet 2021, [annoncé](https://tech
 
 Microsoft conserve la sécurité de vos données et l' [accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, consultez le centre de gestion de la [confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Pour référence, nous avons inclus cette table principale des abonnements Office 365 qui permettent aux utilisateurs de Microsoft Teams. Pour plus d’informations, consultez la rubrique [Office 365 Licensing for Microsoft teams](https://docs.microsoft.com/microsoftteams/office-365-licensing). Pour plus d’Office 365 dans les plans gouvernementaux, consultez la rubrique [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 via G5 incluent l’accès aux fonctionnalités de teams.
+Pour référence, nous avons inclus cette table principale des abonnements qui permettent aux utilisateurs de Microsoft Teams. Pour plus d’informations, consultez la rubrique [licences pour Microsoft teams](https://docs.microsoft.com/microsoftteams/office-365-licensing). Pour plus d’Office 365 dans les plans gouvernementaux, consultez la rubrique [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 via G5 incluent l’accès aux fonctionnalités de teams.
 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Offres pour les petites entreprises** <br/> |**Plans d’entreprise** <br/> |**Plans d’éducation** <br/> |**Plans de développement** <br/> |
-|Office 365 Business Essentials  <br/> |Office 365 Entreprise E1  <br/> |Office 365 Éducation  <br/> |Développeur Office 365  <br/> |
-|Office 365 Business Premium  <br/> |Office 365 Entreprise E3  <br/> |Office 365 Éducation Plus  <br/> |   <br/> |
+|Microsoft 365 entreprise Basic  <br/> |Office 365 Entreprise E1  <br/> |Office 365 Éducation  <br/> |Développeur Office 365  <br/> |
+|Microsoft 365 Business standard  <br/> |Office 365 Entreprise E3  <br/> |Office 365 Éducation Plus  <br/> |   <br/> |
 |Microsoft 365 pour les entreprises  <br/> |Office 365 entreprise E4 (obsolète)  <br/> |Office 365 éducation E3 (retiré)  <br/> |  <br/> |
 |  <br/> |Office 365 Entreprise E5  <br/> |Office 365 Éducation E5  <br/> |  <br/> |
 |  <br/> |Office 365 Entreprise F1  <br/> |  <br/> |  <br/> |
 
-Pour obtenir des conseils détaillés sur l’implémentation des fonctionnalités du produit, consultez la [documentation d’administration de Microsoft teams](https://docs.microsoft.com/MicrosoftTeams). Cette description de service décrit les principales différences entre les services fournis dans les différentes installations Cloud. Les fonctionnalités principales de Microsoft Teams ne diffèrent pas des abonnements Office 365. La disponibilité des fonctionnalités de conformité dépend de votre niveau d’abonnement. Pour en savoir plus, consultez [la rubrique sécurité et conformité dans Microsoft teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Pour obtenir la liste détaillée des fonctionnalités disponibles dans chaque abonnement, voir la [Description du service de plateforme Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Pour obtenir des conseils détaillés sur l’implémentation des fonctionnalités du produit, consultez la [documentation d’administration de Microsoft teams](https://docs.microsoft.com/MicrosoftTeams). Cette description de service décrit les principales différences entre les services fournis dans les différentes installations Cloud. Les fonctionnalités principales de Microsoft Teams ne diffèrent pas des abonnements. La disponibilité des fonctionnalités de conformité dépend de votre niveau d’abonnement. Pour en savoir plus, consultez [la rubrique sécurité et conformité dans Microsoft teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Pour obtenir la liste détaillée des fonctionnalités disponibles dans chaque abonnement, voir la [Description du service de plateforme Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
 **Fonctionnalités vocales Cloud**: pour l’audioconférence, votre organisation doit acheter et attribuer une licence d’audioconférence à chaque utilisateur qui configurera des réunions de rendez-vous. Pour les fonctionnalités de teams qui requièrent des forfaits d’appels, chaque utilisateur doit disposer d’un système téléphonique et d’un forfait d’appels nationaux ou internationaux. Pour en savoir plus, consultez la rubrique [licences de module complémentaire Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
@@ -55,7 +55,7 @@ Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams da
 |Équipes  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
 |Canaux-standard  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |Oui  <br/> |
-|Réunions  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Meetings  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Partage d’écran de bureau audio/vidéo PowerPoint <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Audioconférence  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

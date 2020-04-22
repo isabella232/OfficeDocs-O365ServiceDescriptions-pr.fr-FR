@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529207"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639802"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -68,7 +68,7 @@ Par défaut, les fonctionnalités Azure ATP sont activées au niveau du client p
 
 Microsoft offre des fonctionnalités de détection des menaces pour les utilisateurs titulaires d’une licence.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365-Protection avancée contre les menaces
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -78,7 +78,7 @@ ATP protège les utilisateurs contre les attaques sophistiquées telles que le h
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 Security, Microsoft 365 Business et Office 365 les plans de protection avancée contre les menaces 1 et 2 fournissent les droits nécessaires à un utilisateur pour bénéficier d’Office 365 Advanced Threat Protection.
+Office 365 Advanced Threat Protection, Office 365 E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, Microsoft 365 Business Premium et Office 365 les plans de protection avancée contre les menaces 1 et 2 permettent à un utilisateur de bénéficier de la protection avancée contre les menaces.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -102,7 +102,7 @@ Pour comparer les fonctionnalités, consultez la rubrique [differences between M
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-OCAS les identifie, fournit une protection contre les menaces dans Office 365 et peut contrôler les applications qui ont l’autorisation d’accéder aux données Office 365.
+OCAS les identifie, fournit une protection contre les menaces dans Office 365 et contrôle les applications qui ont l’autorisation d’accéder aux données.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
@@ -149,7 +149,7 @@ Pour plus d’informations sur la configuration des stratégies de sécurité de
 
 Les administrateurs peuvent étendre les déploiements MCAS aux utilisateurs titulaires d’une licence à l’aide des fonctionnalités de déploiement étendues disponibles dans le service. Pour plus d’informations, reportez-vous à la rubrique [déploiement étendu](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender - PACM
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP est une solution de sécurité de point de terminaison qui inclut une évaluation et une gestion des vulnérabilités basées sur des risques ; fonctionnalités de réduction de la surface d’attaque ; protection de nouvelle génération basée sur le comportement et le Cloud ; détection et réponse aux points de terminaison (EDR); l’analyse et la correction automatiques ; et services de chasse gérés. Consultez la page [Microsoft Defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) pour en savoir plus.
 
@@ -288,7 +288,7 @@ Les clés de chiffrement de clés client Office 365 peuvent être activées pour
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Pour attribuer des clés de chiffrement aux données d’un client Office 365 et/ou Microsoft 365 pour les utilisateurs sous licence, suivez les instructions de déploiement des clés de chiffrement de clé du client.
+Pour attribuer des clés de chiffrement aux données d’une organisation Office 365 et/ou Microsoft 365 pour les utilisateurs titulaires d’une licence, suivez les instructions de déploiement des clés de chiffrement de clé du client.
 
 - Pour les fichiers SharePoint Online, OneDrive entreprise et Teams, les fichiers sur un ou plusieurs sites peuvent être chiffrés à l’aide de la clé client.
 
@@ -312,7 +312,7 @@ Les administrateurs peuvent activer les contrôles de référentiel sécurisé d
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Microsoft fournit des demandes d’approbation de contrôle d’accès du client à un utilisateur dans votre organisation Office 365.
+Microsoft fournit des demandes d’approbation de contrôle d’accès au client pour les utilisateurs de votre organisation.
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestion des accès privilégiés dans Office 365
 
@@ -352,7 +352,7 @@ Par défaut, les messages électroniques Exchange Online, les sites SharePoint e
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de la sécurité Office 365, sous**emplacements**de **protection contre** > la perte de données.
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous**emplacements**de **protection contre** > la perte de données.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Protection contre la perte de données de communication pour teams
 
@@ -372,7 +372,7 @@ Par défaut, la conversation de teams et les messages de canal sont un *emplacem
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de la sécurité Office 365, sous**emplacements**de **protection contre** > la perte de données.
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous**emplacements**de **protection contre** > la perte de données.
 
 ## <a name="information-barriers"></a>Obstacles aux informations
 
@@ -399,13 +399,13 @@ Les administrateurs créent et gèrent des stratégies de barrière des informat
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & conformité d’Office 365. Par exemple, si tous les utilisateurs disposent d’une licence pour Office 365 E3 et qu’aucun ne dispose d’une licence pour Office 365 Advanced Compliance/E5, ils n’ont pas besoin de créer de stratégies de barrière des informations pour l’organisation. Pour plus d’informations, consultez la rubrique [barrières relatives aux informations dans Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & conformité. Par exemple, si tous les utilisateurs disposent d’une licence pour Office 365 E3 et qu’aucun ne dispose d’une licence pour Office 365 Advanced Compliance/E5, ils n’ont pas besoin de créer de stratégies de barrière des informations pour l’organisation. Pour plus d’informations, consultez la rubrique [barrières relatives aux informations dans Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 
 Le chiffrement des messages Office 365 (OME) est un service basé sur Azure Rights Management (Azure RMS) qui vous permet d’envoyer des messages chiffrés à des personnes internes ou externes à votre organisation, quelle que soit l’adresse de messagerie de destination (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
-Pour afficher les messages chiffrés, les destinataires peuvent obtenir un code secret à usage unique, se connecter à l’aide d’un compte Microsoft ou se connecter à l’aide d’un compte professionnel ou scolaire associé à Office 365. Les destinataires peuvent également envoyer des réponses chiffrées. Ils n’ont pas besoin de disposer d’un abonnement à Office 365 pour afficher des messages chiffrés ni pour envoyer des réponses chiffrées.
+Pour afficher les messages chiffrés, les destinataires peuvent obtenir un code secret à usage unique, se connecter à l’aide d’un compte Microsoft ou se connecter à l’aide d’un compte professionnel ou scolaire associé à Office 365. Les destinataires peuvent également envoyer des réponses chiffrées. Ils n’ont pas besoin d’un abonnement pour afficher les messages chiffrés ou envoyer des réponses chiffrées.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -423,7 +423,7 @@ Les administrateurs créent et gèrent les stratégies de chiffrement des messag
 
 Les administrateurs doivent appliquer des règles de flux de messagerie pour le chiffrement de messages Office 365 uniquement aux utilisateurs titulaires d’une licence. Pour plus d’informations sur la définition des règles de flux de messagerie, voir [définir des règles de flux de messagerie pour chiffrer les messages électroniques dans Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
 
-## <a name="office-365-advanced-message-encryption"></a>Chiffrement de messages avancé Office 365
+## <a name="office-365-advanced-message-encryption"></a>Chiffrement avancé de messages Office 365
 
 Office 365 Advanced message Encryption aide les clients à respecter les obligations de conformité nécessitant des contrôles plus souples pour les destinataires externes et leur accès aux messages chiffrés. Avec le chiffrement de messages avancé, les administrateurs peuvent contrôler les messages électroniques sensibles partagés en dehors de l’organisation à l’aide de stratégies automatiques pouvant détecter des types d’informations sensibles (par exemple, des informations d’identification personnelle ou des ID d’intégrité ou financières) ou utiliser des mots clés pour améliorer la protection en appliquant des modèles de courrier personnalisés et en expirant l’accès à des e-mails chiffrés En outre, les administrateurs peuvent contrôler les messages électroniques chiffrés accessibles en externe via un portail Web sécurisé en révoquant l’accès à tout moment.
 

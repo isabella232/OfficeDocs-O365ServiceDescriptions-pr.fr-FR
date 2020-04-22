@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: 51bb73ecf80b6fd38e958983386ed8bdd8043c09
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216729"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639932"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -25,9 +25,9 @@ Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’out
   
 ## <a name="microsoft-bookings"></a>Réservations Microsoft
 
-Microsoft Bookings est une application mobile et en ligne pour les petites entreprises fournissant des services aux clients sur la base de rendez-vous. Par exemple, cela inclut les salons de coiffure, les cabinets dentaires, les spas, les cabinets d'avocats, les prestataires de services financiers, les consultants et les garages automobiles. Bookings Microsoft est disponible aux États-Unis et au Canada pour les clients possédant un abonnement à Office 365 Business Premium. 
+Microsoft Bookings est une application mobile et en ligne pour les petites entreprises fournissant des services aux clients sur la base de rendez-vous. Par exemple, cela inclut les salons de coiffure, les cabinets dentaires, les spas, les cabinets d'avocats, les prestataires de services financiers, les consultants et les garages automobiles. Microsoft bookings est disponible pour les clients des États-Unis et du Canada qui ont un abonnement Microsoft 365 Business standard. 
   
-Pour plus d'informations sur Microsoft Bookings, reportez-vous à [Découvrir Microsoft Bookings](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
+Pour plus d’informations sur les ouvrages Microsoft, consultez [la rubrique publier votre calendrier professionnel en ligne avec Microsoft bookings](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="microsoft-briefing-email"></a>Courrier électronique de briefing Microsoft
 
@@ -39,7 +39,7 @@ Le courrier électronique de briefing permet aux utilisateurs de tirer le meille
 
 Un message succinct est fourni automatiquement à tous les utilisateurs d’Exchange Online. Pour en savoir plus, consultez la rubrique [Résumé du courrier électronique](https://docs.microsoft.com/Briefing/be-overview).
 
-## <a name="microsoft-power-automate"></a>Microsoft Power Automated
+## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
 Microsoft Power automate vous permet d’automatiser les flux de travail entre les applications. Vous pouvez utiliser Microsoft Flow pour connecter votre messagerie électronique et vos alertes de messagerie instantanée, synchroniser des fichiers entre les applications, copier des fichiers d'un service à un autre, collecter des données à partir d'une application et les stocker dans une autre, et bien plus encore. Des modèles sont disponibles pour vous aider à vous lancer. Pour en savoir plus sur les fonctionnalités de Microsoft Flow et comment les utiliser, accédez au [site web de Microsoft Flow](https://flow.microsoft.com/en-us/).
   

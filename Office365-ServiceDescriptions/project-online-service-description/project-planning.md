@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Les fonctionnalités de planification de projet suivantes sont disponibles dans Project online.
-ms.openlocfilehash: e591d491f76a340da7e3260ece0210de3ac57637
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546027"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640202"
 ---
 # <a name="project-planning"></a>La planification de projet
 
@@ -63,5 +63,5 @@ Utilisez une vue qui affiche les personnes et leurs affectations.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
   

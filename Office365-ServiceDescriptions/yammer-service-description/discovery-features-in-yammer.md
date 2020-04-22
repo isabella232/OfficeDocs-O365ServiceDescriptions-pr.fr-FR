@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 7207f3c6317d7a8479692bcbf06ff2b242eb5ce1
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 44f959480415dc1d4eba7b3159fb46e38d153da0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688228"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640072"
 ---
 # <a name="discovery-features-in-yammer"></a>Fonctionnalités de découverte dans Yammer
 
@@ -45,6 +45,6 @@ La recherche en texte intégral vous permet de trouver rapidement des fichiers, 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
   
   

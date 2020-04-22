@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Les fonctionnalités de profil suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 0f85007ec52bee13557f831c9f72029cc7fe93f5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 88203bd0a62a8094596a3719e5dc3eff09cd6e31
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263155"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640012"
 ---
 # <a name="profile-features-in-yammer"></a>Fonctionnalités de profil dans Yammer
 
@@ -49,6 +49,6 @@ Téléchargez une image, remplissez les détails du contact et répertoriez votr
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
   
 

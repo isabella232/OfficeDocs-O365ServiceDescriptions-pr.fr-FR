@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Les fonctionnalités de messagerie et de conversation suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687876"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640032"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Fonctionnalités de messagerie et de conversation dans Yammer
 
@@ -27,7 +27,7 @@ Les fonctionnalités de messagerie et de conversation suivantes sont disponibles
 
 Informez vos collègues et intégrez-les à une conversation en mentionnant leur nom.
 
-## <a name="events"></a>Événements
+## <a name="events"></a>Évènements
 
 Organisez des réunions et des événements, partagez-les avec des collègues et assurez le suivi de la présence. Des événements peuvent être ajoutés à des calendriers Outlook, Google, Yahoo ! et iCal.
   
@@ -57,5 +57,5 @@ Partager des conversations dans le flux d’un autre groupe ou via un message pr
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
+Pour afficher les plans de disponibilité des fonctionnalités, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
   

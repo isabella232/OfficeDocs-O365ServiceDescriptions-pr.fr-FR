@@ -1,5 +1,5 @@
 ---
-title: Haute disponibilité et continuité de l’activité
+title: Haute disponibilité et continuité de service
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online offre une prise en charge étendue de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
-ms.openlocfilehash: b52345ce9287f0f28187df8efdb89c2eb6a7d9c8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262597"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639792"
 ---
-# <a name="high-availability-and-business-continuity"></a>Haute disponibilité et continuité de l’activité
+# <a name="high-availability-and-business-continuity"></a>Haute disponibilité et continuité de service
 
 Microsoft Exchange Online offre une prise en charge étendue de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
   
@@ -31,7 +31,7 @@ Pour plus d'informations sur la manière dont Microsoft protège vos données, c
   
 ## <a name="deleted-mailbox-recovery"></a>Récupération de boîtes aux lettres supprimées
 
-Les administrateurs peuvent supprimer des boîtes aux lettres Exchange Online en utilisant le centre d’administration Microsoft 365 pour supprimer le compte d’utilisateur correspondant ou supprimer la licence Exchange Online ou en utilisant la cmdlet **Remove-Mailbox** dans Windows PowerShell à distance. Lors de la suppression d'une boîte aux lettres, Exchange Online conserve la boîte aux lettres et son contenu pendant 30 jours par défaut. Passé ce délai de 30 jours, la boîte aux lettres n'est plus récupérable. Une boîte aux lettres récupérée contient toutes les données qui y étaient stockées au moment de sa suppression. Les administrateurs peuvent récupérer une boîte aux lettres supprimée pendant la période de rétention à l’aide du centre d’administration Microsoft 365. Pour récupérer une boîte aux lettres, les administrateurs doivent restaurer le compte d'utilisateur Office 365 correspondant ou lui réattribuer une licence Exchange Online. Pour plus d'informations, consultez la rubrique [Suppression ou restauration de boîtes aux lettres utilisateur dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+Les administrateurs peuvent supprimer des boîtes aux lettres Exchange Online en utilisant le centre d’administration Microsoft 365 pour supprimer le compte d’utilisateur correspondant ou supprimer la licence Exchange Online ou en utilisant la cmdlet **Remove-Mailbox** dans Windows PowerShell à distance. Lors de la suppression d'une boîte aux lettres, Exchange Online conserve la boîte aux lettres et son contenu pendant 30 jours par défaut. Passé ce délai de 30 jours, la boîte aux lettres n'est plus récupérable. Une boîte aux lettres récupérée contient toutes les données qui y étaient stockées au moment de sa suppression. Les administrateurs peuvent récupérer une boîte aux lettres supprimée pendant la période de rétention à l’aide du centre d’administration Microsoft 365. Pour récupérer une boîte aux lettres supprimée, les administrateurs doivent restaurer le compte d’utilisateur correspondant ou réaffecter une licence Exchange Online au compte d’utilisateur. Pour plus d'informations, consultez la rubrique [Suppression ou restauration de boîtes aux lettres utilisateur dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
   
 ## <a name="deleted-item-recovery"></a>Récupération d'éléments supprimés
 
@@ -45,5 +45,5 @@ Pour conserver les messages au-delà de 30 jours dans le dossier Éléments réc
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   

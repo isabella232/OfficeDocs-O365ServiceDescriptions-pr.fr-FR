@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Utilisez OneNote pour le Web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe où et partager facilement avec d’autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Utilisez OneNote pour le Web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe où et partager facilement avec d’autres personnes. Tous les clients peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
+ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688203"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640222"
 ---
 # <a name="onenote-for-the-web"></a>OneNote pour le web
 
-Utilisez OneNote pour le Web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe où et partager facilement avec d’autres personnes. Tous les clients Office 365 peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web. 
+Utilisez OneNote pour le Web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe où et partager facilement avec d’autres personnes. Tous les clients peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 
@@ -142,7 +142,7 @@ Avec OneNote pour le Web, vous pouvez utiliser la recherche instantanée pour ra
 
 Non disponible dans OneNote pour le Web. Les fonctions de recherche avancées comme la recherche par balise, titre, auteur/date et fichier audio, sont disponibles uniquement dans l'application OneNote de bureau.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 
 Si vous avez enregistré votre bloc-notes OneNote dans une bibliothèque de documents SharePoint, votre bloc-notes OneNote est en ligne. Cela signifie que vous pouvez le partager en envoyant un lien au lieu d'une pièce jointe par courrier électronique. En sélectionnant le lien, les utilisateurs peuvent lire vos notes dans leur navigateur Web. En savoir plus sur le [partage des notes OneNote Online](https://go.microsoft.com/fwlink/p/?LinkID=272945).
   
@@ -154,7 +154,7 @@ Avec OneNote pour le Web, vous pouvez désactiver les balises d’auteur qui app
 
 Avec OneNote pour le Web, vous pouvez facilement appliquer des styles de texte pour une mise en forme rapide. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="tables"></a>Tableaux
+## <a name="tables"></a>Tables
 
 Avec OneNote pour le Web, vous pouvez insérer un tableau, modifier le texte du tableau et facilement modifier la structure d’un tableau de base, par exemple en ajoutant ou en supprimant des lignes et des colonnes. Pour des fonctions de tableau plus avancées, comme la conversion d'un tableau en feuille de calcul Excel ou l'ombrage de cellule, les lignes d'en-tête et le tri de données dans les cellules d'un tableau, vous devrez utiliser l'application OneNote de bureau. En savoir plus sur les [différences entre l'utilisation d'un bloc-notes dans le navigateur et dans OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
@@ -176,6 +176,6 @@ Avec OneNote pour le Web, vous pouvez afficher et restaurer les versions précé
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, reportez-vous à [la rubrique Office for the Web Service Description](office-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez [la rubrique Office for the Web Service Description](office-online-service-description.md).
   
 

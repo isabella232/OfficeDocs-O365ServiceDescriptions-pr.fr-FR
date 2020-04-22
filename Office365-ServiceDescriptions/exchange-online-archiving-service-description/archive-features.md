@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Les sections suivantes décrivent les fonctionnalités d’archivage de Microsoft Exchange Online Archiving.
-ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987576"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639832"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Fonctionnalités d’archivage dans l’archivage Exchange Online
 
@@ -68,7 +68,7 @@ Si un utilisateur a purgé manuellement un élément du dossier des éléments r
   
 ## <a name="deleted-mailbox-recovery"></a>Récupération de boîtes aux lettres supprimées
 
-Lorsque les administrateurs suppriment des utilisateurs du serveur Exchange local, les archives de ces derniers sont également supprimées. Si les boîtes aux lettres d'archivage supprimées doivent être récupérées, l'équipe de support technique Office 365 peut effectuer cette récupération. Une archive récupérée contiendra tous les courriers qui y étaient stockés au moment de sa suppression.
+Lorsque les administrateurs suppriment des utilisateurs du serveur Exchange local, les archives de ces derniers sont également supprimées. Si les boîtes aux lettres d’archivage supprimées doivent être récupérées, l’équipe du support technique Microsoft peut effectuer cette récupération. Une archive récupérée contiendra tous les courriers qui y étaient stockés au moment de sa suppression.
   
 > [!IMPORTANT]
 > Les administrateurs disposent de 30 jours à partir de la suppression de la boîte aux lettres d'un utilisateur pour demander la récupération de la boîte aux lettres d'archivage. Passé ce délai de 30 jours, la boîte aux lettres d'archivage n'est plus récupérable. 
@@ -79,5 +79,5 @@ Les boîtes aux lettres d'archivage dans Archivage Exchange Online sont répliqu
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description.md).
   

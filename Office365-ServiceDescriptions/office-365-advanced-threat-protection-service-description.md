@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529217"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640142"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -33,9 +33,9 @@ Les principales façons d’utiliser la protection avancée contre les menaces p
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilité d’Office 365 - Protection avancée contre les menaces
 
-La protection avancée contre les menaces est incluse dans Office 365 entreprise E5, Office 365 éducation a5 et Microsoft 365 Business.
+La protection avancée contre les menaces est incluse dans Office 365 entreprise E5, Office 365 éducation a5 et Microsoft 365 Business Premium.
 
-Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 suivants :
+Vous pouvez ajouter la fonctionnalité ATP aux plans d’abonnement Exchange et Microsoft 365 suivants :
 
 - Exchange Online (plan 1)
 
@@ -45,11 +45,11 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
 
 - Exchange Online Protection
 
-- Office 365 Business Essentials
+- Microsoft 365 entreprise Basic
 
-- Office 365 Business Premium
+- Microsoft 365 Business standard
 
-- Office 365 Entreprise E1
+- Office 365 Entreprise E1
 
 - Office 365 Entreprise E3
 
@@ -61,7 +61,7 @@ Vous pouvez ajouter ce service aux plans d'abonnement Exchange et Office 365 sui
 
 Pour acheter Office 365 - Protection avancée contre les menaces, reportez-vous à l'article [Office 365 - Protection avancée contre les menaces](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Pour comparer les fonctionnalités de tous les plans, voir [compare Office 365 for business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) et [découvrir la solution Microsoft 365 Enterprise qui vous convient](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Pour comparer les fonctionnalités de tous les plans, voir [compare microsoft 365 Apps for business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) et [découvrir la solution Microsoft 365 Enterprise qui vous convient](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Nouveautés d'Office 365 - Protection avancée contre les menaces
 
@@ -87,7 +87,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |[Liens fiables](#safe-links)|Oui|Oui|Oui|
 |Liens fiables dans Teams|Oui|Oui|Oui|
 |[ATP pour SharePoint, OneDrive et Microsoft teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Oui|Oui|Oui|
-|[Stratégies anti-hameçonnage](#anti-phishing-policies)|Oui|Oui|Oui|
+|[Stratégies anti-hameçonnage.](#anti-phishing-policies)|Oui|Oui|Oui|
 |[Rapports en temps réel](#real-time-reports)|Oui|Oui|Oui|
 |*Automatisation, recherche, correction et éducation*|
 |[Suivi des menaces](#threat-trackers)|Non|Oui|Oui|
@@ -113,7 +113,7 @@ La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/microsoft-3
 
 Les liens fiables sont disponibles pour les URL dans les applications suivantes :
 
-- Office 365 ProPlus sur Windows ou Mac
+- Applications Microsoft 365 pour Enterprise sur Windows ou Mac
 
 - Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web)
 
@@ -132,13 +132,13 @@ Les liens fiables sont disponibles pour les URL dans les applications suivantes�
 
 La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) permet de détecter et de bloquer des fichiers identifiés comme étant malveillants dans les sites d’équipe et les bibliothèques de documents. En outre, la protection des liens fiables ATP est désormais disponible dans les conversations et les conversations de Microsoft Teams.
 
-### <a name="anti-phishing-policies"></a>Stratégies anti-hameçonnage
+### <a name="anti-phishing-policies"></a>Stratégies anti-hameçonnage.
 
 [Protection contre le hameçonnage](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) pour les messages entrants pour les indicateurs qu’un message peut être une tentative de hameçonnage. Lorsque les utilisateurs sont couverts par des stratégies ATP (pièces jointes fiables, liens fiables ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise en fonction des stratégies configurées.
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
-Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité Office 365 incluent des [rapports en temps réel et](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) des informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation de l’activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
+Les fonctionnalités de surveillance disponibles dans le centre de sécurité & conformité incluent des [rapports en temps réel et des](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) informations qui permettent aux administrateurs de la sécurité et de la conformité de se concentrer sur des problèmes à haute priorité, tels que les attaques de sécurité ou l’augmentation de l’activité suspecte. En plus de mettre en surbrillance les zones problématiques, les rapports intelligents et les idées contiennent des recommandations et des liens permettant d’afficher et d’explorer les données et d’effectuer des actions rapides.
 
 ### <a name="explorer"></a>Explorer
 

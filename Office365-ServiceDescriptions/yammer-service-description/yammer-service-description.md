@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
-ms.openlocfilehash: a7f918f7bca754596f18e926e03d282b43fe84d0
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263135"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640182"
 ---
 # <a name="yammer-service-description"></a>Description du service Yammer
 
 Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
   
-Pour obtenir la liste des plans Office 365 qui comprennent Yammer, voir [Familles et plans de services Office 365](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
+Pour obtenir la liste des offres qui incluent Yammer, consultez la rubrique [Microsoft service familles et plans](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
-Pour comparer les fonctionnalités des différents plans, voir [Comparer toutes les offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Pour comparer les fonctionnalités de tous les plans, voir [compare Microsoft 365 for business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
-> Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions de service Office 365. Découvrez comment [exporter plusieurs pages](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> Vous pouvez exporter, enregistrer et imprimer des pages dans les descriptions de service Microsoft. Découvrez comment [exporter plusieurs pages](https://go.microsoft.com/fwlink/?LinkId=403349). 
   
 ## <a name="system-requirements"></a>Configuration requise
 
-Pour connaître la configuration système requise pour Office 365, le service par abonnement mensuel disponible pour les entreprises, l'éducation et les agences gouvernementales, voir [Configuration requise pour Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
+Pour connaître la configuration requise pour Office 365, le service mensuel basé sur les abonnements pour les entreprises, l’éducation et les organisations gouvernementales, reportez-vous à [Microsoft 365 System Requirements](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="yammer-plans"></a>Plans Yammer
 
@@ -49,7 +49,7 @@ Yammer est disponible avec les plans suivants :
 ## <a name="yammer-enterprise-service-communications-policy"></a>Stratégie de communication de service d’entreprise Yammer
 <a name="YammerCommsPolicy"> </a>
 
-Yammer fait partie d’Office 365 et adhère à la stratégie de [gestion des modifications d’office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n’utilise pas la version ciblée pour déployer les mises à jour. 
+Yammer adhère à la [stratégie de gestion des modifications de Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), mais n’utilise pas la version ciblée pour déployer les mises à jour. 
   
 Tous les utilisateurs de Yammer sont soumis au test de fonctionnalité A/B. Cela permet à Microsoft de tester la stabilité, les performances et l'amélioration de l'expérience des fonctionnalités sur de nombreux environnements et périphériques. Des utilisateurs au sein du même réseau peuvent avoir différentes expériences au cours du test. Les clients ne peuvent pas refuser un test A/B.
   
@@ -59,8 +59,8 @@ Le choix des canaux de communication dépend de l'impact :
   
 |||
 |:-----|:-----|
-|**Modifications qui nécessitent une action (planifier une modification)** <br/>Administrateur requis pour effectuer des modifications afin de maintenir le service en cours d’exécution, mises à jour susceptibles d’avoir un impact sur la conformité de votre organisation  <br/> |-Courrier électronique du centre de messages Office 365 directement vers les administrateurs de Yammer vérifiés <br/>-Feuille de route Office 365<br/>-Mises à jour du service Yammer<br/>-Groupe externe<br/>Avec les modifications qui concernent un ensemble d’utilisateurs ciblé, nous pouvons également informer ces utilisateurs directement. |
-|**Modifications exigeant une sensibilisation (restez informé)**<br/>Modifications qui ne nécessitent pas d’action d’administration, modifications visuelles de la conception  <br/> |-Centre de messages Office 365<br/>-Feuille de route Office 365<br/>-Mises à jour du service Yammer<br/>-Groupe externe<br/>Avec les modifications qui concernent un ensemble d’utilisateurs ciblé, nous pouvons également informer ces utilisateurs directement. |
+|**Modifications qui nécessitent une action (planifier une modification)** <br/>Administrateur requis pour effectuer des modifications afin de maintenir le service en cours d’exécution, mises à jour susceptibles d’avoir un impact sur la conformité de votre organisation  <br/> |-Courrier électronique du centre de messages Office 365 directement vers les administrateurs de Yammer vérifiés <br/>-Feuille de route Microsoft 365<br/>-Mises à jour du service Yammer<br/>-Groupe externe<br/>Avec les modifications qui concernent un ensemble d’utilisateurs ciblé, nous pouvons également informer ces utilisateurs directement. |
+|**Modifications exigeant une sensibilisation (restez informé)**<br/>Modifications qui ne nécessitent pas d’action d’administration, modifications visuelles de la conception  <br/> |-Centre de messages Office 365<br/>-Feuille de route Microsoft 365<br/>-Mises à jour du service Yammer<br/>-Groupe externe<br/>Avec les modifications qui concernent un ensemble d’utilisateurs ciblé, nous pouvons également informer ces utilisateurs directement. |
 |**Non critique** <br/>Modifications non critiques qui ne nécessitent pas d’action ou de sensibilisation, même si elles peuvent être observables par certains utilisateurs  <br/> |Ne seront pas communiquées largement. |
    
 ## <a name="feature-availability-across-yammer-plans"></a>Disponibilité des fonctionnalités pour les différents plans Yammer

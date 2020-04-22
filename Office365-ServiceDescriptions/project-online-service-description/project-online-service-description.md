@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931940"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638732"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -120,7 +120,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |**Personnalisation et intégration**||
 |PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles avec les PowerApp. <sup>4</sup> |
 |Flux de travail | Automatisez et intégrez les processus d’entreprise avec Power Automated. <sup>5</sup> |
-|Intégration de Microsoft Office 365 | Collaborer, gérer des documents et utiliser des outils et applications Office 365 familiers. <sup>1</sup> |
+|Intégration Microsoft | Collaborer, gérer des documents et plus d’informations à l’aide d’outils et d’applications Microsoft familiers. <sup>1</sup> |
 |**Gestion des utilisateurs et de la sécurité**||
 |Groupes modernes Office | Créez une équipe de projet pour collaborer et configurer facilement une collection de ressources que les membres de l’équipe partagent.|
 
@@ -152,7 +152,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Approbations des feuilles de temps | Les membres de l’équipe peuvent envoyer des feuilles de temps pour approbation. Les responsables de ressources et les superviseurs peuvent consulter, approuver et décliner les feuilles de temps soumises. | Oui | Oui |
 |Configuration de l’heure hors travail | Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. | Non | Oui |
 |**Collaboration** ||||
-|Pièces jointes | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
+|Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
 |Membres de l’équipe externe |Collaborez avec des personnes en dehors de votre organisation en leur accordant l’accès à vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
 |Sites de projet | Créer et personnaliser un concentrateur pour la collaboration et les documents pour un projet. | Oui | Oui |
 Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
@@ -181,14 +181,14 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 |Formules | Calculer et capturer des données importantes à l’aide de formules entre des tâches et des projets. | Oui | Oui |
 |PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles (via OData) avec les PowerApp. <sup>4</sup> | Oui | Oui |
 |Flux de travail | Automatisez et intégrez les processus d’entreprise (via OData) avec Power Automated. <sup>5</sup> | Oui | Oui |
-|Intégration de Microsoft Office 365 | Collaborer, gérer des documents et utiliser des outils et applications Office 365 familiers. <sup>1</sup> | Oui | Oui |
+|Intégration de Microsoft 365 | Collaborer, gérer des documents et plus d’informations à l’aide d’outils et d’applications Microsoft familiers. <sup>1</sup> | Oui | Oui |
 |Intégration du planificateur Microsoft | Connecter des tâches de projet à un plan de planificateur et suivre le travail détaillé dans le planificateur. <sup>1</sup> | Oui | Oui |
 |**Gestion de la sécurité, des utilisateurs et des services**||||
 |Active Directory integration | Créez des équipes à partir de n’importe quel membre de l’annuaire Active Directory de votre organisation. <sup>9</sup> | Oui | Oui |
 |Gestion des utilisateurs | Gérer les rôles et les autorisations des utilisateurs et des groupes au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
 |Administration des services | Planifiez, installez et configurez, gérez et étendez votre environnement Microsoft Project dans le cadre de votre environnement Office 365<sup>1</sup> .  | Non | Oui |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>Remarques
 
 <sup>1</sup> nécessite un abonnement commercial Office ou Microsoft 365.</br>
 <sup>2</sup> cartes Azure acquises séparément.</br>
@@ -281,18 +281,18 @@ Project pour le Web présente certaines limitations, décrites dans le tableau s
 
 |Entité/champ | Limite |
 |-------------|-------|
-|**Task** ||
-|Max. niveau hiérarchique de la tâche | 10 niveaux |
-|Max. Liens (successeur + prédécesseur) d’une tâche | vingtaine |
-|Max. durée de la tâche terminal | 1250 jours |
-|Max. durée de la tâche récapitulative | 3650 jours (10 ans) |
-|Max. ressources pouvant être affectées à une tâche | 20 ressources |
+|**Tâche** ||
+|Longueur niveau hiérarchique de la tâche | 10 niveaux |
+|Longueur Liens (successeur + prédécesseur) d’une tâche | vingtaine |
+|Longueur durée de la tâche terminal | 1250 jours |
+|Longueur durée de la tâche récapitulative | 3650 jours (10 ans) |
+|Longueur ressources pouvant être affectées à une tâche | 20 ressources |
 |Plage de dates prise en charge pour la tâche | 1/1/1984 &ndash; 12/31/2149 |
 |**Project** ||
-|Max. nombre total de tâches pour le projet | 500 |
-|Max. durée totale du projet | 3650 jours (10 ans) |
-|Max. nombre total de ressources pour le projet | 150 |
-|Max. nombre total de liens (successeur uniquement) pour le projet | 600 |
+|Longueur nombre total de tâches pour le projet | 500 |
+|Longueur durée totale du projet | 3650 jours (10 ans) |
+|Longueur nombre total de ressources pour le projet | 150 |
+|Longueur nombre total de liens (successeur uniquement) pour le projet | 600 |
 
 ### <a name="project-online-boundaries-and-limitations"></a>Limites et limites de Project Online
 

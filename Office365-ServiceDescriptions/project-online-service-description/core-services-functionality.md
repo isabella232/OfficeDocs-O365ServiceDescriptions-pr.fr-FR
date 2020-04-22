@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Les fonctionnalités des services principaux suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688198"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638962"
 ---
 # <a name="core-services-functionality"></a>Services de base
 
@@ -49,11 +49,11 @@ Les solutions de gestion de portefeuille de projets de Microsoft sont recommand�
   
 ## <a name="service-reliability"></a>Service reliability
 
-Nous promettons une disponibilité de 99,9 % de nos services et nous assurons une garantie financière de premier plan pour les clients Office 365. En savoir plus sur la [continuité des services](https://go.microsoft.com/fwlink/?LinkId=402653).
+Nous sommes en fonction de notre promesse de disponibilité de 99,9% avec une garantie financière de premier plan pour les clients. En savoir plus sur la [continuité des services](https://go.microsoft.com/fwlink/?LinkId=402653).
   
 ## <a name="service-updates"></a>Mises à jour du service
 
-Nous mettons régulièrement à jour les services Office 365 avec de nouvelles fonctionnalités et fonctions. Consultez la rubrique [mises à jour de service](../office-365-platform-service-description/service-updates.md).
+Nous mettons régulièrement à jour les services Microsoft avec de nouvelles fonctionnalités et fonctionnalités. Consultez la rubrique [mises à jour de service](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Collaboration des membres de l’équipe
 

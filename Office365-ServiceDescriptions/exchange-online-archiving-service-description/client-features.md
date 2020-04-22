@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à leurs boîtes aux lettres d’archivage à partir de plusieurs appareils et plateformes. Toute la connectivité réseau à l’archive de l’utilisateur se produit sur Internet, et les connexions de réseau privé virtuel (VPN) ne sont pas requises. Les organisations peuvent publier un serveur d'accès au client local pour permettre aux utilisateurs d'accéder à leur boîte aux lettres principale à l'aide d'Outlook Anywhere, sans nécessiter de connexion VPN. Si un accès VPN est requis pour accéder à la boîte aux lettres principale de l'utilisateur située sur un serveur local, cette exigence ne change pas.
-ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260709"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639722"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Fonctionnalités client dans l’archivage Exchange Online
 
@@ -38,7 +38,7 @@ Outlook 2010 et versions ultérieures et Outlook sur le Web fournissent aux util
 Outlook 2007 propose une prise en charge simple de l'archive, mais toutes les fonctions de conformité et d'archivage ne sont pas disponibles dans Outlook 2007. Par exemple, avec Outlook 2007, les utilisateurs ne peuvent pas appliquer de stratégies d'archivage ou de rétention aux éléments de leurs boîtes aux lettres. Ils doivent plutôt utiliser des stratégies fournies par un administrateur. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive.
   
 > [!NOTE]
-> Outlook n'est pas fourni avec Archivage Exchange Online. Microsoft Office 365 ProPlus (qui inclut Microsoft Outlook) est inclus dans certains plans Office 365 et est disponible dans le cadre d'un abonnement à part. Pour plus d’informations, consultez la rubrique [options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md). Pour plus d’informations sur Office 365 ProPlus, voir la [Description du service d’applications Office](../office-applications-service-description/office-applications-service-description.md). 
+> Outlook n'est pas fourni avec Archivage Exchange Online. Microsoft 365 apps pour entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté séparément en tant qu’abonnement séparé. Pour plus d’informations, consultez la rubrique [options de plan Microsoft 365](../office-365-platform-service-description/office-365-plan-options.md). Pour plus d’informations sur les applications Microsoft 365 pour Enterprise, voir la [Description du service d’applications Office](../office-applications-service-description/office-applications-service-description.md). 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clients pris en charge par l’archivage Exchange Online
 
@@ -68,4 +68,4 @@ Les utilisateurs peuvent accéder à leur archive en se connectant à Outlook su
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description.md).

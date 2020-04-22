@@ -8,23 +8,23 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Microsoft 365 Business est l’offre Microsoft de meilleure qualité pour les petites et moyennes entreprises. Microsoft 365 Business est une solution intégrée qui rassemble la productivité d’Office 365, la sécurité avancée et la gestion des appareils.
-ms.openlocfilehash: 70e649c0aa66390e3e84da2ff517bfef9a5dbc8f
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+description: Microsoft 365 Business Premium est l’offre de Microsoft de meilleure qualité pour les petites et moyennes entreprises. Microsoft 365 Business Premium est une solution intégrée qui rassemble Microsoft 365 productivité, la sécurité avancée et la gestion des appareils.
+ms.openlocfilehash: b608aaa2f0ba113c504b72bec38ce0ba07a93031
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216463"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640302"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licences Microsoft 365 pour les petites et moyennes entreprises
 
-Microsoft 365 Business est l’offre Microsoft de meilleure qualité pour les clients des petites et moyennes entreprises (SMB). Microsoft 365 Business est une solution intégrée qui allie la **productivité** d’Office 365 à la gestion avancée de la **sécurité** et des **périphériques**.
+Microsoft 365 Business Premium est l’offre Microsoft de qualité supérieure pour les clients des petites et moyennes entreprises (SMB). Microsoft 365 Business Premium est une solution intégrée qui allie la **productivité** de Microsoft 365 à la gestion avancée de la **sécurité** et des **périphériques**.
 
-Cet article compare les options de licence pour les PME, avec une mise en évidence spéciale de Microsoft 365 Business.
+Cet article compare les options de licence pour les PME, avec une mise en évidence spéciale de Microsoft 365 Business Premium.
 
-## <a name="feature-comparison-office-365-business-premium-and-microsoft-365-business"></a>Comparaison des fonctionnalités : Office 365 Business Premium et Microsoft 365 Business
+## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-business-premium"></a>Comparaison des fonctionnalités : Microsoft 365 Business standard et Microsoft 365 Business Premium
 
-|**Zone de service** |**Fonctionnalité** | **Office 365 Business Premium** | **Microsoft 365 Business** |
+|**Zone de service** |**Fonctionnalité** | **Microsoft 365 Business standard** | **Microsoft 365 Business Premium** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**Licences disponibles** | Nombre maximal d’utilisateurs | 300  | 300  |
 |**Applications Office** | Installer Office sur un maximum de 5 PC/Mac + 5 tablettes + 5 smartphones par utilisateur (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
@@ -43,7 +43,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |   | Windows AutoPilot, gestion Windows Pro | Non | Oui |
 |   | Droits de mise à niveau vers les licences Windows 10 Pro pour Win 7/8.1 Pro | Non | Oui |
 |   | Windows Virtual Desktop | Non | Oui |
-|**Protection des informations** | Protection contre la perte de données Office 365 | Non | Oui |
+|**Protection des informations** | Protection contre la perte de données Microsoft | Non | Oui |
 |   | Azure information Protection Plan 1, application BitLocker | Non | Oui |
 |**Conformité** | Archivage de courrier électronique illimité<sup>2</sup> | Non | Oui |
 
@@ -53,9 +53,9 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 
 <sup>2</sup> archivage illimité lorsque l’extension automatique est activée.
 
-## <a name="feature-comparison-microsoft-365-business-and-office-365-e3"></a>Comparaison des fonctionnalités : Microsoft 365 Business et Office 365 E3
+## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Comparaison des fonctionnalités : Microsoft 365 Business Premium et Office 365 E3
 
-|**Zone de service**   | **Fonctionnalité**  | **Office 365 E3** | **Microsoft 365 Business** |
+|**Zone de service**   | **Fonctionnalité**  | **Office 365 E3** | **Microsoft 365 Business Premium** |
 |---|---------------|-------------------|----------------------------|
 |**Licences disponibles** | Nombre maximal d’utilisateurs | Illimité | 300 |
 |**Applications Office** | Installer Office sur un maximum de 5 PC/Mac + 5 tablettes + 5 smartphones par utilisateur (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
@@ -73,22 +73,22 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |   | Shared computer activation | Oui | Oui |
 |   | Droits de mise à niveau vers Windows 10 professionnel pour Win 7/8.1 Pro | Non | Oui |
 |   | Windows Virtual Desktop | Non | Oui |
-|**Protection des informations** | Protection contre la perte de données Office 365 | Oui | Oui |
+|**Protection des informations** | Protection contre la perte de données Microsoft | Oui | Oui |
 |   | Azure information Protection Plan 1, application BitLocker | Non | Oui |
 |**Droits de licence d’accès client sur site** | Suite ECAL (Exchange, SharePoint, Skype) | Oui | Non |
 |**Conformité** | Archivage de courrier électronique illimité<sup>3</sup> | Oui | Oui |
 
 **Notes**
 
-<sup>1</sup> indique qu’Office 365 Business Premium dispose du plan 1 de la fonctionnalité et qu’Office 365 E3 comporte le plan 2.
+<sup>1</sup> indique que Microsoft 365 Business standard offre le plan 1 de la fonctionnalité et Office 365 E3 a le plan 2.
 
 <sup>2</sup> disponible aux États-Unis, au Royaume-Uni, au Canada.
 
 <sup>3</sup> archivage illimité lorsque l’extension automatique est activée.
 
-## <a name="feature-comparison-office-365-business-premium-microsoft-365-business-and-office-365-e3"></a>Comparaison des fonctionnalités : Office 365 Business Premium, Microsoft 365 Business et Office 365 E3
+## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Comparaison des fonctionnalités : Microsoft 365 Business standard, Microsoft 365 Business Premium et Office 365 E3
 
-|**Zone de service**   |**Fonctionnalité** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Office 365 E3** |
+|**Zone de service**   |**Fonctionnalité** | **Microsoft 365 Business standard** | **Microsoft 365 Business Premium** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**Licences disponibles** | Nombre maximal d’utilisateurs | 300 | 300 | Illimité |
 |**Applications Office** | Installer Office sur un maximum de 5 PC/Mac + 5 tablettes + 5 smartphones par utilisateur (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
@@ -106,22 +106,22 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |   | Activation d'ordinateurs partagés | Non | Oui | Oui |
 |   | Droits de mise à niveau vers les licences Windows 10 Pro pour Win 7/8.1 Pro | Non | Oui | Non |
 |   | Windows Virtual Desktop | Non | Oui | Non |
-|**Protection des informations**  | Protection contre la perte de données Office 365 | Non | Oui | Oui |
+|**Protection des informations**  | Protection contre la perte de données Microsoft | Non | Oui | Oui |
 |   | Azure information Protection Plan 1, application BitLocker | Non | Oui | Non |
 |**Droits de licence d’accès client sur site** | Suite ECAL (Exchange, SharePoint, Skype) | Non | Non | Oui |
 |**Conformité** | Archivage de courrier électronique illimité<sup>3</sup> | Non | Oui | Oui |
 
 **Notes**
 
-<sup>1</sup> indique qu’Office 365 Business Premium dispose du plan 1 de la fonctionnalité et qu’Office 365 E3 comporte le plan 2.
+<sup>1</sup> indique que Microsoft 365 Business standard offre le plan 1 de la fonctionnalité et Office 365 E3 a le plan 2.
 
 <sup>2</sup> disponible aux États-Unis, au Royaume-Uni, au Canada.
 
 <sup>3</sup> archivage illimité lorsque l’extension automatique est activée.
 
-## <a name="feature-comparison-office-365-business-premium-and-microsoft-365-plans"></a>Comparaison des fonctionnalités : Office 365 Business Premium et Microsoft 365 plans
+## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparaison des fonctionnalités : Microsoft 365 Business standard et Microsoft 365 pour les offres professionnelles
 
-|**Zone de service**   |**Fonctionnalité** | **Office 365 Business Premium** | **Microsoft 365 Business** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**Zone de service**   |**Fonctionnalité** | **Microsoft 365 Business standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licences disponibles** | Nombre maximal d’utilisateurs | 300 | 300 | Illimité | Illimité |
 |**Applications Office** | Installer Office sur un maximum de 5 PC/Mac + 5 tablettes + 5 smartphones par utilisateur (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
@@ -142,7 +142,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Gestion des applications des & d’appareil** | Microsoft Intune, Windows AutoPilot | Non | Oui | Oui | Oui |
 |   | Activation d’ordinateurs partagés, bureau virtuel Windows | Non | Oui | Oui | Oui |
 |   | Microsoft Desktop Optimization Pack, VDA | Non | Non | Oui | Oui |
-| **Protection des informations** | Office 365 protection contre la perte de données, plan Azure information protection 1 | Non | Oui | Oui | Oui |
+| **Protection des informations** | Microsoft Data Loss Prevention, Azure information Protection Plan 1 | Non | Oui | Oui | Oui |
 |   | Azure information Protection Plan 2, Microsoft Cloud App Security, Office 365 Cloud App Security | Non | Non | Non | Oui |
 |**Droits de licence d’accès client sur site** | Suite ECAL (Exchange, SharePoint, Skype, Windows, gestionnaire de configuration de point de terminaison de Microsoft, gestion des droits Windows) | Non | Non | Oui | Oui |
 |**Conformité** | Archivage de courrier électronique illimité<sup>2</sup> | Non | Oui | Oui | Oui |
@@ -160,7 +160,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 
 ## <a name="office-client-commercial-plans"></a>Offres commerciales pour les clients Office
 
-| **Applications** | **Office 365 Business** | **Office 365 ProPlus** |
+| **Applications** | **Microsoft 365 apps pour les entreprises** | **Applications Microsoft 365 pour les entreprises** |
 |------------------|-------------------------|------------------------|
 | Word             | Oui                     | Oui                    |
 | Excel            | Oui                     | Oui                    |
@@ -168,9 +168,9 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 | OneNote          | Oui                     | Oui                    |
 | Outlook          | Oui                     | Oui                    |
 | Publisher        | Oui                     | Oui                    |
-| Access           | Oui                     | Oui                    |
+| Accès           | Oui                     | Oui                    |
 | Microsoft Teams  | Oui                     | Oui                    |
-| **Valeur de la prime**                             | **Office 365 Business** | **Office 365 ProPlus** |
+| **Valeur de la prime**                             | **Microsoft 365 apps pour les entreprises** | **Applications Microsoft 365 pour les entreprises** |
 | Activation en volume                             | Non                      | Non                     |
 | Stratégie de groupe<sup>1</sup>                      | Non                      | Oui                    |
 | Shared computer activation                    | Oui<sup>7</sup>        | Oui                    |
@@ -183,28 +183,28 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 | Aide à la décision                         | Non                      | Oui<sup>5</sup>        |
 | Créer une IRM<sup>3</sup>                        | Oui<sup>7</sup>        | Oui                    |
 | Protection contre la perte de données<sup>3</sup>              | Oui<sup>7</sup>        | Oui<sup>5</sup>        |
-| **Valeur de Cloud**                  | **Office 365 Business** | **Office 365 ProPlus** |
+| **Valeur de Cloud**                  | **Microsoft 365 apps pour les entreprises** | **Applications Microsoft 365 pour les entreprises** |
 | Groupes                           | Oui                     | Oui                    |
 | Outil Déploiement Office           | Oui                     | Oui                    |
 | Paramètres de & des documents d’itinérance     | Oui                     | Oui                    |
 | 1 to OneDrive entreprise       | Oui                     | Oui                    |
-| **Licences**                                   | **Office 365 Business** | **Office 365 ProPlus** |
+| **Licences**                                   | **Microsoft 365 apps pour les entreprises** | **Applications Microsoft 365 pour les entreprises** |
 | Modèle de licence                                 | Par utilisateur                | Par utilisateur               |
 | Type de licence                                    | Abonnement            | Abonnement           |
-| Installations PC/Mac<sup>6</sup>                     | 5                        | disque                      |
-| installe le smartphone iOS/Android<sup>6</sup>     | 5                        | disque                      |
-| Installations de Tablet PC<sup>6</sup>                     | 5                        | disque                      |
+| Installations PC/Mac<sup>6</sup>                     | 5                        | disque                      |
+| installe le smartphone iOS/Android<sup>6</sup>     | 5                        | disque                      |
+| Installations de Tablet PC<sup>6</sup>                     | 5                        | disque                      |
 | Droits commerciaux Office RT                     | Oui                     | Oui                    |
 | Applications Office Online/Web                          | Oui                     | Oui                    |
 | Droits d’utilisation commerciale                           | Oui                     | Oui                    |
 
 **Notes**
 
-Microsoft 365 Business inclut le client Office 365 Business, qui présente certaines différences par rapport à Pro plus.
+Microsoft 365 Business Premium inclut le client Microsoft 365 apps pour les entreprises, qui présente certaines différences par rapport aux applications Microsoft 365 pour les entreprises.
 
 <sup>1</sup> permet à l’organisation de transmettre certains paramètres de configuration (paramètres de sécurité, paramètres d’application, itinérance Active Directory, etc.) pour Office aux machines qui ouvrent une session sur le réseau d’entreprise.
 
-<sup>2</sup> avec office standard 2016 et Office professionnel plus 2016, il dispose d’un contrôle total sur les mises à jour à l’aide du modèle msi. Avec Office 365 ProPlus et **office 365 Business** , l’installation et les mises à jour sont gérées via « Démarrer en un clic ».
+<sup>2</sup> avec office standard 2016 et Office professionnel plus 2016, il dispose d’un contrôle total sur les mises à jour à l’aide du modèle msi. Avec Microsoft 365 Apps for Enterprise and **microsoft 365 Apps for Business** , l’installation et les mises à jour sont gérées via la fonction « démarrer en un clic ».
 
 <sup>3</sup> les suites fournissent différents niveaux d’intégration avec les serveurs de productivité de l’entreprise.
 
@@ -212,6 +212,6 @@ Microsoft 365 Business inclut le client Office 365 Business, qui présente certa
 
 <sup>5</sup> nécessite des services en ligne supplémentaires.
 
-<sup>6</sup> autorise l’installation locale via « Démarrer en un clic » les applications Office 365 sous licence incluses dans le service. N’inclut pas les droits d’installation des versions locales d’Office 2016. Office prend en charge les PC et les tablettes Windows exécutant Windows 7 ou version ultérieure, et les Mac exécutant MAC OS X 10,6 ou version ultérieure. Office pour iPad peut être installé sur iPad exécutant la version 7 ou une version ultérieure.
+<sup>6</sup> autorise l’installation locale via « Démarrer en un clic » les applications Microsoft 365 fournies avec le service. N’inclut pas les droits d’installation des versions locales d’Office 2016. Office prend en charge les PC et les tablettes Windows exécutant Windows 7 ou version ultérieure, et les Mac exécutant MAC OS X 10,6 ou version ultérieure. Office pour iPad peut être installé sur iPad exécutant la version 7 ou une version ultérieure.
 
-<sup>7</sup> cette fonctionnalité Premium est incluse dans Microsoft 365 Business, mais pas dans d’autres offres Office 365 Business.
+<sup>7</sup> cette fonctionnalité Premium est incluse dans Microsoft 365 Business Premium, mais pas dans d’autres applications Microsoft 365 pour les offres professionnelles.

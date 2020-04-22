@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262727"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639982"
 ---
 # <a name="recipients"></a>Destinataires
 
@@ -28,7 +28,7 @@ Cette rubrique décrit les fonctionnalités en relation avec les destinataires i
 Une boîte aux lettres est attribuée à chaque abonné Microsoft Exchange Online et des boîtes aux lettres spécialisées destinées à la planification de ressources (comme des salles de conférence) et à un accès multi-utilisateur à des adresses de messagerie partagées sont disponibles. Des limites de stockage maximales s'appliquent à la plupart des boîtes aux lettres et les administrateurs peuvent contrôler les tailles de boîtes aux lettres autorisées. Des notifications et restrictions automatiques permettent d'alerter des utilisateurs que leurs boîtes aux lettres s'approchent de la limite ou l'on déjà atteinte. Exchange Online dispose également de plusieurs types de limitations de messages, à savoir des limites de taille des messages, de débit maximal de messages et de liste de destinataires. Toutes ces fonctionnalités et les limites sont indiquées ci-dessous.
   
 > [!NOTE]
-> Les adresses attrape-tout ne sont plus prises en charge dans Exchange Online. En raison du filtrage des destinataires mis en place pour la protection contre les potentiels messages indésirables, les adresses électroniques qui n'existent pas dans votre client Office 365 seront rejetées. 
+> Les adresses attrape-tout ne sont plus prises en charge dans Exchange Online. En raison du filtrage des destinataires en place pour se protéger contre les messages de courrier indésirable potentiels, les adresses de messagerie qui n’existent pas dans votre organisation seront rejetées. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>Types de boîtes aux lettres, limites de stockage et alertes de capacité
 
@@ -153,7 +153,7 @@ Les messages de notification d'absence du bureau sont des réponses automatiques
 
 Les utilisateurs peuvent partager leur calendrier personnel selon l'une des deux manières suivantes :
   
-- **Partage de calendrier fédéré** La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, méthode facile pour les utilisateurs Exchange de partager les données de calendrier et les informations de contact avec des destinataires d’autres organisations fédérées externes. Il s’agit notamment des organisations ou organisations Exchange Online exécutant Exchange Server 2010 ou Exchange Server 2013 en local. Les administrateurs Exchange Online n’ont pas besoin de configurer une approbation avec Microsoft Federation Gateway, car cette approbation est préconfigurée pour tous les clients Exchange Online lors de la création du service client Office 365. Une stratégie de partage par défaut permet aux utilisateurs d’envoyer des invitations de partage de calendrier à partir d’Outlook sur le Web ou Outlook 2010. Les administrateurs utilisent Windows PowerShell à distance pour désactiver cette stratégie ou pour configurer le niveau des données de calendrier de disponibilité que les utilisateurs peuvent partager. Les administrateurs peuvent également créer une relation organisationnelle organisationnelle avec une autre organisation fédérée, ce qui permet au niveau souhaité d’informations de disponibilité pour chaque utilisateur d’être visible, sans que des utilisateurs individuels aient besoin d’effectuer une invitation de partage. Dans l’étendue des stratégies de partage définies par l’administrateur et/ou les relations organisationnelles de l’organisation, les utilisateurs peuvent limiter individuellement les détails de leur partage. 
+- **Partage de calendrier fédéré** La Fédération fait référence à l’infrastructure d’approbation sous-jacente qui prend en charge le partage fédéré, méthode facile pour les utilisateurs Exchange de partager les données de calendrier et les informations de contact avec des destinataires d’autres organisations fédérées externes. Il s’agit notamment des organisations ou organisations Exchange Online exécutant Exchange Server 2010 ou Exchange Server 2013 en local. Les administrateurs Exchange Online n’ont pas besoin de configurer une approbation avec Microsoft Federation Gateway, car cette approbation est préconfigurée pour tous les clients Exchange Online lors de la création du service Microsoft. Une stratégie de partage par défaut permet aux utilisateurs d’envoyer des invitations de partage de calendrier à partir d’Outlook sur le Web ou Outlook 2010. Les administrateurs utilisent Windows PowerShell à distance pour désactiver cette stratégie ou pour configurer le niveau des données de calendrier de disponibilité que les utilisateurs peuvent partager. Les administrateurs peuvent également créer une relation organisationnelle organisationnelle avec une autre organisation fédérée, ce qui permet au niveau souhaité d’informations de disponibilité pour chaque utilisateur d’être visible, sans que des utilisateurs individuels aient besoin d’effectuer une invitation de partage. Dans l’étendue des stratégies de partage définies par l’administrateur et/ou les relations organisationnelles de l’organisation, les utilisateurs peuvent limiter individuellement les détails de leur partage. 
     
 - **Partage de calendrier Internet** Exchange Online permet à ses utilisateurs de publier leurs calendriers au format iCal pour un accès anonyme par toute personne intérieure ou extérieure à l'organisation. Les destinataires peuvent utiliser Exchange, une autre plate-forme ou tout simplement un navigateur Web. Les utilisateurs Exchange Online peuvent également s’abonner à des calendriers que d’autres ont publiés sur les emplacements Internet via iCal. Ce partage de calendrier personnel diffère du partage de calendrier fédéré qui est configuré par un administrateur, et fournit un partage disponible/occupé d'organisation à organisation. Aucun utilisateur ne peut publier des données de calendrier au format iCal tant que l’administrateur n’a pas défini et appliqué une stratégie de partage l’autorisant. Les administrateurs peuvent désactiver la publication iCal et des abonnements iCal pour des utilisateurs d'une organisation à l'aide de Windows PowerShell à distance.
     
@@ -169,5 +169,5 @@ Exchange Online prend en charge la fonctionnalité Recherche de salles d'Outlook
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   

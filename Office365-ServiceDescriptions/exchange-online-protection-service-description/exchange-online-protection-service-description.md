@@ -1,5 +1,5 @@
 ---
-title: Description du service Exchange Online Protection
+title: Description du service Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
-ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260919"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640172"
 ---
-# <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
+# <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
 
 Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
 
@@ -33,7 +33,7 @@ La liste suivante décrit les principales façons d’utiliser EOP pour la prote
 
 - **Dans un déploiement hybride**: EOP peut être configuré pour protéger votre environnement de messagerie et contrôler le routage des messages lorsque vous disposez d’une combinaison de boîtes aux lettres sur site et en nuage.
 
-Pour comparer les fonctionnalités des différents plans, voir [Comparer toutes les offres Office 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Pour comparer les fonctionnalités de tous les plans, voir [compare Microsoft 365 for business plans](https://products.office.com/business/compare-more-office-365-for-business-plans).
 
 Pour acheter Exchange Online Protection, voir [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -42,7 +42,7 @@ Pour acheter Exchange Online Protection, voir [Exchange Online Protection](https
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Nouveautés d'Exchange Online Protection (EOP)
 
-La [feuille de route d'Office 365 pour les entreprises](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) est une excellente ressource pour trouver des informations sur les nouvelles fonctionnalités à venir.
+La feuille [de route de Microsoft 365 pour les entreprises](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) est une excellente ressource pour trouver des informations sur les nouvelles fonctionnalités à venir.
 
 ## <a name="exchange-online-protection-eop-plans"></a>Plans Exchange Online Protection (EOP)
 
@@ -101,7 +101,7 @@ Chaque fonctionnalité est indiquée ci-dessous. Pour obtenir des informations p
 |[Mise en quarantaine](anti-spam-and-anti-malware-protection-eop.md#quarantine) : autogestion par l'utilisateur final|Oui|Oui|Oui|
 |[Complément de message de rapport pour Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Oui|Oui|Oui|
 |[Création de rapports de courrier indésirable dans Outlook sur le Web](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Oui|Oui|Oui|
-|[Routage des courriers électroniques entre vos serveurs de messagerie et Office 365](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Oui|Oui|Oui|
+|[Routage des courriers électroniques entre Microsoft et vos propres serveurs de messagerie](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Oui|Oui|Oui|
 |[Messagerie sécurisée avec un partenaire de confiance](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Oui|Oui|Oui|
 |[Saisie de l'adresse IP d'un partenaire sur une liste fiable](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Oui|Oui|Oui|
 |[Routage du courrier conditionnel](mail-flow-eop.md#conditional-mail-routing)|Oui|Oui|Oui|

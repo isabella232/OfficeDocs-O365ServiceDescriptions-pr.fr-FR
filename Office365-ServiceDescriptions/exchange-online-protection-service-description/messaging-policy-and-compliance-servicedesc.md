@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545837"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640162"
 ---
 # <a name="messaging-policy-and-compliance"></a>Stratégie et conformité de messagerie
 
@@ -77,4 +77,4 @@ Le chiffrement de messages Office 365, qui fait partie d’Azure information pro
 > <sup>1</sup> les conditions, les exceptions et les actions de règle de flux de messagerie disponibles diffèrent légèrement entre EOP et Exchange Online. Ces différences sont indiquées dans [conditions de règle de flux de messagerie et exceptions (prédicats) dans Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) et les [actions de règle de flux de messagerie dans Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
 > <sup>2</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. <br/>
 > <sup>3</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services. <br/>
-> <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l’expérience utilisateur, outre le complément Azure information protection, Office 365 ProPlus doit être acheté. <br/>
+> <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l’expérience utilisateur, outre le complément Azure information protection, les applications Microsoft 365 pour entreprise doivent être achetées. <br/>

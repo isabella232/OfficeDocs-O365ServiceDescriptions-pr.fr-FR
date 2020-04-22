@@ -1,5 +1,5 @@
 ---
-title: Centre de conformité et sécurité dans Office 365
+title: Centre de sécurité et conformité
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Le centre de sécurité &amp; conformité Office 365 est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+description: Le centre &amp; de sécurité conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
+ms.openlocfilehash: a63a6b925ca65438a8a760e502e0cc777f354387
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109434"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639682"
 ---
-# <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
+# <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Le [Centre de sécurité &amp; conformité Office 365](https://protection.office.com/) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+Le [Centre &amp; de sécurité conformité](https://protection.office.com/) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
@@ -30,7 +30,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité**  |**Office 365 Business Essentials**  |**Office 365 Business Premium**  |**Office 365 entreprise E1**, **Office 365 gouvernement américain G1**  |**Office 365 entreprise E3**, **Office 365 gouvernement américain G3**  |**Office 365 Entreprise E5**  |**Office 365 entreprise F3**  **Office 365 gouvernement américain F3**|
+|**Fonctionnalité**  |**Microsoft 365 entreprise Basic**  |**Microsoft 365 Business standard**  |**Office 365 entreprise E1**, **Office 365 gouvernement américain G1**  |**Office 365 entreprise E3**, **Office 365 gouvernement américain G3**  |**Office 365 Entreprise E5**  |**Office 365 entreprise F3**  **Office 365 gouvernement américain F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non|Non   |Oui   |Non   |
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) comme le filtrage de la messagerie et la protection contre les programmes malveillants |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
@@ -56,7 +56,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Chiffrement de messages Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Chiffrement de messages avancé Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Gestion des accès privilégiés](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Non   |Non   |Non   |Non   |Oui   |Non   |
-|[Clé client Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Non   |Non   |Non   |Non   |Oui   |Non   |
+|[Clé client](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Non   |Non   |Non   |Non   |Oui   |Non   |
 ||||||||
 
 <sup>1</sup> la gouvernance des informations permet aux utilisateurs de créer, publier et appliquer manuellement des étiquettes aux documents ; importer des données à l’aide de l’expédition de disque ou sur le réseau.

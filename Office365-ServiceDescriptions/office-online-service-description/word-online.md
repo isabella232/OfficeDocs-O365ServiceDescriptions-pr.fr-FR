@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word pour le Web (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur Web, dans laquelle vous pouvez utiliser des documents directement sur le site Web où le document est stocké.
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545737"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640212"
 ---
 # <a name="word-for-the-web"></a>Word pour le web
 
@@ -47,7 +47,7 @@ Vous pouvez insérer des blocs de texte préformaté à l'aide de contenu issu d
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Parcourir et commencer à travailler à partir de modèles conçus par des professionnels
 
-Non disponible dans Word pour le Web. Les fonctionnalités de conception avancées, comme la création de documents à partir d'un grand choix de modèles conçus par des professionnels hébergés sur Office.com, sont disponibles uniquement dans l'application Word de bureau. Toutefois, les clients Office 365 peuvent configurer une bibliothèque de documents afin qu'elle exécute un modèle personnalisé lorsqu'un utilisateur crée un nouveau document. Pour en savoir plus, voir [Ajouter un type de contenu à une liste ou une bibliothèque](https://go.microsoft.com/fwlink/p/?LinkId=391446).
+Non disponible dans Word pour le Web. Les fonctionnalités de conception avancées, comme la création de documents à partir d'un grand choix de modèles conçus par des professionnels hébergés sur Office.com, sont disponibles uniquement dans l'application Word de bureau. Toutefois, les clients peuvent configurer une bibliothèque de documents pour lancer un modèle personnalisé lorsqu’un utilisateur crée un nouveau document. Pour en savoir plus, voir [Ajouter un type de contenu à une liste ou une bibliothèque](https://go.microsoft.com/fwlink/p/?LinkId=391446).
   
 ## <a name="bullets-and-numbering"></a>Puces et numérotation
 
@@ -297,5 +297,5 @@ Zoom est disponible en mode Affichage. Avec Word pour le Web, utilisez les param
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, reportez-vous à [la rubrique Office for the Web Service Description](office-online-service-description.md). 
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez [la rubrique Office for the Web Service Description](office-online-service-description.md). 
   

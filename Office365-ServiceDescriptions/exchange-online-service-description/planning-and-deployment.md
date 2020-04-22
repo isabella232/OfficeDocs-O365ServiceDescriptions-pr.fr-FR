@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: 30d1c68976bf450a87ace792af0b219b0fce21d4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: bcc71e05761f3990e79cb7eaaed003b1118d54ad
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262737"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639962"
 ---
 # <a name="planning-and-deployment"></a>Planification et déploiement
 
@@ -86,7 +86,7 @@ Exchange Online propose un outil à extension Web pour la migration des données
     
 4. Une fois la migration initiale terminée, toutes les modifications sont synchronisées avec le nuage toutes les 24 heures, tant que l'administrateur n'a pas arrêté ou supprimé le lot de migration.
     
-Pour permettre aux utilisateurs de basculer vers leurs boîtes aux lettres en nuage, les administrateurs doivent configurer leur enregistrement MX pour pointer vers Office 365 ainsi que les profils des utilisateurs dans Outlook. Lorsque les utilisateurs basculent vers leurs boîtes aux lettres en nuage, leurs dossiers hors connexion locaux (fichiers .ost) se resynchronisent, ce qui se traduit par le téléchargement de la messagerie migrée dans le poste de travail du client. Les utilisateurs peuvent répondre à des messages anciens de leurs boîtes aux lettres après la migration.
+Pour faire basculer les utilisateurs vers leurs boîtes aux lettres en nuage, les administrateurs configurent leur enregistrement MX de sorte qu’il pointe vers Microsoft et reconfigure les profils des utilisateurs dans Outlook. Lorsque les utilisateurs basculent vers leurs boîtes aux lettres en nuage, leurs dossiers hors connexion locaux (fichiers .ost) se resynchronisent, ce qui se traduit par le téléchargement de la messagerie migrée dans le poste de travail du client. Les utilisateurs peuvent répondre à des messages anciens de leurs boîtes aux lettres après la migration.
   
 Pour plus d'informations sur la migration à basculement Exchange, voir [Ce que vous devez savoir sur une migration de messagerie à basculement vers Office 365](https://support.office.com/en-us/article/What-you-need-to-know-about-a-cutover-email-migration-to-Office-365-961978ef-f434-472d-a811-1801733869da).
   
@@ -136,6 +136,6 @@ Microsoft propose plusieurs outils permettant de migrer un environnement de mess
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
   
 

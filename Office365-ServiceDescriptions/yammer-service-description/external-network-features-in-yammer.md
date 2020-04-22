@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c60a8507-72d2-43aa-a15b-aed053d5851f
 description: Les fonctionnalités de réseau externe suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: a9def9e10eee6d6ceb5356ed748f6f700b9ec20a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 4c929b6194c7ec4dbad94db644c656ebdd5c5ba0
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688239"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640062"
 ---
 # <a name="external-network-features-in-yammer"></a>Fonctionnalités de réseau externe dans Yammer
 
@@ -33,4 +33,4 @@ Basculez de façon transparente entre les réseaux internes et externes. Surveil
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).

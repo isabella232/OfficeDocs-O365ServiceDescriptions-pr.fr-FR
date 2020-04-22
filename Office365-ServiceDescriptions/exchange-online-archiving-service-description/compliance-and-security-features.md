@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093561"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638692"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans l’archivage Exchange Online
 
@@ -24,7 +24,7 @@ ms.locfileid: "43093561"
 
 Les sections suivantes décrivent les fonctionnalités de conformité de Microsoft Archivage Exchange Online.
   
-### <a name="retention-policies"></a>Stratégies de conservation
+### <a name="retention-policies"></a>Stratégies de rétention
 
 Archivage Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également donner aux utilisateurs un menu de stratégies de rétention et les autoriser à appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l’aide d’Outlook 2010 ou version ultérieure ou d’Outlook sur le Web. Dans l'Archivage Exchange Online, les administrateurs gèrent les stratégies de rétention à partir de l'infrastructure sur site.
   
@@ -88,7 +88,7 @@ Les sections suivantes décrivent les fonctionnalités de sécurité de Microsof
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Chiffrement entre serveurs sur site et archivage Exchange Online
 
-TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pour aider à prévenir l'usurpation et assurer la confidentialité des messages en transit. TLS est également utilisé pour sécuriser le trafic de serveur de messagerie sur site vers des centres de données Office 365 pour l'Archivage Exchange Online.
+TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pour aider à prévenir l'usurpation et assurer la confidentialité des messages en transit. TLS est également utilisé pour sécuriser le trafic de serveur de messagerie local vers des centres de distribution Microsoft pour l’archivage Exchange Online.
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Chiffrement entre clients et archivage Exchange Online
 
@@ -130,6 +130,6 @@ Par défaut, la journalisation d'audit de l'administrateur est activée et l'enr
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Office 365, les options autonomes et les solutions locales, voir [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description.md).
   
 
