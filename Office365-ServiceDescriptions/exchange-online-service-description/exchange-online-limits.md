@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
+ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640002"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43790455"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -360,7 +360,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 |Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
-> <sup>1</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5 000 à 09:00 AM, puis envoie un autre message à 2, 1 000 destinataires à 10:00 AM, puis envoie un autre message aux destinataires 2 500 à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
+> <sup>1</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5000 à 09:00 AM, puis envoie un autre message aux destinataires 2500 à 10:00, puis envoie un autre message à 2500 destinataires à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
 > <sup>2</sup> vous pouvez personnaliser les limites des destinataires entre 1 et 1000 pour les boîtes aux lettres existantes et pour les nouvelles boîtes aux lettres qui seront créées à l’avenir. Modifier la limite de destinataires sur les boîtes aux lettres existantes individuellement ou en bloc à l’aide du centre d’administration Exchange et personnaliser le paramètre par défaut pour les nouvelles boîtes aux lettres via PowerShell à distance. Pour plus d’informations, consultez la rubrique [limites des destinataires personnalisables dans Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites d’envoi dans les options autonomes
@@ -375,7 +375,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 
 > [!NOTE]
 > <sup>1</sup> Ceci est la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation.<br/>
-<sup>2</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5 000 à 09:00 AM, puis envoie un autre message aux destinataires 2 500 à 10:00, puis envoie un autre message à 2 500 destinataires à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
+<sup>2</sup> une fois le débit maximal atteint, les messages ne peuvent pas être envoyés à partir de la boîte aux lettres jusqu’à ce que le nombre de destinataires ayant reçu des messages au cours des 24 dernières heures descend en dessous de la limite. Par exemple, un utilisateur envoie un message électronique aux destinataires 5000 à 09:00 AM, puis envoie un autre message aux destinataires 2500 à 10:00, puis envoie un autre message à 2500 destinataires à 11:00 AM, en atteignant la limite de 10 000 messages. L’utilisateur ne pourra pas renvoyer de messages jusqu’à 09:00 AM le jour suivant.
 
 ## <a name="reporting-and-message-trace-limits"></a>Limites de création de rapports et de suivi de messages
 
