@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs Microsoft peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en vous connectant.
-ms.openlocfilehash: 6ac04087599b2ddbe212a1f292b06b7d5b22a378
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
+ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640234"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796715"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -43,6 +43,13 @@ Il existe deux types de notifications concernant les heures où les services peu
 ### <a name="recent-worldwide-uptimes"></a>Délais récents pour le monde entier
 
 Le passage à un service Cloud ne doit pas signifier perdre la capacité à savoir ce qui se passe. Avec Office 365, il ne l’est pas. Nous souhaitons être transparents dans nos opérations afin que vous puissiez surveiller l’état de votre service, suivre les problèmes et avoir un aperçu de la disponibilité. Les tableaux suivants présentent les données de disponibilité les plus récentes dans le monde entier.
+
+<br/>
+
+|**2020** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
+| 99,98% <br/> | <br/> | <br/> |<br/> |
 
 <br/>
 
