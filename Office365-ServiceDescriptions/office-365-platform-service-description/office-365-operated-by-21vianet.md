@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: cd5ddf01b3075d1538470d1f352d5da4e51baacd
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
+ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639852"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43800620"
 ---
-# <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
+# <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
 
 Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
 
@@ -1084,7 +1084,6 @@ Les fonctionnalités mobiles suivantes ne sont pas prises en charge :
 - Favoris
 - Lire mes courriers électroniques
 - Compléments
-- Groupes
 - Réponse intelligente
 - Flux Office
 - Durée de départ
