@@ -11,6 +11,7 @@
 #### [Microsoft 365 pour le Secteur Public comment acheter](office-365-platform-service-description\office-365-us-government\microsoft-365-government-how-to-buy.md)
 #### [OneDrive pour le gouvernement américain](office-365-platform-service-description\office-365-us-government\onedrive.md)
 #### [SharePoint pour le gouvernement américain](office-365-platform-service-description\office-365-us-government\sharepoint.md)
+#### [Exchange Online pour le gouvernement américain](office-365-platform-service-description\office-365-us-government\exchange-online-for-us-government-environments.md)
 ### [Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md)
 ### [Office 365 Germany](office-365-platform-service-description/office-365-germany.md)
 ### [Office 365 Éducation](office-365-platform-service-description/office-365-education.md)
