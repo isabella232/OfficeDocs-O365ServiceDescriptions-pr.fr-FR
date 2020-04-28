@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 870e30135f7537f898f5550c6e45f5c8eb92b743
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639802"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914770"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -68,7 +68,7 @@ Par défaut, les fonctionnalités Azure ATP sont activées au niveau du client p
 
 Microsoft offre des fonctionnalités de détection des menaces pour les utilisateurs titulaires d’une licence.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
