@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et Gouvernement, l'assistance de Microsoft offre une aide globale technique, d'avant-vente, de facturation et d'abonnement. La prise en charge est disponible en ligne via le centre d’administration Microsoft365 et par téléphone pour les abonnements payants et d’évaluation. Pour plus d’informations, consultez la rubrique options de support Microsoft.
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639902"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002321"
 ---
 # <a name="support"></a>Support
 
@@ -27,11 +27,11 @@ Avec chaque abonnement Microsoft Office 365 Entreprise, Business, Éducation et 
   
 Les administrateurs autorisés peuvent utiliser le centre d’administration Microsoft 365 pour soumettre des demandes de services en ligne, accéder aux numéros de téléphone pris en charge et afficher toutes les demandes de service ouvertes et récemment fermées. Les demandes de service soumises dans le centre d’administration peuvent être rouvertes jusqu’à 14 jours après la fermeture de la demande. Pour obtenir des instructions, consultez la rubrique [contacter Microsoft 365 pour les entreprises](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
-L’équipe du support technique O365 ne dépannera que les problèmes liés à Office 365. Les problèmes qui proviennent de réseaux clients se situent en dehors des limites de prise en charge et, dans ce cas, les clients doivent travailler avec leur équipe réseau ou participer à l' [équipe réseau Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) pour obtenir de l’aide.
+L’équipe du support technique de Microsoft 365 ne prend en charge que les problèmes liés à Microsoft 365 et Office 365. Les problèmes qui proviennent de réseaux clients se situent en dehors des limites de prise en charge et, dans ce cas, les clients doivent travailler avec leur équipe réseau ou participer à l' [équipe réseau Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) pour obtenir de l’aide.
   
 ## <a name="community-and-self-service-support-options"></a>Communauté et options d’assistance en libre service
 
-La prise en charge en libre service est disponible pour tous les plans, inclut des outils et vidéos de dépannage, des articles d’aide et des vidéos, ainsi que des forums et des wikis dans la [communauté Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Pour plus d’informations sur les ressources d’assistance en libre service, voir la description du service [d’aide et de formation](help-and-training.md) .
+La prise en charge en libre service est disponible pour tous les plans, inclut des outils et vidéos de dépannage, des articles d’aide et des vidéos, ainsi que des forums et des wikis dans la [communauté Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Pour plus d’informations sur les ressources d’assistance en libre service, voir la description du service [d’aide et de formation](help-and-training.md) .
   
 ## <a name="pre-sales-support"></a>Assistance avant-vente
 
@@ -201,4 +201,4 @@ Si vous avez déjà acheté des licences auprès de Microsoft dans le cadre d'un
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, voir [Microsoft 365 et Office 365 Platform Service Description](office-365-platform-service-description.md).

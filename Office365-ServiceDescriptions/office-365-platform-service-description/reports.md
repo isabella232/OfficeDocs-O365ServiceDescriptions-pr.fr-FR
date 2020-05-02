@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Les administrateurs de Microsoft peuvent afficher des rapports illustrant la façon dont votre organisation utilise les services Microsoft. Ces rapports permettent d'identifier des problèmes, de filtrer des données et de télécharger des données vers Microsoft Excel. Vous pouvez également créer vos propres rapports à l’aide des services Web de création de rapports de Microsoft 365. Les administrateurs Exchange Online et Exchange Online Protection (EOP) peuvent utiliser des rapports de protection du courrier électronique pour afficher les données sur les programmes malveillants, le courrier indésirable et les détections de règles.
-ms.openlocfilehash: 1bfe5ed3b9cc85e890eedea6358db7a70114d14d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4b2ca6916cf0f47c1eb973480e5eb2752d22d7fe
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638982"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001961"
 ---
 # <a name="reports"></a>Rapports
 
@@ -27,6 +27,6 @@ Pour plus d’informations, consultez la rubrique [afficher et télécharger des
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, voir [Microsoft 365 et Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

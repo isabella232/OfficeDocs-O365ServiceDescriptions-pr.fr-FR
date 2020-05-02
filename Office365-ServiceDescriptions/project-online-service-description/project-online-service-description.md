@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638732"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002331"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -188,12 +188,12 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 |Gestion des utilisateurs | Gérer les rôles et les autorisations des utilisateurs et des groupes au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
 |Administration des services | Planifiez, installez et configurez, gérez et étendez votre environnement Microsoft Project dans le cadre de votre environnement Office 365<sup>1</sup> .  | Non | Oui |
 
-#### <a name="notes"></a>Remarques
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> nécessite un abonnement commercial Office ou Microsoft 365.</br>
 <sup>2</sup> cartes Azure acquises séparément.</br>
 <sup>3</sup> la création de rapports pour Project pour le Web et Project Online est disponible à l’aide de Power bi. L’affichage, la modification et la création de rapports nécessitent un abonnement Power BI Pro. Microsoft fournit un ensemble prédéfini de rapports Power BI. Les utilisateurs peuvent personnaliser ces rapports ou créer des rapports supplémentaires à l’aide de Power BI.</br> 
-<sup>4</sup> la création d’applications mobiles PowerApp personnalisées qui accèdent à Project pour les données Web nécessite un abonnement powerapps et un abonnement Project Plan 3 ou Project plan 5.</br>
+<sup>4</sup> la création et l’utilisation d’applications mobiles powerapples personnalisées qui accèdent à Project pour les données Web nécessitent un abonnement powerapps et un abonnement Project Plan 3 ou Project plan 5.</br>
 <sup>5</sup> l’automatisation et l’intégration de processus d’entreprise avec Power Automated with Project for the Web Data nécessitent un abonnement Power Automated et un abonnement plan Project 3 ou Project plan 5.</br>
 <sup>6</sup> la gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement de plan de projet 3 ou de plan de projet 5.</br>
 <sup>7</sup> les utilisateurs disposant d’un abonnement de plan de projet 3 ou de plan de projet 5 peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas consulter, combler ou approuver les demandes d’engagement de ressources.</br>

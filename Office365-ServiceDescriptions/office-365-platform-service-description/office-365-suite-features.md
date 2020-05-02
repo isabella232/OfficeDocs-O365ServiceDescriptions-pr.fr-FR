@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639932"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002000"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -69,7 +69,7 @@ Microsoft StaffHub est une application basée sur le cloud qui permet aux employ
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream est un service vidéo d’entreprise que les membres de votre organisation peuvent utiliser pour télécharger, afficher et partager des vidéos en toute sécurité. Vous pouvez partager des enregistrements de cours, de réunions, de présentations, de sessions de formation ou d’autres vidéos qui aident la collaboration de votre équipe. Microsoft Stream facilite également le partage des commentaires sur une vidéo et des codes de temps d’étiquette dans les commentaires et descriptions pour faire référence à des points spécifiques d’une vidéo.
+Microsoft Stream est un service vidéo d’entreprise que les membres de votre organisation peuvent utiliser pour télécharger, afficher et partager des vidéos en toute sécurité. Vous pouvez partager des enregistrements de cours, réunions, présentations, sessions de formation ou d’autres vidéos pour faciliter la collaboration de votre équipe. Microsoft Stream facilite également le partage des commentaires sur une vidéo et des codes de temps d’étiquette dans les commentaires et descriptions pour faire référence à des points spécifiques d’une vidéo.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
@@ -83,9 +83,9 @@ Microsoft Teams est un espace de travail centré sur les conversations dans Offi
 
 Office Delve permet aux utilisateurs de rechercher et de découvrir du contenu dans Office 365 basé sur des informations personnalisées. Delve est la première expérience fournie par Office Graph. Pour en savoir plus sur Office Delve, reportez-vous à [Qu'est-ce qu'Office Delve ?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
-## <a name="office-365-groups"></a>Groupes Office 365
+## <a name="microsoft-365-groups"></a>Groupes Microsoft 365
 
-Les groupes dans Office 365 permettent aux utilisateurs de se connecter à leurs collègues, aux informations et aux applications dont ils ont besoin pour tirer pleinement parti de leur collaboration. Les groupes sont ouverts par défaut pour améliorer la détectabilité et le partage, mais les utilisateurs peuvent également créer des groupes privés pour le contenu sensible. Pour en savoir plus sur les groupes, reportez-vous à [En savoir plus sur les groupes Office 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Pour plus d'informations sur les limites de groupe, voir « Comment gérer mes groupes » dans [En savoir plus sur les groupes Office 365](https://go.microsoft.com/fwlink/?linkid=846714).
+Les groupes de Microsoft 365 connectent les utilisateurs aux collègues, aux informations et aux applications dont ils ont besoin pour effectuer davantage d’opérations. Les groupes sont ouverts par défaut pour améliorer la détectabilité et le partage, mais les utilisateurs peuvent également créer des groupes privés pour le contenu sensible. Pour en savoir plus sur les groupes, consultez la rubrique [groupes dans Microsoft 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Pour plus d’informations sur les limites de groupe, voir « comment gérer mes groupes » dans la rubrique [en savoir plus sur les groupes Microsoft 365](https://go.microsoft.com/fwlink/?linkid=846714).
   
 ## <a name="office-365-video"></a>Office 365 Video
 

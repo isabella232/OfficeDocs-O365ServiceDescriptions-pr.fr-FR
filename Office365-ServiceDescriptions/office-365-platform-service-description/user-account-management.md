@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft prend en charge les méthodes suivantes pour la création, la gestion et l’authentification des utilisateurs.
-ms.openlocfilehash: 2de28edc6e85e2ac0f849d797639e29fdc62d5f9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639822"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002311"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -28,11 +28,11 @@ Microsoft prend en charge les méthodes suivantes pour la création, la gestion 
 > [!NOTE]
 > Cette rubrique n’inclut pas d’informations sur les fonctionnalités de sécurité qui autorisent ou interdit l’accès à des ressources Microsoft individuelles (par exemple, le contrôle d’accès basé sur un rôle dans Microsoft Exchange Online ou la configuration de la sécurité dans Microsoft SharePoint Online). Pour plus d’informations sur ces fonctionnalités, voir la [Description du service Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) et la [Description du service SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
-Si vous avez besoin d’informations sur les outils qui peuvent vous aider à effectuer des tâches d’administration, consultez la rubrique [outils permettant de gérer les comptes Microsoft](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Pour découvrir comment effectuer des tâches de gestion quotidiennes, consultez l'article [Tâches de gestion courantes dans Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
+Si vous avez besoin d’informations sur les outils qui peuvent vous aider à effectuer des tâches d’administration, consultez la rubrique [outils permettant de gérer les comptes Microsoft](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Pour savoir comment effectuer des tâches de gestion quotidiennes, voir [tâches de gestion courantes](https://docs.microsoft.com/office365/admin/manage/manage).
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Besoin d’aide pour la connexion, l’installation, la désinstallation ou l’annulation de votre abonnement ?
 
-Obtenir de l'aide pour [se connecter à Office 365](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [Installer ou désinstaller Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Annuler votre abonnement Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Obtenir de l’aide pour la [connexion à](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [l’installation ou à la désinstallation d’Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | à l’aide d’Office[365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Pour les autres problèmes, visitez le [Centre de support Microsoft](https://support.microsoft.com/contactus/). Pour obtenir une assistance technique pour Office 365 opéré par 21Vianet en Chine, contactez l'[équipe de support technique 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Pour Office 365 Germany, contactez l'[équipe du support technique d'Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
@@ -48,7 +48,7 @@ Le type d'identité affecte non seulement l'expérience utilisateur et les optio
   
 ### <a name="custom-domains-and-identity-options"></a>Domaines personnalisés et options d’identité
 
-Lorsque vous créez un utilisateur, le nom de connexion et l’adresse de messagerie de l’utilisateur sont affectés au domaine par défaut comme défini dans le centre d’administration 365 de Microsoft. Pour en savoir plus, voir [Ajouter un domaine et des utilisateurs à l'aide de la configuration d'Office 365](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+Lorsque vous créez un utilisateur, le nom de connexion et l’adresse de messagerie de l’utilisateur sont affectés au domaine par défaut comme défini dans le centre d’administration 365 de Microsoft. Pour en savoir plus, consultez [la rubrique ajouter vos utilisateurs et votre domaine](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
 Par défaut, l’abonnement utilise le \< domaine _nom_ \> de la société **. onmicrosoft.com** qui a été créé avec le compte. \* Vous pouvez ajouter un ou plusieurs domaines personnalisés à Microsoft au lieu de conserver le domaine onmicrosoft.com et permettre aux utilisateurs de se connecter avec l’un des domaines validés. Chaque domaine attribué de l'utilisateur est l'adresse de messagerie qui doit apparaître sur les messages électroniques envoyés et reçus. 
   
@@ -74,9 +74,9 @@ Pour plus d'informations à propos des domaines dans Office 365, voir la descrip
     
 Microsoft utilise l’authentification basée sur les formulaires, et le trafic d’authentification sur le réseau est toujours chiffré avec TLS/SSL à l’aide du port 443. Le trafic d’authentification utilise un pourcentage de bande passante négligeable pour les services Microsoft. 
   
-### <a name="multi-factor-authentication-for-office-365"></a>Multi-Factor Authentication pour Office 365
+### <a name="multi-factor-authentication"></a>Authentification multifacteur
 
-Avec l’authentification multifacteur pour Office 365, les utilisateurs doivent accuser réception d’un appel téléphonique, d’un message texte ou d’une notification d’application sur leur smartphone après avoir entré correctement leur mot de passe. Ce n'est qu'après cette deuxième authentification que l'utilisateur peut se connecter. Les administrateurs Microsoft peuvent inscrire des utilisateurs pour l’authentification multifacteur dans le centre d’administration 365 de Microsoft. En savoir plus sur [Multi-Factor Authentication dans Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Avec l’authentification multifacteur, les utilisateurs doivent accuser réception d’un appel téléphonique, d’un message texte ou d’une notification d’application sur leur smartphone après avoir entré correctement leur mot de passe. Ce n'est qu'après cette deuxième authentification que l'utilisateur peut se connecter. Les administrateurs Microsoft peuvent inscrire des utilisateurs pour l’authentification multifacteur dans le centre d’administration 365 de Microsoft. En savoir plus sur [l’authentification multifacteur](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
   
 ### <a name="rich-client-authentication"></a>Authentification des clients riches
 
@@ -117,7 +117,7 @@ L’expérience de connexion change selon le type d’identité utilisé :
   
 ## <a name="creating-user-accounts"></a>Création des comptes d’utilisateur
 
-Il existe plusieurs façons d’ajouter des utilisateurs à Office 365. Pour en savoir plus, consultez la rubrique [Ajouter des utilisateurs individuellement ou dans l’aide à l’administrateur en bloc](https://docs.microsoft.com/office365/admin/add-users/add-users) et [Ajouter, supprimer et gérer des utilisateurs dans l’aperçu du centre d’administration Microsoft 365](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Si vous utilisez Office 365 géré par 21Vianet en Chine, consultez l'article relatif à la [création ou la modification de comptes d'utilisateurs dans Office 365 géré par 21Vianet - Aide de l'administrateur](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Il existe plusieurs façons d’ajouter des utilisateurs. Pour en savoir plus, consultez la rubrique [Ajouter des utilisateurs individuellement ou dans l’aide à l’administrateur en bloc](https://docs.microsoft.com/office365/admin/add-users/add-users) et [Ajouter, supprimer et gérer des utilisateurs dans l’aperçu du centre d’administration Microsoft 365](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Si vous utilisez Office 365 géré par 21Vianet en Chine, consultez l'article relatif à la [création ou la modification de comptes d'utilisateurs dans Office 365 géré par 21Vianet - Aide de l'administrateur](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="deleting-accounts"></a>Suppression de comptes
 
@@ -127,7 +127,7 @@ La manière dont vous supprimez des comptes dépend de l’usage ou non de la sy
     
 - Si vous utilisez la synchronisation d'annuaires, vous devez supprimer des utilisateurs à partir d'Active Directory sur site au lieu d'Office 365.
     
-Une fois supprimé, le compte devient inactif. Vous pouvez toujours restaurer le compte jusqu'à environ 30 jours après l'avoir supprimé. Pour plus d’informations sur la suppression et la restauration de comptes, consultez la rubrique [supprimer des utilisateurs dans office 365](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) et [restaurer des utilisateurs dans Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user) ou, si vous utilisez Office 365 géré par 21ViaNet en Chine, consultez [créer ou modifier des comptes d’utilisateurs dans Office 365 géré par 21Vianet-aide de l’administrateur](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Une fois supprimé, le compte devient inactif. Vous pouvez toujours restaurer le compte jusqu'à environ 30 jours après l'avoir supprimé. Pour plus d’informations sur la suppression et la restauration de comptes, voir [Delete Users](https://docs.microsoft.com/office365/admin/add-users/delete-a-user) and [Restore](https://docs.microsoft.com/office365/admin/add-users/restore-user) Users ou, si vous utilisez Office 365 géré par 21ViaNet en Chine, voir [Create or Edit user Accounts in Office 365 géré par 21Vianet-aide de l’administrateur](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="password-management"></a>Gestion des mots de passe
 
@@ -188,5 +188,5 @@ Azure Active Directory apporte à Office 365 des fonctionnalités complètes de 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Microsoft 365 et Office 365 Platform Service Description](office-365-platform-service-description.md).
   

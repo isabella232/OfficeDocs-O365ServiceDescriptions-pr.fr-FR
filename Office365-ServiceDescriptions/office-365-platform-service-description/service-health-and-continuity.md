@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs Microsoft peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en vous connectant.
-ms.openlocfilehash: 2873c3a16e08ac0fd71876f365cc38be91d7effd
-ms.sourcegitcommit: 54360e40fb1ef938aa8c6647eae4a8c8dda11f95
+ms.openlocfilehash: eb2368030148423301d21d7644561028b1fbcec2
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796715"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001950"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -86,19 +86,17 @@ L’application d’administration pour les administrateurs d’organisation vou
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d’administration d’Office 365 pour Microsoft System Center 2012 R2
 
-Microsoft System Center est une plateforme de gestion intégrée qui vous permet de gérer un centre de données, des appareils clients et des environnements informatiques hybrides. Les administrateurs Microsoft qui utilisent System Center ont désormais la possibilité d’importer le pack d’administration d’Office 365, ce qui leur permet d’afficher toutes les communications de service dans Operations Manager dans System Center. L'utilisation de cet outil vous permet d'accéder à l'état des services auxquels vous êtes abonné, aux incidents de service actifs et résolus, et aux communications de votre Centre de messages. Pour plus d'informations, consultez le billet de blog sur les [nouveaux outils d'administration Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/). 
+Microsoft System Center est une plateforme de gestion intégrée qui vous permet de gérer un centre de données, des appareils clients et des environnements informatiques hybrides. Les administrateurs Microsoft qui utilisent System Center ont désormais la possibilité d’importer le pack d’administration d’Office 365, ce qui leur permet d’afficher toutes les communications de service dans Operations Manager dans System Center. L'utilisation de cet outil vous permet d'accéder à l'état des services auxquels vous êtes abonné, aux incidents de service actifs et résolus, et aux communications de votre Centre de messages. Pour plus d’informations, obtenez le [Pack d’administration Microsoft System Center pour Office 365](https://www.microsoft.com/download/details.aspx?id=43708) dans le centre de téléchargement Microsoft. 
   
 ### <a name="office-365-service-communications-api"></a>API de communications de service Office 365
 
-L’API de communications de service Office 365 vous permet d’accéder aux communications de service comme vous le souhaitez. Avec ce nouvel outil d’administration, vous pouvez désormais créer ou connecter vos outils aux communications de service, ce qui vous permet de simplifier la façon dont vous surveillez votre environnement. L’API de communications de service vous permet de surveiller les éléments suivants dans votre environnement :
+L’API de communications de service Office 365 vous permet d’accéder aux communications de service comme vous le souhaitez. Avec cette API, vous pouvez créer ou connecter vos outils aux communications de service, ce qui vous permet de simplifier la surveillance de votre environnement. L’API de communications de service vous permet de surveiller les éléments suivants dans votre environnement :
   
 - État du service en temps réel
     
 - Communications du centre de messages
     
-- Avis de maintenance planifiée
-    
-Pour plus d’informations, consultez le nouveau billet de blog sur les [Outils d’administration](https://www.microsoft.com/en-us/microsoft-365/blog/2014/07/29/new-office-365-admin-tools/) . 
+Pour plus d’informations, consultez la référence de l' [API de communications de service Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference). 
   
 ## <a name="post-incident-reviews"></a>Analyses post-incident
 

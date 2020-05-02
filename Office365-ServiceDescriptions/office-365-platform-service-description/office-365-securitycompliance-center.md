@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre &amp; de sécurité conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813387"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001990"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -32,7 +32,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**  |**Microsoft 365 entreprise Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 entreprise E1**, **Office 365 gouvernement américain G1**  |**Office 365 entreprise E3**, **Office 365 gouvernement américain G3**  |**Office 365 Entreprise E5**  |**Office 365 entreprise F3**  **Office 365 gouvernement américain F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
-|[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non|Non   |Oui   |Non   |
+|[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non|Non   |Non   |Oui   |
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) comme le filtrage de la messagerie et la protection contre les programmes malveillants |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Gestion avancée des menaces](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), telle que l’Explorateur de menaces pour les campagnes de hameçonnage<sup>6</sup>  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |

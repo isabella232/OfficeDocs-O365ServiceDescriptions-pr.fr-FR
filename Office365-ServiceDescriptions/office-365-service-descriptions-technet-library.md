@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 est un service basé sur un nuage qui est conçu pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs.
-ms.openlocfilehash: 38064eb467bb46e09ccb1cf1d6eea6b01ce3a295
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638722"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002064"
 ---
 # <a name="office-365-service-descriptions"></a>Descriptions du service Office 365 
 
@@ -36,7 +36,7 @@ Microsoft propose le centre FastTrack pour Office 365 pour les services éligibl
   
 Pour commencer, lisez les descriptions suivantes :
   
-- [Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Description du service de plateforme microsoft 365 et Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Description de service des applications Office](office-applications-service-description/office-applications-service-description.md)
 
@@ -70,7 +70,7 @@ Pour commencer, lisez les descriptions suivantes :
 
 - [Description du service Yammer](yammer-service-description/yammer-service-description.md)
 
-- [Description du service Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+- [Description du service Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 - [Conseils en matière de licences de conformité Microsoft 365 Security &](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
