@@ -8,26 +8,26 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 80c6318a4fa32c50159ea05c6b54bd2e68929100
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 62311ff24d00cbdbb6add06f04eeb5eeb840aa51
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172256"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045046"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-Comment acheter
 
-En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des environnements publics Microsoft 365 spécifiques pour les clients du secteur public américain. Cette section fournit une vue d’ensemble des environnements et des informations supplémentaires sur l’achat. Nous vous recommandons de lire cette section supplémentaire parallèlement aux [descriptions de service Office 365 ](../../office-365-service-descriptions-technet-library.md).
+En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des environnements publics Microsoft 365 spécifiques pour les clients du secteur public américain. Cette section fournit une vue d’ensemble des environnements et des informations supplémentaires sur l’achat. Nous vous recommandons de lire cette section supplémentaire [, ainsi que les descriptions du service Microsoft 365 et Office 365](../../office-365-service-descriptions-technet-library.md).
   
 ## <a name="whats-microsoft-365-government"></a>Qu’est-ce que le gouvernement Microsoft 365 ?
 
-Le gouvernement Microsoft 365 est un ensemble de fonctionnalités logicielles de productivité, de sécurité et de Cloud de mobilité spécialement conçues pour les agences gouvernementales américaines et les sous-traitants sponsorisés pour recevoir des informations non classifiées contrôlées. Fournis via des environnements uniques qui répondent aux exigences de conformité les plus strictes, le gouvernement Microsoft 365 est une offre de Cloud pour les clients du gouvernement américain qui correspond le plus étroitement possible aux fonctionnalités de Microsoft commercial Cloud. offres d’entreprise. 
+Le gouvernement Microsoft 365 est un ensemble de fonctionnalités logicielles de productivité, de sécurité et de Cloud de mobilité spécialement conçues pour les agences gouvernementales américaines et les sous-traitants sponsorisés pour recevoir des informations non classifiées contrôlées. Fournis via des environnements uniques qui répondent aux exigences de conformité les plus strictes, le gouvernement Microsoft 365 est une offre de Cloud pour les clients du gouvernement américain qui correspond le plus étroitement possible aux fonctionnalités des offres Microsoft commercial Cloud Enterprise. 
   
 ## <a name="whats-the-value-of-microsoft-365-government"></a>Quelle est la valeur de Microsoft 365 le gouvernement ?
 
-Les pouvoirs publics Microsoft 365 aident les dirigeants et les travailleurs à être productifs quasiment n’importe où, tout en permettant une productivité mobile et une collaboration sécurisée avec la conformité en aidant les agences à gérer efficacement la conformité réglementaire des données. requise. Le tableau suivant fournit des exemples de rôles publics clés.
+Les pouvoirs publics Microsoft 365 aident les dirigeants et les employés à être productifs quasiment partout, à tout moment en permettant une productivité mobile et une collaboration sécurisée avec la conformité en aidant les agences à gérer efficacement les exigences réglementaires en matière de conformité des données. Le tableau suivant fournit des exemples de rôles publics clés.
 
  
 ||||||

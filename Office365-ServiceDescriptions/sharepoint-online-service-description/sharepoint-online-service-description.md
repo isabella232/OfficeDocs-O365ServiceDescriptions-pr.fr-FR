@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639842"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044786"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -82,7 +82,7 @@ Pour obtenir une vue d’ensemble des options de personnalisation, consultez la 
 
 Pour en savoir plus sur la disponibilité des applications d’alimentation et de gestion de l’alimentation Microsoft, voir le Forum aux questions sur les [applications puissantes et la gestion des licences](/power-platform/admin/powerapps-flow-licensing-faq).
 
-Pour en savoir plus sur la disponibilité de Microsoft Graph, voir la [Description du service de plateforme Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Pour en savoir plus sur la disponibilité de Microsoft Graph, consultez la rubrique [microsoft 365 et Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans).
 
 ## <a name="it-admin-features"></a>Fonctionnalités d’administration informatique
 
@@ -203,6 +203,6 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Centre de recherche (recherche classique)](/sharepoint/manage-search-center)
 - [Schéma de recherche (recherche classique et moderne)](/sharepoint/manage-search-schema)
 
-Pour plus d’informations sur Delve, voir la [Description du service de plateforme Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
+Pour plus d’informations sur Delve, consultez la rubrique [Microsoft 365 et Office 365 Platform Service Description](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
 
 
