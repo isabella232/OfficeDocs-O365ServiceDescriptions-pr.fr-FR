@@ -12,16 +12,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090137"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214016"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
-Pour les besoins de cet article, un service au niveau du client est un service en&mdash;ligne qui, lorsqu’il est acheté pour n’importe quel utilisateur dans le client (autonome ou en tant que&mdash;partie de plans Office 365 ou Microsoft 365) est activé partiellement ou intégralement pour tous les utilisateurs du client. Bien que certains utilisateurs sans licence puissent techniquement être en mesure d’accéder au service, une licence est requise pour tous les utilisateurs que vous envisagez de bénéficier du service.
+Pour les besoins de cet article, un service au niveau du client est un service en ligne qui, &mdash; lorsqu’il est acheté pour n’importe quel utilisateur dans le client (autonome ou en tant que partie de plans Office 365 ou Microsoft 365) &mdash; est activé partiellement ou intégralement pour tous les utilisateurs du client. Bien que certains utilisateurs sans licence puissent techniquement être en mesure d’accéder au service, une licence est requise pour tous les utilisateurs que vous envisagez de bénéficier du service.
 
 > [!NOTE]
 > Certains services de client ne sont actuellement pas en mesure de limiter les avantages à des utilisateurs spécifiques. Les efforts doivent être pris pour limiter les avantages du service aux utilisateurs titulaires d’une licence. Cela permettra d’éviter une interruption potentielle des services pour votre organisation une fois que les fonctionnalités de ciblage sont disponibles.
@@ -96,7 +96,7 @@ Par défaut, les fonctionnalités ATP sont activées au niveau du client pour to
 
 Office 365 Cloud App Security (OCAS) est un sous-ensemble de la sécurité des applications Cloud de Microsoft, avec des fonctionnalités limitées à Office 365 et sans sécurité supplémentaire pour les applications Cloud tierces et les services IaaS.
 
-OCAS donne aux organisations une visibilité sur leurs applications et services de Cloud de productivité, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques,&mdash;et leur permet de contrôler la façon dont les données circulent dans Office 365.
+OCAS donne aux organisations une visibilité sur leurs applications et services de Cloud de productivité, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur permet de contrôler la façon dont les données circulent &mdash; dans Office 365.
 
 Pour comparer les fonctionnalités, consultez la rubrique [differences between Microsoft Cloud App Security and Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365).
 
@@ -121,7 +121,7 @@ Les administrateurs peuvent étendre les déploiements OCAS pour appliquer la ma
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) est une solution CASB (Cloud Access Security Broker) qui donne aux organisations une visibilité sur leurs applications et services Cloud, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur&mdash;permet de contrôler la façon dont les données transitent dans n’importe quelle application Cloud.
+Microsoft Cloud App Security (MCAS) est une solution CASB (Cloud Access Security Broker) qui donne aux organisations une visibilité sur leurs applications et services Cloud, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur permet de contrôler la façon dont les données transitent &mdash; dans n’importe quelle application Cloud.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -352,7 +352,7 @@ Par défaut, les messages électroniques Exchange Online, les sites SharePoint e
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous**emplacements**de **protection contre** > la perte de données.
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous emplacements de **protection contre la perte de données**  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Protection contre la perte de données de communication pour teams
 
@@ -372,7 +372,7 @@ Par défaut, la conversation de teams et les messages de canal sont un *emplacem
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous**emplacements**de **protection contre** > la perte de données.
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous emplacements de **protection contre la perte de données**  >  **Locations**.
 
 ## <a name="information-barriers"></a>Obstacles aux informations
 
@@ -417,7 +417,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 et Azure information Protection Plan 1 fou
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Les administrateurs créent et gèrent les stratégies de chiffrement des messages Office 365 dans le centre d’administration Exchange sous**règles**de **flux** > de messagerie. Par défaut, ces règles s’appliquent à tous les utilisateurs du client. Pour plus d’informations sur la configuration des nouvelles fonctionnalités de chiffrement de messages Office 365, consultez la rubrique [set up New office 365 message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Les administrateurs créent et gèrent les stratégies de chiffrement des messages Office 365 dans le centre d’administration Exchange sous règles de **flux de messagerie**  >  **Rules**. Par défaut, ces règles s’appliquent à tous les utilisateurs du client. Pour plus d’informations sur la configuration des nouvelles fonctionnalités de chiffrement de messages Office 365, consultez la rubrique [set up New office 365 message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
@@ -514,11 +514,11 @@ Les utilisateurs titulaires d’une licence Office 365 E5, Microsoft 365 E5, con
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Un utilisateur bénéficie d’un audit avancé car les enregistrements d’audit liés à l’activité de l’utilisateur dans les services Microsoft 365 peuvent être conservés pendant un an maximum. En outre, les événements d’audit à valeur élevée sont enregistrés dans un journal, par exemple lorsque des éléments sont consultés ou lus dans la boîte aux lettres d’un utilisateur. Pour plus d’informations, consultez la rubrique [événements d’audit à valeur élevée](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+Un utilisateur bénéficie d’un audit avancé car les enregistrements d’audit liés à l’activité de l’utilisateur dans les services Microsoft 365 peuvent être conservés pendant un an maximum. En outre, les événements d’audit à valeur élevée sont enregistrés dans un journal, par exemple lorsque des éléments sont consultés ou lus dans la boîte aux lettres d’un utilisateur. Pour plus d’informations, consultez la rubrique [audit avancé dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Par défaut, l’audit avancé est activé au niveau du client pour toutes les organisations disposant d’un abonnement Office 365 ou Microsoft 365 E5, et fournit automatiquement une rétention d’un an des journaux d’audit pour les activités (effectuées par les utilisateurs disposant de la licence appropriée) dans Azure Active Directory, Exchange et SharePoint. En outre, les organisations peuvent utiliser des stratégies de rétention du journal d’audit pour gérer la période de rétention des enregistrements d’audit générés par l’activité dans d’autres services Microsoft 365. Pour plus d’informations, voir [gérer les stratégies de rétention du journal d’audit](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+Par défaut, l’audit avancé est activé au niveau du client pour toutes les organisations disposant d’un abonnement Office 365 ou Microsoft 365 E5, et fournit automatiquement une rétention d’un an des journaux d’audit pour les activités (effectuées par les utilisateurs disposant de la licence appropriée) dans Azure Active Directory, Exchange et SharePoint. En outre, les organisations peuvent utiliser des stratégies de rétention du journal d’audit pour gérer la période de rétention des enregistrements d’audit générés par l’activité dans d’autres services Microsoft 365. Pour plus d’informations, voir [Gérer les stratégies de rétention du journal d’audit](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 

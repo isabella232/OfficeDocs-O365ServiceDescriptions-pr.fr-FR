@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le nuage des États-Unis et le nuage commercial, comme décrit dans la description du service Exchange Online.
-ms.openlocfilehash: f104f072a74707f46528d9b111d8af46103a919e
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813400"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213696"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements gouvernementaux américains
 
@@ -22,7 +22,7 @@ Cet article fournit une vue d’ensemble des différences de fonctionnalités en
 
 Pour plus d’informations sur le Cloud du gouvernement, y compris l’éligibilité et les achats, voir [Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Pour comparer les plans gouvernementaux Office 365, consultez la rubrique [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, reportez-vous aux points de [terminaison GCC High Office 365 du gouvernement des États-Unis](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou [Office 365](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, reportez-vous aux points de [terminaison GCC High office 365 du gouvernement des États-Unis](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   ou [Office 365](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes, propres aux environnements Cloud du gouvernement américain :
 
@@ -65,7 +65,7 @@ Le tableau suivant décrit si les fonctionnalités Exchange Online spécifiées 
 |Conservation inaltérable et conservation pour litige|Oui|Oui|Oui|Nécessite un plan de service G3 ou G5.|
 |Découverte électronique locale|Oui|Oui|Oui||
 |Règles de flux de messagerie|Oui|Oui|Oui||
-|Protection contre la perte de données|Non|Oui|Oui|Nécessite un plan de service G3 ou G5.|
+|Protection contre la perte de données|Oui|Oui|Oui|Nécessite un plan de service G3 ou G5.|
 |Journalisation|Oui|Oui|Oui||
 |**[Protection contre le courrier indésirable et les programmes malveillants](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Considérations clés**|
 |Protection anti-courrier indésirable intégrée|Oui|Oui|Oui||
@@ -154,9 +154,9 @@ Les environnements GCC High et DoD sont tous deux des environnements restreints 
 
 En raison de ces restrictions, les fonctionnalités qui dépendent de cette connectivité sortante des environnements GCC High/DoD ne sont généralement pas prises en charge, notamment : 
 
-- Comptes&mdash;connectés les utilisateurs ne peuvent pas ajouter/synchroniser des comptes (Google, POP/IMAP, etc.). 
+- Comptes connectés &mdash; les utilisateurs ne peuvent pas ajouter/synchroniser des comptes (Google, POP/IMAP, etc.). 
 
-- Prise en charge des fournisseurs&mdash;de stockage de fichiers tiers seul le compte OneDrive entreprise de l’utilisateur *au sein de GCC High/DoD* est accessible à partir des différents clients Outlook pour joindre ou partager des fichiers. Les comptes de stockage tiers (Dropbox, zone, Google Drive) ne peuvent pas être ajoutés. 
+- Prise en charge des fournisseurs de stockage de fichiers tiers &mdash; seul le compte OneDrive entreprise de l’utilisateur *au sein de GCC High/DoD*est   accessible à partir des différents clients Outlook pour joindre ou partager des fichiers. Les comptes de stockage tiers (Dropbox, zone, Google Drive) ne peuvent pas être ajoutés. 
 
 - La connectivité avec les réseaux sociaux, comme Facebook ou LinkedIn. 
 

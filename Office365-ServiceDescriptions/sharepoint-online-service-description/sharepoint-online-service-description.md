@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044786"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214036"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -31,7 +31,7 @@ SharePoint dans Microsoft 365 aide les organisations à partager et gérer du co
 
 Pour une vue d’ensemble rapide, voir [qu’est-ce que SharePoint ?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Pour connaître les offres qui incluent SharePoint, [Comparez les offres Microsoft 365 pour les entreprises](https://products.office.com/business/compare-more-office-365-for-business-plans). Pour connaître la configuration système requise pour Microsoft 365, voir [Configuration requise pour Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+Pour voir les plans qui incluent SharePoint, des [outils puissants pour prendre en charge votre entreprise](https://products.office.com/business/compare-more-office-365-for-business-plans). Pour connaître la configuration système requise pour Microsoft 365, consultez les [ressources microsoft 365 et Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
 
 Pour en savoir plus sur les différences entre les fonctionnalités de SharePoint pour les clients du nuage aux États-Unis, voir [SharePoint pour les environnements gouvernementaux américains](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
@@ -43,7 +43,7 @@ Pour plus d’informations sur les dernières fonctionnalités publiées, voir [
 
 Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Pour plus d’informations sur les différents plans, notamment des options de plan autonomes et des informations sur le passage d’un plan à l’autre, consultez la rubrique [options de plan de Microsoft 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Pour accéder à SharePoint, les utilisateurs de votre organisation doivent disposer d’une licence qui inclut SharePoint. Un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre de l' [abonnement terrain](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
+Pour accéder à SharePoint, les utilisateurs de votre organisation doivent disposer d’une licence qui inclut SharePoint. Un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre d' [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Droits des invités
 
@@ -55,7 +55,7 @@ OneDrive dans Microsoft 365 est un stockage en ligne pour des utilisateurs indiv
 
 ## <a name="apps"></a>Applications
 
-Pour synchroniser des fichiers SharePoint sur un ordinateur, les utilisateurs peuvent utiliser l' [application de synchronisation OneDrive](https://onedrive.live.com/about/download/) pour Windows ou Mac. Pour plus d’informations sur la disponibilité des fonctionnalités dans l’application de synchronisation, voir la [Description du service OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
+Pour synchroniser des fichiers SharePoint sur un ordinateur, les utilisateurs peuvent utiliser l' [application de synchronisation OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) pour Windows ou Mac. Pour plus d’informations sur la disponibilité des fonctionnalités dans l’application de synchronisation, voir la [Description du service OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
 
 Pour utiliser des sites SharePoint sur un appareil mobile, ils peuvent [installer l’application mobile SharePoint pour iOS, Android ou Windows](https://products.office.com/sharepoint/mobile-app). 
   
@@ -109,7 +109,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Gouvernance de site](/sharepoint/governance-overview) 
 - [Magasin de termes-métadonnées gérées](/sharepoint/managed-metadata)
 
-Pour plus d’informations sur la disponibilité des services de migration FastTrack, reportez-vous au [Centre FastTrack pour Microsoft 365](/fasttrack/m365-eligible-services-and-plans). 
+Pour plus d’informations sur la disponibilité des services de migration FastTrack, consultez les [offres et les services éligibles](/fasttrack/m365-eligible-services-and-plans). 
 
 Pour plus d’informations sur les fonctionnalités liées au partage, voir la [Description du service OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
 
@@ -143,7 +143,7 @@ SharePoint s’intègre aux fonctionnalités avancées de sécurité et de confo
 
 Pour plus d’informations sur [Azure information protection](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection), voir la [Configuration requise pour Azure information protection](/azure/information-protection/requirements)
 
-Pour plus d’informations sur la disponibilité de la clé client, voir [How is Customer License License ?](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed). 
+Pour plus d’informations sur la disponibilité de la clé client, voir [service Encryption with client Key](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed). 
 
 
 
@@ -179,8 +179,8 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Sites : sites de communication](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [Sites : site d’accueil](/sharepoint/home-site)
 - [Sites : sites hub](/sharepoint/planning-hub-sites)
-- Sites : sites d’équipe modernes (pas de groupe Office 365)
-- [Sites : sites d’équipe connectés à un groupe Office 365](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e). Nécessite un abonnement qui inclut Office 365.
+- Sites : sites d’équipe modernes (pas de groupe Microsoft 365)
+- [Sites : sites d’équipe connectés à un groupe Microsoft 365](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e). Nécessite un abonnement qui inclut Office 365.
 - [Sites : site racine](/sharepoint/modern-root-site)
 - [Bloc-notes OneNote d’équipe](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Thèmes (modifier l’apparence)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)

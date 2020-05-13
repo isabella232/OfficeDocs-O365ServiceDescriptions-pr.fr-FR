@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640132"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213986"
 ---
 # <a name="office-for-the-web-service-description"></a>Description du service Office pour le web
 
 Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements. 
   
-Pour comparer les fonctionnalités de tous les plans, voir [compare Microsoft 365 for business plans](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Pour comparer les fonctionnalités entre les plans, voir [puissants outils permettant de prendre en charge votre entreprise](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilité des fonctionnalités dans Office pour les plans Web
 

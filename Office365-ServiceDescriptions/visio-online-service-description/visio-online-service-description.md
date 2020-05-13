@@ -1,5 +1,5 @@
 ---
-title: Visio pour la description du service Web
+title: Description du service Visio pour le web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Avec Visio pour le Web, vous pouvez afficher, modifier et partager des diagrammes Visio sur le Web.
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263227"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213649"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio pour la description du service Web
+# <a name="visio-for-the-web-service-description"></a>Description du service Visio pour le web
 
 Avec Visio pour le Web, vous pouvez afficher, modifier et partager des diagrammes Visio sur le Web. Commencez par un diagramme simple pour exprimer des idées courantes, par exemple pour décrire un plan, formuler une proposition ou énumérer une suite d'étapes pour un processus. Il est simple et facile de créer des diagrammes de première classe avec des types de diagrammes et des jeux de formes enrichis. Visio pour les utilisateurs Web peut afficher et collaborer en partageant des diagrammes et en insérant des commentaires dans des fichiers chargés sur SharePoint Online ou OneDrive entreprise online.
   
-Pour plus d’informations et pour commencer, reportez-vous à [Visio pour le Web](https://products.office.com/en-US/visio/visio-online).
+Pour plus d’informations et pour commencer, reportez-vous à [Visio plan 1](https://products.office.com/en-US/visio/visio-online).
   
-Pour obtenir de l’aide lors de l’utilisation de Visio pour le Web, voir [Centre d’aide Visio](https://support.office.com/visio).
+Pour obtenir de l’aide lors de l’utilisation de Visio pour le Web, reportez-vous à l' [aide visio & formation](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilité et comparaison des fonctionnalités
 

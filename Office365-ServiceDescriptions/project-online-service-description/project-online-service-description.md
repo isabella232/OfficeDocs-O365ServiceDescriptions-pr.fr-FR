@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002331"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213876"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Vue d'ensemble
 
 Microsoft Project propose les applications suivantes pour vous aider à répondre aux besoins de votre organisation en matière de gestion des projets et des tâches :
 
@@ -43,13 +43,13 @@ Project pour le Web est disponible par le biais de trois abonnements : plan de 
 
 ### <a name="project-online"></a>Project Online
  
-Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Project Online offre des fonctionnalités de gestion de projet puissantes pour la planification, la hiérarchisation et la&mdash;gestion des projets et des investissements de portefeuille de projets à partir de quasiment n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
+Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Project Online offre des fonctionnalités de gestion de projet puissantes pour la planification, la hiérarchisation et la gestion des projets et des investissements &mdash; de portefeuille de projets à partir de quasiment n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
 
 Project Online est basé sur la plateforme SharePoint et stocke des données dans le magasin de données SharePoint.
 
 Project Online est disponible par le biais de deux abonnements : plan de projet 3 et plan de projet 5. Les fonctionnalités indiquées dans la section [fonctionnalités de Project Online](#project-online-features) interagissent uniquement avec les données du magasin de données SharePoint de Project online.
 
-La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement Project Online Essentials. Project Online Essentials est un abonnement de *complément*de membre d’équipe pour les clients qui ont prévu un abonnement plan de projet 3 ou plan de projet 5. Il donne aux membres de l’équipe une interface Web pour effectuer des mises à jour de tâches et de temps pour les projets gérés dans Project online.
+La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement Project Online Essentials. Project Online Essentials est un *add-on*   abonnement de complément de membre d’équipe pour les clients qui ont prévu un abonnement plan de projet 3 ou plan de projet 5. Il donne aux membres de l’équipe une interface Web pour effectuer des mises à jour de tâches et de temps pour les projets gérés dans Project online.
 
 Les membres de l’équipe avec Project Online Essentials peuvent effectuer les fonctions suivantes de Project Online :
 
@@ -152,7 +152,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Approbations des feuilles de temps | Les membres de l’équipe peuvent envoyer des feuilles de temps pour approbation. Les responsables de ressources et les superviseurs peuvent consulter, approuver et décliner les feuilles de temps soumises. | Oui | Oui |
 |Configuration de l’heure hors travail | Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. | Non | Oui |
 |**Collaboration** ||||
-|Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
+|Pièces jointes | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
 |Membres de l’équipe externe |Collaborez avec des personnes en dehors de votre organisation en leur accordant l’accès à vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
 |Sites de projet | Créer et personnaliser un concentrateur pour la collaboration et les documents pour un projet. | Oui | Oui |
 Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
@@ -248,9 +248,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 ## <a name="service-considerations"></a>Considérations relatives aux services
 
 > [!NOTE]
-> - Le projet de la &ndash; France et de la Corée du Sud pour le Web est actuellement indisponible. Nous nous efforcerons de livrer Project pour le Web à votre région et vous informeront de sa disponibilité par le biais des canaux de communication indiqués ci-dessous.
-> - Le &ndash; projet d’éducation pour le Web est bientôt disponible pour nos clients scolaires. Une période exacte est en attente.
-> - GCC, GCC High, DoD &ndash; actuellement, Project pour le Web n’est pas disponible pour GCC, GCC High et DoD. Nous travaillons sur la remise d’un projet pour le Web, mais vous ne pouvez pas partager un créneau horaire de la société.
+> Le projet pour le Web est actuellement indisponible pour GCC, GCC High et DoD. Nous travaillons sur la remise d’un projet pour le Web, mais vous ne pouvez pas partager un créneau horaire pour le moment.
 
 ### <a name="licensing-considerations"></a>Remarques sur les licences
 
@@ -281,7 +279,7 @@ Project pour le Web présente certaines limitations, décrites dans le tableau s
 
 |Entité/champ | Limite |
 |-------------|-------|
-|**Tâche** ||
+|**Task** ||
 |Longueur niveau hiérarchique de la tâche | 10 niveaux |
 |Longueur Liens (successeur + prédécesseur) d’une tâche | vingtaine |
 |Longueur durée de la tâche terminal | 1250 jours |

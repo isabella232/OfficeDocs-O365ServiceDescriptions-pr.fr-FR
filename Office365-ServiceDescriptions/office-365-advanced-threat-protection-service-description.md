@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640142"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213946"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -45,9 +45,9 @@ Vous pouvez ajouter la fonctionnalité ATP aux plans d’abonnement Exchange et 
 
 - Exchange Online Protection
 
-- Microsoft 365 entreprise Basic
+- Microsoft 365 Business Basic
 
-- Microsoft 365 Business standard
+- Microsoft 365 Business Standard
 
 - Office 365 Entreprise E1
 
@@ -61,7 +61,7 @@ Vous pouvez ajouter la fonctionnalité ATP aux plans d’abonnement Exchange et 
 
 Pour acheter Office 365 - Protection avancée contre les menaces, reportez-vous à l'article [Office 365 - Protection avancée contre les menaces](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Pour comparer les fonctionnalités de tous les plans, voir [compare microsoft 365 Apps for business plans](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) et [découvrir la solution Microsoft 365 Enterprise qui vous convient](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Pour comparer les fonctionnalités de tous les plans, consultez [la rubrique outils puissants pour prendre en charge votre entreprise](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) et [transformer votre entreprise avec Microsoft 365](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Nouveautés d'Office 365 - Protection avancée contre les menaces
 
@@ -73,7 +73,7 @@ Nous continuons à ajouter de nouvelles fonctionnalités à la protection avanc�
 
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Configuration requise pour Office 365 - Protection avancée contre les menaces
 
-La protection avancée contre les menaces peut être utilisée avec n’importe quel agent de transfert de courrier SMTP, tel que Microsoft Exchange Server. Pour plus d'informations sur les systèmes d'exploitation, les navigateurs web et les langues pris en charge par ce service, voir les sections « Navigateurs pris en charge » et « Langues prises en charge dans EOP » de l'article [Centre d'administration Exchange dans Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
+La protection avancée contre les menaces peut être utilisée avec n’importe quel agent de transfert de courrier SMTP, tel que Microsoft Exchange Server. Pour plus d’informations sur les systèmes d’exploitation, les navigateurs Web et les langues pris en charge par la protection avancée contre les menaces, consultez les sections « navigateurs pris en charge » et « langues prises en charge » dans le [Centre d’administration Exchange dans Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Disponibilité des fonctionnalités pour les différents plans Protection avancée contre les menaces
 
@@ -122,7 +122,7 @@ Les liens fiables sont disponibles pour les URL dans les applications suivantes�
 - Canaux et conversations Microsoft Teams
 
 > [!NOTE]
-> Les utilisateurs doivent disposer d’une<sup>\*</sup>licence pour la protection avancée contre les menaces, doivent être inclus dans les stratégies de liens fiables ATP et être connectés sur leurs appareils pour que la protection soit mise en place.
+> Les utilisateurs doivent disposer d’une licence pour <sup>\*</sup> la protection avancée contre les menaces, doivent être inclus dans les stratégies de liens fiables ATP et être connectés sur leurs appareils pour que la protection soit mise en place.
 >
 > <sup>\*</sup>Pour les licences ATP à l’échelle de l’organisation (par exemple, ATP_ENTERPRISE_FACULTY), vous n’avez pas besoin d’attribuer des licences ATP à des utilisateurs individuels.
 >
@@ -146,7 +146,7 @@ L’Explorateur (également appelé Explorateur de menaces) est un rapport en te
 
 L’Explorateur contient des vues, telles que des programmes malveillants (pour le courrier électronique et le contenu), des envois, des hameçons et tous les messages électroniques. Pour savoir comment Explorer compare les détections en temps réel, [Téléchargez ce PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
-Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), voir [Threat Explorer (and Real-Time Detections)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat Protection Plan 2) et les détections en temps réel (dans Office 365 Advanced Threat Protection Plan 1), reportez-vous à [Threat Explorer and Real-Time Detections](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
 ### <a name="real-time-detections"></a>Détections en temps réel
 

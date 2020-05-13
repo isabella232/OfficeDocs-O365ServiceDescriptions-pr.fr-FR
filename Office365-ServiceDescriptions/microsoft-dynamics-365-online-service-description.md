@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: À compter de la mise à jour de décembre 2016 pour Dynamics 365 (en ligne et en local), la fonctionnalité Dynamics CRM est incluse dans le cadre de Dynamics 365, suite d’applications métiers intelligentes. Dynamics 365 unifie les fonctionnalités de gestion des relations client (CRM) et de planification des ressources d’entreprise (ERP) en proposant de nouvelles applications pour faciliter la gestion des fonctions professionnelles spécifiques.
-ms.openlocfilehash: fac2e8a70cb3063c26827c4878009b4e9ad1d0f6
-ms.sourcegitcommit: cb70d69d8b563db91923be371b0307db91219030
+ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "41857303"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213916"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Description du service Microsoft Dynamics 365 (en ligne)
 
@@ -47,7 +47,7 @@ Pour plus d'informations sur les fonctionnalités de Dynamics 365, voir [Microso
   
 ## <a name="application-availability-across-dynamics-365-plans"></a>Disponibilité des applications au sein des plans Dynamics 365
 
-Le tableau suivant répertorie toutes les applications Dynamics 365 et leur disponibilité dans les plans Enterprise et Business. Pour obtenir des informations spécifiques sur les tarifs, la gestion des licences, les droits d'utilisateur et d'autres informations, consultez le téléchargement suivant : [Guide des licences Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
+Le tableau suivant répertorie toutes les applications Dynamics 365 et leur disponibilité dans les plans Enterprise et Business. Pour obtenir des informations spécifiques sur les tarifs, les licences, les droits des utilisateurs et bien plus encore, consultez le téléchargement suivant : [Dynamics 365 Licensing Guide (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -67,7 +67,7 @@ Le tableau suivant répertorie toutes les applications Dynamics 365 et leur disp
   
 ## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Comparaison des licences d’abonnement de Dynamics 365 for Sales, Customer Service, Field Service et Project Service Automation
 
-Vous trouverez ci-dessous un résumé de haut niveau des droits d’utilisation associés à chacun des cinq niveaux de service utilisateur. Pour une comparaison détaillée, voir l' **annexe B** dans le téléchargement : [Guide des licences Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
+Vous trouverez ci-dessous un résumé de haut niveau des droits d’utilisation associés à chacun des cinq niveaux de service utilisateur. Pour une comparaison détaillée, reportez-vous à l' **annexe B** du Guide de téléchargement : [Dynamics 365 Licensing Guide (PDF)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -108,7 +108,7 @@ Vous trouverez ci-dessous un résumé de haut niveau des droits d’utilisation 
   
 ## <a name="dynamics-365-service-level-agreement"></a>Contrat de niveau de service Dynamics 365
 
-Pour obtenir plus d'informations sur les termes du contrat de licence, les conditions et l'utilisation de produits et services sous licence via les programmes de licence en volume Microsoft, voir [Contrat de niveau de service pour Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
+Pour plus d’informations sur les termes du contrat de licence, les conditions et les informations supplémentaires relatives à l’utilisation des produits et des services dans le cadre de programmes de licence en volume Microsoft, consultez la rubrique [relative au contrat de niveau de service pour Microsoft Online Services (PDF)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Fenêtres de temps d’arrêt du service Dynamics 365
 
@@ -122,11 +122,11 @@ Les fenêtres de temps d’arrêt pour le service Dynamics 365 sont définies co
 |Correctif cumulatif  <br/> |Aucun impact/Aucun temps d'arrêt  <br/> |Centre de messages  <br/> |48 heures  <br/> |
 |Mise à niveau majeure  <br/> |Planifiée par le client et effectuée dans la fenêtre sélectionnée  <br/> |Centre de messages  <br/> |90 jours  <br/> |
    
-Consultez le [contrat de niveau de service pour Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) pour télécharger les dernières informations concernant les fenêtres de temps d'arrêt de service. 
+Consultez le [contrat de niveau de service pour le téléchargement de Microsoft Online Services (PDF)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) pour obtenir les dernières informations concernant les fenêtres de temps d’arrêt de service. 
   
 \* **Contrat de niveau opérationnel** = temps nécessaire à l'équipe des opérations pour la fourniture d'un ensemble de services définis dans le contrat de niveau de service. 
   
-## <a name="dynamics-365-trust-center"></a>Centre de gestion de la confidentialité de Dynamics 365
+## <a name="microsoft-trust-center"></a>Centre de gestion de la confidentialité Microsoft
 
-Pour plus d'informations sur la sécurité, la confidentialité et la conformité de Dynamics 365, voir le [Centre de gestion de la confidentialité Microsoft Dynamics 365](https://www.microsoft.com/TrustCenter/CloudServices/Dynamics365).
+Pour plus d’informations sur la sécurité, la confidentialité et la conformité de Dynamics 365, consultez le centre de gestion de la confidentialité [Microsoft](https://www.microsoft.com/TrustCenter/CloudServices/Dynamics365).
   
