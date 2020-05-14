@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez les fonctionnalités OneDrive disponibles par offre.
-ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639872"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213926"
 ---
 # <a name="onedrive-service-description"></a>Description du service OneDrive
 
@@ -27,7 +27,7 @@ OneDrive pour les comptes professionnels et scolaires est un espace de stockage 
   
 OneDrive est inclus dans les offres Microsoft 365, Office 365 et SharePoint. Vous pouvez également l’acheter séparément. 
     
-Pour comparer les offres, consultez les pages de [comparaison des offres Office 365 pour les entreprises](https://go.microsoft.com/fwlink/?linkid=799177) et de [comparaison des offres OneDrive Entreprise](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Pour comparer les offres, voir [Outils puissants pour la prise en charge de votre entreprise](https://go.microsoft.com/fwlink/?linkid=799177) et [Comparer les offres OneDrive Entreprise](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Les offres individuelles OneDrive incluent Office pour le web. 
