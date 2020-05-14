@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639882"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226223"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -90,7 +90,7 @@ Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion 
 
 ## <a name="check-spelling"></a>Vérifier l’orthographe
 
-Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionnez **examiner** > l’orthographe de la**vérification** > **orthographique**. En savoir plus sur la vérification de l' [orthographe](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionnez **examiner**l’orthographe de la  >  **vérification**  >  **orthographique**. En savoir plus sur la vérification de l' [orthographe](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -102,7 +102,7 @@ Après avoir créé un tableau Excel, vous souhaiterez peut-être uniquement le 
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Vous pouvez couper, copier et coller du texte, des liens hypertexte, des nombres, des formules, des formes, des graphiques et des images. Si vous avez des données dans des colonnes que vous devez faire pivoter pour les réorganiser en lignes, utilisez la fonctionnalité de **transpose** dans le menu **coller** . En savoir plus sur [la copie et le collage dans Excel pour le Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
+Vous pouvez couper, copier et coller du texte, des liens hypertexte, des nombres, des formules, des formes, des graphiques et des images. Si vous avez des données dans des colonnes que vous devez faire pivoter pour réorganiser les lignes, utilisez la fonctionnalité **transpose** du menu **coller** . En savoir plus sur [la copie et le collage dans Excel pour le Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline). En utilisant Edge ou Chrome comme navigateur, vous pouvez copier des liens hypertexte à partir d’autres applications et les coller dans Excel pour le Web. Les liens hypertexte collés fonctionneront normalement.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -110,7 +110,7 @@ Vous pouvez utiliser Excel pour le Web pour afficher les connexions de données,
   
 ## <a name="create-tables"></a>Création de tableaux
 
-Pour organiser et analyser des données connexes, créez un tableau. Les tableaux facilitent le tri, le filtrage et la mise en forme de vos données. 
+Pour organiser et analyser des données connexes, créez un tableau. Les tableaux facilitent le tri, le filtrage et la mise en forme de vos données. Ajoutez des options de [mise en forme de tableau](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370), notamment une galerie de styles.
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Création de vues d'analyse avancées (Power View, Power Pivot, Segments)
 
@@ -162,7 +162,7 @@ Affichez les formules sous-jacentes aux résultats d'une cellule dans la barre d
   
 ## <a name="formula-tools-advanced"></a>Outils de formule, avancé
 
-L'application Microsoft Excel de bureau prend en charge les outils de formule les plus avancés, comme le style de référence 3D et les formules de tableaux. Excel pour le Web prend en charge uniquement les formules Excel de base. En savoir plus sur les [formules](https://go.microsoft.com/fwlink/p/?LinkId=271665).
+L’application de bureau Microsoft Excel fournit les outils de formule les plus avancés, tels que le style de référence 3D. Excel pour le Web prend en charge un nombre croissant de formules Excel avancées, telles que des [formules de tableau dynamique](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). En savoir plus sur les [formules](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -174,7 +174,7 @@ Dans le navigateur, vous pouvez afficher en mode Lecture tout contenu d'un class
   
 ## <a name="functions"></a>Fonctions
 
-Vous pouvez utiliser la plupart des fonctions de feuille de calcul Excel de plus de 400 dans des formules dans Excel pour le Web.
+Vous pouvez utiliser la plupart des plus de 400 fonctions de feuille de calcul Excel dans des formules dans Excel pour le Web, y compris les fonctions utilisées dans les [formules matricielles dynamiques](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531), telles que la [fonction Filter](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
   
 ## <a name="goto"></a>GoTo
 
@@ -207,6 +207,10 @@ Ajoutez des images dans votre feuille de calcul. En savoir plus sur [l’inserti
 ## <a name="insert-shapes"></a>Insérer des formes
 
 Ajouter et mettre en forme des formes telles que des cases, des cercles, des traits, des connecteurs ou des flèches vers votre feuille de calcul Excel pour le Web. En savoir plus sur l' [Ajout de formes](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+
+## <a name="keyboard-shortcuts"></a>Raccourcis clavier
+
+Vous pouvez contrôler les raccourcis clavier afin qu’ils fonctionnent de la même manière dans les versions Web et de bureau d’Excel en modifiant le paramètre raccourcis clavier &mdash; que vous pouvez même remplacer. Sélectionnez simplement **Help**les  >  **raccourcis clavier**de l’aide.
   
 ## <a name="merge-cells"></a>Merge cells
 
@@ -283,6 +287,10 @@ Non disponible dans Excel pour le Web. Si l'application Excel de bureau est inst
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
 Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie à votre ordinateur, utilisez la commande Enregistrer sous de l'onglet Fichier ou cliquez avec le bouton droit sur le nom du classeur dans son dossier, puis utilisez la commande Télécharger .
+
+## <a name="sensitivity-labels"></a>Étiquettes de confidentialité
+
+Gardez le contrôle de l’accès et de la sensibilité de vos documents en appliquant manuellement une étiquette ou en utilisant les étiquettes recommandées automatiquement de Microsoft.
   
 ## <a name="share"></a>Partager
 
@@ -291,14 +299,18 @@ Un seul clic suffit pour envoyer à vos collaborateurs un lien leur permettant d
 ## <a name="sheet-protection"></a>Protection des feuilles
 
 Lorsque vous partagez un fichier Excel avec d’autres utilisateurs, vous pouvez protéger une feuille de calcul pour éviter que des modifications y soient apportées, et vous pouvez choisir les actions que les utilisateurs de votre feuille de calcul sont autorisés à effectuer.
-  
-## <a name="slicer-viewing"></a>Affichage de segments
 
-Affichez les segments de votre feuille de calcul et filtrez vos données en sélectionnant les boutons de segment. Vous ne pouvez pas créer ni modifier des segments dans Excel pour le Web.
+## <a name="sheet-views"></a>Affichages Tableau
+
+Les [affichages Tableau](https://support.microsoft.com/office/sheet-views-in-excel-0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6) vous permettent de créer des affichages personnalisés d’une feuille de calcul Excel sans perturber les autres. Par exemple, vous pouvez configurer un filtre pour afficher uniquement les enregistrements qui vous intéressent, sans être affecté par les autres tris et filtrages dans le document. Vous pouvez même configurer plusieurs vues de feuille sur la même feuille de calcul.
+  
+## <a name="slicers"></a>Slicers
+
+Affichez les segments de votre feuille de calcul et filtrez vos données en sélectionnant les boutons de segment. Vous ne pouvez pas créer ni modifier des segments dans Excel pour le Web, mais vous pouvez supprimer des segments existants.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données (de haut en bas ou de gauche à droite, plusieurs niveaux) et explorer les détails des tableaux croisés dynamiques. En savoir plus sur le [Tri et le filtrage des données](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
+Dans Excel pour le Web, vous pouvez afficher et réorganiser toutes les feuilles de calcul, trier et filtrer les données (de haut en bas ou de gauche à droite, plusieurs niveaux) et explorer les détails des tableaux croisés dynamiques. Trier les données mises en forme de façon conditionnelle qui utilisent des jeux d’icônes ou des échelles de couleurs à l’aide de leurs icônes ou valeurs de couleur. En savoir plus sur le [Tri et le filtrage des données](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Audit et conformité de feuille de calcul
 
@@ -339,6 +351,10 @@ Affichez des graphiques 3D dans votre feuille de calcul. Vous ne pouvez pas cr�
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
 Non disponible dans Excel pour le Web. Vous pouvez afficher les résultats de l’analyse « What If » dans Excel pour le Web, comme prévu. Pour utiliser des outils d'analyse comme Valeur cible, Tables de données, Solveur et Série, vous devez disposer de l'application Excel de bureau. En savoir plus sur les [différences entre l'utilisation d'un classeur dans le navigateur et dans l'application Excel de bureau](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+
+## <a name="workbook-statistics"></a>Statistiques de classeur
+
+La fonctionnalité statistiques du classeur dénombre et identifie les éléments d’un classeur, ce qui vous permet de découvrir tout son contenu. Elle s’affiche sous l’onglet **révision** .
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

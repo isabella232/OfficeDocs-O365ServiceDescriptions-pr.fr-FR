@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, les centres de données allemands, la résidence des données en Allemagne et l’accès aux données et les mesures de contrôle strictes via un modèle de client approuvé unique
-ms.openlocfilehash: cdac821da552186f6ac2c82740b0acd0c7819311
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639812"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226263"
 ---
-# <a name="office-365-germany"></a>Office 365 Allemagne
+# <a name="office-365-germany"></a>Office 365 Allemagne
 
 Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, les centres de données allemands, la résidence des données en Allemagne et l’accès aux données et les mesures de contrôle strictes via un modèle de client approuvé unique
 
@@ -57,7 +57,7 @@ Pour connaître la configuration requise pour Office 365, reportez-vous à la pa
 
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Le centre &amp; de sécurité conformité est disponible pour Office 365 Germany. Pour plus d’informations et pour obtenir la liste des fonctionnalités, consultez [la rubrique Office 365 &amp; Security Compliance Center](office-365-securitycompliance-center.md).
+Le &amp; Centre de sécurité conformité est disponible pour Office 365 Germany. Pour plus d’informations et pour obtenir la liste des fonctionnalités, consultez [la rubrique Office 365 Security &amp; Compliance Center](office-365-securitycompliance-center.md).
 
 ### <a name="what-compliance-certificates-are-provided-for-office-365-germany"></a>Quels sont les certificats de conformité fournis pour Office 365 Germany ?
 
@@ -144,7 +144,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour de service](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Mises à jour du service](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu'une action est requise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Roadmap.office.com pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -194,7 +194,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 ## <a name="office-application-features"></a>Fonctionnalités de l’application Office  
 
 > [!NOTE]
-> Les plans Office 365 Germany incluent les applications logicielles clientes installées et exécutées sur l’appareil d’un utilisateur final (« applications logicielles clientes »), comme Office\*365 ProPlus, Office 2013 et Office 2016. Les applications logicielles clientes ne fonctionnent pas exclusivement dans les centres de données allemands et peuvent permettre à un utilisateur final d’accéder à des services en ligne qui ne sont pas des [services en ligne allemands](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Dans le cadre de votre contrat avec Microsoft, les applications logicielles clientes ne sont pas des services en ligne allemands. Les engagements concernant la résidence des données allemandes et le contrôle d’accès effectué par le client approuvé de données en Allemagne s’appliquent uniquement aux services en ligne allemands.<br/> \*Office 2013 pour Office 365 Germany nécessite [l’activation de l’authentification moderne](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
+> Les plans Office 365 Germany incluent les applications logicielles clientes installées et exécutées sur l’appareil d’un utilisateur final (« applications logicielles clientes »), comme Office 365 ProPlus, Office 2013 \* et office 2016. Les applications logicielles clientes ne fonctionnent pas exclusivement dans les centres de données allemands et peuvent permettre à un utilisateur final d’accéder à des services en ligne qui ne sont pas des [services en ligne allemands](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). Dans le cadre de votre contrat avec Microsoft, les applications logicielles clientes ne sont pas des services en ligne allemands. Les engagements concernant la résidence des données allemandes et le contrôle d’accès effectué par le client approuvé de données en Allemagne s’appliquent uniquement aux services en ligne allemands.<br/> \*Office 2013 pour Office 365 Germany nécessite [l’activation de l’authentification moderne](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
 
 Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalités dans les plans Office 365 Germany.
 
@@ -462,7 +462,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 <sup>6</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud local.<br/>
 <sup>7</sup> les règles de flux de messagerie (également appelées règles de transport) sont constituées de critères flexibles, qui vous permettent de définir les conditions, les exceptions et les actions à effectuer en fonction des critères. Les conditions, les exceptions et les actions disponibles diffèrent entre Exchange Online et Microsoft Exchange Server. Pour plus d’informations, reportez-vous aux rubriques correspondantes de chaque produit.<br/>
 <sup>8</sup> uniquement accessible via un accès direct à l’interface de gestion du centre d’administration Exchange. <br/>
-<sup>9</sup> Exchange Server 2013 utilise uniquement le moteur anti-programme malveillant de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes. <br/> <sup>10</sup> les comptes connectés sont pris en &amp; charge pour les comptes IMAP POP, mais sont désactivés pour Outlook.com (Hotmail). <br/>
+<sup>9</sup> Exchange Server 2013 utilise uniquement le moteur anti-programme malveillant de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes. <br/> <sup>10</sup> les comptes connectés sont pris en charge pour les &amp; comptes IMAP POP, mais sont désactivés pour Outlook.com (Hotmail). <br/>
 <sup>11</sup> un abonnement EOA peut être acheté séparément pour chaque boîte aux lettres nécessitant la fonctionnalité de boîte aux lettres inactive. <br/>
 <sup>12</sup> l’utilisation d’une cmdlet avec la liste d’adresses et la liste d’adresses globale n’est pas prise en charge. <br/>
 <sup>13</sup> requiert l’utilisation de l’espace d’adressage de disponibilité pour prendre en charge le partage avec d’autres clients. Pour plus d’informations sur la création d’un espace d’adressage de disponibilité, voir [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace?view=exchange-ps). <br/> <sup>14</sup> tableau indique si le client fonctionne ou non avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans.<br/>
@@ -495,7 +495,7 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection
 |[Mise en quarantaine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine) : autogestion par l'utilisateur final|Oui|Oui|Oui|
 |[Gouvernance des données avancée](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|Non|Oui|Oui|
 |[Office 365 Threat Intelligence](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|Non|Oui|Oui|
-|[Création de rapports de courrier indésirable dans Outlook sur le Web](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Oui<sup>8</sup>|N °<sup>8</sup>|N °<sup>8</sup>|
+|[Création de rapports de courrier indésirable dans Outlook sur le Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Oui<sup>8</sup>|N °<sup>8</sup>|N °<sup>8</sup>|
 |[Routage des courriers électroniques entre Microsoft et vos propres serveurs de messagerie](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Oui|Oui|Oui|
 |[Messagerie sécurisée avec un partenaire de confiance](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Oui|Oui|Oui|
 |[Saisie de l'adresse IP d'un partenaire sur une liste fiable](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Oui|Oui|Oui|
@@ -633,7 +633,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Prise en charge des normes d’accessibilité|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Améliorations de la bibliothèque de biens/prise en charge vidéo|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Audit|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|&amp; Création de rapports d’audit (par exemple, modifications de documents, modifications de stratégie, suppressions|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Création de &amp; rapports d’audit (par exemple, modifications de documents, modifications de stratégie, suppressions|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Content Organizer|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Design Manager|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Ensembles de documents|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|

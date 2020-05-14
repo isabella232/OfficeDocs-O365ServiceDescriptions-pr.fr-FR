@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 894087ac6d25bf64d36f6a047239072ec2897a18
-ms.sourcegitcommit: dc3ce02268eeeb6de29e61276b5572e0633940bf
+ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
+ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43800620"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44226253"
 ---
-# <a name="office-365-operated-by-21vianet"></a>Office 365 géré 21Vianet
+# <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
 Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
 
@@ -96,7 +96,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Office Delve|Non|Non|Non|Non|Non|Non|Non|
 |Groupes Office 365|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |Office 365 Video|Non|Non|Non|Oui|Oui|Oui|Oui<sup>2</sup>|
-|Bloc-notes OneNote pour la classe|Non|Non|Non|Oui<sup>15<sup>|Non|Non|Non|
+|Bloc-notes OneNote pour la classe|Non|Non|Non|Oui <sup> 15<sup>|Non|Non|Non|
 |**[MManagement de compte d’utilisateur](user-account-management.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
 |Identité Cloud, identité fédérée ou authentification multifacteur<sup>14</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Configuration du bureau Office 365|Non|Non|Non|Non|Non|Non|Non|
@@ -154,7 +154,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour de service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
+|**[Mises à jour du service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu’une action est requise, qu’un problème est résolu, que les fonctionnalités sont déployées ou que les modifications apportées à votre service|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|
@@ -221,7 +221,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 ||||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Fonctionnalité**|**Office Professionnel Plus 2013 géré par 21Vianet**|**Office Professionnel Plus 2016 géré par 21Vianet**|**Office 365 ProPlus géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
-|**Applications Office**|||||||||||
+|**Applications Office**|||||||||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Oui|Oui|Oui|Oui|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Oui|Oui|Oui|Oui|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Oui|Oui|Oui|Oui|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
@@ -430,7 +430,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 <br/><sup>10</sup> l’Assistant Configuration hybride est disponible pour les déploiements Exchange 2013 CU5 et versions ultérieures. Toutefois, certaines fonctionnalités hybrides ont des limitations : consultez la rubrique d’aide. Pour plus d’informations, consultez la rubrique [Office 365 géré par 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
 <br/><sup>11</sup> pour Office 365 géré par 21Vianet, LinkedIn est disponible, mais pas Facebook.
 <br/><sup>12</sup> le programme d’installation de déploiement hybride est disponible via l’Assistant Configuration hybride pour Exchange 2013 CU5 ou peut être configuré manuellement si vous disposez d’Exchange 2013 SP1. Pour plus d’informations, consultez la rubrique d’aide intitulée [Office 365 géré par 21ViaNet](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet).
-<br/><sup>13</sup> les comptes connectés sont pris en &amp; charge pour les comptes IMAP POP, mais sont désactivés pour Outlook.com (Hotmail).
+<br/><sup>13</sup> les comptes connectés sont pris en charge pour les &amp; comptes IMAP POP, mais sont désactivés pour Outlook.com (Hotmail).
 <br/><sup>14</sup> l’utilisation d’une cmdlet avec la liste d’adresses et la liste d’adresses globale n’est pas prise en charge.
 <br/><sup>15</sup> les fonctionnalités actuelles de chiffrement des messages (OME) d’Office 365 sont une évolution de la gestion des droits relatifs à l’information (IRM) et des solutions OME précédentes. Pour plus d’informations sur OME, consultez la rubrique [Office 365 message Encryption FAQ](https://docs.microsoft.com/microsoft-365/compliance/ome-faq).
 
@@ -491,8 +491,8 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection
 |[Personnalisation des stratégies anti-programme malveillant](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#customize-anti-malware-policies)|Oui|Oui|
 |[Mise en quarantaine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine) : gestion par l'administrateur|Oui|Oui|
 |[Mise en quarantaine](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine) : autogestion par l'utilisateur final|Oui|Oui|
-|[Complément de message de rapport pour Outlook](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Oui|Oui|
-|[Création de rapports de courrier indésirable dans Outlook sur le Web](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|N °<sup>7</sup>|N °<sup>7</sup>|
+|[Complément de message de rapport pour Outlook](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Oui|Oui|
+|[Création de rapports de courrier indésirable dans Outlook sur le Web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|N °<sup>7</sup>|N °<sup>7</sup>|
 |[Routage des courriers électroniques entre Microsoft et vos propres serveurs de messagerie](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Oui|Oui|
 |[Messagerie sécurisée avec un partenaire de confiance](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Oui|Oui|
 |[Saisie de l'adresse IP d'un partenaire sur une liste fiable](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Oui|Oui|
@@ -652,7 +652,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 |Prise en charge des normes d’accessibilité|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Améliorations de la bibliothèque de biens/prise en charge vidéo|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Audit|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|&amp; Création de rapports d’audit (par exemple, modifications de documents, modifications de stratégie, suppressions)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Création de &amp; rapports d’audit (par exemple, modifications de documents, modifications de stratégie, suppressions)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Content Organizer|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |Design Manager|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |Ensembles de documents|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
