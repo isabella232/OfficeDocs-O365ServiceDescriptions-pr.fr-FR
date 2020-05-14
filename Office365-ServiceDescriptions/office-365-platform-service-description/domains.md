@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Lorsque vous ajoutez un domaine, un assistant étape par étape vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services en nom professionnel. Lorsque vous avez terminé l’Assistant, votre courrier professionnel commence à Microsoft au lieu de passer à votre fournisseur de messagerie actuel. Pour plus d’informations, consultez la rubrique ajouter des utilisateurs et des domaines à Microsoft. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la vérification de votre domaine.
-ms.openlocfilehash: 3e1cfad656de569aac0d3e5bab281789cb408547
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: f0b5b47239c73f85b5a6e42aa724b5b554fa3e72
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638862"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044826"
 ---
 # <a name="domains"></a>Domaines
 
@@ -49,7 +49,7 @@ Pour plus d’informations, consultez la rubrique relative à [la gestion des en
   
 ## <a name="sharing-a-domain"></a>Partage d’un domaine
 
-Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microsoft et d’autres sur votre fournisseur de messagerie précédent. Cette option est recommandée pour une utilisation au cours d’un projet pilote, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services Microsoft. Si vous souhaitez en savoir plus, consultez les articles : 
+Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microsoft et d’autres sur votre fournisseur de messagerie précédent. Cette option est recommandée pour une utilisation au cours d’un projet pilote, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services Microsoft. Pour plus d’informations, voir :
   
 - [Pilote Microsoft 365 pour une petite entreprise](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
@@ -57,6 +57,6 @@ Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microso
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans d’entreprise, les options autonomes et les solutions locales de Microsoft 365, voir [Description du service de plateforme Office 365](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les plans d’entreprise, les options autonomes et les solutions locales de Microsoft 365, voir [microsoft 365 et Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 
