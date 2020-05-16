@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: Le centre &amp; de sécurité conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: Le centre de sécurité &amp; conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001990"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267323"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Le [Centre &amp; de sécurité conformité](https://protection.office.com/) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
+Le [Centre de sécurité &amp; conformité](https://protection.office.com/) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
@@ -30,7 +30,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité**  |**Microsoft 365 entreprise Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 entreprise E1**, **Office 365 gouvernement américain G1**  |**Office 365 entreprise E3**, **Office 365 gouvernement américain G3**  |**Office 365 Entreprise E5**  |**Office 365 entreprise F3**  **Office 365 gouvernement américain F3**|
+|**Fonctionnalité**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 entreprise E1**, **Office 365 gouvernement américain G1**  |**Office 365 entreprise E3**, **Office 365 gouvernement américain G3**  |**Office 365 Entreprise E5**  |**Office 365 entreprise F3**  **Office 365 gouvernement américain F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non|Non   |Non   |Oui   |
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) comme le filtrage de la messagerie et la protection contre les programmes malveillants |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
@@ -38,7 +38,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Non   |Non   |Non   |Non   |Oui   |Oui   |Non   |
-|[Protection contre la perte de données de communication pour Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Non   |Non   |Non   |Non   |Oui   |Non  |
+|[Protection contre la perte de données de communication pour Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Non   |Non   |Non   |Non   |Non   |Oui  |
 |[Étiquettes de désensibilité manuelle](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
 |Étiquettes de sensibilité automatique| Non | Non  |Non  | Non | Non | Oui<sup>13</sup> | Non  |
 |[Obstacles aux informations](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non  |
@@ -53,8 +53,8 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Audit de base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Oui   |Oui   |Oui|Oui   |Oui   |Oui   |Oui   |
 |[Audit avancé](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Conformité de la communication (stratégies de supervision)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
-|[Chiffrement de messages Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
-|[Chiffrement de messages avancé Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
+|[Office 365 message Encryption (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Non   |Non   |Non   |Non   |Oui  |Oui   |Non   |
+|[Chiffrement de messages avancé Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Non   |Non   |Non   |Non   |Non |Oui   |Non   |
 |[Gestion des accès privilégiés](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Clé client](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |||||||||
