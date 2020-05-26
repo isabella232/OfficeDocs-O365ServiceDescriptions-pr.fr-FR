@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213650"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356892"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -29,7 +29,7 @@ Pour référence, nous avons inclus cette table principale des abonnements qui p
 |:-----|:-----|:-----|:-----|
 |**Offres pour les petites entreprises** <br/> |**Plans d’entreprise** <br/> |**Plans d’éducation** <br/> |**Plans de développement** <br/> |
 |Microsoft 365 Business Basic  <br/> |Office 365 Entreprise E1  <br/> |Office 365 Éducation  <br/> |Développeur Office 365  <br/> |
-|Microsoft 365 Business Standard  <br/> |Office 365 Entreprise E3  <br/> |Office 365 Éducation Plus  <br/> |   <br/> |
+|Microsoft 365 Business Standard  <br/> |Office 365 Entreprise E3  <br/> |Office 365 Éducation Plus  <br/> |   <br/> |
 |Microsoft 365 pour les entreprises  <br/> |Office 365 entreprise E4 (obsolète)  <br/> |Office 365 éducation E3 (retiré)  <br/> |  <br/> |
 |  <br/> |Office 365 Entreprise E5  <br/> |Office 365 Éducation E5  <br/> |  <br/> |
 |  <br/> |Office 365 Entreprise F1  <br/> |  <br/> |  <br/> |
@@ -52,7 +52,7 @@ Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams da
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | <br/>|**Petite entreprise** <br/> |**Plans d’entreprise** <br/> |**GCC** <br/> |**GCC-High** <br/> |**DOD** <br/> |**Enseignement** <br/> |
 |Conversation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
+|Équipes  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
 |Canaux-standard  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |Oui  <br/> |
 |Meetings  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -60,7 +60,7 @@ Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams da
 |Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Audioconférence  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Applications, robots, connecteurs &  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>4</sup>  <br/> |Oui<sup>4</sup>  <br/> |Oui<sup>4</sup>  <br/> |Oui  <br/> |
-|Événements en direct  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>5</sup>  <br/> |N °<sup>5</sup>  <br/> |Oui  <br/> |
+|Événements en direct  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>5</sup>  <br/> |N °<sup>5</sup>  <br/> |Oui  <br/> |
 
 <sup>1</sup> Microsoft teams de GCC-High et DoD prennent en charge 2500 membres d’une équipe individuelle.<br/>
 <sup>2</sup> le planificateur Microsoft n’est pas disponible actuellement pour accéder aux canaux privés.<br/>
