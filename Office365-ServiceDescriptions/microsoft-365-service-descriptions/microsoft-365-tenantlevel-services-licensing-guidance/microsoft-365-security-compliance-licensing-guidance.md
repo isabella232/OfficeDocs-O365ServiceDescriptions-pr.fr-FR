@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
-ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
+ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
+ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44408924"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44412693"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -179,7 +179,7 @@ Les utilisateurs ont la possibilité d’appliquer manuellement des étiquettes 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-Microsoft 365 E5/a5/G5/E3/a3/G3/F1/F3/entreprise, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/a5/E3/a3/F3, AIP plan 1 et AIP plan 2 fournissent les droits permettant à un utilisateur de tirer parti de l’étiquetage de la sensibilité manuelle.
+Microsoft 365 E5/a5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/a5/E3/a3/F3, AIP plan 1 et AIP plan 2 fournissent les droits permettant à un utilisateur de tirer parti de l’étiquetage de la sensibilité manuelle.
 
 Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Compliance, Microsoft 365 information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 et AIP plan 2 fournissent les droits permettant à un utilisateur de tirer parti de l’étiquetage de la sensibilité automatique.
 
