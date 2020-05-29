@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
+ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267333"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44408924"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -30,7 +30,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
-Azure Active Directory Identity Protection (AADIP) est une fonctionnalité du plan Azure Active Directory Premium P2 qui vous permet de détecter les vulnérabilités potentielles affectant les identités de votre organisation, de configurer des réponses automatiques pour détecter les actions suspectes liées aux identités de votre organisation et d’examiner les incidents suspects et de prendre les mesures appropriées pour les résoudre.
+La protection des identités Azure Active Directory est une fonctionnalité du plan Azure Active Directory Premium P2 qui vous permet de détecter les vulnérabilités potentielles affectant les identités de votre organisation, de configurer des réponses automatiques pour détecter les actions suspectes liées aux identités de votre organisation et d’examiner les incidents suspects et de prendre les mesures appropriées pour les résoudre.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -42,11 +42,11 @@ Enterprise Mobility + Security E5/a5, Microsoft 365 E5/a5, Microsoft 365 E5/a5 S
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Par défaut, les fonctionnalités AADIP sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur AADIP, voir [qu’est-ce que Azure Active Directory Identity Protection ?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+Par défaut, les fonctionnalités de protection des identités Azure AD sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur Azure AD Identity Protection, voir [qu’est-ce que Azure Active Directory Identity Protection ?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent définir l’étendue AADIP en affectant des stratégies de risque qui définissent le niveau des réinitialisations de mot de passe et autorisent l’accès aux utilisateurs sous licence uniquement. Pour obtenir des instructions sur l’étendue des déploiements AADIP, consultez [la rubrique Configure the sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
+Les administrateurs peuvent étendre la protection des identités Azure AD en affectant des stratégies de risque qui définissent le niveau des réinitialisations de mot de passe et autorisent l’accès aux utilisateurs sous licence uniquement. Pour obtenir des instructions sur l’étendue des déploiements Azure AD Identity Protection, consultez [la rubrique Configure the sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
 ## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
