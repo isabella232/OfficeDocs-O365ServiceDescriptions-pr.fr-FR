@@ -9,21 +9,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de communication et de collaboration de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise&mdash;Online pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: eeb5c721c57948dcbce2eb9fa952b0b89c6d3c3d
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de communication et de collaboration de nouvelle génération de Microsoft, &mdash; y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online &mdash; pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
+ms.openlocfilehash: 4287d96e0f169196ad612d247da257df469d9e8a
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044996"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429129"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
-Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services&mdash;de communication et de collaboration de nouvelle génération de Microsoft, y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise&mdash;Online pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
+Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de communication et de collaboration de nouvelle génération de Microsoft, &mdash; y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online &mdash; pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
   
 Cet article répertorie les fonctionnalités des plans Office 365 éducation (a1, a3 et a5). Pour comparer les fonctionnalités des différents plans commerciaux et d’entreprise, reportez-vous à la rubrique [compare Office 365 for business plans](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée sous les [descriptions de service Microsoft 365 et Office 365](../office-365-service-descriptions-technet-library.md).
   
-Pour rechercher des articles et des informations de support technique, consultez la rubrique [formation sur Office Help &amp; ](https://support.office.com/).
+Pour rechercher des articles et des informations de support technique, consultez la rubrique [ &amp; formation sur Office Help](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilité des services pour chaque plan
 
@@ -141,7 +141,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -161,7 +161,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Advanced eDiscovery<sup>7</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Score de sécurité<sup>5</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Intelligence des menaces  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
-|**[Conformité](compliance-servicedesc.md)** <br/> ||||
+|**[Conformité](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||
 |Évaluations SAS 70 / SSAE16  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Certification ISO 27001  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Clauses types de l'UE  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -191,9 +191,9 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 <sup>9</sup> pour plus d’informations, reportez-vous à la rubrique [MyAnalytics plans and Environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
 <sup>10</sup> le message de briefing est fourni automatiquement à tous les utilisateurs d’Exchange Online. Pour plus d’informations, consultez [la rubrique Configure the Briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
 
-## <a name="security-amp-compliance-center-features"></a>Fonctionnalités &amp; du centre de sécurité conformité
+## <a name="security-amp-compliance-center-features"></a>Fonctionnalités du centre de sécurité &amp; conformité
 
-Le [Centre &amp; de sécurité conformité](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+Le [Centre de sécurité &amp; conformité](https://docs.microsoft.com/microsoft-365/compliance/go-to-the-securitycompliance-center) est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 

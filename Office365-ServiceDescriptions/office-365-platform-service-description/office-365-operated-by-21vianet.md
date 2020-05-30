@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226253"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429109"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -176,7 +176,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |eDiscovery (découverte électronique) avancée|Non|Non|Non|Non|Non|Non|Non|
 |Secure Score<sup>4</sup>|Non|Non|Non|Non|Non|Non|Non|
 |Intelligence des menaces|Non|Non|Non|Non|Non|Non|Non|
-|**[Conformité](compliance-servicedesc.md)**||||||||
+|**[Conformité](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |Évaluations SAS 70 / SSAE16|Non|Non|Non|Non|Non|Non|Non|
 |Certification ISO 27001|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Clauses types de l'UE|Non|Non|Non|Non|Non|Non|Non|

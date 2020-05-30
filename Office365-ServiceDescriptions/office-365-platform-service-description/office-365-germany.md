@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, les centres de données allemands, la résidence des données en Allemagne et l’accès aux données et les mesures de contrôle strictes via un modèle de client approuvé unique
-ms.openlocfilehash: f9d28a459885da3e5101143c6940dc6d641452e2
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: bc4825c38eac63b3dc4acbebcf42b05d46346f5c
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226263"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429119"
 ---
 # <a name="office-365-germany"></a>Office 365 Allemagne
 
@@ -162,7 +162,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Référentiel sécurisé client|Non|Non|Non|Non|Non|Non|Oui|Non|
 |eDiscovery (découverte électronique) avancée|Non|Non|Non|Non|Non|Non|Non|Non|
 |Secure Score|Non|Non|Non|Non|Non|Non|Non|Non|
-|**[Conformité](compliance-servicedesc.md)**<sup>9</sup>|||||||||
+|**[Conformité](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**<sup>9</sup>|||||||||
 |Évaluations SAS 70 / SSAE16|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Certification ISO 27001|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Clauses types de l'UE|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
