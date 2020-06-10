@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356892"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679581"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
 Microsoft teams est le Hub pour le travail d’équipe dans Microsoft 365. Le service teams permet des fonctions de messagerie instantanée, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues. En outre, teams offre des fonctionnalités de collaboration et de fichier de données et d’extensibilité, et s’intègre à Microsoft 365 et à d’autres applications Microsoft et partenaires.
 
-Skype entreprise Online sera retiré le 31 juillet 2021, [annoncé](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) le 30 juillet 2019... Microsoft teams est un service entièrement nouveau, conçu pour le nuage dès le départ en tirant parti d’Azure et d’autres innovations de service de Microsoft. Microsoft teams est basé sur les groupes Office 365, Microsoft Graph et les mêmes sécurité, conformité et gestion au niveau de l’entreprise que le reste d’Office 365. Teams exploite les identités stockées dans Azure Active Directory (Azure AD). Ces services sont fournis par les centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils à l’intérieur d’un réseau d’entreprise ou sur Internet. Pour plus d’informations, consultez les [affiches architecture informatique de Microsoft teams et solutions de téléphonie](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
+Skype entreprise Online sera retiré le 31 juillet 2021, [annoncé](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) le 30 juillet 2019... Microsoft teams est un service entièrement nouveau, conçu pour le nuage dès le départ en tirant parti d’Azure et d’autres innovations de service de Microsoft. Microsoft teams est basé sur les groupes Microsoft 365, Microsoft Graph et les mêmes fonctions de sécurité, de conformité et de gérabilité au niveau de l’entreprise que le reste d’Office 365. Teams exploite les identités stockées dans Azure Active Directory (Azure AD). Ces services sont fournis par les centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils à l’intérieur d’un réseau d’entreprise ou sur Internet. Pour plus d’informations, consultez les [affiches architecture informatique de Microsoft teams et solutions de téléphonie](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
 
 Microsoft conserve la sécurité de vos données et l' [accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, consultez le centre de gestion de la [confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 

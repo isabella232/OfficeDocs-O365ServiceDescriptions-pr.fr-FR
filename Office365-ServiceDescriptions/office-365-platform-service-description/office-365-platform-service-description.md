@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux.
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429069"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679571"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Description des services de la plateforme Microsoft 365 et Office 365
 
@@ -43,9 +43,9 @@ Office 365 est disponible dans le cadre de différents plans destinés à répo
   
 Pour en savoir plus sur les licences en volume, consultez [la rubrique conditions de licence et documentation](https://go.microsoft.com/fwlink/?linkid=848696).
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Offres et tarifs de Microsoft 365 et Office 365 pour les AssociationSet
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Offres et tarifs Microsoft 365 et Office 365 pour les organisations à but non lucratif
 
-Pour les organisations qui sont éligibles à des plans d’assurance pour Microsoft 365 ou Office 365, ces plans incluent exactement les mêmes fonctionnalités que les plans d’activité correspondants (par exemple, Office 365 impropres E5 inclut les mêmes fonctionnalités qu’Office 365 E5). La seule différence entre les offres équivalentes est le prix. Pour plus d’informations sur les offres Microsoft 365 et Office 365 [pour les organisations à](https://go.microsoft.com/fwlink/?LinkID=786641)but non lucratif, voir [compare Microsoft 365 and Office 365](https://go.microsoft.com/fwlink/?LinkID=627221)pour les organisations à but non lucratif.
+Pour les organisations qui bénéficient des plans Microsoft 365 et Office 365 pour les organisations à but non lucratif, ces plans incluent exactement les mêmes fonctionnalités que les plans d’activité correspondants (par exemple, Office 365 E5 pour les organisations à but non lucratif inclut les mêmes fonctionnalités qu’Office 365 E5). La seule différence entre les offres équivalentes est le prix. Pour plus d’informations sur les plans Microsoft 365 et Office 365 pour les organisations à but non lucratif, consultez les [offres comparant microsoft 365 et office 365 offres pour les](https://go.microsoft.com/fwlink/?LinkID=627221)organisations à but non lucratif et les [solutions de productivité pour les organisations à but non lucratif](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Configuration requise
 
@@ -83,7 +83,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
     
 - Administration américaine : [Offres Office 365 pour l'administration américaine](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- Organismes à but non lucratif : [comparer Microsoft 365 et Office 365 des offres caritatives](https://go.microsoft.com/fwlink/?LinkID=733237)
+- Organismes à but non lucratif : [Comparez Microsoft 365 et Office 365 offres pour les organisations à](https://go.microsoft.com/fwlink/?LinkID=733237) but non lucratif
 
 - Office 365 Germany : [Offres Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
