@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679581"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711144"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -25,14 +25,17 @@ Microsoft conserve la sécurité de vos données et l' [accessibilité](https://
 
 Pour référence, nous avons inclus cette table principale des abonnements qui permettent aux utilisateurs de Microsoft Teams. Pour obtenir des informations détaillées sur les plans, consultez [la rubrique trouver le bon Microsoft teams pour votre entreprise](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Pour plus d’Office 365 dans les plans gouvernementaux, consultez la rubrique [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 via G5 incluent l’accès aux fonctionnalités de teams.
 
-|||||
+|||||||||
 |:-----|:-----|:-----|:-----|
 |**Offres pour les petites entreprises** <br/> |**Plans d’entreprise** <br/> |**Plans d’éducation** <br/> |**Plans de développement** <br/> |
-|Microsoft 365 Business Basic  <br/> |Office 365 Entreprise E1  <br/> |Office 365 Éducation  <br/> |Développeur Office 365  <br/> |
-|Microsoft 365 Business Standard  <br/> |Office 365 Entreprise E3  <br/> |Office 365 Éducation Plus  <br/> |   <br/> |
-|Microsoft 365 pour les entreprises  <br/> |Office 365 entreprise E4 (obsolète)  <br/> |Office 365 éducation E3 (retiré)  <br/> |  <br/> |
-|  <br/> |Office 365 Entreprise E5  <br/> |Office 365 Éducation E5  <br/> |  <br/> |
-|  <br/> |Office 365 Entreprise F1  <br/> |  <br/> |  <br/> |
+|Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Développeur Office 365 <br/> |
+|Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
+|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
+|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
 Pour obtenir des conseils détaillés sur l’implémentation des fonctionnalités du produit, consultez la [documentation d’administration de Microsoft teams](https://docs.microsoft.com/MicrosoftTeams). Cette description de service décrit les principales différences entre les services fournis dans les différentes installations Cloud. Les fonctionnalités principales de Microsoft Teams ne diffèrent pas des abonnements. La disponibilité des fonctionnalités de conformité dépend de votre niveau d’abonnement. Pour en savoir plus, consultez [la rubrique sécurité et conformité dans Microsoft teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Pour obtenir la liste détaillée des fonctionnalités disponibles dans chaque abonnement, consultez la rubrique [Microsoft 365 et Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
@@ -52,7 +55,7 @@ Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams da
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | <br/>|**Petite entreprise** <br/> |**Plans d’entreprise** <br/> |**GCC** <br/> |**GCC-High** <br/> |**DOD** <br/> |**Enseignement** <br/> |
 |Conversation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Équipes  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
+|Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
 |Canaux-standard  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |Oui  <br/> |
 |Meetings  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |

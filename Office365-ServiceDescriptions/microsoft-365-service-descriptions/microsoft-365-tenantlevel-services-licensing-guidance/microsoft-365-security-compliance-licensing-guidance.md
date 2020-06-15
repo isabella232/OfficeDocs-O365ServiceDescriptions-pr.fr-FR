@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
-ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
+ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44524177"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711134"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -68,7 +68,7 @@ Par défaut, les fonctionnalités Azure ATP sont activées au niveau du client p
 
 Les services ATP Azure ne sont actuellement pas en mesure de limiter les fonctionnalités à des utilisateurs spécifiques. Vous devez accorder une licence à chaque utilisateur que vous envisagez de bénéficier.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365-Protection avancée contre les menaces
+## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -188,9 +188,7 @@ Microsoft 365 E5/a5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 
 Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Compliance, Microsoft 365 information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 et AIP plan 2 fournissent les droits permettant à un utilisateur de tirer parti de l’étiquetage de la sensibilité automatique.
 
-Pour obtenir des droits spécifiques par licence, reportez-vous au [document Microsoft 365 Compliance Licensing Comparison (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
-
-N’inclut pas de droits à la classification automatique basée sur l’apprentissage de machine (classifieur de formation).
+Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) N’inclut pas de droits à la classification automatique basée sur l’apprentissage de machine (classifieur de formation).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -218,7 +216,7 @@ Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformité, Microsoft 365 information 
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance permet à un utilisateur de tirer parti de l’application automatique d’étiquettes de rétention basées sur des classifieurs avec apprentissage.
 
-Pour obtenir des droits spécifiques par licence, reportez-vous au [document Microsoft 365 Compliance Licensing Comparison (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 N’inclut pas de droits à la rétention automatique basée sur l’apprentissage automatique (classifieur).
 
@@ -240,7 +238,7 @@ Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information P
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance permet à un utilisateur de bénéficier de l’application automatique d’étiquettes de rétention ou d’enregistrement basées sur des classifieurs formés.
 
-Pour obtenir des droits spécifiques par licence, reportez-vous au [document Microsoft 365 Compliance Licensing Comparison (PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
