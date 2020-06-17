@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux.
-ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: 47c1c475204f891c69f327bd8008931685df898b
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679571"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768130"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Description des services de la plateforme Microsoft 365 et Office 365
 
@@ -103,7 +103,8 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics<sup>20</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft Planner  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft PowerApps  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |
+|Microsoft PowerApps  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> | 
+|Microsoft Project pour le site Web <sup>23</sup> <br/> |Oui <br/> |Non <br/>|Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> | Oui <br/> |
 |Microsoft StaffHub  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Stream  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui,<sup>17</sup> <br/> |
 |Microsoft Sway  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |
@@ -226,3 +227,4 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 <br/><sup>20</sup> pour plus d’informations, consultez la rubrique [MyAnalytics plans and Environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>21</sup> inclut les fonctionnalités Azure Active Directory décrites dans la rubrique **Office 365 Apps** Column sur la page [prix Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Vous devez ajouter l’Azure Active Directory plan 1 ou plan 2, la sécurité mobile de l’entreprise ou Microsoft 365 E3 ou E5 pour obtenir les fonctionnalités de Premium Azure AD.<br/>
 <sup>22</sup> le message de briefing est fourni automatiquement à tous les utilisateurs d’Exchange Online. Pour plus d’informations, consultez la rubrique [configure Briefing mail](https://docs.microsoft.com/Briefing/be-admin).<br>
+<sup>23</sup> pour plus d’informations sur les fonctionnalités, consultez la rubrique [Description du service Microsoft Project](../project-online-service-description/project-online-service-description.md). Les utilisateurs bénéficient d’un accès limité à Project pour le Web. L’utilisation de ces droits est restreinte uniquement avec le projet pour l’application Web et uniquement pour les clients disposant d’une licence plan 1, Project Plan 3 ou Project plan 5. Ces droits n’accordent pas l’accès aux applications de plateforme Power ou à d’autres ensembles de données, Project Online Desktop Client ou Project online.

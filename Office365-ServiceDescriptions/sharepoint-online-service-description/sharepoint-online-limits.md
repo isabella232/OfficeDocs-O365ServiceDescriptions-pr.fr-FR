@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
+ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356882"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "44768110"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -25,7 +25,7 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365.
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Microsoft 365 Business Basic ou Business Premium** <br/> |**Office 365 entreprise E1, E3 ou E5, ou SharePoint plan 1 ou 2** <br/> | **Office 365 Entreprise F3** <br/> |
-|Stockage total par organisation<sup>1, 2, 6</sup> <br/> |1 to plus 10 Go par licence achetée  <br/> |1 to plus 10 Go par licence achetée<sup>3</sup> <br/> |1 to<sup>3</sup> <br/> |
+|Stockage total par organisation<sup>1, 2, 6</sup> <br/> |1 to plus 10 Go par licence achetée  <br/> |1 to plus 10 Go par licence achetée<sup>3</sup> <br/> |10 Go plus 2 Go par licence achetée<sup>3</sup> <br/> |
 |Stockage maximal par site (collection de sites)<sup>4</sup><br/> |25 TO <br/> |25 TO <br/> |25 to<sup>5</sup> <br/> |
 |Sites (collections de sites) par organisation  <br/> |2 millions<sup>6</sup> <br/> |2 millions<sup>6</sup> <br/> |2 millions<br/> |
 |Nombre d'utilisateurs.  <br/> |Jusqu'à 300  <br/> |1 - 500 000<sup>7</sup> <br/> |1 - 500 000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ La limite prise en charge est de 50 000, mais la limite générale recommandée 
 
 ### <a name="file-size-and-file-path-length"></a>Taille du fichier et longueur du chemin d’accès du fichier
 
-15 GO. La taille maximale des fichiers joints aux éléments de liste est de 250 Mo. Pour en savoir plus sur les restrictions et les limites liées à l’utilisation de la nouvelle application de synchronisation OneDrive (OneDrive. exe), voir [noms de fichiers et types de fichiers non valides](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+15 GO. La taille maximale des fichiers joints aux éléments de liste est de 250 Mo. Pour en savoir plus sur les restrictions et les limites liées à l’utilisation de la nouvelle application de synchronisation OneDrive (OneDrive.exe), voir [noms de fichiers et types de fichiers non valides](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 ### <a name="moving-and-copying-across-sites"></a>Transfert et copie sur plusieurs sites
 
@@ -63,7 +63,7 @@ La limite prise en charge est de 50 000, mais la limite générale recommandée 
 
 **Nouvelle application de synchronisation OneDrive** : pour des performances optimales, nous vous recommandons de ne pas stocker plus de 300 000 fichiers dans toutes les bibliothèques de documents synchronisées, même si vous utilisez des fichiers à la demande ou si vous choisissez uniquement certains dossiers dans les bibliothèques à synchroniser.
 
-**Ancienne application de synchronisation OneDrive entreprise (Groove. exe)** : vous pouvez synchroniser jusqu’à 20 000 éléments au total dans toutes les bibliothèques synchronisées. Cela inclut les bibliothèques OneDrive, les bibliothèques de sites d’équipe, ou les deux. Indépendamment de la limite de synchronisation globale, le nombre d’éléments pouvant être synchronisés pour chaque type de bibliothèque est limité :
+**Ancienne application de synchronisation OneDrive entreprise (Groove.exe)** : vous pouvez synchroniser jusqu’à 20 000 éléments au total dans toutes les bibliothèques synchronisées. Cela inclut les bibliothèques OneDrive, les bibliothèques de sites d’équipe, ou les deux. Indépendamment de la limite de synchronisation globale, le nombre d’éléments pouvant être synchronisés pour chaque type de bibliothèque est limité :
 
    - Vous pouvez synchroniser jusqu’à 20 000 éléments dans une bibliothèque OneDrive. Cela inclut les dossiers et les fichiers. 
    - Vous pouvez synchroniser jusqu’à 5 000 éléments dans une bibliothèque SharePoint. Cela inclut les dossiers et les fichiers. Il s’agit des bibliothèques que vous trouvez sur différents sites SharePoint, telles que les sites d’équipe et les sites communautaires, les bibliothèques créées par d’autres personnes ou celles que vous avez créées à partir de votre page de sites. Vous pouvez synchroniser plusieurs bibliothèques SharePoint. Tous les sites d’équipe que vous synchronisez sont également décomptés par rapport à la limite globale de 20 000 des éléments dans toutes les bibliothèques synchronisées.
