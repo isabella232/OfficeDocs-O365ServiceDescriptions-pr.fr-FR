@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: f9887a0d2b408a5b9faed0f322ea1b71ff642217
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 402d755368d7a83996b2f1d7254f6b4defcdb3d6
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226193"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820602"
 ---
 # <a name="microsoft-365-suite-features"></a>Fonctionnalités de la suite Microsoft 365
 
@@ -57,11 +57,15 @@ MyAnalytics fournit des informations sur deux des facteurs clés de votre produc
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner est un outil qui offre aux utilisateurs un moyen visuel pour organiser le travail d'équipe. Les équipes peuvent créer des plans, organiser et affecter des tâches, partager des fichiers, discutez de ce sur quoi ils travaillent, définir des dates d'échéance et mettre à jour les statuts des tâches. Microsoft Planner offre également la possibilité d'associer des documents à des tâches spécifiques, de les modifier simultanément et de tenir des conversations autour des tâches. Pour plus d'informations, voir [Présentation de Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
+Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
 Microsoft PowerApps est un service d’entreprise qui vous permet de créer, intégrer et partager rapidement des applications qui fonctionnent sur n’importe quel appareil. PowerApps vous permet d’utiliser des connexions intégrées ou celles créées par votre entreprise pour connecter votre application à des services sur le Cloud et sur site, notamment Microsoft 365 et Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de données Oracle et bien plus encore. Vous pouvez facilement partager votre instance PowerApps avec vos collègues en saisissant directement une adresse de messagerie. Pour plus d'informations, accédez au [site web de Microsoft PowerApps](https://powerapps.microsoft.com/).
+
+## <a name="microsoft-project-for-the-web"></a>Microsoft Project pour le Web
+
+Project pour le Web est l’offre Microsoft la plus récente pour le travail informatique et la gestion de projet. Project pour le Web fournit des fonctionnalités de gestion des tâches simples et puissantes pour répondre à la plupart des besoins et des rôles. Les chefs de projet et les membres de l’équipe peuvent utiliser Project pour le Web pour planifier et gérer le travail de n’importe quelle taille. Pour en savoir plus, accédez au [site Web Microsoft Project](https://aka.ms/MicrosoftProject).
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
@@ -75,7 +79,7 @@ Microsoft Stream est un service vidéo d’entreprise que les membres de votre o
 
 Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu’à vos collègues, de formuler des idées à l’aide d’un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d’une mise en forme ou d’une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l’apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n’importe quel navigateur de n’importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d’extraire tous les types de contenu sans quitter l’application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft teams est un espace de travail centré sur la conversation qui permet aux membres d’une équipe de se rapprocher davantage. Microsoft teams sert de Hub pour le travail d’équipe, offrant un accès instantané aux conversations, au contenu et aux outils de conversation dans un seul espace de travail. SharePoint et OneNote sont intégrés, et les membres de l'équipe peuvent travailler sur des documents Office directement dans l'application. À part les conversations, Microsoft teams prend également en charge les réunions et les appels vidéo pour permettre aux équipes de répondre aux besoins en direct, à la demande ou planifiés. Les utilisateurs peuvent facilement collaborer avec plusieurs équipes et effectuer des recherches parmi des personnes, des conversations et des fichiers à tout moment. Microsoft teams fonctionne sur les plateformes Windows, Mac, Web, Android et iOS. Pour en savoir plus, consultez la rubrique [Description du service Microsoft teams](../teams-service-description.md) et [aide en ligne de Microsoft teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
@@ -89,7 +93,7 @@ Les groupes de Microsoft 365 connectent les utilisateurs aux collègues, aux inf
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video constitue une destination sécurisée à l'échelle de la société où vous pouvez télécharger, partager et découvrir des vidéos sur vos périphériques, optimisée par Microsoft Azure Media Services. Office 365 Video peut contribuer à maintenir les utilisateurs impliqués et informés, à communiquer des idées de façon globale et à homogénéiser les organisations. Pour en savoir plus, voir [Présentation d'Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloc-notes OneNote pour la classe
 

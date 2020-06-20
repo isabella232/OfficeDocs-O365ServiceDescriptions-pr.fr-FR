@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
+ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213876"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44820612"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
-## <a name="overview"></a>Vue d'ensemble
+## <a name="overview"></a>Vue d’ensemble
 
 Microsoft Project propose les applications suivantes pour vous aider à répondre aux besoins de votre organisation en matière de gestion des projets et des tâches :
 
@@ -92,37 +92,37 @@ Dans le tableau ci-dessus, le nombre de contrôles (**x**) indique le niveau gé
 
 Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du projet pour le magasin de données Web. Toutes ces fonctionnalités sont disponibles dans tous les abonnements Microsoft Project : plan de projet 1, plan de projet 3 et plan de projet 5.
 
-|Fonctionnalité | Description |
-|--------|-------------|
-|**Gestion du projet, des tâches et des heures**||
-|Vue de carte | Effectuez un suivi visuel des tâches de projet pour améliorer le flux de travail et la surveillance de l’État à l’aide de tableaux de tâches prédéfinis et personnalisés.|
-|Dépendances | Définir et suivre visuellement les dépendances entre les tâches.|
-|Affichage grille | Planifier et gérer des projets à l’aide d’une vue de grille hiérarchique des tâches.|
-|Jalons | Établir et suivre les principaux jalons de projet et de tâche.|
-|Accueil de projet | Obtenez un aperçu des projets sur lesquels vous avez travaillé récemment, ainsi que des projets importants que vous devez surveiller en détail.|
-|Planification des tâches | Utiliser les dates de début et de fin, les efforts, le travail et les dépendances de la tâche pour obtenir un calendrier précis des dates du projet.|
-|Affichage de la chronologie (diagramme de Gantt) | Suivre et comprendre visuellement les dates de projet, les dépendances et les affectations dans une vue de chronologie hiérarchique.|
-|Tâches récapitulatives | Planifier, gérer et suivre les livrables et les phases à l’aide de tâches récapitulatives.|
-|**Collaboration**||
-|Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup>|
-|**Gestion des ressources et des programmes**||
-|Configuration de l’équipe de projet | Gérer une équipe de projet en ajoutant et en supprimant des membres et en définissant le calendrier de travail.|
-|Feuilles de route | Créez des feuilles de route interactives et visuelles dans les projets à partir de Microsoft Project Online, de Microsoft Project pour le Web et des projets de forums Azure. <sup>2</sup> avec plan de projet 1, vous disposez d’un accès en lecture seule aux feuilles de route. Avec le plan de projet 3 ou le plan de projet 5, vous pouvez également créer des feuilles de route. |
-|**Rapports**<sup>3</sup>||
-|Rapports prédéfinis | Utilisez des rapports prédéfinis pour comprendre les données de projet, de programme, de portefeuille et de ressources.|
-|Rapports personnalisés | Comprenez les données importantes pour votre organisation en générant des rapports personnalisés basés sur des rapports prédéfinis ou à partir de zéro.|
-|Tableaux de bord et portails | Créez des portails et des tableaux de bord personnalisés pour répondre aux besoins spécifiques de votre organisation.|
-|**Facilement**||
-|Co-création | Collaborez avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projets et bien plus encore.|
-|Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec des indicateurs graphiques. |
-|**Mobilité**||
-|Applications mobiles | Créez des applications mobiles personnalisées avec les PowerApp. <sup>4</sup> |
-|**Personnalisation et intégration**||
-|PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles avec les PowerApp. <sup>4</sup> |
-|Flux de travail | Automatisez et intégrez les processus d’entreprise avec Power Automated. <sup>5</sup> |
-|Intégration Microsoft | Collaborer, gérer des documents et plus d’informations à l’aide d’outils et d’applications Microsoft familiers. <sup>1</sup> |
-|**Gestion des utilisateurs et de la sécurité**||
-|Groupes modernes Office | Créez une équipe de projet pour collaborer et configurer facilement une collection de ressources que les membres de l’équipe partagent.|
+|Fonctionnalité | Description | Licences Office 365 | Offre 1 | Plan 3 | Plan 5|
+|--------|-----------------------------|--------------|------------|------------|------------|
+|**Gestion du projet, des tâches et des heures**||||||
+|Vue de carte | Effectuez un suivi visuel des tâches de projet pour améliorer le flux de travail et la surveillance de l’État à l’aide de tableaux de tâches prédéfinis et personnalisés.| Afficher uniquement | Oui | Oui| Oui|
+|Dépendances | Définir et suivre visuellement les dépendances entre les tâches.| Afficher uniquement | Oui | Oui| Oui|
+|Affichage grille | Planifiez et gérez les projets à l’aide d’une vue de grille hiérarchique des tâches. | Afficher uniquement | Oui | Oui | Oui |
+|Jalons | Établir et suivre les principaux jalons de projet et de tâche.|Afficher uniquement | Oui | Oui | Oui |
+|Accueil de projet | Suivre et gérer les livrables à l’aide des dates de début et de fin et de la planification automatisée.| Oui | Oui | Oui | Oui |
+|Planification des tâches | Obtenez un aperçu des projets sur lesquels vous avez travaillé récemment, ainsi que des projets importants que vous devez surveiller en détail.| Afficher uniquement | Oui | Oui | Oui |
+|Affichage de la chronologie (diagramme de Gantt) | Suivre et comprendre visuellement les dates de projet, les dépendances et les affectations dans une vue de chronologie hiérarchique.|Afficher uniquement | Oui | Oui | Oui |
+|Tâches récapitulatives | Planifier, gérer et suivre les livrables et les phases à l’aide de tâches récapitulatives.| Afficher uniquement | Oui | Oui | Oui |
+|**Collaboration** ||||||
+|Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui | Oui | Oui |
+|**Gestion des ressources et des programmes** ||||||
+|Configuration de l’équipe de projet | Gérer une équipe de projet en ajoutant et en supprimant des membres et en définissant le calendrier de travail. | Non | Oui | Oui | Oui |
+|Feuilles de route | Créez des feuilles de route interactives et visuelles dans les projets à partir de Microsoft Project Online, de Microsoft Project pour le Web et des projets de forums Azure. <sup>2</sup>   Avec le plan de projet 1, vous disposez d’un accès en lecture seule aux feuilles de route. Avec le plan de projet 3 ou le plan de projet 5, vous pouvez également créer des feuilles de route. | Afficher seulement | Afficher seulement | Oui | Oui |
+|**Rapports**<sup>3</sup> ||||||
+|Rapports prédéfinis | Utilisez des rapports prédéfinis pour comprendre les données de projet, de programme, de portefeuille et de ressources. | Non | Oui | Oui | Oui |
+|Rapports personnalisés | Comprenez les données importantes pour votre organisation en créant des rapports personnalisés basés sur des rapports prédéfinis ou à partir de zéro. | Non | Oui | Oui | Oui |
+|Tableaux de bord et portails | Créez des portails et des tableaux de bord personnalisés pour répondre aux besoins spécifiques de votre organisation.| Non | Oui | Oui | Oui |
+|**Facilement** ||||||
+|Co-création | Collaborez avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projets et bien plus encore.| Afficher uniquement | Oui | Oui | Oui |
+|Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec des indicateurs graphiques.| Afficher uniquement | Oui | Oui | Oui |
+|**Mobilité** ||||||
+|Applications mobiles | Créez des applications mobiles personnalisées avec les PowerApp. <sup>4</sup> |Non | Non | Oui | Oui |
+|**Personnalisation et intégration**||||||
+|PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles avec les PowerApp. <sup>4</sup> | Non | Non | Oui | Oui |
+|Flux de travail | Automatisez et intégrez les processus d’entreprise avec Power Automated. <sup>5</sup> | Non | Non | Oui | Oui |
+|Intégration Microsoft | Collaborer, gérer des documents et plus encore à l’aide d’outils et d’applications Microsoft familiers. <sup>1</sup> | Oui | Oui | Oui | Oui |
+|**Gestion des utilisateurs et de la sécurité**||||||
+|Groupes modernes Office | Créez une équipe de projet pour collaborer et configurer facilement une collection de ressources que les membres de l’équipe partagent. | Oui | Oui | Oui | Oui |
 
 ### <a name="project-online-features"></a>Fonctionnalités de Project Online
 
@@ -181,7 +181,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 |Formules | Calculer et capturer des données importantes à l’aide de formules entre des tâches et des projets. | Oui | Oui |
 |PowerApps | Créez et consommez des solutions pour le Web et les appareils mobiles (via OData) avec les PowerApp. <sup>4</sup> | Oui | Oui |
 |Flux de travail | Automatisez et intégrez les processus d’entreprise (via OData) avec Power Automated. <sup>5</sup> | Oui | Oui |
-|Intégration de Microsoft 365 | Collaborer, gérer des documents et plus d’informations à l’aide d’outils et d’applications Microsoft familiers. <sup>1</sup> | Oui | Oui |
+|Intégration de Microsoft 365 | Collaborer, gérer des documents et plus d’informations à l’aide d’outils et d’applications Microsoft familiers. <sup>1</sup> | Oui | Oui |
 |Intégration du planificateur Microsoft | Connecter des tâches de projet à un plan de planificateur et suivre le travail détaillé dans le planificateur. <sup>1</sup> | Oui | Oui |
 |**Gestion de la sécurité, des utilisateurs et des services**||||
 |Active Directory integration | Créez des équipes à partir de n’importe quel membre de l’annuaire Active Directory de votre organisation. <sup>9</sup> | Oui | Oui |
@@ -192,7 +192,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 
 <sup>1</sup> nécessite un abonnement commercial Office ou Microsoft 365.</br>
 <sup>2</sup> cartes Azure acquises séparément.</br>
-<sup>3</sup> la création de rapports pour Project pour le Web et Project Online est disponible à l’aide de Power bi. L’affichage, la modification et la création de rapports nécessitent un abonnement Power BI Pro. Microsoft fournit un ensemble prédéfini de rapports Power BI. Les utilisateurs peuvent personnaliser ces rapports ou créer des rapports supplémentaires à l’aide de Power BI.</br> 
+<sup>3</sup> la création de rapports pour Project pour le Web et Project Online est disponible à l’aide de Power bi. L’affichage, la modification et la création de rapports nécessitent un abonnement Power BI. Microsoft fournit un ensemble prédéfini de rapports Power BI. Les utilisateurs peuvent personnaliser ces rapports ou créer des rapports supplémentaires à l’aide de Power BI.</br> 
 <sup>4</sup> la création et l’utilisation d’applications mobiles powerapples personnalisées qui accèdent à Project pour les données Web nécessitent un abonnement powerapps et un abonnement Project Plan 3 ou Project plan 5.</br>
 <sup>5</sup> l’automatisation et l’intégration de processus d’entreprise avec Power Automated with Project for the Web Data nécessitent un abonnement Power Automated et un abonnement plan Project 3 ou Project plan 5.</br>
 <sup>6</sup> la gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement de plan de projet 3 ou de plan de projet 5.</br>
@@ -279,7 +279,7 @@ Project pour le Web présente certaines limitations, décrites dans le tableau s
 
 |Entité/champ | Limite |
 |-------------|-------|
-|**Task** ||
+|**Tâche** ||
 |Longueur niveau hiérarchique de la tâche | 10 niveaux |
 |Longueur Liens (successeur + prédécesseur) d’une tâche | vingtaine |
 |Longueur durée de la tâche terminal | 1250 jours |
