@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711134"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845008"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -68,7 +68,7 @@ Par défaut, les fonctionnalités Azure ATP sont activées au niveau du client p
 
 Les services ATP Azure ne sont actuellement pas en mesure de limiter les fonctionnalités à des utilisateurs spécifiques. Vous devez accorder une licence à chaque utilisateur que vous envisagez de bénéficier.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
+## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -210,6 +210,8 @@ Les utilisateurs bénéficient de la possibilité de classer les données à des
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
+Office 365 E5/a5/E3/a3/E1/a1 fournit des fonctionnalités de gouvernance des informations de base pour appliquer manuellement des étiquettes de rétention non enregistré, importer des fichiers PST et archiver des messages électroniques.
+
 Microsoft 365 E5/a5/E3/a3, Office 365 E5/a5/E3/a3 permet à un utilisateur de bénéficier d’une stratégie de rétention à l’échelle de l’organisation ou de la rétention manuelle.
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformité, Microsoft 365 information protection et gouvernance, Office 365 E5/a5 et la conformité avancée d’Office 365 permettent à un utilisateur de tirer parti de l’application automatique des étiquettes ou des stratégies de rétention, en commençant par la période de rétention d’une étiquette de rétention basée sur un événement personnalisé, déclenchant une révision de destruction manuelle à la fin de la période de rétention de l’étiquette
@@ -218,7 +220,7 @@ Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information P
 
 Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-N’inclut pas de droits à la rétention automatique basée sur l’apprentissage automatique (classifieur).
+Office 365 Advanced Compliance n’inclut pas les droits de rétention automatique en fonction de l’apprentissage automatique (classifieur).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -303,7 +305,7 @@ Le référentiel sécurisé du client fournit une couche supplémentaire de cont
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Les utilisateurs bénéficient du référentiel sécurisé du client s’assurer que personne de Microsoft ne peut accéder à leur contenu pour effectuer une opération de service sans l’approbation explicite du client. Le référentiel sécurisé du client place le client dans le flux de travail d’approbation pour les demandes d’accès à son contenu. Parfois, des ingénieurs Microsoft sont impliqués lors du processus de prise en charge pour dépanner et résoudre les problèmes signalés par les clients. Dans la plupart des cas, les problèmes sont résolus par des outils de télémétrie et de débogage complets que Microsoft a en place pour ses services. Toutefois, dans certains cas, un ingénieur Microsoft peut accéder au contenu client pour déterminer la cause première et résoudre le problème. Le référentiel sécurisé du client exige que l’ingénieur demande l’accès au client en tant que dernière étape du flux de travail approbation. Les organisations peuvent ainsi approuver ou refuser ces demandes, ce qui leur permet de contrôler directement si un ingénieur Microsoft peut accéder aux données de l’utilisateur final de l’organisation.
+Les utilisateurs bénéficient du référentiel sécurisé du client s’assurer que personne de Microsoft ne peut accéder à leur contenu pour effectuer une opération de service sans l’approbation explicite du client. Le référentiel sécurisé du client place le client dans le flux de travail d’approbation pour les demandes d’accès à son contenu. Parfois, des ingénieurs Microsoft sont impliqués lors du processus de prise en charge pour dépanner et résoudre les problèmes signalés par les clients. Dans la plupart des cas, les problèmes sont résolus par des outils de télémétrie et de débogage complets que Microsoft a en place pour ses services. Toutefois, dans certains cas, un ingénieur Microsoft peut accéder au contenu client pour déterminer la cause première et résoudre le problème. Customer Lockbox nécessite l’intervention de l’ingénieur pour demander l’accès au client en tant que dernière étape du flux de travail d’approbation. Les organisations peuvent ainsi approuver ou refuser ces demandes, ce qui leur permet de contrôler directement si un ingénieur Microsoft peut accéder aux données de l’utilisateur final de l’organisation.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
@@ -406,7 +408,7 @@ Les administrateurs peuvent personnaliser les emplacements (charges de travail),
 
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 
-Le chiffrement des messages Office 365 (OME) est un service basé sur Azure Rights Management (Azure RMS) qui vous permet d’envoyer des messages chiffrés à des personnes internes ou externes à votre organisation, quelle que soit l’adresse de messagerie de destination (Gmail, Yahoo! Mail, Outlook.com, etc.).
+Office 365 Message Encryption (OME) is a service built on Azure Rights Management (Azure RMS) that lets you send encrypted email to people inside or outside your organization, regardless of the destination email address (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
 Pour afficher les messages chiffrés, les destinataires peuvent obtenir un code secret à usage unique, se connecter à l’aide d’un compte Microsoft ou se connecter à l’aide d’un compte professionnel ou scolaire associé à Office 365. Les destinataires peuvent également envoyer des réponses chiffrées. Ils n’ont pas besoin d’un abonnement pour afficher les messages chiffrés ou envoyer des réponses chiffrées.
 
