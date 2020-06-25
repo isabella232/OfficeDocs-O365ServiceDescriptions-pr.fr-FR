@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845008"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873624"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -210,17 +210,21 @@ Les utilisateurs bénéficient de la possibilité de classer les données à des
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-Office 365 E5/a5/E3/a3/E1/a1 fournit des fonctionnalités de gouvernance des informations de base pour appliquer manuellement des étiquettes de rétention non enregistré, importer des fichiers PST et archiver des messages électroniques.
+Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 et les plans Exchange autonomes permettent à un utilisateur d’appliquer manuellement des étiquettes de rétention non enregistrée aux données de boîte aux lettres.
 
-Microsoft 365 E5/a5/E3/a3, Office 365 E5/a5/E3/a3 permet à un utilisateur de bénéficier d’une stratégie de rétention à l’échelle de l’organisation ou de la rétention manuelle.
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 et les plans SharePoint autonomes fournissent les droits permettant à un utilisateur d’appliquer manuellement des étiquettes de rétention non enregistrée aux fichiers dans SharePoint ou OneDrive. 
 
-Microsoft 365 E5/a5, Microsoft 365 E5/a5 conformité, Microsoft 365 information protection et gouvernance, Office 365 E5/a5 et la conformité avancée d’Office 365 permettent à un utilisateur de tirer parti de l’application automatique des étiquettes ou des stratégies de rétention, en commençant par la période de rétention d’une étiquette de rétention basée sur un événement personnalisé, déclenchant une révision de destruction manuelle à la fin de la période de rétention de l’étiquette
+Microsoft 365 E5/a5/E3/a3, Office 365 E5/a5/E3/a3, Exchange plan 2 et archivage Exchange Online permettent à un utilisateur de bénéficier d’une stratégie de rétention de boîte aux lettres de base unique ou à l’échelle de l’organisation et/ou d’appliquer manuellement une étiquette de rétention non enregistrée aux données de boîte aux lettres.
+
+Microsoft 365 E5/a5/E3/a3, Office 365 E5/a5/E3/a3 et SharePoint plan 2 permettent à un utilisateur de bénéficier d’une stratégie de rétention SharePoint ou OneDrive de base et/ou d’appliquer manuellement une étiquette de rétention non enregistrée aux fichiers dans SharePoint ou OneDrive.
+
+Microsoft 365 E5/a5/E3/a3 et Office 365 E5/a5/E3/a3 permettent à un utilisateur de bénéficier d’une stratégie de rétention de teams.
+
+Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance, Office 365 E5/a5 et Office 365 Advanced Compliance permettent aux utilisateurs d’appliquer automatiquement des étiquettes ou des stratégies de rétention. application d’étiquettes ou de stratégies de rétention par défaut, démarrage de la période de rétention d’une étiquette de rétention basée sur un événement personnalisé, déclenchant une révision de disposition manuelle à la fin de la période de rétention de l’étiquette, importation de données tierces via des connecteurs de données natifs
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance permet à un utilisateur de tirer parti de l’application automatique d’étiquettes de rétention basées sur des classifieurs avec apprentissage.
 
 Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 Advanced Compliance n’inclut pas les droits de rétention automatique en fonction de l’apprentissage automatique (classifieur).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -390,9 +394,7 @@ Les utilisateurs bénéficient des fonctionnalités de conformité avancées des
 | Scénario | Qui a besoin d’une licence ? |
 |:-------|:------|
 | Deux groupes (groupe 1 et groupe 2) ne peuvent pas communiquer les uns avec les autres (autrement dit, les utilisateurs du groupe 1 ne sont pas autorisés à communiquer avec les utilisateurs du groupe 2, et les utilisateurs du groupe 2 ne sont pas autorisés à communiquer avec les utilisateurs du groupe 1. | Utilisateurs dans les groupes 1 et 2 |
-| Les utilisateurs du groupe 1 ne sont pas autorisés à communiquer avec le reste de l’entreprise. | Utilisateurs du groupe 1 uniquement |
-| Le reste de la société ne peut pas communiquer avec le groupe 1. | Tous les utilisateurs à l’exception de ceux du groupe 1 |
-| Les utilisateurs du groupe 1 ne sont pas autorisés à communiquer avec les utilisateurs du groupe 2, mais les utilisateurs du groupe 2 peuvent communiquer avec les utilisateurs du groupe 1. | Utilisateurs du groupe 1 uniquement ||
+| Les utilisateurs du groupe 1 ne sont pas autorisés à communiquer avec le reste de l’entreprise. | Utilisateurs du groupe 1 uniquement ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
