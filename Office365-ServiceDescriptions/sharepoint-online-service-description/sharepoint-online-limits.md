@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873614"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909437"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -49,7 +49,9 @@ Une liste peut comporter jusqu’à 30 millions éléments et une bibliothèque 
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Autorisations uniques pour les éléments d’une liste ou d’une bibliothèque
 
-La limite prise en charge est de 50 000, mais la limite générale recommandée est de 5 000. Les modifications apportées à plus de 5 000 éléments uniques à la fois sont plus longues. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
+La limite prise en charge est de 50 000 éléments de manière unique, mais la limite générale recommandée est de 5 000. Les modifications apportées à plus de 5 000 éléments uniques à la fois sont plus longues. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
+
+Une autre limite est de 5 000 attributions de rôle par élément à autorisation unique. 
 
 ### <a name="file-size-and-file-path-length"></a>Taille du fichier et longueur du chemin d’accès du fichier
 
@@ -102,7 +104,7 @@ Un utilisateur peut appartenir à des groupes 5 000 et chaque groupe peut avoir 
 
 99 les personnes peuvent avoir un document ouvert pour modification en même temps. Si plus de 10 personnes modifient simultanément un document, leurs modifications sont plus susceptibles de se produire et l’expérience utilisateur se dégrade progressivement.
 
-### <a name="users"></a>Utilisateurs
+### <a name="users"></a>Users
 
 2 millions par site (collection de sites).
    

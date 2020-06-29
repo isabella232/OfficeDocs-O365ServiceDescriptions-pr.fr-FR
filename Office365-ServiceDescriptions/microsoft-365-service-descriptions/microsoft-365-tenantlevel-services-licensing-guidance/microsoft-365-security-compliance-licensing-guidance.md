@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873624"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909447"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -129,7 +129,7 @@ MCAS identifie et évalue l’ombre, fournit une protection contre les menaces e
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-MCAS, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security et Microsoft 365 information protection et gouvernance fournissent les droits dont dispose un utilisateur pour bénéficier de MCAS.
+MCAS, Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Security, Microsoft 365 E5/a5/G5 la conformité et la protection des informations Microsoft 365 fournissent les droits nécessaires à un utilisateur pour bénéficier de MCAS.
 
 Azure AD P1 fournit les droits permettant à un utilisateur de bénéficier des fonctionnalités de découverte dans MCAS.
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 et les plans Exchange aut
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 et les plans SharePoint autonomes fournissent les droits permettant à un utilisateur d’appliquer manuellement des étiquettes de rétention non enregistrée aux fichiers dans SharePoint ou OneDrive. 
 
-Microsoft 365 E5/a5/E3/a3, Office 365 E5/a5/E3/a3, Exchange plan 2 et archivage Exchange Online permettent à un utilisateur de bénéficier d’une stratégie de rétention de boîte aux lettres de base unique ou à l’échelle de l’organisation et/ou d’appliquer manuellement une étiquette de rétention non enregistrée aux données de boîte aux lettres.
+Microsoft 365 E5/a5/E3/a3/Business Premium, Office 365 E5/a5/E3/a3, Exchange plan 2 et archivage Exchange Online permettent aux utilisateurs de bénéficier d’une stratégie de rétention de boîte aux lettres de base ou à l’échelle de l’organisation et/ou d’appliquer manuellement une étiquette de rétention non enregistrée aux données de boîte aux lettres.
 
 Microsoft 365 E5/a5/E3/a3, Office 365 E5/a5/E3/a3 et SharePoint plan 2 permettent à un utilisateur de bénéficier d’une stratégie de rétention SharePoint ou OneDrive de base et/ou d’appliquer manuellement une étiquette de rétention non enregistrée aux fichiers dans SharePoint ou OneDrive.
 
