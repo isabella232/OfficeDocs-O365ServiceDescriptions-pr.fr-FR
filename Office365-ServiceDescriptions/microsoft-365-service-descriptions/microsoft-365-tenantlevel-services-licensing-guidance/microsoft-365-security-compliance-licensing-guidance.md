@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909447"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988868"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -497,7 +497,7 @@ L’accès conditionnel est l’outil utilisé par Azure Active Directory pour r
 
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
 
-Les utilisateurs sous licence de Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3 et Azure Active Directory Premium plan 1 peuvent bénéficier de stratégies d’accès conditionnel. Les utilisateurs titulaires d’une licence Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5, Microsoft E5 Security et Azure Active Directory Premium plan 2 peuvent bénéficier de la protection des identités (stratégies d’accès conditionnel basées sur les risques).
+Les utilisateurs sous licence de Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3/Business Premium et Azure Active Directory Premium plan 1 peuvent bénéficier de stratégies d’accès conditionnel. Les utilisateurs titulaires d’une licence Enterprise Mobility + Security E5/a5/G5, Microsoft 365 E5/a5, Microsoft E5 Security et Azure Active Directory Premium plan 2 peuvent bénéficier de la protection des identités (stratégies d’accès conditionnel basées sur les risques).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 

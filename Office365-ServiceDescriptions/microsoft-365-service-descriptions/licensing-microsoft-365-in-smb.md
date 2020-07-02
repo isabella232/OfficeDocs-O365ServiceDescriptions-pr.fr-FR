@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium est l’offre de Microsoft de meilleure qualité pour les petites et moyennes entreprises. Microsoft 365 Business Premium est une solution intégrée qui rassemble Microsoft 365 productivité, la sécurité avancée et la gestion des appareils.
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213956"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988858"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licences Microsoft 365 pour les petites et moyennes entreprises
 
@@ -34,7 +34,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Réseaux sociaux, vidéo, sites** | Flux, Yammer, planificateur, SharePoint Online, PowerApps, Power Automated | Oui | Oui |
 |**Applications métiers** | Planification des &ndash; Réservations d’applications<sup>1</sup> | Oui | Oui |
 |   | Applications métiers &ndash; MileIQ<sup>1</sup> | Oui | Oui |
-|**Protection contre les menaces** | Office 365-Protection avancée contre les menaces | Non | Oui |
+|**Protection contre les menaces** | Office 365 – Protection avancée contre les menaces | Non | Oui |
 |   | Application Windows exploit Guard | Non | Oui  |
 |**Gestion des identités** | Réinitialisation du mot de passe en libre-service pour les comptes hybrides Azure Active Directory | Non | Oui |
 |   | Authentification multifacteur Azure, stratégies d’accès conditionnel | Non | Oui |
@@ -65,7 +65,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Réseaux sociaux, vidéo, sites** | Flux, Yammer, planificateur, SharePoint Online<sup>1</sup>, powerapps<sup>1</sup>, Power automatiser<sup>1</sup> | Oui | Oui |
 |**Applications métiers** | Planification des &ndash; Réservations d’applications<sup>2</sup> | Oui | Oui |
 |   | Applications métiers &ndash; MileIQ<sup>2</sup> | Non | Oui |
-|**Protection contre les menaces** | Office 365-Protection avancée contre les menaces | Non | Oui |
+|**Protection contre les menaces** | Office 365 – Protection avancée contre les menaces | Non | Oui |
 |   | Application Windows exploit Guard | Non | Oui |
 |**Gestion des identités** | Réinitialisation du mot de passe en libre-service pour les comptes hybrides Azure Active Directory | Non | Oui |
 |   | Authentification multifacteur Azure, stratégies d’accès conditionnel | Non  | Oui |
@@ -98,7 +98,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Réseaux sociaux, vidéo, sites** | Flux, Yammer, planificateur, SharePoint Online<sup>1</sup>, powerapps<sup>1</sup>, Power automatiser<sup>1</sup> | Oui | Oui | Oui |
 |**Applications métiers** | Planification des &ndash; Réservations d’applications<sup>2</sup> | Oui | Oui | Oui |
 |   | Applications métiers &ndash; MileIQ<sup>2</sup> | Oui | Oui | Non |
-|**Protection contre les menaces** | Office 365-Protection avancée contre les menaces | Non | Oui | Non |
+|**Protection contre les menaces** | Office 365 – Protection avancée contre les menaces | Non | Oui | Non |
 |   | Application Windows exploit Guard | Non | Oui | Non |
 |**Gestion des identités** | Réinitialisation du mot de passe en libre-service pour les comptes hybrides Azure Active Directory | Non | Oui | Non |
 |   | Authentification multifacteur Azure, stratégies d’accès conditionnel | Non | Oui | Non |
@@ -133,11 +133,11 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Applications métiers** | Planification des &ndash; Réservations d’applications<sup>1</sup> | Oui | Oui | Oui | Oui |
 |   | Applications métiers &ndash; MileIQ<sup>1</sup> | Oui | Oui | Non | Non |
 |**Protection contre les menaces** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, protection des données d’entreprise | Non | Non | Oui | Oui |
-|   | Office 365-Protection avancée contre les menaces | Non | Oui | Non | Oui |
+|   | Office 365 – Protection avancée contre les menaces | Non | Oui | Non | Oui |
 |   | Windows Defender Advanced Threat Protection | Non | Non | Non | Oui |
 |   | Office 365 Threat Intelligence | Non | Non  | Non | Oui |
 |**Gestion des identités** | Réinitialisation du mot de passe en libre-service pour les comptes hybrides Azure Active Directory, Azure MFA, accès conditionnel   | Non | Oui | Oui | Oui |
-|   | Azure AD : découverte d’application Cloud, Azure AD Connect Health, SSO pour plus de 10 applications | Non | Non | Oui | Oui |
+|   | Azure AD : découverte d’application Cloud, Azure AD Connect Health, SSO pour plus de 10 applications | Oui | Oui | Oui | Oui |
 |   | Azure Active Directory Plan 2 | Non | Non | Non | Oui |
 |**Gestion des applications des & d’appareil** | Microsoft Intune, Windows AutoPilot | Non | Oui | Oui | Oui |
 |   | Activation d’ordinateurs partagés, bureau virtuel Windows | Non | Oui | Oui | Oui |
@@ -191,9 +191,9 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 | **Licences**                                   | **Applications Microsoft 365 pour les entreprises** | **Applications Microsoft 365 pour les entreprises** |
 | Modèle de licence                                 | Par utilisateur                | Par utilisateur               |
 | Type de licence                                    | Abonnement            | Abonnement           |
-| Installations PC/Mac<sup>6</sup>                     | 5                        | disque                      |
-| installe le smartphone iOS/Android<sup>6</sup>     | 5                        | disque                      |
-| Installations de Tablet PC<sup>6</sup>                     | 5                        | disque                      |
+| Installations PC/Mac<sup>6</sup>                     | 5                        | disque                      |
+| installe le smartphone iOS/Android<sup>6</sup>     | 5                        | disque                      |
+| Installations de Tablet PC<sup>6</sup>                     | 5                        | disque                      |
 | Droits commerciaux Office RT                     | Oui                     | Oui                    |
 | Applications Office Online/Web                          | Oui                     | Oui                    |
 | Droits d’utilisation commerciale                           | Oui                     | Oui                    |
