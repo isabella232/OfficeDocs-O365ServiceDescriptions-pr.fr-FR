@@ -1,5 +1,5 @@
 ---
-title: Centre de sécurité et de conformité
+title: Centre de sécurité et conformité
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711114"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043036"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -50,6 +49,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Exportation de la découverte électronique](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Non   |Non   |Non   |Oui   |Oui   |Non   |
 |[Découverte électronique avancée](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |Oui<sup>3</sup>  |Oui<sup>3</sup>  |Oui<sup>3</sup>   |Oui<sup>3</sup>  |Oui<sup>4</sup>  |Oui<sup>4</sup>  |Non   |
+|[Stratégies d’alerte](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |Oui   |Oui   |Oui|Oui   |Oui   |Oui   |Oui   |
 |[Audit de base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Oui   |Oui   |Oui|Oui   |Oui   |Oui   |Oui   |
 |[Audit avancé](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Conformité de la communication (stratégies de supervision)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
