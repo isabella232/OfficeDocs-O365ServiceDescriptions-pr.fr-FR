@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 5b5b3fb771ef148a57d8d3224eacf1c34b794f67
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
+ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909437"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45082256"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -59,7 +59,11 @@ Une autre limite est de 5 000 attributions de rôle par élément à autorisatio
 
 ### <a name="moving-and-copying-across-sites"></a>Transfert et copie sur plusieurs sites
 
-100 Go par opération. Le navigateur Web doit rester ouvert.
+La copie/le transfert de plusieurs fichiers en une seule opération présente trois exigences : 
+
+- Taille de fichier maximale de 100 Go 
+- Maximum de 30 000 fichiers
+- Chaque fichier doit être inférieur à 2 Go
 
 ### <a name="sync"></a>Synchronisation
 
@@ -104,7 +108,7 @@ Un utilisateur peut appartenir à des groupes 5 000 et chaque groupe peut avoir 
 
 99 les personnes peuvent avoir un document ouvert pour modification en même temps. Si plus de 10 personnes modifient simultanément un document, leurs modifications sont plus susceptibles de se produire et l’expérience utilisateur se dégrade progressivement.
 
-### <a name="users"></a>Users
+### <a name="users"></a>Utilisateurs
 
 2 millions par site (collection de sites).
    
