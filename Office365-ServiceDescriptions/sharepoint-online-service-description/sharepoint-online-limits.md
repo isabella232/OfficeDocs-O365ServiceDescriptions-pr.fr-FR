@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 2dca7a0f3cbcdfd958d325d56caf8b0656b50680
-ms.sourcegitcommit: 267c5bf4467aa1d7cc34e28d355bf38f5236c231
+ms.openlocfilehash: c6e18ea3e2219843c8169649ec6f1013270e6cff
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45082256"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089645"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -25,7 +25,7 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365.
 |||||
 |:-----|:-----|:-----|:-----|
 |**Fonctionnalité** <br/> |**Microsoft 365 Business Basic ou Business Premium** <br/> |**Office 365 entreprise E1, E3 ou E5, ou SharePoint plan 1 ou 2** <br/> | **Office 365 Entreprise F3** <br/> |
-|Stockage total par organisation<sup>1, 2, 6</sup> <br/> |1 to plus 10 Go par licence achetée  <br/> |1 to plus 10 Go par licence achetée<sup>3</sup> <br/> |1 to<sup>3</sup> <br/> |
+|Stockage total par organisation<sup>1, 2, 6</sup> <br/> |1 to plus 10 Go par licence achetée<sup>3</sup>  <br/> |1 to plus 10 Go par licence achetée<sup>3</sup> <br/> |1 to<sup>3</sup> <br/> |
 |Stockage maximal par site (collection de sites)<sup>4</sup><br/> |25 TO <br/> |25 TO <br/> |25 to<sup>5</sup> <br/> |
 |Sites (collections de sites) par organisation  <br/> |2 millions<sup>6</sup> <br/> |2 millions<sup>6</sup> <br/> |2 millions<br/> |
 |Nombre d'utilisateurs.  <br/> |Jusqu'à 300  <br/> |1 - 500 000<sup>7</sup> <br/> |1 - 500 000<sup>7</sup> <br/> |
@@ -108,7 +108,7 @@ Un utilisateur peut appartenir à des groupes 5 000 et chaque groupe peut avoir 
 
 99 les personnes peuvent avoir un document ouvert pour modification en même temps. Si plus de 10 personnes modifient simultanément un document, leurs modifications sont plus susceptibles de se produire et l’expérience utilisateur se dégrade progressivement.
 
-### <a name="users"></a>Utilisateurs
+### <a name="users"></a>Users
 
 2 millions par site (collection de sites).
    

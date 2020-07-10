@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC High est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262827"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089635"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Planifier la conformité de Microsoft 365 – GCC High
 
@@ -37,7 +37,7 @@ Vous trouverez plus d’informations sur le site Microsoft 365 Government-GCC Hi
 La [Description de service Office 365 pour le gouvernement américain](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) décrit les avantages de la plateforme, qui sont centrés sur les exigences de conformité aux États-Unis.
 
 > [!TIP]
-> Vous pouvez transférer les tables d’informations de la description de service dans un classeur Excel et ajouter deux colonnes : **pertinentes pour mon organisation y/n** et **répond aux besoins de mon organisation y/n**. Vous pouvez ensuite consulter cette liste avec vos collègues afin de vous assurer que ce service répond aux besoins de votre organisation.
+> Vous pouvez transférer les tables d’informations de la description de service dans un classeur Excel et ajouter deux colonnes : **pertinentes pour mon organisation y/n**   et **répond aux besoins de mon organisation y/n**. Vous pouvez ensuite consulter cette liste avec vos collègues afin de vous assurer que ce service répond aux besoins de votre organisation.
 
 **Points de décision**:<br/>
 - *Déterminez si le gouvernement Microsoft 365-GCC-High est adapté à votre organisation.*
@@ -50,7 +50,7 @@ La [Description de service Office 365 pour le gouvernement américain](https://d
 
 Après avoir décidé que ce service est approprié pour votre organisation, lancez le processus d' [application de ce](https://products.office.com/government/eligibility-validation)service.
  
-## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>Étape 3. Comprendre le gouvernement Microsoft 365 : GCC-paramètres de sécurité par défaut élevés
+## <a name="step-3-understand-microsoft-365-government--gcc-high-default-security-settings"></a>Étape 3. Comprendre le gouvernement Microsoft 365 : GCC-paramètres de sécurité par défaut élevés
 
 Nous vous recommandons de prendre le temps de vérifier soigneusement vos paramètres d’administrateur et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant de modifier les paramètres de sécurité par défaut.
 
@@ -77,17 +77,17 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | DLP pour les conversations de conversation et de canal    | Dans le backlog d’ingénierie |
 |                                         | Correspondance exacte des données DLP                            | Dans le backlog d’ingénierie |
 |                                         | Explorateur d’activité des étiquettes                         | Dans le backlog d’ingénierie |
-|                                         | Classifieurs de formation                           | Dans le backlog d’ingénierie |
+|                                         | Classifieurs entraînables                           | Dans le backlog d’ingénierie |
 |                                         | Étiquettes de confidentialité et d’étiquetage unifiées         | Dans le backlog d’ingénierie |
-| **Gestion des risques initiés**             | Chiffrement de messages avancé                     | Available              |
-|                                         | Gestion des risques initiés                         | Dans le backlog d’ingénierie |
+| **Gestion des risques internes**             | Chiffrement de messages avancé                     | Available              |
+|                                         | Gestion des risques internes                         | Dans le backlog d’ingénierie |
 |                                         | Conformité des communications                        | Dans le backlog d’ingénierie |
-|                                         | Référentiel sécurisé de client                                | Available              |
+|                                         | Référentiel sécurisé client                                | Available              |
 |                                         | Clé client                                    | Available              |
 |                                         | Gestion des accès privilégiés                    | Dans le backlog d’ingénierie |
 | **Découvrir & répondre**                  | Réservation sur place                            | Available              |
 |                                         | Gestion des cas                                 | Available              |
-|                                         | Recherche                                          | Available              |
+|                                         | Rechercher                                          | Available              |
 |                                         | Exporter                                          | Available              |
 |                                         | Déchiffrement RMS                                  | Available              |
 |                                         | Exportation Native                                   | Available              |
@@ -98,7 +98,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Codage prédictif                               | Dans le backlog d’ingénierie |
 |                                         | Exportation traitée avec chargement d’un fichier                 | Dans le backlog d’ingénierie |
 |                                         | Marquer                                         | Dans le backlog d’ingénierie |
-|                                         | Utilisateurs qui affichent simplement des données                                         | Dans le backlog d’ingénierie |
+|                                         | Observateurs                                         | Dans le backlog d’ingénierie |
 |                                         | Redactions                                      | Dans le backlog d’ingénierie |
 |                                         | Filtrage                                       | Dans le backlog d’ingénierie |
 |                                         | Mise en correspondance des dépositaires et des charges de travail                   | Dans le backlog d’ingénierie |
@@ -107,6 +107,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Révision et annotation                             | Dans le backlog d’ingénierie |
 |                                         | Ingestion de non-Office 365                        | Dans le backlog d’ingénierie |
 |                                         | Rapport de termes de recherche                              | Dans le backlog d’ingénierie |
+| **Gestion de la conformité**               | Score de conformité                                | Dans le backlog d’ingénierie |
 
 <sup>1</sup> le statut identifié est susceptible d’être modifié à mesure que les plans de projet et les priorités sont réévalués.<br/>
 <sup>2</sup> l’application manuelle des étiquettes nécessite le [client Azure information protection (AIP) version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 

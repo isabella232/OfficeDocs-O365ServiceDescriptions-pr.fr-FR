@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988868"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089655"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -149,7 +149,7 @@ Pour plus d’informations sur la configuration des stratégies de sécurité de
 
 Les administrateurs peuvent étendre les déploiements MCAS aux utilisateurs titulaires d’une licence à l’aide des fonctionnalités de déploiement étendues disponibles dans le service. Pour plus d’informations, reportez-vous à la rubrique [déploiement étendu](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
+## <a name="microsoft-defender-atp"></a>Microsoft Defender – Protection avancée contre les menaces
 
 Microsoft Defender ATP est une solution de sécurité de point de terminaison qui inclut une évaluation et une gestion des vulnérabilités basées sur des risques ; fonctionnalités de réduction de la surface d’attaque ; protection de nouvelle génération basée sur le comportement et le Cloud ; détection et réponse aux points de terminaison (EDR); l’analyse et la correction automatiques ; et services de chasse gérés. Consultez la page [Microsoft Defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) pour en savoir plus.
 
@@ -393,8 +393,7 @@ Les utilisateurs bénéficient des fonctionnalités de conformité avancées des
 
 | Scénario | Qui a besoin d’une licence ? |
 |:-------|:------|
-| Deux groupes (groupe 1 et groupe 2) ne peuvent pas communiquer les uns avec les autres (autrement dit, les utilisateurs du groupe 1 ne sont pas autorisés à communiquer avec les utilisateurs du groupe 2, et les utilisateurs du groupe 2 ne sont pas autorisés à communiquer avec les utilisateurs du groupe 1. | Utilisateurs dans les groupes 1 et 2 |
-| Les utilisateurs du groupe 1 ne sont pas autorisés à communiquer avec le reste de l’entreprise. | Utilisateurs du groupe 1 uniquement ||
+| Deux groupes (groupe 1 et groupe 2) ne peuvent pas communiquer les uns avec les autres (autrement dit, les utilisateurs du groupe 1 ne sont pas autorisés à communiquer avec les utilisateurs du groupe 2, et les utilisateurs du groupe 2 ne sont pas autorisés à communiquer avec les utilisateurs du groupe 1. | Utilisateurs dans les groupes 1 et 2 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
