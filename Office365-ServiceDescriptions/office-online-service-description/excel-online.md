@@ -1,8 +1,7 @@
 ---
 title: Excel pour le web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226223"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131418"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -39,7 +38,7 @@ Ajoutez une couleur de remplissage d’arrière-plan aux onglets de feuille en b
 
 ## <a name="add-hyperlinks"></a>Ajout de liens hypertexte
 
-Pour lier des pages Web ou ouvrir des fichiers sur le web, ajoutez un lien hypertexte dans une cellule. Vous pouvez taper l'adresse Web directement dans la cellule ou utiliser la commande Insérer un lien hypertexte.
+Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>Types de données avancés : stocks et géographie
 
@@ -47,7 +46,7 @@ Vous pouvez obtenir des données boursières et géographiques dans Excel. Il es
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-Le contrôle de chronologie vous permet de filtrer les données modélisées. Vous pouvez visualiser et modifier une plage continue de dates, ainsi que filtrer des objets basés sur des champs dynamiques, comme des tableaux et des graphiques croisés dynamiques.  
+The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
   
 ## <a name="alignment"></a>Alignement
 
@@ -71,11 +70,11 @@ Excel pour le Web peut compléter ce que vous tapez dans une cellule et, s’il 
   
 ## <a name="autosum"></a>AutoSum
 
-Pour additionner une ligne ou une colonne de chiffres, sélectionnez les cellules à additionner, puis double-cliquez sur Somme automatique. Le résultat s'affiche dans la cellule vide adjacente.
+Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
   
 ## <a name="calculations"></a>Calculs
 
-Vous pouvez utiliser Excel pour effectuer des calculs automatiques, manuels et itératifs. Excel utilise des fonctions pour effectuer ces calculs. Pour plus d'informations, consultez l'article [Fonctions Excel (par catégorie)](https://go.microsoft.com/fwlink/?linkid=847459).
+You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>Références de cellule dans les formules
 
@@ -138,7 +137,7 @@ Vous pouvez dupliquer (ou copier) des feuilles de calcul dans un classeur ou dan
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Incorporer un classeur sur le Web ou une page de blog (OneDrive)
 
-Si vous stockez un classeur Excel sur OneDrive.com, vous pouvez l'incorporer directement dans un blog ou un site web. Vos lecteurs peuvent y trier, filtrer et calculer directement les données et, si vous mettez à jour le classeur dans OneDrive, ils peuvent voir les dernières modifications apportées en actualisant la page. En savoir plus sur l'[incorporation d'un classeur Excel dans un blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
+If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>Références externes (liens)
 
@@ -194,7 +193,7 @@ Les idées dans Excel vous aident à comprendre vos données via des résumés v
   
 ## <a name="insert-charts"></a>Insert charts
 
-Créez un graphique pour représenter visuellement vos données. Choisissez parmi de nombreux types de graphiques : histogrammes, graphiques en courbes, graphiques à secteurs ou graphiques à barres. En savoir plus sur les [types de graphiques disponibles](https://go.microsoft.com/fwlink/p/?LinkId=273899).
+Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -222,7 +221,7 @@ Vous ne pouvez pas créer de plages nommées dans Excel pour le Web, mais vous p
 
 ## <a name="number-formatting"></a>Format des nombres
 
-Modifiez le format des nombres. Dans la liste des formats, sélectionnez un format, par exemple Monétaire ou Date courte, modifiez le nombre de décimales ou insérez un séparateur des milliers.
+Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
   
 ## <a name="office-add-ins"></a>Compléments Office
 
@@ -254,7 +253,7 @@ Utilisez la commande Imprimer dans Excel pour le Web pour envoyer la feuille de 
   
 ## <a name="real-time-co-authoring"></a>Co-création en temps réel
 
-Plusieurs utilisateurs peuvent travailler simultanément sur un même tableur en l'ouvrant dans leur navigateur web, au lieu d'utiliser l'application de bureau Excel. La présence en temps réel vous permet de voir dans quelle partie du document vos co-auteurs travaillent pour éviter de créer des conflits pendant la modification et pour visualiser les modifications au fur et à mesure. Pour en savoir plus sur la co-création en temps réel, consultez l'article [Collaborer sur des classeurs Excel simultanément avec la co-édition](https://go.microsoft.com/fwlink/?linkid=850793).
+Two or more people can work in the same spreadsheet at the same time by opening it in their web browser instead of in the Excel desktop app. Real-time presence helps you see where your co-authors are working in the document so that you don't create conflicts as you edit, and you can see changes as they're being made. For more information about real-time co-authoring, see [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793).
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Création et modification de graphiques recommandés avec les contrôles de mise en forme
 
@@ -286,7 +285,7 @@ Non disponible dans Excel pour le Web. Si l'application Excel de bureau est inst
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie à votre ordinateur, utilisez la commande Enregistrer sous de l'onglet Fichier ou cliquez avec le bouton droit sur le nom du classeur dans son dossier, puis utilisez la commande Télécharger .
+Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
 
 ## <a name="sensitivity-labels"></a>Étiquettes de confidentialité
 

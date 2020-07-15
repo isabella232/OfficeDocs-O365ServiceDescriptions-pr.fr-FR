@@ -1,8 +1,7 @@
 ---
 title: Fonctionnalités de support dans Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,25 +11,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Les fonctionnalités de support suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 8d0a1ee35cc9c6629b256be5a7256ccb4a65a4b4
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42687877"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131998"
 ---
 # <a name="support-features-in-yammer"></a>Fonctionnalités de support dans Yammer
 
 Les fonctionnalités de support suivantes sont disponibles dans Yammer.
   
 > [!IMPORTANT]
-> Yammer ne prend pas en charge la récupérant&mdash;le contenu supprimé, comme les réseaux externes, les utilisateurs, les&mdash;messages, les groupes et les fichiers, y compris le contenu accidentellement supprimé par les administrateurs réseau.
+> Yammer ne prend pas en charge la récupérant le contenu supprimé, comme &mdash; les réseaux externes, les utilisateurs, les messages, les groupes et les fichiers, &mdash; y compris le contenu accidentellement supprimé par les administrateurs réseau.
 >
 > Microsoft ne fournit pas de rapports ad hoc ou personnalisés en dehors des fonctionnalités d’analyse disponibles dans Yammer. Parfois, Microsoft peut fournir un rapport personnalisé au cours d’une demande de support, mais pour la plupart, il ne peut pas gérer les demandes directes de données.
 
 ## <a name="administrator-support"></a>Administrator support
 
-Les administrateurs Yammer Enterprise sont responsables de la maintenance des comptes et sont autorisés à communiquer directement avec l'équipe de support technique Microsoft. Si vous êtes un administrateur Yammer Enterprise à la recherche de support, consultez la page relative au [support Microsoft](https://go.microsoft.com/fwlink/p/?LinkId=330922).
+Yammer Enterprise administrators are responsible for account maintenance and are authorized to communicate directly with the Microsoft Support team. If you're a Yammer Enterprise administrator searching for support, see [Microsoft Support](https://go.microsoft.com/fwlink/p/?LinkId=330922).
 
 ## <a name="customer-support"></a>Support client
 
@@ -42,7 +41,7 @@ Le service FastTrack de Microsoft peut aider votre organisation à se déplacer 
 
 ## <a name="support-features-across-yammer-plans"></a>Fonctionnalités de support dans les plans Yammer
 
-Vous avez besoin d'aide pour déterminer quel plan Yammer répond le mieux aux besoins de votre organisation ? Pour voir les fonctionnalités de support disponibles dans chaque plan, utilisez le tableau suivant.
+Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which support features are available in each plan.
   
 |**Fonctionnalité**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|
@@ -52,7 +51,7 @@ Vous avez besoin d'aide pour déterminer quel plan Yammer répond le mieux aux b
  
 ## <a name="technical-support-case-handling"></a>Gestion des incidents par le support technique
 
-Exemples 
+Microsoft Support assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table. 
   
 |**Niveau de gravité**|**Description**|**Exemples**|
 |:-----|:-----|:-----|

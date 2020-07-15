@@ -1,8 +1,7 @@
 ---
 title: Description du service SharePoint
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: a7606d1fe17c293a46398c93c95a1ffb7313f9b4
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214036"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131028"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -35,7 +34,7 @@ Pour voir les plans qui incluent SharePoint, des [outils puissants pour prendre 
 
 Pour en savoir plus sur les différences entre les fonctionnalités de SharePoint pour les clients du nuage aux États-Unis, voir [SharePoint pour les environnements gouvernementaux américains](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>Nouveautés
+## <a name="whats-new"></a>Quoi de neuf ?
 
 Pour plus d’informations sur les dernières fonctionnalités publiées, voir [what’s New in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -136,7 +135,7 @@ SharePoint s’intègre aux fonctionnalités avancées de sécurité et de confo
 - [Protection contre la perte de données (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [découverte électronique](/microsoft-365/compliance/ediscovery-cases) (recherche de contenu, conservation, exportation)
 - [Obstacles aux informations](/microsoft-365/compliance/information-barriers)
-- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Office 365 – Protection avancée contre les menaces (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Étiquettes et stratégies de rétention](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [Étiquettes de confidentialité](/microsoft-365/compliance/sensitivity-labels)
 - [Audit unifié](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (audit de l’activité de l’utilisateur et de l’administrateur SharePoint)

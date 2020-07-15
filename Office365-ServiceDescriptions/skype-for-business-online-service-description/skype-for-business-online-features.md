@@ -1,7 +1,7 @@
 ---
 title: Fonctionnalités de Skype Entreprise Online
-ms.author: sharik
-author: skjerland
+ms.author: office365servicedesc
+author: pamelaar
 manager: supotter
 audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype entreprise Online dans la configuration de Skype entreprise online.
-ms.openlocfilehash: 90d5e7ab138d3bb2098cd279dcf7431043107a57
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: be40d66d6a59bc69f90b354d3df82393921d1163
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638802"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132108"
 ---
 # <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
@@ -30,7 +30,7 @@ Si vous êtes un administrateur, vous trouverez des instructions détaillées su
     
 - Pour savoir quelles sont les options Skype Entreprise sur un appareil mobile, consultez la rubrique [Installer Skype Entreprise sur un appareil mobile](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- Vous trouverez une comparaison détaillée des clients Skype Entreprise de bureau et web dans la rubrique [Tableaux de comparaison des clients pour Skype Entreprise Online](https://go.microsoft.com/fwlink/?linkid=829754). Pour obtenir une comparaison détaillée des clients mobiles de Skype Entreprise, consultez la rubrique [Tableaux de comparaison des clients mobiles pour Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=846932).
+- For a detailed comparison of the Skype for Business desktop and web clients, see [Skype for Business Online client comparison tables](https://go.microsoft.com/fwlink/?linkid=829754). For a detailed comparison of the Skype for Business mobile clients, see the [Mobile client comparison tables](https://go.microsoft.com/fwlink/?linkid=846932).
     
 Pour télécharger le client pour votre appareil mobile, PC ou Mac, accédez à [Télécharger Skype entreprise sur tous vos appareils](https://go.microsoft.com/fwlink/?linkid=846929).
   
@@ -40,7 +40,7 @@ Skype Entreprise prend en charge les appareils de salle de conférence répertor
 
 Les utilisateurs de Skype Entreprise peuvent :
   
-- Afficher leur statut&mdash;de présence par exemple, disponible, absent (e), ne pas&mdash;déranger ou hors ligne pour permettre aux autres utilisateurs de savoir leur disponibilité. Les informations de présence de Skype entreprise sont présentées tout au long de la suite.
+- Afficher leur statut &mdash; de présence par exemple, disponible, absent (e), ne pas déranger ou hors ligne &mdash; pour permettre aux autres utilisateurs de savoir leur disponibilité. Les informations de présence de Skype entreprise sont présentées tout au long de la suite.
     
 - Envoyer et recevoir des messages texte en temps réel sur un réseau IP (Internet Protocol), tel qu’Internet ou le réseau d’entreprise d’une organisation. La messagerie instantanée est disponible pour la communication à plusieurs et entre utilisateurs Skype. Le texte MI est crypté pour une sécurité accrue.
     
@@ -50,7 +50,7 @@ Vous pouvez en savoir plus sur la messagerie instantanée, la présence et les c
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Média, vidéo et audio entre utilisateurs Skype
 
-Les utilisateurs Skype Entreprise Online peuvent passer des appels audio et vidéo sur un ordinateur en tête à tête avec d’autres utilisateurs Skype Entreprise au moyen d’un PC et d’une webcam. Un utilisateur Skype Entreprise Online peut lancer des appels audio et vidéo entre utilisateurs Skype avec un autre utilisateur dans la même organisation Skype Entreprise Online (à l’intérieur ou à l’extérieur du pare-feu d’entreprise) ou avec un autre utilisateur Skype Entreprise dans un domaine fédéré Skype Entreprise, tant que les deux domaines Skype Entreprise sont correctement configurés, pris en charge et autorisés à fédérer.
+Skype for Business Online users can make one-to-one computer-based audio and video calls to other Skype for Business users using a PC and a web camera. A Skype for Business Online user can initiate Skype-to-Skype audio and video calls with another user in the same Skype for Business Online organization (within or outside the corporate firewall), or with another Skype for Business user in a Skype for Business federated domain if the two Skype for Business domains are correctly configured, supported, and permitted for federation.
   
 Pour savoir comment configurer les options d’appareil audio dans Skype entreprise, reportez-vous à la rubrique [Set Audio Device Options in Skype for](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff) Business. 
   
@@ -71,19 +71,19 @@ En plus de l’audio, Skype entreprise permet aux utilisateurs de se connecter p
 Pour en savoir plus sur les réunions Skype entreprise Online, voir [commencer à utiliser Skype entreprise pour les réunions de messagerie instantanée et en ligne](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd).
   
 > [!IMPORTANT]
-> Il est possible que des fonctionnalités de conférence audio et vidéo Skype Entreprise à plusieurs ne soient pas disponibles dans certains pays en raison de restrictions réglementaires. Pour obtenir plus d'informations, consultez les [restrictions de licence existantes](https://go.microsoft.com/fwlink/?LinkId=278963). 
+> Multiparty Skype for Business audio and video capabilities might not be available in certain countries due to regulatory restrictions. For details, see [About license restrictions](https://go.microsoft.com/fwlink/?LinkId=278963). 
   
 ## <a name="security-and-archiving"></a>Sécurité et archivage
 
 Le trafic Microsoft (trafic de signal et de média) est chiffré à l’aide du protocole TLS (Transport Layer Security). Toute personne qui intercepte une communication ne voit que du texte chiffré. Par exemple, si un utilisateur accède à des présentations, des appels et à la messagerie instantanée de Skype Entreprise Online lorsqu'il est connecté à un réseau Wi-Fi public (à l'aéroport par exemple), ses communications sont chiffrées pour éviter qu'elles ne soient interceptées par des « renifleurs » de réseau.
   
-Skype Entreprise prend en charge l'archivage des messages instantanés de pair à pair et entre plusieurs utilisateurs, et des activités de chargement de contenu dans les réunions. La fonctionnalité d'archivage requiert Exchange et est contrôlée par l'attribut Archive permanente de la boîte aux lettres Exchange de l'utilisateur, qui archive les messages électroniques et le contenu Skype Entreprise.
+Skype for Business provides archiving of peer-to-peer instant messages, multiparty instant messages, and content upload activities in meetings. The archiving capability requires Exchange and is controlled by the user's Exchange mailbox In-Place Hold attribute, which archives both email and Skype for Business contents.
   
-Tout l'archivage réalisé dans Skype Entreprise est considéré comme « archivage de niveau utilisateur », car vous l'activez et le désactivez pour un ou plusieurs utilisateurs ou groupes d'utilisateurs spécifiques en créant, configurant et appliquant une stratégie d'archivage de niveau utilisateur à ces utilisateurs. Il n'existe aucun contrôle direct des paramètres d'archivage à partir du Centre d'administration Skype Entreprise. 
+All archiving in Skype for Business is considered "user-level archiving" because you enable or disable it for one or more specific users or groups of users by creating, configuring, and applying a user-level archiving policy for those users. There is no direct control of archiving settings from within the Skype for Business admin center. 
   
 ## <a name="exchange-and-sharepoint-interoperability"></a>Interopérabilité Exchange et SharePoint
 
-Skype Entreprise Online comprend des images en haute définition, des mises à jour de statut de présence en fonction des informations de calendrier Exchange, un magasin de contacts unifié, des fonctionnalités d'archivage, des messages d'absence du bureau dans Skype Entreprise et des fonctionnalités de statut de présence et de clic pour communiquer dans Outlook. Cette interopérabilité nécessite que le client Skype Entreprise soit en cours d'exécution sur l'ordinateur de l'utilisateur.
+Skype for Business Online includes high definition pictures, presence status updates based on Exchange calendar information, unified contact store, archiving, out-of-office messages in Skype for Business, and presence status and click-to-communicate in Outlook. This interoperability requires running the Skype for Business client on the user's desktop.
   
 Dans certains plans d'abonnement, Skype Entreprise peut s'intégrer avec la messagerie unifiée d'Exchange Online pour :
   
@@ -91,7 +91,7 @@ Dans certains plans d'abonnement, Skype Entreprise peut s'intégrer avec la mess
     
 - Activer Outlook sur le Web pour fournir la messagerie instantanée, la présence, les mises à jour d’État en fonction des informations de calendrier Exchange et de la planification des réunions Skype entreprise.
     
-Skype Entreprise offre l'interopérabilité avec Microsoft SharePoint Server sur site pour la présence et la communication par clic dans les sites SharePoint. Cette interopérabilité nécessite que le client Skype Entreprise soit en cours d'exécution sur l'ordinateur de l'utilisateur. 
+Skype for Business interoperates with on-premises Microsoft SharePoint Server for presence and click-to-communicate in SharePoint sites. This interoperability requires running the Skype for Business client on the user's desktop. 
   
 ## <a name="skype-for-business-online-administration-and-management"></a>Gestion et administration de Skype Entreprise Online
 
@@ -111,13 +111,13 @@ Pour consulter les dernières rubriques d’aide et les procédures de l’admin
   
 ## <a name="audio-conferencing-in-office-365"></a>Audioconférence dans Office 365
 
-Une audioconférence est une conférence dans laquelle au moins un participant se connecte à la partie audio à l'aide d'un téléphone. La possibilité d'accéder à une réunion par téléphone est utile pour les personnes qui sont en déplacement ou ne peuvent pas y participer via un PC ou un appareil mobile. Le téléphone peut également être une meilleure option dans d'autres cas de figure, par exemple lorsque la connectivité Internet est limitée ou lorsqu'une réunion est uniquement diffusée en audio.
+Audio Conferencing is any conference in which at least one participant dials in to the audio portion by using a phone. The ability to use a phone to access a meeting is useful for individuals who are on the road or otherwise can't attend a meeting using a mobile device or PC. Using a phone also can be a better option in other scenarios, such as when internet connectivity is limited or when a meeting is audio only.
   
-Avec l'audioconférence, les utilisateurs de votre organisation peuvent héberger ou créer des réunions qui contiennent des numéros de conférence téléphonique. Les appelants peuvent ensuite utiliser ces numéros de téléphone pour appeler et participer à une réunion avec leur téléphone (ces utilisateurs auront uniquement accès à l'audio, pas aux messages instantanés, aux partages de bureaux ou aux fichiers partagés pendant la réunion). Il vous suffit de configurer la conférence rendez-vous pour les utilisateurs qui comptent planifier ou organiser des réunions. Toute personne en possession du numéro d'appel entrant et de l'ID de conférence peut participer à la réunion, sauf si l'organisateur a verrouillé la réunion. Pour obtenir plus d'informations, consultez les articles sur la [prise en main de la conférence audio](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) et les [numéros d'accès disponibles pour les conférences audio](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+With Audio Conferencing, users in your organization can host or create meetings that contain dial-in phone numbers. Callers can then use those phone numbers to call into a meeting using their phones (users who are dialing into a meeting will only get audio, not instant messages, shared desktops, or files being shared in the meeting). You only need to set up dial-in conferencing for users who plan to schedule or lead meetings. Unless the organizer has locked the meeting, anyone who has the dial-in number and conference ID can join the meeting. For details, see [Getting started with Audio Conferencing](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) and [Dial-in numbers available for Audio Conferencing](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Vous pouvez activer la Conférence rendez-vous en utilisant Microsoft comme fournisseur de services de conférence rendez-vous, ou à l’aide d’un fournisseur de services de conférence rendez-vous tiers (également appelé ACP).
   
-La fonctionnalité d'audioconférence n'est pas disponible dans tous les pays ou toutes les régions. Pour obtenir la liste des pays ou régions dans lesquels vous pouvez acquérir la fonction de conférence audio, reportez-vous à [l'article dédié](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+Audio Conferencing is not available in all countries or regions. For a list of the countries or regions in which you can purchase Audio Conferencing, see [Where can you get Audio Conferencing?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans"></a>Forfaits d’appel
 

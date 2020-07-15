@@ -1,8 +1,7 @@
 ---
 title: Autorisations
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,25 +10,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
-description: Microsoft Exchange Online utilise un modèle d'autorisations de contrôle d'accès basé sur un rôle (RBAC) pour permettre aux administrateurs d'organisations de contrôler finement ce que les utilisateurs et les employés du service informatique peuvent faire dans le service. Par exemple, si un responsable de la mise en conformité est responsable des demandes de recherche de boîtes aux lettres, l'administrateur peut lui déléguer cette fonction administrative au moyen du contrôle RBAC. Exchange Online utilise le même cadre RBAC que Microsoft Exchange Server 2013.
-ms.openlocfilehash: f4df8e3fdaeaf1ef18a28869465affb5e4f4e060
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+description: Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013.
+ms.openlocfilehash: 0593c98857a7ce0c487c628018097395d7a5fe50
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639972"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132688"
 ---
 # <a name="permissions"></a>Autorisations
 
-Microsoft Exchange Online utilise un modèle d'autorisations de contrôle d'accès basé sur un rôle (RBAC) pour permettre aux administrateurs d'organisations de contrôler finement ce que les utilisateurs et les employés du service informatique peuvent faire dans le service. Par exemple, si un responsable de la mise en conformité est responsable des demandes de recherche de boîtes aux lettres, l'administrateur peut lui déléguer cette fonction administrative au moyen du contrôle RBAC. Exchange Online utilise le même cadre RBAC que Microsoft Exchange Server 2013. 
+Microsoft Exchange Online uses a Role Based Access Control (RBAC) model to allow organization administrators to finely control what users and IT employees can do in the service. For example, if a compliance officer is responsible for mailbox search requests, the administrator can delegate this administrative feature to the officer through RBAC. Exchange Online uses the same RBAC framework as Microsoft Exchange Server 2013. 
   
-Au niveau supérieur, le contrôle RBAC se compose de rôles de gestion, de groupes de rôles de gestion et de stratégies d'attribution des rôles de gestion. Les sections suivantes fournissent plus d'informations sur chaque composant RBAC.
+At its highest level, RBAC is made up of management roles, management role groups, and management role assignment policies. The following sections provide more information about each RBAC component.
   
 Pour plus d'informations sur le modèle d'autorisations RBAC utilisé dans Exchange Online, consultez la rubrique [Autorisations](https://go.microsoft.com/fwlink/p/?LinkId=271935).
   
 ## <a name="role-based-permissions"></a>Autorisations basées sur des rôles
 
-Dans Exchange Online, les autorisations que vous accordez aux administrateurs et aux utilisateurs sont basées sur des rôles de gestion. Un rôle définit un ensemble de tâches qu'un administrateur ou un utilisateur peut effectuer. Par exemple, un rôle de gestion appelé  `Mail Recipients` définit les tâches qu'une personne peut effectuer sur un ensemble de boîtes aux lettres, contacts et groupes de distribution. Lorsqu'un rôle est assigné à un administrateur ou à un utilisateur, il obtient les autorisations associées à ce rôle. 
+In Exchange Online, the permissions that you grant to administrators and users are based on management roles. A role defines the set of tasks that an administrator or user can perform. For example, a management role called  `Mail Recipients` defines the tasks that someone can perform on a set of mailboxes, contacts, and distribution groups. When a role is assigned to an administrator or user, that person is granted the permissions provided by the role. 
   
 Il existe deux types de rôles : rôles d'administrateur et rôles d'utilisateur final :
   
@@ -37,9 +36,9 @@ Il existe deux types de rôles : rôles d'administrateur et rôles d'utilisateur
     
 - **Rôles d’utilisateur final** Ces rôles, assignés à l’aide de stratégies d’attribution de rôle, permettent aux utilisateurs de gérer les aspects de leurs propres boîtes aux lettres et groupes de distribution qu’ils possèdent. Les rôles d'utilisateur final commencent par le préfixe  `My`.
     
-Les rôles concèdent aux administrateurs et utilisateurs auxquels ils sont attribués des autorisations pour effectuer des tâches en mettant à leur disposition des cmdlets. Du fait que le Centre d'administration Exchange et l'environnement de ligne de commande Exchange Management Shell utilisent des cmdlets pour gérer Exchange Online, l'accès à une cmdlet autorise l'administrateur ou l'utilisateur à effectuer des tâches dans chacune des interfaces de gestion Exchange Online.
+Roles give administrators and users permissions to perform tasks by making cmdlets available to those who are assigned the roles. Because the Exchange admin center (EAC) and Exchange Management Shell use cmdlets to manage Exchange Online, granting access to a cmdlet gives the administrator or user permission to perform the task in each of the Exchange Online management interfaces.
   
-Les Autorisations basées sur des rôles de Microsoft Online Services se superposent de deux façons à ceux de du contrôle RBAC de Exchange Online RBAC. D'abord, les utilisateurs qui sont des administrateurs généraux ou des administrateurs de service dans Microsoft Online reçoivent automatiquement le rôle de gestion de l'organisation dans Exchange Online. Ensuite, les utilisateurs qui sont des administrateurs d'assistance dans Microsoft Online reçoivent automatiquement le rôle d'assistance dans Exchange Online. Sinon, les deux modèles de sécurité sont gérés séparément.
+The role-based permissions for Microsoft Online Services overlap with those of Exchange Online RBAC in two ways. First, users who are Global Administrators or Service Administrators in Microsoft Online are automatically assigned to the Organization Management role group in Exchange Online. Second, users who are Help Desk Administrators in Microsoft Online are automatically assigned to the Help Desk role group in Exchange Online. Otherwise, the two security models are managed separately.
   
 > [!IMPORTANT]
 > Certains rôles disponibles dans la version sur site de Microsoft Exchange Server 2013 ne sont peut-être pas disponibles dans Exchange Online. 
@@ -57,7 +56,7 @@ Pour plus d'informations sur les groupes de rôles, consultez la section [Groupe
   
 ## <a name="role-assignment-policies"></a>Stratégies d'attribution des rôles
 
-Les stratégies d'attribution des rôles de gestion associent les rôles de gestion d'utilisateur final aux utilisateurs. Les stratégies d'attribution des rôles déterminent les rôles chargés de contrôler ce que les utilisateurs peuvent effectuer au moyen de leurs boîtes aux lettres ou de leurs groupes de distribution. Ces rôles ne gèrent pas les fonctionnalités qui ne sont pas directement associées à l'utilisateur. Lorsque vous créez une stratégie d'attribution de rôle, vous définissez tout ce qu'un utilisateur peut effectuer avec sa boîte aux lettres. Par exemple, une stratégie d'attribution de rôle peut permettre à un utilisateur d'afficher le nom complet, de configurer la messagerie vocale et des règles de boîte de réception. Une autre stratégie d'attribution de rôle peut autoriser un utilisateur à modifier l'adresse, à utiliser des messages textuels et à configurer des groupes de distribution. Tous les utilisateurs munis d'une boîte aux lettres Exchange Online, y compris les administrateurs, reçoivent une stratégie d'attribution de rôle par défaut. Vous pouvez décider de la stratégie d'attribution de rôle à attribuer par défaut, choisir les éléments que la stratégie d'attribution de rôle par défaut doit inclure, remplacer les valeurs par défaut pour certaines boîtes aux lettres ou choisir de n'attribuer aucune stratégie d'attribution de rôle par défaut.
+Management role assignment policies associate end-user management roles to users. Role assignment policies consist of roles that control what users can do with their mailboxes or distribution groups. These roles don't allow management of features that aren't directly associated with the user. When you create a role assignment policy, you define everything a user can do with his or her mailbox. For example, a role assignment policy might allow a user to set the display name, set up voice mail, and configure Inbox rules. Another role assignment policy might allow a user to change the address, use text messaging, and set up distribution groups. Every user with an Exchange Online mailbox, including administrators, is given a role assignment policy by default. You can decide which role assignment policy should be assigned by default, choose what the default role assignment policy should include, override the default for certain mailboxes, or not assign any role assignment policies by default.
   
 > [!IMPORTANT]
 > Certaines attributions de rôles disponibles dans la version sur site de Microsoft Exchange Server 2013 ne sont peut-être pas disponibles dans Exchange Online. 

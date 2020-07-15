@@ -1,8 +1,7 @@
 ---
 title: Description du service Office 365 - Protection avancée contre les menaces
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 4e39c40c0448e35ed0df554499a6c2aa2d5c404c
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213946"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132368"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
-Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide. Ce service comprend des fonctionnalités permettant de protéger en temps réel votre organisation contre des liens dangereux et dispose de fonctionnalités avancées de suivi d’URL et de création de rapports qui donnent aux administrateurs un aperçu du type d’attaques ayant lieu dans l’organisation.
+Microsoft Office 365 Advanced Threat Protection (ATP) is a cloud-based email filtering service that helps protect your organization against unknown malware and viruses by providing robust zero-day protection, and includes features to safeguard your organization from harmful links in real time. ATP has rich reporting and URL trace capabilities that give administrators insight into the kind of attacks happening in your organization.
 
-Les principales façons d’utiliser la protection avancée contre les menaces pour la protection des messages sont les suivantes :
+Vous pouvez utiliser ce service à des fins de protection de la messagerie dans les configurations suivantes :
 
-- Dans un scénario Office 365 ATP à filtrage uniquement, l’ATP fournit une protection de messagerie en nuage pour votre environnement Exchange Server local ou toute autre solution de messagerie SMTP locale.
+- Dans un scénario de filtrage Office 365 Protection avancée contre les menaces uniquement, l’ATP offre une protection de la messagerie basée sur le Cloud pour votre environnement Exchange Server local ou toute autre solution de messagerie SMTP locale.
 
-- Office 365 - Protection avancée contre les menaces peut être activé pour protéger les boîtes aux lettres Exchange Online hébergées dans le cloud. Pour en savoir plus sur Exchange Online, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
+- Office 365 Protection avancée contre les menaces peut être activé pour protéger les boîtes aux lettres Exchange Online hébergées dans le Cloud. Pour en savoir plus sur Exchange Online, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
 
 - Dans un déploiement hybride, le service peut être configuré pour protéger votre environnement de messagerie et contrôler le routage de messagerie lorsque vous disposez à la fois de boîtes aux lettres locales et de boîtes aux lettres dans le cloud avec Exchange Online Protection pour le filtrage des messages entrants.
 
@@ -77,7 +76,7 @@ La protection avancée contre les menaces peut être utilisée avec n’importe 
 
 ## <a name="feature-availability-across-advanced-threat-protection-atp-plans"></a>Disponibilité des fonctionnalités pour les différents plans Protection avancée contre les menaces
 
-Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online » fait généralement référence à la famille de services Office 365 Entreprise.
+Each feature is listed below. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |**Fonctionnalité**|**Plan de l’ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel| Office 365 Entreprise E5|
 |:-----|:-----|:-----|:-----|
@@ -87,7 +86,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 |[Liens fiables](#safe-links)|Oui|Oui|Oui|
 |Liens fiables dans Teams|Oui|Oui|Oui|
 |[ATP pour SharePoint, OneDrive et Microsoft teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Oui|Oui|Oui|
-|[Stratégies anti-hameçonnage.](#anti-phishing-policies)|Oui|Oui|Oui|
+|[Stratégies anti-hameçonnage](#anti-phishing-policies).|Oui|Oui|Oui|
 |[Rapports en temps réel](#real-time-reports)|Oui|Oui|Oui|
 |*Automatisation, recherche, correction et éducation*|
 |[Suivi des menaces](#threat-trackers)|Non|Oui|Oui|
@@ -98,7 +97,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 > [!TIP]
 > Vous souhaitez obtenir une liste téléchargeable des différences entre Office 365 ATP plan 1 et plan 2 ? [Obtenir le PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf). 
 
-## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de protection avancée contre les menaces (ATP)
+## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de Protection avancée contre les menaces
 
 ### <a name="safe-attachments"></a>Pièces jointes fiables
 
@@ -109,7 +108,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 
 ### <a name="safe-links"></a>Liens fiables
 
-La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection reste chaque fois qu’elle sélectionne le lien, car les liens malveillants sont bloqués de manière dynamique alors que des liens valides sont accessibles.
+La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection est activée à chaque fois qu'ils sélectionnent sur le lien ; les liens malveillants sont bloqués dynamiquement tandis que les liens fiables peuvent être ouverts.
 
 Les liens fiables sont disponibles pour les URL dans les applications suivantes :
 
@@ -134,7 +133,7 @@ La protection avancée contre [les menaces pour SharePoint, OneDrive et Microsof
 
 ### <a name="anti-phishing-policies"></a>Stratégies anti-hameçonnage.
 
-[Protection contre le hameçonnage](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) pour les messages entrants pour les indicateurs qu’un message peut être une tentative de hameçonnage. Lorsque les utilisateurs sont couverts par des stratégies ATP (pièces jointes fiables, liens fiables ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise en fonction des stratégies configurées.
+[Protection contre le hameçonnage](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) pour les messages entrants pour les indicateurs qu’un message peut être une tentative de hameçonnage. Lorsque les utilisateurs font l’objet de stratégies ATP (pièces jointes sécurisées, liens fiables ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage d’ordinateur qui analysent les messages et l’action appropriée est prise, en fonction des stratégies configurées.
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
@@ -142,7 +141,7 @@ Les fonctionnalités de surveillance disponibles dans le centre de sécurité & 
 
 ### <a name="explorer"></a>Explorer
 
-L’Explorateur (également appelé Explorateur de menaces) est un rapport en temps réel qui permet aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Par défaut, ce rapport affiche les données des 7 derniers jours ; Toutefois, les vues peuvent être modifiées pour afficher les données des 30 derniers jours.
+L’Explorateur (également appelé « Explorateur de menaces ») est un rapport en temps réel qui permet aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Par défaut, ce rapport présente les données des 7 derniers jours. Toutefois, les affichages peuvent être modifiés pour afficher les données des 30 derniers jours.
 
 L’Explorateur contient des vues, telles que des programmes malveillants (pour le courrier électronique et le contenu), des envois, des hameçons et tous les messages électroniques. Pour savoir comment Explorer compare les détections en temps réel, [Téléchargez ce PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 
@@ -150,7 +149,7 @@ Pour plus d’informations sur l’Explorateur (dans Office 365 Advanced Threat 
 
 ### <a name="real-time-detections"></a>Détections en temps réel
 
-Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Comme dans l’Explorateur, par défaut, ce rapport affiche les données des 7 derniers jours.
+Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. À l’instar de l’Explorateur, ce rapport affiche par défaut les données des 7 derniers jours.
 
 Les détections en temps réel contiennent des affichages, tels que des programmes malveillants (pour la messagerie électronique et du contenu), des envois et des hameçons. Pour voir comment les détections en temps réel sont comparées avec l’Explorateur, [Téléchargez ce PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
 

@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC High et DoD
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,16 +9,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Découvrez les engagements uniques et les différences des environnements Office 365 GCC High et DoD par rapport à l’environnement commercial Office 365.
-ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
-ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
+ms.openlocfilehash: 388e7c3a37e88233982cf12a73e22622a61d1cb8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914780"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131978"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
-Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment.  
+To meet the unique and evolving requirements of the United States Department of Defense, as well as contractors holding or processing DoD controlled unclassified information (CUI) or subject to International Traffic in Arms Regulations (ITAR), Microsoft offers GCC High and DoD environments. Available through Volume Licensing, interested organizations go through a validation process to ensure eligibility before an environment is established. Trials are not available at this time. 
   
 Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Pour plus d’informations sur l’achat, consultez [la rubrique Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
@@ -35,11 +34,11 @@ GCC High et DoD répondent aux critères de conformité concernant les certifica
     
 - Les contrôles de sécurité et les améliorations apportées au contrôle pour le guide des exigences de sécurité de Cloud Computing (SRG) du département de la Défense des États-Unis pour les informations jusqu'au niveau d'impact 5 (L5).
     
-Les abonnés du département de la Défense à Office 365 bénéficieront des services fournis par l’environnement exclusif du DoD satisfaisant aux exigences du guide SRG DOD L5. Les abonnés extérieurs au département de la Défense bénéficieront des services de l’environnement de la Défense du gouvernement américain, qui est évalué au niveau de L5 mais utilise la segmentation L4.
+Department of Defense subscribers to Office 365 will receive services provided from the DOD exclusive environment that meets DOD SRG L5. Non-Department of Defense subscribers will receive services from the US Government Defense environment which is assessed at L5, but uses L4 segmentation.
   
 ## <a name="background-screening"></a>Filtrage des antécédents 
 
-Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’environnement de production GCC High et DoD. Toutes les personnes demandant une élévation temporaire des autorisations qui leur accorderait l’accès au contenu client doivent d’abord faire l’objet des vérifications des antécédents suivantes.
+Office 365 staff do not have standing access to GCC High and DoD production. Any staff who request temporary permission elevation which would grant access to customer content must first have passed the following background checks.
   
 |||
 |:-----|:-----|
@@ -73,7 +72,7 @@ Les [demandes de fichiers](https://support.office.com/article/f54aa7f8-2589-4421
 En outre, les adresses de messagerie électronique non GCC associées aux profils utilisateur ne sont pas prises en charge et n’autorisent pas l’envoi de messages électroniques d’alerte. Par exemple, l’utilisateur local A reçoit une adresse de messagerie Gmail, puis est synchronisée avec une organisation Azure GCC High. L’utilisateur A accède à une bibliothèque et crée une alerte pour les modifications. L’alerte n’est pas envoyée à l’adresse Gmail.
   
 
-### <a name="skype-for-business-online"></a>Skype Entreprise Online
+### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
 

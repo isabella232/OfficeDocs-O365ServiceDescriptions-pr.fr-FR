@@ -1,8 +1,7 @@
 ---
 title: Gestion de portefeuille
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Les fonctionnalités de gestion de portefeuille suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 50b8ec7e0cd8a0a8366ee2842a767d68c591ad4e
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546067"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131228"
 ---
 # <a name="portfolio-management"></a>La gestion de portefeuille
 
@@ -37,19 +36,19 @@ Les ressources sont les personnes, les documents ou les coûts nécessaires pour
   
 ## <a name="financial-management"></a>Gestion financière
 
-Adoptez des processus de gestion financière pour améliorer les estimations de coûts et de bénéfices. Suivez efficacement les performances de coûts pour garantir que chaque projet est mené à bien dans le respect du budget et que le portefeuille dégage les bénéfices prévus. Pour en savoir plus, consultez la rubrique [Guide des solutions de gestion de portefeuille de projets (livre blanc)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Participer à un flux de travail
 
-Les flux de travail permettent de structurer les projets afin de passer aux phases suivantes. Un flux de travail inclut les définitions des étapes du cycle de vie par lesquelles le projet passe, telles que la création de proposition et l’approbation initiale. Le flux de travail définit les informations requises ou verrouillées à chaque étape.
+Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
   
 ## <a name="portfolio-analytics-and-selection"></a>Analyse et sélection de portefeuille
 
-Identifiez, sélectionnez et offrez en toute efficacité les portefeuilles de projets qui s'alignent le mieux à la stratégie professionnelle de votre entreprise et qui maximisent votre RSI. Pour en savoir plus, consultez la rubrique [Guide des solutions de gestion de portefeuille de projets (livre blanc)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Gestion de programmes
 
-Chaque projet au sein de la gestion de programmes présente son propre ensemble d'objectifs qui, combinés les uns aux autres, permettent de réaliser les bénéfices prévus du programme général. Pour en savoir plus, consultez la rubrique [Guide des solutions de gestion de portefeuille de projets (livre blanc)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>Feuille de route
 

@@ -1,7 +1,7 @@
 ---
-title: Description du service de messagerie de briefing
-ms.author: sharik
-author: skjerland
+title: Description du service de courrier
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Le courrier électronique de briefing permet aux utilisateurs de tirer le meilleur parti de chaque jour. Elle identifie les opportunités entre différents éléments et fournit des rappels opportuns.
-ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260659"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132008"
 ---
-# <a name="briefing-email-service-description"></a>Description du service de messagerie de briefing
+# <a name="briefing-email-service-description"></a>Description du service de courrier
 
 Le courrier électronique de briefing permet aux utilisateurs de garder le contrôle de leur calendrier et d’être intentionnels de leur jour. Au cours des deux premières heures de la journée de travail (comme configuré dans Outlook), ils recevront un courrier électronique sur tous les éléments pertinents afin de mieux vous préparer à l’avance, notamment :
 

@@ -1,20 +1,19 @@
 ---
 title: Licences Microsoft 365 pour les petites et moyennes entreprises
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium est l’offre de Microsoft de meilleure qualité pour les petites et moyennes entreprises. Microsoft 365 Business Premium est une solution intégrée qui rassemble Microsoft 365 productivité, la sécurité avancée et la gestion des appareils.
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988858"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132538"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licences Microsoft 365 pour les petites et moyennes entreprises
 
@@ -121,7 +120,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparaison des fonctionnalités : Microsoft 365 Business standard et Microsoft 365 pour les offres professionnelles
 
-|**Zone de service**   |**Fonctionnalité** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
+|**Zone de service**   |**Fonctionnalité** | **Microsoft 365 Business Standard** | **Microsoft 365 Business Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licences disponibles** | Nombre maximal d’utilisateurs | 300 | 300 | Illimité | Illimité |
 |**Applications Office** | Installer Office sur un maximum de 5 PC/Mac + 5 tablettes + 5 smartphones par utilisateur (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
@@ -129,7 +128,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Hub pour le travail d’équipe** | Espace de travail de conversation, réunions en ligne et plus encore dans Microsoft teams | Oui | Oui | Oui | Oui |
 |**Stockage de fichiers** | OneDrive Entreprise | 1 to par utilisateur | 1 to par utilisateur | illimité | illimité |
 |**Réseaux sociaux, vidéo, sites** | Yammer, SharePoint Online, planificateur | Oui | Oui | Oui | Oui |
-|   | Stream | | Oui | Oui | Oui |
+|   | Flux | | Oui | Oui | Oui |
 |**Applications métiers** | Planification des &ndash; Réservations d’applications<sup>1</sup> | Oui | Oui | Oui | Oui |
 |   | Applications métiers &ndash; MileIQ<sup>1</sup> | Oui | Oui | Non | Non |
 |**Protection contre les menaces** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, protection des données d’entreprise | Non | Non | Oui | Oui |
@@ -150,7 +149,7 @@ Cet article compare les options de licence pour les PME, avec une mise en évide
 |**Analyse** | Power BI Pro, MyAnalytics | Non | Non | Non | Oui |
 | | Insights par MyAnalytics | Oui | Oui | Oui | Oui |
 |**Assistance** | Courrier électronique de briefing | Oui | Oui | Oui | Oui |
-|**Voix** | Conférence RTC, PBX Cloud | Non | Non | Non | Oui |
+|**Vocale** | Conférence RTC, PBX Cloud | Non | Non | Non | Oui |
 
 **Notes**
 

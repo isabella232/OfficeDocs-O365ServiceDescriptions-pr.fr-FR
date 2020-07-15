@@ -1,8 +1,7 @@
 ---
 title: Limites de Skype Entreprise Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Les limites de Skype entreprise Online appartiennent aux catégories suivantes.
-ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 6f9cf165c2b0bf9408ce0801740bb3abf0caa5a4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639702"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131018"
 ---
 # <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
@@ -39,7 +38,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 ## <a name="peer-to-peer-limits"></a>Limites pair à pair
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **Limite de transfert de fichiers** Taille maximale d'un fichier qui peut être transféré lors d'une conversation par messagerie instantanée dans Skype Entreprise Online. Pour connaître les types de fichiers dont le transfert est bloqué, consultez l'article du support Microsoft sur [l'envoi ou la réception de fichiers ou de pièces jointes dans Skype Entreprise Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **Limite des conversations ouvertes dans des onglets** Nombre maximal d'onglets de conversation qu'un utilisateur Skype Entreprise peut ouvrir en même temps. 
     
@@ -47,13 +46,13 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Microsoft 365 entreprise Basic** <br/> |**Microsoft 365 Business standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F3** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F3** <br/> |
 |Limite de transfert de fichiers  <br/> |Sans limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Non applicable  <br/> |
 |Limite de conversation<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicable  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Un client peut démarrer une conversation avec plusieurs utilisateurs (99 maximum), soit en les ajoutant manuellement, soit en envoyant un message instantané à partir du menu contextuel d'un groupe ou d'une liste de distribution. Pour en savoir plus sur la messagerie instantanée dans Skype Entreprise Online, consultez l'article [Envoyer un message instantané dans Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Limites pair à pair parmi les options autonomes
 
@@ -65,7 +64,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Un client peut démarrer une conversation avec plusieurs utilisateurs (99 maximum), soit en les ajoutant manuellement, soit en envoyant un message instantané à partir du menu contextuel d'un groupe ou d'une liste de distribution. Pour en savoir plus sur la messagerie instantanée dans Skype Entreprise Online, consultez l'article [Envoyer un message instantané dans Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Limites de réunion
 
@@ -85,7 +84,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Microsoft 365 entreprise Basic** <br/> |**Microsoft 365 Business standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F3** <br/> |
+|**Fonctionnalité** <br/> |**Skype Entreprise Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise F3** <br/> |
 |Limite de chargement de fichiers  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |500 Mo  <br/> |Non applicable  <br/> |
 |Participants à une réunion Skype Entreprise<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
 |Présentateurs dans une réunion Skype Entreprise  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |Non applicable  <br/> |
@@ -95,7 +94,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 |Personnes dans un groupe d'appel d'équipe  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |Non applicable  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Si une réunion Skype Entreprise compte plus de 75 participants, la liste des participants (présentateurs et participants compris) dans la composition de la réunion est tronquée pour que chaque participant voie uniquement le nom des présentateurs et des participants. La liste des participants complète reste visible pour les présentateurs de la réunion. De plus, les participants ne peuvent pas voir les erreurs liées à la messagerie instantanée et à la vue Galerie. 
+> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>Limites de réunion parmi les options autonomes
 

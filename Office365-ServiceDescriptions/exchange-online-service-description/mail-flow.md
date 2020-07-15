@@ -1,8 +1,7 @@
 ---
 title: Flux de messagerie
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Pour la plupart des organisations, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s’assurer qu’elles sont conformes aux besoins spécifiques de la réglementation ou de l’entreprise. Vous pouvez en savoir plus sur ces options ici.
-ms.openlocfilehash: 66d9dc380d254110e97134840dfdca0d004a84b9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 1ada5a3199e6ae65c6aaa99873f13a4025366a8d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640322"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132718"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 
@@ -45,19 +44,19 @@ Pour plus d'informations, consultez la rubrique [Set up connectors for secure ma
   
 ## <a name="conditional-mail-routing"></a>Routage du courrier conditionnel
 
-Vous pouvez acheminer le courrier vers des sites spécifiques à l'aide de connecteurs et de règles de transport. Avec un routage basé sur des critères, vous pouvez choisir un connecteur en fonction de conditions spécifiques.
+You can direct mail to specific sites by using connectors and transport rules. With criteria-based routing, you can choose a connector based on specific conditions.
   
 Pour plus d'informations, consultez la rubrique [Scenario: Conditional mail routing](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/conditional-mail-routing).
   
 ## <a name="incoming-mail-safe-list"></a>Liste verte de courriers entrants
 
-Vous pouvez ajouter l'adresse IP d'un partenaire de confiance à une liste verte pour être certain que les messages envoyés par le partenaire ne font pas l'objet d'un filtrage du courrier indésirable. Pour ce faire, vous pouvez utiliser la liste d'adresses IP autorisées du filtre de connexion.
+You can add a trusted partner's IP address to a safe list to ensure that messages the partner sends to you are not subject to anti-spam filtering. To do this, you can use the connection filter's IP Allow list.
   
 Pour plus d'informations, consultez la rubrique [Configure the connection filter policy](https://docs.microsoft.com/office365/SecurityCompliance/configure-the-connection-filter-policy).
   
 ## <a name="hybrid-email-routing"></a>Routage hybride du courrier
 
-Un déploiement hybride offre aux entreprises la possibilité d'étendre dans le cloud l'éventail de fonctionnalités proposé et le contrôle administratif qu'elles exercent dans leur organisation Microsoft Exchange locale existante. Dans un transport hybride, les messages envoyés entre des destinataires d'une organisation sont authentifiés, chiffrés et transférés via le protocole TLS (Transport Layer Security) et apparaissent comme « internes » pour des composants Exchange, tels que les règles de transport, la journalisation et les stratégies de protection contre le courrier indésirable. Vous configurez le transport hybride à l'aide de l'Assistant Configuration hybride dans Exchange Server.
+A hybrid deployment gives organizations the ability to extend the feature-rich experience and administrative control they have with their existing on-premises Microsoft Exchange organization to the cloud. With hybrid transport, messages sent between recipients in either organization are authenticated, encrypted, and transferred using Transport Layer Security (TLS), and appear as "internal" to Exchange components such as transport rules, journaling, and anti-spam policies. You configure hybrid transport by using the Hybrid Configuration Wizard in Exchange Server.
   
 Pour plus d'informations sur le routage du courrier dans un déploiement hybride, consultez la rubrique [Routage de transport dans les déploiements hybrides Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271757).
   
@@ -77,13 +76,13 @@ Pour plus d'informations sur les options de transport dans un déploiement hybri
   
 ### <a name="troubleshooting-a-deployment-with-the-hybrid-configuration-wizard"></a>Dépannage d'un déploiement avec l'assistant Configuration hybride
 
-L'utilisation de l'assistant Configuration hybride pour configurer un déploiement hybride dans Microsoft Exchange Server 2013 minimise considérablement le risque que le déploiement hybride rencontre des problèmes. Toutefois, certains points types n'appartenant pas au champ d'application de l'assistant Configuration hybride peuvent, s'ils ne sont pas correctement configurés, poser des problèmes dans un déploiement hybride. Il convient notamment de configurer correctement le serveur d'accès au client et d'installer et configurer correctement les certificats.
+Using the Hybrid Configuration Wizard to configure a hybrid deployment in Microsoft Exchange Server greatly minimizes the potential that the hybrid deployment will experience problems. However, there are some typical areas outside the scope of the Hybrid Configuration Wizard that, if misconfigured, may present problems in a hybrid deployment. These include proper Client Access server configuration and proper certificate installation and configuration.
   
 Pour plus d'informations sur le dépannage d'un déploiement avec l'Assistant Configuration hybride, consultez la rubrique [Dépannage d'un déploiement hybride](https://go.microsoft.com/fwlink/p/?LinkId=271040).
   
 ### <a name="managing-a-hybrid-configuration"></a>Gestion d'une configuration hybride
 
-Vous pouvez modifier une configuration hybride existante dans l'assistant Configuration hybride. Les scénarios incluent la désactivation du transport centralisé ou la désactivation du transport de courrier sécurisé.
+You can modify an existing hybrid configuration by changing settings in the Hybrid Configuration Wizard. Scenarios include disabling centralized transport or disabling secure mail transport.
   
 Pour plus d'informations sur la gestion d'une configuration de déploiement hybride, consultez la rubrique [Gérer un déploiement hybride](https://go.microsoft.com/fwlink/p/?LinkId=271044).
   

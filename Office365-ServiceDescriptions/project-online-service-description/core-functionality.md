@@ -1,8 +1,7 @@
 ---
 title: Fonctionnalités principales
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Les fonctionnalités de base suivantes sont disponibles dans Project online.
-ms.openlocfilehash: ef7db261827e79f47403e897aaabd248a25e4d02
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640192"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131268"
 ---
 # <a name="core-functionality"></a>Fonctionnalités principales
 
@@ -43,11 +42,11 @@ Cliquez avec le bouton droit sur un élément dans une vue d'un projet (ex. titr
   
 ## <a name="custom-fields"></a>Champs personnalisés
 
-Outre les champs fournis avec Project, vous pouvez aussi utiliser des champs personnalisés pour répondre aux besoins de votre organisation. Pour en savoir plus sur les champs, consultez la rubrique [Référence des champs disponibles](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Fonction copier/coller améliorée entre les applications Microsoft Office
 
-Collaborez sur le développement d'un planning en copiant et collant des détails entre des applications Office telles que Word. En savoir plus sur la [fonction copier/coller de Word dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
+Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Diagramme de Gantt, calendrier et vues de feuille de travail
 
@@ -55,7 +54,7 @@ Présenter graphiquement les informations sur le projet à l’aide des affichag
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Interface utilisateur Microsoft Fluent: le ruban
 
-Augmentez votre productivité avec le ruban, une interface avec onglets qui permet de rechercher et d'utiliser rapidement des fonctionnalités et des commandes Project. [En savoir plus sur le ruban](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
@@ -79,15 +78,15 @@ Enregistrez un fichier de projet au format PDF ou XPS. Consultez la rubrique [En
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
-Si vous n'êtes pas sûr de tous les détails pour un projet, vous pouvez utiliser le texte d'espace réservé, comme « TBD » pour les ressources, les dates de début, les dates de fin, et ainsi de suite. Pour plus d'informations, consultez la rubrique [Planification de haut en bas](https://go.microsoft.com/fwlink/p/?LinkId=271333).
+If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
 ## <a name="project-templates"></a>Modèles de projets
 
-Vous pouvez gagner beaucoup de temps lors de la création d'un projet en utilisant un ancien projet comme modèle. Consultez la rubrique [Créer un projet à partir d'un autre projet ou d'un modèle](https://go.microsoft.com/fwlink/p/?LinkId=271328).
+You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
 ## <a name="start-experience"></a>Assistance au début
 
-Au lieu de vous laisser avec un projet vide, Project 2013 offre un centre de démarrage pour votre projet. Vous pouvez utiliser des modèles client ou un guide intégré pour démarrer en quatre étapes faciles.
+Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
   
 ## <a name="text-wrap"></a>Retour automatique à la ligne
 

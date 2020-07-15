@@ -1,8 +1,7 @@
 ---
 title: User account management
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft prend en charge les méthodes suivantes pour la création, la gestion et l’authentification des utilisateurs.
-ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002311"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131658"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -32,7 +31,7 @@ Si vous avez besoin d’informations sur les outils qui peuvent vous aider à ef
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>Besoin d’aide pour la connexion, l’installation, la désinstallation ou l’annulation de votre abonnement ?
 
-Obtenir de l’aide pour la [connexion à](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | [l’installation ou à la désinstallation d’Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | à l’aide d’Office[365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Obtenir de l’aide pour la [connexion à](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [l’installation ou à la désinstallation d’Office à l'](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)aide d’Office  |  [365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Pour les autres problèmes, visitez le [Centre de support Microsoft](https://support.microsoft.com/contactus/). Pour obtenir une assistance technique pour Office 365 opéré par 21Vianet en Chine, contactez l'[équipe de support technique 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Pour Office 365 Germany, contactez l'[équipe du support technique d'Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
@@ -50,7 +49,7 @@ Le type d'identité affecte non seulement l'expérience utilisateur et les optio
 
 Lorsque vous créez un utilisateur, le nom de connexion et l’adresse de messagerie de l’utilisateur sont affectés au domaine par défaut comme défini dans le centre d’administration 365 de Microsoft. Pour en savoir plus, consultez [la rubrique ajouter vos utilisateurs et votre domaine](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
-Par défaut, l’abonnement utilise le \< domaine _nom_ \> de la société **. onmicrosoft.com** qui a été créé avec le compte. \* Vous pouvez ajouter un ou plusieurs domaines personnalisés à Microsoft au lieu de conserver le domaine onmicrosoft.com et permettre aux utilisateurs de se connecter avec l’un des domaines validés. Chaque domaine attribué de l'utilisateur est l'adresse de messagerie qui doit apparaître sur les messages électroniques envoyés et reçus. 
+Par défaut, l’abonnement utilise le \< _company name_\> domaine **. onmicrosoft.com** qui a été créé avec le compte. \* Vous pouvez ajouter un ou plusieurs domaines personnalisés à Microsoft au lieu de conserver le domaine onmicrosoft.com et permettre aux utilisateurs de se connecter avec l’un des domaines validés. Chaque domaine attribué de l'utilisateur est l'adresse de messagerie qui doit apparaître sur les messages électroniques envoyés et reçus. 
   
 Vous pouvez héberger jusqu’à 900 domaines Internet enregistrés, chacun étant représenté par un espace de noms différent. 
   
@@ -58,7 +57,7 @@ Pour les organisations utilisant l'authentification unique, tous les utilisateur
   
 Pour plus d'informations à propos des domaines dans Office 365, voir la description du service [Domaines](domains.md). 
   
-\* Si vous utilisez Office 365 géré par 21Vianet en Chine, le domaine par défaut est \<nom_entreprise\> **.onmsChina.cn**. Si vous utilisez Office 365 Germany, le domaine par défaut est \<nom_entreprise\> **.onmicrosoft.de**
+\*Si vous utilisez Office 365 géré par 21Vianet en Chine, le domaine par défaut est \<companyname\> **. onmsChina.CN**. Si vous utilisez Office 365 Germany, le domaine par défaut est \<companyname\> **. onmicrosoft.de**
   
 ## <a name="authentication"></a>Authentification
 
@@ -141,7 +140,7 @@ Si des identités cloud (en nuage) sont utilisées ; les mots de passe sont gén
     
 - Pour renforcer la sécurité, les utilisateurs doivent changer leur mot de passe lorsqu’ils accèdent aux services Microsoft pour la première fois. Par conséquent, avant que les utilisateurs puissent accéder aux services Microsoft, ils doivent se connecter au centre d’administration 365 de Microsoft, où ils sont invités à modifier leur mot de passe.
     
-- Les administrateurs peuvent définir la stratégie d'expiration des mots de passe. Pour plus d'informations, consultez l'article [Définir la stratégie d'expiration des mots de passe pour votre organisation](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
     
 Plusieurs outils permettent aux utilisateurs possédant une identité cloud (en nuage) de réinitialiser leur mot de passe :
   
@@ -173,7 +172,7 @@ Les groupes de sécurité sont utilisés dans SharePoint Online pour contrôler 
   
 ## <a name="administrator-roles"></a>Rôles d'administrateur
 
-Office 365 Entreprise suit un modèle RBAC (contrôle d'accès basé sur un rôle) : les autorisations et les fonctionnalités sont définies par les rôles de gestion. La personne s'inscrivant à Office 365 pour son organisation devient automatiquement un administrateur global ou un administrateur de niveau supérieur. Il y a cinq rôles d'administrateur : administrateur général, administrateur de facturation, administrateur de mots de passe, administrateur de services fédérés et administrateur de gestion des utilisateurs. Pour plus d'informations sur les rôles d'administrateur dans Office 365 Entreprise, notamment sur leur application à l'administration Exchange Online, SharePoint Online et Skype Entreprise Online, consultez la rubrique [Attribuer des rôles d'administrateur dans Office 365 pour les entreprises](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Si vous utilisez Office 365 géré par 21Vianet en Chine, consultez la rubrique [Attribuer des rôles d'administrateur dans Office 365 pour les entreprises](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Administration déléguée et prise en charge pour des partenaires
 
@@ -184,7 +183,7 @@ Des partenaires peuvent être autorisés à administrer des comptes pour le comp
   
 ## <a name="azure-active-directory-services"></a>Services Azure Active Directory
 
-Azure Active Directory apporte à Office 365 des fonctionnalités complètes de gestion des identités et des accès. Il combine des services d'annuaire, une gouvernance des identités avancée, une gestion d'accès aux applications et une plateforme complète basée sur des normes pour les développeurs. Pour plus d'informations sur les fonctionnalités d'Active Directory dans Office 365, voir la page relative à [la personnalisation de la page de connexion et à la réinitialisation du mot de passe libre-service d'utilisateur du nuage](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). En savoir plus sur les [éditions gratuite, de base et Premium d'Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

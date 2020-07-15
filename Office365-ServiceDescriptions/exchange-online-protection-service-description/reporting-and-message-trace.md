@@ -1,8 +1,7 @@
 ---
 title: Création de rapports et suivi des messages
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) offre un grand nombre de rapports qui peuvent vous aider à déterminer l'état général de votre organisation. Certains rapports sont disponibles dans le centre d’administration 365 de Microsoft, tandis que d’autres sont disponibles dans le centre d’administration Exchange.
-ms.openlocfilehash: 58e1c33b331c9bb05bd45893357bba9b5cca9945
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0fab453ae50454e9f613c0996b8baacc7081cb97
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638941"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132758"
 ---
 # <a name="reporting-and-message-trace"></a>Création de rapports et suivi des messages
 

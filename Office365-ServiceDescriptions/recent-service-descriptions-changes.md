@@ -1,8 +1,7 @@
 ---
 title: Modifications récentes de descriptions de service
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: Les tableaux suivants répertorient les modifications récemment apportées au contenu des descriptions de service.
-ms.openlocfilehash: fbc0d162eb2b0236b3fed3cfb1e938aadddb4084
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8a8463698ee378d375243baacdd87c7e77bc2983
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640122"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131078"
 ---
 # <a name="recent-service-descriptions-changes"></a>Modifications récentes de descriptions de service
 
@@ -128,7 +127,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |Office 365 Plateforme  <br/> |[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Ajout de détails de gouvernance avancés.  <br/> |
 ||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Ajout de migrations de données effectuées par la table FastTrack.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Ajout d’une remarque indiquant que le partage fédéré requiert l’utilisation de l’espace d’adressage de disponibilité pour prendre en charge le partage avec d’autres clients.  <br/> |
-|Exchange Online  <br/> |[Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Ajout de limites pour la version héritée Office 365 message Encryption (OME) et le chiffrement de messages Office 365 (OME) avec de nouvelles fonctionnalités.  <br/> |
+|Exchange Online  <br/> |[Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Ajout de limites pour la version héritée Office 365 message Encryption (OME) et le chiffrement de messages Office 365 (OME) avec de nouvelles fonctionnalités.  <br/> |
 |Skype Entreprise  <br/> |[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Ajout d’une remarque indiquant que l’audioconférence peut être ajoutée aux plans d’abonnement Microsoft 365 Business standard, Office 365 Enterprise E1 et Office 365 Enterprise E3 en tant que module complémentaire.  <br/> |
 ||[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Ajout de la remarque indiquant que les crédits de communication peuvent être ajoutés au plan d’abonnement standard de Microsoft 365 Business standard en tant que module complémentaire pour prendre en charge l’audioconférence uniquement.  <br/> |
 ||[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Clarification des fonctionnalités de transfert de fichiers dans Office 365 entreprise F1.  <br/> |
@@ -161,7 +160,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Explication de la note concernant la disponibilité d'Azure Information Protection.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Ajout des fonctionnalités Recherche dans les journaux d'audit, Gouvernance des données avancée et Office 365 Threat Intelligence et de leur disponibilité.  <br/> |
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Correction de l'entrée « Migration à basculement prise en charge » pour indiquer que la migration à basculement Exchange est prise en charge.  <br/> |
-|Office 365 Advanced Threat Protection  <br/> |[Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md) <br/> |Ajout d'informations concernant la fonctionnalité, notamment sa disponibilité.  <br/> |
+|Office 365 – Protection avancée contre les menaces  <br/> |[Description du service Office 365 - Protection avancée contre les menaces](office-365-advanced-threat-protection-service-description.md) <br/> |Ajout d'informations concernant la fonctionnalité, notamment sa disponibilité.  <br/> |
 |SharePoint Online  <br/> |[Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Mise à jour de la description avec l'ajout des applications Office 2016.  <br/> |
 ||[Limites de SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Ajout de cette rubrique.  <br/> |
 |Skype Entreprise  <br/> |[Limites de Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-limits.md) <br/> |Correction de la limite de transfert de fichiers.  <br/> |

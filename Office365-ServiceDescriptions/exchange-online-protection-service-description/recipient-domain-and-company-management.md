@@ -1,8 +1,7 @@
 ---
 title: Gestion des destinataires, des domaines et des entreprises
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) offre plusieurs moyens de gérer les informations concernant les destinataires, les domaines et les entreprises. En tant qu’administrateur, vous pouvez effectuer certaines tâches de gestion dans le centre d’administration Exchange et vérifier les autres tâches de gestion effectuées dans le centre d’administration 365 de Microsoft.
-ms.openlocfilehash: dcd039eab77c1b9df638df5ac3a3e5f6373e852d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a2d2d091a6170e0606702a4a8047a21ad57ac11
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640262"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132768"
 ---
 # <a name="recipient-domain-and-company-management"></a>Gestion des destinataires, des domaines et des entreprises
 
@@ -31,7 +30,7 @@ Les destinataires du message sont classés en tant qu'utilisateurs ou groupes de
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
-Dans EOP, vous pouvez configurer uniquement des rôles d'administrateur. Le Centre d'administration Exchange vous permet d'ajouter directement des utilisateurs à des groupes de rôles d'administrateur par défaut ou d'en supprimer. Aucune personnalisation RBAC n'est disponible. Pour plus d'informations, consultez la rubrique [Gérer les autorisations de groupe de rôles d'administrateur dans EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
+In EOP, you can configure administrative roles only. Users can be added and removed from default admin role groups directly in the EAC. No RBAC customization is available. For more information, see [Manage Admin Role Group Permissions in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
 ## <a name="domain-management"></a>Gestion de domaines
 
@@ -39,13 +38,13 @@ Les domaines gérés sont des domaines protégés par EOP. Le Centre d'administr
   
 ## <a name="match-subdomains"></a>Match subdomains
 
-Dans EOP, vous pouvez activer le flux de messagerie pour les sous-domaines d'un domaine géré. Pour plus d'informations, consultez la rubrique [Activer le flux de messagerie pour les sous-domaines dans EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
+In EOP, you can enable mail flow to subdomains of a managed domain. For more information, see [Enable Email Flow for Subdomains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
 ## <a name="directory-based-edge-blocking-dbeb"></a>Blocage du périmètre basé sur l’annuaire (DBEB)
 
 La fonctionnalité de blocage du périmètre basé sur l’annuaire vous permet de rejeter les messages pour les destinataires non valides sur le périmètre du réseau de service. DBEB permet aux administrateurs d’ajouter des destinataires à extension messagerie à Microsoft et de bloquer tous les messages envoyés à des adresses de messagerie qui ne sont pas présentes dans Microsoft. Si un message est envoyé à une adresse de messagerie valide présente dans Microsoft, le message continue à travers les autres couches de filtrage des services (anti-programme malveillant, blocage du courrier indésirable, règles de transport). Si l'adresse n'est pas présente, le service bloque le message avant même le filtrage, et une notification d'échec de remise (NDR) est envoyée à l'expéditeur pour l'informer que son message n'a pas été remis. 
   
-L'activation de DBEB nécessite une configuration utilisateur et une configuration de domaine. Pour plus d'informations, consultez la rubrique [Utiliser le blocage du périmètre basé sur l'annuaire pour rejeter les messages envoyés à des destinataires non valides](https://go.microsoft.com/fwlink/p/?LinkId=390676).
+Enabling DBEB requires some user and domain configuration. For more information, see [Use Directory Based Edge Blocking to Reject Messages Sent to Invalid Recipients](https://go.microsoft.com/fwlink/p/?LinkId=390676).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

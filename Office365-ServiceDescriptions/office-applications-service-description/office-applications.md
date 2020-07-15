@@ -1,8 +1,7 @@
 ---
 title: Applications Office
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office est un service puissant qui vous permet de trouver les meilleures idées, d’effectuer des opérations et de rester connecté en déplacement. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées.
-ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639672"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131428"
 ---
 # <a name="office-applications"></a>Applications Office
 
@@ -59,7 +58,7 @@ Skype Entreprise est un client de messagerie instantanée et une application de 
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath est un programme qui permet de concevoir, de distribuer, de remplir et de soumettre des formulaires électroniques. Vous pouvez choisir d'ajouter le composant WebPart Formulaire InfoPath à un site SharePoint Online. En savoir plus sur [les composants WebPart Formulaire InfoPath](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Pour découvrir comment les PowerApp, le successeur d’InfoPath, peuvent améliorer la productivité de l’entreprise dans SharePoint sans écrire de code, consultez la rubrique [Customize SharePoint with powerapps](https://powerapps.microsoft.com/infopath/).
   

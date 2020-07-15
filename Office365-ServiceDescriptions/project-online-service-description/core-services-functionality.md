@@ -1,8 +1,7 @@
 ---
 title: Services de base
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Les fonctionnalités des services principaux suivantes sont disponibles dans Project online.
-ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 16ca29f6e05dcf6d3f4a3737961c851fa2c85e05
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638962"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131238"
 ---
 # <a name="core-services-functionality"></a>Services de base
 
@@ -25,11 +24,11 @@ Vous recherchez des informations sur toutes les fonctionnalités de Project Onli
   
 ## <a name="active-directory-integration"></a>Active Directory integration
 
-Active Directory centralise la gestion des autorisations et des informations d'identification des utilisateurs pour les administrateurs. En intégrant Active Directory avec Project, les utilisateurs et les groupes dans Active Directory sont synchronisés dans Project Online ou Project Server 2013. Pour plus d'informations, consultez la rubrique [Gérer la synchronisation des groupes de sécurité avec Active Directory dans Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
+Active Directory provides a central location for administrators to manage user credentials and permissions. Active Directory integration with Project means that users and groups in Active Directory are synchronized in Project Online or Project Server 2013. See [Manage security group synchronization with Active Directory in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=402631).
   
 ## <a name="administration-deployment-and-extensibility"></a>Administration, déploiement et extensibilité
 
-Project Online et Project Server 2013 proposent aux administrateurs des fonctionnalités qui leur permettent de planifier, d'installer, de configurer, de maintenir et de développer Project. Pour plus d'informations, consultez la rubrique [Nouveautés de Project Server 2013 pour les professionnels de l'informatique](https://go.microsoft.com/fwlink/p/?LinkId=272017).
+Project Online and Project Server 2013 provide features for administrators to plan, install and configure, maintain and extend Project. See [What's new for IT pros in Project Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=272017).
   
 ## <a name="getting-started"></a>Prise en main
 
@@ -37,7 +36,7 @@ Le contenu de prise en main est disponible pour Project online. Voir l'article [
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gestion des problèmes et des risques (pour les membres de l’équipe)
 
-Project Online et Project Server 2013 comprennent des fonctions qui permettent de prévenir, d'identifier et d'atténuer les risques et problèmes potentiels liés aux projets ou aux activités. Pour en savoir plus, consultez la rubrique [Gestion des problèmes, des risques et des documents dans Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="office-365-trust-center"></a>Centre de gestion de la confidentialité Office 365
 
@@ -45,7 +44,7 @@ Vos données vous appartiennent. Nous les protégeons afin de préserver votre v
   
 ## <a name="ppm-partner-ecosystem"></a>PPM Partner ecosystem
 
-Les solutions de gestion de portefeuille de projets de Microsoft sont recommandées par des centaines de partenaires Microsoft qui sont certifiés dans le domaine de la gestion de portefeuille de projets, qui ont réussi des examens de certification correspondants et qui ont réalisé de nombreux déploiements dans plus de 80 régions et pays différents. Lorsque vous avez besoin d'aide pour une évaluation, un déploiement ou une formation et que vous êtes prêt à travailler avec des prestataires de services professionnels, [contactez un partenaire de gestion de portefeuille de projets dans votre région](https://go.microsoft.com/fwlink/p/?LinkId=272646).
+Microsoft PPM solutions are backed by hundreds of Microsoft partners who have earned their PPM competency, and undergone relevant exams and numerous deployments in over 80 countries and regions worldwide. When you want help with assessment, envisioning, deployment, or training, and you're ready to engage with professional services organizations, [contact a PPM partner in your region](https://go.microsoft.com/fwlink/p/?LinkId=272646).
   
 ## <a name="service-reliability"></a>Service reliability
 
@@ -61,5 +60,5 @@ Le travail d’équipe détermine la réussite et l’efficacité globale d’un
   
 ## <a name="time-and-task-management-for-team-members"></a>Gestion des tâches et du temps (pour les membres de l’équipe)
 
-Utilisez une approche centralisée et commune à la gestion de tâches et de rapports de temps. Capturez les périodes de travail et chômées à des fins de paie, de facturation et à d'autres fins d'entreprise. Communiquez efficacement l'état sur les projets, les tâches quotidiennes et les demandes ad hoc pour évaluer les pics et les creux d'utilisation ou l'avancement des tâches. Cela vous aide à anticiper l'effet sur les efforts, les coûts et l'échéancier prévus. Pour en savoir plus, consultez la rubrique [Effectuer le suivi de votre temps et de l'avancement de vos tâches](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
   

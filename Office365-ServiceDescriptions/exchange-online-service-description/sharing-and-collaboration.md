@@ -1,8 +1,7 @@
 ---
 title: Partage et collaboration
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8e5ce6ce41f206c5736241340c393833ae78fea7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638892"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132588"
 ---
 # <a name="sharing-and-collaboration"></a>Partage et collaboration
 
@@ -35,9 +34,9 @@ Pour plus d'informations sur le partage fédéré, consultez la rubrique [Partag
   
 ## <a name="site-mailboxes"></a>Boîtes aux lettres de site
 
-Les courriers électroniques et les documents sont généralement conservés dans deux référentiels de données uniques et indépendants. La plupart des équipes collaborent à l'aide de courriers électroniques et de documents. Le problème vient du fait que la messagerie électronique et les documents sont consultés à l'aide de différents clients. Il en résulte généralement une moindre productivité des utilisateurs et une expérience dégradée pour les utilisateurs.
+Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
   
-La boîte aux lettres de site est un nouveau concept Exchange 2013 qui essaie de résoudre ce problème. Les boîtes aux lettres de site améliorent la collaboration et la productivité des utilisateurs en utilisant la même interface client pour permettre l'accès aux documents Microsoft SharePoint 2013 et à la messagerie électronique Exchange. Une boîte aux lettres de site se compose de l'appartenance à un site SharePoint (propriétaires et membres), un stockage partagé par le biais d'une boîte aux lettres Exchange 2013 pour des messages électroniques et un site SharePoint 2013 pour des documents, ainsi qu'une interface de gestion qui répond aux besoins de configuration et de cycle de vie.
+The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
   
 > [!IMPORTANT]
 > Votre plan doit inclure SharePoint. Les boîtes aux lettres de site nécessitent que les utilisateurs détiennent les licences SharePoint et Exchange. 

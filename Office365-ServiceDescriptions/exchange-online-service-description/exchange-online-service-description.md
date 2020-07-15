@@ -1,8 +1,7 @@
 ---
 title: Description du service Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845018"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131548"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -145,7 +144,7 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 |Outlook pour Mac<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui| Non|
 |Outlook pour iOS et Android<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Exchange ActiveSync|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Gestion des appareils mobiles pour Office 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Mobilité et sécurité de base pour Microsoft 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |POP et IMAP|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>12</sup>|
 |SMTP|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge des applications EWS|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|

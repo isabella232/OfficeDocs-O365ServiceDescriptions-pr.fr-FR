@@ -1,8 +1,7 @@
 ---
 title: Partenaires
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,35 +10,35 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
-description: En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
-ms.openlocfilehash: d9c907fc214e992d7ab30ed5a77452c2c0b5053e
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+description: As an authorized Microsoft partner, Microsoft Office 365 offers you an opportunity to grow your customer base and create lasting relationships with them. For a monthly or annual fee paid to you, your customers can use cloud-based services so they don't have to manage data backups, server hardware, and server updates. The services available to you depend on the types of services you are authorized to provide.
+ms.openlocfilehash: e9de8e6b3aadc5c1dcc7ef9d3949439336220f32
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044966"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131688"
 ---
 # <a name="partners"></a>Partenaires
 
 > [!NOTE]
 > Les fonctionnalités partenaires décrites ci-dessous ne sont pas encore disponibles dans Office 365 géré par 21Vianet. 
   
-En tant que partenaire agréé Microsoft, Microsoft Office 365 vous offre l'opportunité d'enrichir votre clientèle de base et de créer et développer vos relations commerciales. Pour un montant qui vous est versé mensuellement ou annuellement, vos clients peuvent utiliser des services en nuage qui leur évite de gérer les sauvegardes de leurs données, le matériel et les mises à jour de leurs serveurs. Les services à votre disposition dépendent des types de services que vous avez l'autorisation de fournir.
+As an authorized Microsoft partner, Microsoft Office 365 offers you an opportunity to grow your customer base and create lasting relationships with them. For a monthly or annual fee paid to you, your customers can use cloud-based services so they don't have to manage data backups, server hardware, and server updates. The services available to you depend on the types of services you are authorized to provide.
   
 > [!NOTE]
-> Pour plus d'informations sur l'utilisation des fonctionnalités partenaires, consultez l'article sur [le développement de votre activité et la gestion de votre compte Office 365](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) et lisez la présentation des fonctionnalités partenaires. Pour obtenir un accès aux fonctionnalités partenaires, vous pouvez rejoindre Cloud Essentials en signant l' [accord Partenaires Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
+> For more information on how to use partner features, see [Build your business and administer your Office 365 partner subscription](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) and review the partner features presentation. To receive access to the partner features, you can join Cloud Essentials by signing the [Microsoft Online Services Partner Agreement](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>Création d’offres d’essai et de bons de commande
 
-Vous pouvez créer et envoyer des invitations à participer à la version d'évaluation à vos clients pour qu'ils essaient Office 365 à l'aide de la page **Présentation du partenaire** dans Office 365. L'invitation peut contenir un ou plusieurs services, en fonction de l'offre. Si vous êtes certifié pour proposer l'administration déléguée, vous pouvez ajouter à l'invitation une option qui vous permet de gérer le compte pour votre client, ce qui lui facilite l'essai de Office 365. 
+You can create and send trial invitations to your customers so they can try Office 365 by using the **Partner overview** page in Office 365. The invitation can contain one or more services, depending on the offer. If you're certified to offer delegated administration, you can add an option to the trial invitation that allows you to administer the account on behalf of your customer. This makes it easier for your customer to try Office 365. 
   
-Après avoir envoyé à un client une offre d'essai de Office 365, vous pouvez suivre l'opération en créant et en envoyant une proposition d'achat personnalisée en fonction de ses besoins, incluant les services particuliers et le nombre de licences dont il a besoin. Si vous êtes certifié pour proposer l'administration déléguée, vous pouvez ajouter à cette proposition l'option qui vous permet de gérer le compte pour votre client,
+After you've sent a trial invitation for Office 365 to a customer, you can follow up by creating and sending a purchase offer that's customized to fit the needs of your customer including the specific services and the number of licenses your customer needs. If you're certified to offer delegated administration, you can add the option to the purchase offer that allows you to administer the account on behalf of your customer.
   
 ## <a name="provide-delegated-administration"></a>Administration déléguée
 
-L'administration déléguée permet à un partenaire de bénéficier de l'accès administratif complet à tous les services et abonnements du client. Cela signifie que vous pouvez effectuer des tâches d'administration pour le compte de vos clients (y compris la configuration de boîtes aux lettres, l'ajout ou la suppression d'utilisateurs ou de groupes, la migration de données et l'envoi de demandes de services au Support technique et au Service clientèle Microsoft. L'administration déléguée est proposée uniquement aux partenaires inscrits aux programmes Cloud Essentials, Cloud Accelerate ou Cloud Deployment.
+Delegated administration allows a partner to have full administrative access to all the customer's services and subscriptions. This means you can perform administrative tasks on behalf of customers (including setting up mailboxes, adding or removing users and groups, data migration, and submitting service requests to Microsoft Customer Service and Support). Delegated administration capability is offered exclusively for partners who are enrolled in Cloud Essentials, Cloud Accelerate or the Cloud Deployment programs.
   
-Avant de pouvoir commencer à gérer le compte d'un client, celui-ci doit vous autoriser en tant qu'administrateur délégué. Pour obtenir cet accord, vous lui envoyez une proposition d'administration déléguée que vous pouvez inclure à une offre d'essai ou à une proposition d'achat. Le client autorise un partenaire à agir en tant qu'administrateur délégué en répondant au courrier électronique d'offre du partenaire.
+Before you can start administering a customer's account, the customer must authorize you as a delegated administrator. To get customer approval, you send them an offer for delegated administration, which you can include with a trial invitation or purchase offer. The customer authorizes a Delegated Administration partner by responding to the partner's invitational email.
   
 Chaque client a le droit d’avoir un partenaire d’administration déléguée. Ce partenaire peut également être un partenaire de référence (POR), mais cela n'est pas indispensable. Les rôles des partenaires de référence et des administrateurs délégués sont indépendants : le client les désigne séparément. Cela permet à un client de choisir un partenaire qui le conseille pour les achats et un autre pour l'implémentation des services gérés. Cela permet également aux partenaires de choisir d'établir des relations commerciales dans un domaine spécialisé avec l'un de ces rôles ou les deux.
   
@@ -47,9 +46,9 @@ Même si un client a autorisé un partenaire à effectuer des tâches administra
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Connexion avec des clients et d'autres partenaires du Marketplace Office 365
 
-Le Office 365 offre aux clients l'opportunité de rechercher les services et le savoir-faire de partenaires. Pour plus d'informations, voir [Me répertorier sur le Marketplace](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
+The Office 365 Marketplace offers customers the opportunity to find partner services and expertise. For more information, see [Get listed in the Marketplace](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
   
-Microsoft Partner Network s'engage à satisfaire les besoins de nos partenaires. Pour rejoindre ce réseau et savoir comment Microsoft satisfait ses partenaires, voir la rubrique [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
+The Microsoft Partner Network is committed to serving the needs of our partners. To join the network, and to see how Microsoft serves its partners, see [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

@@ -1,8 +1,7 @@
 ---
 title: Fonctionnalités de conformité et de sécurité dans l’archivage Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b977fea67c28a660a7468945c76d19677769cd8f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638692"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132738"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans l’archivage Exchange Online
 
@@ -28,15 +27,15 @@ Les sections suivantes décrivent les fonctionnalités de conformité de Microso
 
 Archivage Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également donner aux utilisateurs un menu de stratégies de rétention et les autoriser à appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l’aide d’Outlook 2010 ou version ultérieure ou d’Outlook sur le Web. Dans l'Archivage Exchange Online, les administrateurs gèrent les stratégies de rétention à partir de l'infrastructure sur site.
   
-L'Archivage Exchange Online offre deux types de stratégies : archiver et supprimer. Ces deux types peuvent être appliqués au même élément ou dossier. Par exemple, un utilisateur peut baliser un message électronique afin qu'il soit automatiquement transféré dans l'archive personnelle après un nombre spécifié de jours, puis supprimé après un autre nombre de jours.
+Exchange Online Archiving offers two types of policies: archive and delete. Both types can be applied to the same item or folder. For example, a user can tag an email message so that it is automatically moved to the personal archive in a specified number of days and deleted after another span of days.
   
 Avec Outlook 2010 et versions ultérieures et Outlook sur le Web, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels et peuvent également afficher les stratégies de rétention appliquées et les dates de suppression attendues sur les messages. Les utilisateurs des autres clients de messagerie peuvent également faire supprimer ou archiver des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur, mais ils ne bénéficient pas du même niveau de visibilité et de contrôle.
   
-Les fonctionnalités de stratégie de rétention disponibles dans Archivage Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 (SP2) et versions ultérieures. Les administrateurs peuvent gérer les stratégies de rétention à partir des environnements locaux Exchange Server 2010 et versions ultérieures. Les dossiers gérés, ancienne approche de la gestion des enregistrements de messagerie qui a été introduite dans Exchange 2007, ne sont pas disponibles dans l'archivage Exchange Online et sont incompatibles. Pour en savoir plus, consultez la rubrique [Balises et stratégies de rétention dans Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+The retention policy capabilities offered in Exchange Online Archiving are the same as those offered in Exchange Server 2010 Service Pack 2 (SP2) and later. Administrators can manage retention policies from on-premises Exchange Server 2010 and later environments. Managed Folders, an older approach to messaging records management that was introduced in Exchange 2007, are not available in and not compatible with Exchange Online Archiving. For more details, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Archive permanente et mise en attente pour litige
 
-Lorsqu’une situation de litige est vraisemblablement à craindre, les organisations ont pour obligation de conserver les informations pertinentes qui sont stockées électroniquement (ESI), y compris la messagerie. Cette exigence de stockage de la correspondance électronique peut se faire ressentir avant que les détails précis du litige soient connus, et la conservation s’applique généralement à un grand nombre d’éléments. Les organisations peuvent conserver tous les messages électroniques concernant un sujet spécifique, ou tous les messages de certaines personnes.
+When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
   
 Dans Exchange Online, vous pouvez utiliser la conservation inaltérable et la conservation pour litige pour accomplir les tâches suivantes :
   
@@ -68,19 +67,19 @@ Pour plus d'informations, consultez la rubrique [Conservation inaltérable et co
   
 ### <a name="in-place-ediscovery"></a>Découverte électronique locale
 
-L'Archivage Exchange Online prend en charge la fonction eDiscovery inaltérable pour rechercher les contenus des boîtes aux lettres dans une organisation. Avec le Centre d'administration Exchange ou Windows PowerShell à distance à partir d'un serveur Exchange 2013 local, les administrateurs ou les gestionnaires de découverte autorisés peuvent rechercher dans une boîte aux lettres toutes sortes d'éléments, notamment des e-mails, des pièces jointes, des rendez-vous, des tâches et des contacts. La fonction eDiscovery inaltérable vous permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le récepteur, le type de message, la date d'envoi, la date de réception, la copie carbone et la copie carbone invisible, ainsi que la syntaxe Keyword Query Language (KQL). Pour en savoir plus, consultez la rubrique [Découverte électronique locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Exchange Online Archiving supports In-Place eDiscovery for searching the contents of mailboxes in an organization. Using the Exchange admin center or remote Windows PowerShell from an on-premises Exchange 2013 server, administrators or authorized Discovery managers can search a variety of mailbox items - including email messages, attachments, calendar appointments, tasks, and contacts. In-Place eDiscovery can search simultaneously across primary mailboxes and archives. Rich filtering capabilities include sender, receiver, message types, sent date, received date, carbon copy, and blind carbon copy, along with Keyword Query Language (KQL) syntax. For more details, see [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
-Le Centre d'administration Exchange et Windows PowerShell à distance vous permettent d'explorer jusqu'à 5 000 boîtes aux lettres à la fois lors d'une recherche eDiscovery inaltérable. Pour en savoir plus sur l'utilisation de Windows PowerShell à distance pour exécuter des recherches eDiscovery inaltérable, consultez la rubrique [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
-  
-> [!NOTE]
-> Dans Windows PowerShell à distance, vous pouvez utiliser la cmdlet  `Search-Mailbox` pour explorer plus de 5 000 boîtes aux lettres. Pour savoir comment explorer un grand nombre de boîtes aux lettres avec Windows PowerShell à distance, consultez la rubrique [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
-  
-Les résultats de la recherche eDiscovery inaltérable peuvent être prévisualisés dans le Centre d'administration Exchange, exportés dans un fichier .pst ou copiés dans un type spécial de boîte aux lettres appelé boîte aux lettres de découverte. Les administrateurs ou les responsables de la mise en conformité peuvent se connecter à la boîte aux lettres de découverte pour consulter les messages. Pour en savoir plus, consultez la rubrique [Créer une recherche de découverte électronique inaltérable](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+The Exchange admin center and remote Windows PowerShell can be used to search up to 5,000 mailboxes at a time in an In-Place eDiscovery search. For details about using remote Windows PowerShell to run In-Place eDiscovery searches, see [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
 > [!NOTE]
-> Lors de la copie des résultats de la recherche pour une recherche de découverte électronique locale réalisée dans des archives ou des boîtes aux lettres en nuage et sur site, vous devez sélectionner une boîte aux lettres de découverte sur site. Les messages de la boîte aux lettres principale sur site et de l'archive en nuage sont copiés dans la boîte aux lettres de découverte sur site. 
+> In remote Windows PowerShell, the  `Search-Mailbox` cmdlet can be used to search more than 5,000 mailboxes. For details about searching large numbers of mailboxes using remote Windows PowerShell, see [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
   
-Les administrateurs peuvent également rechercher et supprimer des messages inappropriés envoyés à plusieurs boîtes aux lettres dans leurs organisations. Par exemple, si des informations confidentielles concernant les salaires ont été accidentellement envoyées à tous les collaborateurs, un administrateur peut supprimer ce message des boîtes aux lettres des utilisateurs. Ce type de recherche n'est pas disponible dans le Centre d'administration Exchange. Elle doit être effectuée à l'aide de l'environnement PowerShell à distance. Pour savoir comment supprimer des messages des boîtes aux lettres des utilisateurs, consultez la rubrique [Rechercher et supprimer des messages dans Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=314173).
+Results of an In-Place eDiscovery search can be previewed in the Exchange admin center, exported to a .pst file, or copied to a special type of mailbox, called a discovery mailbox. Administrators or compliance officers can connect to the discovery mailbox to review messages. For details, see [Create an In-Place eDiscovery Search](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+  
+> [!NOTE]
+> When copying search results for an In-Place eDiscovery search performed across on-premises and cloud-based mailboxes or archives, you must select an on-premises discovery mailbox. Messages from the on-premises primary mailbox and the cloud-based archive are copied to the on-premises discovery mailbox. 
+  
+Administrators can also search for and delete inappropriate email messages sent to multiple mailboxes across their organizations. For example, if confidential salary information was accidentally sent to all employees, an administrator can delete the email from the users' mailboxes. This type of search is not available in the Exchange admin center. It must be performed using Remote PowerShell. For details on how to delete messages from users' mailboxes, see [Search and Delete Messages](https://go.microsoft.com/fwlink/p/?LinkId=314173).
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Fonctionnalités de sécurité dans l'archivage Exchange Online
 
@@ -100,13 +99,13 @@ Les connexions client à l'Archivage Exchange Online utilisent les méthodes de 
     
 ### <a name="encryption-smime-and-pgp"></a>Chiffrement : S/MIME et PGP
 
-L'Archivage Exchange Online stocke les messages Secure/Multipurpose Internet Mail Extensions (S/MIME). Toutefois, l'Archivage Exchange Online n'héberge pas les fonctionnalités S/MIME ou les clés publiques, et ne fournit ni référentiel de clés, ni gestion des clés, ni services d'annuaire de clés car tous ces services sont liés à l'infrastructure Exchange sur site.
+Exchange Online Archiving will store Secure/Multipurpose Internet Mail Extensions (S/MIME) messages. However, Exchange Online Archiving does not host S/MIME functions or host the public keys, nor does it provide key repository, key management, or key directory services because all of these services attach to the on-premises Exchange infrastructure.
   
 De même, l'Archivage Exchange Online stocke les messages chiffrés à l'aide de solutions de chiffrement tierces côté client telles que Pretty Good Privacy (PGP).
   
 ### <a name="information-rights-management"></a>Gestion des droits relatifs à l’information
 
-L'Archivage Exchange Online ne fournit pas de services de Gestion des droits relatifs à l'information (IRM), mais les administrateurs peuvent utiliser des services AD RMS (Active Directory Rights Management Services). Si un serveur AD RMS est déployé, Outlook peut communiquer directement avec ce serveur, en permettant aux utilisateurs de composer et de lire les messages protégés par IRM. Si l'interopérabilité entre le serveur AD RMS et l'environnement Exchange sur site est configurée, les utilisateurs pourront composer et lire les messages protégés par IRM.
+Exchange Online Archiving does not provide hosted Information Rights Management (IRM) services, but administrators can use on-premises Active Directory Rights Management Services (AD RMS). If an AD RMS server is deployed, Outlook can communicate directly with that server, enabling users to compose and read IRM-protected messages. If interoperability between the AD RMS server and the on-premises Exchange environment is configured, users will be able to compose and read IRM-protected messages.
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>Prise en charge d’IRM dans Outlook sur le Web
 
@@ -124,9 +123,9 @@ L'Archivage Exchange Online fournit deux types de fonctionnalités d'audit inté
     
 - **Journalisation d'audit de boîte aux lettres** La journalisation d'audit de boîte aux lettres permet aux clients de suivre l'accès aux boîtes aux lettres par les utilisateurs autres que le propriétaire de la boîte aux lettres. 
     
-Plusieurs rapports d'audit prédéfinis sont disponibles dans le centre d'administration Exchange, notamment Modifications de rôles d'administrateur, Mise en attente pour litige et Accès à des boîtes aux lettres par des non-propriétaires. Les administrateurs peuvent filtrer les rapports par date et par rôle, et peuvent exporter tous les événements d'audit pour les boîtes aux lettres spécifiées au format XML pour une rétention à long terme ou une génération de rapports personnalisés.
+Several predefined audit reports are available in the Exchange admin center, including Administrator Role Changes, Litigation Hold, and Non-Owner Mailbox Access. Administrators can filter reports by date and role, and they can export all audit events for specified mailboxes in XML format for long-term retention or custom reporting.
   
-Par défaut, la journalisation d'audit de l'administrateur est activée et l'enregistrement d'audit des boîtes aux lettres est désactivé. Les administrateurs peuvent utiliser Windows PowerShell à distance pour activer l'enregistrement d'audit des boîtes aux lettres pour tout ou partie des boîtes aux lettres de leur organisation. Pour plus d'informations, consultez la rubrique [Rapports d'audit Exchange](https://go.microsoft.com/fwlink/p/?LinkId=314175).
+Administrator audit logging is on by default, and mailbox audit logging is off by default. Administrators can use remote Windows PowerShell to enable mailbox audit logging for some or all mailboxes in their organization. For more information, see [Auditing Reports](https://go.microsoft.com/fwlink/p/?LinkId=314175).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

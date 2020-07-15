@@ -1,8 +1,7 @@
 ---
 title: Planification de projet
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Les fonctionnalités de planification de projet suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 74e091f674bead0ad8300a6045df5181cf5bb71f
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8016984662d42935249e024550296b68479756c2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640202"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131098"
 ---
 # <a name="project-planning"></a>La planification de projet
 
@@ -31,11 +30,11 @@ Les données du planning de référence peuvent être cumulées ou résumées da
   
 ## <a name="budget-planning"></a>Planification budgétaire
 
-La planification budgétaire permet de comparer la progression à un planning de référence que vous définissez au début d'un projet. En savoir plus sur [l'analyse de la valeur acquise](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>Comparer les versions d’un projet
 
-Comparez deux versions d’un projet. Un rapport est créé. Il affiche les modifications telles que l’ajout de nouvelles tâches.
+Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
   
 ## <a name="deadlines"></a>Délais
 
@@ -55,7 +54,7 @@ Regroupez plusieurs lignes dans le plan d'un projet. En savoir plus sur le [grou
   
 ## <a name="reports"></a>Rapports
 
-Avec Project 2016, vous pouvez créer des rapports professionnels clairs et colorés sans exporter vos données dans un autre programme. Ajoutez des images, des graphiques, des animations, des&mdash;liens et tout ce dont vous avez besoin pour partager clairement et efficacement les informations d’état de projet avec les parties prenantes et les membres de l’équipe. En savoir plus sur la [création d'un rapport dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271349).
+Avec Project 2016, vous pouvez créer des rapports professionnels clairs et colorés sans exporter vos données dans un autre programme. Ajoutez des images, des graphiques, des animations, des liens et &mdash; tout ce dont vous avez besoin pour partager clairement et efficacement les informations d’état de projet avec les parties prenantes et les membres de l’équipe. En savoir plus sur la [création d'un rapport dans Project](https://go.microsoft.com/fwlink/p/?LinkId=271349).
   
 ## <a name="team-planner"></a>Planificateur d’équipe
 

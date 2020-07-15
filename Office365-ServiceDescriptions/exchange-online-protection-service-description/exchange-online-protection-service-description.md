@@ -1,8 +1,7 @@
 ---
 title: Description du service Exchange Online Protection
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
-ms.openlocfilehash: 661d2359d53fe740c5217aaecaf2f86e5f741d5c
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 74a2d3a1af3e369e51e1f9b3b4e1cf5cc981c0d8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226203"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132838"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
 
 Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Inclut une liste de plans qui fournissent Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans.
 
-Microsoft Exchange Online Protection (EOP) est un service de filtrage du courrier électronique dans le nuage, qui contribue à protéger votre organisation contre le courrier indésirable et les logiciels malveillants, ainsi que contre les violations de politique de messagerie. EOP peut simplifier la gestion de votre environnement de messagerie et alléger bon nombre des tâches liées à la maintenance du matériel et des logiciels locaux.
+Microsoft Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam and malware, and includes features to safeguard your organization from messaging-policy violations. EOP can simplify the management of your messaging environment and alleviate many of the burdens that come with maintaining on-premises hardware and software.
 
 La liste suivante décrit les principales façons d’utiliser EOP pour la protection de la messagerie :
 
@@ -67,7 +66,7 @@ Pour plus d’informations sur la licence d’accès client Exchange Enterprise 
 Si vous disposez de licences de licence d’accès client Exchange Enterprise avec services et que vous souhaitez mettre en service EOP, suivez les instructions de la procédure de [configuration de votre service EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-your-eop-service). Les étapes de configuration sont les mêmes que pour EOP autonome.
 
 > [!NOTE]
-> De nouvelles fonctionnalités pour la licence d’accès client Exchange Enterprise avec Services sont déployées en même temps qu’Exchange Online, et non EOP autonome. Les calendriers de déploiement pour EOP autonome et Exchange Online/la licence d’accès client Exchange Enterprise avec Services peuvent varier légèrement.
+> New features for Exchange Enterprise CAL with Services are deployed at the same time as Exchange Online, not EOP standalone. Be advised that the deployment schedules for EOP standalone and Exchange Online/Exchange Enterprise CAL with Services may be slightly different.
 
 ## <a name="requirements-for-exchange-online-protection-eop"></a>Configuration requise pour Exchange Online Protection (EOP)
 
@@ -79,7 +78,7 @@ Pour connaître les limites dans EOP, consultez la rubrique [limites d’Exchang
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilité des fonctionnalités pour les différents plans Exchange Online Protection (EOP)
 
-Chaque fonctionnalité est indiquée ci-dessous. Pour obtenir des informations plus détaillées sur les fonctionnalités EOP, cliquez sur les liens du tableau. Lorsque Exchange Online est mentionné, il s'agit généralement de la famille de services Office 365 Entreprise.
+Each feature is listed below. For more detailed information about EOP features, click the links in the table. When Exchange Online is mentioned, it typically refers to the Office 365 Enterprise service family.
 
 |||||
 |:-----|:-----|:-----|:-----|

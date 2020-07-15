@@ -1,8 +1,7 @@
 ---
 title: Stratégie et conformité de message
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,24 +10,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 4d81cef3f2b3edefe21e40b0cde6a6edcc0fc1af
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 5565085472d43230f9059e1dcac115105a2e20d5
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638932"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132698"
 ---
 # <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivage de boîtes aux lettres Exchange Online
 
-Les boîtes aux lettres Exchange Online résident dans le nuage. Pour les archiver, vous nécessitez d'environnements d'hébergement uniques. Dans certains cas, Exchange Online peut également être utilisé pour archiver des boîtes aux lettres locales dans le nuage. Les options d'archivage d'Exchange Online sont décrites dans cette section.
+Exchange Online mailboxes reside in the cloud, and archiving them requires unique hosting environments. In some cases, Exchange Online can also be used to archive on-premises mailboxes in the cloud. The options for archiving with Exchange Online are described in this section.
   
 Exchange Online intègre des fonctionnalités d'archivage pour les boîtes aux lettres en nuage, notamment la fonction d'archivage sur place qui fournit aux utilisateurs un emplacement pratique dans lequel ils peuvent stocker d'anciens messages électroniques. Une archive inaltérable est un type spécial de boîte aux lettres qui apparaît à côté des dossiers de boîte aux lettres principale d’un utilisateur dans Outlook et Outlook sur le Web. Les utilisateurs peuvent accéder à l'archive et l'explorer de la même manière que pour leurs boîtes aux lettres principales. Les fonctionnalités disponibles varient en fonction du client utilisé :
   
 - **Outlook 2016, outlook 2013, outlook 2010 et Outlook sur le Web** Les utilisateurs ont accès aux fonctionnalités complètes de l’archive, ainsi qu’aux fonctionnalités de conformité associées, telles que le contrôle des stratégies de rétention et d’archivage. 
     
-- **Outlook 2007** Les utilisateurs bénéficient d'une assistance élémentaire pour l'archivage local, et certaines fonctionnalités d'archivage et de conformité ne sont pas disponibles. Par exemple, les utilisateurs ne peuvent pas appliquer de stratégies de rétention ou d'archivage aux éléments de boîte aux lettres, et doivent se baser sur des stratégies configurées par l'administrateur 
+- **Outlook 2007** Users have basic support for the In-Place Archive, but not all archiving and compliance features are available. For example, users cannot apply retention or archive policies to mailbox items and must rely on administrator-provisioned policies instead. 
     
 Les administrateurs utilisent le Centre d'administration Exchange ou l'application Windows PowerShell distante pour activer la fonctionnalité d'archivage personnel pour des utilisateurs spécifiques.
   
@@ -44,12 +43,12 @@ Il n'est possible de stocker les données de messagerie que d'un seul utilisateu
   
 > [!IMPORTANT]
 > - L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages vers une boîte aux lettres Exchange Online à des fins d'archivage n'est pas autorisée. Microsoft se réserve le droit de refuser l’archivage illimité dans les cas où une archive de boîte aux lettres n’est pas utilisée dans un scénario personnel ou dans d’autres cas d’utilisation inappropriée.
-> - L'archivage local exige impose certaines conditions de licence aux utilisateurs d'Outlook. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive personnelle. 
+> - In-Place Archive has specific licensing requirements for Outlook users. Outlook 2007 users must have the Office 2007 Cumulative Update for February 2011 to access the personal archive. 
 > - Exchange Online ne prend pas en charge l’applet de commande Windows PowerShell _New-MailboxImportRequest_ d’exchange Server 2010 Service Pack 1 ou une version ultérieure pour l’importation par un administrateur de fichiers. pst dans une archive personnelle. Si la boîte aux lettres principale et l'archive de l'utilisateur se situent dans Exchange Online, un administrateur peut utiliser PST Capture, un outil gratuit qui permet d'importer les données du fichier .pst bers la boîte aux lettres ou l'archive principale de l'utilisateur.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archivage en nuage de boîtes aux lettres locales
 
-L'utilisation d'Exchange Online pour l'archivage en nuage de boîtes aux lettres locales Exchange Server 2010 ou version ultérieure est possible avec Microsoft Exchange Online Archiving, une solution d'archivage hébergée de Microsoft. Cette dernière requiert que l'organisation locale soit en mode hybride ou configurée pour Exchange Online Archiving.
+Using Exchange Online for cloud-based archiving of on-premises Exchange Server 2010 or later mailboxes is possible with Microsoft Exchange Online Archiving, a hosted archiving solution from Microsoft. This requires that the on-premises organization be in Hybrid mode or be set up for Exchange Online Archiving.
   
 > [!IMPORTANT]
 > Les utilisateurs possédant une boîte aux lettres locale sur un serveur de boîtes aux lettres Exchange 2010 et ayant appliqué une stratégie Dossier géré ne peuvent pas activer une archive sur place locale ou en nuage. 
@@ -60,11 +59,11 @@ Exchange Online offre des stratégies de rétention qui permettent aux organisat
   
 Dans Exchange Online, les administrateurs gèrent les stratégies de rétention à l'aide du Centre d'administration Exchange (CAE) ou de l'application Windows PowerShell distante.
   
-Exchange Online propose deux types de stratégies : les stratégies d'archivage et les stratégies de suppression. Ces deux types peuvent être combinés sur le même élément ou dossier. Par exemple, un utilisateur peut baliser un message électronique afin de le déplacer automatiquement vers l'archive locale dans un certain nombre de jours et le supprimer après quelques jours d'intervalle.
+Exchange Online offers two types of policies: archive policies and delete policies. Both types can be combined on the same item or folder. For example, a user can tag an email message to be automatically moved to the In-Place Archive in a specified number of days and deleted after another span of days.
   
 Avec Outlook 2010 ou une version ultérieure et Outlook sur le Web, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels. Ils peuvent également visualiser les stratégies de rétention appliquées et les dates de suppression prévues des messages. Les utilisateurs d'autres clients de messagerie peuvent uniquement archiver ou supprimer des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur.
   
-Les fonctionnalités de stratégie de rétention disponibles dans Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 RU4. Les administrateurs peuvent utiliser Windows PowerShell à distance pour migrer les stratégies de rétention des environnements locaux Exchange Server 2010 ou version ultérieure vers Exchange Online.
+The retention policy capabilities offered in Exchange Online are the same as those offered in Exchange Server 2010 Service Pack 2 RU4. Administrators can use remote Windows PowerShell to migrate retention policies from on-premises Exchange Server 2010 or later environments to Exchange Online.
   
 > [!IMPORTANT]
 > Les dossiers gérés, une approche plus ancienne de la gestion des enregistrements de messagerie qui a été introduite dans Exchange Server 2007, ne sont pas disponibles dans Exchange Online. 
@@ -95,13 +94,13 @@ Le chiffrement de messages avancé Office 365 offre une protection supplémentai
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extension)
 
-S/MIME vous aider à protéger les informations sensibles en envoyant un message signé et chiffré au sein de votre organisation. Les administrateurs peuvent utiliser une session distante de Windows PowerShell pour configurer S/MIME après avoir établi et émis des certificats PKI pour les utilisateurs. Ces certificats doivent être synchronisés à partir d'un service local de certificats Active Directory.
+S/MIME allows you to help protect sensitive information by sending signed and encrypted email within your organization. Administrators can use remote Windows PowerShell to set up S/MIME after establishing and issuing PKI certificates to users. These certificates must be synchronized from an on-premises Active Directory Certificate Service.
   
 S/MIME est pris en charge sur Microsoft Edge et Internet Explorer 11. Actuellement, S/MIME n'est pas pris en charge sur Firefox, Opera et Chrome. Pour plus d'informations, consultez la rubrique [S/MIME pour la signature et le chiffrement des messages](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Archive permanente et mise en attente pour litige
 
-Lorsqu’une situation de litige est vraisemblablement à craindre, les organisations ont pour obligation de conserver les informations pertinentes qui sont stockées électroniquement (ESI), y compris la messagerie. Cette exigence de stockage de la correspondance électronique peut se faire ressentir avant que les détails précis du litige soient connus, et la conservation s’applique généralement à un grand nombre d’éléments. Les organisations peuvent conserver tous les messages électroniques concernant un sujet spécifique, ou tous les messages de certaines personnes.
+When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
   
 Dans Exchange Online, vous pouvez utiliser la conservation inaltérable et la conservation pour litige pour accomplir les tâches suivantes :
   
@@ -132,13 +131,13 @@ Pour plus d'informations, consultez la rubrique [Conservation inaltérable et co
 
 Exchange Online permet aux clients d’effectuer des recherches dans le contenu des boîtes aux lettres au sein d’une organisation à l’aide d’une interface Web. Les administrateurs ou les responsables de la conformité et de la sécurité qui sont autorisés à effectuer des recherches de découverte électronique locale (par affectation) peuvent rechercher dans les messages électroniques, les pièces jointes, les rendez-vous de calendrier, les tâches, les contacts et d'autres éléments. La découverte électronique locale permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le destinataire, le type de message, la date d'envoi/de réception, la copie carbone/copie carbone invisible ainsi que la syntaxe KQL. Les résultats de la recherche incluent également des éléments du dossier Éléments supprimés s'ils correspondent à la requête de recherche.
   
-Les résultats des recherches de découverte électronique locale peuvent être prévisualisés dans l'interface web, exportés dans un fichier PST, ou copiés dans un type spécial de boîte aux lettres appelé boîte aux lettres de découverte. Une boîte aux lettres de découverte présente un quota de 50 Go pour le stockage des résultats de la recherche. Les administrateurs peuvent également connecter Outlook à la boîte aux lettres de découverte pour accéder aux résultats de la recherche et les exporter dans un fichier .pst.
+Results of In-Place eDiscovery searches can be previewed in the web-based interface, exported to a PST file or copied to a special type of mailbox called a Discovery mailbox. A Discovery mailbox has a 50 GB quota for storing search results. Administrators can also connect Outlook to the Discovery mailbox to access search results, and export the search results to a .pst file.
   
-Les administrateurs peuvent utiliser le Centre d'administration Exchange ou l'application Windows PowerShell distante pour effectuer des recherches dans plusieurs boîtes aux lettres. Le Centre d'administration Exchange peut fournir un aperçu en lecture seule des résultats de recherche, en permettant aux administrateurs de vérifier rapidement une recherche et de la réexécuter, si nécessaire, avec différents paramètres. Après avoir optimisé une recherche, l'administrateur peut copier les résultats dans la boîte aux lettres de découverte.
+Administrators use either the Exchange admin center or remote Windows PowerShell to perform multi-mailbox searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox.
   
-Par défaut, une boîte aux lettres de découverte est créée pour chaque organisation. Toutefois, les administrateurs peuvent créer des boîtes aux lettres de découverte supplémentaires à l'aide de Windows PowerShell à distance. Les boîtes aux lettres de découverte ne peuvent pas être utilisées à d'autres fins que le stockage des résultats de recherche de découverte électronique locale.
+By default, one Discovery mailbox is created for each organization, but administrators can create additional Discovery mailboxes using remote Windows PowerShell. Discovery mailboxes cannot be used for any purpose other than storing In-Place eDiscovery search results.
   
-Les administrateurs peuvent utiliser le Centre d'administration Exchange ou l'application Windows PowerShell distante pour effectuer des recherches de découverte électronique locale. Le Centre d'administration Exchange peut fournir un aperçu en lecture seule des résultats de recherche, en permettant aux administrateurs de vérifier rapidement une recherche et de la réexécuter, si nécessaire, avec différents paramètres. Après avoir optimisé une recherche, l'administrateur peut copier les résultats dans la boîte aux lettres de découverte, ou exporter les résultats de la recherche dans un fichier .PST.
+Administrators use either the Exchange admin center or remote Windows PowerShell to perform In-Place eDiscovery searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox or export search results to a PST file.
   
 Les administrateurs peuvent utiliser le centre d'administration Exchange ou Windows PowerShell à distance pour effectuer des recherches dans 10 000 boîtes aux lettres à la fois lors d'une recherche de découverte électronique locale. 
   
@@ -156,7 +155,7 @@ Pour plus d'informations, consultez la rubrique [Découverte électronique local
 
 Vous pouvez utiliser des règles de flux de messagerie pour rechercher des conditions spécifiques sur les messages qui transitent par votre organisation et qui agissent sur ces dernières. Les règles de flux de messagerie vous permettent d’appliquer des stratégies de messagerie aux messages électroniques, aux messages sécurisés, à la protection des systèmes de messagerie et à la prévention des fuites d’informations.
   
-En raison d'obligations légales, d'exigences réglementaires ou de stratégies d'entreprise, de nombreuses organisations sont tenues d'appliquer des stratégies de messagerie afin de limiter l'interaction entre les destinataires et les expéditeurs, à l'intérieur et à l'extérieur de l'organisation. Outre la limitation des interactions entre individus, groupes de service au sein de l'organisation et autres entités externes à celle-ci, certaines organisations sont également sujettes aux exigences suivantes en relation avec la stratégie de messagerie :
+Many organizations today are required by law, regulatory requirements, or company policies to apply messaging policies that limit the interaction between recipients and senders, both inside and outside the organization. In addition to limiting interactions among individuals, departmental groups inside the organization, and entities outside the organization, some organizations are also subject to the following messaging policy requirements:
   
 - blocage du contenu inapproprié entrant ou sortant
     
@@ -189,7 +188,7 @@ Vous pouvez configurer les stratégies DLP dans l'interface de gestion du Centre
     
 - Détecter des informations sensibles dans les pièces jointes, le corps du texte ou les lignes d’objet des messages, et ajuster le niveau de confiance à partir duquel Exchange Online agit.
     
-- Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. La création d'empreintes digitales document vous permet de créer facilement des types d'informations sensibles personnalisés à partir des formulaires texte que vous pouvez utiliser pour définir des règles de transport et des stratégies de protection contre la perte de données.
+- Detect sensitive form data by using Document Fingerprinting. Document Fingerprinting helps you easily create custom sensitive information types based on text-based forms that you can use to define transport rules and DLP policies.
     
 - Ajoutez des conseils de stratégie, qui peuvent aider à réduire les pertes de données en affichant un avertissement pour les utilisateurs d’Outlook 2016, Outlook 2013, Outlook sur le Web et OWA pour les appareils et peuvent également améliorer l’efficacité de vos stratégies en autorisant la création de rapports faux positifs. 
     
@@ -199,9 +198,9 @@ Pour plus d'informations sur la stratégie DLP, consultez la rubrique [Protectio
   
 ## <a name="journaling"></a>Journalisation
 
-Vous pouvez configurer Exchange Online pour journaliser des copies de messages électroniques dans n'importe quelle boîte aux lettres externe pouvant recevoir des messages via SMTP. La journalisation peut aider votre organisation à répondre aux exigences réglementaires, légales et de conformité organisationnelle en enregistrant les communications électroniques échangées. Lors de la planification de la rétention et de la conformité de la messagerie, il est important de bien comprendre la journalisation, son intégration dans les stratégies de conformité de votre organisation et la sécurisation des messages journalisés à l'aide de votre organisation.
+You can configure Exchange Online to journal copies of emails to any external mailbox that can receive messages via SMTP. Journaling can help your organization respond to legal, regulatory, and organizational compliance requirements by recording inbound and outbound email communications. When planning for messaging retention and compliance, it's important to understand journaling and how it fits in with your organization's compliance policies.
   
-Vous pouvez gérer les règles de journal à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Vous pouvez configurer la journalisation en fonction de la liste d'utilisateurs ou de distribution, et choisir de ne consigner que les messages internes, les messages externes, ou les deux. Les messages journalisés incluent non seulement le message d'origine, mais également des informations sur l'expéditeur, les destinataires, les copies et les copies invisibles.
+You can manage journal rules by using the Exchange admin center or remote Windows PowerShell. You can configure journaling on a per-user and per-distribution list basis, and choose to journal only internal messages, only external messages, or both. Journaled messages include not only the original message but also information about the sender, recipients, copies, and blind copies.
   
 Pour garantir la réussite et la fiabilité de la solution de journalisation, vous devez effectuer les tâches suivantes :
   

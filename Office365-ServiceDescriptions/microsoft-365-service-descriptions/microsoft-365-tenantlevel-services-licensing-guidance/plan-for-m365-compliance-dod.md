@@ -1,24 +1,23 @@
 ---
 title: Plan de conformité de Microsoft 365 – Déploiements Département de la Défense (DoD)
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365 est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365 est appropriée pour répondre à ces exigences.
+ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262837"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132488"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan de conformité de Microsoft 365 – Déploiements Département de la Défense (DoD)
 
-Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365 est appropriée pour répondre à ces exigences.
+Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365 est appropriée pour répondre à ces exigences.
 
 > [!NOTE]
 > Si votre organisation répond aux conditions d’éligibilité du ministère Microsoft 365 et qu’elle a été acceptée pour le programme, vous pouvez ignorer les étapes 1 et 2 et passer directement à l’étape 3.
@@ -52,7 +51,7 @@ La [Description de service Office 365 pour le gouvernement américain](https://d
 
 Après avoir décidé que ce service est approprié pour votre organisation, lancez le processus d' [application de ce](https://products.office.com/government/eligibility-validation)service.
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Étape 3. Comprendre les paramètres de sécurité par défaut du gouvernement Microsoft 365
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Étape 3. Comprendre les paramètres de sécurité par défaut du gouvernement Microsoft 365
 
 Nous vous recommandons de prendre le temps de vérifier soigneusement vos paramètres d’administrateur et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant de modifier les paramètres de sécurité par défaut.
 
@@ -80,17 +79,17 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                        |DLP pour les conversations de conversation et de canal    | Dans le backlog d’ingénierie |
 |                                        |Correspondance exacte des données DLP                            | Dans le backlog d’ingénierie |
 |                                        |Explorateur d’activité des étiquettes                         | Dans le backlog d’ingénierie |
-|                                        |Classifieurs de formation                           | Dans le backlog d’ingénierie |
+|                                        |Classifieurs entraînables                           | Dans le backlog d’ingénierie |
 |                                        |Étiquettes de confidentialité et d’étiquetage unifiées         | Dans le backlog d’ingénierie |
-|**Gestion des risques initiés**             |Chiffrement de messages avancé                     | Available              |
-|                                        |Gestion des risques initiés                         | Dans le backlog d’ingénierie |
+|**Gestion des risques internes**             |Chiffrement de messages avancé                     | Available              |
+|                                        |Gestion des risques internes                         | Dans le backlog d’ingénierie |
 |                                        |Conformité des communications                        | Dans le backlog d’ingénierie |
-|                                        |Référentiel sécurisé de client                                | Available              |
+|                                        |Référentiel sécurisé client                                | Available              |
 |                                        |Clé client                                    | Available              |
 |                                        |Gestion des accès privilégiés                    | Dans le backlog d’ingénierie |
 |**Découvrir & répondre**                  |Réservation sur place                            | Available              |
 |                                        |Gestion des cas                                 | Available              |
-|                                        |Recherche                                          | Available              |
+|                                        |Rechercher                                          | Available              |
 |                                        |Exporter                                          | Available              |
 |                                        |Déchiffrement RMS                                  | Available              |
 |                                        |Exportation Native                                   | Available              |
@@ -101,7 +100,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                        |Codage prédictif                               | Dans le backlog d’ingénierie |
 |                                        |Exportation traitée avec chargement d’un fichier                 | Dans le backlog d’ingénierie |
 |                                        |Marquer                                         | Dans le backlog d’ingénierie |
-|                                        |Utilisateurs qui affichent simplement des données                                         | Dans le backlog d’ingénierie |
+|                                        |Observateurs                                         | Dans le backlog d’ingénierie |
 |                                        |Redactions                                      | Dans le backlog d’ingénierie |
 |                                        |Filtrage                                       | Dans le backlog d’ingénierie |
 |                                        |Mise en correspondance des dépositaires et des charges de travail                   | Dans le backlog d’ingénierie |

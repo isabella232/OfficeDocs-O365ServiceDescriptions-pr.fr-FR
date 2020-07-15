@@ -1,23 +1,22 @@
 ---
 title: Conseils de licence Microsoft 365 pour la conformité & la sécurité
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: v-trscho
+author: vtrscho
 audience: ITPro
 ms.topic: reference
-ms.date: 4/13/2020
+ms.date: 7/13/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
+ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089655"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45137560"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -70,7 +69,7 @@ Les services ATP Azure ne sont actuellement pas en mesure de limiter les fonctio
 
 ## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
-La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. Elle fournit également des informations utiles en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
+La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. La fonctionnalité ATP fournit également des informations exploitables en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 

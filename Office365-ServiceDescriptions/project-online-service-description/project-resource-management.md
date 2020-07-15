@@ -1,8 +1,7 @@
 ---
 title: Gestion des ressources du projet
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Les fonctionnalités de gestion des ressources suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 9534503dfe54be12e92041a34d156d462fb91eee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639862"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131108"
 ---
 # <a name="project-resource-management"></a>Gestion des ressources du projet
 
@@ -31,11 +30,11 @@ Gérez les coûts de votre projet.
   
 ## <a name="manage-nonworking-time"></a>Gestion des durées non travaillées
 
-Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. En savoir plus sur [l'ajout de jours fériés et de jours de vacances à votre projet](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Audit des ressources
 
-Quand les personnes qui participent à votre projet remplissent trop de rôles en même temps, vous pouvez ajuster automatiquement leurs affectations. Cette technique est connue sous le nom de « nivellement des ressources ». Consultez la rubrique [Niveler les affectations de ressources](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Feuille de ressource et vues d’utilisation
 
@@ -51,7 +50,7 @@ Ajoutez des ressources au projet d'une équipe, telles que des ressources consom
   
 ## <a name="work-generic-and-material-resources"></a>Ressources de travail, générales et matérielles
 
-Ajoutez des ressources à votre projet, y compris des ressources de travail telles que du personnel, des ressources génériques telles que des menuisiers et des ressources consommables telles que des ordinateurs et du ciment. Consultez la rubrique relative à la [saisie des coûts des équipements et d'autres ressources de coût](https://go.microsoft.com/fwlink/?LinkId=402922).
+Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

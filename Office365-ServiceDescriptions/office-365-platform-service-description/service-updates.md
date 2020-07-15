@@ -1,8 +1,7 @@
 ---
 title: Mises à jour du service
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Pour en savoir plus sur les fonctionnalités d’Office 365 qui viennent d’être publiées ou qui sont sur le présent, consultez la feuille de route Microsoft 365.
-ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44044806"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131478"
 ---
 # <a name="service-updates"></a>Mises à jour du service
 
 > [!NOTE]
-> Cette rubrique ne s'applique pas à Office 365 géré par 21Vianet. Pour plus d'informations sur les mises à jour de services, reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 Pour en savoir plus sur les fonctionnalités que vous venez de publier, consultez la feuille de [route Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
-> Les mises à jour et les mises à niveau sont transférées aux clients en fonction de nombreux facteurs tels que la situation géographique, la langue, le centre de données et l’abonnement. Cela signifie que toutes les mises à jour ne sont pas disponibles immédiatement pour les clients existants. 
+> Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription. This means that not all updates are available immediately to existing customers. 
   
 ## <a name="targeted-release"></a>Version ciblée
 

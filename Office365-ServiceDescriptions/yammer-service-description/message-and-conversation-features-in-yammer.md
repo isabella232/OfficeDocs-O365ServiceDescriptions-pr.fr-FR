@@ -1,8 +1,7 @@
 ---
 title: Fonctionnalités de messagerie et de conversation dans Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Les fonctionnalités de messagerie et de conversation suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3da9f412a963793caf2fe3373d5d72f3b5d549a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640032"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133038"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Fonctionnalités de messagerie et de conversation dans Yammer
 
@@ -37,7 +36,7 @@ Avec Office pour la prise en charge du Web dans Yammer, les documents téléchar
 
 ## <a name="online-now"></a>En ligne maintenant
 
-Restez informé des utilisateurs connectés et lancez instantanément une discussion privée avec un collègue, ou plusieurs. La liste des contacts est automatiquement triée en fonction des utilisateurs avec lesquels vous interagissez le plus.
+See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
 
 ## <a name="polls"></a>Sondages
 

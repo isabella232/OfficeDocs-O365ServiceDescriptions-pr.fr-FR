@@ -1,8 +1,7 @@
 ---
 title: Stratégie et conformité de messagerie
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640162"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132788"
 ---
 # <a name="messaging-policy-and-compliance"></a>Stratégie et conformité de messagerie
 
@@ -56,7 +55,7 @@ Vous pouvez configurer des stratégies de protection contre la perte de données
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
 
 > [!NOTE]
-> Les stratégies de protection contre la perte de données s'appliquent uniquement au courrier entrant ou sortant de l'organisation. Aucune stratégie de protection contre la perte de données ne s'applique au courrier interne, sauf si vous exécutez Exchange Server 2013 avec la protection contre la perte de données localement. Cela vaut également pour les conseils de protection contre la perte de données qui informent les utilisateurs concernant de possibles violations de stratégie avant l'envoi inopiné de données sensibles à des destinataires non autorisés.
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 Pour en savoir plus sur DLP, consultez la rubrique [protection contre la perte de données dans Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
@@ -66,7 +65,7 @@ Le chiffrement de messages Office 365, qui fait partie d’Azure information pro
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
 
-|**Fonctionnalité**|**EOP autonome**|**Fonctionnalités EOP dans <br/> Exchange Online**|**Licence d' <br/> accès client Exchange Enterprise avec services**|
+|**Fonctionnalité**|**EOP autonome**|**Fonctionnalités EOP dans <br/> Exchange Online**|**<br/>Licence d’accès client Exchange Enterprise avec services**|
 |:-----|:-----|:-----|:-----|
 |Règles de flux de messagerie|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1, 3</sup>|
 |Journalisation d'audit|Oui<sup>2</sup>|Oui|Oui|

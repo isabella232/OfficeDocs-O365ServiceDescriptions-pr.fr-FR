@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines.
-ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 63cd26644cfdfc218026d120b73574ad1dc14c00
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262535"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131738"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
 Pour répondre aux exigences uniques et en constante évolution des gouvernements des États-Unis, de l’État, de l’local et de la tribal, ainsi qu’aux sous-traitants qui détiennent ou traitent des données pour le compte du gouvernement américain, Microsoft propose des services Office 365 pour le gouvernement américain (GCC). Disponible par le biais de plusieurs canaux, y compris les licences en volume, les organisations intéressées passent par un processus de validation pour garantir l’éligibilité avant l’établissement d’un environnement. Les versions d’évaluation sont disponibles uniquement pour les entités gouvernementales américaines. 
   
-Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Vous trouverez des informations supplémentaires sur la page [Offres Office 365 Secteur Public](https://products.office.com/government/compare-office-365-government-plans). 
+Please engage your account team or preferred partner to learn more, or initiate the validation process. Additional information can be found on the [Compare Office 365 Government Plans](https://products.office.com/government/compare-office-365-government-plans) page. 
   
 ## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description du service
 
@@ -29,7 +28,7 @@ La description du service Office 365 pour le gouvernement américain est conçue
   
 ## <a name="us-government-community-compliance"></a>Conformité de la communauté du gouvernement américain
 
-Office 365 pour le gouvernement américain prend en charge l'accréditation du programme de gestion des risques et d'autorisation fédérale (FedRAMP) à un niveau d'impact modéré. Des artefacts FedRAMP sont disponibles pour examen par les clients fédéraux qui sont tenus de se conformer à FedRAMP. Les organismes fédéraux peuvent consulter ces artefacts dans le cadre de leur examen afin d'octroyer une autorisation d'exploitation.
+Office 365 US Government supports the Federal Risk and Authorization Management Program (FedRAMP) accreditation at a Moderate Impact level. FedRAMP artifacts are available for review by federal customers who are required to comply with FedRAMP. Federal agencies can review these artifacts in support of their review to grant an Authority to Operate (ATO).
   
 Office 365 pour le gouvernement américain prend également en charge le guide des exigences de sécurité de Cloud Computing du département de la Défense des États-Unis pour les systèmes de niveau 2 (informations non classées secrètes non contrôlées). 
   
@@ -46,7 +45,7 @@ Le personnel d'Office 365 ne dispose pas d'un accès permanent au contenu client
 |Vérification de l’historique des emplois  <br/> |Vérification de l'expérience professionnelle sur sept (7) ans  <br/> |
 |Vérification de l’éducation  <br/> |Vérification du plus haut diplôme obtenu  <br/> |
 |Recherche de numéro de sécurité sociale (SSN)  <br/> |Vérification de la validité du numéro de sécurité sociale fourni  <br/> |
-|Vérification de l’historique pénal  <br/> |Recherche de crimes et délits au niveau étatique, régional et local et au niveau fédéral dans le casier judiciaire sur sept (7) ans  <br/> |
+|Vérification du casier judiciaire  <br/> |Recherche de crimes et délits au niveau étatique, régional et local et au niveau fédéral dans le casier judiciaire sur sept (7) ans  <br/> |
 |Liste du Bureau du contrôle des avoirs étrangers (OFAC)  <br/> |Validation par rapport à la liste du Département du Trésor répertoriant les groupes avec lesquels les personnes américaines ne sont pas autorisées à réaliser des transactions commerciales ou financières  <br/> |
 |Liste du Bureau de l'industrie et de la sécurité (BIS)  <br/> |Validation par rapport à la liste du Département du Commerce répertoriant les individus et entités exclus de toute activité d'exportation  <br/> |
 |Liste rouge du Bureau des contrôles commerciaux en matière de défense (DDTC)  <br/> |Validation par rapport à la liste du Département d'État répertoriant les individus et entités avec lesquels il est interdit de mener des activités d'exportation liées à l'industrie de la défense  <br/> |
@@ -57,7 +56,7 @@ Le personnel d'Office 365 ne dispose pas d'un accès permanent au contenu client
   
 ## <a name="office-365-us-government-community-and-yammer"></a>Communauté Office 365 pour le gouvernement américain et Yammer
 
-Yammer Enterprise n'est pas un composant d'Office 365 pour le gouvernement américain, mais peut être acquis sans frais en tant qu'offre autonome pour chaque utilisateur disposant d'une licence pour Office 365 pour le gouvernement américain Plan E1 et E3. Cette offre est actuellement limitée aux clients qui achètent Office 365 pour le gouvernement américain sous contrats Entreprise et Souscription Entreprise. 
+Yammer Enterprise is not a component of Office 365 US Government, but may be acquired at no cost as a standalone offer for each user licensed for Office 365 US Government Plan E1 and E3. This offer is currently limited to customers who purchase Office 365 US Government under Enterprise Agreement and Enterprise Subscription Agreements. 
   
 À ce jour, Yammer fournit la séparation logique des données client au niveau de la couche d'application. Toutefois, Yammer ne fournit pas les mêmes fonctionnalités d'emplacement de données et d'accès aux données qu'Office 365 pour le gouvernement américain, ne prend pas en charge l'accréditation FedRAMP et est soumis à des conditions de contrat différentes des services Office 365. Il est recommandé de consulter la [Description du service Yammer](../../yammer-service-description/yammer-service-description.md) et les termes de confidentialité lors de l’évaluation de l’utilisation appropriée de Yammer pour votre organisation. Pour savoir quels plans gouvernementaux Office 365 incluent Yammer, consultez la page [Office 365 pour le gouvernement américain](office-365-us-government.md).
   
@@ -65,7 +64,7 @@ Si vous décidez que l'utilisation de Yammer est appropriée pour votre organisa
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Communauté Office 365 pour le gouvernement américain et MyAnalytics
 
-MyAnalytics est conçu et exploité conformément à l'implémentation de contrôle FedRAMP pour les services Office 365, mais n'a pas encore été examiné par un 3PAO dans le cadre de l'audit FedRAMP annuel d'Office 365. Si nécessaire, veuillez consulter votre bureau de conformité avant d'activer les services MyAnalytics pour les utilisateurs de votre organisation.
+MyAnalytics is designed and operated in accordance with the FedRAMP control implementation for Office 365 services, but has not yet been reviewed by a 3PAO as part of the Office 365 annual FedRAMP audit. If necessary, please consult with your compliance office before enabling MyAnalytics services for users in your organization.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Office 365 le service client Cloud Community Government (GCC)
 

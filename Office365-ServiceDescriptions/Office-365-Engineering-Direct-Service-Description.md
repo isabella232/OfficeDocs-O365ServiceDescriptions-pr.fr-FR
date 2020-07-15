@@ -1,20 +1,19 @@
 ---
 title: Description du service d’ingénierie technique Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering direct est un complément de services de support au niveau de l’entreprise pour un contrat de support Microsoft premier. La description de service ingénierie technique Office 365 contient des informations supplémentaires sur les fonctionnalités proposées et les conditions requises pour l’implémentation.
-ms.openlocfilehash: 6b2577a2164415ddd3865e22ef6785d9c6887066
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 00d481aeb789e017bbc4099d4bbb7338858716a7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638742"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131598"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Description du service d’ingénierie technique Office 365
 

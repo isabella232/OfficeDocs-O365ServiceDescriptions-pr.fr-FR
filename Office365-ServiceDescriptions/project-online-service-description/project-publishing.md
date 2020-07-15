@@ -1,8 +1,7 @@
 ---
 title: Publication de projet
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Les fonctionnalités d’interopérabilité SharePoint et Skype entreprise suivantes sont disponibles dans Project online.
-ms.openlocfilehash: c0d1f8d471a9841306a0d35edfd546179185c23b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: da4b75c49ab270a6fff3f6bc4ef5b6285a2972a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638924"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131148"
 ---
 # <a name="project-publishing"></a>Publication de projet
 
@@ -27,7 +26,7 @@ Vous recherchez des informations sur toutes les fonctionnalités de Project Onli
   
 ## <a name="create-a-project-site"></a>Créer un site de projet
 
-Si vous utilisez Project Web App, vous pouvez partager un projet en créant un site de projets dans SharePoint ou en le synchronisant avec un site existant. Le site partage les tâches de votre projet sous forme de liste des tâches SharePoint. En savoir plus sur la [synchronisation avec SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
+If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
   
 ## <a name="master-projects-on-sharepoint"></a>Projets principaux dans SharePoint
 
@@ -47,7 +46,7 @@ Enregistrez un projet dans une bibliothèque de documents SharePoint pour partag
   
 ## <a name="task-list-sync-to-sharepoint"></a>Synchronisation de la liste des tâches avec SharePoint
 
-Après avoir initialement couplé votre projet avec une liste de tâches SharePoint, vous pouvez continuer à synchroniser la liste des tâches lorsque vous mettez votre projet à jour. Les relations de prédécesseur entre les tâches, les jalons et le mappage de champs (y compris les notes) sont conservées pendant la synchronisation. Il n'est pas indispensable que Project Professionnel 2013 soit installé pour que les membres de votre équipe puissent accéder à leurs tâches. En savoir plus sur [la synchronisation avec une liste de tâches SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

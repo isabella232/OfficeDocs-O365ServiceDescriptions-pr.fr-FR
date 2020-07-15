@@ -1,8 +1,7 @@
 ---
 title: Haute disponibilité et continuité de service
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online offre une prise en charge étendue de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
-ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 395977f77d4293d18c5cf53e02d43566ca9f7313
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639792"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131968"
 ---
 # <a name="high-availability-and-business-continuity"></a>Haute disponibilité et continuité de service
 
@@ -25,9 +24,9 @@ Microsoft Exchange Online offre une prise en charge étendue de la rétention et
   
 ## <a name="mailbox-replication-at-data-centers"></a>Réplication de boîtes aux lettres dans les centres de données
 
-Les boîtes aux lettres Exchange Online sont continuellement répliquées vers plusieurs copies de bases de données, dans des centres de données Microsoft éparpillés géographiquement, afin de fournir la possibilité de restaurer des données dans l'éventualité d'une défaillance d'infrastructure de messagerie locale. Pour les défaillances de grande envergure, des procédures de gestion de continuité de service sont lancées.
+Exchange Online mailboxes are continuously replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a local messaging infrastructure failure. For large-scale failures, service continuity management procedures are initiated.
   
-Pour plus d'informations sur la manière dont Microsoft protège vos données, consultez la rubrique [Centre de gestion de la confidentialité d'Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Si vous utilisez Office 365 géré par 21Vianet, accédez au [centre de gestion de la confidentialité 21Vianet](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+For more information about how Microsoft protects your data, see [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). If you are using Office 365 operated by 21Vianet, see the [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Récupération de boîtes aux lettres supprimées
 
@@ -39,9 +38,9 @@ Exchange Online permet aux utilisateurs de restaurer des éléments qu’ils ont
   
 Une fois qu'un élément a été supprimé du dossier Éléments supprimés, il est conservé dans un dossier Éléments récupérables pendant 14 jours avant d'être supprimé définitivement, mais les administrateurs peuvent étendre cette durée à un maximum de 30 jours en utilisant l'application Windows PowerShell à distance. Les utilisateurs peuvent récupérer l’élément pendant cette période à l’aide de la fonctionnalité récupérer les éléments supprimés dans Outlook sur le Web ou Outlook. Découvrez comment [modifier la période de rétention des éléments supprimés](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
-Si un utilisateur a manuellement supprimé un élément du dossier Éléments récupérables, un administrateur peut le récupérer pendant la même période à l'aide de la fonctionnalité de récupération d'un élément unique et de l'application Windows PowerShell distante. Par défaut, la récupération d'élément unique est activée lors de la création d'une boîte aux lettres. Pour plus d'informations, voir [Activation ou désactivation de la récupération d'élément unique pour une boîte aux lettres](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same time period by using the Single Item Recovery feature with remote Windows PowerShell. By default, Single Item Recovery is enabled when a mailbox is created. To learn more, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
-Pour conserver les messages au-delà de 30 jours dans le dossier Éléments récupérables, les organisations peuvent implémenter une période de conservation du courrier électronique plus longue ou des blocages locaux avec un facteur temps. Pour en savoir plus, consultez la page [Placement d'une boîte aux lettres en blocage sur place (In-Place Hold)](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+To preserve messages for longer than 30 days in the Recoverable Items folder, organizations can implement longer-term email preservation or time-based In-Place Holds. Learn more about [placing a mailbox on In-Place Hold](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

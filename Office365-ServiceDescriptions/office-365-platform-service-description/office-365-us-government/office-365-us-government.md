@@ -1,8 +1,7 @@
 ---
 title: Office 365 pour le gouvernement américain
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux.
-ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429059"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131728"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -66,7 +65,7 @@ Lors du renouvellement du contrat d'un client pour Office 365 pour le gouverneme
   
 ## <a name="customer-content-located-within-the-united-states"></a>Contenu client situé aux États-Unis
 
-Les services Office 365 pour le gouvernement américain sont fournis à partir de centres de données physiquement situés aux États-Unis. Le contenu client suivant est enregistré au repos dans des centres de données situés physiquement uniquement aux États-Unis : 
+Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
   
 - Contenu de boîte aux lettres Exchange Online (corps de courrier électronique, entrées de calendrier et contenu de pièces jointes)
     
@@ -138,13 +137,13 @@ Pour plus d’informations sur le centre de sécurité &amp; conformité et des 
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilité des services pour chaque plan
 
-Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant présente les services disponibles dans chaque plan Office 365 pour le gouvernement américain.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Services Office 365** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
 |Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft 365 Apps for enterprise  <br/> |Non <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
+|Microsoft 365 Apps for enterprise  <br/> |Non <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
 |Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -257,7 +256,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**Approbation** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
 |**[Confidentialité, sécurité et transparence](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Gouvernance des données avancée  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
-|Sécurité de l’application cloud  <br/> |N °<sup>12, 15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |Oui<sup>15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |
+|Cloud App Security  <br/> |N °<sup>12, 15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |Oui<sup>15, 19</sup> <br/> |N °<sup>12, 15, 19</sup> <br/> |
 |Protection avancée contre les menaces  <br/> |N °<sup>12, 18</sup> <br/> |N °<sup>12, 18</sup> <br/> |Oui<sup>18</sup>  <br/> |N °<sup>12, 18</sup> <br/> |
 |Référentiel sécurisé client  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui <br/> |N °<sup>12</sup> <br/> |
 |Advanced eDiscovery  <br/> |N °<sup>12</sup> <br/> |N °<sup>12</sup> <br/> |Oui  <br/> |N °<sup>12</sup> <br/> |

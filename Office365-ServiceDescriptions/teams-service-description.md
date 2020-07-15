@@ -1,19 +1,18 @@
 ---
 title: Description du service Microsoft Teams
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711144"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131988"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -55,10 +54,10 @@ Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams da
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | <br/>|**Petite entreprise** <br/> |**Plans d’entreprise** <br/> |**GCC** <br/> |**GCC-High** <br/> |**DOD** <br/> |**Enseignement** <br/> |
 |Conversation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
+|Équipes  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
 |Canaux-standard  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |Oui  <br/> |
-|Meetings  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Réunions  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Partage d’écran de bureau audio/vidéo PowerPoint <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Audioconférence  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
