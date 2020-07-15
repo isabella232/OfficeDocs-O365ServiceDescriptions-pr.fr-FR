@@ -1,8 +1,7 @@
 ---
 title: Description du service OneDrive
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez les fonctionnalités OneDrive disponibles par offre.
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213926"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131288"
 ---
 # <a name="onedrive-service-description"></a>Description du service OneDrive
 
@@ -50,8 +49,8 @@ Pour connaître la configuration requise pour l'application mobile et l'applicat
 - Microsoft 365 Apps for enterprise
 - Office 365 Entreprise E1
 - Office 365 Secteur Public G1
-- Office 365 Essentials pour les associations
-- Office 365 Premium pour les associations
+- Microsoft 365 Business Basic pour les associations
+- Microsoft 365 Business Standard pour les associations
 - Office 365 E1 pour les associations
 - OneDrive Entreprise (plan 1)
 - SharePoint Online (plan 1)
@@ -68,8 +67,8 @@ Pour connaître la configuration requise pour l'application mobile et l'applicat
 - Office 365 A5
 - Office 365 pour le gouvernement américain G3
 - Office 365 pour le gouvernement américain G5
-- Office 365 E3 pour les associations
-- Office 365 pour les associations E5
+- Office 365 E3 pour les associations
+- Office 365 E5 pour les associations
 - OneDrive Entreprise (plan 2)
 - SharePoint Online (offre 2)
 - Microsoft 365 Entreprise E3
