@@ -25,13 +25,13 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Ces
 > [!TIP]
 > Pour plus d’informations sur les limites dans Exchange Online, consultez la rubrique [limites d’Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Les limites de règle de transport s'appliquent également aux clients autonomes EOP. Les limites de fréquence de messages et de débit maximal pour les destinataires dans Exchange Online ne s'appliquent pas aux clients autonomes EOP. 
   
-- **Domain limit** You can add up to 900 domains per tenant. Subdomains can be included in this 900 limit, or if necessary, as part of a catch-all option, match subdomains. For more information, see [Manage Accepted Domains in EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **Limite de domaine** Vous pouvez ajouter jusqu'à 900 domaines par client. Les sous-domaines peuvent être inclus dans cette limite de 900 ou, si nécessaire, dans le cadre d'une option de réception globale et d'une mise en correspondance des sous-domaines. Pour plus d'informations, voir [Gérer les domaines acceptés dans EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
     
 - **Limite de taille de message** La taille maximale de message pour les clients autonomes EOP, pièces jointes incluses, est de 150 Mo. 
     
-- **Number of outbound messages sent** The limit for the number of outbound messages sent through EOP is high enough to ensure that normal email communication is not treated as spam. If you want to send commercial bulk email messages, rather than sending outbound messages through EOP, we recommend that you either use a third-party email service provider (ESP) or send them through your on-premises email servers. 
+- **Nombre de messages sortants envoyés** La limite du nombre de messages sortants envoyés via EOP est suffisamment élevée pour garantir que la communication électronique normale n'est pas traitée en tant que courrier indésirable. Si vous voulez envoyer des messages électroniques commerciaux en bloc, plutôt que d'envoyer des messages sortants via EOP, nous vous recommandons d'utiliser un fournisseur de services de messagerie tiers (ESP) ou de les envoyer via vos serveurs de messagerie sur site. 
     
-- **Recipient limit** As long as the sending host can split the message into "chunks" of fewer than 500 recipients, no explicit limit is defined. However, each "chunk" is effectively treated as a new message. Too many messages in a short period, messages from a host with a poor reputation, or messages with questionable content could be throttled or blocked. 
+- **Limite de destinataires** Tant que l'hôte expéditeur peut fractionner le message en « segments » de moins de 500 destinataires, aucune limite explicite n'est définie. Toutefois, chaque « segment » est traité comme un nouveau message. Les messages trop nombreux sur une courte période, les messages provenant d'un hôte avec une mauvaise réputation ou les messages avec un contenu douteux pourraient être limités ou bloqués. 
     
 - **Limite des listes d'adresses IP autorisées ou bloquées** Lors de la configuration d'une liste d'adresses IP autorisées ou d'une liste d'adresses IP bloquées dans le filtre de connexion, vous pouvez spécifier un maximum de 1 273 adresses IP (en gardant à l'esprit qu'une seule entrée peut couvrir toutes les adresses de 24 à 32 en utilisant une notation CIDR). 
     
@@ -39,7 +39,7 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Ces
     
 - **Période de rétention de quarantaine du courrier indésirable** Par défaut, les messages indésirables envoyés à la quarantaine sont conservés pendant 30 jours. Les administrateurs peuvent écourter ce délai via des stratégies de filtrage de contenu. 
     
-- **End-user spam quarantine notifications** By default, if enabled, end-user spam quarantine notifications are sent every 3 days. They can be configured to be sent every 1 to 15 days. 
+- **Notifications de mise en quarantaine du courrier indésirable de l'utilisateur final** Par défaut, si cette option est activée, les notifications de mise en quarantaine du courrier indésirable de l'utilisateur final sont envoyées tous les 3 jours. Il est possible de configurer ces notifications afin qu'elles soient envoyées tous les 1 à 15 jours. 
     
 - **Limites de création de rapports et de suivi des messages** Pour plus d’informations sur les rapports et les limites de suivi des messages, consultez la section « disponibilité et latence des données de suivi des rapports et des messages » dans [Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     

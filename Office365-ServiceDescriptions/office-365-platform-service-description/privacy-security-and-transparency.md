@@ -21,9 +21,9 @@ ms.locfileid: "45131668"
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
-> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
+> Les informations contenues dans cet article s'appliquent aux versions internationales d'Office 365. Si vous utilisez une instance de cloud nationale d'Office 365, notamment Office 365 pour l'administration américaine, Office 365 Allemagne et Office 365 géré par 21Vianet, voir [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir [Centre de gestion de la confidentialité Microsoft](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>Confidentialité
 
@@ -49,7 +49,7 @@ La découverte électronique, ou eDiscovery, est le processus d'identification e
 
 En tant qu’administrateur Microsoft, vous pouvez utiliser le référentiel sécurisé du client pour contrôler la manière dont un ingénieur du support technique Microsoft accède à vos données au cours d’une session d’aide. Dans le cas où l'ingénieur requiert l'accès à vos données pour résoudre un problème, le référentiel sécurisé vous permet d'approuver ou de rejeter la demande d'accès. Si vous l'approuvez, l'ingénieur peut accéder aux données. Chaque demande a un délai d'expiration, et une fois que le problème est résolu, la demande est fermée et l'accès révoqué.
   
-Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Le référentiel sécurisé du client est inclus dans le plan Office 365 Entreprise 5, mais vous pouvez aussi acheter un abonnement distinct avec tout autre plan Office 365 Entreprise. Pour plus d'informations, voir [Demandes Customer Lockbox dans Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>Protection avancée contre les menaces
 

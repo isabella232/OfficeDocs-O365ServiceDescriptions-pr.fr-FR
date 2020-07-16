@@ -24,7 +24,7 @@ Les fonctionnalités de collaboration sur les documents suivantes sont disponibl
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Fonctionnalités de collaboration sur les documents dans les plans Yammer
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+Vous avez besoin d'aide pour déterminer quel plan Yammer répond le mieux aux besoins de votre organisation ? Le tableau suivant répertorie les fonctionnalités de collaboration sur les documents disponibles dans chaque plan.
   
 |**Fonctionnalité**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

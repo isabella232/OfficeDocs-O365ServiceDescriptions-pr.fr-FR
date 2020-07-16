@@ -65,7 +65,7 @@ Lors du renouvellement du contrat d'un client pour Office 365 pour le gouverneme
   
 ## <a name="customer-content-located-within-the-united-states"></a>Contenu client situé aux États-Unis
 
-Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
+Les services Office 365 pour le gouvernement américain sont fournis à partir de centres de données physiquement situés aux États-Unis. Le contenu client suivant est enregistré au repos dans des centres de données situés physiquement uniquement aux États-Unis : 
   
 - Contenu de boîte aux lettres Exchange Online (corps de courrier électronique, entrées de calendrier et contenu de pièces jointes)
     
@@ -137,7 +137,7 @@ Pour plus d’informations sur le centre de sécurité &amp; conformité et des 
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilité des services pour chaque plan
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
+Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant présente les services disponibles dans chaque plan Office 365 pour le gouvernement américain.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

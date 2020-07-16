@@ -35,7 +35,7 @@ Pour plus d'informations, consultez l'article [Configurer la messagerie électro
 
 Vous pouvez utiliser le service BlackBerry® Internet Service (BIS) pour connecter les smartphones BlackBerry 7 et versions antérieures à Exchange Online. BIS permet aux utilisateurs de BlackBerry d’accéder à leurs comptes de messagerie via Internet via IMAP ou POP.
   
-Most mobile operators have BIS set up. End users will need to configure email, calendar, and contacts synchronization by using the instructions in the following Knowledge Base articles:
+Le service BIS est installé sur la plupart des opérateurs mobiles. Les utilisateurs finaux devront donc configurer la synchronisation de la messagerie, du calendrier et des contacts en utilisant les instructions figurant dans les articles suivants de la Base de connaissances :
   
 - [KB31310 - BlackBerry Internet Service et services Microsoft Office 365](https://go.microsoft.com/fwlink/?LinkID=826158&amp;clcid=0x409)
     
@@ -44,7 +44,7 @@ Most mobile operators have BIS set up. End users will need to configure email, c
 - [KB22430 - Activation ou désactivation de la synchronisation sans fil des contacts avec BlackBerry Internet Service](https://go.microsoft.com/fwlink/?LinkID=826161&amp;clcid=0x409)
     
 > [!NOTE]
-> Users who connect to their accounts using IMAP or POP connections can synchronize their email only by using a wireless connection. For information about how BIS users can use a wired connection to synchronize the contacts and calendar between their BlackBerry smartphones and their accounts, contact BlackBerry support. 
+> Les utilisateurs qui se connectent à leurs comptes via des connexions IMAP ou POP peuvent synchroniser leur messagerie uniquement en utilisant une connexion sans fil. Pour plus d'informations sur la façon dont les utilisateurs du service BIS peuvent utiliser une connexion filaire afin de synchroniser les contacts et le calendrier entre leur smartphone BlackBerry et leurs comptes, contactez l'assistance de BlackBerry. 
   
 ## <a name="blackberry-smartphones-with-sharepoint-online"></a>Smartphones BlackBerry avec SharePoint Online
 

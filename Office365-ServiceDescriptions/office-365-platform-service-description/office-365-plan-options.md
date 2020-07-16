@@ -41,7 +41,7 @@ Le tableau ci-après répertorie les familles et plans de services disponibles d
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilité des services dans chaque plan Office 365
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau ci-après présente les services disponibles dans chaque plan Office 365.
   
 > [!IMPORTANT]
 >  Les fonctionnalités d'un service disponible dans plusieurs plans Office 365 peuvent varier en fonction de ces derniers. Pour afficher les détails des fonctionnalités disponibles pour chaque plan, reportez-vous à la description de chaque service ou contactez votre revendeur ou votre représentant commercial Microsoft pour plus d'informations. <br/>  Plusieurs plans Office 365 pour les entreprises proposent des modules complémentaires disponibles à l’achat pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d'informations, consultez l'article [Acheter ou modifier un composant additionnel pour Office 365 pour les entreprises](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
