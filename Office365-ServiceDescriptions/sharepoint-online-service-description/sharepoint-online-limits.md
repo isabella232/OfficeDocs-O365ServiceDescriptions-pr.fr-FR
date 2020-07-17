@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: c17ee9031938453d324c29de972dd232399dc01f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131048"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154362"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -24,7 +24,7 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365.
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Microsoft 365 Business Basic ou Business Premium** <br/> |**Office 365 entreprise E1, E3 ou E5, ou SharePoint plan 1 ou 2** <br/> | **Office 365 Entreprise F3** <br/> |
+|**Fonctionnalité** <br/> |**Microsoft 365 Business Basic ou Business Premium** <br/> |**Microsoft 365 E3 ou E5, Office 365 entreprise E1, E3 ou E5, ou SharePoint plan 1 ou 2** <br/> | **Microsoft 365 F1 ou F3, Office 365 entreprise F3** <br/> |
 |Stockage total par organisation<sup>1, 2, 6</sup> <br/> |1 to plus 10 Go par licence achetée<sup>3</sup>  <br/> |1 to plus 10 Go par licence achetée<sup>3</sup> <br/> |1 to<sup>3</sup> <br/> |
 |Stockage maximal par site (collection de sites)<sup>4</sup><br/> |25 TO <br/> |25 TO <br/> |25 to<sup>5</sup> <br/> |
 |Sites (collections de sites) par organisation  <br/> |2 millions<sup>6</sup> <br/> |2 millions<sup>6</sup> <br/> |2 millions<br/> |
@@ -115,6 +115,6 @@ Un utilisateur peut appartenir à des groupes 5 000 et chaque groupe peut avoir 
 > [!NOTE]
 > Il n’y a pas de limite au nombre d’invités que vous pouvez inviter sur les sites SharePoint. Pour plus d’informations sur le partage externe, consultez la rubrique [vue d’ensemble du partage externe](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Consultez également
 
 [Limites de recherche pour SharePoint](/sharepoint/search-limits)

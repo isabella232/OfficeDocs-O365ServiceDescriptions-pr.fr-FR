@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le nuage des États-Unis et le nuage commercial, comme décrit dans la description du service Exchange Online.
-ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5081dbdb563a9047fbf6759fc7413584408d56b4
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131928"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154412"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements gouvernementaux américains
 
@@ -116,7 +116,7 @@ Le tableau suivant décrit si les fonctionnalités Exchange Online spécifiées 
 |Outlook pour Mac|Oui|Oui|Oui|Pour répondre aux exigences de conformité à GCC High and DoD, vous devez exécuter au moins la version 1803 d’Office 365 ProPlus. Office 365 ProPlus n’est pas inclus dans G1 ou F3.|
 |Outlook pour iOS et Android|Oui|Oui|Oui||
 |Exchange ActiveSync|Oui|Oui|Oui||
-|Mobilité et sécurité de base pour Microsoft 365|Oui|Oui|Oui||
+|Mobilité et sécurité de base pour Microsoft 365|Oui|Non|Non||
 |POP et IMAP|Oui|Oui|Oui||
 |SMTP|Oui|Oui|Oui||
 |Prise en charge des applications EWS|Oui|Oui|Oui||
