@@ -18,23 +18,23 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 07/14/2020
 ms.locfileid: "45132068"
 ---
-# <a name="group-features-in-yammer"></a><span data-ttu-id="51cb1-103">Fonctionnalités de groupe dans Yammer</span><span class="sxs-lookup"><span data-stu-id="51cb1-103">Group features in Yammer</span></span>
+# <a name="group-features-in-yammer"></a><span data-ttu-id="7902e-103">Fonctionnalités de groupe dans Yammer</span><span class="sxs-lookup"><span data-stu-id="7902e-103">Group features in Yammer</span></span>
 
-<span data-ttu-id="51cb1-104">Les fonctionnalités de groupe suivantes sont disponibles dans Yammer.</span><span class="sxs-lookup"><span data-stu-id="51cb1-104">The following group features are available in Yammer.</span></span>
+<span data-ttu-id="7902e-104">Les fonctionnalités de groupe suivantes sont disponibles dans Yammer.</span><span class="sxs-lookup"><span data-stu-id="7902e-104">The following group features are available in Yammer.</span></span>
   
-## <a name="announcements"></a><span data-ttu-id="51cb1-105">Annonces</span><span class="sxs-lookup"><span data-stu-id="51cb1-105">Announcements</span></span>
+## <a name="announcements"></a><span data-ttu-id="7902e-105">Annonces</span><span class="sxs-lookup"><span data-stu-id="7902e-105">Announcements</span></span>
 
-<span data-ttu-id="51cb1-106">Partagez une annonce avec un groupe pour signaler immédiatement aux membres les mises à jour importantes.</span><span class="sxs-lookup"><span data-stu-id="51cb1-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="51cb1-107">Les administrateurs peuvent épingler des annonces à un groupe pour faciliter leur découverte.</span><span class="sxs-lookup"><span data-stu-id="51cb1-107">Administrators can pin announcements to a group for easy discovery.</span></span>
+<span data-ttu-id="7902e-106">Partagez une annonce avec un groupe pour signaler immédiatement aux membres les mises à jour importantes.</span><span class="sxs-lookup"><span data-stu-id="7902e-106">Share an announcement with a group to instantly notify members of important updates.</span></span> <span data-ttu-id="7902e-107">Les administrateurs peuvent épingler des annonces à un groupe pour faciliter leur découverte.</span><span class="sxs-lookup"><span data-stu-id="7902e-107">Administrators can pin announcements to a group for easy discovery.</span></span>
   
-## <a name="groups"></a><span data-ttu-id="51cb1-108">Groupes</span><span class="sxs-lookup"><span data-stu-id="51cb1-108">Groups</span></span>
+## <a name="groups"></a><span data-ttu-id="7902e-108">Groupes</span><span class="sxs-lookup"><span data-stu-id="7902e-108">Groups</span></span>
 
-<span data-ttu-id="51cb1-109">Des communications départementales à votre prochain lancement de campagne ou événement d’organisation, configurez un groupe en quelques secondes pour une équipe, un projet ou un intérêt.</span><span class="sxs-lookup"><span data-stu-id="51cb1-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
+<span data-ttu-id="7902e-109">Des communications départementales à votre prochain lancement de campagne ou événement d’organisation, configurez un groupe en quelques secondes pour une équipe, un projet ou un intérêt.</span><span class="sxs-lookup"><span data-stu-id="7902e-109">From departmental communications to your next campaign launch or organization event, set up a group in seconds for any team, project, or interest.</span></span>
   
-## <a name="related-groups"></a><span data-ttu-id="51cb1-110">Groupes associés</span><span class="sxs-lookup"><span data-stu-id="51cb1-110">Related groups</span></span>
+## <a name="related-groups"></a><span data-ttu-id="7902e-110">Groupes associés</span><span class="sxs-lookup"><span data-stu-id="7902e-110">Related groups</span></span>
 
-<span data-ttu-id="51cb1-111">Ajouter et classer par priorité des groupes associés à ceux que vous avez déjà rejoints afin que les collègues puissent découvrir des personnes, du contenu et des conversations encore plus pertinents.</span><span class="sxs-lookup"><span data-stu-id="51cb1-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
+<span data-ttu-id="7902e-111">Ajouter et classer par priorité des groupes associés à ceux que vous avez déjà rejoints afin que les collègues puissent découvrir des personnes, du contenu et des conversations encore plus pertinents.</span><span class="sxs-lookup"><span data-stu-id="7902e-111">Add and prioritize groups related to the ones you've already joined so coworkers can discover even more relevant people, content, and conversations.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="51cb1-112">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="51cb1-112">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="7902e-112">Disponibilité des fonctionnalités</span><span class="sxs-lookup"><span data-stu-id="7902e-112">Feature availability</span></span>
 
-<span data-ttu-id="51cb1-113">Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="51cb1-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="7902e-113">Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="7902e-113">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
