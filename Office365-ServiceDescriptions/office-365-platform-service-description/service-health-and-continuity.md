@@ -125,7 +125,7 @@ Notez bien qu'après la récupération d'une panne de grande envergure, un certa
 
 Microsoft garantit à tout moment la disponibilité des données du client par le biais des fonctionnalités suivantes :
   
-- **Data storage and redundancy:** Customer data is stored in a redundant environment with robust data protection capabilities to enable availability, business continuity, and rapid recovery. Multiple levels of data redundancy are implemented, ranging from redundant disks to guard against local disk failure to continuous, full data replication to a geographically diverse data center. 
+- **Stockage et redondance des données :** Les données du client sont stockées dans un environnement redondant présentant de solides capacités de protection des données qui assurent leur disponibilité, la continuité des affaires et une récupération rapide. Différents niveaux de redondance des données sont mis en œuvre, depuis les disques redondants pour la protection contre les pannes de disques locaux jusqu'à la réplication continue et totale des données dans un centre de données géographiquement diversifié. 
     
 - **Surveillance des données :** Les services Microsoft maintiennent des niveaux élevés de performances en : 
     
@@ -145,13 +145,13 @@ Microsoft garantit à tout moment la disponibilité des données du client par l
 
 Les équipes de développement et d’exploitation Microsoft sont complétées par une organisation de support dédiée, qui joue un rôle important dans la fourniture de services de continuité d’activité. L'équipe de support détient une connaissance approfondie du service et ses applications associées, et dispose d'un accès direct aux experts Microsoft en architecture, développement et test.
   
-The support organization closely aligns with operations and product development, offers fast resolution times and provides a channel for customers' voices to be heard. Feedback from customers provides input to the planning, development, and operations processes.
+L'organisation de support correspond étroitement aux opérations et au développement produits, offre des temps de résolution très courts et fournit un canal permettant aux clients de se faire entendre. Les commentaires des clients contribuent à la planification, le développement et les processus d'exploitation.
   
 - **Suivi des problèmes en ligne :** Les clients ont besoin de savoir que leurs problèmes sont pris en compte et ils doivent pouvoir suivre leur résolution en temps voulu. Microsoft 365 Padmin Center Ortal fournit une interface Web unique pour la prise en charge. Les clients peuvent utiliser le portail pour ajouter et surveiller les demandes de service et recevoir les commentaires des équipes de support Microsoft. 
     
 - **Auto-assistance, avec prise en charge continue du personnel :** Microsoft offre une large gamme de ressources et d’outils d’aide qui peuvent aider les clients à résoudre les problèmes liés aux services sans avoir besoin de prendre en charge Microsoft. 
     
-Before customers enter service requests, they can access knowledge base articles and FAQs that provide immediate help with the most common problems. These resources are continually updated with the latest information, which helps avoid delays by providing solutions to known issues. However, when an issue arises that needs the help of a support professional; staff members are available for immediate assistance by telephone and through the administration portal 24 hours a day, 7 days a week.
+Avant de soumettre une demande de service, les clients peuvent accéder aux articles de la base de connaissances et aux FAQ qui fournissent une aide immédiate en ce qui concerne les problèmes les plus fréquents. Ces ressources sont continuellement mises à jour avec les informations les plus récentes, ce qui permet d'éviter les temps d'attente en fournissant des solutions aux problèmes connus. Toutefois, lorsqu'un problème nécessite l'aide d'un professionnel du support, les membres de l'équipe sont disponibles pour une assistance immédiate par téléphone et par le biais du portail d'administration 24 h/24 et 7 j/7.
   
 Pour plus d'informations sur le support, consultez la rubrique [Prise en charge](support.md). 
   

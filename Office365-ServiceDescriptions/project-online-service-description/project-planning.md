@@ -30,11 +30,11 @@ Les données du planning de référence peuvent être cumulées ou résumées da
   
 ## <a name="budget-planning"></a>Planification budgétaire
 
-Budget planning allows you to compare current progress against a baseline that you set at the start of a project. Learn more about [earned value analysis](https://go.microsoft.com/fwlink/p/?LinkId=271336).
+La planification budgétaire permet de comparer la progression à un planning de référence que vous définissez au début d'un projet. En savoir plus sur [l'analyse de la valeur acquise](https://go.microsoft.com/fwlink/p/?LinkId=271336).
   
 ## <a name="compare-project-versions"></a>Comparer les versions d’un projet
 
-Compare two versions of a project. A report is created that shows what changed, such as the addition of new tasks.
+Comparez deux versions d’un projet. Un rapport est créé. Il affiche les modifications telles que l’ajout de nouvelles tâches.
   
 ## <a name="deadlines"></a>Délais
 

@@ -32,7 +32,7 @@ Vous recherchez une comparaison des fonctionnalités des abonnements qui incluen
 [Envoyer des notifications d’échec de remise dans Exchange Online](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Aide d’Exchange Online](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
+Microsoft Exchange Online est une solution de messagerie hébergée qui offre les fonctionnalités de Microsoft Exchange Server sous la forme d'un service en nuage. Elle fournit aux utilisateurs un accès aux messages électroniques, calendriers, contacts et tâches depuis leurs ordinateurs, Internet et des appareils mobiles. Elle s'intègre totalement à Active Directory, permettant ainsi aux administrateurs d'utiliser des stratégies de groupe et d'autres outils d'administration en vue de gérer des fonctionnalités Exchange Online au sein de tout leur environnement.
   
 Les organisations qui souscrivent à Exchange Online conservent leur contrôle sur les services de messagerie qu'elles offrent aux utilisateurs, mais sans subir le fardeau opérationnel de logiciels de serveurs sur site. Grâce aux plans Exchange Online hébergés décrits dans ce document, la messagerie est hébergée sur des serveurs qui prennent en charge plusieurs clients simultanément. Ces serveurs sont hébergés dans des centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils à l’intérieur d’un réseau d’entreprise ou sur Internet.
   
@@ -49,9 +49,9 @@ Pour plus d’informations sur les nouvelles fonctionnalités dans le centre d�
 
 Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Pour plus d’informations sur les différents plans, y compris des options de plan autonomes et des informations sur le passage d’un plan à l’autre, voir [options de plan Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
+Un plan d'abonnement doit être attribué à chaque utilisateur qui veut accéder au service Exchange Online, et chaque abonnement d'utilisateur est associé à une boîte aux lettres propre. Les dossiers et messages contenus dans ces boîtes aux lettres résident sur un ordinateur exécutant Exchange Server dans un centre de données Microsoft.
   
-User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
+Aucun abonnement d'utilisateur n'est requis pour les salles de conférence et les boîtes aux lettres partagées. Ces types particuliers de boîtes aux lettres ne présentent pas d'informations d'identification. Au lieu de cela, les utilisateurs possédant une licence et disposant des autorisations appropriées les gèrent et y accèdent par délégation.
   
 ## <a name="system-requirements-for-exchange-online"></a>Configuration système requise pour Exchange Online
 

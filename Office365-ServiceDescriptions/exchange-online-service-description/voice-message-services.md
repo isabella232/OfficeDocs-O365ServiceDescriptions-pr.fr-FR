@@ -29,9 +29,9 @@ Microsoft Exchange Online offre des services hébergés de messagerie vocale :
     
 - Interface utilisateur de connexion Exchange (Outlook Voice Access)
     
-Hosted voice messaging services allow a company to connect its on-premises phone system to voice mail services provided by Exchange Online. Voice mail messages are recorded and stored in the Exchange Online infrastructure, allowing users to access their voice messages from Outlook, Outlook on the web, or mobile phones. All telephony connections to Exchange Online require voice-over-IP (VoIP) protocols. Administrators can connect on-premises IP PBXs or PBX phone systems using VoIP media gateways and session border controllers (SBCs) to Exchange Online. A VoIP media gateway is not required if the customer has deployed an IP PBX or if a PBX supports VoIP directly and is interoperable with Exchange voice messaging services. SBCs are deployed in the perimeter of the customer network to connect an on-premises telephony network and help secure the communications (and the customer network) against eavesdropping and intrusion. Interoperability with the voice capabilities of Microsoft Lync Server 2010 and 2013 is also supported.
+Interface de numérotation pour les appelants (standard automatique)
   
-The voice messaging services features available in Exchange Online are similar to those offered in on-premises Exchange Server 2016. These include:
+Les services hébergés de messagerie vocale permettent à une société de connecter son système téléphonique sur site à des services de messagerie vocale Exchange Online. Les messages vocaux sont enregistrés et conservés dans l'infrastructure Exchange Online, ce qui permet aux utilisateurs d'y accéder à partir d'Outlook, d'Outlook Web Access ou d'un téléphone mobile. Toutes les connexions téléphoniques vers Exchange Online nécessitent les protocoles de voix sur IP (VoIP). Les administrateurs peuvent connecter des PBX IP sur site ou des systèmes téléphoniques PBX en utilisant des passerelles multimédias VoIP et des contrôleurs de frontière de session (SBC) vers Exchange Online. Une passerelle multimédia VoIP n'est pas indispensable si le client a déployé un PBX IP ou si un PBX prend directement en charge le protocole VoIP et est compatible avec les services de messagerie vocale Exchange. Les contrôleurs de frontière de session (SBC) sont déployés dans le périmètre du réseau du client pour connecter un réseau téléphonique sur site et protéger les communications (et le réseau du client) contre les écoutes et les intrusions. L'interopérabilité avec les fonctionnalités vocales de Microsoft Lync Server 2010 et 2013 est également prise en charge.
   
 - Les fonctionnalités des services de messagerie vocale disponibles dans Exchange Online sont similaires à celles offertes par une installation locale d'Exchange Server 2013 . Elles sont les suivantes :
     
@@ -62,13 +62,13 @@ Pour plus d’informations sur les fonctionnalités de messagerie vocale, consul
 >
 > Le client doit fournir une connexion téléphonique à partir du réseau téléphonique commuté (RTC) à l’aide d’une passerelle VoIP et d’un PBX, d’un PBX IP ou de Skype entreprise Server 2015. 
 >
-> The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. 
+> Le client doit fournir les contrôleurs de frontière de session (SBC) et vérifier qu'ils sont correctement configurés pour se connecter aux services de messagerie vocale en ligne. Cela comprend le niveau correct de sécurité en utilisant des certificats et des interfaces IP publiques et privées et en activant les ports TCP corrects avec leurs pare-feu sur site. 
 >
 > La messagerie vocale hébergée est uniquement disponible pour les abonnés à Exchange Online plan 2 et Office 365 entreprise E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interopérabilité avec messagerie vocale tierce
 
-On-premises voice mail solutions from third-party providers can interoperate with Exchange Online if they can forward voice messages through SMTP or if they support Microsoft Exchange Web Services. If the voice mail system does not natively support forwarding voice messages through SMTP, an email server can be kept on-premises to receive messages from the voice mail system and then forward them to the cloud using SMTP. Because many third-party voice mail systems use MAPI/CDO to interoperate with Exchange Server for advanced UM features, the full capabilities of these systems may not be available when SMTP is used for interoperability with Exchange Online.
+Interopérabilité avec messagerie vocale tierce
   
 > [!NOTE]
 > Exchange Online UM support for third-party PBX systems via direct connections from customer operated SBCs will end in July 2018. Please see [Discontinuation of support for Session Border Controllers in Exchange Online Unified Messaging](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Discontinuation-of-support-for-Session-Border-Controllers-in/ba-p/607117) for more information. 

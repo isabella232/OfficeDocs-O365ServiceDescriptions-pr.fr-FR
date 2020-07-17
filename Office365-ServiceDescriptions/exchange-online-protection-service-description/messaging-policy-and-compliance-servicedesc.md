@@ -55,7 +55,7 @@ Vous pouvez configurer des stratégies de protection contre la perte de données
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
 
 > [!NOTE]
-> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
+> Les stratégies de protection contre la perte de données s'appliquent uniquement au courrier entrant ou sortant de l'organisation. Aucune stratégie de protection contre la perte de données ne s'applique au courrier interne, sauf si vous exécutez Exchange Server 2013 avec la protection contre la perte de données localement. Cela vaut également pour les conseils de protection contre la perte de données qui informent les utilisateurs concernant de possibles violations de stratégie avant l'envoi inopiné de données sensibles à des destinataires non autorisés.
 
 Pour en savoir plus sur DLP, consultez la rubrique [protection contre la perte de données dans Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 

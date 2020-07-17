@@ -24,7 +24,7 @@ Les fonctionnalités suivantes de la plateforme Yammer sont disponibles dans Yam
  
 ## <a name="activity-stream-api"></a>API de flux d’activités
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+Intégrez des applications métiers existantes en ajoutant des données au graphe social. Découvrez les activités en cours dans les applications métiers existantes.
   
 ## <a name="browser-extension"></a>Extension de navigateur
 

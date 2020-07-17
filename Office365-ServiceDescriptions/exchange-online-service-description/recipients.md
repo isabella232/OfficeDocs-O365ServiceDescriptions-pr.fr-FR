@@ -24,20 +24,20 @@ Cette rubrique décrit les fonctionnalités en relation avec les destinataires i
   
 ## <a name="email"></a>E-mail
 
-Every Microsoft Exchange Online subscriber receives a mailbox, and specialty mailboxes are available for scheduling facilities resources (such as conference rooms) and for multiuser access to shared email addresses. Maximum storage limits apply to most mailboxes, and administrators can control allowable mailbox sizes. Automated notifications and restrictions can alert users when their mailboxes are nearing, or at, capacity. Exchange Online also has several types of message limitations—message size, message rate, and recipient list limits. Details of all these features and limits are provided below.
+Une boîte aux lettres est attribuée à chaque abonné Microsoft Exchange Online et des boîtes aux lettres spécialisées destinées à la planification de ressources (comme des salles de conférence) et à un accès multi-utilisateur à des adresses de messagerie partagées sont disponibles. Des limites de stockage maximales s'appliquent à la plupart des boîtes aux lettres et les administrateurs peuvent contrôler les tailles de boîtes aux lettres autorisées. Des notifications et restrictions automatiques permettent d'alerter des utilisateurs que leurs boîtes aux lettres s'approchent de la limite ou l'on déjà atteinte. Exchange Online dispose également de plusieurs types de limitations de messages, à savoir des limites de taille des messages, de débit maximal de messages et de liste de destinataires. Toutes ces fonctionnalités et les limites sont indiquées ci-dessous.
   
 > [!NOTE]
 > Les adresses attrape-tout ne sont plus prises en charge dans Exchange Online. En raison du filtrage des destinataires en place pour se protéger contre les messages de courrier indésirable potentiels, les adresses de messagerie qui n’existent pas dans votre organisation seront rejetées. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>Types de boîtes aux lettres, limites de stockage et alertes de capacité
 
-The amount of mailbox storage available to a user and the default mailbox size are determined by the mailbox type and the user's subscription license. Administrators can reduce maximum mailbox sizes per user or globally. Exchange Online also provides notifications when a user's mailbox is nearing, or at, capacity.
+Le volume de stockage de boîte aux lettres disponible pour un utilisateur et la taille de boîte aux lettres par défaut sont déterminés par le type de boîte aux lettres et la licence d'abonnement de l'utilisateur . Les administrateurs peuvent réduire les tailles maximales de boîte aux lettres au niveau de chaque utilisateur ou globalement. Exchange Online fournit également des notifications quand la capacité de la boîte aux lettres d'un utilisateur est proche du maximum ou l'atteint :
   
 Pour plus d’informations, consultez les sections « limites de stockage des boîtes aux lettres » et « alertes de capacité » dans la rubrique [Exchange Online Limits](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>MailTips
 
-MailTips are automated, informative messages that appear above the To: line while users are composing or addressing a message. They are designed to help prevent accidental delivery, policy violations, or unnecessary non-delivery reports (NDRs). For example, MailTips can generate an alert if senders try to send messages to overly large groups, to groups that contain external recipients, or to a distribution group that is moderated or restricted. For more information, see [MailTips](https://go.microsoft.com/fwlink/p/?LinkId=401472).
+Les infos-courrier sont des messages automatiques et informatifs qui apparaissent au-dessus de la ligne À : tandis que les utilisateurs composent ou adressent un message. Ils ont pour objet de prévenir une remise accidentelle, des violations de stratégie ou des notifications d'échec de remise inutiles. Par exemple, des infos-courrier peuvent générer une alerte si des expéditeurs tentent d'envoyer des messages à des groupes excessivement grands, à des groupes qui contiennent des destinataires externes ou à un groupe de définition qui est avec modérateur ou restreint. Pour plus d'informations, consultez la rubrique [Infos-courrier](https://go.microsoft.com/fwlink/p/?LinkId=401472).
   
 ### <a name="delegate-access"></a>Accès délégué
 
@@ -47,7 +47,7 @@ Les délégués peuvent avoir deux types d'accès :
   
 - **Autorisations Envoyer de la part de** Le délégué peut composer des messages électroniques et entrer le nom de l'autre personne dans le champ De :, là où est afficher « [Nom du délégué] de la part de [nom de la personne] ». 
     
-- **Send As permissions** The delegate can send messages from the other person's mailbox as if the delegate were the mailbox owner. This scenario is common where there is a shared mailbox and several employees send email messages from that shared mailbox instead of from their Exchange Online accounts. 
+- **Autorisations Envoyer en tant que** Le délégué peut envoyer des messages à partir de la boîte aux lettres de l'autre personne comme s'il en était le propriétaire. Il s'agit d'un scénario classique lorsque plusieurs employés envoient des messages électroniques à partir d'une boîte aux lettres partagée existante au lieu de leur propres comptes Exchange Online. 
     
 Pour plus d'informations sur la délégation d'accès, voir [Gestion des autorisations pour les destinataires](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx).
   
@@ -57,7 +57,7 @@ Exchange Online autorise des utilisateurs à créer des règles de boîte de ré
   
 ### <a name="clutter"></a>Courrier non trié
 
-Clutter is designed to help you focus on the most important messages in your inbox. It uses machine learning to de-clutter your inbox by moving lower priority messages out of your way and into a new Clutter folder. Clutter respects your existing email rules, so if you have created rules to organize your email those rules continue to be applied and Clutter won't act on those messages. Clutter is disabled by default for your inbox. To learn more, see [De-clutter your inbox in Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
+La fonctionnalité de courrier non trié est conçue pour vous aider à vous concentrer sur les messages les plus importants dans votre boîte de réception. Elle utilise Machine Learning pour désencombrer votre boîte de réception en déplaçant les messages à priorité faible dans un nouveau dossier appelé Courrier basse priorité. La fonctionnalité de courrier non trié respecte vos règles de courrier électronique existantes. Ainsi, si vous avez créé des règles pour organiser vos messages électroniques, celles-ci continuent de s'appliquer et la fonctionnalité de courrier non trié n'effectuera aucune action sur ces messages. Le courrier non trié est désactivé par défaut pour votre boîte de réception. Pour plus d'informations, voir [Désencombrement de votre boîte aux lettres dans Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
   
 ### <a name="connected-accounts"></a>Comptes connectés
 
@@ -65,12 +65,12 @@ La fonctionnalité comptes connectés permet aux utilisateurs Exchange Online de
   
 ### <a name="inactive-mailboxes"></a>Boîtes aux lettres inactives
 
-Exchange Online provides the capability to preserve the contents of deleted mailboxes indefinitely. This feature is called inactive mailboxes. A mailbox becomes inactive when an In-Place Hold or a Litigation Hold is placed on the mailbox before it's deleted. This results in the contents of the mailbox being preserved indefinitely. Administrators, compliance officers, or record managers can use the In-Place eDiscovery feature in Exchange Online to access the contents of an inactive mailbox.
+Exchange Online offre la possibilité de conserver indéfiniment le contenu des boîtes aux lettres supprimées. Cette fonctionnalité est appelée boîtes aux lettres inactives. Une boîte aux lettres devient inactive quand un blocage local ou une mise en attente pour litige lui est appliqué avant sa suppression. Ainsi, le contenu de la boîte aux lettres est conservé indéfiniment. Les administrateurs, les responsables de la mise en conformité ou les responsables de l'enregistrement peuvent utiliser la fonctionnalité eDiscovery locale d'Exchange Online pour accéder au contenu d'une boîte aux lettres inactive.
   
 Pour activer une boîte aux lettres inactive, cette dernière doit nécessairement faire l'objet d'une licence Exchange Online (plan 2) ou d'un abonnement à l'archivage Exchange Online pour qu'il soit possible de lui appliquer un blocage local ou une mise en attente pour litige avant sa suppression.
   
 > [!IMPORTANT]
-> If a hold isn't placed on a mailbox before it's deleted, the contents of the mailbox will not be preserved or discoverable. The mailbox can be recovered within 30 days of deletion, but the mailbox and its contents will be permanently deleted after 30 days if it isn't recovered. 
+> Si un blocage n'est pas appliqué à une boîte aux lettres avant sa suppression, son contenu n'est ni conservé ni détectable. La boîte aux lettres peut être récupérée dans les 30 jours suivant sa suppression, mais, à défaut de récupération, elles est définitivement supprimée avec son contenu à l'issue de cette période. 
   
 Pour plus d'informations, voir :
   
@@ -96,25 +96,25 @@ Exchange Online prend en charge la personnalisation des listes d’adresses et d
   
 ### <a name="hierarchical-address-books"></a>Carnets d’adresses hiérarchiques
 
- Hierarchical address books allow end users to browse for recipients in their Exchange organization using an organizational hierarchy. Administrators can customize the address book by seniority and rank rather than alphabetical listings. 
+ Les carnets d’adresses hiérarchiques permettent aux utilisateurs finals de rechercher des destinataires au sein de leur organisation Exchange à l’aide d’une hiérarchie d’organisation. Les administrateurs peuvent personnaliser le carnet d'adresses par ancienneté et par rang plutôt que par listes alphabétiques. 
   
 ### <a name="distribution-groups-global"></a>Groupes de distribution (globaux)
 
 Un groupe de distribution (ou liste de distribution) est un ensemble d'utilisateurs, de contacts et d'autres groupes de distribution qui sont accessibles à tous les utilisateurs au sein d'une entreprise. Les utilisateurs adressent le courrier électronique à un alias du groupe de distribution pour envoyer des messages à toutes les personnes figurant dans le groupe. Les groupes de distribution sont semblables à des groupes de distribution personnels que des individus créent dans Outlook, seules leurs listes de membres sont globalement accessibles à l'entreprise. Les administrateurs créent les groupes de distribution dans le Centre d'administration Exchange. Les groupes peuvent également être synchronisés avec Exchange Online à partir d'Active Directory local. Ils apparaissent dans la liste d’adresses globale dans Outlook. Exchange Online prend en charge des fonctionnalités avancées de groupe de distribution, y compris celles décrites ci-dessous :
   
-- **Restricted distribution groups** By default, anyone can send emails to any distribution group. Administrators can change permissions to allow only specific individuals to send emails to a particular group—for example, to discourage inappropriate use of large distribution lists. Administrators can also block external sources from sending email to distribution groups to help prevent spam. For distribution groups that are synchronized from on-premises Active Directory using the Directory Synchronization tool, the attributes for restriction are synchronized to the cloud automatically. For more information, see [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **Groupes de distribution restreints** Par défaut, toute personne peut envoyer des messages électroniques à un groupe de distribution. Les administrateurs ont la possibilité de modifier des autorisations pour permettre à seulement des individus spécifiques d'envoyer des messages électroniques à un groupe particulier : par exemple, pour décourager toute utilisation inappropriée de listes étendues de distribution. Les administrateurs peuvent également bloquer l'envoi de messages électroniques par des sources externes à des groupes de distribution afin de prévenir les courriers indésirables. S'agissant des groupes de distribution synchronisés à partir d'Active Directory local à l'aide de l'outil de synchronisation d'annuaire, les attributs relatifs à la restriction sont synchronisés sur le cloud automatiquement. Pour plus d'informations, voir [Gestion des groupes de distribution](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **Dynamic distribution groups** The membership list for a dynamic distribution group (also known as a dynamic distribution list, or query-based distribution list) is calculated every time a message is sent to the group. This calculation is based on filters and conditions that the administrator defines. They are managed in Exchange Online through remote Windows PowerShell. For more information about dynamic distribution groups, see [Manage Dynamic Distribution Groups](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
+- **Groupes de distribution dynamique** La liste d'appartenance pour un groupe de distribution dynamique (également appelé liste de distribution dynamique ou liste de distribution fondée sur une requête) est calculée chaque fois qu'un message est envoyé à ce groupe. Ce calcul est effectué en fonction des filtres et conditions définis par l'administrateur. Ils sont gérés dans Exchange Online via Windows PowerShell à distance. Pour plus d'informations sur les groupes de distribution dynamique, voir [Gestion des groupes de distribution dynamique](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
     
     > [!IMPORTANT]
-    > The Office 365 Directory Synchronization tool ignores dynamic distribution groups in on-premises Active Directory, and does not synchronize these to Exchange Online. Organizations that use the Directory Synchronization tool should use a naming convention that avoids conflicts between the regular distribution groups that are managed on-premises and the dynamic distribution groups that are managed in Exchange Online. 
+    > L'outil de synchronisation d'annuaire d'Office 365 ignore les groupes de distribution dynamique figurant dans Active Directory local et ne les synchronise pas dans Exchange Online. Les organisations qui utilisent l'outil de synchronisation d'annuaire doivent utiliser une convention d'affectation de noms qui écarte les conflits entre les groupes de distribution régulier qui sont gérés localement et les groupes de distribution dynamiques qui sont gérés sous Exchange Online. 
   
-- **Moderated distribution groups** Administrators can select a moderator to regulate the flow of messages to a distribution group. With moderated distribution groups, anyone can email the distribution group alias, but before the message is delivered to the members of the group, a moderator must review and approve it. For more information about moderation, see the Message Approval section in [Manage Distribution Groups](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
+- **Groupes de distribution modérés** Les administrateurs peuvent sélectionner un modérateur pour réguler le flux des messages destinés à un groupe de distribution. Les groupes de distribution avec modérateur permettent à toute personne d'adresser un courrier électronique à l'alias du groupe de distribution, sauf qu'avant d'être remis aux membres du groupe, un modérateur doit consulter le message et l'approuver. Pour plus d'informations sur la modération, voir la section relative à l'approbation de messages de l'article [Gestion des groupes de distribution](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **Self-Service distribution groups** Administrators can give users the ability to manage their own distribution group membership from a web-based interface. Users can be given permissions to create, delete, join, or leave distribution groups. These capabilities are enabled by default for all Exchange Online users. Administrators can disable them so that only the IT department can manage distribution groups, if desired. They can also create naming policies to standardize and manage the names of distribution groups that their users create. For example, they can add a specific prefix or suffix to the distribution group name when it is created, or block specific words from being used in the group's name. 
+- **Groupes de distribution en libre-service** Les administrateurs peuvent permettre aux utilisateurs de gérer leur propre appartenance à des groupes de distribution à partir d'une interface web. Les utilisateurs peuvent avoir la permission de créer, supprimer, rejoindre ou quitter des groupes de distribution. Ces fonctionnalités sont activées par défaut pour tous les utilisateurs d'Exchange Online. Les administrateurs peuvent les désactiver pour que seul le service informatique puisse gérer des groupes de distribution, si nécessaire. Ils peuvent également créer des stratégies de noms visant à normaliser et à gérer les noms des groupes de distribution que leurs utilisateurs créent. Par exemple, ils peuvent ajouter un préfixe ou un suffixe au nom du groupe de distribution lorsqu'il est créé ou bloquer l'usage de mots spécifiques dans le nom de groupe. 
     
     > [!IMPORTANT]
-    > Self-service capabilities are not available for distribution groups that are synchronized from on-premises Active Directory to Exchange Online. Organizations that use Directory Synchronization should use a naming convention that avoids conflicts between distribution groups that are managed on-premises and distribution groups that are managed in the cloud. 
+    > Des fonctionnalités en libre-service ne sont pas disponibles pour des groupes de distribution synchronisés à partir d'Active Directory local avec Exchange Online. Les organisations qui appliquent l'outil de synchronisation d'annuaire doivent utiliser une convention d'affectation de noms qui écarte les conflits entre des groupes de distribution gérés localement et des groupes de distribution gérés dans le cloud. 
   
 ### <a name="external-contacts-global"></a>Contacts externes (globaux)
 
@@ -128,7 +128,7 @@ Pour plus d'informations sur les contacts externes, voir [Créer une relation d'
 
 Les boîtes aux lettres de ressources (comme celles dédiées aux salles de conférence ou aux équipements physiques) représentent les salles de réunions ou d'autres installations ou ressources. Les utilisateurs peuvent réserver des salles ou des ressources en ajoutant l’alias de messagerie de la ressource aux demandes de réunion dans Outlook ou Outlook sur le Web. Les salles de conférence et les ressources apparaissent dans la liste d’adresses globale dans Outlook et Outlook sur le Web.
   
-Administrators create resource mailboxes using the Exchange admin center or remote Windows PowerShell. The mailboxes can also be synchronized with Exchange Online from on-premises Active Directory.
+Les administrateurs créent des boîtes aux lettres de ressources à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Les boîtes aux lettres peuvent également être synchronisées avec Exchange Online à partir d'Active Directory local.
   
 Pour plus d'informations sur les boîtes aux lettres de ressources, voir :
   
@@ -138,7 +138,7 @@ Pour plus d'informations sur les boîtes aux lettres de ressources, voir :
     
 ### <a name="conference-room-management"></a>Gestion des salles de conférence
 
-Exchange Online includes the Resource Booking Attendant (RBA), which automates scheduling of conference rooms and other resources. A resource mailbox that is RBA-configured accepts, declines, or acknowledges meeting requests from a meeting organizer based on the resource's calendar availability. 
+Exchange Online inclut l'Assistant Réservation de ressources qui automatise la planification des salles de conférence et d'autres ressources. Une boîte aux lettres de ressources configurée avec l'Assistant Réservation de ressources accepte, refuse ou accuse réception des demandes de réunion émises par l'organisateur de la réunion en fonction des disponibilités figurant sur le calendrier de la ressource. 
   
 Les administrateurs peuvent personnaliser les réponses automatiques des salles de conférence et configurer des stratégies de réservation dans Outlook sur le Web. Ces stratégies incluent les critères suivants : qui peut planifier la ressource, quand elle peut être planifiée, quelles informations relatives à la réunion sont visibles sur le calendrier de la ressource et quel pourcentage de conflits est autorisé. Les administrateurs ont la possibilité de désactiver l'Assistant Réservation de ressources et d'affecter à des utilisateurs spécifiques la gestion manuelle des demandes de réunion associées à des salles de conférence.
   
@@ -146,7 +146,7 @@ Les administrateurs doivent définir et gérer les paramètres de l'Assistant R�
   
 ### <a name="out-of-office-replies"></a>Réponses avec notification d'absence du bureau
 
-Out-of-office messages are automatic replies to incoming messages that Exchange Online sends on behalf of a user. Users can schedule out-of-office messages in advance, with specific start and end times, and can configure separate out-of-office messages for internal and external recipients. They can also set out-of-office messages from mobile devices that support this Exchange ActiveSync feature. Junk-email and mailing-list awareness within Exchange Online prevents users from sending external out-of-office messages to extended mailing lists and potential spammers. Administrators can also prevent users from sending out-of-office messages to external users using remote Windows PowerShell.
+Les messages de notification d'absence du bureau sont des réponses automatiques à des messages entrants qu'Exchange Online envoie pour le compte d'un utilisateur. Les utilisateurs peuvent planifier des messages de notification d'absence du bureau avec des heures de début et de fin spécifiques et configurer des messages de notification d'absence du bureau distincts adressés aux destinataires internes ou externes. Ils peuvent également définir des messages de notification d'absence du bureau à partir d'appareils mobiles prenant en charge Exchange ActiveSync. La reconnaissance des courriers indésirables et des listes de mailing au sein d'Exchange Online empêche l'envoi par les utilisateurs de messages de notification d'absence du bureau sur des listes de mailing étendues et auprès d'expéditeurs potentiels de courrier indésirable. Les administrateurs peuvent également empêcher les utilisateurs d'envoyer des messages de notification d'absence du bureau à des utilisateurs externes via Windows PowerShell à distance.
   
 ### <a name="calendar-sharing"></a>Partage du calendrier
 
@@ -160,7 +160,7 @@ Pour plus d'informations sur le partage fédéré, consultez la rubrique [Partag
   
 ### <a name="outlook-2010-room-finder"></a>Outlook 2010 - Recherche de salles
 
-Exchange Online supports the Room Finder feature of Outlook 2010, which arranges rooms into lists (for example, a list called "Building 5 rooms") to make it easier to find a nearby room when scheduling a meeting. To appear in the room list, a distribution group must be specially marked using one of two methods: 
+Exchange Online prend en charge la fonctionnalité Recherche de salles d'Outlook 2010, qui range les salles dans des listes (par exemple, une liste intitulée « Bâtiment à 5 salles ») afin de faciliter la recherche d'une salle à proximité lors de la planification d'une réunion. Pour apparaître dans la liste de salles, un groupe de distribution doit être spécifiquement marqué selon l'une des deux méthodes : 
   
 - Il est possible de créer une liste de salles à l'aide de Windows PowerShell à distance. 
     

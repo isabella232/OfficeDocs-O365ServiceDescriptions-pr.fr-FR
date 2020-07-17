@@ -27,14 +27,14 @@ Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à l
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
+Microsoft Outlook est un programme riche de messagerie électronique qui inclut la prise en charge du calendrier, des contacts et de tâches. Archivage Exchange Online prend en charge Outlook 2013, Outlook 2010 et Outlook 2007. Les fonctionnalités clés incluent :
   
 - **Outlook Anywhere** Outlook Anywhere permet aux utilisateurs d’Outlook de se connecter à Exchange Server et à l’archivage Exchange Online sur Internet sans avoir besoin d’une connexion VPN. La communication entre Outlook et Archivage Exchange Online se fait via un tunnel SSL sécurisé, à l'aide du composant réseau Windows RPC sur HTTP.    
 - **Découverte automatique** Le service de découverte automatique Exchange configure automatiquement Outlook pour qu'il fonctionne avec Archivage Exchange Online. La découverte automatique permet aux utilisateurs d’Outlook de recevoir les paramètres de profil requis directement à partir d’Exchange la première fois (et à intervalles réguliers par la suite) qu’ils se connectent avec leur adresse de messagerie et leur mot de passe. 
 
 Outlook 2010 et versions ultérieures et Outlook sur le Web fournissent aux utilisateurs les fonctionnalités complètes de l’archive, ainsi que des fonctionnalités associées telles que les stratégies de rétention et d’archivage.
   
-Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
+Outlook 2007 propose une prise en charge simple de l'archive, mais toutes les fonctions de conformité et d'archivage ne sont pas disponibles dans Outlook 2007. Par exemple, avec Outlook 2007, les utilisateurs ne peuvent pas appliquer de stratégies d'archivage ou de rétention aux éléments de leurs boîtes aux lettres. Ils doivent plutôt utiliser des stratégies fournies par un administrateur. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive.
   
 > [!NOTE]
 > Outlook n'est pas fourni avec Archivage Exchange Online. Microsoft 365 apps pour entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté séparément en tant qu’abonnement séparé. Pour plus d’informations, consultez la rubrique [options de plan Microsoft 365](../office-365-platform-service-description/office-365-plan-options.md). Pour plus d’informations sur les applications Microsoft 365 pour Enterprise, voir la [Description du service d’applications Office](../office-applications-service-description/office-applications-service-description.md). 

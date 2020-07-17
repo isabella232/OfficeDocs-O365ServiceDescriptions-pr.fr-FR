@@ -36,19 +36,19 @@ Les ressources sont les personnes, les documents ou les coûts nécessaires pour
   
 ## <a name="financial-management"></a>Gestion financière
 
-Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Adoptez des processus de gestion financière pour améliorer les estimations de coûts et de bénéfices. Suivez efficacement les performances de coûts pour garantir que chaque projet est mené à bien dans le respect du budget et que le portefeuille dégage les bénéfices prévus. Pour en savoir plus, consultez la rubrique [Guide des solutions de gestion de portefeuille de projets (livre blanc)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Participer à un flux de travail
 
-Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
+Les flux de travail permettent de structurer les projets afin de passer aux phases suivantes. Un flux de travail inclut les définitions des étapes du cycle de vie par lesquelles le projet passe, telles que la création de proposition et l’approbation initiale. Le flux de travail définit les informations requises ou verrouillées à chaque étape.
   
 ## <a name="portfolio-analytics-and-selection"></a>Analyse et sélection de portefeuille
 
-Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Identifiez, sélectionnez et offrez en toute efficacité les portefeuilles de projets qui s'alignent le mieux à la stratégie professionnelle de votre entreprise et qui maximisent votre RSI. Pour en savoir plus, consultez la rubrique [Guide des solutions de gestion de portefeuille de projets (livre blanc)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Gestion de programmes
 
-In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Chaque projet au sein de la gestion de programmes présente son propre ensemble d'objectifs qui, combinés les uns aux autres, permettent de réaliser les bénéfices prévus du programme général. Pour en savoir plus, consultez la rubrique [Guide des solutions de gestion de portefeuille de projets (livre blanc)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>Feuille de route
 

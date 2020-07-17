@@ -38,7 +38,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 ## <a name="peer-to-peer-limits"></a>Limites pair à pair
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Limite de transfert de fichiers** Taille maximale d'un fichier qui peut être transféré lors d'une conversation par messagerie instantanée dans Skype Entreprise Online. Pour connaître les types de fichiers dont le transfert est bloqué, consultez l'article du support Microsoft sur [l'envoi ou la réception de fichiers ou de pièces jointes dans Skype Entreprise Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **Limite des conversations ouvertes dans des onglets** Nombre maximal d'onglets de conversation qu'un utilisateur Skype Entreprise peut ouvrir en même temps. 
     
@@ -52,7 +52,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |Non applicable  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Un client peut démarrer une conversation avec plusieurs utilisateurs (99 maximum), soit en les ajoutant manuellement, soit en envoyant un message instantané à partir du menu contextuel d'un groupe ou d'une liste de distribution. Pour en savoir plus sur la messagerie instantanée dans Skype Entreprise Online, consultez l'article [Envoyer un message instantané dans Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Limites pair à pair parmi les options autonomes
 
@@ -64,7 +64,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 |Limite de conversations ouvertes dans des onglets  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> A client can start a chat with up to 99 users by either manually adding them or sending an instant message from the context menu of a group or distribution list. For more information about instant messaging in Skype for Business Online, see [Send an IM in Skype for Business](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Un client peut démarrer une conversation avec plusieurs utilisateurs (99 maximum), soit en les ajoutant manuellement, soit en envoyant un message instantané à partir du menu contextuel d'un groupe ou d'une liste de distribution. Pour en savoir plus sur la messagerie instantanée dans Skype Entreprise Online, consultez l'article [Envoyer un message instantané dans Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Limites de réunion
 
@@ -94,7 +94,7 @@ Les limites de Skype entreprise Online appartiennent aux catégories suivantes 
 |Personnes dans un groupe d'appel d'équipe  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |Non applicable  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
+> <sup>1</sup> Si une réunion Skype Entreprise compte plus de 75 participants, la liste des participants (présentateurs et participants compris) dans la composition de la réunion est tronquée pour que chaque participant voie uniquement le nom des présentateurs et des participants. La liste des participants complète reste visible pour les présentateurs de la réunion. De plus, les participants ne peuvent pas voir les erreurs liées à la messagerie instantanée et à la vue Galerie. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>Limites de réunion parmi les options autonomes
 

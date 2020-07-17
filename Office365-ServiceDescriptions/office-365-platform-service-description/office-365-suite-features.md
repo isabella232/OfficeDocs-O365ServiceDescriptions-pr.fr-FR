@@ -56,7 +56,7 @@ MyAnalytics fournit des informations sur deux des facteurs clés de votre produc
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
-Microsoft Planner is a tool that gives users a visual way to organize teamwork. Teams can create new plans, organize and assign tasks, share files, chat about what they're working on, set due dates, and update status. Microsoft Planner also offers the ability to associate documents with specific tasks, edit them together, and have conversations around tasks. To learn more, see [Introducing Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner is not yet available in [Office 365 Germany](office-365-germany.md).
+Microsoft Planner est un outil qui offre aux utilisateurs un moyen visuel pour organiser le travail d'équipe. Les équipes peuvent créer des plans, organiser et affecter des tâches, partager des fichiers, discutez de ce sur quoi ils travaillent, définir des dates d'échéance et mettre à jour les statuts des tâches. Microsoft Planner offre également la possibilité d'associer des documents à des tâches spécifiques, de les modifier simultanément et de tenir des conversations autour des tâches. Pour plus d'informations, voir [Présentation de Microsoft Planner](https://go.microsoft.com/fwlink/?LinkID=718016&amp;clcid=0x4809). Planner n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
@@ -92,7 +92,7 @@ Les groupes de Microsoft 365 connectent les utilisateurs aux collègues, aux inf
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video is a secure, company-wide destination where you can upload, share and discover videos across your devices—powered by Microsoft Azure Media Services. Office 365 Video can help keep viewers engaged and informed, to communicate ideas broadly, and for organizations to be in unison. To learn more, see [Introducing Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+Office 365 Video constitue une destination sécurisée à l'échelle de la société où vous pouvez télécharger, partager et découvrir des vidéos sur vos périphériques, optimisée par Microsoft Azure Media Services. Office 365 Video peut contribuer à maintenir les utilisateurs impliqués et informés, à communiquer des idées de façon globale et à homogénéiser les organisations. Pour en savoir plus, voir [Présentation d'Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloc-notes OneNote pour la classe
 

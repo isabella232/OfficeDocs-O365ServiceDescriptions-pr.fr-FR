@@ -36,7 +36,7 @@ Avec Office pour la prise en charge du Web dans Yammer, les documents téléchar
 
 ## <a name="online-now"></a>En ligne maintenant
 
-See who's online and instantly start a private discussion with one or more co-workers. The contact list is automatically sorted by the people you interact with most.
+Restez informé des utilisateurs connectés et lancez instantanément une discussion privée avec un collègue, ou plusieurs. La liste des contacts est automatiquement triée en fonction des utilisateurs avec lesquels vous interagissez le plus.
 
 ## <a name="polls"></a>Sondages
 

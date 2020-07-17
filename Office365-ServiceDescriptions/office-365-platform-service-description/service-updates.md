@@ -21,12 +21,12 @@ ms.locfileid: "45131478"
 # <a name="service-updates"></a>Mises à jour du service
 
 > [!NOTE]
-> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> Cette rubrique ne s'applique pas à Office 365 géré par 21Vianet. Pour plus d'informations sur les mises à jour de services, reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 Pour en savoir plus sur les fonctionnalités que vous venez de publier, consultez la feuille de [route Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
-> Updates and upgrades are rolled out to customers based on many factors, such as geography, language, data center, and subscription. This means that not all updates are available immediately to existing customers. 
+> Les mises à jour et les mises à niveau sont transférées aux clients en fonction de nombreux facteurs tels que la situation géographique, la langue, le centre de données et l’abonnement. Cela signifie que toutes les mises à jour ne sont pas disponibles immédiatement pour les clients existants. 
   
 ## <a name="targeted-release"></a>Version ciblée
 

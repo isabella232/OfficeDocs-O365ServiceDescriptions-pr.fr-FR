@@ -124,7 +124,7 @@ PowerPoint pour le Web est lancé à partir d’un navigateur Web et s’appuie 
   
 ## <a name="picture-cropping"></a>Rognage d’image
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+Améliorez la trame d’un objet dans une image avec l’outil de rognage. Cliquez simplement sur l’une des poignées de rognage sur le bord de l’image et faites-la glisser jusqu’à ce que vous obteniez l’image souhaitée.
   
 ## <a name="pictures"></a>Images
 
@@ -172,7 +172,7 @@ Word Art et les graphiques ne peuvent pas être insérés dans PowerPoint pour l
   
 ## <a name="share"></a>Partager
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+Si votre présentation est enregistrée dans une bibliothèque de documents SharePoint, votre présentation est en ligne et vous pouvez la partager en envoyant un lien au lieu de l'insérer en pièce jointe à un e-mail. Les personnes autorisées pourront ainsi l'afficher dans leur navigateur web ou sur leur appareil mobile. En savoir plus sur [le partage d'une présentation](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Slide show
 

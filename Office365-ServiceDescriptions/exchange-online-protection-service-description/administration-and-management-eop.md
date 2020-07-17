@@ -34,7 +34,7 @@ Le Centre d’administration Exchange (CAE) est une console de gestion unifiée 
   
 ## <a name="remote-windows-powershell-access"></a>Accès à Windows PowerShell à distance
 
- Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ Les administrateurs peuvent utiliser Windows PowerShell à distance pour effectuer des tâches de gestion à partir de la ligne de commande. Pour obtenir plus d'informations sur l'utilisation de Windows PowerShell, y compris sur la création d'une session Windows PowerShell à distance et de la documentation sur chaque cmdlet, voir [Exchange Online PowerShell ](https://go.microsoft.com/fwlink/p/?LinkId=282266).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

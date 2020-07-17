@@ -28,7 +28,7 @@ Contacter l’Organisation pour trouver les experts dont vous avez besoin. Étan
 
 ## <a name="leaderboards"></a>Classements
 
-Identify influential coworkers in your network. Leaderboards display people with the most messages, replied-to messages, and liked messages.
+Identifiez les collègues influents dans votre réseau. Les classements présentent les personnes comptant le plus de messages, le plus de réponses à des messages et le plus de messages aimés.
 
 ## <a name="member-directory"></a>Annuaire des utilisateurs
 

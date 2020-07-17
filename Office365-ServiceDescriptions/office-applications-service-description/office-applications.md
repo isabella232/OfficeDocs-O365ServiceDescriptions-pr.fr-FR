@@ -58,7 +58,7 @@ Skype Entreprise est un client de messagerie instantanée et une application de 
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath est un programme qui permet de concevoir, de distribuer, de remplir et de soumettre des formulaires électroniques. Vous pouvez choisir d'ajouter le composant WebPart Formulaire InfoPath à un site SharePoint Online. En savoir plus sur [les composants WebPart Formulaire InfoPath](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Pour découvrir comment les PowerApp, le successeur d’InfoPath, peuvent améliorer la productivité de l’entreprise dans SharePoint sans écrire de code, consultez la rubrique [Customize SharePoint with powerapps](https://powerapps.microsoft.com/infopath/).
   

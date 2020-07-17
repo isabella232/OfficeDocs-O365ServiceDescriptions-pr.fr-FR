@@ -70,13 +70,13 @@ Support technique pour les abonnements Microsoft 365 fournit une assistance pour
   
 ### <a name="technical-support-case-handling"></a>Gestion des incidents d’assistance technique
 
-Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+Microsoft affecte un niveau de gravité à un incident lorsqu'il est ouvert en fonction d'une évaluation du type de problème et de son impact sur le client. Le tableau suivant contient des exemples de types de problèmes et de niveaux de gravité.
   
 |**Niveau de gravité**|**Description d'opérations et de l'assistance**|**Exemples**|
 |:-----|:-----|:-----|
-|Niveau de gravité A (Critique)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Problèmes les plus répandus d’envoi ou de réception de messages.  <br/>  Site SharePoint en panne.  <br/>  Tous les utilisateurs ne peuvent pas envoyer de messages instantanés, rejoindre ou planifier des réunions Skype Entreprise, ou passer des appels Skype Entreprise.  <br/> |
-|Niveau de gravité B (Haute)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | Le bouton Envoyer dans Outlook est tronqué.  <br/>  Le paramétrage est impossible dans le CAE (centre d'administration Exchange), mais il est possible dans PowerShell.  <br/> |
-|Niveau de gravité C (Non critique)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | Comment définir un mot de passe d’utilisateur qui n’expire jamais.  <br/>  L'utilisateur ne peut pas supprimer les informations de contact dans Exchange Online.  <br/> |
+|Niveau de gravité A (Critique)  <br/> |Un ou plusieurs services ne sont pas accessibles ou sont inutilisables. Les délais de production, d'opérations ou de déploiement sont gravement affectés, ou bien la production ou la rentabilité risque d'être gravement affectée. Plusieurs utilisateurs ou services sont affectés.  <br/> | Problèmes les plus répandus d’envoi ou de réception de messages.  <br/>  Site SharePoint en panne.  <br/>  Tous les utilisateurs ne peuvent pas envoyer de messages instantanés, rejoindre ou planifier des réunions Skype Entreprise, ou passer des appels Skype Entreprise.  <br/> |
+|Niveau de gravité B (Haute)  <br/> |Le service est utilisable mais pas de manière optimale. La situation a un impact modéré sur l’activité et peut être traitée aux heures ouvrables. Un seul utilisateur, client ou service est partiellement affecté.  <br/> | Le bouton Envoyer dans Outlook est tronqué.  <br/>  Le paramétrage est impossible dans le CAE (centre d'administration Exchange), mais il est possible dans PowerShell.  <br/> |
+|Niveau de gravité C (Non critique)  <br/> |La situation a un impact minime sur l’activité. Le problème est important mais n’a pas d’impact considérable sur la productivité ou le service actuel pour le client. Un seul utilisateur connaît une interruption partielle mais il existe une solution acceptable.  <br/> | Comment définir un mot de passe d’utilisateur qui n’expire jamais.  <br/>  L'utilisateur ne peut pas supprimer les informations de contact dans Exchange Online.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>Délais de réponse initiaux d’assistance technique
 
@@ -105,7 +105,7 @@ Selon la région et la langue, les ingénieurs de l’assistance sont disponible
   
 ## <a name="shared-support-responsibilities"></a>Responsabilités d’assistance partagées
 
-Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
+Microsoft comprend que bénéficier d'une assistance technique opportune de professionnels qualifiés est un aspect clé des services en nuage. Importe également le rôle critique que joue le service informatique du client dans l'assistance de ses utilisateurs.
   
 ### <a name="administrator-role-and-responsibilities"></a>Rôle et responsabilités de l’administrateur
 
@@ -131,7 +131,7 @@ Le rôle de l’administrateur consiste à :
 
 - Utiliser les ressources d'assistance en libre service de Microsoft pour résoudre les problèmes d'assistance.
 
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
+L'administrateur est supposé fournir une assistance initiale aux utilisateurs du client. Toutefois, si l'administrateur est incapable de résoudre des problèmes à l'aide des ressources d'assistance en libre service, il ou elle doit contacter [Assistance technique](support.md#technical-support).
   
 ### <a name="microsoft-support-role"></a>Rôle d’assistance Microsoft
 
@@ -177,7 +177,7 @@ Plusieurs types de services d'assistance supplémentaires sont disponibles :
 
 ### <a name="partners"></a>Partenaires
 
-You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+Vous pouvez sélectionner un partenaire Microsoft et déléguer des fonctions administratives, notamment la création de tickets de demandes de services. Pour plus d'informations, consultez la description des services [Partenaires](partners.md) et la page [Ajouter, modifier ou supprimer un partenaire conseiller en abonnement](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
   
 ### <a name="developers"></a>Développeurs
 

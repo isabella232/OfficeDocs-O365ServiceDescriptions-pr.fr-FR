@@ -42,7 +42,7 @@ Word pour le Web enregistre automatiquement votre document lorsque vous effectue
   
 ## <a name="autotext"></a>AutoText
 
-You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
+Vous pouvez insérer des blocs de texte préformaté à l'aide de contenu issu de votre galerie d'insertion automatique. Cela est utile, par exemple, lorsque vous devez entrer un grand bloc de texte plusieurs fois et que celui-ci contient un grand nombre de mises en forme. Pour créer des insertions automatiques, vous devez ajouter du texte sélectionné à la galerie Insertion automatique. Pour en savoir plus, consultez la rubrique [Insérer automatiquement du texte](https://go.microsoft.com/fwlink/?linkid=846739).
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Parcourir et commencer à travailler à partir de modèles conçus par des professionnels
 
@@ -70,11 +70,11 @@ Non disponible dans Word pour le Web. Les fonctionnalités de collaboration avan
   
 ## <a name="content-controls"></a>Contrôles de contenu
 
-Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+Les contrôles de contenu sont des contrôles individuels que vous pouvez ajouter et personnaliser pour les utiliser dans des modèles, des formulaires et des documents. Pour en savoir plus sur les contrôles de contenu, consultez la rubrique [À propos des contrôles de contenu](https://go.microsoft.com/fwlink/p/?LinkId=846741).
   
 ## <a name="cover-pages"></a>Pages de garde
 
-Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
+Microsoft Word propose une galerie de pages de garde prédéfinies très pratiques. Vous pouvez simplement choisir une page de garde et remplacer le texte d’exemple par le vôtre.
   
 ## <a name="creation-of-advanced-document-elements"></a>Création d'éléments de document avancés
 
@@ -86,7 +86,7 @@ Non disponible dans Word pour le Web. Les parties et thèmes de documents, comme
   
 ## <a name="document-translation"></a>Traduction de document
 
-Translate documents directly in the browser. Even document comments are translated.
+Vous pouvez traduire des documents directement dans le navigateur. Mêmes les commentaires des documents sont traduits.
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -126,7 +126,7 @@ Avec Word pour le Web, vous pouvez facilement créer des liens vers des signets 
   
 ## <a name="index"></a>Index
 
-An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
+Un index répertorie les termes et les rubriques d’un document, ainsi que les pages auxquelles ils apparaissent. Pour créer un index, vous devez en marquer chaque entrée en fournissant le nom de l’entrée principale et de la référence croisée dans votre document.
   
 ## <a name="ink-editor"></a>Correction intégrée
 
@@ -184,7 +184,7 @@ Avec Word pour le Web, vous pouvez redimensionner les images et ajouter un texte
   
 ## <a name="preformatted-font-and-color-schemes"></a>Polices et modèles de couleurs préformatés
 
-You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
+Vous pouvez utiliser des thèmes pour simplifier le processus de création de documents uniformisés et d’aspect professionnel. Vous pouvez appliquer ces thèmes à des tableaux, à des graphiques, à des formes et à des diagrammes afin qu’ils utilisent des polices, des couleurs et des effets cohérents.
   
 ## <a name="present-online"></a>Présentation en ligne
 
@@ -212,7 +212,7 @@ Plusieurs personnes peuvent travailler simultanément dans un document. Dans Wor
   
 ## <a name="reference-tools"></a>Outils de référence
 
-Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
+Les fonctionnalités Bibliographie, Table des matières et Index s’affichent normalement dans le document en mode Affichage. En mode Édition, elles apparaissent sous forme d’espaces réservés que vous pouvez supprimer, mais pas modifier ni mettre à jour. Les outils de référence avancés, comme la création d’une bibliographie, d’une table des matières, d’un index ou d’une table des références, sont disponibles uniquement dans l’application Word de bureau.
   
 ## <a name="rendering-of-text-boxesshapes"></a>Rendu des zones de texte/formes
 
@@ -220,7 +220,7 @@ Vous pouvez insérer des zones de texte et des formes, puis modifier rapidement 
   
 ## <a name="researcher"></a>Recherche
 
-Researcher helps you find and incorporate reliable sources and content for your document. Researcher uses Bing to pull in the appropriate content from the web. For more information, see [Research for your paper easily within Word](https://go.microsoft.com/fwlink/?linkid=839490).
+La fonctionnalité Recherche vous permet de rechercher des sources et du contenu fiables et de les incorporer dans votre document. La fonctionnalité Recherche utilise Bing pour extraire le contenu approprié du web. Pour en savoir plus, consultez l'article [Faites des recherches pour votre article facilement dans Word](https://go.microsoft.com/fwlink/?linkid=839490).
   
 ## <a name="rich-media"></a>Multimédia enrichi
 
@@ -260,7 +260,7 @@ Non disponible dans Word pour le Web. Vous pouvez afficher une table des référ
   
 ## <a name="tap"></a>Recommandations
 
-Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
+Utilisez la fonctionnalité Recommandations pour rechercher et réutiliser du contenu. La fonction Recommandations expose les fichiers que vous utilisez le plus souvent, ce qui vous permet de vous concentrer sur la création de documents, au lieu de chercher des fichiers et des informations. Pour plus d'informations, consultez [Rechercher et réutiliser le contenu utile](https://go.microsoft.com/fwlink/?linkid=825878).
   
 ## <a name="tell-me"></a>Rechercher
 
@@ -284,7 +284,7 @@ Avec Word pour le Web, vous pouvez insérer, modifier ou supprimer des commentai
   
 ## <a name="watermarks"></a>Filigranes
 
-Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
+Les filigranes sont du texte ou des images placés derrière le texte de votre document ; par exemple, vous pouvez ajouter des filigranes textuels tels que Brouillon ou Confidentiel. Word propose une galerie de filigranes au choix, mais vous pouvez aussi créer des filigranes personnalisés pour votre document, par exemple un logo d’entreprise.  
   
 ## <a name="word-count"></a>Statistiques
 

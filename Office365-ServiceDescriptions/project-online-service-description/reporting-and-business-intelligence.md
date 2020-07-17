@@ -22,7 +22,7 @@ Les fonctionnalités de création de rapports et d’aide à la décision suivan
   
 ## <a name="odata-feeds"></a>Flux OData
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+Les flux OData autorisent les requêtes REST et les diverses bibliothèques client OData à réaliser les deux requêtes de données de création de rapports à partir d'une instance Project Web App. Par exemple, vous pouvez utiliser directement une requête REST dans un navigateur web, ou utiliser JavaScript pour créer des applications web et des applications clientes pour des appareils mobiles, des tablettes, des PC et des ordinateurs Mac. Pour plus d'informations, voir la rubrique sur [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Tableaux de bord de portefeuille prêts à l’emploi
 
@@ -30,5 +30,5 @@ Les rapports complets et prédéfinis sont conçus pour être immédiatement uti
   
 ## <a name="project-desktop-reporting"></a>Comptes-rendus Project sur ordinateur de bureau
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+Les rapports Project sur ordinateur de bureau vous permettent de créer et de personnaliser des rapports graphiques attrayants pour n'importe quelles données de projet, sans avoir à utiliser un autre logiciel. Pour plus d'informations, voir [Créer un rapport Project ](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
   

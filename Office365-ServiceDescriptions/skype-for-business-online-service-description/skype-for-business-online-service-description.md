@@ -30,7 +30,7 @@ ms.locfileid: "45133068"
 
  **Voulez-vous savoir quelles licences vous devez acheter pour obtenir certaines fonctionnalités de Skype entreprise ? Consultez la rubrique [licences de module complémentaire Skype entreprise](https://go.microsoft.com/fwlink/?LinkID=799524).**
   
-Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
+Skype Entreprise Online est un service de communication qui connecte des personnes pour des conversations et des réunions à tout moment et depuis pratiquement n'importe quel emplacement. Il donne accès aux utilisateurs aux informations de présence, et active les fonctionnalités de messagerie instantanée, d'appels audio et vidéo, de réunions en ligne denses et de conférence web étendue. 
   
 Skype Entrepriseest hébergé sur des serveurs mutualisés qui prennent en charge plusieurs clients simultanément. Ces serveurs sont hébergés dans des centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils à l’intérieur d’un réseau d’entreprise ou sur Internet. 
   
@@ -81,7 +81,7 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.
 |Office Communications Server 2007 R2 et Lync Server 2010 (messagerie instantanée, présence, audio, vidéo, Conférence)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Fédération XMPP (utilisé par Google Talk, par exemple) et Sametime  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 | Fédération Skype  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|AOL and Yahoo! federation  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
+|Fédération AOL et Yahoo!  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |**[Réunions Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Entreprise Server 2015** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Services d’audioconférence ad hoc et planifiés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Conférence vidéo ad hoc et planifiée  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -189,7 +189,7 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Skype Entreprise Online
 
-The following table lists Skype for Business Online feature availability across standalone plans. For a description of these features, go to [Skype for Business Online features](skype-for-business-online-features.md).
+Le tableau suivant indique la disponibilité des fonctionnalités Skype Entreprise Online parmi les plans autonomes. Pour obtenir une description de ces fonctionnalités, accédez à [Fonctionnalités de Skype Entreprise Online](skype-for-business-online-features.md).
   
 > [!NOTE]
 > Les utilisateurs titulaires d'une licence Skype Entreprise Online Plan autonome 2 recevront le client Skype Entreprise Basic, et non le client Skype Entreprise complet. Si vous souhaitez que les utilisateurs reçoivent le client Skype Entreprise, vous devez les mettre à niveau vers une licence qui l'inclut, par exemple une licence d'entreprise. Pour déployer le client Skype entreprise pour vos utilisateurs, reportez-vous à [la rubrique deploy the Skype for Business client in Microsoft 365 ou Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
@@ -230,7 +230,7 @@ The following table lists Skype for Business Online feature availability across 
 |Office Communications Server 2007 R2 et Lync Server 2010 (messagerie instantanée, présence, audio, vidéo, conférences)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Fédération XMPP (utilisé par Google Talk, par exemple) et Sametime  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 | Fédération Skype  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|AOL and Yahoo! federation  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
+|Fédération AOL et Yahoo!  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |**[Réunions Skype Entreprise Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
 |Services d’audioconférence ad hoc et planifiés  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Conférence vidéo ad hoc et planifiée  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |

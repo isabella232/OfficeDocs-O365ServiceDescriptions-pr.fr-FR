@@ -30,11 +30,11 @@ Gérez les coûts de votre projet.
   
 ## <a name="manage-nonworking-time"></a>Gestion des durées non travaillées
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. En savoir plus sur [l'ajout de jours fériés et de jours de vacances à votre projet](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Audit des ressources
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+Quand les personnes qui participent à votre projet remplissent trop de rôles en même temps, vous pouvez ajuster automatiquement leurs affectations. Cette technique est connue sous le nom de « nivellement des ressources ». Consultez la rubrique [Niveler les affectations de ressources](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Feuille de ressource et vues d’utilisation
 
@@ -50,7 +50,7 @@ Ajoutez des ressources au projet d'une équipe, telles que des ressources consom
   
 ## <a name="work-generic-and-material-resources"></a>Ressources de travail, générales et matérielles
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+Ajoutez des ressources à votre projet, y compris des ressources de travail telles que du personnel, des ressources génériques telles que des menuisiers et des ressources consommables telles que des ordinateurs et du ciment. Consultez la rubrique relative à la [saisie des coûts des équipements et d'autres ressources de coût](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

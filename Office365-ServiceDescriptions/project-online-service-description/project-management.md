@@ -24,7 +24,7 @@ Vous recherchez des informations sur toutes les fonctionnalités de Project Onli
   
 ## <a name="issues-and-risk-management"></a>Gestion des problèmes et des risques
 
-Project Online and Project Server 2013 include features to prevent, identify, and mitigate potential business- or project-related risks and issues. To learn more, see [Managing issues, risks, and documents in Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
+Project Online et Project Server 2013 comprennent des fonctions qui permettent de prévenir, d'identifier et d'atténuer les risques et problèmes potentiels liés aux projets ou aux activités. Pour en savoir plus, consultez la rubrique [Gestion des problèmes, des risques et des documents dans Project Web App](https://go.microsoft.com/fwlink/?LinkId=402634).
   
 ## <a name="manage-project-resources"></a>Gérer les ressources du projet
 
@@ -32,15 +32,15 @@ Fournir aux chefs de projet la possibilité d’afficher les ressources disponib
   
 ## <a name="reporting-and-business-intelligence"></a>Création de rapports et aide à la décision
 
-With Microsoft PPM solutions, you have several options for viewing and creating reports and working with Project Server 2013 data. Some reports are available automatically, and you can easily create your own reports using lots of reporting tools. To learn more, see [What reporting tools can I use with project data?](https://go.microsoft.com/fwlink/?LinkId=402642).
+Grâce aux solutions de gestion de projets Microsoft, vous disposez de plusieurs options pour visualiser et créer des rapports, ainsi que pour utiliser les données Project Server 2013. Certains rapports sont disponibles automatiquement, et vous pouvez facilement créer vos propres rapports à l'aide de nombreux outils. Pour en savoir plus, consultez la rubrique [Quels outils de création de rapport puis-je utiliser avec des données de projet ?](https://go.microsoft.com/fwlink/?LinkId=402642).
   
 ## <a name="schedule-management"></a>Gestion de la planification
 
-The schedule represents the tasks and deliverables that must be completed to deliver the project on time. You can create a timeline for your projects to track progress and manage change. To learn more, see [Add tasks and projects to the timeline](https://go.microsoft.com/fwlink/?LinkID=402655).
+La planification représente les tâches et livrables à réaliser pour mener à bien un projet dans les délais impartis. Vous pouvez créer un calendrier pour vos projets afin de suivre leur progression et gérer les changements. Pour en savoir plus, consultez la rubrique [Ajouter des tâches et des projets à la chronologie](https://go.microsoft.com/fwlink/?LinkID=402655).
   
 ## <a name="time-and-task-management"></a>Gestion du temps et des tâches
 
-Use a centralized and common approach to time reporting and task management. Capture work and nonworking time for payroll, invoicing, and other business purposes. Efficiently communicate status on projects, everyday work, and ad-hoc requests to gauge usage peaks and valleys or progress on tasks. This helps you anticipate the effect on planned effort, cost, and timeframe. To learn more, see [Tracking time and task progress](https://go.microsoft.com/fwlink/p/?LinkId=271321).
+Utilisez une approche centralisée et commune à la gestion de tâches et de rapports de temps. Capturez les périodes de travail et chômées à des fins de paie, de facturation et à d'autres fins d'entreprise. Communiquez efficacement l'état sur les projets, les tâches quotidiennes et les demandes ad hoc pour évaluer les pics et les creux d'utilisation ou l'avancement des tâches. Cela vous aide à anticiper l'effet sur les efforts, les coûts et l'échéancier prévus. Pour en savoir plus, consultez la rubrique [Effectuer le suivi de votre temps et de l'avancement de vos tâches](https://go.microsoft.com/fwlink/p/?LinkId=271321).
 
 ## <a name="project-home"></a>Accueil de projet
 

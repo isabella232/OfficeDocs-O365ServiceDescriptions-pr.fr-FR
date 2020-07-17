@@ -26,7 +26,7 @@ Vous recherchez des informations sur toutes les fonctionnalités de Project Onli
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+Lorsque vous désactivez une tâche, elle reste dans le plan du projet mais n'a aucune incidence sur les éléments suivants : la disponibilité des ressources, le planning du projet ou la planification des autres tâches. Pour en savoir plus, consultez la rubrique [Désactiver une tâche](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>Saisie semi-automatique
 
@@ -42,7 +42,7 @@ Les tâches des projets peuvent maintenant utiliser des dates du calendrier jusq
   
 ## <a name="cross-project-critical-path"></a>Chemin critique entre les projets
 
-A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
+Un chemin critique représente la série de tâches qui doivent être accomplies dans les délais pour qu'un projet soit terminé en temps voulu. Vous pouvez créer, modifier et supprimer une relation de dépendance avec une tâche dans un autre projet. 
   
 ## <a name="task-inspector"></a>Inspecteur de tâches
 
@@ -50,7 +50,7 @@ Affichez les facteurs qui influent sur la planification d’une tâche, tels que
   
 ## <a name="task-path-analysis"></a>Analyse du chemin des tâches
 
-See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+Visualisez la façon dont une tâche est associée à d'autres en surlignant la séquence des tâches tout au long du projet. Pour en savoir plus, consultez la rubrique relative à la [mise en évidence des liens entre les tâches](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>Tâches récapitulatives verticales
 
