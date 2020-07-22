@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137560"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201550"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -148,7 +148,7 @@ Pour plus d’informations sur la configuration des stratégies de sécurité de
 
 Les administrateurs peuvent étendre les déploiements MCAS aux utilisateurs titulaires d’une licence à l’aide des fonctionnalités de déploiement étendues disponibles dans le service. Pour plus d’informations, reportez-vous à la rubrique [déploiement étendu](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender – Protection avancée contre les menaces
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP est une solution de sécurité de point de terminaison qui inclut une évaluation et une gestion des vulnérabilités basées sur des risques ; fonctionnalités de réduction de la surface d’attaque ; protection de nouvelle génération basée sur le comportement et le Cloud ; détection et réponse aux points de terminaison (EDR); l’analyse et la correction automatiques ; et services de chasse gérés. Consultez la page [Microsoft Defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) pour en savoir plus.
 
@@ -341,6 +341,26 @@ Par défaut, les fonctionnalités de PAM sont activées au niveau du client pour
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
 Les clients peuvent gérer le module PAM par utilisateur grâce à des stratégies de groupe et d’accès approbateur, qui peuvent être appliquées aux utilisateurs sous licence. Pour plus d’informations, consultez la rubrique [gestion des accès privilégiés dans Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+
+## <a name="double-key-encryption-for-microsoft-365"></a>Chiffrement à double clé pour Microsoft 365 
+
+Le chiffrement à double clé pour Microsoft 365 vous permet de protéger vos données hautement sensibles afin de répondre à des exigences spécifiques et de maintenir le contrôle total de votre clé de chiffrement. Le chiffrement à double clé utilise deux clés pour protéger vos données, avec une clé dans votre contrôle et la deuxième clé stockée en toute sécurité dans Microsoft Azure. Pour afficher les données, vous devez avoir accès aux deux clés. Étant donné que Microsoft ne peut accéder qu’à une seule clé, votre clé et vos données ne sont pas disponibles pour Microsoft, garantissant ainsi un contrôle total de la confidentialité et de la sécurité de vos données.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
+
+Les utilisateurs bénéficient du chiffrement à double clé en étant en mesure de migrer leurs données chiffrées vers le Cloud et d’empêcher l’accès des tiers tant que la clé reste en contrôle des utilisateurs. Les utilisateurs finaux peuvent protéger et consommer du contenu chiffré à clé double similaire à tout autre contenu protégé par l’étiquette de sensibilité.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
+
+Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance, Office 365 E5/a5 et Office 365 Advanced Compliance fournissent les droits nécessaires à un utilisateur pour bénéficier d’un chiffrement à double clé.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
+
+Le chiffrement à double clé prend en charge la version de bureau de Microsoft Office pour Windows.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
+
+Pour attribuer des clés de chiffrement aux données d’une organisation Office 365 et/ou Microsoft 365 pour les utilisateurs titulaires d’une licence, suivez les instructions de déploiement de chiffrement à double clé.
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Office 365 protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise
 

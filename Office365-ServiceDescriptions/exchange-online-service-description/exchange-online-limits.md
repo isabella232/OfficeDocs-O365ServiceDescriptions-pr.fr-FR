@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 5586505bc7d4269fefa2d8c96d626ffc872afeea
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132988"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201568"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -103,7 +103,7 @@ L'espace de stockage disponible dans une boîte aux lettres est déterminé par 
 |**Fonctionnalité**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
 |Boîtes aux lettres utilisateur|50 Go|50 Go|50 Go|100 Go|100 Go|2 Go|
 |Boîtes aux lettres d’archivage<sup>7, 8</sup>|50 Go|50 Go|50 Go|Unlimited<sup>1</sup>|Unlimited<sup>1</sup>|Non disponible<sup>4</sup>|
-|Boîtes aux lettres partagées<sup>10</sup>|50 Go<sup>2</sup>|50 Go<sup>2</sup>|50 Go<sup>2</sup>|50 Go<sup>2,9</sup>|50 Go<sup>2,9</sup>|50 Go<sup>2</sup>|
+|Boîtes aux lettres partagées<sup>10</sup>|50 Go<sup>2</sup>|50 Go<sup>2</sup>|50 Go<sup>2</sup>|50/100 Go<sup>2, 9</sup>|50/100 Go<sup>2, 9</sup>|50 Go<sup>2</sup>|
 |Boîtes aux lettres de ressources|50 Go<sup>3</sup>|50 Go<sup>3</sup>|50 Go<sup>3</sup>|50 Go<sup>3,9</sup>|50 Go<sup>3,9</sup>|50 Go<sup>3</sup>|
 |Boîtes aux lettres de site<sup>5</sup>|50 Go|50 Go|50 Go|50 Go|50 Go|Non disponible|
 |Boîtes aux lettres de dossiers publics|50 Go<sup>6</sup>|50 Go<sup>6</sup>|50 Go<sup>6</sup>|100 Go<sup>6</sup>|100 Go<sup>6</sup>|Non disponible|
@@ -192,9 +192,9 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 |Nombre maximal de messages par dossier de boîte aux lettres|1 million|1 million|1 million|1 million|1 million|1 million|
 |Avertissement pour le nombre de messages par dossier de boîte aux lettres|900 000|900 000|900 000|900 000|900 000|900 000|
 |Nombre maximal de messages par dossier dans le dossier Éléments récupérables|3 millions|3 millions|3 millions|3 millions|3 millions|3 millions|
-|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (pas en conservation)|30 Go|30 Go|30 Go|30 Go|30 Go|30 Go|
+|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (pas en conservation)|30 Go|30 Go|30 Go|30 Go|30 Go|30 Go|
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (en conservation)|100 Go|100 Go|100 Go|100 Go|100 Go|100 Go|
-|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d’archivage (pas en conservation)|30 Go|30 Go|30 Go|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 Go|
+|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d’archivage (pas en conservation)|30 Go|30 Go|30 Go|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 Go|
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d’archivage (en conservation)|100 Go<sup>1</sup>|100 Go<sup>1</sup>|100 Go<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Avertissement pour le nombre de messages par dossier dans le dossier Éléments récupérables|2,75 millions|2,75 millions|2,75 millions|2,75 millions|2,75 millions|2,75 millions|
 |Nombre maximal de sous-dossiers par dossier de boîte aux lettres|10 000|10 000|10 000|10 000|10 000|10 000|
