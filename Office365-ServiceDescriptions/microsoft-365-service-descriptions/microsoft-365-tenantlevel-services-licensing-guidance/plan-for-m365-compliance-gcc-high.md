@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC High est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: f81f2382f41d2ba1aa6fcd5dabc593b20eba7bc1
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132498"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388070"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Planifier la conformité de Microsoft 365 – GCC High
 
@@ -70,7 +70,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Stratégies recommandées                            | Dans le backlog d’ingénierie |
 |                                         | Filtres d’importation actifs                            | Dans le backlog d’ingénierie |
 |                                         | Rétention basée sur des événements                           | Dans le backlog d’ingénierie |
-|                                         | Révision de la disposition                              | Dans le backlog d’ingénierie |
+|                                         | Révisions avant élimination                              | Dans le backlog d’ingénierie |
 |                                         | Obstacles aux informations                            | Available              |
 |                                         | Protection contre la perte de données (DLP) pour les fichiers et le courrier électronique  | Available              |
 |                                         | DLP pour les conversations de conversation et de canal    | Dans le backlog d’ingénierie |
@@ -84,28 +84,28 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Référentiel sécurisé client                                | Available              |
 |                                         | Clé client                                    | Available              |
 |                                         | Gestion des accès privilégiés                    | Dans le backlog d’ingénierie |
-| **Découvrir & répondre**                  | Réservation sur place                            | Available              |
-|                                         | Gestion des cas                                 | Available              |
-|                                         | Rechercher                                          | Available              |
-|                                         | Exporter                                          | Available              |
-|                                         | Déchiffrement RMS                                  | Available              |
-|                                         | Exportation Native                                   | Available              |
-|                                         | Traitement avancé                             | Available              |
-|                                         | Threading de messagerie                                 | Dans le backlog d’ingénierie |
-|                                         | Identification quasi en double                   | Dans le backlog d’ingénierie |
-|                                         | Thèmes                                          | Dans le backlog d’ingénierie |
-|                                         | Codage prédictif                               | Dans le backlog d’ingénierie |
-|                                         | Exportation traitée avec chargement d’un fichier                 | Dans le backlog d’ingénierie |
-|                                         | Marquer                                         | Dans le backlog d’ingénierie |
-|                                         | Observateurs                                         | Dans le backlog d’ingénierie |
-|                                         | Redactions                                      | Dans le backlog d’ingénierie |
-|                                         | Filtrage                                       | Dans le backlog d’ingénierie |
-|                                         | Mise en correspondance des dépositaires et des charges de travail                   | Dans le backlog d’ingénierie |
-|                                         | Communications des dépositaires                        | Dans le backlog d’ingénierie |
-|                                         | Vérifier les ensembles                                     | Dans le backlog d’ingénierie |
-|                                         | Révision et annotation                             | Dans le backlog d’ingénierie |
-|                                         | Ingestion de non-Office 365                        | Dans le backlog d’ingénierie |
-|                                         | Rapport de termes de recherche                              | Dans le backlog d’ingénierie |
+| **Découvrir & répondre**                  | Découverte électronique principale : conservation inaltérable                            | Available              |
+|                                         | Découverte électronique principale : gestion des cas                                 | Available              |
+|                                         | Découverte électronique principale : recherche                                          | Available              |
+|                                         | Découverte électronique principale : exportation                                          | Available              |
+|                                         | Découverte électronique principale : déchiffrement RMS                                  | Available              |
+|                                         | Découverte électronique principale : exportation Native                                   | Available              |
+|                                         | Découverte électronique principale : traitement avancé                             | Available              |
+|                                         | Découverte électronique avancée : Threading de messagerie                                 | Available |
+|                                         | Découverte électronique avancée : identification quasi en double                   | Available |
+|                                         | Découverte électronique avancée : thèmes                                          | Available |
+|                                         | Découverte électronique avancée : codage prédictif                               | Available |
+|                                         | Découverte électronique avancée : exportation traitée avec chargement d’un fichier                 | Available |
+|                                         | Découverte électronique avancée : balisage                                         | Available |
+|                                         | Découverte électronique avancée : visionneuses                                         | Available |
+|                                         | Découverte électronique avancée : Redactions                                      | Available |
+|                                         | Découverte électronique avancée : filtrage                                       | Available |
+|                                         | Découverte électronique avancée : mise en correspondance des dépositaires et des charges de travail                   | Available |
+|                                         | Découverte électronique avancée : communications des dépositaires                        | Available |
+|                                         | Découverte électronique avancée : réviser les ensembles                                     | Available |
+|                                         | Découverte électronique avancée : révision et annotation                             | Available |
+|                                         | Découverte électronique avancée : ingestion de non Office 365                        | Available |
+|                                         | Découverte électronique avancée : rapport de termes de recherche                              | Available |
 | **Gestion de la conformité**               | Score de conformité                                | Dans le backlog d’ingénierie |
 
 <sup>1</sup> le statut identifié est susceptible d’être modifié à mesure que les plans de projet et les priorités sont réévalués.<br/>

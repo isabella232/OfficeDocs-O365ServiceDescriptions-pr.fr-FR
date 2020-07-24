@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium est une solution intégrée qui associe la productivité optimale avec des fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: 429629deddd4565332e8d429db72da580beaa971
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201554"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388110"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Description du service Microsoft 365 Business Premium
 
@@ -73,19 +73,19 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |Licence d'accès client utilisation Microsoft Identity Manager (MIM)  <br/> |Non  <br/> |Oui<sup>9</sup>  <br/> |Oui  <br/> |
 |Connect Health  <br/> |Non  <br/> |Oui<sup>9</sup>  <br/> |Oui  <br/> |
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des appareils et des applications](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium inclut des fonctionnalités Intune complètes pour iOS, Android, Mac OS et la gestion des périphériques multiplateforme. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Gestion des appareils mobiles Intune pour PC, Mac et appareils mobiles<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Gestion des applications mobiles Intune (MAM) pour les applications Office et les applications métier<br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Gestion des mises à jour Windows, Defender, stratégies de pare-feu<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Protection des données - réinitialisation sélective  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Ciblage du groupe de sécurité (SG) pour les stratégies  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Installation d'applications Office sur des appareils Windows 10 inscrits  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Configuration de Windows Defender  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Déploiement des profils de périphérique et de la configuration de sécurité<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Enterprise State Roaming pour Windows 10 avec jointure Azure AD  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Récupération BitLocker en libre-service  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Windows Virtual Desktop <br/> |Non <br/> |Oui <br/> |Oui <br/> |
+|[Gestion des appareils et des applications](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium inclut des fonctionnalités Intune complètes pour iOS, Android, Mac OS et la gestion des périphériques multiplateforme. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
+|Gestion des appareils mobiles Intune pour PC, Mac et appareils mobiles<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |
+|Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |
+|Gestion des applications mobiles Intune (MAM) pour les applications Office et les applications métier<br/> |Non  <br/> |Oui  <br/> |
+|Gestion des mises à jour Windows, Defender, stratégies de pare-feu<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |
+|Protection des données - réinitialisation sélective  <br/> |Oui  <br/> |Oui  <br/> |
+|Ciblage du groupe de sécurité (SG) pour les stratégies  <br/> |Non  <br/> |Oui  <br/> |
+|Installation d'applications Office sur des appareils Windows 10 inscrits  <br/> |Non  <br/> |Oui  <br/> |
+|Configuration de Windows Defender  <br/> |Non  <br/> |Oui  <br/> |
+|Déploiement des profils de périphérique et de la configuration de sécurité<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |
+|Enterprise State Roaming pour Windows 10 avec jointure Azure AD  <br/> |Non  <br/> |Oui  <br/> |
+|Récupération BitLocker en libre-service  <br/> |Non  <br/> |Oui  <br/> |
+|Windows Virtual Desktop <br/> |Non <br/> |Oui <br/> |
 
 |||
 |:-----|:-----|

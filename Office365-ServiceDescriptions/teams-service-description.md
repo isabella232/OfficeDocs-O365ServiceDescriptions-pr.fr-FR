@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131988"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388090"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -32,7 +32,7 @@ Pour référence, nous avons inclus cette table principale des abonnements qui p
 |Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
 |  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
 |  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
-|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
+|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
@@ -56,19 +56,18 @@ Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams da
 |Conversation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Équipes  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
 |Canaux-standard  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |N °<sup>3</sup>  <br/> |Oui  <br/> |
+|Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |Non  <br/> |Non  <br/> |Non <br/> |Oui  <br/> |
 |Réunions  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Partage d’écran de bureau audio/vidéo PowerPoint <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Audioconférence  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Applications, robots, connecteurs &  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>4</sup>  <br/> |Oui<sup>4</sup>  <br/> |Oui<sup>4</sup>  <br/> |Oui  <br/> |
-|Événements en direct  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>5</sup>  <br/> |N °<sup>5</sup>  <br/> |Oui  <br/> |
+|Applications, robots, connecteurs &  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>3</sup>  <br/> |Oui<sup>3</sup>  <br/> |Oui<sup>3</sup>  <br/> |Oui  <br/> |
+|Événements en direct  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>4</sup>  <br/> |N °<sup>4</sup>  <br/> |Oui  <br/> |
 
 <sup>1</sup> Microsoft teams de GCC-High et DoD prennent en charge 2500 membres d’une équipe individuelle.<br/>
 <sup>2</sup> le planificateur Microsoft n’est pas disponible actuellement pour accéder aux canaux privés.<br/>
-<sup>3</sup> les canaux privés ne sont pas disponibles dans les nuages GCC pour le moment. D’autres mises à jour relatives à la disponibilité seront publiées dans le centre de messages.<br/>
-<sup>4</sup> Microsoft OneNote n’est pas disponible dans DOD Clouds. Pour le moment, les applications et la publication d’application ne sont pas disponibles dans ces nuages.<br/>
-<sup>5</sup> les événements en direct ne sont pas disponibles dans GCC-High ou DoD pour le moment.<br/>
+<sup>3</sup> Microsoft OneNote n’est pas disponible dans DOD Clouds. Pour le moment, les applications et la publication d’application ne sont pas disponibles dans ces nuages.<br/>
+<sup>4</sup> les événements en direct ne sont pas disponibles dans GCC-High ou DoD pour le moment.<br/>
 
 ## <a name="next-steps"></a>Étapes suivantes
 
