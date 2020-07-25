@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice est un service de complément qui vous permet d’utiliser Microsoft teams pour les appels téléphoniques. Cela combine le système téléphonique, le plan d’appels nationaux, l’audioconférence et l’audioconférence.
-ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
-ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
+ms.openlocfilehash: ea550a8e1815d517d21603ff3e648f4841226d21
+ms.sourcegitcommit: 8a6dfe9474079943aa1cff1eed4c302fc81f07f7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44679591"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410215"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Description du service Microsoft 365 Business Voice
 
@@ -31,14 +31,14 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec u
 - Microsoft 365 Business Standard
 - Microsoft 365 Business Premium
 - Microsoft 365 F1
-- Microsoft 365 F3
+- Microsoft 365 F3
 - Office 365 F3
-- Microsoft et Office 365 entreprise E1, E3 ou E5
-- Microsoft 365 et Office 365 éducation a1, a3 ou a5
-- Microsoft 365 et Office 365 gouvernement G1, G3 ou G5 (GCC uniquement)
+- Microsoft et Office 365 entreprise E1 ou E3
+- Microsoft 365 et Office 365 éducation a1 ou a3
+- Microsoft 365 et Office 365 gouvernement G1 ou G3
 - Microsoft 365 Business de base pour les entreprises
 - Standard professionnel Microsoft 365
-- Microsoft 365 et Office 365 pour les associations E1, E3 ou E5
+- Microsoft 365 et Office 365 organismes à but non lucratif E1 ou E3
 
 ## <a name="microsoft-365-business-voice-features"></a>Fonctionnalités vocales de Microsoft 365
 
