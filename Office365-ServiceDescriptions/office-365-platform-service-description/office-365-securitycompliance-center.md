@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 4ab535757c0d192c4d790a7aeacfba9e73d4157f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131788"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501703"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -36,7 +36,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Gestion avancée des menaces](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), telle que l’Explorateur de menaces pour les campagnes de hameçonnage<sup>6</sup>  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
-|[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Non   |Non   |Non   |Non   |Oui   |Oui   |Non   |
+|[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |Non   |Oui  |Oui   |Non   |Oui   |Oui   |Non   |
 |[Protection contre la perte de données de communication pour Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |Non   |Non   |Non   |Non   |Non   |Oui  |
 |[Étiquettes de désensibilité manuelle](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
 |Étiquettes de sensibilité automatique| Non | Non  |Non  | Non | Non | Oui<sup>13</sup> | Non  |
