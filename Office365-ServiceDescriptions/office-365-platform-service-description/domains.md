@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Lorsque vous ajoutez un domaine, un assistant étape par étape vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services en nom professionnel. Lorsque vous avez terminé l’Assistant, votre courrier professionnel commence à Microsoft au lieu de passer à votre fournisseur de messagerie actuel. Pour plus d’informations, consultez la rubrique ajouter des utilisateurs et des domaines à Microsoft. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la vérification de votre domaine.
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132398"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531217"
 ---
 # <a name="domains"></a>Domaines
 
@@ -26,7 +26,7 @@ Lorsque vous ajoutez un domaine, un assistant étape par étape vous permet d’
   
 ## <a name="custom-domains"></a>Domaines personnalisés
 
-Vous pouvez ajouter jusqu’à 900 domaines à votre abonnement. Cependant, vous ne pouvez pas ajouter à Office 365 un domaine que vous utilisez déjà dans un autre service cloud de Microsoft. Cela signifie que vous ne pouvez pas ajouter le même domaine à plusieurs abonnements. Pour plus d’informations, consultez la section [Forum aux questions sur les domaines](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Vous pouvez ajouter jusqu’à 900 domaines à votre abonnement (y compris les sous-domaines). Vous ne pouvez pas ajouter un domaine à Microsoft 365 que vous utilisez déjà dans un autre service Cloud Microsoft. Cela signifie que vous ne pouvez pas ajouter le même domaine à plusieurs abonnements. Pour plus d’informations, consultez la section [Forum aux questions sur les domaines](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Domaines de deuxième et de troisième niveau
 
@@ -48,7 +48,7 @@ Pour plus d’informations, consultez la rubrique relative à [la gestion des en
   
 ## <a name="sharing-a-domain"></a>Partage d’un domaine
 
-Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microsoft et d’autres sur votre fournisseur de messagerie précédent. Cette option est recommandée pour une utilisation au cours d’un projet pilote, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services Microsoft. Pour plus d’informations, voir :
+Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microsoft et d’autres sur votre fournisseur de messagerie précédent. Cette option est recommandée pour une utilisation au cours d’un projet pilote, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services Microsoft. Si vous souhaitez plus d’informations, reportez-vous aux rubriques suivantes :
   
 - [Pilote Microsoft 365 pour une petite entreprise](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
