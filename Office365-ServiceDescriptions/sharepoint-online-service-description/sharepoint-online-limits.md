@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
-ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
+ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
+ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45229640"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560079"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -100,6 +100,9 @@ Un utilisateur peut appartenir à des groupes 5 000 par site (collection de site
 
 2 000 par site (collection de sites). Nous vous recommandons de créer des sites et de les organiser en hubs au lieu de créer des sous-sites. Si vous utilisez des sous-sites, nous vous recommandons de limiter leur nombre (en particulier sur les sites très un).
 
+> [!NOTE] 
+> Votre organisation est limitée à 2 000 sites hub. Il se peut que vous n’ayez pas besoin d’un site Hub pour chaque fonction, et il est important de procéder à une planification avant de créer des concentrateurs. Pour plus d’informations, consultez [la site planification de vos sites hub SharePoint](https://docs.microsoft.com/sharepoint/planning-hub-sites).
+
 ### <a name="sharepoint-hosted-applications"></a>Applications hébergées SharePoint
 
 20 000 instances par organisation.
@@ -108,7 +111,7 @@ Un utilisateur peut appartenir à des groupes 5 000 par site (collection de site
 
 99 les personnes peuvent avoir un document ouvert pour modification en même temps. Si plus de 10 personnes modifient simultanément un document, leurs modifications sont plus susceptibles de se produire et l’expérience utilisateur se dégrade progressivement.
 
-### <a name="users"></a>Utilisateurs
+### <a name="users"></a>Users
 
 2 millions par site (collection de sites).
    
