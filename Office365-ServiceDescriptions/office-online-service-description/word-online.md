@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word pour le Web (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur Web, dans laquelle vous pouvez utiliser des documents directement sur le site Web où le document est stocké.
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131298"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616910"
 ---
 # <a name="word-for-the-web"></a>Word pour le web
 
@@ -128,10 +128,6 @@ Avec Word pour le Web, vous pouvez facilement créer des liens vers des signets 
 
 Un index répertorie les termes et les rubriques d’un document, ainsi que les pages auxquelles ils apparaissent. Pour créer un index, vous devez en marquer chaque entrée en fournissant le nom de l’entrée principale et de la référence croisée dans votre document.
   
-## <a name="ink-editor"></a>Correction intégrée
-
-La correction intégrée vous permet de modifier et de mettre en forme des documents à l’aide de mouvements naturels, comme des cercles pour sélectionner du texte et des croix pour supprimer du texte.
-  
 ## <a name="insert-online-pictures"></a>Insertion d'images en ligne
 
 Avec Word pour le Web, vous pouvez insérer une image à partir d’un fichier enregistré sur votre disque dur local ou à partir d’images Bing. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
@@ -238,7 +234,7 @@ Avec Word pour le Web, vous pouvez enregistrer une copie du document localement.
 
 Vous pouvez utiliser Word pour le Web pour enregistrer ou convertir vos fichiers au format PDF afin de pouvoir les partager ou les imprimer à l’aide d’imprimantes professionnelles. Aucun autre logiciel ou complément n'est nécessaire.
   
-## <a name="share"></a>Partager
+## <a name="share"></a>Share
 
 Avec Word pour le Web, il s’agit d’un processus en un clic pour l’envoi d’un lien que les autres utilisateurs peuvent utiliser pour afficher ou modifier le document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
@@ -297,4 +293,8 @@ Zoom est disponible en mode Affichage. Avec Word pour le Web, utilisez les param
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
 Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez [la rubrique Office for the Web Service Description](office-online-service-description.md). 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>Limitations et limitations des paramètres d’utilisation
+
+Pour plus d’informations sur les limites de paramètres d’utilisation, voir [Operating Parameter limitations and Specifications dans Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation).
   
