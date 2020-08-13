@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
-ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
+ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560079"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649594"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -67,7 +67,7 @@ La copie/le transfert de plusieurs fichiers en une seule opération présente tr
 
 ### <a name="sync"></a>Synchronisation
 
-**Nouvelle application de synchronisation OneDrive** : pour des performances optimales, nous vous recommandons de ne pas stocker plus de 300 000 fichiers dans toutes les bibliothèques de documents synchronisées, même si vous utilisez des fichiers à la demande ou si vous choisissez uniquement certains dossiers dans les bibliothèques à synchroniser.
+**Nouvelle application de synchronisation OneDrive** : pour des performances optimales, nous vous recommandons de ne pas stocker plus de 300 000 fichiers par utilisateur dans toutes les bibliothèques de documents synchronisées, même si vous utilisez des fichiers à la demande ou en choisissant uniquement certains dossiers dans les bibliothèques à synchroniser.
 
 **Ancienne application de synchronisation OneDrive entreprise (Groove.exe)** : vous pouvez synchroniser jusqu’à 20 000 éléments au total dans toutes les bibliothèques synchronisées. Cela inclut les bibliothèques OneDrive, les bibliothèques de sites d’équipe, ou les deux. Indépendamment de la limite de synchronisation globale, le nombre d’éléments pouvant être synchronisés pour chaque type de bibliothèque est limité :
 
