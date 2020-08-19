@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
-ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
+ms.openlocfilehash: 9c8554f8f995e00058fb5c3bafe915d328ba9c53
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580827"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798390"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -197,7 +197,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d’archivage (pas en conservation)|30 Go|30 Go|30 Go|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 Go|
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d’archivage (en conservation)|100 Go<sup>1</sup>|100 Go<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Avertissement pour le nombre de messages par dossier dans le dossier Éléments récupérables|2,75 millions|2,75 millions|2,75 millions|2,75 millions|2,75 millions|2,75 millions|
-|Nombre maximal de sous-dossiers par dossier de boîte aux lettres|10 000|10 000|10 000|10 000|10 000|10 000|
+|Nombre maximal de sous-dossiers par dossier de boîte aux lettres|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|
 |Avertissement pour le nombre de sous-dossiers par dossier de boîte aux lettres|9000|9000|9000|9000|9000|9000|
 |Profondeur maximale de hiérarchie de dossiers|300|300|300|300|300|300|
 |Avertissement pour la profondeur de hiérarchie de dossiers|250|250|250|250|250|250|
@@ -207,6 +207,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 
 > [!NOTE]
 > <sup>1</sup> Il s'agit du quota de stockage pour le dossier des éléments récupérables, et non du quota correspondant à l'ensemble de la boîte aux lettres d'archivage. Le quota de stockage de la boîte aux lettres d'archivage est illimité pour les utilisateurs disposant d'une licence Exchange Online Plan 2 ou pour les utilisateurs disposant d'un Exchange Online Plan 1 et d'une licence d'archivage Exchange Online. Pour plus d’informations pour savoir comment augmenter le quota d’éléments récupérables, voir [Augmenter le quota d’éléments récupérables pour les boîtes aux lettres en attente](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> Le quota de stockage initial pour le dossier des éléments récupérables dans une boîte aux lettres d’archivage est de 100 Go. Lorsque l’archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage du dossier des éléments récupérables est atteinte. Pour plus d'informations, reportez-vous à la rubrique relative à la [présentation de l'archivage illimité dans Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Pour plus d’informations sur la disponibilité de l’archivage à extension automatique, consultez la feuille de [route de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) .
+> <sup>2</sup> il s’agit d’une limite de magasin ; Il s’agit de l’une des contraintes de forme de boîte aux lettres. Il peut y avoir seulement 10 000 dossiers enfants directs pour un parent donné. Cela s’applique indépendamment de la migration ou d’autres clients créant des dossiers.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Limites de dossier de boîte aux lettres avec les plans autonomes
 
