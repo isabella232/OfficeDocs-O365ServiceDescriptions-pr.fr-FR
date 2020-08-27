@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à leurs boîtes aux lettres d’archivage à partir de plusieurs appareils et plateformes. Toute la connectivité réseau à l’archive de l’utilisateur se produit sur Internet, et les connexions de réseau privé virtuel (VPN) ne sont pas requises. Les organisations peuvent publier un serveur d'accès au client local pour permettre aux utilisateurs d'accéder à leur boîte aux lettres principale à l'aide d'Outlook Anywhere, sans nécessiter de connexion VPN. Si un accès VPN est requis pour accéder à la boîte aux lettres principale de l'utilisateur située sur un serveur local, cette exigence ne change pas.
-ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
+ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132058"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "47255901"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Fonctionnalités client dans l’archivage Exchange Online
 
@@ -45,8 +45,9 @@ Le tableau ci-dessous répertorie les clients pris en charge par Archivage Excha
   
 |**Client**|**Prise en charge de l'archivage Exchange Online**|
 |:-----|:-----|
-|Outlook 2010 et versions ultérieures  <br/> |Prend en charge les dernières fonctionnalités dans Archivage Exchange Online.<sup>1</sup> <br/> |
-|Outlook 2007  <br/> |Pris en charge en vue d'une utilisation avec Archivage Exchange Online.<sup>1,2</sup> <br/> |
+|Outlook 2013 et versions ultérieures  <br/> |Prend en charge les dernières fonctionnalités dans Archivage Exchange Online.<sup>1</sup> <br/> |
+|Outlook 2010  <br/> |Prend en charge les dernières fonctionnalités dans l’archivage Exchange Online uniquement jusqu’à octobre 13, 2020|
+|Outlook 2007  <br/> |Non pris en charge |
 |Outlook 2003  <br/> |Non pris en charge  <br/> |
 |Outlook pour Mac 2011  <br/> |Non pris en charge  <br/> |
 |Outlook pour Mac  <br/> |Pris en charge pour une utilisation avec l’archivage Exchange Online. <sup>3</sup> <br/> |
