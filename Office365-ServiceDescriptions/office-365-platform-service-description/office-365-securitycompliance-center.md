@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501703"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300528"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -41,7 +41,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Étiquettes de désensibilité manuelle](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
 |Étiquettes de sensibilité automatique| Non | Non  |Non  | Non | Non | Oui<sup>13</sup> | Non  |
 |[Obstacles aux informations](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non  |
-|[Gouvernance des informations](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
+|[Gouvernance des informations](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Oui<sup>11</sup>   |Oui<sup>11</sup>   |Oui<sup>11</sup>   |Oui   |Oui   |Oui   |Oui<sup>11</sup>   |
 |[Advanced Information Governance](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Recherche de contenu](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[cas eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |

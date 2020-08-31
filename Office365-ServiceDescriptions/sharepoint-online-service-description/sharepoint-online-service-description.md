@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131028"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300508"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -34,7 +34,7 @@ Pour voir les plans qui incluent SharePoint, des [outils puissants pour prendre 
 
 Pour en savoir plus sur les différences entre les fonctionnalités de SharePoint pour les clients du nuage aux États-Unis, voir [SharePoint pour les environnements gouvernementaux américains](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>Quoi de neuf ?
+## <a name="whats-new"></a>Nouveautés
 
 Pour plus d’informations sur les dernières fonctionnalités publiées, voir [what’s New in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
@@ -97,13 +97,13 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Migration : outil de migration SharePoint](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Migration : gestionnaire de migration](/sharepointmigration/mm-get-started)
 - [Migration : outil d’évaluation de la migration SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [Migration : Mover.IO](https://mover.io/). Actuellement disponible uniquement pour les clients de l’Amérique du Nord.
+- [Migration : Mover.IO](https://mover.io/). Désormais disponible dans le monde entier.
 - [Multi-géo (résidence des données)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Avec un module complémentaire qui requiert un minimum de 500 licences Microsoft. Pour plus d’informations, contactez votre représentant Microsoft.
 - [Mise en service de site de programmation](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Remplacement de site racine](/sharepoint/modern-root-site)
 - [Restaurer les groupes supprimés](/sharepoint/restore-deleted-site-collection)
 - [Centre d’administration SharePoint](/sharepoint/get-started-new-admin-center). Les organisations avec des employés terrain ont besoin d’au moins un utilisateur d’entreprise pour accéder au centre d’administration.
-- [Scanneur de modernisation SharePoint](/sharepoint/dev/transform/modernize-scanner)
+- [Scanneur de modernisation de SharePoint](/sharepoint/dev/transform/modernize-scanner)
 - [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Les organisations avec des employés terrain ont besoin d’au moins un utilisateur d’entreprise pour accéder au centre d’administration.
 - [Gouvernance de site](/sharepoint/governance-overview) 
 - [Magasin de termes-métadonnées gérées](/sharepoint/managed-metadata)
