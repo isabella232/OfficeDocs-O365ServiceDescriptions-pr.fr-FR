@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300518"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315375"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -144,7 +144,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |Outlook pour Windows <sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui| Non|
 |Outlook sur le web<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Outlook pour Mac<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui| Non|
-|Outlook pour iOS et Android<sup>21</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Outlook pour iOS et Android<sup>21</sup>|Oui<sup>25</sup>|Oui<sup>25</sup>|Oui|Oui|Oui|Oui|Oui|Oui|
 |Exchange ActiveSync|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Mobilité et sécurité de base pour Microsoft 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |POP et IMAP|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>12</sup>|
@@ -199,6 +199,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 <sup>22</sup> pour plus d’informations, consultez la rubrique [chiffrement de service avec la clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> la prise en charge de la messagerie unifiée Exchange Online pour les systèmes PBX tiers via des connexions directes à partir d’un contrôle d’accès terminal contrôlé par le client prendra fin le 2019 avril. Pour plus d’informations, reportez-vous au blog de l’équipe Exchange [cessation de la prise en charge des contrôleurs de frontière de session dans la messagerie unifiée Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
 <sup>24</sup> un utilisateur F3 ne peut pas ajouter de délégués à sa propre boîte aux lettres, mais il peut accéder à une autre boîte aux lettres (y compris aux boîtes aux lettres partagées) et effectuer toutes les actions qui lui ont été déléguées.
+<sup>25</sup> un abonnement pour les applications Microsoft 365 pour Enterprise est également requis pour exchange Server 2013 et exchange Server 2016.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Exchange Online
 

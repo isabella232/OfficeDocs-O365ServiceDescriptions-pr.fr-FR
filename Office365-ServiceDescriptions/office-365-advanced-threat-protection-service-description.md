@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
+ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132368"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318941"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -32,7 +32,7 @@ Vous pouvez utiliser ce service à des fins de protection de la messagerie dans 
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilité d’Office 365 - Protection avancée contre les menaces
 
-La protection avancée contre les menaces est incluse dans Office 365 entreprise E5, Office 365 éducation a5 et Microsoft 365 Business Premium.
+Office 365 – Protection avancée contre les menaces (Plan 2) est inclus dans Office 365 E5, Office 365 a5 et Microsoft 365 E5. Le plan 1 Office 365 ATP est incluse dans Microsoft 365 Business Premium.
 
 Vous pouvez ajouter la fonctionnalité ATP aux plans d’abonnement Exchange et Microsoft 365 suivants :
 
@@ -50,9 +50,9 @@ Vous pouvez ajouter la fonctionnalité ATP aux plans d’abonnement Exchange et 
 
 - Office 365 Entreprise E1
 
-- Office 365 Entreprise E3
+- Office 365 Entreprise E3
 
-- Office 365 Entreprise F3
+- Office 365 Entreprise F3
 
 - Office 365 A1
 
@@ -78,12 +78,13 @@ La protection avancée contre les menaces peut être utilisée avec n’importe 
 
 Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online » fait généralement référence à la famille de services Office 365 Entreprise.
 
-|**Fonctionnalité**|**Plan de l’ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel| Office 365 Entreprise E5|
+|**Fonctionnalité**|**Plan de l’ATP 1**<br>(anciennement ATP)|**ATP-plan 2**<br>(anciennement intelligence des menaces <br>individuel| Microsoft 365 E5/E5 sécurité|
 |:-----|:-----|:-----|:-----|
 |*Configuration, protection et détection*|
 |[Pièces jointes fiables](#safe-attachments)|Oui|Oui|Oui|
 |Pièces jointes fiables dans teams|Oui|Oui|Oui|
 |[Liens fiables](#safe-links)|Oui|Oui|Oui|
+|[Documents approuvés](#safe-documents)|Non|Non|Oui|
 |Liens fiables dans Teams|Oui|Oui|Oui|
 |[ATP pour SharePoint, OneDrive et Microsoft teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Oui|Oui|Oui|
 |[Stratégies anti-hameçonnage](#anti-phishing-policies).|Oui|Oui|Oui|
@@ -99,7 +100,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Fonctionnalités de Protection avancée contre les menaces
 
-### <a name="safe-attachments"></a>Pièces jointes fiables
+### <a name="safe-attachments"></a>Pièces jointes sûres
 
 [Les pièces jointes approuvées ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) protègent contre les programmes malveillants et les virus inconnus et fournissent une protection contre les menaces pour protéger votre système de messagerie. L'ensemble des messages et pièces jointes qui ne comportent pas de signature connue de virus/programme malveillant sont acheminés vers un environnement spécial dans lequel le service Protection avancée contre les menaces utilise diverses techniques d'analyse et de Machine Learning pour détecter des intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
 
@@ -110,22 +111,41 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online �
 
 La fonctionnalité de [liens fiables ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protège de manière proactive vos utilisateurs contre les URL malveillantes dans un message ou dans un document Office. La protection est activée à chaque fois qu'ils sélectionnent sur le lien ; les liens malveillants sont bloqués dynamiquement tandis que les liens fiables peuvent être ouverts.
 
-Les liens fiables sont disponibles pour les URL dans les applications suivantes :
+Les liens sécurisés sont disponibles pour les URL dans les applications suivantes:
 
 - Applications Microsoft 365 pour Enterprise sur Windows ou Mac
 
 - Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web)
 
-- Word, Excel, PowerPoint et Visio sous Windows, ainsi que des applications Office sur des appareils iOS et Android
+- Word, Excel, PowerPoint et Visio sur Windows, ainsi que des applications Office sur les appareils iOS et Android
 
-- Canaux et conversations Microsoft Teams
+- Canaux et chats Microsoft Teams
 
 > [!NOTE]
 > Les utilisateurs doivent disposer d’une licence pour <sup>\*</sup> la protection avancée contre les menaces, doivent être inclus dans les stratégies de liens fiables ATP et être connectés sur leurs appareils pour que la protection soit mise en place.
 >
-> <sup>\*</sup>Pour les licences ATP à l’échelle de l’organisation (par exemple, ATP_ENTERPRISE_FACULTY), vous n’avez pas besoin d’attribuer des licences ATP à des utilisateurs individuels.
+> <sup>\*</sup> Pour les licences ATP à l’échelle de l’organisation (par exemple, ATP_ENTERPRISE_FACULTY), vous n’avez pas besoin d’attribuer des licences ATP à des utilisateurs individuels.
 >
 > Pour plus d’informations sur la protection des liens fiables ATP, consultez la rubrique relative [à l’utilisation des liens fiables ATP avec des URL dans les documents Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
+
+### <a name="safe-documents"></a>Documents approuvés
+
+La fonctionnalité des [documents approuvés ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) utilise [Microsoft Defender protection avancée contre les menaces](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) pour analyser les documents et les fichiers ouverts en [mode protégé](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
+
+Ce qu'il faut savoir avant de commencer
+
+- Les documents approuvés sont désormais généralement disponibles pour les utilisateurs de la version 2004 de Office (12730. x) ou une version ultérieure. Cette fonctionnalité est désactivée par défaut et doit être activée par l’administrateur de la sécurité.
+
+- Cette fonctionnalité est disponible uniquement pour les utilisateurs disposant de la licence de sécurité Microsoft 365 E5 ou Microsoft 365 E5 (non incluse dans les plans Office 365 ATP).
+
+- Word, Excel, PowerPoint et Visio sur Windows, ainsi que des applications Office sur les appareils iOS et Android
+
+- Canaux et chats Microsoft Teams
+
+> [!NOTE]
+> Les utilisateurs doivent être titulaires d’une licence pour Microsoft 365 E5 ou Microsoft 365 E5 sécurité <sup>\*</sup> , doivent être inclus dans les stratégies de documents approuvés ATP, et doivent être connectés sur leurs appareils pour que la protection soit mise en place.
+>
+> Pour plus d’informations sur la protection des documents sécurisés ATP, consultez la rubrique [documents approuvés dans Microsoft 365 E5](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs).
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>PACM pour SharePoint, OneDrive et Microsoft Teams
 
