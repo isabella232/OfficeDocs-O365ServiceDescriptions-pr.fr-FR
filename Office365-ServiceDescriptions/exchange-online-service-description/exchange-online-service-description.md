@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315375"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337860"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -198,9 +198,9 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 <sup>21</sup> le tableau indique si le client fonctionne ou non avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans. <br/>
 <sup>22</sup> pour plus d’informations, consultez la rubrique [chiffrement de service avec la clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> la prise en charge de la messagerie unifiée Exchange Online pour les systèmes PBX tiers via des connexions directes à partir d’un contrôle d’accès terminal contrôlé par le client prendra fin le 2019 avril. Pour plus d’informations, reportez-vous au blog de l’équipe Exchange [cessation de la prise en charge des contrôleurs de frontière de session dans la messagerie unifiée Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
-<sup>24</sup> un utilisateur F3 ne peut pas ajouter de délégués à sa propre boîte aux lettres, mais il peut accéder à une autre boîte aux lettres (y compris aux boîtes aux lettres partagées) et effectuer toutes les actions qui lui ont été déléguées.
+<sup>24</sup> un utilisateur F3 ne peut pas ajouter de délégués à sa propre boîte aux lettres, mais il peut accéder à une autre boîte aux lettres (y compris aux boîtes aux lettres partagées) et effectuer toutes les actions qui lui ont été déléguées.<br/>
 <sup>25</sup> un abonnement pour les applications Microsoft 365 pour Enterprise est également requis pour exchange Server 2013 et exchange Server 2016.
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Exchange Online
 
 |**Fonctionnalité**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
@@ -282,6 +282,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |SMTP|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge des applications EWS|Oui|Oui|Oui|Oui|Non|
 |Outlook pour Mac|Oui|Oui|Oui|Oui|Non|
+|Outlook pour iOS et Android<sup>21</sup>|Oui<sup>25</sup>|Oui<sup>25</sup>|Oui|Oui|Oui|
 |**[Services de messagerie vocale](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
 |Messagerie vocale|Oui|Oui|Non|Oui|Non|
 |Interopérabilité de la messagerie vocale tierce|Oui|Oui|Oui|Oui|Oui|
@@ -330,4 +331,5 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 <sup>21</sup> certains compléments et composants WebPart tiers peuvent ne pas être disponibles. <br/>
 <sup>22</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud local. <br/>
 <sup>23</sup> Exchange Online Kiosk ne fournit pas de droits d’accès pour l’utilisation avec des serveurs locaux. Pour des questions de conformité, le client doit acheter ou avoir déjà acheté les licences d’accès client appropriées ou mettre à niveau une référence SKU d’entreprise qui fournit ces droits d’accès. <br/>
-<sup>24</sup> groupes Microsoft 365 sont disponibles avec des fonctionnalités réduites.
+<sup>24</sup> groupes Microsoft 365 sont disponibles avec des fonctionnalités réduites.<br/>
+<sup>25</sup> un abonnement pour les applications Microsoft 365 pour Enterprise est également requis pour exchange Server 2013 et exchange Server 2016.
