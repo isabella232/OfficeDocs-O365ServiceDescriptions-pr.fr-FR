@@ -4,7 +4,7 @@
 ### [Options de plan Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Configuration système requise pour Office 365](office-365-platform-service-description/office-365-system-requirements.md)
 ### [Centre de sécurité et conformité](office-365-platform-service-description/office-365-securitycompliance-center.md)
-### [Fonctionnalités de la suite Office 365](office-365-platform-service-description/office-365-suite-features.md)
+### [Fonctionnalités de Microsoft 365 suite](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
 #### [GCC High et DoD](office-365-platform-service-description/office-365-us-government/gcc-high-and-dod.md)
