@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium est une solution intégrée qui associe la productivité optimale avec des fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: 8294146d8271e081a87e5ce28fbc2d4c077c4376
-ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
+ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
+ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45388110"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947828"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Description du service Microsoft 365 Business Premium
 
@@ -33,7 +33,7 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |OneDrive Entreprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Teams <br/> |Oui <br/> |Oui <br/> |
 |Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |
-|[Applications Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Oui  <br/> |Oui  <br/> |
+|[Applications Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Oui  <br/> |Oui  <br/> |
 |Yammer Enterprise  <br/> |Oui  <br/> |Oui  <br/> |
 |Réservations Microsoft  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Power Automate  <br/> |Oui  <br/> |Oui  <br/> |
@@ -89,7 +89,7 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 
 |||
 |:-----|:-----|
-|**Gestion Windows 10 professionnel** <br/>Si vous avez des appareils sous licence pour Windows 7 et 8,1 professionnel, Microsoft 365 Business Premium fournit une mise à niveau vers Windows 10 professionnel. <sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
+|**Gestion Windows 10 professionnel** <br/>Si vous avez des appareils sous licence pour Windows 7 et 8,1 professionnel, Microsoft 365 Business Premium fournit une mise à niveau vers Windows 10 professionnel.<sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Déploiement est simplifié grâce à Windows AutoPilot  <br/> |Oui  <br/> |
 |Activation de l’abonnement  <br/> |Oui  <br/> |
 |Contrôle organisationnel de l’écran du périphérique sur inactif  <br/> |Oui  <br/> |
@@ -113,4 +113,4 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 <sup>6</sup> ce plan est fourni avec Microsoft Stream plan 2, qui inclut le portail vidéo, la transcription de texte, la recherche approfondie et la détection de visage.<br/>
 <sup>7</sup> Microsoft 365 est fourni avec Office 365 Advanced Threat Protection Plan 1. Pour plus d’informations, consultez les [fonctionnalités de sécurité et de conformité de Microsoft 365 Business Premium](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
 <sup>8</sup> les abonnés de Microsoft 365 Business Premium sont titulaires d’une licence pour utiliser les fonctionnalités Intune complètes pour iOS, Android, MacOS et d’autres périphériques multiplateformes. Les fonctionnalités qui ne sont pas disponibles dans le centre d’administration dans Microsoft 365 Business Premium, comme la gestion des applications tierces et la configuration des profils WiFi, les certificats VPN, etc., peuvent être gérées dans la console Intune complète.</br>
-<sup>9</sup> si vous avez des appareils sous licence pour Windows 7 et 8,1 professionnel, Microsoft 365 Business Premium fournit une mise à niveau vers Windows 10 professionnel. Avec Microsoft 365 Business Premium, vous bénéficiez non seulement des [fonctionnalités de sécurité de Microsoft Defender qui sont activées dans Windows professionnel](https://go.microsoft.com/fwlink/p/?linkid=2089903), mais également d’un accès aux fonctionnalités Premium telles que protection réseau pour les menaces Web et les règles de prévention des intrusions sur le Web pour atténuer les ransomware. Lorsque vous configurez votre compte Microsoft 365 Business Premium, vous sélectionnez protection des applications et paramètres de configuration des appareils. Ces paramètres déterminent les stratégies appliquées automatiquement aux appareils lorsqu'ils connectent à Azure Active Directory.</br>
+<sup>9</sup> si vous avez des appareils sous licence pour Windows 7 et 8,1 professionnel, Microsoft 365 Business Premium fournit une mise à niveau vers Windows 10 professionnel. Toutefois, cette licence ne comprend pas Windows 7,1 ou 8 édition familiale avec Windows 10 professionnel. Avec Microsoft 365 Business Premium, vous bénéficiez non seulement des [fonctionnalités de sécurité de Microsoft Defender qui sont activées dans Windows professionnel](https://go.microsoft.com/fwlink/p/?linkid=2089903), mais également d’un accès aux fonctionnalités Premium telles que protection réseau pour les menaces Web et les règles de prévention des intrusions sur le Web pour atténuer les ransomware. Lorsque vous configurez votre compte Microsoft 365 Business Premium, vous sélectionnez protection des applications et paramètres de configuration des appareils. Ces paramètres déterminent les stratégies appliquées automatiquement aux appareils lorsqu'ils connectent à Azure Active Directory.</br>
