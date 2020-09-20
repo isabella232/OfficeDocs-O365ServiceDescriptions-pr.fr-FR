@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
-ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
+ms.openlocfilehash: 3a611a3a7158586010f877bd88d0ec21aecc78f4
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318941"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134041"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -66,7 +66,7 @@ Pour comparer les fonctionnalités de tous les plans, consultez [la rubrique out
 
 Nous continuons à ajouter de nouvelles fonctionnalités à la protection avancée contre les menaces d’Office 365. Pour en savoir plus sur les nouvelles fonctionnalités disponibles pour la protection avancée contre les menaces (ou Microsoft 365 en général), consultez les ressources suivantes :
 
-- [Feuille de route Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
+- [Feuille de route de Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
 
 - [Nouveautés d’Office 365 - Protection avancée contre les menaces](https://docs.microsoft.com/microsoft-365/security/office-365-security/whats-new-in-office-365-atp)
 
@@ -117,7 +117,7 @@ Les liens sécurisés sont disponibles pour les URL dans les applications suivan
 
 - Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web)
 
-- Word, Excel, PowerPoint et Visio sur Windows, ainsi que des applications Office sur les appareils iOS et Android
+- Word, Excel et PowerPoint sur Windows
 
 - Canaux et chats Microsoft Teams
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables sauf indication contraire.
-ms.openlocfilehash: 3c5a8e0c5f9a19c9cae81b3bc1e39bb153af0137
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
+ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45133008"
+ms.lasthandoff: 09/19/2020
+ms.locfileid: "48134051"
 ---
 # <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
 
@@ -26,6 +26,8 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Ces
 > Pour plus d’informations sur les limites dans Exchange Online, consultez la rubrique [limites d’Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Les limites de règle de transport s'appliquent également aux clients autonomes EOP. Les limites de fréquence de messages et de débit maximal pour les destinataires dans Exchange Online ne s'appliquent pas aux clients autonomes EOP. 
   
 - **Limite de domaine** Vous pouvez ajouter jusqu'à 900 domaines par client. Les sous-domaines peuvent être inclus dans cette limite de 900 ou, si nécessaire, dans le cadre d'une option de réception globale et d'une mise en correspondance des sous-domaines. Pour plus d'informations, voir [Gérer les domaines acceptés dans EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+
+- **Limite de domaine distant** Vous pouvez ajouter jusqu’à 200 domaines distants par client.
     
 - **Limite de taille de message** La taille maximale de message pour les clients autonomes EOP, pièces jointes incluses, est de 150 Mo. 
     

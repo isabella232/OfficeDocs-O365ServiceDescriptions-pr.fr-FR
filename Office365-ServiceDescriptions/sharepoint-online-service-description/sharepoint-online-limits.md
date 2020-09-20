@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
+ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649594"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "47962093"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -49,7 +49,7 @@ Une liste peut comporter jusqu’à 30 millions éléments et une bibliothèque 
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Autorisations uniques pour les éléments d’une liste ou d’une bibliothèque
 
-La limite prise en charge est de 50 000 éléments de manière unique, mais la limite générale recommandée est de 5 000. Les modifications apportées à plus de 5 000 éléments uniques à la fois sont plus longues. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
+La limite autorisée est de 50 000 éléments de permissions de manière unique, mais la limite générale recommandée est de 5 000. Les modifications apportées à plus de 5 000 éléments uniques à la fois sont plus longues. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
 
 Une autre limite est de 5 000 attributions de rôle par élément à autorisation unique. 
 
@@ -111,7 +111,7 @@ Un utilisateur peut appartenir à des groupes 5 000 par site (collection de site
 
 99 les personnes peuvent avoir un document ouvert pour modification en même temps. Si plus de 10 personnes modifient simultanément un document, leurs modifications sont plus susceptibles de se produire et l’expérience utilisateur se dégrade progressivement.
 
-### <a name="users"></a>Users
+### <a name="users"></a>Utilisateurs
 
 2 millions par site (collection de sites).
    
