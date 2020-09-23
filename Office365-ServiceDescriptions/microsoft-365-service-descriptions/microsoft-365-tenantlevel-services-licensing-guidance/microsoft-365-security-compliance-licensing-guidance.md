@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798380"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214383"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -67,7 +67,7 @@ Par défaut, les fonctionnalités Azure ATP sont activées au niveau du client p
 
 Les services ATP Azure ne sont actuellement pas en mesure de limiter les fonctionnalités à des utilisateurs spécifiques. Vous devez accorder une licence à chaque utilisateur que vous envisagez de bénéficier.
 
-## <a name="office-365-advanced-threat-protection"></a>Office 365-Protection avancée contre les menaces
+## <a name="office-365-advanced-threat-protection"></a>Office 365 – Protection avancée contre les menaces
 
 La protection avancée contre les menaces (ATP) permet de protéger les organisations contre des attaques sophistiquées telles que le hameçonnage et les programmes malveillants de jour zéro jour. La fonctionnalité ATP fournit également des informations exploitables en mettant en corrélation les signaux provenant d’un large éventail de données pour identifier, hiérarchiser et fournir des recommandations sur la façon de résoudre les menaces potentielles.
 
@@ -148,7 +148,33 @@ Pour plus d’informations sur la configuration des stratégies de sécurité de
 
 Les administrateurs peuvent étendre les déploiements MCAS aux utilisateurs titulaires d’une licence à l’aide des fonctionnalités de déploiement étendues disponibles dans le service. Pour plus d’informations, reportez-vous à la rubrique [déploiement étendu](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-defender-atp"></a>Microsoft Defender - PACM
+## <a name="compliance-manager"></a>Gestionnaire de conformité
+
+Simplifiez la conformité et réduisez les risques avec le gestionnaire de conformité. Le gestionnaire de conformité aide les organisations à répondre aux exigences des réglementations, des normes, des stratégies d’entreprise ou d’autres structures de contrôle souhaitées.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
+
+Voici les avantages pour les utilisateurs du service Gestionnaire de conformité :
+
+- Convertit des réglementations, des normes, des stratégies d’entreprise ou d’autres infrastructures de contrôle complexes en langage simple
+- Fournit un accès à une vaste bibliothèque d’évaluations et d’évaluations personnalisées pour répondre aux besoins de conformité uniques.
+- Mappe les contrôles de réglementation aux actions d’amélioration recommandées
+- Fournit des conseils détaillés sur la façon d’implémenter les solutions pour répondre aux exigences réglementaires
+- Permet aux utilisateurs de hiérarchiser les actions qui auront le plus d’impact sur la conformité de leur organisation en associant un score à chaque action
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
+
+Les clients disposant d’Office 365 E1/a1/E3/a3 et de Microsoft 365 E3/a3 peuvent accéder à l’évaluation de la ligne de base de la protection des données. Les clients disposant des licences Office 365 E5/a5 et Microsoft 365 E5/a5 pourront accéder aux évaluations prédéfinies de protection des données, RGPD, NIST 800-53 et ISO 22701. Les évaluations Premium seront disponibles pour l’achat aux clients Office 365 E5/a5 et Microsoft 365 E5/a5.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
+
+Le gestionnaire de conformité est mis en service par défaut pour votre client. Les administrateurs définissent les autorisations utilisateur et assignent des rôles afin que les utilisateurs non administrateurs de votre organisation puissent commencer à utiliser le gestionnaire de conformité. Pour plus d’informations, consultez [la rubrique documentation](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
+
+L’accès au gestionnaire de conformité est contrôlé par la définition des autorisations utilisateur et l’affectation de rôles. Pour plus d’informations, consultez [la documentation](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+
+## <a name="microsoft-defender-atp"></a>Microsoft Defender ATP
 
 Microsoft Defender ATP est une solution de sécurité de point de terminaison qui inclut une évaluation et une gestion des vulnérabilités basées sur des risques ; fonctionnalités de réduction de la surface d’attaque ; protection de nouvelle génération basée sur le comportement et le Cloud ; détection et réponse aux points de terminaison (EDR); l’analyse et la correction automatiques ; et services de chasse gérés. Consultez la page [Microsoft Defender ATP](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) pour en savoir plus.
 
@@ -227,15 +253,15 @@ Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaiso
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Par défaut, les fonctionnalités de gouvernance des informations sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur la configuration de la gouvernance des informations pour l’application de l’étiquetage automatique et des stratégies pour les utilisateurs titulaires d’une licence, voir [Manage information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Par défaut, les fonctionnalités de gouvernance des informations sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur la configuration de la gouvernance des informations pour l’application de l’étiquetage et des stratégies pour les utilisateurs titulaires d’une licence, consultez la rubrique [Manage information Government](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les fonctionnalités de gouvernance des informations peuvent être appliquées aux utilisateurs titulaires d’une licence dans des emplacements spécifiques (sites d’équipe, sites de groupe, etc.). Pour plus d’informations sur la configuration de la gouvernance des informations pour l’application de l’étiquetage automatique et des stratégies pour les utilisateurs titulaires d’une licence, voir [Manage information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Les fonctionnalités de gouvernance des informations peuvent être appliquées aux utilisateurs titulaires d’une licence dans des emplacements spécifiques (sites d’équipe, sites de groupe, etc.). Pour plus d’informations sur la configuration de la gouvernance des informations pour l’application de l’étiquetage et des stratégies pour les utilisateurs titulaires d’une licence, consultez la rubrique [Manage information Government](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ## <a name="records-management"></a>Gestion des enregistrements
 
-La gestion des enregistrements aide les organisations à répondre à leurs obligations d’archivage réglementaire et de découverte, de classement, d’étiquetage, de rétention et de suppression Defensible dans leurs données Microsoft 365 et tierces.
+La gestion des enregistrements aide les organisations à répondre à leurs obligations d’archivage réglementaire, de classement, d’étiquetage, de rétention et de suppression Defensible dans leurs données Microsoft 365 et tierces.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
@@ -256,6 +282,61 @@ Par défaut, les fonctionnalités de gestion des enregistrements sont activées 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
 Les fonctionnalités de gestion des enregistrements peuvent être appliquées aux utilisateurs titulaires d’une licence dans des emplacements spécifiques (sites d’équipe, sites de groupe, etc.). Pour plus d’informations sur la configuration de la gestion des enregistrements pour qu’elle s’applique aux utilisateurs sous licence, consultez la rubrique [gestion des enregistrements dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+
+## <a name="data-connectors"></a>Connecteurs de données 
+
+Microsoft fournit des connecteurs de données tiers qui peuvent être configurés dans le centre de conformité Microsoft 365. Pour obtenir la liste des connecteurs de données fournis par Microsoft, reportez-vous à la table [connecteurs de données tiers](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) . Ce tableau résume également les solutions de conformité que vous pouvez appliquer à des données tierces après avoir importé et archivé des données dans Microsoft 365, ainsi que des liens vers les instructions détaillées pour chaque connecteur.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
+
+Le principal avantage de l’utilisation des connecteurs de données pour importer et archiver des données tierces dans Microsoft 365 est que vous pouvez appliquer diverses solutions de conformité Microsoft 365 après avoir été importées. Cela permet de s’assurer que les données non Microsoft de votre organisation sont conformes aux réglementations qui affectent votre organisation.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
+
+Les licences suivantes fournissent les droits dont dispose un utilisateur pour bénéficier des connecteurs de données :
+
+- Microsoft 365 E5/a5
+- Microsoft 365 E5/a5-protection & gouvernance
+- Microsoft 365 E5/a5 conformité
+- Gestion des risques Microsoft 365 E5/a5 Insider 
+- Microsoft 365 E5/a5 eDiscovery et audit 
+- Office 365 E5/a5
+- Conformité avancée Office 365
+
+Pour les connecteurs de données dans le centre de sécurité & Compliance Center fourni par l’un des partenaires de Microsoft, votre organisation aura besoin d’une relation commerciale avec le partenaire pour pouvoir déployer ces connecteurs.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
+
+Les connecteurs sont configurés à l’aide du centre de sécurité & conformité et du catalogue de connecteurs.
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
+
+Les services de connecteur de données sont une valeur de niveau client. Tous les utilisateurs destinés à bénéficier de ce service doivent être titulaires d’une licence.
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>API Microsoft Graph pour Microsoft DLP
+
+Au cours de cette année, nous avons annoncé la préversion [publique de l’API de notification de modification Microsoft Graph pour les messages dans teams](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages). Cette API permet aux développeurs de créer des applications qui peuvent écouter des messages Microsoft teams en temps quasi réel et activer les implémentations de scénario DLP pour les clients et les éditeurs de logiciels indépendants. En outre, l’API correctif Microsoft Graph permet d’appliquer des actions DLP à des messages Teams.
+
+### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
+
+Les fonctionnalités de [protection contre la perte de données (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) sont largement utilisées dans Microsoft Teams, en particulier lorsque les organisations ont été déplacées vers le travail à distance. Si votre organisation dispose de DLP, vous pouvez maintenant définir des stratégies qui empêchent les utilisateurs de partager des informations sensibles dans un canal Microsoft teams ou une session de conversation.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
+
+Vous aurez besoin d’une des licences E5 suivantes pour bénéficier de la prise en charge de la protection contre la perte de données (DLP) dans Team Chat :
+
+- Microsoft 365 E5/a5
+- Microsoft 365 E5/a5 conformité
+- Microsoft 365 E5/a5 protection des informations et gouvernance
+- Office 365 E5/a5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
+
+L’accès à l’API est configuré au niveau du client.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
+
+L’API Microsoft Graph pour teams DLP est une valeur de niveau client. Tous les utilisateurs destinés à bénéficier de ce service doivent être titulaires d’une licence.
 
 ## <a name="ediscovery"></a>eDiscovery
 
@@ -533,9 +614,13 @@ Pour la protection des identités et l’accès conditionnel, un utilisateur doi
 
 Advanced audit in Microsoft 365 fournit une rétention d’un an des journaux d’audit pour les activités de l’utilisateur et de l’administrateur, et permet de créer des stratégies de rétention de journal d’audit personnalisées pour gérer la rétention des journaux d’audit pour d’autres services Microsoft 365. Il permet également d’accéder à des événements cruciaux pour les enquêtes et un accès à bande passante élevée à l’API activité de gestion d’Office 365. Pour plus d’informations, consultez la rubrique [audit avancé dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
+Vous pouvez également activer une période de rétention de 10 ans avec un SKU de module complémentaire. Le SKU du module complémentaire sera obligatoire dès le début 2021.
+
 ### <a name="which-users-benefit-from-the-service"></a>Quels sont les utilisateurs qui bénéficient du service ?
 
 Les utilisateurs titulaires d’une licence Office 365 E5, Microsoft 365 E5, conformité à la réglementation Microsoft 365 E5 et Microsoft 365 eDiscovery et audit peuvent tirer parti de l’audit avancé.
+
+Les utilisateurs sous licence avec audit avancé et le complément de rétention du journal d’audit de 10 ans peuvent bénéficier d’une rétention du journal d’audit de 10 ans.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -543,8 +628,10 @@ Un utilisateur bénéficie d’un audit avancé car les enregistrements d’audi
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Par défaut, l’audit avancé est activé au niveau du client pour toutes les organisations disposant d’un abonnement Office 365 ou Microsoft 365 E5, et fournit automatiquement une rétention d’un an des journaux d’audit pour les activités (effectuées par les utilisateurs disposant de la licence appropriée) dans Azure Active Directory, Exchange et SharePoint. En outre, les organisations peuvent utiliser des stratégies de rétention du journal d’audit pour gérer la période de rétention des enregistrements d’audit générés par l’activité dans d’autres services Microsoft 365. Pour plus d’informations, voir [gérer les stratégies de rétention du journal d’audit](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+Par défaut, l’audit avancé est activé au niveau du client pour toutes les organisations disposant d’un abonnement Office 365 ou Microsoft 365 E5, et fournit automatiquement une rétention d’un an des journaux d’audit pour les activités (effectuées par les utilisateurs disposant de la licence appropriée) dans Azure Active Directory, Exchange et SharePoint. En outre, les organisations peuvent utiliser des stratégies de rétention du journal d’audit pour gérer la période de rétention des enregistrements d’audit générés par l’activité dans d’autres services Microsoft 365. La fonctionnalité de rétention du journal d’audit de 10 ans est également activée à l’aide des mêmes stratégies de rétention. Pour plus d’informations, voir [gérer les stratégies de rétention du journal d’audit](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
 La rétention d’un an des journaux d’audit et l’audit des événements cruciaux s’appliquent uniquement aux utilisateurs disposant de la licence appropriée. En outre, les administrateurs peuvent utiliser des stratégies de rétention du journal d’audit pour spécifier des durées de rétention plus courtes pour les journaux d’audit d’utilisateurs spécifiques.
+
+la rétention de 10 ans des journaux d’audit s’applique uniquement aux utilisateurs disposant de la licence de module complémentaire appropriée. Le SKU du module complémentaire sera obligatoire dès le début 2021.

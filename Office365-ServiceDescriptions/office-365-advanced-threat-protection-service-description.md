@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Office 365 - Protection avancée contre les menaces est un service informatique de filtrage du courrier électronique qui vous aide à protéger votre organisation contre des virus et des programmes malveillants inconnus grâce à une protection zero-day solide.
-ms.openlocfilehash: c1facbc6c7052a89b35849919b277db592cc7991
-ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
+ms.openlocfilehash: 9a735338dc1cf99c35058ec7f1ae829d2c081936
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "48170539"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214363"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Description du service Office 365 - Protection avancée contre les menaces
 
@@ -139,7 +139,7 @@ Ce qu'il faut savoir avant de commencer
 
 - Cette fonctionnalité est disponible uniquement pour les utilisateurs disposant de la licence de sécurité Microsoft 365 E5 ou Microsoft 365 E5 (non incluse dans les plans Office 365 ATP).
 
-- Word, Excel, PowerPoint et Visio sur Windows, ainsi que des applications Office sur les appareils iOS et Android
+- Word, Excel et PowerPoint sur Windows
 
 - Canaux et chats Microsoft Teams
 

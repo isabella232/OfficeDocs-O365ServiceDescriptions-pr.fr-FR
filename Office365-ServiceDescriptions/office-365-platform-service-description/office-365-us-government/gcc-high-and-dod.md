@@ -9,18 +9,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Découvrez les engagements uniques et les différences des environnements Office 365 GCC High et DoD par rapport à l’environnement commercial Office 365.
-ms.openlocfilehash: 388e7c3a37e88233982cf12a73e22622a61d1cb8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 44d66557f426ab236460affd61fbf1970c7f25e6
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131978"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214333"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High et DoD
 
 Pour satisfaire les exigences uniques et en constante évolution du département américain de la Défense, ainsi que des fournisseurs conservant ou traitant des informations non classées contrôlées par le département de la Défense (CUI), ou soumis aux réglementations ITAR (International Traffic in Arms Regulations), Microsoft propose des environnements GCC High et DoD. Ceux-ci sont disponibles via les licences en volume. Les organisations intéressées suivent un processus de validation pour vérifier leur admissibilité avant l’établissement d’un environnement. Les essais ne sont pas disponibles pour le moment.  
   
-Veuillez contacter votre équipe de compte ou votre partenaire favori pour en savoir plus ou démarrer le processus de validation. Pour plus d’informations sur l’achat, consultez [la rubrique Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
+Engagez votre équipe de compte ou votre partenaire favori pour en savoir plus ou pour lancer le processus de validation. Pour plus d’informations sur l’achat, consultez [la rubrique Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy).
   
 ## <a name="how-to-use-this-service-description-section"></a>Utilisation de cette section Description du service
 
@@ -34,11 +34,11 @@ GCC High et DoD répondent aux critères de conformité concernant les certifica
     
 - Les contrôles de sécurité et les améliorations apportées au contrôle pour le guide des exigences de sécurité de Cloud Computing (SRG) du département de la Défense des États-Unis pour les informations jusqu'au niveau d'impact 5 (L5).
     
-Les abonnés du département de la Défense à Office 365 bénéficieront des services fournis par l’environnement exclusif du DoD satisfaisant aux exigences du guide SRG DOD L5. Les abonnés extérieurs au département de la Défense bénéficieront des services de l’environnement de la Défense du gouvernement américain, qui est évalué au niveau de L5 mais utilise la segmentation L4.
+Les abonnés du département de la Défense à Office 365 bénéficieront des services fournis par l'environnement exclusif du DoD satisfaisant aux exigences du guide SRG DOD L5. Les abonnés non-département de la défense recevront des services de l’environnement de défense du gouvernement américain qui est évalué à n5, mais qui utilise la segmentation L4.
   
-## <a name="background-screening"></a>Filtrage des antécédents 
+## <a name="background-screening"></a>Filtrage des antécédents
 
-Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’environnement de production GCC High et DoD. Toutes les personnes demandant une élévation temporaire des autorisations qui leur accorderait l’accès au contenu client doivent d’abord faire l’objet des vérifications des antécédents suivantes.
+Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’environnement de production GCC High et DoD. Les personnes qui demandent une élévation d’autorisation temporaire qui accorderait l’accès au contenu client doivent d’abord avoir passé les vérifications d’arrière-plan suivantes.
   
 |||
 |:-----|:-----|
@@ -65,14 +65,14 @@ Les abonnements dans les environnements GCC High et DoD incluent les fonctionnal
   
 ### <a name="file-sharing"></a>Partage de fichiers
 
-Les utilisateurs disposent de plusieurs options pour partager des fichiers et des dossiers dans SharePoint et OneDrive. Toutes les options sont disponibles dans les environnements GCC High et DoD. Pour en savoir plus sur la gestion de ces options, consultez la rubrique [Manage Sharing Settings](/sharepoint/turn-external-sharing-on-or-off). Lorsque les utilisateurs partagent l’option « personnes spécifiques » et sélectionnent des personnes à l’extérieur de l’organisation, SharePoint envoie généralement un code de vérification dans le message électronique. Les destinataires doivent entrer le code pour accéder à l’élément partagé. C’est le cas lorsque les utilisateurs dans les grandes organisations GCC partagent des personnes dans des organisations non GCC, et inversement. (Pour plus d’informations sur l’expérience de partage externe, voir [que se passe-t-il lorsque les utilisateurs partagent](/sharepoint/external-sharing-overview#what-happens-when-users-share).) Toutefois, lorsqu’un utilisateur d’une organisation GCC-High partage des personnes dans une autre organisation GCC-High, un compte invité est créé pour le destinataire dans Azure AD, et il se connecte avec son nom d’utilisateur et son mot de passe. 
+Les utilisateurs disposent de plusieurs options pour partager des fichiers et des dossiers dans SharePoint et OneDrive. Toutes les options sont disponibles dans les environnements GCC High et DoD. Pour plus d’informations sur la gestion de ces options, consultez la rubrique [Manage Sharing Settings](/sharepoint/turn-external-sharing-on-or-off). Les utilisateurs de GCC-High seront en mesure de partager uniquement avec d’autres organisations de GCC-High. En outre, les adresses de messagerie électronique NON GCC associées aux profils utilisateur ne sont pas prises en charge et n’autorisent pas l’envoi de messages électroniques d’alerte. Par exemple, l’utilisateur local A reçoit une adresse de messagerie Gmail, puis est synchronisée avec une organisation Azure GCC High. L’utilisateur A accède à une bibliothèque et crée une alerte pour les modifications. L’alerte n’est pas envoyée à l’adresse Gmail.
+
+> [!NOTE]
+> Les utilisateurs de GCC-High ne sont actuellement pas en mesure de partager avec des utilisateurs d’organisations non GCC.
 
 Les [demandes de fichiers](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af) ne sont pas disponibles pour le gouvernement Office 365.
 
-En outre, les adresses de messagerie électronique non GCC associées aux profils utilisateur ne sont pas prises en charge et n’autorisent pas l’envoi de messages électroniques d’alerte. Par exemple, l’utilisateur local A reçoit une adresse de messagerie Gmail, puis est synchronisée avec une organisation Azure GCC High. L’utilisateur A accède à une bibliothèque et crée une alerte pour les modifications. L’alerte n’est pas envoyée à l’adresse Gmail.
-  
-
-### <a name="skype-for-business-online"></a>Skype Entreprise Online
+### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
  **PSTN Calling &amp; PSTN Conferencing** - Due to the requirement to use the Public Switched Telephone Network (PSTN) for telephony-oriented services, PSTN Calling &amp; PSTN Conferencing services are currently not available in GCC High and DoD.
 
