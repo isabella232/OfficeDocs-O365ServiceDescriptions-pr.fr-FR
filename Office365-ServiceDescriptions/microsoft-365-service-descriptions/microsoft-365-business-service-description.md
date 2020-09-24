@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium est une solution intégrée qui associe la productivité optimale avec des fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: a98d98db2aaf58497f4927806bb0f859b00fbb0a
-ms.sourcegitcommit: 12c144e2706206d4e134e277767a1a6cd49102db
+ms.openlocfilehash: 644579ff120d754100fbd4b187a5499ff3368cd8
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947828"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245709"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Description du service Microsoft 365 Business Premium
 
@@ -22,11 +22,10 @@ Microsoft 365 Business Premium est une solution intégrée qui associe la meille
   
 ## <a name="feature-availability-across-microsoft-365-business-standard-and-microsoft-365-business-premium-plans"></a>Disponibilité des fonctionnalités pour les différents plans Microsoft 365 Business standard et Microsoft 365 Business Premium
 
-Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalités disponibles dans Microsoft 365 Business standard, ainsi que des fonctionnalités de sécurité Microsoft supplémentaires.
+Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalités disponibles dans Microsoft 365 Business standard, ainsi que des fonctionnalités de sécurité Microsoft supplémentaires.<br><br>
 
-||||
+| Options de plan | Microsoft 365 Business Standard | Microsoft 365 Business Premium |
 |:-----|:-----|:-----|
-|**Options de l'offre** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Plateforme Office 365  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |
@@ -86,9 +85,6 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |Enterprise State Roaming pour Windows 10 avec jointure Azure AD  <br/> |Non  <br/> |Oui  <br/> |
 |Récupération BitLocker en libre-service  <br/> |Non  <br/> |Oui  <br/> |
 |Windows Virtual Desktop <br/> |Non <br/> |Oui <br/> |
-
-|||
-|:-----|:-----|
 |**Gestion Windows 10 professionnel** <br/>Si vous avez des appareils sous licence pour Windows 7 et 8,1 professionnel, Microsoft 365 Business Premium fournit une mise à niveau vers Windows 10 professionnel.<sup>9</sup> <br/>|**Microsoft 365 Business Premium** <br/> |
 |Déploiement est simplifié grâce à Windows AutoPilot  <br/> |Oui  <br/> |
 |Activation de l’abonnement  <br/> |Oui  <br/> |

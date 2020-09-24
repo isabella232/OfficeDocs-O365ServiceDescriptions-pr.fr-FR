@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
-ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
+ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47337860"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245689"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -67,7 +67,7 @@ Si votre organisation possède actuellement des abonnements à Office 365 Small 
 
 Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Premium, voir [microsoft 365 Business Premium Service Description](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md).<br/><br/>
   
-|**Fonctionnalité**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
+| Fonctionnalité | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Entreprise E1 | Office 365 Entreprise E3 | Office 365 Entreprise E5 | Office 365 Entreprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Planification et déploiement](planning-and-deployment.md)**|||||||||
 |Déploiement hybride pris en charge|Oui|Oui|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui|Oui|Oui|Oui<sup>16</sup>|
@@ -203,7 +203,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Exchange Online
 
-|**Fonctionnalité**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+| Fonctionnalité | Exchange Server 2013 | Exchange Server 2016 | Exchange Online-plan &nbsp; 1 | Exchange Online-plan &nbsp; 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Planification et déploiement](planning-and-deployment.md)**||||||
 |Déploiement hybride pris en charge|Oui|Oui|Oui|Oui|Oui<sup>23</sup>|
@@ -214,7 +214,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |Autorisations basées sur des rôles|Oui|Oui|Oui|Oui|Non|
 |Groupes de rôles|Oui|Oui|Oui|Oui|Non|
 |Stratégies d'attribution de rôle|Oui|Oui|Oui|Oui|Non|
-|**[Stratégie et conformité de message](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Stratégie et conformité de message](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Archivage de boîtes aux lettres Exchange Online|Oui|Non|Oui|Oui|Non|
 |Archivage en nuage de boîtes aux lettres locales|Oui <sup>5</sup>|Oui <sup>5</sup>|Non|Oui|Non|
 |Messaging Records Management (MRM) |Oui|Oui|Oui|Oui|Oui|
@@ -229,20 +229,20 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |Règles de transport|Oui <sup>1</sup>|Oui <sup>1</sup>|Oui <sup>1</sup>|Oui <sup>1</sup>|Oui <sup>1</sup>|
 |Protection contre la perte de données|Oui <sup>10, 14</sup>|Oui <sup>10, 14</sup>|Non|Oui|Non|
 |Journalisation|Oui|Oui|Oui|Oui|Oui|
-|**[Protection contre le courrier indésirable et les programmes malveillants](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Protection contre le courrier indésirable et les programmes malveillants](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Protection anti-courrier indésirable intégrée|Oui <sup>2</sup>|Oui <sup>2</sup>|Oui|Oui|Oui|
 |Customize anti-spam policies|Oui, mais uniquement via PowerShell|Oui, mais uniquement via PowerShell|Oui|Oui|Oui <sup>8</sup>|
 |Protection anti-programme malveillant intégrée|Oui <sup>7</sup>|Oui <sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|Oui<sup>7</sup>|
 |Customize anti-malware policies|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - autogestion par l'utilisateur final|Non|Non|Oui|Oui|Oui|
-|**[Flux de messagerie](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Flux de messagerie](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui|Oui|Oui|
 |Secure messaging with a trusted partner|Oui|Oui|Oui|Oui|Oui|
 |Conditional mail routing|Non|Non|Oui|Oui|Oui|
 |Ajout d’un partenaire à une liste sécurisée entrante|Non|Non|Oui|Oui|Oui|
 |Routage de messagerie hybride|Oui|Oui|Oui|Oui|Oui|
-|**[Destinataires](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Destinataires](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Alertes de capacité|Oui|Oui|Oui|Oui|Oui|
 |Courrier non trié|Non|Non|Oui|Oui|Oui|
 |MailTips|Oui|Oui|Oui|Oui|Oui|
@@ -263,18 +263,18 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |Gestion des salles de conférence|Oui|Oui|Oui|Oui|Oui|
 |Réponses d’absence du Bureau|Oui|Oui|Oui|Oui|Oui|
 |Partage de calendriers|Oui|Oui|Oui|Oui|Oui <sup>18</sup>|
-|**[Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Rapports du centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|
 |Classeur de création de rapports Excel|Non|Non|Oui|Oui|Oui|
 |Rapports de services Web|Non|Non|Oui|Oui|Oui|
 |Message trace|Non|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Rapports d’audit|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Rapports de messagerie unifiée|Oui|Oui|Non|Oui|Non|
-|**[Partage et collaboration](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Partage et collaboration](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Partage fédéré|Oui|Oui|Oui|Oui|Oui|
 |Boîtes aux lettres de site|Oui <sup>3</sup>|Oui <sup>3</sup>|Oui <sup>4</sup>|Oui <sup>4</sup>|Oui <sup>4</sup>|
 |Dossiers publics|Oui|Oui|Oui|Oui|Non|
-|**[Clients et appareils mobiles](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Clients et appareils mobiles](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Microsoft Outlook|Oui|Oui|Oui|Oui|Non|
 |Outlook sur le web|Oui|Oui|Oui|Oui|Oui|
 |Exchange ActiveSync|Oui|Oui|Oui|Oui|Oui|
@@ -283,28 +283,28 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |Prise en charge des applications EWS|Oui|Oui|Oui|Oui|Non|
 |Outlook pour Mac|Oui|Oui|Oui|Oui|Non|
 |Outlook pour iOS et Android<sup>21</sup>|Oui<sup>25</sup>|Oui<sup>25</sup>|Oui|Oui|Oui|
-|**[Services de messagerie vocale](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Services de messagerie vocale](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Messagerie vocale|Oui|Oui|Non|Oui|Non|
 |Interopérabilité de la messagerie vocale tierce|Oui|Oui|Oui|Oui|Oui|
 |Intégration Skype entreprise|Oui|Oui|Oui|Oui|Oui|
-|**[Haute disponibilité et continuité de service](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Haute disponibilité et continuité de service](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Réplication de boîtes aux lettres dans les centres de données|Non|Non|Oui|Oui|Oui|
 |Récupération de boîtes aux lettres supprimées|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'éléments supprimés|Oui|Oui|Oui|Oui|Oui|
 |Récupération d'élément unique|Oui|Oui|Oui|Oui|Non|
-|**[Interopérabilité, connectivité et compatibilité](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Interopérabilité, connectivité et compatibilité](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Présence de Skype entreprise dans OWA et Outlook|Oui|Oui|Oui|Oui|Oui|
 |Interopérabilité SharePoint|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge de la connectivité EWS|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge du relais SMTP|Oui|Oui|Oui|Oui|Oui|
-|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Accès au portail Microsoft Office 365|Non|Non|Oui|Oui|Oui|
 |Accès au centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|
 |Stratégies ActiveSync pour les appareils mobiles|Oui|Oui|Oui|Oui|Oui|
 |Rapports d’utilisation|Oui|Oui|Oui|Oui|Oui|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan 1**|**Exchange Online Plan 2**|**Exchange Online Kiosk**|
+|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online-plan &nbsp; 1**|**Exchange Online-plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Composants WebPart Outlook sur le Web|Oui|Oui|Oui|Oui|Oui|
 |Compléments Outlook et MAPI Outlook|Oui|Oui|Oui<sup>21</sup>|Oui<sup>21</sup>|Non|
 
