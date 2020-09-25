@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs Microsoft peuvent afficher l’état des services et savoir quand la maintenance est planifiée. Les informations relatives à l’état du service sont disponibles à tout moment en vous connectant.
-ms.openlocfilehash: dfa4e462d794a0f0a225f0c4e18695d9e4d2fe67
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: 158bf6f436a7353f5c6a5fa847b244d73801cda2
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649604"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261606"
 ---
 # <a name="service-health-and-continuity"></a>Service health and continuity
 
@@ -25,7 +25,7 @@ Les administrateurs Microsoft peuvent afficher l’état des services et savoir 
 > [!NOTE]
 > Si vous utilisez Office 365 géré par 21Vianet, certaines des informations ci-dessous peuvent ne pas vous concerner. Consultez plutôt le [contrat de niveau de service 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
-## <a name="view-status-of-services"></a>Afficher l'état des Services
+## <a name="view-status-of-services"></a>Afficher l’état des services
 
 La section service Health indique l’état actuel du service et des détails sur les interruptions de service et les pannes. Les informations de maintenance planifiée sont disponibles dans le centre de messages. Pour plus d'informations, consultez la rubrique [Vérifier l'état du service Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
   
@@ -43,35 +43,35 @@ Il existe deux types de notifications concernant les heures où les services peu
 
 Le passage à un service Cloud ne doit pas signifier perdre la capacité à savoir ce qui se passe. Avec Office 365, il ne l’est pas. Nous souhaitons être transparents dans nos opérations afin que vous puissiez surveiller l’état de votre service, suivre les problèmes et avoir un aperçu de la disponibilité. Les tableaux suivants présentent les données de disponibilité les plus récentes dans le monde entier.
 
-<br/>
+**2020**
 
-|**2020** <br/> ||||
+| T1 | 2ème | T3 | 4e |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
 | 99,98% <br/> | 99,99 %<br/> | <br/> |<br/> |
 
-<br/>
+<br>
 
-|**2019** <br/> ||||
+**2019**
+
+| T1 | 2ème | T3 | 4e |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
 | 99,97% <br/> | 99,97% <br/> | 99,98% <br/> | 99,98% <br/> |
 
-<br/>
+<br>
 
-|**2018** <br/>||||
+**2018**
+
+| T1 | 2ème | T3 | 4e |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
 | 99,99 % <br/> | 99,98% <br/> | 99,97% <br/> | 99,98% <br/> |
 
-<br/>
+<br>
 
-|**2017** <br/> ||||
+**2017**
+
+| T1 | 2ème | T3 | 4e |
 |:-----|:-----|:-----|:-----|
-| **T1** <br/> | **2ème** <br/> |**T3** <br/> |**4e** <br/> |
 | 99,99 % <br/> | 99,97% <br/> | 99,98% <br/> | 99,99 % <br/> |
-
-<br/>
 
 ## <a name="notification-policy"></a>Stratégie de notification
 
@@ -81,7 +81,7 @@ Quand un incident de service se produit, Microsoft reconnaît que les communicat
 
 ### <a name="admin-app"></a>Application d’administration
 
-L’application d’administration pour les administrateurs d’organisation vous donne la possibilité de vous connecter à l’état du service Microsoft de votre organisation en déplacement. Les administrateurs Microsoft auront la possibilité d’afficher les informations relatives à l’état des services et les mises à jour de l’état de la maintenance à partir de leurs appareils mobiles. Pour plus d’informations, consultez le [FAQ sur l’application d’administration](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+L’application d’administration pour les administrateurs d’organisation vous donne la possibilité de vous connecter à l’état du service Microsoft de votre organisation en déplacement. Les administrateurs Microsoft auront la possibilité d’afficher les informations relatives à l’état des services et les mises à jour de l’état de la maintenance à partir de leurs appareils mobiles. Pour plus d’informations, consultez le [FAQ sur l’application d’administration](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d’administration d’Office 365 pour Microsoft System Center 2012 R2
 
@@ -101,7 +101,7 @@ Pour plus d’informations, consultez la référence de l' [API de communication
 
 L'engagement de Microsoft pour une amélioration continue implique l'analyse des incidents de service qui concernent les clients pour diminuer le risque de récidive. 
   
-Les incidents de service non planifiés sont définis comme des interruptions de service mutualisées qui influent sur l’utilisation du service définies par nos SLA de service, et qui ont été déclarées comme telles sur le tableau de bord d’intégrité des services.
+Les incidents de service non planifiés sont définis comme des interruptions de service mutualisées qui influent sur l’utilisation du service, telles que définies par nos contrats de niveau de service (SLA), et qui ont été déclarées comme telles sur le tableau de bord d’État du service.
   
  Pour les incidents de service non planifiés ayant un impact sur les clients qui ont eu un impact important et notable sur un grand nombre d’organisations, un examen post-incident préliminaire (PIR) sera fourni via votre tableau de bord d’état des services dans les 48 heures de résolution des incidents, suivi d’un PIR final dans les cinq jours ouvrés. Le rapport PIR détaillé inclut : 
   
@@ -113,13 +113,13 @@ Les incidents de service non planifiés sont définis comme des interruptions de
     
 - Analyse des causes fondamentales et mesures prises pour une amélioration continue
     
-Pour tous les autres incidents de service, le tableau de bord d’État du service fournit un résumé de clôture des incidents incluant un résumé final de l’événement, la cause première initiale, les heures de début et de fin, ainsi que des informations détaillant les étapes suivantes. Pour cette catégorie d’incident de service, aucune analyse post-incident n’est générée. 
+Pour tous les autres incidents de service, le tableau de bord d’État du service fournit un résumé de clôture des incidents incluant un résumé final de l’événement, la cause première initiale, les heures de début et de fin, ainsi que des informations détaillant les étapes suivantes. Pour cette catégorie d'incident de service, aucune analyse post-incident n'est générée. 
   
-## <a name="service-continuity"></a>Continuité de service
+## <a name="service-continuity"></a>Service continuity
 
 Les offres Microsoft sont fournies par des systèmes hautement résistants qui permettent de maintenir des performances de service optimales. Les dispositions en matière de continuité de service font partie de la conception du système. Ces dispositions permettent à Microsoft de récupérer rapidement des événements inattendus, tels que les défaillances matérielles ou d’applications, l’endommagement des données ou d’autres incidents affectant les utilisateurs. Ces solutions de continuité de service s'appliquent également en cas de pannes de grande envergure (par exemple, des catastrophes naturelles ou un incident dans un centre de données Microsoft qui provoque l'arrêt de tout le centre de données).
   
-Notez bien qu'après la récupération d'une panne de grande envergure, un certain délai doit forcément s'écouler avant la restauration de l'intégralité de la redondance du centre de données du service. Par exemple, si un incident survient dans le centre de données 1, les services sont restaurés par les ressources du centre de données 2. Cependant, il est possible qu'un certain délai s'écoule avant que le centre de données 2 ne bénéficie d'une prise en charge de la continuité du service, soit par des ressources restaurées dans le centre de données 1, soit par de nouvelles ressources dans le centre de données 3. Le [contrat de niveau de service](service-level-agreement.md) Microsoft s’applique pendant ce temps. Office 365 géré par 21Vianet est régi par un contrat de niveau de service différent. Pour plus d'informations, rendez-vous sur le [site 21Vianet](https://www.21vbluecloud.com/office365/O365-SLA/). 
+Notez bien qu'après la récupération d'une panne de grande envergure, un certain délai doit forcément s'écouler avant la restauration de l'intégralité de la redondance du centre de données du service. Par exemple, si un incident survient dans le centre de données 1, les services sont restaurés par les ressources du centre de données 2. Cependant, il est possible qu'un certain délai s'écoule avant que le centre de données 2 ne bénéficie d'une prise en charge de la continuité du service, soit par des ressources restaurées dans le centre de données 1, soit par de nouvelles ressources dans le centre de données 3. Le [contrat de niveau de service](service-level-agreement.md) Microsoft s’applique pendant ce temps. Office 365 géré par 21Vianet est régi par un contrat de niveau de service différent. Pour plus d’informations, reportez-vous au [site 21ViaNet](https://www.21vbluecloud.com/office365/O365-SLA/). 
   
 ## <a name="ensuring-data-availability"></a>Assurer la disponibilité des données
 
@@ -127,9 +127,9 @@ Microsoft garantit à tout moment la disponibilité des données du client par l
   
 - **Stockage et redondance des données :** Les données du client sont stockées dans un environnement redondant présentant de solides capacités de protection des données qui assurent leur disponibilité, la continuité des affaires et une récupération rapide. Différents niveaux de redondance des données sont mis en œuvre, depuis les disques redondants pour la protection contre les pannes de disques locaux jusqu'à la réplication continue et totale des données dans un centre de données géographiquement diversifié. 
     
-- **Surveillance des données :** Les services Microsoft maintiennent des niveaux élevés de performances en : 
+- **Surveillance des données :** Les services Microsoft maintiennent des niveaux élevés de performances en surveillant les éléments suivants : 
     
-  - **Surveillance des bases de données :**
+  - Databases
     
   - Processus bloqués
     
@@ -147,13 +147,13 @@ Les équipes de développement et d’exploitation Microsoft sont complétées p
   
 L'organisation de support correspond étroitement aux opérations et au développement produits, offre des temps de résolution très courts et fournit un canal permettant aux clients de se faire entendre. Les commentaires des clients contribuent à la planification, le développement et les processus d'exploitation.
   
-- **Suivi des problèmes en ligne :** Les clients ont besoin de savoir que leurs problèmes sont pris en compte et ils doivent pouvoir suivre leur résolution en temps voulu. Microsoft 365 Padmin Center Ortal fournit une interface Web unique pour la prise en charge. Les clients peuvent utiliser le portail pour ajouter et surveiller les demandes de service et recevoir les commentaires des équipes de support Microsoft. 
+- **Suivi des problèmes en ligne :** Les clients ont besoin de savoir que leurs problèmes sont pris en compte et ils doivent pouvoir suivre leur résolution en temps voulu. Le centre d’administration Microsoft 365 fournit une interface Web unique pour la prise en charge. Les clients peuvent utiliser le portail pour ajouter et surveiller les demandes de service et recevoir les commentaires des équipes de support Microsoft. 
     
 - **Auto-assistance, avec prise en charge continue du personnel :** Microsoft offre une large gamme de ressources et d’outils d’aide qui peuvent aider les clients à résoudre les problèmes liés aux services sans avoir besoin de prendre en charge Microsoft. 
     
-Avant de soumettre une demande de service, les clients peuvent accéder aux articles de la base de connaissances et aux FAQ qui fournissent une aide immédiate en ce qui concerne les problèmes les plus fréquents. Ces ressources sont continuellement mises à jour avec les informations les plus récentes, ce qui permet d'éviter les temps d'attente en fournissant des solutions aux problèmes connus. Toutefois, lorsqu'un problème nécessite l'aide d'un professionnel du support, les membres de l'équipe sont disponibles pour une assistance immédiate par téléphone et par le biais du portail d'administration 24 h/24 et 7 j/7.
+Avant d'entrer une demande de service, les clients ont accès aux articles de la base de données et aux FAQ qui fournissent une aide immédiate en ce qui concerne les problèmes les plus fréquents. Ces ressources sont continuellement mises à jour avec les informations les plus récentes, permettant ainsi d'éviter les temps d'attente en fournissant des solutions aux problèmes connus. Toutefois, lorsqu'un problème survient et requiert l'aide d'une assistance professionnelle, les membres de l'équipe sont disponibles pour une assistance immédiate par téléphone et par le biais du portail d'administration 24h/24 et 7j/7.
   
-Pour plus d'informations sur le support, consultez la rubrique [Prise en charge](support.md). 
+Pour plus d’informations sur la prise en charge, voir l’article de [support technique](support.md) . 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

@@ -1,5 +1,5 @@
 ---
-title: Centre de sécurité et conformité
+title: Centre de sécurité et de conformité
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300528"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261596"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -25,11 +25,10 @@ Le [Centre de sécurité &amp; conformité](https://protection.office.com/) est 
 
 Pour voir les options de licence dont les utilisateurs peuvent bénéficier des fonctionnalités de conformité de Microsoft 365 à compter du 1er avril 2020, téléchargez la comparaison de licences de conformité Microsoft 365 détaillée. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Security &amp; Compliance Center availability for Business and Enterprise plans
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;Disponibilité du centre de sécurité conformité pour les offres professionnelles et entreprise
 
-|||||||||
+| Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 gouvernement américain G1 | Office 365 E3, Office 365 gouvernement américain G3 | Office 365 E5 | Office 365 F3, Office 365 gouvernement américain F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité**  |**Microsoft 365 Business Basic**  |**Microsoft 365 Business Standard**  |**Microsoft 365 Business Premium**  |**Office 365 entreprise E1**, **Office 365 gouvernement américain G1**  |**Office 365 entreprise E3**, **Office 365 gouvernement américain G3**  |**Office 365 Entreprise E5**  |**Office 365 entreprise F3**  **Office 365 gouvernement américain F3**|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non|Non   |Non   |Oui   |
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) comme le filtrage de la messagerie et la protection contre les programmes malveillants |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
@@ -57,7 +56,6 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Chiffrement de messages avancé Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Non   |Non   |Non   |Non   |Non |Oui   |Non   |
 |[Gestion des accès privilégiés](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
 |[Clé client](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |Non   |Non   |Non   |Non   |Non   |Oui   |Non   |
-|||||||||
 
 <sup>1</sup> la gouvernance des informations permet aux utilisateurs de créer, publier et appliquer manuellement des étiquettes aux documents ; importer des données à l’aide de l’expédition de disque ou sur le réseau. Ces fonctionnalités sont disponibles dans E3 et E5, avec uniquement une disponibilité limitée dans E1. Pour obtenir la liste complète des fonctionnalités disponibles dans E1, E3 et E5, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -69,7 +67,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 <sup>5</sup> La découverte électronique avancée est prise en charge aux États-Unis et en Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].)
 
-<sup>6</sup> la protection avancée contre les menaces est disponible dans Office 365 entreprise E5 et en tant que service autonome pour Office 365 entreprise E1 et Office 365 entreprise E3.
+<sup>6</sup> la protection avancée contre les menaces est disponible dans Office 365 E5 et en tant que service autonome pour Office 365 E1 et Office 365 E3.
 
 <sup>7</sup> inclut les fichiers stockés dans les référentiels Microsoft Teams.
 
@@ -85,11 +83,10 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 <sup>13</sup> n’inclut pas les étiquettes basées sur l’apprentissage automatique (classifieurs pilotables).
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Security &amp; Compliance Center availability for Standalone plans
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilité du centre de sécurité conformité pour les plans autonomes
 
-|||||||||
+| Fonctionnalité | Exchange Online (plan 1) | Exchange Online (plan 2) | Exchange Online Kiosk | SharePoint Online (plan 1) | SharePoint Online (plan 2) | OneDrive Entreprise (plan 1) | OneDrive Entreprise (plan 2) | Skype Entreprise Online (plan 1) | Skype Entreprise Online (plan 2)|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité**  |**Exchange Online Plan 1**  |**Exchange Online Plan 2**  |**Exchange Online Kiosk**  |**SharePoint Online Plan 1**  |**SharePoint Online Plan 2**  |**OneDrive Entreprise Plan 1** |**OneDrive Entreprise Plan 2** |**Skype Entreprise Online Plan 1**  |**Skype Entreprise Online Plan 2**  |
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Oui   |
 |[Gestion des menaces](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security), telles que le filtrage du courrier électronique et anti-programme malveillant   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
@@ -113,7 +110,6 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 |[Chiffrement de messages Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Non   |Non   |Non   |Non   |Oui   |Non   |Non|Non|Non|
 |[Chiffrement de messages avancé Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |Non   |Non   |Non   |Non   |Oui   |Non   |Non|Non|Non|
 |[Gestion des accès privilégiés](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |Non   |Non   |Non   |Non   |Oui   |Non   |Non|Non|Non|
-|||||||||
 
 <sup>1</sup> la gouvernance des informations permet aux utilisateurs de créer, publier et appliquer manuellement des étiquettes aux documents ; importer des données à l’aide de l’expédition de disque ou sur le réseau. Ces fonctionnalités sont disponibles dans E3 et E5, avec uniquement une disponibilité limitée dans E1. Pour obtenir la liste complète des fonctionnalités disponibles dans E1, E3 et E5, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -123,7 +119,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 <sup>4</sup> Les conversations Skype sont stockées dans le cadre de la boîte aux lettres.
 
-<sup>5</sup> La découverte électronique avancée requiert une licence Office 365 Entreprise E5 ou une licence de module complémentaire.
+<sup>5</sup> Advanced EDiscovery nécessite Office 365 E5 ou une licence de module complémentaire.
 
 <sup>6</sup> l’archivage Skype se trouve dans la boîte aux lettres de l’utilisateur.
 
