@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962093"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276724"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -22,9 +22,8 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365.
   
 ## <a name="limits-by-plan"></a>Limites par plan 
 
-|||||
+| Fonctionnalité | Microsoft 365 Business Basic, Business standard ou Business Premium | Microsoft 365 E3 ou E5, Office 365 E1, E3 ou E5, ou SharePoint plan 1 ou 2 | Microsoft 365 F1 ou F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Microsoft 365 Business Basic, Business standard ou Business Premium** <br/> |**Microsoft 365 E3 ou E5, Office 365 entreprise E1, E3 ou E5, ou SharePoint plan 1 ou 2** <br/> | **Microsoft 365 F1 ou F3, Office 365 entreprise F3** <br/> |
 |Stockage total par organisation<sup>1, 2, 6</sup> <br/> |1 to plus 10 Go par licence achetée<sup>3</sup>  <br/> |1 to plus 10 Go par licence achetée<sup>3</sup> <br/> |1 to<sup>3</sup> <br/> |
 |Stockage maximal par site (collection de sites)<sup>4</sup><br/> |25 TO <br/> |25 TO <br/> |25 to<sup>5</sup> <br/> |
 |Sites (collections de sites) par organisation  <br/> |2 millions<sup>6</sup> <br/> |2 millions<sup>6</sup> <br/> |2 millions<br/> |
@@ -36,7 +35,7 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365.
 <br/> <sup>4</sup> il s’agit de la *limite* de stockage pour un seul site (précédemment appelée « collection de sites »), et non de la quantité de stockage *fournie* pour chaque site. Cette limite s’applique à tous les types de sites, y compris les sites d’équipe connectés à un groupe Office 365 et OneDrive. Les administrateurs SharePoint peuvent [définir manuellement des limites de stockage inférieures](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> les employés terrain ne peuvent pas administrer les sites SharePoint. 
 <br/> <sup>6</sup> n’inclut pas le OneDrive créé pour chaque utilisateur sous licence. 
-<br/> <sup>7</sup> Si vous avez plus de 500 000 utilisateurs, contactez un représentant Microsoft. 
+<br/> <sup>7</sup> si vous avez plus de 500 000 utilisateurs, contactez un représentant Microsoft. 
   
 ## <a name="service-limits-for-all-plans"></a>Limites de service pour tous les plans
 
@@ -49,9 +48,9 @@ Une liste peut comporter jusqu’à 30 millions éléments et une bibliothèque 
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Autorisations uniques pour les éléments d’une liste ou d’une bibliothèque
 
-La limite autorisée est de 50 000 éléments de permissions de manière unique, mais la limite générale recommandée est de 5 000. Les modifications apportées à plus de 5 000 éléments uniques à la fois sont plus longues. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
+La limite autorisée est de 50 000 éléments de permissions de manière unique, mais la limite générale recommandée est de 5 000. Le fait de modifier plus de 5 000 éléments uniques à la fois prend plus de temps. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
 
-Une autre limite est de 5 000 attributions de rôle par élément à autorisation unique. 
+Une autre limite est de 5 000 attributions de rôles par élément à autorisation unique. 
 
 ### <a name="file-size-and-file-path-length"></a>Taille du fichier et longueur du chemin d’accès du fichier
 

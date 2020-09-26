@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni avec Office 365, Project Online offre de puissantes fonctionnalités de gestion de projets permettant la planification, la hiérarchisation et la gestion d'investissements de projets et de portefeuille de projets de pratiquement n'importe où et sur n'importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni via Office 365, Project Online offre des fonctionnalités de gestion de projet puissantes pour la planification, la hiérarchisation et la gestion des projets et des investissements de portefeuille de projets, depuis presque n’importe quel endroit sur n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
+ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131158"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276797"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -75,7 +75,7 @@ Ce diagramme montre comment les applications peuvent travailler ensemble côte �
 
 ## <a name="microsoft-project-subscriptions"></a>Abonnements Microsoft Project
 
-Microsoft Project est disponible par le biais de trois abonnements différents pour répondre au mieux aux besoins de votre organisation. Ces abonnements sont plan de projet 1, plan de projet 3 et plan de projet 5. Pour comparer les fonctionnalités entre les abonnements, consultez la rubrique [Feature Availability Across Applications and subscriptions](#feature-availability-across-applications-and-subscriptions).
+Microsoft Project est disponible par le biais de trois abonnements différents pour répondre au mieux aux besoins de votre organisation. Ces abonnements sont plan de projet 1, plan de projet 3 et plan de projet 5. Pour comparer les fonctionnalités entre les abonnements, consultez la rubrique [Feature Availability Across Applications and subscriptions](#feature-availability-across-applications-and-subscriptions).<br><br>
 
 |Produit | Offre 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
@@ -83,15 +83,15 @@ Microsoft Project est disponible par le biais de trois abonnements différents p
 |Project Online | |**x x**| **x x x** |
 |Client de bureau Project Online | |**x**|**x**|
 
-Dans le tableau ci-dessus, le nombre de contrôles (**x**) indique le niveau général des fonctionnalités fournies par un plan. Par exemple, pour Project Online, plan 5 fournit davantage de fonctionnalités, puis prévoit 3.
+Dans le tableau ci-dessus, le nombre de contrôles (**x**) indique le niveau général des fonctionnalités fournies par un plan. Par exemple, pour Project Online, le plan 5 offre davantage de fonctionnalités que le plan 3.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilité des fonctionnalités pour les applications et les abonnements
 
 ### <a name="project-for-the-web-features"></a>Projet pour les fonctionnalités Web
 
-Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du projet pour le magasin de données Web. Toutes ces fonctionnalités sont disponibles dans tous les abonnements Microsoft Project : plan de projet 1, plan de projet 3 et plan de projet 5.
+Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du projet pour le magasin de données Web. Toutes ces fonctionnalités sont disponibles dans tous les abonnements Microsoft Project : plan de projet 1, plan de projet 3 et plan de projet 5.<br><br>
 
-|Fonctionnalité | Description | Licences Office 365 | Offre 1 | Plan 3 | Plan 5|
+| Fonctionnalité | Description | Licences Office 365 | Offre 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
 |**Gestion du projet, des tâches et des heures**||||||
 |Vue de carte | Effectuez un suivi visuel des tâches de projet pour améliorer le flux de travail et la surveillance de l’État à l’aide de tableaux de tâches prédéfinis et personnalisés.| Afficher uniquement | Oui | Oui| Oui|
@@ -112,7 +112,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Rapports personnalisés | Comprenez les données importantes pour votre organisation en créant des rapports personnalisés basés sur des rapports prédéfinis ou à partir de zéro. | Non | Oui | Oui | Oui |
 |Tableaux de bord et portails | Créez des portails et des tableaux de bord personnalisés pour répondre aux besoins spécifiques de votre organisation.| Non | Oui | Oui | Oui |
 |**Facilement** ||||||
-|Co-création | Collaborez avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projets et bien plus encore.| Afficher uniquement | Oui | Oui | Oui |
+|Co-édition | Collaborez avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projets et bien plus encore.| Afficher uniquement | Oui | Oui | Oui |
 |Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec des indicateurs graphiques.| Afficher uniquement | Oui | Oui | Oui |
 |**Mobilité** ||||||
 |Applications mobiles | Créez des applications mobiles personnalisées avec les PowerApp. <sup>4</sup> |Non | Non | Oui | Oui |
@@ -125,7 +125,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 
 ### <a name="project-online-features"></a>Fonctionnalités de Project Online
 
-Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du magasin de données SharePoint Online.
+Les fonctionnalités indiquées dans cette section interagissent uniquement avec les données du magasin de données SharePoint Online.<br><br>
 
 |Fonctionnalité | Description | Plan de projet 3 | Plan de projet 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -201,7 +201,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 
 ### <a name="project-online-desktop-client-features"></a>Fonctionnalités de client de bureau Project Online
 
-|Fonctionnalité | Description |
+| Fonctionnalité | Description |
 |--------|-------------|
 |**Gestion des projets et des tâches**||
 |Lignes | Définir des planifications de projet pour surveiller les performances actuelles par rapport aux performances passées. |
@@ -274,11 +274,11 @@ Project pour le Web et Project Online possèdent les mêmes stratégies de sauve
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Projet pour les limites et limites du site Web
 
-Project pour le Web présente certaines limitations, décrites dans le tableau suivant.
+Project pour le Web présente certaines limitations, décrites dans le tableau suivant.<br><br>
 
-|Entité/champ | Limite |
+| Entité/champ | Limite |
 |-------------|-------|
-|**Tâche** ||
+|**Task** ||
 |Longueur niveau hiérarchique de la tâche | 10 niveaux |
 |Longueur Liens (successeur + prédécesseur) d’une tâche | vingtaine |
 |Longueur durée de la tâche terminal | 1250 jours |

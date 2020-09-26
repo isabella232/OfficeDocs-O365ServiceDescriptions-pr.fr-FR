@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245729"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284986"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -164,7 +164,7 @@ Voici les avantages pour les utilisateurs du service Gestionnaire de conformité
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-Les clients disposant d’Office 365 E1/a1/E3/a3 et de Microsoft 365 E3/a3 peuvent accéder à l’évaluation de la ligne de base de la protection des données. Les clients disposant des licences Office 365 E5/a5 et Microsoft 365 E5/a5 pourront accéder aux évaluations prédéfinies de protection des données, RGPD, NIST 800-53 et ISO 22701. Les évaluations Premium seront disponibles pour l’achat aux clients Office 365 E5/a5 et Microsoft 365 E5/a5.
+Les clients disposant d’Office 365 E1/a1/E3/a3 et de Microsoft 365 E3/a3 peuvent accéder à l’évaluation de la ligne de base de la protection des données. Les clients disposant des licences Office 365 E5/a5 et Microsoft 365 E5/a5 pourront accéder aux évaluations standard de protection des données, RGPD, NIST 800-53 et ISO 22701. Les clients doivent disposer d’au moins une licence Office 365 E5/a5 ou Microsoft 365 E5/a5 pour utiliser la fonctionnalité d’évaluation personnalisée. Les évaluations Premium seront disponibles pour l’achat aux clients Office 365 E5/a5 et Microsoft 365 E5/a5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/a5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 > [!NOTE]
 > Power BI est inclus avec Microsoft 365 E5/a5/G5 ; dans tous les autres plans, Power BI doit être concédé sous licence séparément.
 
-Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Compliance, Microsoft 365 information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 et AIP plan 2 fournissent les droits permettant à un utilisateur de tirer parti de l’étiquetage de la sensibilité automatique.
+Microsoft 365 E5/a5/G5, Microsoft 365 E5/a5/G5 Compliance, Microsoft 365 information protection, and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 et AIP plan 2 fournissent les droits nécessaires pour permettre à un utilisateur de bénéficier d’une étiquette de sensibilité automatique.
 
 Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) N’inclut pas de droits à la classification automatique basée sur l’apprentissage de machine (classifieur de formation).
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/a5/E3/a3 et Office 365 E5/a5/E3/a3 permettent à un utilisateur
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance, Office 365 E5/a5 et Office 365 Advanced Compliance permettent aux utilisateurs d’appliquer automatiquement des étiquettes ou des stratégies de rétention. application d’étiquettes ou de stratégies de rétention par défaut, démarrage de la période de rétention d’une étiquette de rétention basée sur un événement personnalisé, déclenchant une révision de disposition manuelle à la fin de la période de rétention de l’étiquette, importation de données tierces via des connecteurs de données natifs
 
-Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance permet à un utilisateur de tirer parti de l’application automatique d’étiquettes de rétention basées sur des classifieurs avec apprentissage.
+Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information protection, and Governance, permettent à un utilisateur de tirer parti de l’application automatique d’étiquettes de rétention basées sur des classifieurs de formation.
 
 Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ La gestion des enregistrements aide les organisations à répondre à leurs obli
 
 Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance, Office 365 E5/a5, Office 365 Advanced Compliance fournit les droits nécessaires pour qu’un utilisateur bénéficie de la gestion des enregistrements, notamment la déclaration d’éléments en tant qu’enregistrements, l’application automatique d’étiquettes de rétention ou d’enregistrement et l’exécution de processus de révision de destruction
 
-Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information Protection and Governance permet à un utilisateur de bénéficier de l’application automatique d’étiquettes de rétention ou d’enregistrement basées sur des classifieurs formés.
+Microsoft 365 E5/a5, Microsoft 365 E5/a5 Compliance, Microsoft 365 information protection, and Governance, permettent à un utilisateur de bénéficier de l’application automatique d’étiquettes de rétention ou d’enregistrement basées sur des classifieurs.
 
 Pour obtenir des droits spécifiques par licence, reportez-vous à la comparaison des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -567,7 +567,7 @@ Les administrateurs et les spécialistes de la conformité créent des stratégi
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de conformité de communication. Lors du choix d’un groupe, il peut également sélectionner des utilisateurs spécifiques dans le groupe à exclure de la stratégie de conformité des communications. Pour plus d’informations sur les stratégies de conformité de communication, consultez [la rubrique communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de conformité de communication. Lors du choix d’un groupe, il peut également sélectionner des utilisateurs spécifiques dans le groupe à exclure de la stratégie de conformité des communications. Pour plus d’informations sur les stratégies de conformité des communications, consultez [la rubrique communication compliance in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Gestion des risques internes
 

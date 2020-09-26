@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office pour le Web (anciennement Office Web Apps) ouvre des documents Word, Excel, OneNote et PowerPoint dans votre navigateur Web. Office pour le Web facilite le travail et le partage de fichiers Office depuis n’importe quel endroit avec une connexion Internet, à partir de n’importe quel appareil. Les clients Microsoft 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: dec64054bf9f845e1174c216a0fc87f29437f5b2
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 374fb727c2a9e371707903540fbca10b65b954ee
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616920"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276788"
 ---
 # <a name="office-for-the-web-service-description"></a>Description du service Office pour le web
 
@@ -26,7 +26,7 @@ Pour comparer les fonctionnalités entre les plans, voir [puissants outils perme
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilité des fonctionnalités dans Office pour les plans Web
 
-Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mieux aux besoins de votre organisation ? Les tableaux suivants comparent les fonctionnalités Office de fonctionnalité Web aux applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les tableaux pour découvrir les fonctionnalités disponibles dans Office pour le Web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin de la fonctionnalité de graphique avancée de l’application de bureau Excel, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement des documents Word et des présentations PowerPoint avec Office pour le Web. 
+Vous avez besoin d’aide pour déterminer quelle solution Office correspond le mieux à votre organisation ? Les tableaux suivants comparent les fonctionnalités Office de fonctionnalité Web aux applications de bureau Microsoft Office riches en fonctionnalités. Utilisez les tableaux pour découvrir les fonctionnalités disponibles dans Office pour le Web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin de la fonctionnalité de graphique avancée de l’application de bureau Excel, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement des documents Word et des présentations PowerPoint avec Office pour le Web. 
   
 > [!NOTE]
 >  Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. Les tableaux ne sont pas une liste complète des fonctionnalités de Microsoft Office. <br/>  Microsoft 365 apps pour les entreprises est une offre d’abonnement mensuel à la dernière suite bureautique Office. <br/>  Les clients Microsoft Office Online Server sur site disposent d’une licence de modification Web si elles ont acheté une licence pour la suite bureautique Office (par exemple, une licence pour les applications Office professionnel plus, Office standard ou Microsoft 365 pour Enterprise). 
@@ -36,9 +36,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
   
 ### <a name="word"></a>Word
 
-||||
+| Fonctionnalités de l’application | Word pour le web | Application Word pour ordinateur de bureau |
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**Word pour le web** <br/> |**Application Word pour ordinateur de bureau** <br/> |
 |[Guides d'alignement et disposition dynamique](word-online.md#alignment-guides-and-live-layout) <br/> |Non  <br/> |Oui  <br/> |
 |[Application de styles](word-online.md#apply-styles) <br/> |Oui  <br/> |Oui  <br/> |
 |[Enregistrement automatique](word-online.md#autosave) <br/> |Oui  <br/> |Oui  <br/> |
@@ -112,9 +111,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
   
 ### <a name="excel"></a>Excel
 
-||||
+| Fonctionnalités de l’application | Excel pour le web | Application de bureau Excel |
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**Excel pour le web** <br/> |**Application de bureau Excel** <br/> |
 |[Vérificateur d'accessibilité](excel-online.md#add-hyperlinks) <br/> |Oui  <br/> |Oui  <br/> |
 |[Ajouter une couleur d’arrière-plan aux onglets de feuille](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Oui  <br/> |Oui  <br/> |
 |[Ajout de liens hypertexte](excel-online.md#add-hyperlinks) <br/> |Oui  <br/> |Oui  <br/> |
@@ -197,9 +195,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
   
 ### <a name="onenote"></a>OneNote
 
-||||
+| Fonctionnalités de l’application | OneNote pour le web | Application de bureau OneNote |
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**OneNote pour le web** <br/> |**Application de bureau OneNote** <br/> |
 |[Collaboration avancée : Nouveau contenu affiché comme non lu, présence](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |Non  <br/> |Oui  <br/> |
 |[Application de balises](onenote-online.md#apply-tags) <br/> |Oui  <br/> |Oui  <br/> |
 |[Puces et numérotation](onenote-online.md#bullets-and-numbering) <br/> |Oui  <br/> |Oui  <br/> |
@@ -219,7 +216,7 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
 |[Entrée manuscrite : entrée manuscrite en texte et maths, stylets personnalisables, outils de dessin](onenote-online.md#inking-ink-to-text-and-math-customizable-pens-drawing-tools) <br/> |Non  <br/> |Oui  <br/> |
 |[Affichage des entrées manuscrites](onenote-online.md#ink-viewing) <br/> |Oui  <br/> |Oui  <br/> |
 |[Navigation](onenote-online.md#navigation) <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion du bloc-notes : classement de pages du bloc-notes/sections, réorganisation de section, création/suppression de groupes de sections](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |
+|[Gestion des blocs-notes : classement des pages de section/bloc-notes, section réorganisation, création/suppression de groupes de sections](onenote-online.md#notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups) <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |
 |[Compléments Office](onenote-online.md#office-add-ins) <br/> |Oui<sup>2</sup> <br/> |Oui  <br/> |
 |[Intégration d'Outlook (tâches)](onenote-online.md#outlook-integration-tasks) <br/> |Non  <br/> |Oui  <br/> |
 |[Mise en forme de paragraphe](onenote-online.md#paragraph-formatting) <br/> |Oui  <br/> |Oui  <br/> |
@@ -246,9 +243,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
   
 ### <a name="powerpoint"></a>PowerPoint
 
-||||
+| Fonctionnalités de l’application | PowerPoint pour le web | Application de bureau PowerPoint |
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**PowerPoint pour le web** <br/> |**Application de bureau PowerPoint** <br/> |
 |[Alignement, puces, numéros](powerpoint-online.md#alignment-bullets-numbers) <br/> |Oui  <br/> |Oui  <br/> |
 |[Appliquer des animations et des transitions de base](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |
 |[Appliquer une mise en forme riche pour le texte, des formes et des images](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |Non  <br/> |Oui  <br/> |
@@ -302,9 +298,8 @@ Vous avez besoin d'aide pour déterminer quelle solution Office correspond le mi
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Types de fichiers pris en charge pour Office pour le Web
 
-||||
+| Documents Word créés dans Word 2.0 ou version ultérieure | Mode Affichage | Mode Édition |
 |:-----|:-----|:-----|
-|**Documents Word créés dans Word 2.0 ou version ultérieure** <br/> |**Mode Affichage** <br/> |**Mode Édition** <br/> |
 |Open XML (.docx)  <br/> |Oui  <br/> |Oui  <br/> |
 |Binaire (.doc)  <br/> |Oui  <br/> |Converti en .docx  <br/> |
 |Macro (.docm)  <br/> |Oui<sup>1</sup> <br/> |Oui<sup>1</sup> <br/> |

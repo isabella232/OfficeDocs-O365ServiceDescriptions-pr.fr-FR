@@ -8,29 +8,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Avec Visio pour le Web, vous pouvez afficher, modifier et partager des diagrammes Visio sur le Web.
-ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Comparez les fonctionnalités de Visio pour le Web à l’application de bureau Visio.
+ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131948"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276668"
 ---
 # <a name="visio-for-the-web-service-description"></a>Description du service Visio pour le web
 
 Avec Visio pour le Web, vous pouvez afficher, modifier et partager des diagrammes Visio sur le Web. Commencez par un diagramme simple pour exprimer des idées courantes, par exemple pour décrire un plan, formuler une proposition ou énumérer une suite d'étapes pour un processus. Il est simple et facile de créer des diagrammes de première classe avec des types de diagrammes et des jeux de formes enrichis. Visio pour les utilisateurs Web peut afficher et collaborer en partageant des diagrammes et en insérant des commentaires dans des fichiers chargés sur SharePoint Online ou OneDrive entreprise online.
   
-Pour plus d’informations et pour commencer, reportez-vous à [Visio plan 1](https://products.office.com/en-US/visio/visio-online).
+Pour plus d’informations et pour commencer, reportez-vous à [Visio plan 1](https://products.office.com/visio/visio-online).
   
 Pour obtenir de l’aide lors de l’utilisation de Visio pour le Web, reportez-vous à l' [aide visio & formation](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilité et comparaison des fonctionnalités
 
-Le tableau suivant compare les fonctionnalités de fonctionnalité Web de Visio aux applications de bureau Visio riches en fonctionnalités. Utilisez le tableau pour découvrir les fonctionnalités disponibles dans Visio pour le Web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin des fonctionnalités avancées de l’application de bureau Visio, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement des diagrammes Visio avec Visio pour le Web. 
+Le tableau suivant compare les fonctionnalités de fonctionnalité Web de Visio à l’application de bureau Visio riche en fonctionnalités. Utilisez le tableau pour découvrir les fonctionnalités disponibles dans Visio pour le Web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin des fonctionnalités avancées de l’application de bureau Visio, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement des diagrammes Visio avec Visio pour le Web.<br><br> 
   
-||||
+| Fonctionnalité de l’application | Visio pour le web | Application de bureau Visio |
 |:-----|:-----|:-----|
-|**Fonctionnalités de l'application** <br/> |**Visio pour le web** <br/> |**Application de bureau Visio** <br/> |
 |[Appliquer des formes et une mise en forme enrichie au texte](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Disposer des objets](visio-online.md#arrange-objects) <br/> |Oui  <br/> |Oui  <br/> |
 |[Créer des solutions d'application web hybride](visio-online.md#build-mashup-solutions) <br/> |Oui  <br/> |Oui  <br/> |
@@ -66,9 +65,8 @@ Le tableau suivant compare les fonctionnalités de fonctionnalité Web de Visio 
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Types de fichiers pris en charge dans Visio pour le Web
 
-||||
+| Diagramme Visio créé dans Visio 2010 ou version ultérieure | Mode Affichage | Mode Édition |
 |:-----|:-----|:-----|
-|**Diagrammes Visio créés dans Visio 2010 ou version ultérieure** <br/> |**Mode Affichage** <br/> |**Mode Édition** <br/> |
 |Open XML (.vsdx)  <br/> |Oui  <br/> |Non  <br/> |
 |Binaire (.vsd)  <br/> |Oui  <br/> |Non  <br/> |
 |Macro (.vsdm)  <br/> |Oui  <br/> |Non  <br/> |

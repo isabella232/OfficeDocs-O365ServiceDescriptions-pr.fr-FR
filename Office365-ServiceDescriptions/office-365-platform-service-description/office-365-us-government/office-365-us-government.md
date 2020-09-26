@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux.
-ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fb01c4815536695f8b8ccf4c3d9ef003cd0cb071
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131728"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276775"
 ---
 # <a name="office-365-us-government"></a>Office 365 pour le gouvernement américain
 
@@ -29,9 +29,9 @@ ms.locfileid: "45131728"
 > 
 >Nous vous remercions de votre soutien, car nous nous assurons que nos services restent disponibles et fiables dans ces temps exceptionnels.<br/> 
 
-En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette section fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette section supplémentaire [, ainsi que les descriptions de service de Microsoft 365 et Office 365](../../office-365-service-descriptions-technet-library.md).
+En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cette description de service fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux. Nous vous recommandons de lire cette description de service parallèlement aux autres [descriptions de service Microsoft 365 et Office 365](../../office-365-service-descriptions-technet-library.md).
   
-## <a name="how-to-use-this-service-description"></a>Utilisation de cette description de service
+## <a name="how-to-use-this-service-description"></a>Utilisation de la description de ce service
 
 La description du service Office 365 pour le gouvernement américain est conçue pour servir de superposition à la description de service générale d’Office 365. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
   
@@ -55,13 +55,13 @@ Outre les caractéristiques et les fonctionnalités d'Office 365, les organisati
   
 ## <a name="customer-eligibility"></a>Conditions d’éligibilité des clients
 
-Office 365 pour le gouvernement américain est disponible pour (1) les institutions publiques nationales, régionales, tribales et territoriales des États-Unis, et (2) d'autres entités qui gèrent des données soumises à des réglementations ou des exigences gouvernementales, et qui requièrent l'utilisation d'Office 365 pour le gouvernement américain pour assurer le respect de ces réglementations et exigences, sous réserve d'éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. Office 365 DoD-Environment est destiné à l’usage exclusif du ministère de la défense des États-Unis.
+Office 365 le gouvernement américain est disponible pour (1) les entités américaines Federal, State, local, tribal et territorial territoriale, et (2) d’autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et où l’utilisation d’Office 365 le gouvernement américain est appropriée pour répondre à ces exigences, sous réserve de validation de l’éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. Office 365 DoD-Environment est destiné à l’usage exclusif du ministère de la défense des États-Unis.
   
 Bien que les critères d’éligibilité soient cohérents entre les offres gouvernementales Office 365, Microsoft accepte uniquement les langues de contrat DFARS et ITAR pour l’environnement hautement rapide.
   
 En cas de questions sur ces conditions d'éligibilité pour Office 365 pour le gouvernement américain, les entités sont invitées à consulter leur équipe de compte.
   
-Lors du renouvellement du contrat d'un client pour Office 365 pour le gouvernement américain, les conditions d'éligibilité doivent faire l'objet d'un nouveau contrôle.
+Lors du renouvellement du contrat d’un client pour Office 365 le gouvernement américain, la revalidation de l’éligibilité est requise.
   
 ## <a name="customer-content-located-within-the-united-states"></a>Contenu client situé aux États-Unis
 
@@ -101,18 +101,17 @@ L’intégration se compose des éléments suivants :
 
 Les services d’adoption par les utilisateurs sont composés de tâches qui fournissent des instructions pour vous permettre de vérifier que vos utilisateurs sont informés des services éligibles et peuvent les utiliser pour générer de la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
   
-Vous trouverez des informations spécifiques sur le processus du centre FastTrack [ici](https://aka.ms/whatistheprocess). Pour une répartition des rôles et des responsabilités des engagements, veuillez consulter les [responsabilités de FastTrack](https://aka.ms/whatdoesftcdo) ainsi que [vos responsabilités](https://aka.ms/whatdowedo).
+Vous trouverez des informations spécifiques sur le processus du centre FastTrack [ici](https://aka.ms/whatistheprocess). Pour une répartition des rôles et des responsabilités des engagements, examinez les [responsabilités de FastTrack](https://aka.ms/whatdoesftcdo) , ainsi que [vos responsabilités](https://aka.ms/whatdowedo).
   
 > <sup>1</sup> vous devez acheter au moins 50 licences dans la liste des [offres éligibles](https://aka.ms/whocanbenefit) pour recevoir les services FastTrack.
 <br/><sup>2</sup> les services de migration de données sont disponibles pour les clients Office 365 avec 500 ou plus de licences.
   
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrations de données effectuées par FastTrack
 
-Les clients qui choisissent l’avantage de migration [FastTrack](https://fasttrack.microsoft.com/) devront accorder l’accès à l’équipe qui gère leurs migrations de données. Ces personnes sont des citoyens américains et sont soumises aux tests de base suivants avant d’effectuer des migrations pour les clients d’Office 365 des services publics américains.
+Les clients qui choisissent l’avantage de migration [FastTrack](https://fasttrack.microsoft.com/) devront accorder l’accès à l’équipe qui gère leurs migrations de données. Ces personnes sont des citoyens américains et sont soumises aux tests de base suivants avant d’effectuer des migrations pour les clients d’Office 365 des services publics américains.<br><br>
   
-||||
+| Filtrage des antécédents  | GCC | GCC High et DoD |
 |:-----|:-----|:-----|
-|**Filtrage en arrière-plan** <br/> |**GCC** <br/> |**GCC High et DoD** <br/> |
 |Vérification de la citoyenneté américaine  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification de l’historique des emplois  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification de l’éducation  <br/> |Oui  <br/> |Oui  <br/> |
@@ -137,13 +136,12 @@ Pour plus d’informations sur le centre de sécurité &amp; conformité et des 
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilité des services pour chaque plan
 
-Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant présente les services disponibles dans chaque plan Office 365 pour le gouvernement américain.
+Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant présente les services disponibles dans chaque plan Office 365 pour le gouvernement américain.<br><br>
   
-||||||
+| Service Office 365 | Office 365 pour le gouvernement G1 | Office 365 pour le gouvernement G3 | Office 365 Secteur Public G5 | Office 365 gouvernement F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**Services Office 365** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
 |Office pour le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Microsoft 365 Apps for enterprise  <br/> |Non <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
+|Applications Microsoft 365 for entreprise  <br/> |Non <br/> |Oui <br/> |Oui <br/> |Non  <br/> |
 |Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Exchange Online Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |SharePoint Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -164,11 +162,10 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 
 ## <a name="platform-features"></a>Fonctionnalités de la plateforme 
 
-Le tableau suivant répertorie les fonctionnalités et les services de la plateforme disponibles dans les plans Office 365 pour le gouvernement américain.
+Le tableau suivant répertorie les fonctionnalités et les services de la plateforme disponibles dans les plans Office 365 pour le gouvernement américain.<br><br>
   
-||||||
+| Fonctionnalité | Office 365 pour le gouvernement G1 | Office 365 pour le gouvernement G3 | Office 365 Secteur Public G5 | Office 365 gouvernement F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
 |**Administration d'Office 365** <br/> |||||
 |Utiliser le centre d’administration Microsoft 365 pour administrer Office 365  <br/> |Oui<sup>16</sup> <br/> |Oui<sup>16</sup> <br/> |Oui  <br/> |Oui<sup>16</sup> <br/> |
 |Gestion des paramètres de service principal à partir d'Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -199,9 +196,9 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Téléchargement en bloc à l'aide de fichiers .csv  <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui  <br/> |Oui<sup>9</sup> <br/> |
 |Outil de synchronisation d'annuaires  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Migration Exchange (à basculement) simple  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Supprimer des comptes à l'aide d'Office 365  <br/> |Oui <sup>3</sup> <br/> |Oui <sup>3</sup> <br/> |Oui <sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |
-|L'administrateur peut réinitialiser le mot de passe de l'utilisateur dans Office 365 ou à l'aide de Windows PowerShell  <br/> |Oui <sup>4</sup> <br/> |Oui <sup>4</sup> <br/> |Oui <sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
-|Les utilisateurs peuvent modifier leur mot de passe  <br/> |Oui <sup>5</sup> <br/> |Oui <sup>5</sup> <br/> |Oui <sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |
+|Supprimer des comptes à l'aide d'Office 365  <br/> |Oui<sup>3</sup> <br/> |Oui <sup>3</sup> <br/> |Oui <sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |
+|L'administrateur peut réinitialiser le mot de passe de l'utilisateur dans Office 365 ou à l'aide de Windows PowerShell  <br/> |Oui<sup>4</sup> <br/> |Oui <sup>4</sup> <br/> |Oui <sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
+|Les utilisateurs peuvent modifier leur mot de passe  <br/> |Oui<sup>5</sup> <br/> |Oui <sup>5</sup> <br/> |Oui <sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |
 |Gestion des licences  <br/> |Oui<sup>7, 8</sup> <br/> |Oui<sup>7, 8</sup> <br/> |Oui<sup>7, 8</sup> <br/> |Oui<sup>7, 8</sup> <br/> |
 |Gérer les groupes de sécurité dans Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Plusieurs rôles d'administrateur disponibles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -306,12 +303,11 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
   
 ## <a name="office-application-availability-and-enterprise-value"></a>Disponibilité de l’application Office et valeur entreprise
 
-Le tableau suivant présente les fonctionnalités de l'application Office disponibles dans les plans Office 365 pour le gouvernement américain.
+Le tableau suivant présente les fonctionnalités de l'application Office disponibles dans les plans Office 365 pour le gouvernement américain.<br><br>
   
-||||||
+| Application/fonctionnalité | Office 365 pour le gouvernement G1 | Office 365 pour le gouvernement G3 | Office 365 Secteur Public G5 | Office 365 gouvernement F3 |
 |:-----|:-----|:-----|:-----|:-----|
-|**Fonctionnalité** <br/> |**Office 365 Secteur Public G1** <br/> |**Office 365 pour le gouvernement G3** <br/> |**Office 365 Secteur Public G5** <br/> |**Office 365 gouvernement F3** <br/> |
-|**Applications Office** <br/> |||||
+| **Applications Office** |||||
 |[Microsoft Word](../../office-applications-service-description/office-applications.md#microsoft-word)<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Microsoft Excel](../../office-applications-service-description/office-applications.md#microsoft-excel)<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Microsoft PowerPoint](../../office-applications-service-description/office-applications.md#microsoft-powerpoint)<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -370,27 +366,27 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>Disponibilité des fonctionnalités et des applications Office dans les plans gouvernementaux
 
-Les applications Office suivantes sont disponibles dans les nuages des gouvernements ; Toutefois, certaines fonctionnalités basées sur le Cloud peuvent ne pas être disponibles actuellement, comme indiqué dans le tableau.
+Les applications Office suivantes sont disponibles dans les nuages des gouvernements ; Toutefois, certaines fonctionnalités basées sur le Cloud peuvent ne pas être disponibles actuellement, comme indiqué dans le tableau.<br><br>
 
-|||||
+| Application/fonctionnalité | GCC | GCC High | DOD |
 |-----|-----|-----|-----|
-|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui **ne sont** pas disponibles pour le moment : ||||
 |animations 3D incorporées et modèles 3D | Non <br/> | Non <br/> | Non <br/> |
 |Types de données | Non <br/> | Non <br/> | Non <br/> |
 |Remplissage instantané | Non <br/> | Non <br/> | Non <br/> |
 |Idées (Insight services) | Non <br/> | Non <br/> | Non <br/> |
-|Intégration améliorée avec PowerBI (éléments visuels personnalisés, créer des graphiques PBI directement à partir d’Excel) | Non <br/> | Non <br/> | Non <br/> |
+|Intégration améliorée avec Power BI (éléments visuels personnalisés, créer des graphiques PBI directement à partir d’Excel) | Non <br/> | Non <br/> | Non <br/> |
 |Entrée manuscrite numérique intelligente | Non <br/> | Non <br/> | Non <br/> |
 |Groupes Office 365 | Non <br/> | Non <br/> | Non <br/> |
 |Données graphiques croisés dynamiques connectées à des tableaux croisés | Non <br/> | Non <br/> | Non <br/> |
 |PowerPivot | Non <br/> | Non <br/> | Non <br/> |
-|Publier sur PowerBI | Non <br/> | Non <br/> | Non <br/> |
+|Publier sur Power BI | Non <br/> | Non <br/> | Non <br/> |
 |Collaboration en temps réel (présence, co-création régulière, conversation en document) | Non <br/> | Non <br/> | Non <br/> |
 |Shared with Me | Non <br/> | Non <br/> | Non <br/> |
 |Recherche intelligente | Non <br/> | Non <br/> | Non <br/> |
 |Graphiques : compartimentage de soleil, cascade, histogramme, cartes, chronologie, entonnoir | Non <br/> | Non <br/> | Non <br/> |
 |Historique des versions | Non <br/> | Non <br/> | Non <br/> |
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) est entièrement disponible dans les clouds gouvernementaux, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) est entièrement disponible dans les clouds gouvernementaux, à l’exception des fonctionnalités suivantes, qui **ne sont** pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Notification par courrier électronique | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> | 
 |Insérer une image | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> |
 |Insérer une vidéo | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | Non <br/> |
@@ -399,14 +395,14 @@ Les applications Office suivantes sont disponibles dans les nuages des gouvernem
 |Formulaires de groupe les plus récents | N °<sup>4</sup> <br/> | Oui <br/> | Oui <br/> |
 |Partage externe <sup>3</sup> | Oui <br/> | Non <br/> | Non <br/> |
 |Forms Pro | Non | Non | Non |
-|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui **ne sont** pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Recherche | Non <br/> | Non <br/> | Non <br/> |
 |Entrée manuscrite numérique intelligente | Non <br/> | Non <br/> | Non <br/> |
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui **ne sont** pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Sons Office (Some) | Non <br/> | Non <br/> | Non <br/> |
 |Échange dynamique de données (DDE) désactivé par défaut | Non <br/> | Non <br/> | Non <br/> |
 |Dictée | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> | N °<sup>1</sup> <br/> |
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui **ne sont** pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Recherche intelligente | Non <br/> | Non <br/> | Non <br/> |
 |Sons Office (Some) | Non <br/> | Non <br/> | Non <br/> |
 |modèles 3D et animations incorporées 3D | Non <br/> | Non <br/> | Non <br/> |
@@ -432,7 +428,7 @@ Les applications Office suivantes sont disponibles dans les nuages des gouvernem
 |Présence en temps réel | Non <br/> | Non <br/> | Non <br/> |
 |Réactions sur le contenu | Non <br/> | Non <br/> | Non <br/> |
 |Galerie de tableaux blancs, notamment partagés avec vous | Non <br/> | Non <br/> | Non <br/> |
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) est entièrement disponible dans les nuages du gouvernement, à l’exception des fonctionnalités suivantes, qui **ne sont** pas disponibles pour le moment : | **GCC** <br/> | **GCC High** <br/> | **DOD** <br/> |
 |Recherche intelligente | Non <br/> | Non <br/> | Non <br/> |
 |Recherche | Non <br/> | Non <br/> | Non <br/> |
 |Sons Office  | Non <br/> | Non <br/> | Non <br/> |
