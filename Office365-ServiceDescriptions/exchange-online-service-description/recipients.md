@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5156272ea444414b8da650cf294f99bdfb8b4081
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132638"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293860"
 ---
 # <a name="recipients"></a>Destinataires
 
@@ -57,7 +57,7 @@ Exchange Online autorise des utilisateurs à créer des règles de boîte de ré
   
 ### <a name="clutter"></a>Courrier non trié
 
-La fonctionnalité de courrier non trié est conçue pour vous aider à vous concentrer sur les messages les plus importants dans votre boîte de réception. Elle utilise Machine Learning pour désencombrer votre boîte de réception en déplaçant les messages à priorité faible dans un nouveau dossier appelé Courrier basse priorité. La fonctionnalité de courrier non trié respecte vos règles de courrier électronique existantes. Ainsi, si vous avez créé des règles pour organiser vos messages électroniques, celles-ci continuent de s'appliquer et la fonctionnalité de courrier non trié n'effectuera aucune action sur ces messages. Le courrier non trié est désactivé par défaut pour votre boîte de réception. Pour plus d'informations, voir [Désencombrement de votre boîte aux lettres dans Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
+La fonctionnalité de courrier non trié est conçue pour vous aider à vous concentrer sur les messages les plus importants dans votre boîte de réception. Elle utilise Machine Learning pour désencombrer votre boîte de réception en déplaçant les messages à priorité faible dans un nouveau dossier appelé Courrier basse priorité. La fonctionnalité de courrier non trié respecte vos règles de courrier électronique existantes. Ainsi, si vous avez créé des règles pour organiser vos messages électroniques, celles-ci continuent de s'appliquer et la fonctionnalité de courrier non trié n'effectuera aucune action sur ces messages. Le courrier non trié est désactivé par défaut pour votre boîte de réception. Pour plus d'informations, voir [Désencombrement de votre boîte aux lettres dans Office 365](https://go.microsoft.com/fwlink/?linkid=2144145).
   
 ### <a name="connected-accounts"></a>Comptes connectés
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 et Office 365 sont des services en nuage conçus pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs.
-ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131458"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294180"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descriptions des services Microsoft 365 et Office 365 
 
@@ -26,7 +26,7 @@ Microsoft 365 et Office 365 sont des services en nuage conçus pour répondre au
   
 Les rubriques de cette bibliothèque décrivent en détail les services et les fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour comparer les fonctionnalités entre les plans, consultez la rubrique [outils puissants pour prendre en charge votre entreprise](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou la description de service appropriée dans la liste ci-dessous. 
   
-Pour obtenir des articles et des informations de support technique, consultez [l’aide office & formation](https://support.office.com/), [la documentation Office pour les administrateurs et les professionnels de l’informatique](https://docs.microsoft.com/office/), ainsi que [le centre d’aide de Microsoft 365 pour les administrateurs et les professionnels de l’informatique](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide).
+Pour obtenir des articles et des informations de support technique, consultez [l’aide office & formation](https://support.office.com/), [la documentation Office pour les administrateurs et les professionnels de l’informatique](https://docs.microsoft.com/office/), ainsi que [le centre d’aide de Microsoft 365 pour les administrateurs et les professionnels de l’informatique](https://docs.microsoft.com/microsoft-365/).
   
 > [!NOTE]
 > Si vous recherchez la feuille de calcul de comparaison de description de service, elle a été retirée. Les tableaux de disponibilité des fonctionnalités des produits sur chaque page de description de service ont été mis à jour pour vous aider à choisir la version d’Office 365 qui répond à vos besoins. 
@@ -84,7 +84,7 @@ Pour commencer, lisez les descriptions suivantes :
 > [!NOTE]
 > <sup>1</sup> Inclut la disponibilité des [fonctionnalités de la suite](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), telles qu'Office Delve, Microsoft MyAnalytics, Microsoft Sway et Microsoft Teams.
   
-## <a name="disclaimer"></a>Clause d’exclusion
+## <a name="disclaimer"></a>Clause d’exclusion de responsabilité
 
-&copy;2018 Microsoft Corporation. Tous droits réservés. Microsoft, Office 365 et d'autres noms de produits et de services sont ou peuvent être des marques déposées et/ou des marques commerciales aux États-Unis et/ou dans d'autres pays. Les informations contenues dans ce document sont fournies uniquement à titre d'information et représentent la vision actuelle de Microsoft Corporation à la date de sa dernière publication ou révision. Elles ne constituent pas un contrat de service et n'engagent en aucun cas Microsoft ou le client quant aux caractéristiques, fonctionnalités ou responsabilités mentionnées dans ce document. MICROSOFT EXCLUT TOUTE GARANTIE, EXPRESSE, IMPLICITE OU LÉGALE, RELATIVE AUX INFORMATIONS CONTENUES DANS CE DOCUMENT.
+&copy; 2018 Microsoft Corporation. Tous droits réservés. Microsoft, Office 365 et d'autres noms de produits et de services sont ou peuvent être des marques déposées et/ou des marques commerciales aux États-Unis et/ou dans d'autres pays. Les informations contenues dans ce document sont fournies uniquement à titre d'information et représentent la vision actuelle de Microsoft Corporation à la date de sa dernière publication ou révision. Il n’est pas destiné à être un contrat de service et ne valide pas Microsoft ou le client pour les fonctionnalités, les fonctionnalités ou les responsabilités mentionnées dans le présent document. MICROSOFT EXCLUT TOUTE GARANTIE, EXPRESSE, IMPLICITE OU LÉGALE, RELATIVE AUX INFORMATIONS CONTENUES DANS CE DOCUMENT.
  

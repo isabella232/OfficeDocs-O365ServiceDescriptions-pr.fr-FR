@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Lisez cet article pour en savoir plus sur les fonctionnalités de conformité disponibles dans l’archivage Microsoft Exchange Online.
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132738"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293620"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans l’archivage Exchange Online
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité dans l'archivage Exchange Online
 
-Les sections suivantes décrivent les fonctionnalités de conformité de Microsoft Archivage Exchange Online.
+Cet article décrit les fonctionnalités de conformité de Microsoft Exchange Online Archiving.
   
 ### <a name="retention-policies"></a>Stratégies de rétention
 
@@ -31,7 +32,7 @@ L'Archivage Exchange Online offre deux types de stratégies : archiver et suppri
   
 Avec Outlook 2010 et versions ultérieures et Outlook sur le Web, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels et peuvent également afficher les stratégies de rétention appliquées et les dates de suppression attendues sur les messages. Les utilisateurs des autres clients de messagerie peuvent également faire supprimer ou archiver des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur, mais ils ne bénéficient pas du même niveau de visibilité et de contrôle.
   
-Les fonctionnalités de stratégie de rétention disponibles dans Archivage Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 (SP2) et versions ultérieures. Les administrateurs peuvent gérer les stratégies de rétention à partir des environnements locaux Exchange Server 2010 et versions ultérieures. Les dossiers gérés, ancienne approche de la gestion des enregistrements de messagerie qui a été introduite dans Exchange 2007, ne sont pas disponibles dans l'archivage Exchange Online et sont incompatibles. Pour en savoir plus, consultez la rubrique [Balises et stratégies de rétention dans Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+Les fonctionnalités de stratégie de rétention disponibles dans Archivage Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 (SP2) et versions ultérieures. Les administrateurs peuvent gérer les stratégies de rétention à partir des environnements locaux Exchange Server 2010 et versions ultérieures. Les dossiers gérés, ancienne approche de la gestion des enregistrements de messagerie qui a été introduite dans Exchange 2007, ne sont pas disponibles dans l'archivage Exchange Online et sont incompatibles. Pour plus d'informations, reportez-vous à la rubrique [Balises et stratégies de rétention](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Archive permanente et mise en attente pour litige
 
@@ -67,7 +68,7 @@ Pour plus d'informations, consultez la rubrique [Conservation inaltérable et co
   
 ### <a name="in-place-ediscovery"></a>Découverte électronique locale
 
-L'Archivage Exchange Online prend en charge la fonction eDiscovery inaltérable pour rechercher les contenus des boîtes aux lettres dans une organisation. Avec le Centre d'administration Exchange ou Windows PowerShell à distance à partir d'un serveur Exchange 2013 local, les administrateurs ou les gestionnaires de découverte autorisés peuvent rechercher dans une boîte aux lettres toutes sortes d'éléments, notamment des e-mails, des pièces jointes, des rendez-vous, des tâches et des contacts. La fonction eDiscovery inaltérable vous permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le récepteur, le type de message, la date d'envoi, la date de réception, la copie carbone et la copie carbone invisible, ainsi que la syntaxe Keyword Query Language (KQL). Pour en savoir plus, consultez la rubrique [Découverte électronique locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+L'Archivage Exchange Online prend en charge la fonction eDiscovery inaltérable pour rechercher les contenus des boîtes aux lettres dans une organisation. Avec le Centre d'administration Exchange ou Windows PowerShell à distance à partir d'un serveur Exchange 2013 local, les administrateurs ou les gestionnaires de découverte autorisés peuvent rechercher dans une boîte aux lettres toutes sortes d'éléments, notamment des e-mails, des pièces jointes, des rendez-vous, des tâches et des contacts. La fonction eDiscovery inaltérable vous permet d'effectuer une recherche simultanément dans les archives et les boîtes aux lettres principales. Les fonctionnalités de filtrage avancé incluent l'expéditeur, le récepteur, le type de message, la date d'envoi, la date de réception, la copie carbone et la copie carbone invisible, ainsi que la syntaxe Keyword Query Language (KQL). Pour plus d'informations, voir [Découverte électronique locale](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
 Le Centre d'administration Exchange et Windows PowerShell à distance vous permettent d'explorer jusqu'à 5 000 boîtes aux lettres à la fois lors d'une recherche eDiscovery inaltérable. Pour en savoir plus sur l'utilisation de Windows PowerShell à distance pour exécuter des recherches eDiscovery inaltérable, consultez la rubrique [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
@@ -119,9 +120,9 @@ Les messages protégés par la Gestion des droits relatifs à l'information (IRM
 
 L'Archivage Exchange Online fournit deux types de fonctionnalités d'audit intégrées :
   
-- **Journalisation d'audit de l'administrateur** La journalisation d'audit de l'administrateur permet aux clients de suivre les modifications apportées par leurs administrateurs dans l'environnement d'Archivage Exchange Online, notamment les modifications aux rôles RBAC ou aux stratégies et paramètres d'Exchange. 
+- **Journalisation d’audit** de l’administrateur : la journalisation d’audit de l’administrateur permet aux clients de suivre les modifications apportées par leurs administrateurs dans l’environnement d’archivage Exchange Online, y compris les modifications apportées aux rôles RBAC ou aux stratégies et paramètres Exchange. 
     
-- **Journalisation d'audit de boîte aux lettres** La journalisation d'audit de boîte aux lettres permet aux clients de suivre l'accès aux boîtes aux lettres par les utilisateurs autres que le propriétaire de la boîte aux lettres. 
+- **Journalisation d’audit de boîte** aux lettres : l’enregistrement d’audit de boîte aux lettres permet aux clients de suivre l’accès aux boîtes aux lettres par des utilisateurs autres que le propriétaire de la boîte 
     
 Plusieurs rapports d'audit prédéfinis sont disponibles dans le centre d'administration Exchange, notamment Modifications de rôles d'administrateur, Mise en attente pour litige et Accès à des boîtes aux lettres par des non-propriétaires. Les administrateurs peuvent filtrer les rapports par date et par rôle, et peuvent exporter tous les événements d'audit pour les boîtes aux lettres spécifiées au format XML pour une rétention à long terme ou une génération de rapports personnalisés.
   

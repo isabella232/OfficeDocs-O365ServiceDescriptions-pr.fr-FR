@@ -1,5 +1,5 @@
 ---
-title: Stratégie et conformité de messagerie
+title: Stratégie et conformité de la messagerie dans Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Lisez cet article pour en savoir plus sur les fonctionnalités de stratégie et de conformité de messagerie dans Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132788"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293800"
 ---
-# <a name="messaging-policy-and-compliance"></a>Stratégie et conformité de messagerie
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Stratégie et conformité de la messagerie dans Exchange Online Protection
 
 Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
 
@@ -65,7 +65,7 @@ Le chiffrement de messages Office 365, qui fait partie d’Azure information pro
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
 
-|**Fonctionnalité**|**EOP autonome**|**Fonctionnalités EOP dans <br/> Exchange Online**|**<br/>Licence d’accès client Exchange Enterprise avec services**|
+| Fonctionnalité | EOP autonome | Fonctionnalités EOP dans <br/> Exchange Online | Entreprise Exchange <br/> CAL avec services |
 |:-----|:-----|:-----|:-----|
 |Règles de flux de messagerie|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1, 3</sup>|
 |Journalisation d'audit|Oui<sup>2</sup>|Oui|Oui|

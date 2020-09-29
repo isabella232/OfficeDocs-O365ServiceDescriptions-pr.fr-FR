@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word pour le Web (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur Web, dans laquelle vous pouvez utiliser des documents directement sur le site Web où le document est stocké.
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616910"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294050"
 ---
 # <a name="word-for-the-web"></a>Word pour le web
 
@@ -40,7 +40,7 @@ Vous pouvez obtenir un complément pour Word à partir de l'Office Store. Les co
 
 Word pour le Web enregistre automatiquement votre document lorsque vous effectuez des modifications.
   
-## <a name="autotext"></a>AutoText
+## <a name="autotext"></a>Insertion automatique
 
 Vous pouvez insérer des blocs de texte préformaté à l'aide de contenu issu de votre galerie d'insertion automatique. Cela est utile, par exemple, lorsque vous devez entrer un grand bloc de texte plusieurs fois et que celui-ci contient un grand nombre de mises en forme. Pour créer des insertions automatiques, vous devez ajouter du texte sélectionné à la galerie Insertion automatique. Pour en savoir plus, consultez la rubrique [Insérer automatiquement du texte](https://go.microsoft.com/fwlink/?linkid=846739).
   
@@ -160,7 +160,7 @@ Insérez des sauts de page dans Word pour le Web et dans l’application Word de
 
 Avec Word pour le Web, vous pouvez ajuster les marges, la taille du papier et indiquer si la page est disposée verticalement ou horizontalement dans vos documents. Word pour le Web n’affiche pas de règles ni de quadrillage. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
-Découvrez comment [supprimer une page vierge dans Word pour le Web](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1).
+Découvrez comment [supprimer une page vierge dans Word pour le Web](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1).
   
 ## <a name="page-layout-tools-advanced"></a>Outils de mise en page, avancé
 
@@ -234,7 +234,7 @@ Avec Word pour le Web, vous pouvez enregistrer une copie du document localement.
 
 Vous pouvez utiliser Word pour le Web pour enregistrer ou convertir vos fichiers au format PDF afin de pouvoir les partager ou les imprimer à l’aide d’imprimantes professionnelles. Aucun autre logiciel ou complément n'est nécessaire.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Partager
 
 Avec Word pour le Web, il s’agit d’un processus en un clic pour l’envoi d’un lien que les autres utilisateurs peuvent utiliser pour afficher ou modifier le document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans les entités américaines Federal, State, local, tribal ou territoriale territoriale ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962133"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293870"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité de Microsoft 365 (GCC)
 
@@ -62,9 +62,9 @@ Nous vous recommandons de prendre le temps de vérifier soigneusement vos param�
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 gouvernement – GCC<sup>1</sup>
 
-Pour répondre aux exigences de nos clients Cloud au niveau public, il existe certaines différences entre les plans d’entreprise et les forfaits Microsoft 365 Government. Consultez le tableau suivant pour voir les fonctionnalités disponibles.
+Pour répondre aux exigences de nos clients Cloud au niveau public, il existe certaines différences entre les plans d’entreprise et les forfaits Microsoft 365 Government. Consultez le tableau suivant pour voir les fonctionnalités disponibles.<br><br>
 
-|                                         | **Fonctionnalité**                                     | **État GCC**         |
+| Domaine | Fonctionnalité | État GCC |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protection des informations**              | Étiquettes de confidentialité et d’étiquetage unifiées         | Available              |
 |                                         | Étiquettes de conteneur pour SharePoint Online, groupes Office          | En cours de déploiement              |
@@ -106,7 +106,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Explorateur d’activité des étiquettes | Dans le backlog d’ingénierie |
 |                                         | Classifieurs entraînables | Dans le backlog d’ingénierie |
 |                                         | Étiquettes de confidentialité et d’étiquetage unifiées         | Dans le backlog d’ingénierie |
-| **Gestion des risques internes**             | Référentiel sécurisé client                                | Available            |
+| **Gestion des risques initiés**             | Référentiel sécurisé client                                | Available            |
 |                                         | Indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de déploiement |
 |                                         | Vol de données en faisant part des utilisateurs                        | En cours de déploiement |
 |                                         | Fuites de données générales                                | En cours de déploiement              |

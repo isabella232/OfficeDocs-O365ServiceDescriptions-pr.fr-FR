@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à leurs boîtes aux lettres d’archivage à partir de plusieurs appareils et plateformes. Toute la connectivité réseau à l’archive de l’utilisateur se produit sur Internet, et les connexions de réseau privé virtuel (VPN) ne sont pas requises. Les organisations peuvent publier un serveur d'accès au client local pour permettre aux utilisateurs d'accéder à leur boîte aux lettres principale à l'aide d'Outlook Anywhere, sans nécessiter de connexion VPN. Si un accès VPN est requis pour accéder à la boîte aux lettres principale de l'utilisateur située sur un serveur local, cette exigence ne change pas.
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: Lisez cet article pour en savoir plus sur les fonctionnalités client disponibles dans l’archivage Microsoft Exchange Online.
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255901"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293636"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Fonctionnalités client dans l’archivage Exchange Online
 
@@ -29,8 +29,8 @@ Microsoft Exchange Online Archiving permet aux utilisateurs de se connecter à l
 
 Microsoft Outlook est un programme riche de messagerie électronique qui inclut la prise en charge du calendrier, des contacts et de tâches. Archivage Exchange Online prend en charge Outlook 2013, Outlook 2010 et Outlook 2007. Les fonctionnalités clés incluent :
   
-- **Outlook Anywhere** Outlook Anywhere permet aux utilisateurs d’Outlook de se connecter à Exchange Server et à l’archivage Exchange Online sur Internet sans avoir besoin d’une connexion VPN. La communication entre Outlook et Archivage Exchange Online se fait via un tunnel SSL sécurisé, à l'aide du composant réseau Windows RPC sur HTTP.    
-- **Découverte automatique** Le service de découverte automatique Exchange configure automatiquement Outlook pour qu'il fonctionne avec Archivage Exchange Online. La découverte automatique permet aux utilisateurs d’Outlook de recevoir les paramètres de profil requis directement à partir d’Exchange la première fois (et à intervalles réguliers par la suite) qu’ils se connectent avec leur adresse de messagerie et leur mot de passe. 
+- **Outlook Anywhere** -Outlook Anywhere permet aux utilisateurs d’Outlook de se connecter à Exchange Server et à l’archivage Exchange Online sur Internet sans avoir besoin d’une connexion VPN. La communication entre Outlook et Archivage Exchange Online se fait via un tunnel SSL sécurisé, à l'aide du composant réseau Windows RPC sur HTTP.    
+- **Découverte** automatique : le service de découverte automatique Exchange configure automatiquement Outlook pour qu’il fonctionne avec l’archivage Exchange Online. La découverte automatique permet aux utilisateurs d’Outlook de recevoir les paramètres de profil requis directement à partir d’Exchange la première fois (et à intervalles réguliers par la suite) qu’ils se connectent avec leur adresse de messagerie et leur mot de passe. 
 
 Outlook 2010 et versions ultérieures et Outlook sur le Web fournissent aux utilisateurs les fonctionnalités complètes de l’archive, ainsi que des fonctionnalités associées telles que les stratégies de rétention et d’archivage.
   
@@ -41,9 +41,9 @@ Outlook 2007 propose une prise en charge simple de l'archive, mais toutes les fo
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clients pris en charge par l’archivage Exchange Online
 
-Le tableau ci-dessous répertorie les clients pris en charge par Archivage Exchange Online:
+Le tableau ci-dessous répertorie les clients pris en charge par Archivage Exchange Online:<br><br>
   
-|**Client**|**Prise en charge de l'archivage Exchange Online**|
+| Client | Prise en charge EOA |
 |:-----|:-----|
 |Outlook 2013 et versions ultérieures  <br/> |Prend en charge les dernières fonctionnalités dans Archivage Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2010  <br/> |Prend en charge les dernières fonctionnalités dans l’archivage Exchange Online uniquement jusqu’à octobre 13, 2020|

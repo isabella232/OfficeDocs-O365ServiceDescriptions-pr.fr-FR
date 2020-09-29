@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients Cloud du gouvernement américain.
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42174998"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294190"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint pour les environnements gouvernementaux américains
 
@@ -40,7 +40,7 @@ Il n’existe pas de différences connues entre les fonctionnalités de dévelop
 - Les connexions aux applications externes telles que les sources de données pour les compléments sont limitées aux sources situées dans les limites de sécurité système prises en charge par votre environnement gouvernemental.
 - La fonctionnalité Business Connectivity Services (BCS) est prise en charge pour les scénarios de connectivité dans lesquels les sources de données restent accessibles dans la limite de sécurité pour votre service Cloud.
 
-Si vous utilisez des applications tierces sur les sites, passez en revue les déclarations de confidentialité et de conformité fournies par les tiers lors de l’évaluation de l’utilisation appropriée de ces services pour votre organisation. Les applications et services tiers peuvent impliquer le stockage, la transmission et le traitement des données client de votre organisation sur des systèmes tiers qui se trouvent en dehors du nuage du gouvernement et qui ne sont donc pas couverts par sa conformité et la protection des données. engagements. 
+Si vous utilisez des applications tierces sur les sites, passez en revue les déclarations de confidentialité et de conformité fournies par les tiers lors de l’évaluation de l’utilisation appropriée de ces services pour votre organisation. Les applications et services tiers peuvent impliquer le stockage, la transmission et le traitement des données client de votre organisation sur des systèmes tiers qui se trouvent en dehors du nuage du gouvernement et qui ne sont donc pas couverts par ses engagements en matière de protection des données et de conformité. 
 
 ## <a name="it-admin-features"></a>Fonctionnalités d’administration informatique
 
@@ -59,11 +59,11 @@ Pour plus d’informations sur la migration FastTrack, voir la [Description du s
 Il n’existe pas de différences connues entre les fonctionnalités de sécurité et de conformité pour les clients commerciaux et celles destinées aux clients Cloud du secteur public.
 
 Pour plus d’informations sur les fonctionnalités suivantes, voir la [Description du service Office 365 pour le gouvernement américain](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features):
-- Référentiel sécurisé de client
+- Référentiel sécurisé client
 - Protection contre la perte de données (DLP)
 - Découverte électronique (recherche de contenu, conservation, exportation)
-- Office 365 Advanced Threat Protection (ATP)
-- Étiquettes de niveau de confidentialité
+- Office 365 – Protection avancée contre les menaces (ATP)
+- Étiquettes de confidentialité
 
 Pour plus d’informations sur les fonctionnalités Azure Active Directory pour le gouvernement, consultez [la rubrique Azure Government Security + Identity documentation](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
 
@@ -95,4 +95,4 @@ Votre migration vers le Cloud offre des expériences de transformation avec les 
 
 Une fois que vous avez configuré votre organisation dans le Cloud Microsoft USA Government, suivez le chemin de déploiement recommandé décrit dans le [Centre de ressources d’adoption de SharePoint](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/). N’hésitez pas à vous engager dans votre adoption et les champions responsables de la gestion des modifications.
 Vous pouvez également utiliser [FastTrack](https://www.microsoft.com/fasttrack) ou le partenaire que vous avez choisi pour déployer le service auprès de vos utilisateurs.
-Visitez le [Centre](https://www.microsoft.com/en-us/trust-center) de gestion de la confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, les principes fondamentaux concernant la façon dont nous aidons les organisations à répondre à leurs clients.
+Visitez le [Centre](https://www.microsoft.com/trust-center) de gestion de la confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, les principes fondamentaux concernant la façon dont nous aidons les organisations à répondre à leurs clients.

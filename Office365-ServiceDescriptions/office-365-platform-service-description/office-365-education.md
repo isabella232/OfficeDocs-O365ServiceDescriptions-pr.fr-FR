@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de communication et de collaboration de nouvelle génération de Microsoft, &mdash; y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online &mdash; pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: feb7ce1db3b904218a0a4a9df994cb8500cfd2ca
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214373"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293880"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -138,7 +138,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -202,7 +202,7 @@ Le [Centre de sécurité &amp; conformité](https://docs.microsoft.com/microsoft
 |[Gestion des menaces](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats), telles que le filtrage du courrier électronique et anti-programme malveillant  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion avancée des menaces](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti), telle que l’Explorateur de menaces pour les campagnes de hameçonnage <sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |Non  <br/> |Non  <br/> |Oui  <br/> |
-|[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Gestion des appareils mobiles](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Protection contre la perte de données](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance des données](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gouvernance avancée des données](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
@@ -426,7 +426,7 @@ Découvrez les limites d’Exchange Online pour plusieurs types de service, nota
   
 > [!NOTE]
 > Si vous avez besoin d’aide sur une tâche ou si vous résolvez un problème, les articles suivants pourront peut-être vous être utiles :<br/> 
-> - [Courrier électronique](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) pour obtenir de l’aide pour la création et l’envoi de courrier électronique. 
+> - [Courrier électronique](https://support.office.com/article/94275804-7147-4332-9ccd-5d421760a9ed) pour obtenir de l’aide pour la création et l’envoi de courrier électronique. 
 >- [Courrier électronique dans Office 365 pour les entreprises - Aide de l'administrateur](https://docs.microsoft.com/microsoft-365/admin/email/)
 >- [Tailles limites des messages](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
 >- [Résoudre les problèmes liés à Outlook et à Office 365 avec l’Assistant support et récupération Microsoft pour Office 365](https://diagnostics.office.com/)
@@ -574,7 +574,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
   
 #### <a name="message-limits"></a>Limites concernant les messages
 
-- **Limite de taille** des messages-les limites de taille de message sont nécessaires pour empêcher les messages volumineux de bloquer la remise d’autres messages et affecter les performances de service pour tous les utilisateurs. Ces limites concernent aussi les pièces jointes, et s'appliquent à toute l'organisation pour tous les messages (entrants, sortants et internes). Les messages qui dépassent cette limite ne sont pas remis, et l'expéditeur reçoit une notification d'échec de remise. Bien qu'il ne soit pas possible de configurer des limites de taille de message en les augmentant, en les diminuant ou en les définissant en fonction de l'utilisateur, les administrateurs peuvent créer des règles de transport pour limiter la taille maximale d'une pièce jointe particulière. Pour en savoir plus, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite de taille** des messages-les limites de taille de message sont nécessaires pour empêcher les messages volumineux de bloquer la remise d’autres messages et affecter les performances de service pour tous les utilisateurs. Ces limites concernent aussi les pièces jointes, et s'appliquent à toute l'organisation pour tous les messages (entrants, sortants et internes). Les messages qui dépassent cette limite ne sont pas remis, et l'expéditeur reçoit une notification d'échec de remise. Bien qu'il ne soit pas possible de configurer des limites de taille de message en les augmentant, en les diminuant ou en les définissant en fonction de l'utilisateur, les administrateurs peuvent créer des règles de transport pour limiter la taille maximale d'une pièce jointe particulière. Pour en savoir plus, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://go.microsoft.com/fwlink/?linkid=2144144).
     
    > [!NOTE]
     > Certains clients de messagerie peuvent avoir des limites de taille de message inférieures ou limiter la taille d’une pièce jointe individuelle à une valeur inférieure à la limite de taille de message Exchange Online. 
@@ -609,11 +609,11 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 |Limite de profondeur de messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |30 messages incorporés  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> les administrateurs Microsoft peuvent spécifier une limite personnalisée comprise entre 1 mo et 150 Mo. Toutefois, la taille des messages que vous pouvez envoyer ou recevoir dépend des paramètres pris en charge pas votre solution ou client de messagerie. Pour plus d’informations sur la personnalisation de la taille maximale des messages autorisés pour votre organisation, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).<br/> 
+> <sup>1</sup> les administrateurs Microsoft peuvent spécifier une limite personnalisée comprise entre 1 mo et 150 Mo. Toutefois, la taille des messages que vous pouvez envoyer ou recevoir dépend des paramètres pris en charge pas votre solution ou client de messagerie. Pour plus d’informations sur la personnalisation de la taille maximale des messages autorisés pour votre organisation, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://go.microsoft.com/fwlink/?linkid=2144144).<br/> 
 <sup>2</sup> vous pouvez envoyer et recevoir jusqu’à 150 Mo de messages entre les utilisateurs (où le message ne quitte jamais les centres de donnes Microsoft). Les messages routés en dehors des centres de contenu Microsoft sont soumis à une augmentation supplémentaire de 33% de la traduction, auquel cas la taille maximale du message est de 112 Mo. <br/> 
 <sup>3</sup> les comptes OWA permettent de faire en sorte que votre message soit soumis à l’augmentation du codage de 33% et limite la taille du message que vous pouvez envoyer à 25% de moins que le paramètre configuré. Par exemple, si vous personnalisez vos paramètres pour que la taille maximale des messages soit égale à 100 Mo, vous ne pouvez pas envoyer de message d’une taille supérieure à 75 Mo. <br/> 
 <sup>4</sup> la taille des messages à déplacer vers Exchange Online est calculée par Exchange Online. Les versions d’Exchange antérieures à Exchange Server 2013 peuvent signaler une taille d’élément inférieure. Cette limite s’applique aux migrations basées sur un déplacement qui utilisent un service de réplication de boîte aux lettres Exchange, quel qu’il soit. Les autres méthodes de migration (basculement, intermédiaire, IMAP, PST) et autres outils tiers sont limitées par la limite de taille des messages généraux. <br/> 
-<sup>5</sup> pour plus d’informations sur OME avec de nouvelles fonctionnalités, consultez la rubrique [set up New Office 365 message Encryption Capabilities Built-Top of Azure information protection](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<sup>5</sup> pour plus d’informations sur OME avec de nouvelles fonctionnalités, consultez la rubrique [set up New Office 365 message Encryption Capabilities Built-Top of Azure information protection](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e). 
   
 #### <a name="receiving-and-sending-limits"></a>Limites de réception et d’envoi
 
@@ -691,7 +691,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Nombre maximal de membres d’un groupe de distribution<sup>1</sup> <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |
 |Limite d’envoi de messages à de grands groupes de distribution  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |
 |Taille maximale de message pour les grands groupes de distribution  <br/> |2 Mo  <br/> |2 Mo  <br/> |2 Mo  <br/> |
-|Nombre maximal de propriétaires de groupe de distribution  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|Nombre maximal de propriétaires de groupe de distribution  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Nombre maximal de groupes qu’un utilisateur peut créer  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Les fonctionnalités de base suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 876de70c098ec5fda88bf48c4dba1a49f19a5920
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131268"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294040"
 ---
 # <a name="core-functionality"></a>Fonctionnalités principales
 
@@ -42,7 +42,7 @@ Cliquez avec le bouton droit sur un élément dans une vue d'un projet (ex. titr
   
 ## <a name="custom-fields"></a>Champs personnalisés
 
-Outre les champs fournis avec Project, vous pouvez aussi utiliser des champs personnalisés pour répondre aux besoins de votre organisation. Pour en savoir plus sur les champs, consultez la rubrique [Référence des champs disponibles](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+Outre les champs fournis avec Project, vous pouvez aussi utiliser des champs personnalisés pour répondre aux besoins de votre organisation. Pour en savoir plus sur les champs, consultez la rubrique [Référence des champs disponibles](https://support.office.com/article/615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Fonction copier/coller améliorée entre les applications Microsoft Office
 

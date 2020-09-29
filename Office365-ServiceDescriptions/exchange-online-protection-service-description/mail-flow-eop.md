@@ -1,5 +1,5 @@
 ---
-title: Flux de messagerie [EOP]
+title: Flux de messagerie dans Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Pour la plupart des organisations qui utilisent Office 365, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres en local. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement des messages antivirus et anti-courrier indésirable dans le Cloud.
-ms.openlocfilehash: 751551ef6b3ae710646b2fb63960eee5983d6c47
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Lisez cet article pour en savoir plus sur le flux de messagerie dans Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: c6b885abe6522c3f8d1b780c8c64c621c34011c2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132818"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293670"
 ---
-# <a name="mail-floweop"></a>Flux de messagerie [EOP]
+# <a name="mail-flow-in-exchange-online-protection"></a>Flux de messagerie dans Exchange Online Protection
 
-Pour la plupart des organisations qui utilisent Microsoft, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres en local. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement des messages antivirus et anti-courrier indésirable dans le Cloud. Pour plus d’informations et pour acheter EOP, accédez à [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
+Pour la plupart des organisations qui utilisent Microsoft, nous hébergeons vos boîtes aux lettres et vous vous occupez du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres en local. Exchange Online Protection (EOP) vous permet de le faire et de traiter les courriers électroniques antivirus et anti-courrier indésirable dans le Cloud. Pour plus d’informations et pour acheter EOP, accédez à [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
 Vous recherchez des informations sur la gestion de domaines ou le blocage du périmètre basé sur l'annuaire (DBEB) ? Consultez la rubrique [gestion des destinataires, des domaines et des sociétés](recipient-domain-and-company-management.md). Pour en savoir plus sur toutes les fonctionnalités EOP, consultez la rubrique [Description du service Exchange Online Protection](exchange-online-protection-service-description.md).
   

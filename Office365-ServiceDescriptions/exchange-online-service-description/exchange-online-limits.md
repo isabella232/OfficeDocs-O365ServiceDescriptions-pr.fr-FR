@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214343"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293790"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -239,7 +239,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 
 Les limites suivantes s'appliquent à chaque message électronique.
 
-- **Limite de taille**des messages : des limites de taille de message sont nécessaires pour empêcher les messages volumineux de bloquer la remise d’autres messages et affecter les performances de service pour tous les utilisateurs. Ces limites concernent aussi les pièces jointes, et s'appliquent à toute l'organisation pour tous les messages (entrants, sortants et internes). Les messages qui dépassent cette limite ne sont pas remis, et l'expéditeur reçoit une notification d'échec de remise. Bien qu'il ne soit pas possible de configurer des limites de taille de message en les augmentant, en les diminuant ou en les définissant en fonction de l'utilisateur, les administrateurs peuvent créer des règles de transport pour limiter la taille maximale d'une pièce jointe particulière. Pour en savoir plus, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Limite de taille**des messages : des limites de taille de message sont nécessaires pour empêcher les messages volumineux de bloquer la remise d’autres messages et affecter les performances de service pour tous les utilisateurs. Ces limites concernent aussi les pièces jointes, et s'appliquent à toute l'organisation pour tous les messages (entrants, sortants et internes). Les messages qui dépassent cette limite ne sont pas remis, et l'expéditeur reçoit une notification d'échec de remise. Bien qu'il ne soit pas possible de configurer des limites de taille de message en les augmentant, en les diminuant ou en les définissant en fonction de l'utilisateur, les administrateurs peuvent créer des règles de transport pour limiter la taille maximale d'une pièce jointe particulière. Pour en savoir plus, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://go.microsoft.com/fwlink/?linkid=2144144).
 
     > [!NOTE]
     > Certains clients de messagerie peuvent avoir des limites de taille de message inférieures ou limiter la taille d’une pièce jointe individuelle à une valeur inférieure à la limite de taille de message Exchange Online.
@@ -280,7 +280,7 @@ Les limites suivantes s'appliquent à chaque message électronique.
 |Limite de profondeur de messages incorporés|30 messages incorporés|30 messages incorporés|30 messages incorporés|30 messages incorporés|30 messages incorporés|30 messages incorporés|
 
 > [!NOTE]
-> <sup>1</sup> la taille de message maximale par défaut pour les boîtes aux lettres Microsoft est de 25 Mo. Les administrateurs Microsoft peuvent spécifier une limite personnalisée comprise entre 1 Mo et 150 Mo. Toutefois, la taille des messages que vous pouvez envoyer ou recevoir dépend des paramètres pris en charge pas votre solution ou client de messagerie. Pour plus d’informations sur la personnalisation de la taille maximale des messages autorisés pour votre organisation, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). 
+> <sup>1</sup> la taille de message maximale par défaut pour les boîtes aux lettres Microsoft est de 25 Mo. Les administrateurs Microsoft peuvent spécifier une limite personnalisée comprise entre 1 Mo et 150 Mo. Toutefois, la taille des messages que vous pouvez envoyer ou recevoir dépend des paramètres pris en charge pas votre solution ou client de messagerie. Pour plus d’informations sur la personnalisation de la taille maximale des messages autorisés pour votre organisation, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://go.microsoft.com/fwlink/?linkid=2144144). 
 <br/> <sup>2</sup> vous pouvez envoyer et recevoir jusqu’à 150 Mo de messages entre les utilisateurs (où le message ne quitte jamais les centres de donnes Microsoft). Les messages routés en dehors des centres de contenu Microsoft sont soumis à une augmentation supplémentaire de 33% de la traduction, auquel cas la taille maximale du message est de 112 Mo. <br/> 
 <sup>3</sup> les comptes OWA permettent de faire en sorte que votre message soit soumis à l’augmentation du codage de 33% et limite la taille du message que vous pouvez envoyer à 25% de moins que le paramètre configuré. Par exemple, si vous personnalisez vos paramètres pour que la taille maximale des messages soit égale à 100 Mo, vous ne pouvez pas envoyer de message d’une taille supérieure à 75 Mo. 
 <br/> <sup>4</sup> La taille des messages à déplacer vers Exchange Online est calculée par Exchange Online. Les versions d’Exchange antérieures à Exchange Server 2013 peuvent signaler une taille d’élément inférieure. Cette limite s’applique aux migrations basées sur le déplacement à l’aide d’un service de réplication de boîte aux lettres Exchange pris en charge. Les autres méthodes de migration (basculement, intermédiaire, IMAP, PST) et autres outils tiers sont limitées par la limite de taille des messages généraux. <br/> 
@@ -309,7 +309,7 @@ Les limites suivantes s'appliquent à chaque message électronique.
 |Limite de profondeur de messages incorporés|30 messages incorporés|30 messages incorporés|30 messages incorporés|30 messages incorporés|
 
 > [!NOTE]
-> <sup>1</sup> les administrateurs Microsoft peuvent spécifier une limite personnalisée comprise entre 1 mo et 150 Mo. Toutefois, la taille des messages que vous pouvez envoyer ou recevoir dépend des paramètres pris en charge pas votre solution ou client de messagerie. Pour plus d’informations sur la personnalisation de la taille maximale des messages autorisés pour votre organisation, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> vous pouvez envoyer et recevoir jusqu’à 150 Mo de messages entre les utilisateurs (où le message ne quitte jamais les centres de donnes Microsoft). Les messages routés en dehors des centres de contenu Microsoft sont soumis à une augmentation supplémentaire de 33% de la traduction, auquel cas la taille maximale du message est de 112 Mo. <br/> 
+> <sup>1</sup> les administrateurs Microsoft peuvent spécifier une limite personnalisée comprise entre 1 mo et 150 Mo. Toutefois, la taille des messages que vous pouvez envoyer ou recevoir dépend des paramètres pris en charge pas votre solution ou client de messagerie. Pour plus d’informations sur la personnalisation de la taille maximale des messages autorisés pour votre organisation, consultez la rubrique [Microsoft prend en charge les messages électroniques plus volumineux](https://go.microsoft.com/fwlink/?linkid=2144144). <br/> <sup>2</sup> vous pouvez envoyer et recevoir jusqu’à 150 Mo de messages entre les utilisateurs (où le message ne quitte jamais les centres de donnes Microsoft). Les messages routés en dehors des centres de contenu Microsoft sont soumis à une augmentation supplémentaire de 33% de la traduction, auquel cas la taille maximale du message est de 112 Mo. <br/> 
 <sup>3</sup> les comptes OWA permettent de faire en sorte que votre message soit soumis à l’augmentation du codage de 33% et limite la taille du message que vous pouvez envoyer à 25% de moins que le paramètre configuré. Par exemple, si vous personnalisez vos paramètres pour que la taille maximale des messages soit égale à 100 Mo, vous ne pouvez pas envoyer de message d’une taille supérieure à 75 Mo. <br/> 
 <sup>4</sup> il s’agit de la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation. <br/> 
 <sup>5</sup> la taille des messages à déplacer vers Exchange Online est calculée par Exchange Online. Les versions d’Exchange antérieures à Exchange Server 2013 peuvent signaler une taille d’élément inférieure. <br/> 
@@ -431,7 +431,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
 |Taille maximale de message pour les groupes de distribution contenant entre 5000 et 99 999 membres|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 |Taille de message maximal pour groupes de distribution avec 100 000 membres|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|
-|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |10 |10 |
+|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |10 |10 |
 |Nombre maximal de groupes qu’un utilisateur peut créer|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -443,7 +443,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |:-----|:-----|:-----|:-----|:-----|
 |Nombre maximal de membres d’un groupe de distribution|100 000 membres<sup>1</sup>|100 000 membres|100 000 membres|100 000 membres|
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus<sup>1</sup>|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
-|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |
+|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |
 |Nombre maximal de groupes qu’un utilisateur peut créer|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]

@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Pour en savoir plus sur les fonctionnalités d’Office 365 qui viennent d’être publiées ou qui sont sur le présent, consultez la feuille de route Microsoft 365.
-ms.openlocfilehash: 6dcc27411eaab86762a2fa8672d69b359b5a2ee0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 43a8517a71e42e74e8d044b1c98c7b5b21fe2145
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131478"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294200"
 ---
 # <a name="service-updates"></a>Mises à jour du service
 
 > [!NOTE]
-> Cette rubrique ne s'applique pas à Office 365 géré par 21Vianet. Pour plus d'informations sur les mises à jour de services, reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> Cette rubrique ne s'applique pas à Office 365 géré par 21Vianet. Pour plus d'informations sur les mises à jour de services, reportez-vous à la rubrique relative à l'[obtention d'une assistance concernant les questions techniques, de facturation et d'abonnement pour Office 365 géré par 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350). 
   
 Pour en savoir plus sur les fonctionnalités que vous venez de publier, consultez la feuille de [route Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
@@ -30,11 +30,11 @@ Pour en savoir plus sur les fonctionnalités que vous venez de publier, consulte
   
 ## <a name="targeted-release"></a>Version ciblée
 
-Avec la version ciblée, votre organisation ou un groupe de vos utilisateurs reçoit un ensemble défini de mises à jour de service environ une semaine avant le début de notre processus de mise en circulation standard. Pour en savoir plus, consultez la rubrique [options de publication de Microsoft](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
+Avec la version ciblée, votre organisation ou un groupe de vos utilisateurs reçoit un ensemble défini de mises à jour de service environ une semaine avant le début de notre processus de mise en circulation standard. Pour en savoir plus, consultez la rubrique [options de publication de Microsoft](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365). 
   
 ## <a name="update-notifications"></a>Notifications de mise à jour
 
-Microsoft s’efforce de prévenir les clients avant toute modification qui exige que l’administrateur prenne des mesures pour maintenir le fonctionnement normal du service. Sauf mention contraire, Microsoft enverra une notification au moins 30 jours à l'avance par le biais du [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide) lorsqu'une mise à jour nécessite une action de l'administrateur. 
+Microsoft s’efforce de prévenir les clients avant toute modification qui exige que l’administrateur prenne des mesures pour maintenir le fonctionnement normal du service. Sauf mention contraire, Microsoft enverra une notification au moins 30 jours à l'avance par le biais du [Message Center](https://docs.microsoft.com/office365/admin/manage/message-center) lorsqu'une mise à jour nécessite une action de l'administrateur. 
   
 La plupart des mises à jour de service sont des correctifs de bogue, des améliorations de performances et des mises à jour de sécurité qui ne nécessitent aucune action pour le compte du client. Des fonctionnalités nouvelles et améliorées sont disponibles dans la feuille [de route Microsoft 365 pour les entreprises](https://roadmap.office.com/).
   

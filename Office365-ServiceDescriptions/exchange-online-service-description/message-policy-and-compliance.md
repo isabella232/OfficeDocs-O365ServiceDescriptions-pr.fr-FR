@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 5565085472d43230f9059e1dcac115105a2e20d5
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Découvrez la stratégie de message et la conformité dans Exchange Online.
+ms.openlocfilehash: d723d686e3e939753e8007d41b0fdaf0d0363524
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132698"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293830"
 ---
 # <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
@@ -44,7 +45,7 @@ Il n'est possible de stocker les données de messagerie que d'un seul utilisateu
 > [!IMPORTANT]
 > - L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages vers une boîte aux lettres Exchange Online à des fins d'archivage n'est pas autorisée. Microsoft se réserve le droit de refuser l’archivage illimité dans les cas où une archive de boîte aux lettres n’est pas utilisée dans un scénario personnel ou dans d’autres cas d’utilisation inappropriée.
 > - L'archivage local exige impose certaines conditions de licence aux utilisateurs d'Outlook. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive personnelle. 
-> - Exchange Online ne prend pas en charge l’applet de commande Windows PowerShell _New-MailboxImportRequest_ d’exchange Server 2010 Service Pack 1 ou une version ultérieure pour l’importation par un administrateur de fichiers. pst dans une archive personnelle. Si la boîte aux lettres principale et l'archive de l'utilisateur se situent dans Exchange Online, un administrateur peut utiliser PST Capture, un outil gratuit qui permet d'importer les données du fichier .pst bers la boîte aux lettres ou l'archive principale de l'utilisateur.
+> - Exchange Online ne prend pas en charge l’applet de commande Windows PowerShell  _New-MailboxImportRequest_ d’exchange Server 2010 Service Pack 1 ou une version ultérieure pour l’importation par un administrateur de fichiers. pst dans une archive personnelle. Si la boîte aux lettres principale et l'archive de l'utilisateur se situent dans Exchange Online, un administrateur peut utiliser PST Capture, un outil gratuit qui permet d'importer les données du fichier .pst bers la boîte aux lettres ou l'archive principale de l'utilisateur.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archivage en nuage de boîtes aux lettres locales
 
@@ -72,7 +73,7 @@ Pour plus d'informations, consultez la rubrique [Balises et stratégies de réte
   
 ## <a name="encryption-of-data-at-rest"></a>Chiffrement des données lors de leur stockage
 
-Le chiffrement des données client au repos est assuré par plusieurs technologies côté service, notamment BitLocker, DKM, le chiffrement du service de stockage Azure et le chiffrement de service dans Exchange Online, Skype entreprise, OneDrive entreprise et SharePoint Online. Le chiffrement de service Office 365 inclut une option permettant d’utiliser des clés de chiffrement gérées par le client qui sont stockées dans Azure Key Vault. Cette option de clé gérée par le client, appelée [clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697), est disponible pour Exchange Online, SharePoint Online et OneDrive entreprise. 
+Le chiffrement des données client au repos est assuré par plusieurs technologies côté service, notamment BitLocker, DKM, le chiffrement du service de stockage Azure et le chiffrement de service dans Exchange Online, Skype entreprise, OneDrive entreprise et SharePoint Online. Le chiffrement de service Office 365 inclut une option permettant d’utiliser des clés de chiffrement gérées par le client qui sont stockées dans Azure Key Vault. Cette option de clé gérée par le client, appelée [clé client](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview), est disponible pour Exchange Online, SharePoint Online et OneDrive entreprise. 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -96,7 +97,7 @@ Le chiffrement de messages avancé Office 365 offre une protection supplémentai
 
 S/MIME vous aider à protéger les informations sensibles en envoyant un message signé et chiffré au sein de votre organisation. Les administrateurs peuvent utiliser une session distante de Windows PowerShell pour configurer S/MIME après avoir établi et émis des certificats PKI pour les utilisateurs. Ces certificats doivent être synchronisés à partir d'un service local de certificats Active Directory.
   
-S/MIME est pris en charge sur Microsoft Edge et Internet Explorer 11. Actuellement, S/MIME n'est pas pris en charge sur Firefox, Opera et Chrome. Pour plus d'informations, consultez la rubrique [S/MIME pour la signature et le chiffrement des messages](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
+S/MIME est pris en charge sur Microsoft Edge et Internet Explorer 11. Actuellement, S/MIME n'est pas pris en charge sur Firefox, Opera et Chrome. Pour plus d'informations, consultez la rubrique [S/MIME pour la signature et le chiffrement des messages](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019&preserve-view=true).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Archive permanente et mise en attente pour litige
 
@@ -170,7 +171,7 @@ En raison d'obligations légales, d'exigences réglementaires ou de stratégies 
 > [!IMPORTANT]
 > Les types de fichiers de pièces jointes qui nécessitent l’installation de iFilters tiers sur le serveur de messagerie (par exemple, Adobe. pdf) ne peuvent pas être inspectés à l’aide des règles de flux de messagerie jusqu’à ce qu’un iFilter approprié soit installé. Pour plus d’informations sur les types de fichiers pris en charge par les règles de flux de messagerie, voir [utiliser des règles de flux de messagerie pour inspecter les pièces jointes des messages dans Office 365](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
   
-Pour plus d’informations sur les règles de flux de messagerie, consultez la rubrique [Mail flow rules in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019).
+Pour plus d’informations sur les règles de flux de messagerie, consultez la rubrique [Mail flow rules in Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019&preserve-view=true).
   
 ## <a name="data-loss-prevention"></a>Protection contre la perte de données
 

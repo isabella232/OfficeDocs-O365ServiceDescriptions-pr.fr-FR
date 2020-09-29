@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300508"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294102"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -90,7 +90,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Utilisation de l’application et surveillance des erreurs](/sharepoint/monitor-apps)
 - Rapports d’activité et d’utilisation pour [SharePoint](/office365/admin/activity-reports/sharepoint-activity) et [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Modifier l’URL du site](/sharepoint/change-site-address)
-- [Paramètres de stockage et de rétention par défaut pour OneDrive](/en-us/onedrive/set-default-storage-space)
+- [Paramètres de stockage et de rétention par défaut pour OneDrive](/onedrive/set-default-storage-space)
 - [Hybride pour SharePoint Server](/sharepoint/hybrid/hybrid). Les travailleurs terrain nécessitent une licence d’accès client (CAL) pour accéder à SharePoint Server.
 - [Gestion des paramètres de création de sites](/sharepoint/manage-site-creation)
 - [Gestion des limites de stockage d’un site](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Restaurer les groupes supprimés](/sharepoint/restore-deleted-site-collection)
 - [Centre d’administration SharePoint](/sharepoint/get-started-new-admin-center). Les organisations avec des employés terrain ont besoin d’au moins un utilisateur d’entreprise pour accéder au centre d’administration.
 - [Scanneur de modernisation de SharePoint](/sharepoint/dev/transform/modernize-scanner)
-- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Les organisations avec des employés terrain ont besoin d’au moins un utilisateur d’entreprise pour accéder au centre d’administration.
+- [SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Les organisations avec des employés terrain ont besoin d’au moins un utilisateur d’entreprise pour accéder au centre d’administration.
 - [Gouvernance de site](/sharepoint/governance-overview) 
 - [Magasin de termes-métadonnées gérées](/sharepoint/managed-metadata)
 

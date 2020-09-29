@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261536"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294130"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -229,7 +229,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 |[Skype Entreprise](../office-applications-service-description/office-applications.md#skype-for-business)|Oui|Oui|Oui|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui|Oui<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Non|Non|Non|Non|Non|Non|N °<sup>5</sup>|Non|Non|Non|
 |[Applications Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|[Office pour Mac pour Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Non|Oui|Non|Non|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
+|[Office pour Mac pour Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Non|Oui|Non|Non|Non|Oui|N °<sup>5</sup>|Non|Oui|Non|
 |Application Microsoft Office pour Android|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Application Microsoft Office pour iOS|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Office Mobile pour iPad/iPhone](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Oui|Oui|Oui|Oui|Oui|Oui|Oui<sup>5</sup>|Oui|Oui|Oui|
@@ -278,7 +278,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 <br/><sup>6</sup> Office 2011 pour Mac peut être installé, mais pas activé.
 <br/><sup>7</sup> Office 365 ProPlus est pris en charge sur une infrastructure VDI (Virtual Desktop Infrastructure) dédiée aux utilisateurs. Office 365 ProPlus prend uniquement en charge les services Bureau à distance s'il est acheté dans le cadre d'un programme de licences en volume.
 <br/><sup>8</sup> L'activation en volume pour Office 365 Entreprise E3 et Office 365 ProPlus est limitée aux installations sur Windows Server 2008 R2 et versions ultérieures avec le rôle des services Bureau à distance activé, ou aux installations Windows To Go. Dans les deux cas, les utilisateurs qui accèdent à ces installations doivent disposer d'une licence Office 365 Entreprise E3 ou Office 365 ProPlus.
-<br/><sup>9</sup> Access est actuellement disponible si vous êtes sur le canal actuel ou sur la version ciblée du canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d'informations, reportez-vous à l'article relatif à [l'inclusion d'Access dans le cadre d'Office 365 Business et de Business Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
+<br/><sup>9</sup> Access est actuellement disponible si vous êtes sur le canal actuel ou sur la version ciblée du canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d'informations, reportez-vous à l'article relatif à [l'inclusion d'Access dans le cadre d'Office 365 Business et de Business Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).
 <br/><sup>10</sup> Visio pour le Web est actuellement en version préliminaire pour Office 365 géré par 21ViaNet. Pour plus d’informations sur Visio pour le Web, reportez-vous à la [Description de Visio pour le service Web](../visio-online-service-description/visio-online-service-description.md).
 <br/><sup>11</sup> Bientôt disponible dans Office 365 géré par 21Vianet.
 <br/><sup>15</sup> les services Google (y compris la Banque de lecture) ne sont pas accessibles à partir de la Chine. Il existe plusieurs magasins d’applications gérés par des constructeurs ou des sociétés de moteur de recherche qui permettent aux utilisateurs d’installer des applications mobiles à partir de.

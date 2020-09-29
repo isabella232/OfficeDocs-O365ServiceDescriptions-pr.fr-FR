@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux.
-ms.openlocfilehash: 047da03c7cae7ef907824bdff95a94bd6f15bfb6
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261526"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293820"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Description des services de la plateforme Microsoft 365 et Office 365
 
@@ -218,7 +218,7 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 <br/><sup>11</sup> dans Office 365 entreprise F3, la vidéo Office 365 est limitée à l’affichage uniquement (aucune publication ni aucun partage). 
 <br/><sup>12</sup> dans Office 365 entreprise F3, le flux est limité à la consommation uniquement et les exécutions sont limitées à 750 par utilisateur et par mois. 
 <br/><sup>13</sup> disponible uniquement dans les plans Office 365 éducation, y compris Office 365 E5 éducation. Il n'est pas disponible dans Office 365 Entreprise E5. 
-<br/><sup>14</sup> pour plus d’informations, voir [chiffrement de service avec la clé client](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>14</sup> pour plus d’informations, voir [chiffrement de service avec la clé client](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
 <br/><sup>15</sup> la fonctionnalité eDiscovery avancée est prise en charge aux États-Unis et dans la région Europe de l’Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].)
 <br/><sup>16</sup> consommation uniquement pour Microsoft Stream : pas de publication ni de partage.
 <br/><sup>17</sup> à compter du 2019 mai, les références SKU existantes d’Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365.

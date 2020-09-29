@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office est un service puissant qui vous permet de trouver les meilleures idées, d’effectuer des opérations et de rester connecté en déplacement. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées.
-ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ec2373a988d66102ba2b2b50d957e659be12e5aa
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131428"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294170"
 ---
 # <a name="office-applications"></a>Applications Office
 
@@ -64,19 +64,19 @@ Pour découvrir comment les PowerApp, le successeur d’InfoPath, peuvent améli
   
 ## <a name="windows-10-apps"></a>Applications Windows 10
 
-Certaines applications Office, telles qu’Excel et Word, ont des mosaïques épinglées à l’écran de démarrage de Windows 10, Windows 8 et Windows 7 par défaut. En savoir plus sur la [recherche et le démarrage d’applications Office dans Windows](https://support.office.com/article/can-t-find-office-applications-in-windows-10-windows-8-or-windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6?ocmsassetID=HA103581103&CTT=1&CorrelationId=03707eae-b946-462a-b3c6-f0fc04f55611&ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Windows_8.1_or_Windows_8).
+Certaines applications Office, telles qu’Excel et Word, ont des mosaïques épinglées à l’écran de démarrage de Windows 10, Windows 8 et Windows 7 par défaut. En savoir plus sur la [recherche et le démarrage d’applications Office dans Windows](https://support.microsoft.com/office/907ce545-6ae8-459b-8d9d-de6764a635d6).
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile for iPad/iPhone
 
-Office Mobile pour iPad et iPhone inclut vos applications Office favorites, telles que Word pour iPad/iPhone, Excel pour iPad/iPhone et PowerPoint pour iPad/iPhone. Les applications peuvent être téléchargées gratuitement et, avec les plans applicables, vous pouvez créer et modifier des documents sur votre iPad ou iPhone. Pour plus d’informations, consultez la rubrique [configurer les applications Office et la messagerie sur les appareils iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
+Office Mobile pour iPad et iPhone inclut vos applications Office favorites, telles que Word pour iPad/iPhone, Excel pour iPad/iPhone et PowerPoint pour iPad/iPhone. Les applications peuvent être téléchargées gratuitement et, avec les plans applicables, vous pouvez créer et modifier des documents sur votre iPad ou iPhone. Pour plus d’informations, reportez-vous à [la rubrique Configurer l’application Office et les appareils Outlook sur iOS](https://support.microsoft.com/office/0402b37e-49c4-4419-a030-f34c2013041f).
 
 ## <a name="office-mobile-for-android"></a>Office Mobile for Android
 
-Office Mobile pour Android inclut vos applications Office favorites, telles que Word pour Android, Excel pour Android et PowerPoint pour Android. Les applications peuvent être téléchargées gratuitement et, avec les plans applicables, vous pouvez créer et modifier des documents sur vos appareils Android. Pour plus d’informations, voir [configurer les applications Office et la messagerie sur Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
+Office Mobile pour Android inclut vos applications Office favorites, telles que Word pour Android, Excel pour Android et PowerPoint pour Android. Les applications peuvent être téléchargées gratuitement et, avec les plans applicables, vous pouvez créer et modifier des documents sur vos appareils Android. Pour plus d’informations, voir [configurer les applications Office et la messagerie sur Android](https://support.office.com/article/6ef2ebf2-fc2d-474a-be4a-5a801365c87f).
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile for Windows Phone
 
-Office Mobile pour Windows Phone inclut vos applications Office favorites, telles que Word pour Windows Phone, Excel pour Windows Phone et PowerPoint pour Windows Phone. Les applications peuvent être téléchargées gratuitement et, avec les plans applicables, vous pouvez créer et modifier des documents sur votre Windows Phone. Pour plus d’informations, consultez la rubrique [configurer des applications Office et la messagerie sur Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
+Office Mobile pour Windows Phone inclut vos applications Office favorites, telles que Word pour Windows Phone, Excel pour Windows Phone et PowerPoint pour Windows Phone. Les applications peuvent être téléchargées gratuitement et, avec les plans applicables, vous pouvez créer et modifier des documents sur votre Windows Phone. Pour plus d’informations, consultez la rubrique [configurer des applications Office et la messagerie sur Windows Phone](https://support.office.com/article/9bccc8b8-a321-4d0d-a45e-6e06a3438e43).
 
 ## <a name="office-for-windows-10-mobile"></a>Office pour Windows 10 mobile
 

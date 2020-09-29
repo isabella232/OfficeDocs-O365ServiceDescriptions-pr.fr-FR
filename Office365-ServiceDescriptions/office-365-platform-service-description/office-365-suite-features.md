@@ -1,5 +1,5 @@
 ---
-title: Fonctionnalités de la suite Microsoft 365
+title: Fonctionnalités de Microsoft 365 suite
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: 058acf94ae50764616a02febfac09f2a86cf66d0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1964e342d53589d2b180b5e5dbe6dddc9eaedd00
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131938"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293810"
 ---
-# <a name="microsoft-365-suite-features"></a>Fonctionnalités de la suite Microsoft 365
+# <a name="microsoft-365-suite-features"></a>Fonctionnalités de Microsoft 365 suite
 
 Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils basés sur le Web qui vous permettent de collaborer et de communiquer en toute sécurité sur de nombreux appareils et services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
   
@@ -26,7 +26,7 @@ Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’out
 
 Microsoft bookings est une application mobile et en ligne pour les entreprises qui souhaitent fournir des services aux clients en fonction de leurs rendez-vous. Parmi ces entreprises, citons les coiffures, les bureaux dentaires, les sociétés de droit, les fournisseurs de services financiers, les consultants, les praticiens de la santé, les établissements scolaires et les magasins automatiques. Microsoft bookings est disponible pour les clients des États-Unis et du Canada qui disposent d’un abonnement Microsoft 365 pour les entreprises.
   
-Pour plus d’informations sur les ouvrages Microsoft, consultez [la rubrique publier votre calendrier professionnel en ligne avec Microsoft bookings](https://support.office.com/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
+Pour plus d’informations sur les ouvrages Microsoft, consultez [la rubrique publier votre calendrier professionnel en ligne avec Microsoft bookings](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d).
 
 ## <a name="microsoft-briefing-email"></a>Courrier électronique de briefing Microsoft
 
@@ -68,7 +68,7 @@ Project pour le Web est l’offre Microsoft la plus récente pour le travail inf
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub est une application basée sur le cloud qui permet aux employés et à leurs responsables d’utiliser leurs appareils mobiles afin de gérer les planifications et de rester en contact. Les employés peuvent utiliser Microsoft StaffHub pour demander des congés, échanger leurs horaires et communiquer avec d'autres employés. Ils peuvent également s'envoyer des messages directement entre eux ou envoyer des messages à l'ensemble de l'équipe. Les responsables peuvent utiliser Microsoft StaffHub pour envoyer des messages, créer des planifications et envoyer des actualités à l'équipe ou des annonces d'entreprise. Pour en savoir plus sur StaffHub, accédez au [site Web Microsoft StaffHub](https://staffhub.office.com/) et au blog de l' [équipe 365 de Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
+Microsoft StaffHub est une application basée sur le cloud qui permet aux employés et à leurs responsables d’utiliser leurs appareils mobiles afin de gérer les planifications et de rester en contact. Les employés peuvent utiliser Microsoft StaffHub pour demander des congés, échanger leurs horaires et communiquer avec d'autres employés. Ils peuvent également s'envoyer des messages directement entre eux ou envoyer des messages à l'ensemble de l'équipe. Les responsables peuvent utiliser Microsoft StaffHub pour envoyer des messages, créer des planifications et envoyer des actualités à l'équipe ou des annonces d'entreprise. Pour en savoir plus sur StaffHub, accédez au [site Web Microsoft StaffHub](https://staffhub.office.com/) et au blog de l' [équipe 365 de Microsoft](https://go.microsoft.com/fwlink/?linkid=2143889).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -76,9 +76,9 @@ Microsoft Stream est un service vidéo d’entreprise que les membres de votre o
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu’à vos collègues, de formuler des idées à l’aide d’un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels attrayants, sans avoir besoin d’une mise en forme ou d’une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l’apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n’importe quel navigateur de n’importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d’extraire tous les types de contenu sans quitter l’application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
+Microsoft Sway est une application professionnelle de récits numériques professionnelle qui vous permet, ainsi qu’à vos collègues, de formuler des idées à l’aide d’un canevas interactif basé sur le Web. Le moteur de conception intégré de Microsoft Sway vous aide à produire des rapports, des présentations et des présentations professionnels, attrayants et plus sans avoir besoin d’une mise en forme ou d’une formation approfondie. Vous pouvez également modifier les résultats pour obtenir l’apparence et la convivialité uniques de votre choix. Microsoft Sway vous permet de créer des recherches intéressantes dans n’importe quel navigateur de n’importe quel écran et de le partager avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous permet de rechercher et d’extraire tous les types de contenu sans quitter l’application, de sorte que vous pouvez glisser-déplacer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, consultez la rubrique [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft teams est un espace de travail centré sur la conversation qui permet aux membres d’une équipe de se rapprocher davantage. Microsoft teams sert de Hub pour le travail d’équipe, offrant un accès instantané aux conversations, au contenu et aux outils de conversation dans un seul espace de travail. SharePoint et OneNote sont intégrés, et les membres de l'équipe peuvent travailler sur des documents Office directement dans l'application. À part les conversations, Microsoft teams prend également en charge les réunions et les appels vidéo pour permettre aux équipes de répondre aux besoins en direct, à la demande ou planifiés. Les utilisateurs peuvent facilement collaborer avec plusieurs équipes et effectuer des recherches parmi des personnes, des conversations et des fichiers à tout moment. Microsoft teams fonctionne sur les plateformes Windows, Mac, Web, Android et iOS. Pour en savoir plus, consultez la rubrique [Description du service Microsoft teams](../teams-service-description.md) et [aide en ligne de Microsoft teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams n'est pas encore disponible dans [Office 365 Germany](office-365-germany.md).
   
@@ -88,11 +88,11 @@ Office Delve permet aux utilisateurs de rechercher et de découvrir du contenu d
   
 ## <a name="microsoft-365-groups"></a>Groupes Microsoft 365
 
-Les groupes de Microsoft 365 connectent les utilisateurs aux collègues, aux informations et aux applications dont ils ont besoin pour effectuer davantage d’opérations. Les groupes sont ouverts par défaut pour améliorer la détectabilité et le partage, mais les utilisateurs peuvent également créer des groupes privés pour le contenu sensible. Pour en savoir plus sur les groupes, consultez la rubrique [groupes dans Microsoft 365](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Pour plus d’informations sur les limites de groupe, voir « comment gérer mes groupes » dans la rubrique [en savoir plus sur les groupes Microsoft 365](https://go.microsoft.com/fwlink/?linkid=846714).
+Les groupes de Microsoft 365 connectent les utilisateurs avec les collègues, les informations et les applications dont ils ont besoin pour effectuer une plus grande collaboration. Les groupes sont ouverts par défaut pour améliorer la détectabilité et le partage, mais les utilisateurs peuvent également créer des groupes privés pour le contenu sensible. Pour en savoir plus sur les groupes, consultez la rubrique [groupes dans Microsoft 365](https://support.office.com/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Pour plus d’informations sur les limites de groupe, voir « comment gérer mes groupes » dans la rubrique [en savoir plus sur les groupes Microsoft 365](https://go.microsoft.com/fwlink/?linkid=846714).
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video constitue une destination sécurisée à l'échelle de la société où vous pouvez télécharger, partager et découvrir des vidéos sur vos périphériques, optimisée par Microsoft Azure Media Services. Office 365 Video peut contribuer à maintenir les utilisateurs impliqués et informés, à communiquer des idées de façon globale et à homogénéiser les organisations. Pour en savoir plus, voir [Présentation d'Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
+La vidéo Office 365 est une destination sécurisée à l’échelle de l’entreprise, qui vous permet de télécharger, de partager et de découvrir des vidéos sur vos appareils, grâce à Microsoft Azure Media Services. Office 365 Video peut contribuer à maintenir les utilisateurs impliqués et informés, à communiquer des idées de façon globale et à homogénéiser les organisations. Pour en savoir plus, voir [Présentation d'Office 365 Video](https://go.microsoft.com/fwlink/?linkid=2144056).
   
 ## <a name="onenote-class-notebook"></a>Bloc-notes OneNote pour la classe
 
@@ -100,7 +100,7 @@ Le bloc-notes de classe fait partie de OneNote et est disponible pour Office 365
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala est une application de gestion de travail mobile simple et sécurisée, qui offre des fonctionnalités uniques à Microsoft 365, avec sa capacité de connexion et d’intervention de personnes à la fois à l’intérieur et à l’extérieur de l’annuaire de l’organisation, y compris les professionnels du contrat, les fournisseurs, les partenaires, les fournisseurs, les clients et les citoyens, à l’aide de [types de groupes](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Le modèle Open Directory de Kaizala permet une intégration facile à l’aide d’un numéro de téléphone et une expérience utilisateur simple pour la gestion de la messagerie et des tâches. L’application mobile Kaizala permet aux utilisateurs d’envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des sons et d’autres personnes, ainsi que d’utiliser des cartes d’action pour des enquêtes, des sondages, des missions, des annonces, des annonces, etc. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) fonctionne sur iPhone et Android. Pour en savoir plus, accédez au [site Web Kaizala](https://products.office.com/en/business/microsoft-kaizala).
+Microsoft Kaizala est une application de gestion de travail mobile simple et sécurisée, qui offre des fonctionnalités uniques à Microsoft 365, avec sa capacité de connexion et d’intervention de personnes à la fois à l’intérieur et à l’extérieur de l’annuaire de l’organisation, y compris les professionnels du contrat, les fournisseurs, les partenaires, les fournisseurs, les clients et les citoyens, à l’aide de [types de groupes](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Le modèle Open Directory de Kaizala permet une intégration facile à l’aide d’un numéro de téléphone et une expérience utilisateur simple pour la gestion de la messagerie et des tâches. L’application mobile Kaizala permet aux utilisateurs d’envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des fichiers audio, et plus encore, d’utiliser des cartes d’action pour des enquêtes, des sondages, des missions, des annonces, des formations et d’autres informations. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) fonctionne sur iPhone et Android. Pour en savoir plus, accédez au [site Web Kaizala](https://products.office.com/en/business/microsoft-kaizala).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

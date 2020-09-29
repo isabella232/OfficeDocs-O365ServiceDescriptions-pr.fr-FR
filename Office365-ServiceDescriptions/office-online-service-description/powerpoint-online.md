@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint pour le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur Web, dans laquelle vous pouvez utiliser des présentations directement sur le site Web où la présentation est stockée. Les clients Microsoft 365 avec Office pour le Web peuvent afficher, créer et modifier des fichiers en fonction de vos déplacements.
-ms.openlocfilehash: 50be528559234a5d386dcd8fbfb1805961494432
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7925e85feeb611895e5481f1d6b81917a1cfbd2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131318"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294065"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint pour le web
 
@@ -28,7 +28,7 @@ L’éditeur PowerPoint est un composant Web frontal qui crée une surface d’�
   
 Si vous sélectionnez le bouton **ouvrir dans PowerPoint** sur la barre d’outils PowerPoint pour le Web, la présentation s’ouvre dans l’application de bureau PowerPoint (si Microsoft PowerPoint 2010 ou une version ultérieure est installé sur l’ordinateur).
   
-Découvrez comment [Télécharger et installer Office à l’aide de Microsoft 365 pour les entreprises sur un PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
+Découvrez comment [Télécharger et installer Office à l’aide de Microsoft 365 pour les entreprises sur un PC](https://support.office.com/article/72977511-dfd1-4d8b-856f-405cfb76839c).
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
