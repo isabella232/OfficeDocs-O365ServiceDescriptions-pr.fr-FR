@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, les centres de données allemands, la résidence des données en Allemagne et l’accès aux données et les mesures de contrôle strictes via un modèle de client approuvé unique
-ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
+ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293850"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367761"
 ---
 # <a name="office-365-germany"></a>Office 365 Allemagne
 
@@ -459,7 +459,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 <sup>9</sup> Exchange Server 2013 utilise uniquement le moteur anti-programme malveillant de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes. <br/> <sup>10</sup> les comptes connectés sont pris en charge pour les &amp; comptes IMAP POP, mais sont désactivés pour Outlook.com (Hotmail). <br/>
 <sup>11</sup> un abonnement EOA peut être acheté séparément pour chaque boîte aux lettres nécessitant la fonctionnalité de boîte aux lettres inactive. <br/>
 <sup>12</sup> l’utilisation d’une cmdlet avec la liste d’adresses et la liste d’adresses globale n’est pas prise en charge. <br/>
-<sup>13</sup> requiert l’utilisation de l’espace d’adressage de disponibilité pour prendre en charge le partage avec d’autres clients. Pour plus d’informations sur la création d’un espace d’adressage de disponibilité, voir [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/sharing-and-collaboration/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> tableau indique si le client fonctionne ou non avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans.<br/>
+<sup>13</sup> requiert l’utilisation de l’espace d’adressage de disponibilité pour prendre en charge le partage avec d’autres clients. Pour plus d’informations sur la création d’un espace d’adressage de disponibilité, voir [Add-AvailabilityAddressSpace](https://docs.microsoft.com/powershell/module/exchange/Add-AvailabilityAddressSpace). <br/> <sup>14</sup> tableau indique si le client fonctionne ou non avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans.<br/>
 <sup>15</sup> pop est pris en charge, mais IMAP ne l’est pas.<br/>
 <sup>16</sup> certains compléments et composants WebPart tiers peuvent ne pas être disponibles.
 
@@ -533,7 +533,7 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online - Protecti
 
 Le tableau suivant répertorie les fonctionnalités de Project Online disponibles dans les plans Office 365 Germany. Pour en savoir plus sur Project Online, regardez la [vidéo de présentation de Project Online](https://go.microsoft.com/fwlink/?linkid=2144053).<br><br>
 
-| Prévision | Description | Utilisateurs ciblés |
+| Planification | Description | Utilisateurs ciblés |
 |:-----|:-----|:-----|
 |Project Online Essentials| Interface Web pour les membres d'équipe  <br/>  Mettre à jour des tâches, des problèmes et des risques  <br/>  Soumettre des feuilles de temps  <br/>  Partager des documents et collaborer avec la présence Skype Entreprise|Membres de l'équipe|
 |Project Online Professionnel| Toutes les fonctionnalités de Project Online Essentials, ainsi que :  <br/>  Interface utilisateur enrichie via le client pour ordinateur de bureau  <br/>  Accès à tout moment ou en tout lieu via une interface Web  <br/>  Planification de projet et évaluation des coûts  <br/>  Gestion des ressources  <br/>  Publication de projets dans le cloud  <br/>  Inclut la version la plus récente de l'application de bureau Project, instantanément diffusée en continu sur votre PC Windows.  <br/>  Chaque licence d'abonnement permet de mettre en place jusqu'à cinq installations simultanées de l'application de bureau Project.|Responsables de projets|
