@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Découvrez les fonctionnalités disponibles dans les différents plans Yammer.
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276741"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408250"
 ---
 # <a name="yammer-service-description"></a>Description du service Yammer
 
 Yammer est un réseau social d’entreprise sécurisé et privé de premier plan. Grâce à Yammer, les employés sont plus productifs et réussissent mieux car ils peuvent collaborer plus facilement, prendre des décisions plus rapidement et s'organiser en équipes pour relever n'importe quel défi professionnel. Cette nouvelle façon de travailler pousse naturellement à l'alignement et à la flexibilité de l'entreprise, réduit la durée des cycles, implique les employés et améliore les relations avec les clients et les partenaires.
   
-Pour obtenir la liste des offres qui incluent Yammer, consultez la rubrique [Microsoft service familles et plans](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
+Pour obtenir la liste des offres qui incluent Yammer, consultez la rubrique [Microsoft service familles et plans](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans).
   
 Pour comparer les fonctionnalités entre les plans, voir [puissants outils permettant de prendre en charge votre entreprise](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
