@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites de SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276724"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447341"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -48,9 +48,9 @@ Une liste peut comporter jusqu’à 30 millions éléments et une bibliothèque 
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Autorisations uniques pour les éléments d’une liste ou d’une bibliothèque
 
-La limite autorisée est de 50 000 éléments de permissions de manière unique, mais la limite générale recommandée est de 5 000. Le fait de modifier plus de 5 000 éléments uniques à la fois prend plus de temps. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
+La limite autorisée est de 50 000 éléments de permissions de manière unique, mais la limite générale recommandée est de 5 000. Les modifications apportées à plus de 5 000 éléments uniques à la fois sont plus longues. Pour les grandes listes, la conception a le moins d’autorisations uniques possible.
 
-Une autre limite est de 5 000 attributions de rôles par élément à autorisation unique. 
+Une autre limite est de 5 000 attributions de rôle par élément à autorisation unique. 
 
 ### <a name="file-size-and-file-path-length"></a>Taille du fichier et longueur du chemin d’accès du fichier
 
@@ -66,9 +66,9 @@ La copie/le transfert de plusieurs fichiers en une seule opération présente tr
 
 ### <a name="sync"></a>Synchronisation
 
-**Nouvelle application de synchronisation OneDrive** : pour des performances optimales, nous vous recommandons de ne pas stocker plus de 300 000 fichiers par utilisateur dans toutes les bibliothèques de documents synchronisées, même si vous utilisez des fichiers à la demande ou en choisissant uniquement certains dossiers dans les bibliothèques à synchroniser.
+**Application de synchronisation OneDrive (OneDrive.exe) actuelle** : pour des performances optimales, nous vous recommandons de ne pas stocker plus de 300 000 fichiers par utilisateur dans toutes les bibliothèques de documents synchronisées, même si vous utilisez des fichiers à la demande ou si vous choisissez uniquement certains dossiers dans les bibliothèques à synchroniser.
 
-**Ancienne application de synchronisation OneDrive entreprise (Groove.exe)** : vous pouvez synchroniser jusqu’à 20 000 éléments au total dans toutes les bibliothèques synchronisées. Cela inclut les bibliothèques OneDrive, les bibliothèques de sites d’équipe, ou les deux. Indépendamment de la limite de synchronisation globale, le nombre d’éléments pouvant être synchronisés pour chaque type de bibliothèque est limité :
+**Ancienne application de synchronisation OneDrive entreprise (Groove.exe-utilisée avec des environnements SharePoint locaux plus anciens)** : vous pouvez synchroniser jusqu’à 20 000 éléments au total dans toutes les bibliothèques synchronisées. Cela inclut les bibliothèques OneDrive, les bibliothèques de sites d’équipe, ou les deux. Indépendamment de la limite de synchronisation globale, le nombre d’éléments pouvant être synchronisés pour chaque type de bibliothèque est limité :
 
    - Vous pouvez synchroniser jusqu’à 20 000 éléments dans une bibliothèque OneDrive. Cela inclut les dossiers et les fichiers. 
    - Vous pouvez synchroniser jusqu’à 5 000 éléments dans une bibliothèque SharePoint. Cela inclut les dossiers et les fichiers. Il s’agit des bibliothèques que vous trouvez sur différents sites SharePoint, telles que les sites d’équipe et les sites communautaires, les bibliothèques créées par d’autres personnes ou celles que vous avez créées à partir de votre page de sites. Vous pouvez synchroniser plusieurs bibliothèques SharePoint. Tous les sites d’équipe que vous synchronisez sont également décomptés par rapport à la limite globale de 20 000 des éléments dans toutes les bibliothèques synchronisées.
