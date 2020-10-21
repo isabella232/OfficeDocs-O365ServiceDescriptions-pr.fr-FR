@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans les entités américaines Federal, State, local, tribal ou territoriale territoriale ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 6abcf5a70307a554661f2eb7ec7b6ca3019dec61
+ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293870"
+ms.lasthandoff: 10/20/2020
+ms.locfileid: "48626875"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité de Microsoft 365 (GCC)
 
@@ -66,95 +66,113 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 
 | Domaine | Fonctionnalité | État GCC |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
-| **Protection des informations**              | Étiquettes de confidentialité et d’étiquetage unifiées         | Available              |
-|                                         | Étiquettes de conteneur pour SharePoint Online, groupes Office          | En cours de déploiement              |
-|                                         | Étiquetage automatique basé sur les types de données sensibles pour Excel Online, SharePoint Online, OneDrive entreprise                      | En cours de déploiement              |
-|                                         | Étiquettes basées sur des types de données sensibles pour les clients Office Win32 et Mac            | Dans le backlog d’ingénierie |
-|                                         | Étiquetage automatique basé sur des types de données sensibles pour Win 32, Mac |  Dans le backlog d’ingénierie              |
-|                                         | Étiquetage automatique basé sur des types de données sensibles pour teams                                       |Dans le backlog d’ingénierie              |
-|                                         | Étiquetage automatique basé sur les types de données sensibles pour les appareils mobiles                            |Dans le backlog d’ingénierie |
-|                                         | Étiquettes et stratégies associées basées sur les requêtes                            | Available |
-|                                         | Explorateur d’activité des étiquettes                           | Dans le backlog d’ingénierie  |
-|                                         | Classifieurs entraînables                              | Dans le backlog d’ingénierie              |
+| **Protection des informations**              | Client et scanneur d’étiquetage unifiés         | Available              |
+|                                         | Correspondance exacte des données          | Available              |
+|                                         | Classification et étiquetage automatiques pour Exchange Online, SharePoint Online et OneDrive                      | En cours de déploiement              |
+|                                         | Stratégies basées sur la classification avec des groupes Office 365            | En cours de déploiement |
+|                                         | Classification et étiquetage automatiques pour l’application Office (Word, Excel, PowerPoint, Outlook) sur plusieurs plateformes (Web, Android, iOS, Windows et Mac) |  En cours de développement              |
+|                                         | Classification et étiquetage automatiques pour les appareils mobiles                                       | Dans le backlog d’ingénierie              |
+|                                         | Classification et étiquetage automatiques pour teams                            | Dans le backlog d’ingénierie |
+|                                         | Classification des données : vue d’ensemble et de l’Explorateur d’activité de contenu                            | Dans le backlog d’ingénierie |
+|                                         | Classifieurs d’apprentissage automatique avec étiquetage automatique                           | Dans le backlog d’ingénierie  |
 |                                         | Chiffrement de messages Office 365 de base (E3)                            | Available              |
 |                                         | Chiffrement avancé des messages Office 365 (E5)  | Available              |
 |                                         | Clé client pour Office 365    | Available |
 |                                         | Ajoutez votre propre clé (BYOK) pour le cycle de vie de la mise en service des clés gérées par le client.                            | Available |
 |                                         | Conserver votre propre clé (HYOK) qui s’étend sur Azure information protection et Active Directory (AD) gestion des droits pour les scénarios hautement réglementés (aperçu)                         | Available |
-|                                         | Chiffrement à double clé                           | Dans le backlog d’ingénierie |
+|                                         | Chiffrement à double clé                           | En cours de déploiement |
+|                                         | Co-création sur des documents chiffrés à l’aide des applications Web WXP                           | Dans le backlog d’ingénierie |
 |                                         | Protection contre la perte de données (DLP) pour les fichiers et le courrier électronique         | Available |
-|                                         | DLP pour les conversations de conversation et de canal         | En cours de déploiement |
-|                                         | Correspondance exacte des données DLP | Dans le backlog d’ingénierie |
+|                                         | DLP pour les conversations de conversation et de canal         | En cours de développement |
 |                                         | Point de terminaison DLP | Dans le backlog d’ingénierie |
-| **Gouvernance des informations** | Archivage des courriers électroniques                                       | Available              |
-|                                         | Verrouillage de conservation          | Available              |
-|                                         | Importer des fichiers PST                      | Available              |
-|                                         | Étiquettes de rétention non enreg.            | Available |
-|                                         | Étiquettes de rétention par défaut pour les bibliothèques, les dossiers et les ensembles de documents SharePoint/OneDrive entreprise ; Boîtes de réception Exchange ; et les groupes Office 365 | Available              |
-|                                         | Stratégies de rétention à l’ensemble de l’Organisation ; des utilisateurs ou des emplacements spécifiques ; et automatiquement en fonction d’une condition spécifique (par exemple, des mots clés ou des informations sensibles)                                       | Available              |
-|                                         | Stratégies de rétention avec classificateur de formation                            | Dans le backlog d’ingénierie |
-|                                         | Stratégies de rétention pour Yammer et Teams                            | Dans le backlog d’ingénierie |
-|                                         | Étiquettes des enregistrements manuels                           | Available              |
-|                                         | Étiquettes d’enregistrement par défaut pour SharePoint, les bibliothèques, les dossiers et les ensembles de documents OneDrive entreprise ; et les groupes Office 365                              | Available              |
-|                                         | Des stratégies d’enregistrement automatiques basées sur des conditions spécifiques (par exemple, des mots clés ou des informations sensibles); et basé sur un événement                            | Available              |
-|                                         | Révisions avant élimination  | Available              |
-|                                         | Gestionnaire de plan de fichiers    | Available |
-|                                         | Preuve de l’élimination                            | Available |
-|                                         | Enregistrements réglementaires                         | Dans le backlog d’ingénierie |
-|                                         | Application des licences de gestion des enregistrements                           | Dans le backlog d’ingénierie |
-|                                         | Révision de la destruction des enregistrements en plusieurs étapes | Dans le backlog d’ingénierie |
-|                                         | Explorateur d’activité des étiquettes | Dans le backlog d’ingénierie |
-|                                         | Classifieurs entraînables | Dans le backlog d’ingénierie |
-|                                         | Étiquettes de confidentialité et d’étiquetage unifiées         | Dans le backlog d’ingénierie |
+| **Gouvernance des informations** | Gouvernance des informations : archivage des courriers électroniques                                       | Available              |
+|                                         | Gouvernance des informations : verrouillage de conservation          | Available              |
+|                                         | Gouvernance des informations : importer PST                      | Available              |
+|                                         | Gouvernance des informations : étiquettes de rétention sans enregistrement manuelles            | Available |
+|                                         | Gouvernance des informations : Etiquettes de rétention par défaut pour SharePoint, bibliothèques, dossiers et ensembles de documents OneDrive entreprise ; Boîtes de réception Exchange ; et les groupes Office 365 | Available              |
+|                                         | Gouvernance des informations : stratégies de rétention à l’ensemble de l’Organisation ; des utilisateurs ou des emplacements spécifiques ; automatiquement en fonction d’une condition spécifique (par exemple, des mots clés ou des informations sensibles); et basé sur un événement                                       | Available              |
+|                                         | Gouvernance des informations : stratégies de rétention avec un classificateur avec apprentissage                            | Dans le backlog d’ingénierie |
+|                                         | Gouvernance des informations : stratégies de rétention pour Yammer et Teams                            | Dans le backlog d’ingénierie |
+|                                         | Gouvernance des informations : étiquettes de rétention à l’aide de la classification Syntex SharePoint                           | Dans le backlog d’ingénierie              |
+|                                         | Gestion des enregistrements : classification manuelle des étiquettes d’enregistrement                           | Available              |
+|                                         | Gestion des enregistrements : étiquettes d’enregistrement par défaut pour SharePoint, bibliothèques, dossiers et ensembles de documents OneDrive entreprise ; et les groupes Office 365                              | Available              |
+|                                         | Gestion des enregistrements : stratégies d’enregistrement automatique basées sur des conditions spécifiques (par exemple, des mots clés ou des informations sensibles); et basé sur un événement                            | Available              |
+|                                         | Gestion des enregistrements : examen des dépôts  | Available              |
+|                                         | Gestion des enregistrements : gestionnaire de plan de gestion de fichiers    | Available |
+|                                         | Gestion des enregistrements : preuve de l’élimination                            | Available |
+|                                         | Gestion des enregistrements : contrôle de version des enregistrements                            | Available |
+|                                         | Gestion des enregistrements : enregistrements réglementaires (préversion publique)                         | En cours de développement |
+|                                         | Gestion des enregistrements : application des licences                           | En cours de déploiement |
+|                                         | Gestion des enregistrements : révision de la disposition sur plusieurs étapes | Dans le backlog d’ingénierie |
+|                                         | Gestion des enregistrements : Explorateur d’activités d’étiquettes | Dans le backlog d’ingénierie |
+|                                         | Gestion des enregistrements : classeurs de formation | Dans le backlog d’ingénierie |
 | **Gestion des risques initiés**             | Référentiel sécurisé client                                | Available            |
-|                                         | Indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de déploiement |
-|                                         | Vol de données en faisant part des utilisateurs                        | En cours de déploiement |
-|                                         | Fuites de données générales                                | En cours de déploiement              |
-|                                         | Analyser les alertes de gestion des risques internes                                   | En cours de déploiement              
-|                                         | Tableau de bord des cas d’Insider gestion des risques, Explorateur de contenu et modèles d’avis | En cours de déploiement |
-|                                         | Escalade de l’enquête pour la découverte électronique avancée | En cours de déploiement|
-|                                         | Fuites de données par les utilisateurs prioritaires (aperçu) | dans le backlog d’ingénierie |
-|                                         | Fuites de données par les utilisateurs mécontents (aperçu) | dans le backlog d’ingénierie |
-|                                         | Violations de stratégie de sécurité générale (préversion) | dans le backlog d’ingénierie |
-|                                         | Violations de stratégie de sécurité par des utilisateurs prioritaires, à l’aide d’utilisateurs distants, d’utilisateurs mécontents (aperçu) | dans le backlog d’ingénierie |
-|                                         | Personnalisation de stratégie (aperçu) | dans le backlog d’ingénierie |
-|                                         | Exporter des alertes (aperçu) | dans le backlog d’ingénierie |
-|                                         | Groupes d’utilisateurs prioritaires (aperçu) | dans le backlog d’ingénierie |
-|                                         | Créer des stratégies de client, 3 préconfigurés pour la conformité de la communication (stratégies de supervision incluses)  | En cours de déploiement |
-|                                         | Conformité de la communication (y compris les stratégies de supervision) prise en charge de teams, Exchange et supprimer les messages teams | En cours de déploiement |
-|                                         | Les alertes d’accès à la conformité de la communication (y compris les stratégies de supervision); modèles de notifications ; Tableau de bord de stratégie de communication | En cours de déploiement  |
-|                                         | Conformité de la communication (y compris les stratégies de supervision) escalade de l’enquête pour la découverte électronique avancée | En cours de déploiement |
-|                                         | Conformité de la communication (stratégies de supervision incluses) détecter le contenu adulte | En cours de déploiement |
+|                                         | Gestion des risques initiés : indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de développement |
+|                                         | Gestion des risques initiés : vol de données par le fait de défaire des utilisateurs                        | En cours de développement |
+|                                         | Gestion des risques initiés : fuites générales de données                                | En cours de développement              |
+|                                         | Gestion des risques initiés : enquête sur les alertes de gestion des risques initiés                                   | En cours de développement              |
+|                                         | Gestion des risques initiés : tableau de bord de cas, Explorateur de contenu et modèles de notification | En cours de développement |
+|                                         | Gestion des risques initiés : escalade pour l’enquête sur Advanced eDiscovery | En cours de développement|
+|                                         | Gestion des risques initiés : modèles de stratégie pour les fuites de données par les utilisateurs prioritaires (aperçu) | Dans le backlog d’ingénierie |
+|                                         | Gestion des risques initiés : modèles de stratégie pour les fuites de données par les utilisateurs mécontents (aperçu) | Dans le backlog d’ingénierie |
+|                                         | Gestion des risques initiés : modèles de stratégie pour les violations de stratégie de sécurité générale (préversion) | Dans le backlog d’ingénierie |
+|                                         | Gestion des risques initiés : modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, à l’aide des utilisateurs distants, des utilisateurs mécontents (aperçu) | Dans le backlog d’ingénierie |
+|                                         | Gestion des risques initiés : personnalisation des stratégies (aperçu) | Dans le backlog d’ingénierie |
+|                                         | Gestion des risques initiés : alertes d’exportation (aperçu) | Dans le backlog d’ingénierie |
+|                                         | Gestion des risques initiés : groupes d’utilisateurs prioritaires (aperçu) | Dans le backlog d’ingénierie |
+|                                         | Conformité de la communication (stratégies de supervision incluses) : créer des stratégies de client, 3 préconfiguré  | En cours de déploiement |
+|                                         | Conformité de la communication (stratégies de supervision incluses) : prise en charge des messages Teams, Exchange et Remove teams | En cours de déploiement |
+|                                         | Conformité de la communication (stratégies de supervision incluses) : accès aux alertes ; modèles de notifications ; Tableau de bord de stratégie de communication | En cours de déploiement  |
+|                                         | Conformité de la communication (stratégies de supervision incluses) : escalade for Advanced eDiscovery | En cours de déploiement |
+|                                         | Conformité de la communication (stratégies de supervision incluses) : détecter le contenu adulte | En cours de déploiement |
 |                                         | Obstacles aux informations | Dans le backlog d’ingénierie |
 |                                         | Gestion des accès privilégiés                    | Dans le backlog d’ingénierie |
 | **Découvrir & répondre**                  | Découverte électronique principale : conservation inaltérable                            | Available              |
+|                                         | Découverte électronique principale : audit                                 | Available              |
 |                                         | Découverte électronique principale : gestion des cas                                 | Available              |
-|                                         | Découverte électronique principale : recherche                                          | Available              |
 |                                         | Découverte électronique principale : exportation                                          | Available              |
-|                                         | Découverte électronique principale : déchiffrement RMS                                  | Available              |
-|                                         | Découverte électronique principale : exportation Native                                   | Available              |
-|                                         | Découverte électronique principale : audit                                        | Available              |
+|                                         | Découverte électronique principale : exportation Native                                  | Available              |
+|                                         | Découverte électronique principale : déchiffrement RMS                                   | Available              |
+|                                         | Découverte électronique principale : Centre de gestion de la sécurité de Microsoft pour rechercher et exporter des éléments dans SharePoint et la corbeille OneDrive entreprise                                        | En cours de développement              |
 |                                         | Découverte électronique avancée : traitement avancé                             | Available |
-|                                         | Découverte électronique avancée : Threading de messagerie                                 | Available |
-|                                         | Découverte électronique avancée : identification quasi en double                   | Available |
-|                                         | Découverte électronique avancée : thèmes                                          | Available |
-|                                         | Découverte électronique avancée : codage prédictif                               | Available |
-|                                         | Découverte électronique avancée : exportation traitée avec chargement d’un fichier                 | Available |
-|                                         | Découverte électronique avancée : balisage                                         | Available |
-|                                         | Découverte électronique avancée : visionneuses                                         | Available |
-|                                         | Découverte électronique avancée : Redactions                                      | Available |
-|                                         | Découverte électronique avancée : filtrage                                       | Available |
-|                                         | Découverte électronique avancée : mise en correspondance des dépositaires et des charges de travail                   | Available |
-|                                         | Découverte électronique avancée : communications des dépositaires                        | Available |
+|                                         | Découverte électronique avancée : tableau de bord                                 | Available |
+|                                         | Découverte électronique avancée : Threading de messagerie                   | Available |
+|                                         | Découverte électronique avancée : exportation (téléchargement, exportation, ajout à un autre jeu d’affichage)                                          | Available |
+|                                         | Découverte électronique avancée : filtrage                               | Available |
+|                                         | Découverte électronique avancée : conservation légale pour les messages de canaux privés teams                 | Available |
+|                                         | Découverte électronique avancée : identification quasi en double                                         | Available |
+|                                         | Découverte électronique avancée : sources de données non privatives de cœur                                         | Available |
+|                                         | Découverte électronique avancée : ingestion de non Office 365                                      | Available |
+|                                         | Découverte électronique avancée : codage prédictif                                       | Available |
+|                                         | Découverte électronique avancée : exportation traitée avec chargement d’un fichier                   | Available |
+|                                         | Découverte électronique avancée : Redactions                        | Available |
 |                                         | Découverte électronique avancée : réviser les ensembles                                     | Available |
-|                                         | Découverte électronique avancée : révision et annotation                             | Available |
-|                                         | Découverte électronique avancée : ingestion de non Office 365                        | Available |
-|                                         | Découverte électronique avancée : rapport de termes de recherche                              | Available |
+|                                         | Découverte électronique avancée : examiner les données (données de requête, balises actives, tableau de bord) et annoter (biffer)                             | Available |
+|                                         | Découverte électronique avancée : rapport de termes de recherche                        | Available |
+|                                         | Découverte électronique avancée : correction d’erreur sur un seul élément                              | Available |
+|                                         | EDiscovery avancée : prise en charge de l’exportation PST                              | Available |
+|                                         | Découverte électronique avancée : balisage                              | Available |
+|                                         | Découverte électronique avancée : rapports de client                              | Available |
+|                                         | Découverte électronique avancée : thèmes                              | Available |
+|                                         | Découverte électronique avancée : visionneuses                              | Available |
+|                                         | Découverte électronique avancée : Yammer Advanced eDiscovery dans le centre de conformité Microsoft                              | Available |
+|                                         | Découverte électronique avancée : Centre de mise en conformité Microsoft pour rechercher et exporter des éléments dans SharePoint et la corbeille OneDrive entreprise                              | En cours de développement |
+|                                         | Découverte électronique avancée : API Graph                              | En cours de développement |
+|                                         | Découverte électronique avancée : réactions des équipes de support                              | En cours de développement |
 |                                         | Audit de base                              | Available |
-|                                         | Audit avancé : accès à des événements cruciaux (par exemple, mailitemsaccessed)                              | En cours de déploiement |
-|                                         | Conservation du journal d’audit avancé (1 an)                               | En cours de déploiement |
-|                                         | Audit avancé augmentation de la bande passante par rapport à l’API activité de gestion                              | En cours de déploiement |
-|    **Gestion de la conformité**            | Gestionnaire de conformité et score                              | Dans le backlog d’ingénierie |
+|                                         | Audit avancé : accès à des événements cruciaux (par exemple, mailitemsaccessed)                              | Available |
+|                                         | Audit avancé : augmentation de la bande passante par rapport à l’API activité de gestion                              | Available |
+|                                         | Audit avancé : conservation légale pour les messages de canaux privés teams                               | Available |
+|                                         | Audit avancé : conservation des journaux (1 an)                               | Available |
+|                                         | Audit avancé : Centre de sécurité et conformité                               | Available |
+|                                         | Audit avancé : rétention à long terme sur les journaux d’audit                               | Dans le backlog d’ingénierie |
+|                                         | Audit avancé : événements de transfert de messages et d’envoi de messages                               | Dans le backlog d’ingénierie |
+|                                         | Audit avancé : analyses d’audit traitées                               | Dans le backlog d’ingénierie |
+|                                         | Audit avancé : événements de terme de recherche dans Exchange Online et SharePoint Online                              | Dans le backlog d’ingénierie |
+|    **Gestion de la conformité**            | Centre de sécurité et conformité Microsoft 365                              | Available |
+|                                         | Gestionnaire de conformité (préversion)                              | Dans le backlog d’ingénierie |
+|                                         | Microsoft Cloud App Security                              | Dans le backlog d’ingénierie |
+|                                         | Prise en charge des caractères codés sur deux octets                              | Dans le backlog d’ingénierie |
 
 
 
