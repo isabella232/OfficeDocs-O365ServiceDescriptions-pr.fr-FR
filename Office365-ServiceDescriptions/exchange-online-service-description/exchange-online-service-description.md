@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245689"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661282"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -52,6 +52,9 @@ Microsoft 365 est disponible dans différents plans pour répondre au mieux aux 
 Un plan d'abonnement doit être attribué à chaque utilisateur qui veut accéder au service Exchange Online, et chaque abonnement d'utilisateur est associé à une boîte aux lettres propre. Les dossiers et messages contenus dans ces boîtes aux lettres résident sur un ordinateur exécutant Exchange Server dans un centre de données Microsoft.
   
 Aucun abonnement d'utilisateur n'est requis pour les salles de conférence et les boîtes aux lettres partagées. Ces types particuliers de boîtes aux lettres ne présentent pas d'informations d'identification. Au lieu de cela, les utilisateurs possédant une licence et disposant des autorisations appropriées les gèrent et y accèdent par délégation.
+
+**Droits d’utilisation de la boîte aux lettres utilisateur F1 Microsoft 365** <br/>
+Microsoft 365 F1 n’inclut pas de droits sur une boîte aux lettres Exchange. Afin d’activer une expérience complète en équipe, M365 les licences F1 peuvent être fournies avec le plan de service Exchange Online K1 activé. Bien que le plan de service Exchange Online K1 configure une boîte aux lettres pour l’utilisateur, les utilisateurs de M365 F1 ne sont pas autorisés à utiliser la boîte aux lettres. Nous vous recommandons de désactiver Outlook sur le Web via [ces étapes](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) et de demander à vos utilisateurs de ne pas accéder à la boîte aux lettres Exchange via d’autres méthodes.
   
 ## <a name="system-requirements-for-exchange-online"></a>Configuration système requise pour Exchange Online
 

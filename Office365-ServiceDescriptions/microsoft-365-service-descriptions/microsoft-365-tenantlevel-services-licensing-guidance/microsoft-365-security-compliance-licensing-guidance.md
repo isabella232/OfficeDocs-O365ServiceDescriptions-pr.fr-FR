@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294160"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661292"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -164,7 +164,7 @@ Voici les avantages pour les utilisateurs du service Gestionnaire de conformité
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 
-Les clients disposant d’Office 365 E1/a1/E3/a3 et de Microsoft 365 E3/a3 peuvent accéder à l’évaluation de la ligne de base de la protection des données. Les clients disposant des licences Office 365 E5/a5 et Microsoft 365 E5/a5 pourront accéder aux évaluations standard de protection des données, RGPD, NIST 800-53 et ISO 22701. Les clients doivent disposer d’au moins une licence Office 365 E5/a5 ou Microsoft 365 E5/a5 pour utiliser la fonctionnalité d’évaluation personnalisée. Les évaluations Premium seront disponibles pour l’achat aux clients Office 365 E5/a5 et Microsoft 365 E5/a5.
+Les clients disposant des licences Office 365 E5/a5 et Microsoft 365 E5/a5 pourront accéder aux analyses de base de données de protection des données, RGPD, NIST 800-53 et ISO 27001, ainsi qu’à l’aide de la fonctionnalité d’évaluation personnalisée. Les évaluations Premium seront disponibles pour l’achat aux clients Office 365 E5/a5 et Microsoft 365 E5/a5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
@@ -429,7 +429,7 @@ Le chiffrement à double clé pour Microsoft 365 vous permet de protéger vos do
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Les utilisateurs bénéficient du chiffrement à double clé en étant en mesure de migrer leurs données chiffrées vers le Cloud et d’empêcher l’accès des tiers tant que la clé reste en contrôle des utilisateurs. Les utilisateurs finaux peuvent protéger et consommer du contenu chiffré à clé double similaire à tout autre contenu protégé par l’étiquette de sensibilité.
+Les utilisateurs bénéficient d’un chiffrement à double clé en étant en mesure de migrer leurs données chiffrées vers le Cloud et d’empêcher l’accès à des tiers tant que la clé reste en contrôle des utilisateurs. Les utilisateurs finaux peuvent protéger et consommer du contenu chiffré à clé double similaire à tout autre contenu protégé par l’étiquette de sensibilité.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits pour qu’un utilisateur bénéficie du service ?
 

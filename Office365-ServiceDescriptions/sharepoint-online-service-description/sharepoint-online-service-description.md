@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294102"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661262"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -42,7 +42,7 @@ Pour plus d’informations sur les dernières fonctionnalités publiées, voir [
 
 Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Pour plus d’informations sur les différents plans, notamment des options de plan autonomes et des informations sur le passage d’un plan à l’autre, consultez la rubrique [options de plan de Microsoft 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Pour accéder à SharePoint, les utilisateurs de votre organisation doivent disposer d’une licence qui inclut SharePoint. Un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre d' [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
+Pour accéder à SharePoint, les utilisateurs de votre organisation doivent disposer d’une licence qui inclut SharePoint. Un plan terrain n’est pas vendu en tant qu’offre autonome, uniquement dans le cadre d' [Office 365 F3](https://www.microsoft.com/microsoft-365/business/office-365-f1), [Microsoft 365 F1](https://www.microsoft.com/microsoft-365/enterprise/f1?activetab=pivot:overviewtab) ou [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/enterprise/f3?activetab=pivot:overviewtab). 
   
 ## <a name="rights-of-guests"></a>Droits des invités
 
@@ -158,7 +158,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Bibliothèques de documents](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [Ensembles de documents](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - Cartes de fichiers (activité, conversations, visionneuses)
-- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [Listes](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [Méga-menus](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Intégration de Microsoft Forms](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). Nécessite un abonnement qui inclut Office 365 et qui exige que l’utilisateur soit concédé sous licence pour les formulaires.
 - [Actualités](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
