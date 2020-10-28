@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 213f3bef10445ac8964e356f3438b9fd3fe100cf
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408220"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773448"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Options de plan Microsoft 365 et Office 365
 
@@ -49,7 +49,7 @@ Chaque plan Microsoft 365 ou Office 365 inclut un certain nombre de services ind
 | Service | Microsoft 365 Apps | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/bureau 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Plateforme Office 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Exchange Online  <br/> |Non  <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>16</sup> <br/> |
+|Exchange Online  <br/> |Non  <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |Oui<sup>5</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>8</sup> <br/> |N °<sup>16</sup> <br/> |
 |SharePoint Online  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui,<sup>17</sup> <br/> |
 |OneDrive  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>4</sup> <br/> |Oui<sup>4</sup> <br/> |
 |Skype entreprise Online <sup>14</sup> <br/> |Non  <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>9</sup> <br/> |Oui<sup>10</sup> <br/> |Oui<sup>12</sup> <br/> |Oui<sup>13</sup> <br/> |Oui<sup>13</sup> <br/> |
@@ -76,7 +76,7 @@ Chaque plan Microsoft 365 ou Office 365 inclut un certain nombre de services ind
 <sup>13</sup> inclut Skype entreprise Online plan 1.<br>
 <sup>14</sup> Microsoft teams est à présent le client principal pour la messagerie, les réunions et les appels dans Microsoft 365. À partir de l’OPO. 1, 2018, les nouveaux clients avec 500 places ou moins sont intégrés à Microsoft teams et n’ont pas accès à Skype entreprise online. Les clients qui utilisent déjà Skype entreprise Online peuvent continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu’à ce qu’ils aient terminé leur transition vers Microsoft Teams.<br>
 <sup>15</sup> inclut la conformité Microsoft 365 E5, qui offre une classification et une rétention automatiques, la clé client, le chiffrement avancé des messages, la gestion des risques initiés, la conformité des communications, les barrières de l’information, le référentiel des clients, la gestion des accès privilégiés, l’audit avancé, la gestion des enregistrements et des fonctionnalités avancées eDiscovery ; et Microsoft 365 E5 sécurité, qui inclut Office 365 Advanced Threat Protection (ATP) plan 2, Microsoft Defender ATP, Azure Active Directory plan 2, Azure ATP, Microsoft Cloud App Security et documents sûrs.<br>
-<sup>16</sup> les utilisateurs de Microsoft 365 F1 sont mis en service le plan de service Kiosk Exchange pour activer le calendrier teams uniquement, sans droit de déploiement des boîtes aux lettres.<br>
+<sup>16</sup> Microsoft 365 F1 n’inclut pas de droits sur une boîte aux lettres Exchange. Pour activer une expérience complète de teams, les licences M365 F1 peuvent être fournies avec le plan de service Exchange Online K1 activé. Bien que le plan de service Exchange Online K1 configure une boîte aux lettres pour l’utilisateur, les utilisateurs de M365 F1 ne sont pas autorisés à utiliser la boîte aux lettres. Nous recommandons à vos clients de désactiver Outlook sur le Web via [ces étapes](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) et de demander aux utilisateurs de ne pas accéder à la boîte aux lettres Exchange via d’autres méthodes.<br>
 <sup>17</sup> inclut SharePoint Online Kiosk. Ne peut pas être administrateur. Aucune boîte aux lettres de site. Pas de site personnel.<br>
 <sup>18</sup> les utilisateurs de Microsoft 365 F1 peuvent lire des fichiers à l’aide d’Office pour le Web, mais ne disposent pas de droits de création/modification/enregistrement. 
   
