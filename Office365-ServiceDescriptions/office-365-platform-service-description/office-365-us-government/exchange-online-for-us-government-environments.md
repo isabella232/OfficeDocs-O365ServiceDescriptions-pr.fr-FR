@@ -8,20 +8,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le nuage des États-Unis et le nuage commercial, comme décrit dans la description du service Exchange Online.
-ms.openlocfilehash: e13a04ea65a66435c686792cea8cae5de226e2b3
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261506"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793647"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements gouvernementaux américains
 
-Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le nuage des États-Unis et le nuage commercial, comme décrit dans la [Description du service Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description). Exchange Online est disponible pour les environnements de la communauté gouvernementale (GCC), GCC High et Department of Defense (DoD).
+Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le nuage des États-Unis et le nuage commercial, comme décrit dans la [Description du service Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-service-description). Exchange Online est disponible pour les environnements de la communauté gouvernementale (GCC), GCC High et Department of Defense (DoD).
 
-Pour plus d’informations sur le Cloud du gouvernement, y compris l’éligibilité et les achats, voir [Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Pour comparer les plans gouvernementaux Office 365, consultez la rubrique [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
+Pour plus d’informations sur le Cloud du gouvernement, y compris l’éligibilité et les achats, voir [Microsoft 365 Government-Comment acheter](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Pour comparer les plans gouvernementaux Office 365, consultez la rubrique [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, reportez-vous aux points de [terminaison GCC High office 365 du gouvernement des États-Unis](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business)   ou [Office 365](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, reportez-vous aux points de [terminaison GCC High office 365 du gouvernement des États-Unis](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou [Office 365](https://docs.microsoft.com/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes, propres aux environnements Cloud du gouvernement américain :
 
@@ -45,7 +45,7 @@ Le tableau suivant décrit si les fonctionnalités Exchange Online spécifiées 
 |Déploiement hybride pris en charge|Oui|Oui|Oui|Pour la coexistence avec Exchange Server en local, Microsoft requiert l’installation d’au moins un serveur d’accès au client Exchange Server 2013 (ou Exchange Server 2016). Exchange Server 2010 et les versions antérieures ne sont pas pris en charge.|
 |Migration IMAP prise en charge|Oui|Oui|Oui||
 |Migration à basculement prise en charge|Oui|Oui|Oui||
-|Migration intermédiaire prise en charge|Oui|Oui|Oui|La migration GSuite n’est pas prise en charge pour GCC High et DoD. Pour plus d’informations, consultez <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">la rubrique effectuer une migration GSuite</a>.|
+|Migration intermédiaire prise en charge|Oui|Oui|Oui|La migration GSuite n’est pas prise en charge pour GCC High et DoD. Pour plus d’informations, consultez <a href="https://docs.microsoft.com/exchange/mailbox-migration/perform-g-suite-migration">la rubrique effectuer une migration GSuite</a>.|
 |**[Autorisations](../../exchange-online-service-description/permissions.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
 |Autorisations basées sur des rôles|Oui|Oui|Oui||
 |Groupes de rôles|Oui|Oui|Oui||
@@ -147,43 +147,43 @@ Le tableau suivant décrit si les fonctionnalités Exchange Online spécifiées 
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Nuances de la fonctionnalité dans les environnements GCC High et DoD
 
-### <a name="connectivity-with-third-party-services"></a>Connectivité avec des services tiers  
+### <a name="connectivity-with-third-party-services"></a>Connectivité avec des services tiers  
 
-Les environnements GCC High et DoD sont tous deux des environnements restreints qui nécessitent une approbation et une configuration explicites des connexions sortantes. De plus, Microsoft ne peut pas prendre en charge les demandes d’autorisation d’accès sortant à partir de ces environnements dans les services Cloud commerciaux (Office 365, Google GSuite, les services Web Amazon, etc.).     
+Les environnements GCC High et DoD sont tous deux des environnements restreints qui nécessitent une approbation et une configuration explicites des connexions sortantes. De plus, Microsoft ne peut pas prendre en charge les demandes d’autorisation d’accès sortant à partir de ces environnements dans les services Cloud commerciaux (Office 365, Google GSuite, les services Web Amazon, etc.).     
 
-En raison de ces restrictions, les fonctionnalités qui dépendent de cette connectivité sortante des environnements GCC High/DoD ne sont généralement pas prises en charge, notamment : 
+En raison de ces restrictions, les fonctionnalités qui dépendent de cette connectivité sortante des environnements GCC High/DoD ne sont généralement pas prises en charge, notamment : 
 
-- Comptes connectés : les utilisateurs ne peuvent pas ajouter/synchroniser des comptes (Google, POP/IMAP, etc.). 
+- Comptes connectés : les utilisateurs ne peuvent pas ajouter/synchroniser des comptes (Google, POP/IMAP, etc.). 
 
-- Prise en charge des fournisseurs de stockage de fichiers tiers-seul le compte OneDrive entreprise de l’utilisateur *au sein de GCC High/DoD*est   accessible à partir des différents clients Outlook dans le but de joindre ou de partager des fichiers. Les comptes de stockage tiers (Dropbox, zone, Google Drive) ne peuvent pas être ajoutés. 
+- Prise en charge des fournisseurs de stockage de fichiers tiers-seul le compte OneDrive entreprise de l’utilisateur *au sein de GCC High/DoD* est accessible à partir des différents clients Outlook dans le but de joindre ou de partager des fichiers. Les comptes de stockage tiers (Dropbox, zone, Google Drive) ne peuvent pas être ajoutés. 
 
-- La connectivité avec les réseaux sociaux, comme Facebook ou LinkedIn. 
+- La connectivité avec les réseaux sociaux, comme Facebook ou LinkedIn. 
 
-### <a name="azure-active-directoryb2b-collaboration"></a>Collaboration B2B Azure Active Directory 
+### <a name="azure-active-directory-b2b-collaboration"></a>Collaboration B2B Azure Active Directory 
 
 La collaboration B2B Azure Active Directory est actuellement prise en charge uniquement entre les organisations qui se trouvent à la fois dans le nuage du gouvernement américain Azure et qui prennent en charge la collaboration B2B.
 
-En outre, les utilisateurs B2B en tant qu’invités dans les groupes Office 365 ne sont pas pris en charge dans les environnements GCC High et DoD. 
+En outre, les utilisateurs B2B en tant qu’invités dans les groupes Office 365 ne sont pas pris en charge dans les environnements GCC High et DoD. 
 
-Pour plus d’informations et pour obtenir les dernières mises à jour, reportez-vous à la rubrique [Azure Governance + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity). 
+Pour plus d’informations et pour obtenir les dernières mises à jour, reportez-vous à la rubrique [Azure Governance + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity). 
 
-### <a name="office-365-message-encryptionbehavior-across-gcc-highdod-boundary"></a>Comportement de chiffrement des messages Office 365 entre les limites de la norme GCC High/DoD 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Comportement de chiffrement des messages Office 365 entre les limites de la norme GCC High/DoD 
 
-Si vous utilisez le chiffrement de messages Office 365 dans un environnement de GCC High, tenez compte de ces caractéristiques uniques concernant l’expérience de destinataire :  
+Si vous utilisez le chiffrement de messages Office 365 dans un environnement de GCC High, tenez compte de ces caractéristiques uniques concernant l’expérience de destinataire :  
 
 - Lors de l’envoi de messages chiffrés de GCC High ou DoD à des destinataires dans le même environnement :
     
-    - Les expéditeurs peuvent chiffrer manuellement les courriers électroniques dans Outlook pour PC et Mac et Outlook sur le Web, ou les organisations peuvent configurer une stratégie pour chiffrer les messages électroniques à l’aide des règles de flux de messagerie Exchange. 
+    - Les expéditeurs peuvent chiffrer manuellement les courriers électroniques dans Outlook pour PC et Mac et Outlook sur le Web, ou les organisations peuvent configurer une stratégie pour chiffrer les messages électroniques à l’aide des règles de flux de messagerie Exchange. 
     
-    - Les destinataires au sein de GCC High/DoD reçoivent la même expérience de lecture incorporée dans Outlook pour PC et Mac et Outlook sur le Web que tous les autres utilisateurs d’Office 365. 
+    - Les destinataires au sein de GCC High/DoD reçoivent la même expérience de lecture incorporée dans Outlook pour PC et Mac et Outlook sur le Web que tous les autres utilisateurs d’Office 365. 
 
 <!-- end list -->
 
 - Lors de l’envoi de messages chiffrés de GCC High ou DoD à des destinataires en dehors de cet environnement (notamment GCC et commercial) :
     
-    - Les expéditeurs au sein de GCC High/DoD peuvent envoyer des messages chiffrés en dehors des limites de GCC High/DoD. 
+    - Les expéditeurs au sein de GCC High/DoD peuvent envoyer des messages chiffrés en dehors des limites de GCC High/DoD. 
     
-    - Tous les destinataires en dehors de GCC High/DoD, y compris les utilisateurs Office 365 commerciaux, les utilisateurs Outlook.com et d’autres utilisateurs d’autres fournisseurs de courrier, reçoivent un message de wrapper. Ce message de wrapper redirige le destinataire vers le portail OME où le destinataire peut lire le message et y répondre. 
+    - Tous les destinataires en dehors de GCC High/DoD, y compris les utilisateurs Office 365 commerciaux, les utilisateurs Outlook.com et d’autres utilisateurs d’autres fournisseurs de courrier, reçoivent un message de wrapper. Ce message de wrapper redirige le destinataire vers le portail OME où le destinataire peut lire le message et y répondre. 
 
 Pour plus d’informations et pour obtenir les dernières mises à jour, consultez la rubrique [compare versions of OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison).
 
@@ -201,12 +201,12 @@ Dans l’environnement DoD :
 
   - L’approbation de Fédération (y compris le partage de disponibilité) est actuellement prise en charge uniquement entre les clients au sein de l’environnement DoD. Elle n’est pas prise en charge entre les clients DoD et les clients GCC ou commercial.
 
-### <a name="client-configuration"></a>Configuration du client 
+### <a name="client-configuration"></a>Configuration du client 
 
-Des étapes supplémentaires sont impliquées dans le déploiement et la configuration d’Office ProPlus (y compris Outlook). Pour obtenir une description détaillée de ces étapes, consultez les [conseils pour le déploiement d’applications Microsoft 365 pour Enterprise dans un environnement GCC High ou DoD ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
+Des étapes supplémentaires sont impliquées dans le déploiement et la configuration d’Office ProPlus (y compris Outlook). Pour obtenir une description détaillée de ces étapes, consultez les [conseils pour le déploiement d’applications Microsoft 365 pour Enterprise dans un environnement GCC High ou DoD ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
 
 Outlook pour iOS et Android est également disponible pour les environnements GCC High et DoD. Pour en savoir plus sur les limitations et la gestion des fonctionnalités dans ces environnements, consultez [la rubrique utilisation d’Outlook pour iOS et Android dans le nuage communautaire du gouvernement](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud).
 
-### <a name="add-insin-outlook-and-outlook-web-app"></a>Compléments dans Outlook et Outlook Web App  
+### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Compléments dans Outlook et Outlook Web App  
 
 Seuls certains compléments OWA et Outlook sont disponibles dans GCC High et DoD. Mes modèles et réunions suggérées sont disponibles et devraient fonctionner. Seuls les cinq compléments OWA par défaut sont pris en charge. L’intégration avec des applications tierces est possible, toutefois, ces intégrations ne sont pas couvertes par les promesses de conformité de Microsoft pour GCC High ou DoD. Les clients doivent se familiariser avec les pratiques de gestion de données tierces et les promesses de conformité avant de configurer le module complémentaire pour leur organisation.

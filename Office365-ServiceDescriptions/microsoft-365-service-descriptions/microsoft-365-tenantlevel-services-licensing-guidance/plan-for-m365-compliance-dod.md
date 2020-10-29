@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365 est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: d76e88aeeef105051d4c7c867e120fc6b300a888
-ms.sourcegitcommit: 155fab0939dde68a8e1ac24bc5d6471be159943e
+ms.openlocfilehash: aca09e0e7768228f39e942fbeffba1bae84cb77f
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48769976"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793651"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan de conformité de Microsoft 365 – Déploiements Département de la Défense (DoD)
 
@@ -59,10 +59,9 @@ Nous vous recommandons de prendre le temps de vérifier soigneusement vos param�
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans le ministère de Microsoft 365, DoD<sup>1</sup>
 
-Pour répondre aux exigences de nos clients Cloud au niveau public, il existe certaines différences entre les forfaits Microsoft 365 Governance et Enterprise. Consultez le tableau suivant pour voir les fonctionnalités disponibles.
+Pour répondre aux exigences de nos clients Cloud au niveau public, il existe certaines différences entre les forfaits Microsoft 365 Governance et Enterprise. Consultez le tableau suivant pour voir les fonctionnalités disponibles.<br><br>
 
-
-|                                         | Fonctionnalité                                         | État GCC             |
+| Domaine                                    | Fonctionnalité                                         | État GCC             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protection des informations**              | Client et scanneur d’étiquetage unifiés         | Available              |
 |                                         | Correspondance exacte des données          | Available               |

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC High est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: df0d78d40e91c171b2a512de4b7d8371ceb59995
-ms.sourcegitcommit: dcacd13c1cf1c60526c48fc923db5de643facc07
+ms.openlocfilehash: 3cbe9271b8e23467fc7934e5847d8433ea5a6768
+ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/20/2020
-ms.locfileid: "48626885"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48793665"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Planifier la conformité de Microsoft 365 – GCC High
 
@@ -36,9 +36,9 @@ Vous trouverez plus d’informations sur le site Microsoft 365 Government-GCC Hi
 La [Description de service Office 365 pour le gouvernement américain](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) décrit les avantages de la plateforme, qui sont centrés sur les exigences de conformité aux États-Unis.
 
 > [!TIP]
-> Vous pouvez transférer les tables d’informations de la description de service dans un classeur Excel et ajouter deux colonnes : **pertinentes pour mon organisation y/n**   et **répond aux besoins de mon organisation y/n**. Vous pouvez ensuite consulter cette liste avec vos collègues afin de vous assurer que ce service répond aux besoins de votre organisation.
+> Vous pouvez transférer les tables d’informations de la description de service dans un classeur Excel et ajouter deux colonnes : **pertinentes pour mon organisation y/n** et **répond aux besoins de mon organisation y/n** . Vous pouvez ensuite consulter cette liste avec vos collègues afin de vous assurer que ce service répond aux besoins de votre organisation.
 
-**Points de décision**:<br/>
+**Points de décision** :<br/>
 - *Déterminez si le GCC-High le gouvernement Microsoft 365 est adapté à votre organisation.*
 - *Vérifiez que votre organisation répond aux conditions d’éligibilité.*
 
@@ -53,14 +53,13 @@ Après avoir décidé que ce service est approprié pour votre organisation, lan
 
 Nous vous recommandons de prendre le temps de vérifier soigneusement vos paramètres d’administrateur et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant de modifier les paramètres de sécurité par défaut.
 
-**Point de décision**: *Déterminez si vous allez modifier les paramètres de sécurité par défaut du gouvernement Microsoft 365 (GCC-High Security Settings), afin de comprendre tout d’abord l’impact des modifications que vous pourriez apporter.*
+**Point de décision** : *Déterminez si vous allez modifier les paramètres de sécurité par défaut du gouvernement Microsoft 365 (GCC-High Security Settings), afin de comprendre tout d’abord l’impact des modifications que vous pourriez apporter.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 Government-GCC-High<sup>1</sup>
 
-Pour répondre aux exigences de nos clients Cloud au niveau public, il existe certaines différences entre les plans de l’administration de Microsoft 365, GCC-High et entreprise. Consultez le tableau suivant pour voir les fonctionnalités disponibles.
+Pour répondre aux exigences de nos clients Cloud au niveau public, il existe certaines différences entre les plans de l’administration de Microsoft 365, GCC-High et entreprise. Consultez le tableau suivant pour voir les fonctionnalités disponibles.<br><br>
 
-
-|                                         | Fonctionnalité                                         | État GCC             |
+| Domaine                                    | Fonctionnalité                                         | État GCC             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protection des informations**              | Client et scanneur d’étiquetage unifiés         | Available              |
 |                                         | Correspondance exacte des données          | Available              |
@@ -176,4 +175,4 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 <sup>2</sup> l’application manuelle des étiquettes nécessite le [client Azure information protection (AIP) version 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 
 
 
-**Point de décision**: *Déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*
+**Point de décision** : *Déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*
