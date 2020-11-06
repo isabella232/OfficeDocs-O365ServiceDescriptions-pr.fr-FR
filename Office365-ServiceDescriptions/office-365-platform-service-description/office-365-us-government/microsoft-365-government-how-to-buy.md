@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble du gouvernement Microsoft 365 et décrit les options d’achat.
-ms.openlocfilehash: bcdff20881d41a566f68e05ac3ae3c4b3be5a40c
-ms.sourcegitcommit: 0f19bed8128f82fddadedffbda8ffe4e03604e45
+ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
+ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "48818664"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48931034"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government-Comment acheter
 
@@ -133,13 +133,16 @@ Les clients peuvent acheter des licences Microsoft 365 pour le gouvernement amé
 **AOS-G partenaires GCC et GCC High (moins de 500 postes)**
 
 - Agile
-- Application information Sciences (AIS) appliquée 
+- Application information Sciences (AIS) appliquée
 - Solutions intégrées C3
+- Carahsoft
 - Dox Electronics, Inc.
 - F1 solutions, Inc.
+- Quatre points
 - KTL solutions, Inc.
 - LiftOff, LLC
 - Technologies Planet
+- Professionnels en mode silencieux
 - Sommets 7 systèmes
 
 **Remarque :** Tous les fournisseurs de solutions de licence Microsoft de la liste précédente peuvent effectuer des opérations de Transact et de GCC par accord entreprise (EA) pour créer la feuille de prix client (CPS). Les organisations qui ne sont pas éligibles pour AE peuvent acheter des licences GCC via le programme d’AOS-G de partenaires ou de fournisseurs agréés.
