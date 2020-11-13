@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
-ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
+ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
+ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48773438"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49003947"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -28,7 +28,7 @@ Pour référence, nous avons inclus cette table principale des abonnements qui p
 |:-----|:-----|:-----|:-----|
 |Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Développeur Office 365 <br/> |
 |Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
-|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
+|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
 |  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
 |  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
 |  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
@@ -45,7 +45,7 @@ Tous les plans d’abonnement pris en charge sont éligibles pour l’accès au 
 
 Microsoft teams n’est pas disponible en tant que service autonome.
 
-## <a name="feature-category-reference"></a>Référence de catégorie de fonctionnalité 
+## <a name="feature-category-reference"></a>Référence de catégorie de fonctionnalité
 
 Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams dans les plans de gestion des licences ou les instances de Cloud. Certaines restrictions s’appliquent. Pour plus d’informations, consultez les notes de bas de page. Cette table peut être modifiée sans préavis. Reportez-vous à Microsoft 365 message Center notifications for Core service change Messaging et à la [documentation de référence des termes du contrat de licence Microsoft](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
@@ -57,16 +57,17 @@ Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams da
 |Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |Oui <br/> |Non  <br/> |Non <br/> |Oui  <br/> |
 |Réunions  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Partage d’écran de bureau audio/vidéo PowerPoint <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Audioconférence  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Applications, robots, connecteurs &  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>4</sup>  <br/> |Oui<sup>4</sup>  <br/> |Oui<sup>, 4</sup>  <br/> |Oui  <br/> |
-|Événements en direct  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>5</sup>  <br/> |N °<sup>5</sup>  <br/> |Oui  <br/> |
+|Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>3</sup>  <br/> |Oui<sup>3</sup>  <br/> |Oui  <br/> |
+|Audioconférence  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>3</sup>  <br/> |Oui<sup>3</sup>  <br/> |Oui  <br/> |
+|Applications, robots, connecteurs &  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup>  <br/> |Oui<sup>5</sup>  <br/> |Oui<sup>4, 5</sup>  <br/> |Oui  <br/> |
+|Événements en direct  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>6</sup>  <br/> |N °<sup>6</sup>  <br/> |Oui  <br/> |
 
 > <sup>1</sup>  Microsoft teams dans GCC-High et DoD prennent en charge 2500 membres d’une équipe individuelle.<br/>
 > <sup>2</sup> le planificateur Microsoft n’est pas disponible actuellement pour accéder aux canaux privés.<br/>
-> <sup>3</sup> Microsoft OneNote n’est pas disponible dans DOD Clouds.<br/>
-> <sup>4</sup> les applications et la publication d’application ne sont pas disponibles dans ces nuages pour le moment.<br/>
-> <sup>5</sup> les événements en direct ne sont pas disponibles dans GCC-High ou DoD pour le moment.<br/>
+> <sup>3</sup> le routage direct doit être configuré pour que Microsoft teams Voice and audio Conferencing fonctionne dans GCCH et DoD.<br/>
+> <sup>4</sup> Microsoft OneNote n’est pas disponible dans DOD Clouds.<br/>
+> <sup>5</sup> les applications et la publication d’application ne sont pas disponibles dans ces nuages pour le moment.<br/>
+> <sup>6</sup> les événements en direct ne sont pas disponibles dans GCC-High ou DoD pour le moment.<br/>
 
 ## <a name="next-steps"></a>Étapes suivantes
 
