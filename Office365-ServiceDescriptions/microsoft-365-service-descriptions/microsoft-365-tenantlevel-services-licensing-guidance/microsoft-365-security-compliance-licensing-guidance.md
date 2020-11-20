@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999717"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330261"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -298,8 +298,8 @@ Les licences suivantes fournissent les droits dont dispose un utilisateur pour b
 - Microsoft 365 E5/a5
 - Microsoft 365 E5/a5-protection & gouvernance
 - Microsoft 365 E5/a5 conformité
-- Gestion des risques Microsoft 365 E5/a5 Insider 
-- Microsoft 365 E5/a5 eDiscovery et audit 
+- Gestion des risques Microsoft 365 E5/a5 Insider
+- Microsoft 365 E5/a5 eDiscovery et audit
 - Office 365 E5/a5
 - Conformité avancée Office 365
 
@@ -377,11 +377,7 @@ Les clés de chiffrement de clés client Office 365 peuvent être activées pour
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Pour attribuer des clés de chiffrement aux données d’une organisation Office 365 et/ou Microsoft 365 pour les utilisateurs titulaires d’une licence, suivez les instructions de déploiement des clés de chiffrement de clé du client.
-
-- Pour les fichiers SharePoint Online, OneDrive entreprise et Teams, les fichiers sur un ou plusieurs sites peuvent être chiffrés à l’aide de la clé client.
-
-- Pour Exchange Online et Skype entreprise, les boîtes aux lettres peuvent être chiffrées à l’aide de la clé client.
+Pour Exchange Online et Skype entreprise, les boîtes aux lettres peuvent être chiffrées à l’aide de la clé client. Vous devez configurer Azure avant de pouvoir utiliser la clé client pour Office 365. Reportez-vous à la rubrique [configurer la clé client](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) pour les étapes à suivre pour créer et configurer les ressources Azure requises et les étapes de configuration de la clé client dans Office 365. Une fois que vous avez terminé l’installation d’Azure, vous déterminez la stratégie et, par conséquent, les clés, à affecter aux boîtes aux lettres et aux fichiers de votre organisation. Les boîtes aux lettres et les fichiers pour lesquels vous n’affectez pas de stratégie utilisent des stratégies de chiffrement qui sont contrôlées et gérées par Microsoft. Pour plus d’informations sur la clé client ou pour obtenir une vue d’ensemble, consultez la rubrique [service Encryption with Customer Key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide).
 
 ## <a name="office-365-customer-lockbox"></a>Demandes Customer Lockbox dans Office 365
 
