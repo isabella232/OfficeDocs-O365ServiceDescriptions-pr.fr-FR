@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le nuage des États-Unis et le nuage commercial, comme décrit dans la description du service Exchange Online.
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988081"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376087"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements gouvernementaux américains
 
@@ -111,7 +111,7 @@ Le tableau suivant décrit si les fonctionnalités Exchange Online spécifiées 
 |Boîtes aux lettres de site|Oui|Oui|Oui||
 |Dossiers publics|Oui|Oui|Oui||
 |**[Clients et appareils mobiles](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
-|À faire Web|Oui|Non|Non||
+|À faire sur le Web|Oui|Non|Non||
 |Outlook pour Windows|Oui|Oui|Oui|Pour répondre aux exigences de conformité à GCC High and DoD, vous devez exécuter au moins la version 1803 d’Office 365 ProPlus. Office 365 ProPlus n’est pas inclus dans G1 ou F3.|
 |Outlook sur le web|Oui|Oui|Oui||
 |Outlook pour Mac|Oui|Oui|Oui|Pour répondre aux exigences de conformité à GCC High and DoD, vous devez exécuter au moins la version 1803 d’Office 365 ProPlus. Office 365 ProPlus n’est pas inclus dans G1 ou F3.|
@@ -170,7 +170,7 @@ Pour plus d’informations et pour obtenir les dernières mises à jour, reporte
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Comportement de chiffrement des messages Office 365 entre les limites de la norme GCC High/DoD
 
-Si vous utilisez le chiffrement de messages Office 365 dans un environnement de GCC High, tenez compte de ces caractéristiques uniques concernant l’expérience de destinataire :  
+Si vous envisagez d’utiliser le chiffrement de messages Office 365 dans un environnement de GCC High, tenez compte de ces caractéristiques uniques concernant l’expérience de destinataire :  
 
 - Lors de l’envoi de messages chiffrés de GCC High ou DoD à des destinataires dans le même environnement :
     
@@ -212,13 +212,13 @@ Outlook pour iOS et Android est également disponible pour les environnements GC
 
 Seuls certains compléments OWA et Outlook sont disponibles dans GCC High et DoD. Mes modèles et réunions suggérées sont disponibles et devraient fonctionner. Seuls les cinq compléments OWA par défaut sont pris en charge. L’intégration avec des applications tierces est possible, toutefois, ces intégrations ne sont pas couvertes par les promesses de conformité de Microsoft pour GCC High ou DoD. Les clients doivent se familiariser avec les pratiques de gestion de données tierces et les promesses de conformité avant de configurer le module complémentaire pour leur organisation.
 
-## <a name="feature-nuances-within-gcc-environments"></a>Nuance de la fonctionnalité dans les environnements GCC
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Nuances de fonctionnalité dans les environnements GCC pour Microsoft à faire
 
 | Fonctionnalité | Description | INTERNATIONALE | Disponibilité dans GCC |
 |:-----|:-----|:-----|:-----|
 |Plateformes prises en charge|Web, Android, iOS, Mac, Windows|Tous|Web uniquement|
 |Le concentrateur M365 prend en charge|Intégrations avec Outlook, teams, Planner|Tous|Outlook, planificateur (teams pour être disponible avec l’application tâches de Teams)|
-|Migration de Wunderlist|Autoriser les utilisateurs de Wunderlist à migrer les données vers la tâche|Oui|Non|
+|Migration de Wunderlist|Autoriser les utilisateurs de Wunderlist à migrer les données vers les tâches sur le Web|Oui|Non|
 |Notifications Push|Envoyer des notifications de type émission aux utilisateurs finaux pour les rappels, etc.|Oui|Non|
 |Prise en charge Helpshift|Utiliser l’interface helpshift pour créer une demande de prise en charge|Oui|Non|
 |Mon jour|Planifier votre journée|Oui|Oui|
