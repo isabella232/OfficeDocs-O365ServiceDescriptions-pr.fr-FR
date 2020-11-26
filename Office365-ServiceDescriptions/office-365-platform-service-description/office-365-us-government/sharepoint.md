@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients Cloud du gouvernement américain.
-ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 310aa1589aed1156de223bed229ce99ef2f5b69a
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294190"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411603"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint pour les environnements gouvernementaux américains
 
@@ -58,16 +58,11 @@ Pour plus d’informations sur la migration FastTrack, voir la [Description du s
 
 Il n’existe pas de différences connues entre les fonctionnalités de sécurité et de conformité pour les clients commerciaux et celles destinées aux clients Cloud du secteur public.
 
-Pour plus d’informations sur les fonctionnalités suivantes, voir la [Description du service Office 365 pour le gouvernement américain](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features):
-- Référentiel sécurisé client
-- Protection contre la perte de données (DLP)
-- Découverte électronique (recherche de contenu, conservation, exportation)
-- Office 365 – Protection avancée contre les menaces (ATP)
-- Étiquettes de confidentialité
+Pour plus d’informations sur les fonctionnalités de sécurité et de conformité, consultez la rubrique [security & Compliance Center](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center).
 
 Pour plus d’informations sur les fonctionnalités Azure Active Directory pour le gouvernement, consultez [la rubrique Azure Government Security + Identity documentation](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
 
-Pour plus d’informations sur les fonctionnalités Azure information protection pour le gouvernement, voir la [Description du service Azure information protection Premium](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) pour le gouvernement 
+Pour plus d’informations sur les fonctionnalités Azure information protection pour le gouvernement, voir la [Description du service public Azure information protection Premium](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description). 
 
 ## <a name="sites-and-content"></a>Sites et contenu
 

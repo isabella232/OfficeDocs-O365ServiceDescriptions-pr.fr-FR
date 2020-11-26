@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans les entités américaines Federal, State, local, tribal ou territoriale territoriale ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072675"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411643"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité de Microsoft 365 (GCC)
 
@@ -46,7 +46,7 @@ La [Description de service Office 365 pour le gouvernement américain](https://d
 > [!NOTE]
 > Microsoft 365 Government-GCC est uniquement disponible aux États-Unis. Les clients gouvernementaux non américains peuvent choisir parmi un certain nombre de [plans gouvernementaux Office 365](https://products.office.com/government/compare-office-365-government-plans).
 
-**Points de décision** : <br/>
+**Points de décision**: <br/>
 - *Déterminez si le gouvernement Microsoft 365 est adapté à votre organisation.*
 - *Vérifiez que votre organisation répond aux conditions d’éligibilité.*
 
@@ -58,7 +58,7 @@ Après avoir décidé que ce service est approprié pour votre organisation, lan
 
 Nous vous recommandons de prendre le temps de vérifier soigneusement vos paramètres d’administrateur et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant de modifier les paramètres de sécurité par défaut.
 
-**Point de décision** : *Déterminez si vous allez modifier les paramètres de sécurité du gouvernement Microsoft 365 par défaut, afin de comprendre tout d’abord l’impact des modifications que vous pourriez apporter.*
+**Point de décision**: *Déterminez si vous allez modifier les paramètres de sécurité du gouvernement Microsoft 365 par défaut, afin de comprendre tout d’abord l’impact des modifications que vous pourriez apporter.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 gouvernement – GCC<sup>1</sup>
 
@@ -106,7 +106,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Gestion des enregistrements : enregistrements réglementaires (préversion publique)                         | En cours de développement |
 |                                         | Gestion des enregistrements : révision de la disposition sur plusieurs étapes | Dans le backlog d’ingénierie |
 |                                         | Gestion des enregistrements : utiliser la classification Syntex SharePoint pour appliquer des étiquettes d’enregistrement | Dans le backlog d’ingénierie |
-| **Gestion des risques initiés**             | Référentiel sécurisé client                                | Available            |
+| **Gestion des risques internes**             | Référentiel sécurisé client                                | Available            |
 |                                         | Gestion des risques initiés : indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de développement |
 |                                         | Gestion des risques initiés : vol de données par le fait de défaire des utilisateurs                        | En cours de développement |
 |                                         | Gestion des risques initiés : fuites générales de données                                | En cours de développement              |
@@ -182,7 +182,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Audit avancé : analyses d’audit traitées                               | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : événements de terme de recherche dans Exchange Online et SharePoint Online                              | Dans le backlog d’ingénierie |
 |    **Gestion de la conformité**            | Centre de sécurité et conformité Microsoft 365                              | Available |
-|                                         | Gestionnaire de conformité                              | En cours de déploiement |
+|                                         | Gestionnaire de conformité                              | Available |
 |                                         | Microsoft Cloud App Security                              | Dans le backlog d’ingénierie |
 |                                         | Prise en charge des caractères codés sur deux octets                              | Dans le backlog d’ingénierie |
 |    **Partenaires**            | API Graph pour Advanced eDiscovery                              | En cours de développement |
@@ -195,4 +195,4 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 
 <sup>1</sup> le statut identifié est susceptible d’être modifié à mesure que les plans de projet et les priorités sont réévalués.<br/>
 
-**Point de décision** : *Déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*
+**Point de décision**: *Déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Fourni via Office 365, Project Online offre des fonctionnalités de gestion de projet puissantes pour la planification, la hiérarchisation et la gestion des projets et des investissements de portefeuille de projets, depuis presque n’importe quel endroit sur n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
-ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
+ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085738"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411593"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -102,7 +102,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Planification des tâches | Obtenez un aperçu des projets sur lesquels vous avez travaillé récemment, ainsi que des projets importants que vous devez surveiller en détail.| Afficher uniquement | Oui | Oui | Oui |
 |Affichage de la chronologie (diagramme de Gantt) | Suivre et comprendre visuellement les dates de projet, les dépendances et les affectations dans une vue de chronologie hiérarchique.|Afficher uniquement | Oui | Oui | Oui |
 |Tâches récapitulatives | Planifier, gérer et suivre les livrables et les phases à l’aide de tâches récapitulatives.| Afficher uniquement | Oui | Oui | Oui |
-|Créer et utiliser des champs personnalisés de tâche | Ajouter des champs personnalisés locaux à des tâches dans un projet, ajouter des données à ces champs ou mettre à jour des données dans ces champs.| Non | Oui | Oui | Oui |
+|Créer et utiliser des champs personnalisés de tâche | Ajouter des champs personnalisés locaux à des tâches dans un projet, ajouter des données à ces champs ou mettre à jour des données dans ces champs.| Afficher uniquement | Oui | Oui | Oui |
 |**Collaboration** ||||||
 |Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui | Oui | Oui |
 |**Gestion des ressources et des programmes** ||||||
@@ -118,13 +118,13 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Applications mobiles | Créez des applications mobiles personnalisées avec les PowerApp. <sup>4</sup> |Non | Non | Oui | Oui |
 |**Personnalisation et intégration**||||||
 |Utiliser l’application de projet prédéfinie | Utiliser l’application de projet prédéfinie pour afficher un projet, créer un projet, ajouter de nouvelles données à un projet ou mettre à jour des données de projet existantes. | Afficher uniquement | Oui | Oui | Oui |
-|Personnalisation des affichages et des formulaires <sup>4</sup> | Personnalisez uniquement les vues et les formulaires dans l’application de projet prédéfinie. | Non | Oui | Oui | Oui |
-|Utiliser des champs personnalisés | Afficher, ajouter, mettre à jour ou supprimer des données dans un champ personnalisé. | Afficher uniquement | Afficher uniquement | Oui | Oui |
-|Utiliser des entités personnalisées <sup>5</sup> | Créez et définissez des entités personnalisées pour conserver les données supplémentaires dont vous avez besoin pour vos projets, programmes, portefeuilles, etc. | Non | Afficher uniquement | Oui | Oui |
+|Personnalisation des affichages et des formulaires <sup>4</sup> | Personnalisez uniquement les vues et les formulaires dans l’application de projet prédéfinie. | Afficher uniquement | Oui | Oui | Oui |
+|Utiliser des colonnes personnalisées | Afficher, ajouter, mettre à jour ou supprimer des données dans une colonne ajoutée à un tableau. | Afficher uniquement | Afficher uniquement | Oui | Oui |
+|Utiliser les tableaux personnalisés <sup>5</sup> | Créer et définir des tables personnalisées pour stocker les données supplémentaires dont vous avez besoin pour vos projets, portefeuilles, etc. | Non | Afficher uniquement | Oui | Oui |
 |**Gestion des utilisateurs et de la sécurité**||||||
 |Groupes modernes Office | Créez une équipe de projet pour collaborer et configurer facilement une collection de ressources que les membres de l’équipe partagent. | Oui | Oui | Oui | Oui |
 |**Applications tierces**||||||
-|Se connecter à *Project pour le Web* avec des applications tierces <sup>4</sup> | Utiliser une application personnalisée ou tierce pour afficher, créer, mettre à jour ou supprimer des données de projet dans une entité de projet native ou personnalisée.<br> Créer des rapports dans des applications tierces basées sur Project pour les données Web. | Non | Non | Oui | Oui |
+|Se connecter à *Project pour le Web* avec <sup>des applications</sup> tierces | Utiliser une application personnalisée ou tierce pour afficher, créer, mettre à jour ou supprimer des données de projet dans n’importe quelle table de projet native ou personnalisée.<br> Créer des rapports dans des applications tierces basées sur Project pour les données Web. | Non | Non | Oui | Oui |
 
 ### <a name="project-online-features"></a>Fonctionnalités de Project Online
 
@@ -157,7 +157,7 @@ Les fonctionnalités indiquées dans cette section interagissent uniquement avec
 |Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérer ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
 |Membres de l’équipe externe |Collaborez avec des personnes en dehors de votre organisation en leur accordant l’accès à vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
 |Sites de projet | Créer et personnaliser un concentrateur pour la collaboration et les documents pour un projet. | Oui | Oui |
-Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
+|Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
 |**Gestion de la demande** ||||
 |Configuration du flux de travail approbation de projet | Créez les flux de travail dont vous avez besoin pour évaluer, classer par priorité et approuver la demande entrante. | Non | Oui |
 |Création de formulaires de demande de projet | Capturez les données importantes relatives à la demande entrante afin de vous aider à évaluer et à hiérarchiser le nouveau travail. | Non | Oui |
@@ -196,7 +196,7 @@ Intégration de Microsoft teams | Collaborer sur des projets dans Microsoft Team
 <sup>2</sup> cartes Azure acquises séparément.</br>
 <sup>3</sup> la création de rapports pour Project pour le Web et Project Online est disponible à l’aide de Power bi. Nécessite une licence Power BI.</br>
 <sup>4</sup> la création et l’utilisation d’applications d’alimentation distinctes au-delà de l’application de projet prédéfinie qui accèdent à Project pour les données client Web ou Project Online nécessitent un abonnement d’applications d’alimentation distinct.</br>
-<sup>5</sup> entités personnalisées.</br>
+<sup>5</sup> limité à 5 tableaux personnalisés.</br>
 <sup>6</sup> la gestion des licences Project Online pour les utilisateurs externes suit la même stratégie que pour les utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement de plan de projet 3 ou de plan de projet 5.</br>
 <sup>7</sup> l’automatisation et l’intégration des processus d’entreprise avec Power Automated with Project for the Web Data nécessitent un abonnement Power Automated et un abonnement plan Project 3 ou Project plan 5.</br>
 <sup>8</sup> les utilisateurs disposant d’un abonnement plan 3 ou plan de projet 5 peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas consulter, combler ou approuver les demandes d’engagement de ressources.</br>

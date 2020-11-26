@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294130"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411653"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -151,7 +151,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour du service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
+|**[Mises à jour de service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu’une action est requise, qu’un problème est résolu, que les fonctionnalités sont déployées ou que les modifications apportées à votre service|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|
@@ -732,7 +732,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.<br><br>
 |Query throttling|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |Aperçu en survol|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Ranking models|N °<sup>5</sup>|Non|Non|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|
-|Refiners|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Affinements|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |RESTful Query API/Query OM|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Result sources|Oui|Oui|Oui|Non|Non|Non|Non|
 |Search connector framework|Non|Non|Non|Non|Non|Non|Non|
@@ -785,7 +785,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.<br><br>
 |Personnes, sites, recommandations de documents|Non|Non|Non|Non|Non|Non|Non|
 |Site personnel |Non|Non|Non|Non|Non|Non|Non|
 |Photos et présence|Non|Non|Non|Non|Non|Non|Non|
-|Profils|Non|Non|Non|Non|Non|Non|Non|
+|Profil|Non|Non|Non|Non|Non|Non|Non|
 |Évaluations|Non|Non|Non|Non|Non|Non|Non|
 |Shared with Me|Non|Non|Non|Non|Non|Non|Non|
 |Flux de site (site d’équipe classique à l’aide de SharePoint social)|Non|Non|Non|Non|Non|Non|Non|
@@ -1070,7 +1070,7 @@ Les fonctionnalités mobiles suivantes ne sont pas prises en charge :
 - « LinkedIn » & les rapports sur « données sur la carte de personnes »
 - Favoris
 - Lire mes courriers électroniques
-- Compléments
+- Add-Ins
 - Réponse intelligente
 - Flux Office
 - Durée de départ
@@ -1099,7 +1099,7 @@ Le tableau suivant répertorie les fonctionnalités de Project Online disponible
 |[Champs personnalisés](../project-online-service-description/core-functionality.md#custom-fields)|Non|Oui|Oui|Oui|Non|
 |[Fonction copier/coller améliorée entre les applications Microsoft Office](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|Non|Oui|Oui|Oui|Non|
 |[Diagramme de Gantt, calendrier et vues de feuille de travail](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|Non|Oui|Oui|Oui|Non|
-|[Interface utilisateur Microsoft Fluent : le ruban](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|Non|Oui|Oui|Oui|Non|
+|[Interface utilisateur, le ruban](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|Non|Oui|Oui|Oui|Non|
 |[Annulations à plusieurs niveaux](../project-online-service-description/core-functionality.md#multiple-level-undo)|Non|Oui|Oui|Oui|Non|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|Non|Oui|Oui|Oui|Non|
 |[Boutique Office](../project-online-service-description/core-functionality.md#office-store)|Non|Non|Non|Non|Non|

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux.
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830405"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411613"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -237,7 +237,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Système d'exploitation utilisé|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
-|**[Mises à jour du service](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 gouvernement F3**|
+|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 gouvernement F3**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu'une action est requise|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Roadmap.office.com pour certaines mises à jour de service|N °<sup>10, 13</sup>|N °<sup>10, 13</sup>|N °<sup>10, 13</sup>|N °<sup>10, 13</sup>|
@@ -446,6 +446,7 @@ Les applications Office suivantes sont disponibles dans les nuages des gouvernem
 |Conversation contextuelle avec co-auteurs : conversion avec les co-auteurs dans le document|Non|Non|Non|
 |Dictée|N °<sup>1</sup>|N °<sup>1</sup>|N °<sup>1</sup>|
 
+Pour la disponibilité des fonctionnalités de Microsoft teams au sein de GCC/GCC High/DoD, consultez la [Description du service Microsoft teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description).
 > <sup>1</sup> disponibilité à venir.
 <br/><sup>2</sup> disponibilité sur un concentrateur de surface local (non connecté).
 <br/><sup>3</sup> le partage externe est disponible pour l’environnement GCC. En savoir plus sur l’activation ou l’activation de [Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements GCC High et DOD. les utilisateurs au sein de votre organisation peuvent effectuer les opérations suivantes : remplir un formulaire et envoyer des réponses, [dupliquer et partager un formulaire en tant que modèle](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [co-auteur ou collaborer sur un formulaire](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b), et [accéder aux résultats de formulaire](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).

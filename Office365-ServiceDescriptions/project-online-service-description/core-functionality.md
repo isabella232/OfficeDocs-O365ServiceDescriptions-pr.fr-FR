@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Les fonctionnalités de base suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294040"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411583"
 ---
 # <a name="core-functionality"></a>Fonctionnalités principales
 
@@ -52,13 +52,13 @@ Collaborez sur le développement d'un planning en copiant et collant des détail
 
 Présenter graphiquement les informations sur le projet à l’aide des affichages Diagramme de Gantt, réseau de tâches, graphique, feuille, utilisation et formulaire. Consultez la rubrique [Choisir le bon affichage de votre planning de projet](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Interface utilisateur Microsoft Fluent: le ruban
+## <a name="user-interface-the-ribbon"></a>Interface utilisateur, le ruban
 
-Augmentez votre productivité avec le ruban, une interface avec onglets qui permet de rechercher et d'utiliser rapidement des fonctionnalités et des commandes Project. [En savoir plus sur le ruban](https://go.microsoft.com/fwlink/p/?LinkId=271325).
-  
+Augmentez votre productivité avec le ruban, une interface avec onglets qui permet de rechercher et d'utiliser rapidement des fonctionnalités et des commandes Project.
+
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Vous pouvez annuler plusieurs modifications en même temps à l’aide du menu annuler. 
+Vous pouvez annuler plusieurs modifications en même temps à l’aide du menu annuler.
   
 ## <a name="network-diagram-view"></a>Affichage de diagrammes de réseau
 
@@ -103,5 +103,3 @@ Utilisez les commandes de zoom de la barre d’état pour modifier rapidement la
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
 Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
-  
-
