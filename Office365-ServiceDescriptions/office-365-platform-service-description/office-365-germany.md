@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany est une option différenciée des services Office 365 déjà disponibles dans l’Europe. Elle permet de répondre aux besoins des clients les plus réglementés en Allemagne, au sein de l’Union européenne (UE) et à l’Association européenne de libre-échange (AELE) en fournissant nos services de productivité de pointe pour le travail numérique, les centres de données allemands, la résidence des données en Allemagne et l’accès aux données et les mesures de contrôle strictes via un modèle de client approuvé unique
-ms.openlocfilehash: 50e53c8bffd947ae11f9dbd97cc2a2c2533bfbfe
-ms.sourcegitcommit: 9f5f23e627e46edb9571853a8ef2654b423a91b8
+ms.openlocfilehash: 798401f339d6964f551e22b29d2bf283051ed304
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48367761"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518825"
 ---
 # <a name="office-365-germany"></a>Office 365 Allemagne
 
@@ -142,7 +142,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Navigateur utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Système d'exploitation utilisé|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Mises à jour du service](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
+|**[Mises à jour de service](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu'une action est requise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Roadmap.office.com pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -156,7 +156,7 @@ Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalité
 |Protocoles IPv4 et IPv6|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**Approbation**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |**[Confidentialité, sécurité et transparence](privacy-security-and-transparency.md)**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Protection avancée contre les menaces|Non|Non|Non|Non|Non|Non|Oui|Non|
+|Microsoft Defender pour Office 365|Non|Non|Non|Non|Non|Non|Oui|Non|
 |Référentiel sécurisé client|Non|Non|Non|Non|Non|Non|Oui|Non|
 |eDiscovery (découverte électronique) avancée|Non|Non|Non|Non|Non|Non|Non|Non|
 |Secure Score|Non|Non|Non|Non|Non|Non|Non|Non|
@@ -262,7 +262,7 @@ Utilisez les tableaux suivants pour comparer la disponibilité des fonctionnalit
 
 | Fonctionnalité | Office Professionnel Plus 2013 | Office Professionnel Plus 2016 | Office 365 ProPlus<sup>10</sup> |
 |:-----|:-----|:-----|:-----|
-|**Applications Office<sup>1, 2</sup>**||||
+|**Applications Office <sup>1, 2</sup>**||||
 |[Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word)|Oui|Oui|Oui|
 |[Microsoft Excel](../office-applications-service-description/office-applications.md#microsoft-excel)|Oui|Oui|Oui|
 |[Microsoft PowerPoint](../office-applications-service-description/office-applications.md#microsoft-powerpoint)|Oui|Oui|Oui|
@@ -375,7 +375,7 @@ Le tableau suivant répertorie les fonctionnalités de Exchange Online disponibl
 |Customize anti-malware policies|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Quarantaine - autogestion par l'utilisateur final|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Protection avancée contre les menaces|Non|--|Non|Non|Non|Non|Oui|Non|
+|Microsoft Defender pour Office 365|Non|--|Non|Non|Non|Non|Oui|Non|
 |**[Flux de messagerie](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Entreprise E1**|**Office 365 Germany Entreprise E3**|**Office 365 Germany Entreprise E4**|**Office 365 Germany Entreprise K1**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Secure messaging with a trusted partner|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -520,11 +520,11 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection
 <sup>17</sup> disponible dans Office 365 Germany E3.<br/>
 <sup>18</sup> disponible sous la forme d’une fonctionnalité complémentaire pour Office 365 Germany.
 
-## <a name="exchange-online-advanced-threat-protection-features"></a>Fonctionnalités d’Exchange Online - Protection avancée contre les menaces
+## <a name="defender-for-office-365-features"></a>Fonctionnalités de Defender pour Office 365
 
-Le tableau suivant répertorie les fonctionnalités d'Exchange Online - Protection avancée contre les menaces disponibles dans les plans Office 365 Germany. Pour plus d’informations sur les fonctionnalités EOP, sélectionnez les liens dans le tableau. Lorsqu’Exchange Online est mentionné, il s’agit généralement de la famille de services Office 365 Entreprise.<br><br>
+Le tableau suivant répertorie les fonctionnalités de Defender pour Office 365 disponibles dans les plans Office 365 Germany. Lorsqu’Exchange Online est mentionné, il s’agit généralement de la famille de services Office 365 Entreprise.<br><br>
 
-| Fonctionnalité | Service Protection avancée contre les menaces autonome | Fonctionnalités du service Protection avancée contre les menaces dans Exchange Online |
+| Fonctionnalité | Version autonome de Defender pour Office 365 | Fonctionnalités de Defender pour Office 365 dans Exchange Online |
 |:-----|:-----|:-----|
 |Liens fiables|Oui|Oui|
 |Pièces jointes fiables|Oui|Oui|
@@ -712,7 +712,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Query throttling|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Aperçu en survol|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Ranking models|Oui<sup>5</sup>|Non|Oui<sup>5</sup>|Oui<sup>5</sup>|Oui<sup>5</sup>|Oui<sup>5</sup>|Oui<sup>5</sup>|Oui<sup>5</sup>|
-|Refiners|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Affinements|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |RESTful Query API/Query OM|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Result sources|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Search connector framework|Non|Non|Non|Non|Non|Non|Non|Non|
@@ -765,7 +765,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais ils ne pre
 |Personnes, sites, recommandations de documents|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Site personnel |Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Photos et présence|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Profils|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Profil|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Évaluations|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Shared with Me|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Flux de site (site d’équipe classique à l’aide de SharePoint social)|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|

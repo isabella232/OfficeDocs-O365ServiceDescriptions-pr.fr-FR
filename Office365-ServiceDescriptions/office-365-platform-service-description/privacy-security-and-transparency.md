@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131668"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519055"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -51,11 +51,10 @@ En tant qu’administrateur Microsoft, vous pouvez utiliser le référentiel sé
   
 Le référentiel sécurisé du client est inclus dans le plan Office 365 Entreprise 5, mais vous pouvez aussi acheter un abonnement distinct avec tout autre plan Office 365 Entreprise. Pour plus d'informations, voir [Demandes Customer Lockbox dans Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
-## <a name="advanced-threat-protection"></a>Protection avancée contre les menaces
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pour Office 365
 
-Office 365 Advanced Threat Protection contribue à protéger votre organisation contre les programmes malveillants et les virus. ATP inclut [des fonctionnalités de liens approuvés](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), de [pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et d’aide à la [décision](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Liens fiables protège de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, ce qui assure une protection chaque fois que le lien est sélectionné. La fonction de pièces jointes approuvées offre une protection contre les programmes malveillants et les virus inconnus en routant l'ensemble des messages et des pièces jointes qui n'ont pas une signature de virus/programmes malveillants connue vers un environnement spécial où le service de protection avancée peut déterminer s'ils comportent du contenu malveillant. Pour plus d’informations sur ATP, voir [Description du service protection avancée contre les menaces d’Office 365](../office-365-advanced-threat-protection-service-description.md).
+Defender for Office 365 permet de protéger votre organisation contre les programmes malveillants et les virus. Defender for Office 365 inclut des fonctionnalités de [liens approuvés](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), de [pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et d’aide à la [décision](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Liens fiables protège de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, ce qui assure une protection chaque fois que le lien est sélectionné. Les pièces jointes fiables protègent contre les programmes malveillants et les virus inconnus, acheminant tous les messages et les pièces jointes qui n’ont pas de signature de virus/programmes malveillants connus vers un environnement spécial où Defender pour Office 365 peut détecter les intentions malveillantes. Pour plus d’informations sur Defender pour Office 365, reportez-vous à la rubrique [Microsoft Defender for office 365 Service Description](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
 Pour afficher la disponibilité des fonctionnalités dans les plans, voir [Microsoft 365 et Office 365 Platform Service Description](office-365-platform-service-description.md).
-  

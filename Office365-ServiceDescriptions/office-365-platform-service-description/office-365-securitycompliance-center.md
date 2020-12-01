@@ -1,5 +1,5 @@
 ---
-title: Centre de sécurité et de conformité
+title: Centre de sécurité et conformité
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261596"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519115"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -67,7 +67,7 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 
 <sup>5</sup> La découverte électronique avancée est prise en charge aux États-Unis et en Europe de l'Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].)
 
-<sup>6</sup> la protection avancée contre les menaces est disponible dans Office 365 E5 et en tant que service autonome pour Office 365 E1 et Office 365 E3.
+<sup>6</sup> Microsoft Defender pour Office 365 est disponible dans Office 365 E5 et en tant que service autonome pour Office 365 E1 et Office 365 E3.
 
 <sup>7</sup> inclut les fichiers stockés dans les référentiels Microsoft Teams.
 

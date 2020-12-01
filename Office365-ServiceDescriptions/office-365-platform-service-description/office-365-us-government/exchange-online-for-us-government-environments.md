@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le nuage des États-Unis et le nuage commercial, comme décrit dans la description du service Exchange Online.
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376087"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519095"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements gouvernementaux américains
 
@@ -73,7 +73,7 @@ Le tableau suivant décrit si les fonctionnalités Exchange Online spécifiées 
 |Customize anti-malware policies|Oui|Oui|Oui||
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui||
 |Quarantaine - autogestion par l'utilisateur final|Oui|Oui|Oui||
-|Protection avancée contre les menaces|Oui|Oui|Oui|Nécessite un plan de service G5 (ou un achat de module complémentaire).<br><br>La protection anti-hameçonnage pour l’emprunt d’identité d’utilisateur et de domaine et l’aide à l’usurpation n’est pas encore disponible dans GCC High et DoD.|
+|Microsoft Defender pour Office 365|Oui|Oui|Oui|Nécessite un plan de service G5 (ou un achat de module complémentaire).<br><br>La protection anti-hameçonnage pour l’emprunt d’identité d’utilisateur et de domaine et l’aide à l’usurpation n’est pas encore disponible dans GCC High et DoD.|
 |**[Flux de messagerie](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui||
 |Secure messaging with a trusted partner|Oui|Oui|Oui||

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661282"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518895"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -104,7 +104,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |Customize anti-malware policies|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
 |Quarantaine - autogestion par l'utilisateur final|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Protection avancée contre les menaces|Non|Oui|Non|Non|Non|Non|Oui|Non|
+|Microsoft Defender pour Office 365|Non|Oui|Non|Non|Non|Non|Oui|Non|
 |**[Flux de messagerie](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Secure messaging with a trusted partner|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|

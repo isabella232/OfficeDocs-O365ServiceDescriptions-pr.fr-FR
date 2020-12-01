@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite de bureau Microsoft Office familière aux versions Cloud des services de communication et de collaboration de nouvelle génération de Microsoft, &mdash; y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online &mdash; pour aider les utilisateurs à être productif depuis quasiment n’importe quel endroit via Internet.
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293880"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518875"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -138,7 +138,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -153,7 +153,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |**Approbation** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Confidentialité, sécurité et transparence](privacy-security-and-transparency.md) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion de la sécurité avancée  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|Protection avancée contre les menaces  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|Microsoft Defender pour Office 365  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Référentiel sécurisé client  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Advanced eDiscovery<sup>7</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Score de sécurité<sup>5</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -220,7 +220,7 @@ Le [Centre de sécurité &amp; conformité](https://docs.microsoft.com/microsoft
 <sup>2</sup> la gouvernance des données avancée vous permet de conserver des informations importantes et de supprimer des informations peu importantes en classant des informations basées sur une stratégie de rétention ou de suppression ou sur les deux. Elle inclut des actions intelligentes/automatisées comme la recommandation de stratégies ; application automatique d’étiquettes à des données ; application d’étiquettes basées sur des types de données sensibles ou sur des requêtes ; et l’utilisation de filtres d’importation intelligents. Elle inclut également la fonctionnalité de surveillance permettant de vérifier les communications des employés à des fins de sécurité et de conformité. <br/> 
 <sup>3</sup> illimité. <br/> 
 <sup>4</sup> Advanced eDiscovery est pris en charge aux États-Unis et dans la région Europe de l’Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) <br/> 
-<sup>5</sup> la protection avancée contre les menaces est disponible dans Office 365 a5 et en tant que service autonome pour Office 365 a1 et Office 365 a3.<br/>
+<sup>5</sup> Microsoft Defender pour Office 365 est disponible dans Office 365 a5 et en tant que service autonome pour Office 365 a1 et Office 365 a3.<br/>
 <sup>6</sup> vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié. <br/>
   
 ## <a name="office-application-features"></a>Fonctionnalités de l’application Office  
@@ -336,7 +336,7 @@ Le tableau suivant répertorie les fonctionnalités d’Exchange Online disponib
 |Customize anti-malware policies  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Quarantaine - gestion par l'administrateur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Quarantaine - autogestion par l'utilisateur final  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Protection avancée contre les menaces  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
+|Microsoft Defender pour Office 365  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |**[Flux de messagerie](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Routage personnalisé du courrier sortant  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Secure messaging with a trusted partner  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -506,7 +506,7 @@ L'espace de stockage disponible dans une boîte aux lettres est déterminé par 
 <sup>3</sup> Les boîtes aux lettres de ressources ne nécessitent pas de licence.<br/> 
 <sup>4</sup> les boîtes aux lettres de site sont créées et gérées dans SharePoint Online. Pour plus d’informations, voir Se préparer à l’utilisation de boîtes aux lettres de site dans Office 365.<br/> 
 <sup>5</sup> vous êtes limité à 1000 boîtes aux lettres de dossiers publics, et la taille totale maximale de toutes les boîtes aux lettres de dossiers publics est de 50 to.<br/> 
-<sup>6</sup> la boîte aux lettres d’archivage ne peut être utilisée que pour archiver des messages pour un seul utilisateur ou une seule entité (par exemple, une boîte aux lettres partagée) pour laquelle une licence a été appliquée. L'utilisation de la boîte aux lettres d'archivage pour stocker les messages de plusieurs utilisateurs ou entités est interdite. Par exemple, un administrateur informatique ne peut pas créer une boîte aux lettres partagée et permettre aux utilisateurs de la copier (via le champ Cc ou Cci, ou une règle de transport) dans le but explicite de procéder à un archivage. Notez qu’une boîte aux lettres partagée utilisée par plusieurs personnes ne stocke pas les messages de ces utilisateurs individuels. Plusieurs utilisateurs ont accès à cette boîte aux lettres partagée et peuvent envoyer des e-mails à partir d’elle. Par conséquent, les seuls messages électroniques stockés dans la boîte aux lettres partagée sont ceux qui sont envoyés vers ou à partir de cette boîte aux lettres partagée.<br/> 
+<sup>6</sup> In-Place archive ne peut être utilisée que pour archiver des messages pour un seul utilisateur ou une seule entité (par exemple, une boîte aux lettres partagée) pour laquelle une licence a été appliquée. L'utilisation de la boîte aux lettres d'archivage pour stocker les messages de plusieurs utilisateurs ou entités est interdite. Par exemple, un administrateur informatique ne peut pas créer une boîte aux lettres partagée et permettre aux utilisateurs de la copier (via le champ Cc ou Cci, ou une règle de transport) dans le but explicite de procéder à un archivage. Notez qu’une boîte aux lettres partagée utilisée par plusieurs personnes ne stocke pas les messages de ces utilisateurs individuels. Plusieurs utilisateurs ont accès à cette boîte aux lettres partagée et peuvent envoyer des e-mails à partir d’elle. Par conséquent, les seuls messages électroniques stockés dans la boîte aux lettres partagée sont ceux qui sont envoyés vers ou à partir de cette boîte aux lettres partagée.<br/> 
 <sup>7</sup> si vous avez créé une stratégie de rétention dans Exchange Online, les messages sont automatiquement déplacés vers la boîte aux lettres d’archivage d’un utilisateur uniquement si la taille de la boîte aux lettres principale de l’utilisateur est supérieure à 10 Mo. La stratégie de rétention ne s’exécute pas automatiquement pour les boîtes aux lettres de moins de 10 Mo. 
   
 #### <a name="capacity-alerts"></a>Alertes de capacité

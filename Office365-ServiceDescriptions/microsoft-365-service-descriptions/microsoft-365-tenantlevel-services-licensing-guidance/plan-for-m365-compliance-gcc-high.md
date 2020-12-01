@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC High est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072665"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518906"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Planifier la conformité de Microsoft 365 – GCC High
 
@@ -38,7 +38,7 @@ La [Description de service Office 365 pour le gouvernement américain](https://d
 > [!TIP]
 > Vous pouvez transférer les tables d’informations de la description de service dans un classeur Excel et ajouter deux colonnes : **pertinentes pour mon organisation y/n** et **répond aux besoins de mon organisation y/n**. Vous pouvez ensuite consulter cette liste avec vos collègues afin de vous assurer que ce service répond aux besoins de votre organisation.
 
-**Points de décision** :<br/>
+**Points de décision**:<br/>
 - *Déterminez si le GCC-High le gouvernement Microsoft 365 est adapté à votre organisation.*
 - *Vérifiez que votre organisation répond aux conditions d’éligibilité.*
 
@@ -53,7 +53,7 @@ Après avoir décidé que ce service est approprié pour votre organisation, lan
 
 Nous vous recommandons de prendre le temps de vérifier soigneusement vos paramètres d’administrateur et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant de modifier les paramètres de sécurité par défaut.
 
-**Point de décision** : *Déterminez si vous allez modifier les paramètres de sécurité par défaut du gouvernement Microsoft 365 (GCC-High Security Settings), afin de comprendre tout d’abord l’impact des modifications que vous pourriez apporter.*
+**Point de décision**: *Déterminez si vous allez modifier les paramètres de sécurité par défaut du gouvernement Microsoft 365 (GCC-High Security Settings), afin de comprendre tout d’abord l’impact des modifications que vous pourriez apporter.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 Government-GCC-High<sup>1</sup>
 
@@ -101,7 +101,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Gestion des enregistrements : enregistrements réglementaires                         | Dans le backlog d’ingénierie |
 |                                         | Gestion des enregistrements : révision de la disposition sur plusieurs étapes | Dans le backlog d’ingénierie |
 |                                         | Gestion des enregistrements : utiliser la classification Syntex SharePoint pour appliquer des étiquettes d’enregistrement | Dans le backlog d’ingénierie |
-| **Gestion des risques initiés**             | Référentiel sécurisé client                                | Available            |
+| **Gestion des risques internes**             | Référentiel sécurisé client                                | Available            |
 |                                         | Gestion des risques initiés : indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de développement |
 |                                         | Gestion des risques initiés : vol de données par le fait de défaire des utilisateurs                        | En cours de développement |
 |                                         | Gestion des risques initiés : fuites générales de données                                | En cours de développement              |
@@ -110,7 +110,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Gestion des risques initiés : escalade pour l’enquête sur Advanced eDiscovery | En cours de développement|
 |                                         | Gestion des risques initiés : indicateurs de périphérique pour l’activité sur Windows 10 Build 1809 et versions ultérieures | Dans le backlog d’ingénierie|
 |                                         | Gestion des risques initiés : indicateurs pour la violation de la stratégie de sécurité (aperçu) | Dans le backlog d’ingénierie|
-|                                         | Gestion des risques initiés : indicateurs pour les alertes Windows Defender ATP (aperçu) | Dans le backlog d’ingénierie|
+|                                         | Gestion des risques initiés : indicateurs pour les alertes Microsoft Defender pour les points de terminaison (aperçu) | Dans le backlog d’ingénierie|
 |                                         | Gestion des risques initiés : modèles de stratégie pour les fuites de données par les utilisateurs prioritaires (aperçu) | Dans le backlog d’ingénierie |
 |                                         | Gestion des risques initiés : modèles de stratégie pour les fuites de données par les utilisateurs mécontents (aperçu) | Dans le backlog d’ingénierie |
 |                                         | Gestion des risques initiés : modèles de stratégie pour les violations de stratégie de sécurité générale (préversion) | Dans le backlog d’ingénierie |
@@ -191,4 +191,4 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 
 <sup>1</sup> le statut identifié est susceptible d’être modifié à mesure que les plans de projet et les priorités sont réévalués.<br/>
 
-**Point de décision** : *Déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*
+**Point de décision**: *Déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*
