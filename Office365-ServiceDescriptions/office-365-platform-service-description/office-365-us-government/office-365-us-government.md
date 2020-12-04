@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et évolutives du secteur public américain, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 gouvernementaux.
-ms.openlocfilehash: 237a1f39b7c5231475c40750777212a8213a9d2b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 63cef3dfac77ae22bc413deab9d375c1cd110b46
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519085"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566676"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -79,6 +79,8 @@ Les services gouvernementaux Office 365 sont fournis à partir de centres de ser
 > Dans le cas d'une utilisation normale, Skype Entreprise ne stocke pas le contenu client, mais si ce stockage se produit, il sera réalisé dans des centres de données aux États-Unis.
 
 Si vos utilisateurs sont situés aux États-Unis et que vous utilisez Office pour le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation des services ADFS (Active Directory Federation Services) 2,0 et que vous configurez des stratégies pour vous assurer que les utilisateurs se connectent aux services via l’authentification unique, tout contenu client temporairement mis en cache dans Office pour le Web sera situé aux
+
+La page utilisation du site pour les sites SharePoint est disponible pour les plans gouvernementaux, bien que par conformité, certaines fonctionnalités de cette page soient disponibles uniquement pour les clients commerciaux. Pour plus d’informations, consultez la [page utilisation du site pour les sites SharePoint dans Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
 ## <a name="office-365-government-and-third-party-services"></a>Services gouvernementaux Office 365 et services tiers
 

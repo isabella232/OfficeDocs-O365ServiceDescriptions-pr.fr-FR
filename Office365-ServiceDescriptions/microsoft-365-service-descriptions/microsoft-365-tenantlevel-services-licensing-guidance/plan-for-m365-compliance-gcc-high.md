@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC High est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518906"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566646"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Planifier la conformité de Microsoft 365 – GCC High
 
@@ -101,7 +101,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Gestion des enregistrements : enregistrements réglementaires                         | Dans le backlog d’ingénierie |
 |                                         | Gestion des enregistrements : révision de la disposition sur plusieurs étapes | Dans le backlog d’ingénierie |
 |                                         | Gestion des enregistrements : utiliser la classification Syntex SharePoint pour appliquer des étiquettes d’enregistrement | Dans le backlog d’ingénierie |
-| **Gestion des risques internes**             | Référentiel sécurisé client                                | Available            |
+| **Gestion des risques initiés**             | Référentiel sécurisé client                                | Available            |
 |                                         | Gestion des risques initiés : indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de développement |
 |                                         | Gestion des risques initiés : vol de données par le fait de défaire des utilisateurs                        | En cours de développement |
 |                                         | Gestion des risques initiés : fuites générales de données                                | En cours de développement              |
@@ -181,7 +181,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Audit avancé : analyses d’audit traitées                              | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : événements de terme de recherche dans Exchange Online et SharePoint Online                              | Dans le backlog d’ingénierie |
 |    **Gestion de la conformité**            | Centre de sécurité et conformité Microsoft 365                              | Available |
-|                                         | Gestionnaire de conformité                                 | En cours de déploiement              |
+|                                         | Gestionnaire de conformité                                 | Available              |
 |                                         | Microsoft Cloud App Security                                 | Available              |
 |                                         | Prise en charge des caractères codés sur deux octets                                 | Dans le backlog d’ingénierie              |
 |    **Partenaires**            | API Graph pour Advanced eDiscovery                              | En cours de développement |
