@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans les entités américaines Federal, State, local, tribal ou territoriale territoriale ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: d315b6e15b9b85d0a336a1a22d43eeb636b40830
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519035"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576009"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité de Microsoft 365 (GCC)
 
@@ -106,7 +106,7 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Gestion des enregistrements : enregistrements réglementaires (préversion publique)                         | En cours de développement |
 |                                         | Gestion des enregistrements : révision de la disposition sur plusieurs étapes | Dans le backlog d’ingénierie |
 |                                         | Gestion des enregistrements : utiliser la classification Syntex SharePoint pour appliquer des étiquettes d’enregistrement | Dans le backlog d’ingénierie |
-| **Gestion des risques internes**             | Référentiel sécurisé client                                | Available            |
+| **Gestion des risques initiés**             | Référentiel sécurisé client                                | Available            |
 |                                         | Gestion des risques initiés : indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de développement |
 |                                         | Gestion des risques initiés : vol de données par le fait de défaire des utilisateurs                        | En cours de développement |
 |                                         | Gestion des risques initiés : fuites générales de données                                | En cours de développement              |
@@ -175,9 +175,9 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Audit avancé : accès à des événements cruciaux (par exemple, mailitemsaccessed)                              | Available |
 |                                         | Audit avancé : augmentation de la bande passante par rapport à l’API activité de gestion                              | Available |
 |                                         | Audit avancé : conservation légale pour les messages de canaux privés teams                               | Available |
-|                                         | Audit avancé : conservation des journaux (1 an)                               | Available |
+|                                         | Audit avancé : conservation des journaux (1 an)                               | En cours de déploiement |
 |                                         | Audit avancé : Centre de sécurité et conformité                               | Available |
-|                                         | Audit avancé : rétention à long terme sur les journaux d’audit                               | Dans le backlog d’ingénierie |
+|                                         | Audit avancé : rétention à long terme sur les journaux d’audit (10 ans)                               | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : événements de transfert de messages et d’envoi de messages                               | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : analyses d’audit traitées                               | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : événements de terme de recherche dans Exchange Online et SharePoint Online                              | Dans le backlog d’ingénierie |
