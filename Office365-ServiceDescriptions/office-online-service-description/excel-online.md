@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel pour le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel dans le navigateur Web, où vous pouvez utiliser des classeurs directement sur le site Web où le classeur est stocké. Tous les clients peuvent visualiser et modifier légèrement des fichiers Office à l’aide d’Office pour le Web.
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294078"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586637"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -54,7 +54,7 @@ Pour modifier l'alignement du texte, utilisez les boutons Alignement sous l'ongl
   
 ## <a name="apply-conditional-formatting"></a>Application d'une mise en forme conditionnelle
 
-Utilisez un format conditionnel pour vous aider à explorer et à analyser visuellement les données, détecter les problèmes critiques et identifier les modèles et les tendances. En savoir plus sur l' [utilisation de la mise en forme conditionnelle dans Excel pour le Web](https://go.microsoft.com/fwlink/p/?LinkId=282326).
+Utilisez un format conditionnel pour vous aider à explorer et à analyser visuellement les données, détecter les problèmes critiques et identifier les modèles et les tendances. En savoir plus sur l' [utilisation de la mise en forme conditionnelle dans Excel pour le Web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -89,7 +89,7 @@ Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion 
 
 ## <a name="check-spelling"></a>Vérifier l’orthographe
 
-Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionnez **examiner**l’orthographe de la  >  **vérification**  >  **orthographique**. En savoir plus sur la vérification de l' [orthographe](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Pour vérifier l’orthographe du texte de votre feuille de calcul, sélectionnez **examiner** l’orthographe de la  >  **vérification**  >  **orthographique**. En savoir plus sur la vérification de l' [orthographe](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -209,7 +209,7 @@ Ajouter et mettre en forme des formes telles que des cases, des cercles, des tra
 
 ## <a name="keyboard-shortcuts"></a>Raccourcis clavier
 
-Vous pouvez contrôler les raccourcis clavier afin qu’ils fonctionnent de la même manière dans les versions Web et de bureau d’Excel en modifiant le paramètre raccourcis clavier &mdash; que vous pouvez même remplacer. Sélectionnez simplement **Help**les  >  **raccourcis clavier**de l’aide.
+Vous pouvez contrôler les raccourcis clavier afin qu’ils fonctionnent de la même manière dans les versions Web et de bureau d’Excel en modifiant le paramètre raccourcis clavier &mdash; que vous pouvez même remplacer. Sélectionnez simplement **Help** les  >  **raccourcis clavier** de l’aide.
   
 ## <a name="merge-cells"></a>Merge cells
 
