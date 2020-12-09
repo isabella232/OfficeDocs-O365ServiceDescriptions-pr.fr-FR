@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518895"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601749"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -116,7 +116,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 |Courrier non trié|Oui|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |MailTips|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès délégué|Oui|Oui|Oui|Oui|Oui|Oui|Oui|N °<sup>24</sup>|
-|Règles de la boîte de réception|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Règles de la boîte de réception|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Comptes connectés|Oui|Oui|Oui|Oui|Oui,<sup>17</sup>|Oui,<sup>17</sup>|Oui,<sup>17</sup>|Oui,<sup>17</sup>|
 |Boîtes aux lettres inactives|Non|Non|N °<sup>9</sup>|N °<sup>9</sup>|N °<sup>9</sup>|Oui|Oui|Non <sup>9</sup>|
 |Carnet d'adresses en mode hors connexion|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -200,7 +200,7 @@ Pour connaître les fonctionnalités disponibles dans Microsoft 365 Business Pre
 <sup>20</sup> pour eDiscovery, vous avez besoin d’une requête distincte pour le Cloud local. <br/>
 <sup>21</sup> le tableau indique si le client fonctionne ou non avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans. <br/>
 <sup>22</sup> pour plus d’informations, consultez la rubrique [chiffrement de service avec la clé client](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> la prise en charge de la messagerie unifiée Exchange Online pour les systèmes PBX tiers via des connexions directes à partir d’un contrôle d’accès terminal contrôlé par le client prendra fin le 2019 avril. Pour plus d’informations, reportez-vous au blog de l’équipe Exchange [cessation de la prise en charge des contrôleurs de frontière de session dans la messagerie unifiée Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) . <br/>
+<sup>23</sup> la prise en charge de la messagerie unifiée Exchange Online pour les systèmes PBX tiers via des connexions directes à partir d’un contrôle d’accès terminal contrôlé par le client prendra fin le 2019 avril. Pour plus d’informations, voir le blog de l’équipe Exchange sur la [prise en charge des contrôleurs de frontière de session dans la messagerie unifiée Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
 <sup>24</sup> un utilisateur F3 ne peut pas ajouter de délégués à sa propre boîte aux lettres, mais il peut accéder à une autre boîte aux lettres (y compris aux boîtes aux lettres partagées) et effectuer toutes les actions qui lui ont été déléguées.<br/>
 <sup>25</sup> un abonnement pour les applications Microsoft 365 pour Enterprise est également requis pour exchange Server 2013 et exchange Server 2016.
 

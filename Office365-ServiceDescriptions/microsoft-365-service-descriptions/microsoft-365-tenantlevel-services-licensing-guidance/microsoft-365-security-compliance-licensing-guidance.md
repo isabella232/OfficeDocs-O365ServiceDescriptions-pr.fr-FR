@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
-ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
+ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576008"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601765"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -25,7 +25,7 @@ Pour les besoins de cet article, un service au niveau du client est un service e
 > [!NOTE]
 > Certains services de client ne sont actuellement pas en mesure de limiter les avantages à des utilisateurs spécifiques. Les efforts doivent être pris pour limiter les avantages du service aux utilisateurs titulaires d’une licence. Cela permettra d’éviter une interruption potentielle des services pour votre organisation une fois que les fonctionnalités de ciblage sont disponibles.
 
-Pour voir les options de licence dont les utilisateurs peuvent bénéficier des fonctionnalités de conformité de Microsoft 365 à compter du 1er avril 2020, téléchargez la comparaison de licences de conformité Microsoft 365 détaillée. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102270)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102287)
+Pour voir les options de licence dont les utilisateurs peuvent bénéficier des fonctionnalités de conformité de Microsoft 365 à compter du 1er avril 2020, téléchargez la comparaison de licences de conformité Microsoft 365 détaillée. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -71,7 +71,7 @@ Les administrateurs peuvent définir l’étendue de la gouvernance d’identit�
 - [Conditions requises pour la licence de révision Azure AD Access](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
 - [Conditions requises en matière de licence pour utiliser la gestion des identités privilégiées](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender pour l’identité
+## <a name="microsoft-defender-for-identity"></a>Microsoft Defender pour l’identité
 
 Microsoft Defender for Identity (anciennement Azure Advanced Threat Protection) est un service Cloud qui permet de protéger les environnements hybrides d’entreprise contre plusieurs types de menaces informatiques ciblées ciblées et de menaces Insiders.
 
@@ -143,7 +143,7 @@ Pour plus d’informations sur la configuration du service, voir [Basic Setup fo
 
 Les administrateurs peuvent étendre les déploiements OCAS pour appliquer la manière dont certaines applications sont consultées et limiter les groupes d’utilisateurs surveillés par la sécurité des applications Cloud d’Office 365. Pour plus d’informations, reportez-vous à la rubrique [déploiement étendu](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) est une solution CASB (Cloud Access Security Broker) qui donne aux organisations une visibilité sur leurs applications et services Cloud, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur permet de contrôler la façon dont les données transitent &mdash; dans n’importe quelle application Cloud.
 

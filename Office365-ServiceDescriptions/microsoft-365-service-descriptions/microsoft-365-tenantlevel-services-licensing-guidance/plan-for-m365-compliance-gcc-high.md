@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils s’appliquent aux professionnels de l’informatique qui encouragent les déploiements d’Office 365 dans des entités gouvernementales américaines fédérales ou d’autres entités qui gèrent les données soumises aux réglementations et aux exigences gouvernementales, où l’utilisation du gouvernement Microsoft 365-GCC High est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: 9b4e4deec0ef79a124cc73679709970f01e73e4d
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566646"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601761"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Planifier la conformité de Microsoft 365 – GCC High
 
@@ -174,15 +174,15 @@ Pour répondre aux exigences de nos clients Cloud au niveau public, il existe ce
 |                                         | Audit avancé : accès à des événements cruciaux (par exemple, mailitemsaccessed)                              | Available |
 |                                         | Audit avancé : augmentation de la bande passante par rapport à l’API activité de gestion                              | Available |
 |                                         | Audit avancé : conservation légale pour les messages de canaux privés teams                              | Available |
-|                                         | Audit avancé : conservation des journaux (1 an)                              | Available |
+|                                         | Audit avancé : conservation des journaux (1 an)                              | En cours de déploiement |
 |                                         | Audit avancé : disponibilité du centre de sécurité et de conformité                              | Available |
-|                                         | Audit avancé : rétention à long terme sur les journaux d’audit                              | Dans le backlog d’ingénierie |
+|                                         | Audit avancé : rétention à long terme sur les journaux d’audit (10 ans)                              | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : événements de transfert de messages et d’envoi de messages                              | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : analyses d’audit traitées                              | Dans le backlog d’ingénierie |
 |                                         | Audit avancé : événements de terme de recherche dans Exchange Online et SharePoint Online                              | Dans le backlog d’ingénierie |
 |    **Gestion de la conformité**            | Centre de sécurité et conformité Microsoft 365                              | Available |
 |                                         | Gestionnaire de conformité                                 | Available              |
-|                                         | Microsoft Cloud App Security                                 | Available              |
+|                                         | Microsoft Cloud App Security                                 | Available              |
 |                                         | Prise en charge des caractères codés sur deux octets                                 | Dans le backlog d’ingénierie              |
 |    **Partenaires**            | API Graph pour Advanced eDiscovery                              | En cours de développement |
 |                                         | Connecteurs de données internes                                 | Dans le backlog d’ingénierie              |
