@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Découvrez les différences entre les plans Microsoft 365 et Office 365 éducation.
-ms.openlocfilehash: 013442afe663aa162428194777593d7c35b1c872
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
+ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072685"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49611256"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -39,6 +39,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |Project|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|N °<sup>5</sup>|
 |Yammer Academic|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Microsoft Stream|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Microsoft Planner|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**Outils de la salle**|**Office 365 Éducation A1**|**Office 365 Éducation A3**|**Office 365 Éducation A5**|**Microsoft 365 Éducation A3**|**Microsoft 365 Éducation A5**|**Avantages de l’utilisation des étudiants dans Office 365 a3**|**Avantages de l’utilisation d’Office 365 a5**|**Avantages de l’utilisation de Microsoft 365 éducation a3**|**Avantages de l’utilisation de Microsoft 365 éducation a5**|
 |Expériences de la classe dans Microsoft teams|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Bloc-notes OneNote pour la classe|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
