@@ -1,20 +1,20 @@
 ---
 title: Description du service Microsoft 365 Business Voice
-ms.author: dstrome
-author: dstrome
-manager: serdars
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice est un service de complément qui vous permet d’utiliser Microsoft teams pour les appels téléphoniques. Cela combine le système téléphonique, le plan d’appels nationaux, l’audioconférence et l’audioconférence.
-ms.openlocfilehash: 7ce58fbd9a60871cbc5f8da981d945f10b83193f
-ms.sourcegitcommit: 9b7d67927c8ed266ccd6b39950f04947e6916ede
+ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605332"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624545"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Description du service Microsoft 365 Business Voice
 
@@ -42,7 +42,7 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec u
 
 ## <a name="microsoft-365-business-voice-features"></a>Fonctionnalités vocales de Microsoft 365
 
-| **Fonctionnalité**                                            | **Téléphonie Microsoft 365 Business** | **Microsoft 365 Business Voice sans forfait d’appels** |
+| Fonctionnalité | Téléphonie Microsoft 365 Business | Microsoft 365 Business Voice sans forfait d’appels |
 |--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Numéros locaux                                          | Oui                              | Oui                                                   |
 | Appels VoIP                                           | Oui                              | Oui                                                   |

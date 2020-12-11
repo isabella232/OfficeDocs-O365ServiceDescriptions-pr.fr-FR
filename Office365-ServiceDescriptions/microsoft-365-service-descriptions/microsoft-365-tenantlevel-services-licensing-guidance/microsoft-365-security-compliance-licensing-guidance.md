@@ -1,7 +1,8 @@
 ---
 title: Conseils de licence Microsoft 365 pour la conformité & la sécurité
-ms.author: v-smandalika
-author: v-smandalika
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: v-smandalika
 audience: ITPro
 ms.topic: reference
 ms.date: 12/01/2020
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter une interruption potentielle des services due à un accès sans licence.
-ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
-ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
+ms.openlocfilehash: de9d26c576b4dd4e77e18db3b85068eff717b0c9
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601765"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624555"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils de licence Microsoft 365 pour la conformité & la sécurité
 
@@ -143,7 +144,7 @@ Pour plus d’informations sur la configuration du service, voir [Basic Setup fo
 
 Les administrateurs peuvent étendre les déploiements OCAS pour appliquer la manière dont certaines applications sont consultées et limiter les groupes d’utilisateurs surveillés par la sécurité des applications Cloud d’Office 365. Pour plus d’informations, reportez-vous à la rubrique [déploiement étendu](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
-## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
+## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
 Microsoft Cloud App Security (MCAS) est une solution CASB (Cloud Access Security Broker) qui donne aux organisations une visibilité sur leurs applications et services Cloud, fournit des analyses sophistiquées pour identifier et combattre les menaces informatiques, et leur permet de contrôler la façon dont les données transitent &mdash; dans n’importe quelle application Cloud.
 
@@ -482,7 +483,7 @@ Par défaut, les messages électroniques Exchange Online, les sites SharePoint e
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous emplacements de **protection contre la perte de données**  >  **Locations**.
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous emplacements de **protection contre la perte de données**  >  .
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Protection contre la perte de données de communication pour teams
 
@@ -502,7 +503,7 @@ Par défaut, la conversation de teams et les messages de canal sont un *emplacem
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous emplacements de **protection contre la perte de données**  >  **Locations**.
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs et les utilisateurs exclus dans le centre de sécurité & de sécurité, sous emplacements de **protection contre la perte de données**  >  .
 
 ## <a name="information-barriers"></a>Obstacles aux informations
 
@@ -510,7 +511,7 @@ Les barrières d’informations sont des stratégies qu’un administrateur peut
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Les utilisateurs bénéficient des fonctionnalités de conformité avancées des barrières d’information lorsqu’ils ne sont pas autorisés à communiquer avec d’autres personnes. Par exemple :<br><br>
+Les utilisateurs bénéficient des fonctionnalités de conformité avancées des barrières d’information lorsqu’ils ne sont pas autorisés à communiquer avec d’autres personnes. Par exemple:<br><br>
 
 | Scénario | Qui a besoin d’une licence ? |
 |:------|:------|:------|
@@ -544,7 +545,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 et Azure information Protection Plan 1 fou
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il configuré/déployé ?
 
-Les administrateurs créent et gèrent les stratégies de chiffrement des messages Office 365 dans le centre d’administration Exchange sous règles de **flux de messagerie**  >  **Rules**. Par défaut, ces règles s’appliquent à tous les utilisateurs du client. Pour plus d’informations sur la configuration des nouvelles fonctionnalités de chiffrement de messages Office 365, consultez la rubrique [set up New office 365 message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Les administrateurs créent et gèrent les stratégies de chiffrement des messages Office 365 dans le centre d’administration Exchange sous règles de **flux de messagerie**  >  . Par défaut, ces règles s’appliquent à tous les utilisateurs du client. Pour plus d’informations sur la configuration des nouvelles fonctionnalités de chiffrement de messages Office 365, consultez la rubrique [set up New office 365 message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour ce service ?
 

@@ -1,20 +1,20 @@
 ---
 title: Environnements de l’administration OneDrive pour les États-Unis
-ms.author: ankirti
-author: kaarins
-manager: ankirti
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: ankirti
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Découvrez la disponibilité des fonctionnalités OneDrive pour les clients Cloud du secteur public américain.
-ms.openlocfilehash: f128a83008a67e61056fb601031815a9d83ee241
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 0094edfed04bd6c8195d6ede2cf611c9b5420541
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42174996"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624535"
 ---
 # <a name="onedrive-for-us-government-environments"></a>Environnements de l’administration OneDrive pour les États-Unis
 
@@ -37,7 +37,7 @@ C’est notre objectif de fournir toutes les fonctionnalités et fonctionnalité
 
 Pour connaître les différences de fonctionnalités entre le nuage commercial et les environnements du nuage dans le secteur public, consultez la rubrique [partage de fichiers](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing).
 
-## <a name="web-features"></a>Fonctionnalités Web
+## <a name="web-features"></a>Fonctionnalités web
 
 Voici les différences entre les fonctionnalités Web pour les clients commerciaux et celles destinées aux clients Cloud du secteur public :
 
