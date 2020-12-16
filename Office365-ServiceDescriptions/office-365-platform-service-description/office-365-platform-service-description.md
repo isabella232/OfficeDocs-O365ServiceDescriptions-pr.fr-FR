@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux.
-ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519125"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683518"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Description des services de la plateforme Microsoft 365 et Office 365
 
@@ -187,6 +187,8 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |Référentiel sécurisé client  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Clé client<sup>14</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Advanced eDiscovery<sup>15</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
+|Audit de base<sup>22</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Audit avancé<sup>22</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft Secure score<sup>7</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Intelligence des menaces  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |**[Conformité](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -225,4 +227,5 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 <br/><sup>18</sup> pour plus d’informations, consultez la rubrique [MyAnalytics plans and Environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>19</sup> inclut les fonctionnalités Azure Active Directory décrites dans la colonne **Office 365 Apps** sur la page [tarification Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Vous devez ajouter l’Azure Active Directory plan 1 ou plan 2, la sécurité mobile de l’entreprise ou Microsoft 365 E3 ou E5 pour obtenir les fonctionnalités de Premium Azure AD.<br/>
 <sup>20</sup> le message de briefing est fourni automatiquement à tous les utilisateurs d’Exchange Online. Pour plus d’informations, consultez la rubrique [configure Briefing mail](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>21</sup> les utilisateurs disposent d’un accès en lecture seule à Project pour le Web. L’utilisation de ces droits est restreinte uniquement avec le projet pour l’application Web et uniquement pour les clients disposant d’une licence plan 1, Project Plan 3 ou Project plan 5. Ces droits n’accordent pas l’accès aux applications de plateforme Power ou à d’autres ensembles de données, Project Online Desktop Client ou Project online. Pour plus d’informations sur les fonctionnalités, consultez la rubrique [Description du service Microsoft Project](../project-online-service-description/project-online-service-description.md).
+<sup>21</sup> les utilisateurs disposent d’un accès en lecture seule à Project pour le Web. L’utilisation de ces droits est restreinte uniquement avec le projet pour l’application Web et uniquement pour les clients disposant d’une licence plan 1, Project Plan 3 ou Project plan 5. Ces droits n’accordent pas l’accès aux applications de plateforme Power ou à d’autres ensembles de données, Project Online Desktop Client ou Project online. Pour plus d’informations sur les fonctionnalités, consultez la rubrique [Description du service Microsoft Project](../project-online-service-description/project-online-service-description.md).<br/>
+<sup>22</sup> l’audit dans Microsoft 365 offre aux organisations une visibilité dans de nombreux types d’activités auditées sur différents services dans Microsoft 365. Utilisez la recherche du journal d’audit du [ &amp; Centre de sécurité](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) pour afficher l’activité des utilisateurs et des administrateurs dans votre organisation. Vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié. Lorsqu’une activité auditée est effectuée par un utilisateur ou un administrateur, un enregistrement d’audit est généré et stocké dans le journal d’audit de l’organisation du client. La durée pendant laquelle un enregistrement d’audit est conservé (et pouvant faire l’objet d’une recherche dans le journal d’audit) dépend de l’abonnement Office 365 ou Microsoft 365 Enterprise du client et du type de licence affecté à des utilisateurs spécifiques.
