@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Découvrez les fonctionnalités de Skype entreprise Online disponibles dans les différents plans Microsoft 365 et Office 365.
-ms.openlocfilehash: 18144b42d6f94f4ce93432d681e136cd8063656c
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 070ea7ca1e66b1157726bea68c4130800b21a9f5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276755"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709742"
 ---
 # <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
 
@@ -48,7 +48,7 @@ Pour afficher tous les plans, reportez-vous [à la rubrique outils puissants pou
   
 Pour une comparaison plus détaillée, consultez le tableau suivant.<br><br>
   
-| Fonctionnalité | Skype Entreprise Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Fonctionnalité | Skype Entreprise Server 2015 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Clients pour Skype Entreprise Online](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |Skype Entreprise Complet  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -145,7 +145,7 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.<br><br>
 |Appels Skype et fédérés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Appel d'équipe  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Moniteur d'appel vidéo  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|Messagerie vocale  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
+|Messagerie vocale  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |[Forfaits d’appels](skype-for-business-online-features.md#calling-plans) (plan d’appels nationaux, achat de module complémentaire requis)  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui  <br/> |Non  <br/> |
 |[Forfaits d’appels](skype-for-business-online-features.md#calling-plans) (plan d’appels internationaux, achat de module complémentaire requis)  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui  <br/> |Non  <br/> |
 |[Crédits de communication](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |Non  <br/> |Non  <br/> |N °<sup>6</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -193,7 +193,7 @@ Le tableau suivant indique la disponibilité des fonctionnalités Skype Entrepri
 > [!NOTE]
 > Les utilisateurs titulaires d'une licence Skype Entreprise Online Plan autonome 2 recevront le client Skype Entreprise Basic, et non le client Skype Entreprise complet. Si vous souhaitez que les utilisateurs reçoivent le client Skype Entreprise, vous devez les mettre à niveau vers une licence qui l'inclut, par exemple une licence d'entreprise. Pour déployer le client Skype entreprise pour vos utilisateurs, reportez-vous à [la rubrique deploy the Skype for Business client in Microsoft 365 ou Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
   
-| Fonctionnalité | Skype Entreprise Server 2015 | Skype entreprise Online plan autonome &nbsp; 1 | Skype entreprise Online plan autonome &nbsp; 2 |
+| Fonctionnalité | Skype Entreprise Server 2015 | Skype entreprise Online plan autonome &nbsp; 1 | Skype entreprise Online plan autonome &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |**[Clients pour Skype Entreprise Online](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||
 |Skype Entreprise Complet  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |

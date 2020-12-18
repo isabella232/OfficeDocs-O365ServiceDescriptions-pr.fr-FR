@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683558"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709752"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -60,19 +60,6 @@ Chaque plan Office 365 géré par 21Vianet inclut un certain nombre de services,
 ## <a name="system-requirements"></a>Configuration requise
 
 Pour connaître la configuration requise pour Office 365, reportez-vous à la page [Configuration requise pour Office](https://products.office.com/office-system-requirements/#Office365forBEG) sur le site des produits [office.com](https://www.office.com).
-
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
-
-Le centre de conformité Microsoft 365 offre un accès facile aux outils dont vous avez besoin pour gérer les besoins de conformité de votre organisation. Les solutions suivantes sont disponibles dans le centre de conformité pour les plans gérés par 21Vianet :
-
-- Protection contre la perte de données (DLP)
-- Rétention
-- Audit
-- Microsoft information protection (MIP)
-
-Reportez-vous à la rubrique Détails de la solution pour comprendre l’ensemble exact de fonctionnalités disponibles dans plan géré par 21Vianet.
-
-Pour en savoir plus sur le centre de conformité Microsoft, cliquez [ici](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center).
 
 ## <a name="platform-features"></a>Fonctionnalités de la plateforme 
 
@@ -131,7 +118,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Hébergement de plusieurs sites web publics SharePoint Online avec des noms de domaine personnalisés<sup>5</sup>|Non|Non|Non|Non|Non|Non|Non|
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy|Non|Non|Non|Non|Non|Non|Non|
-|**[État et continuité du service](service-health-and-continuity.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
+|**[État des services et continuité](service-health-and-continuity.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 entreprise F3 géré par 21Vianet**|
 |Status information available on the **Service health** or **Service status** page|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |État des alertes individuelles disponible dans le tableau de bord du centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Flux RSS **État du service**|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -535,7 +522,7 @@ L'Archivage Exchange Online est disponible dans les plans suivants.
 > [!NOTE]
 > La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 
-| Planification | Description |
+| Prévision | Description |
 |:-----|:-----|
 |**Archivage Exchange Online pour Exchange Server pour Office 365 géré par 21Vianet**|Archive en nuage pour les utilisateurs disposant de boîtes aux lettres principales dans Exchange Server 2013 ou Exchange 2010 (SP2 ou version ultérieure).  <br/> Si vous souhaitez ajouter une archive basée sur le cloud à une boîte aux lettres principale située sur un serveur Exchange local, vous devez configurer un déploiement hybride. Pour plus d'informations sur les déploiements hybrides, voir [Déploiements hybrides Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Archivage Exchange Online pour Exchange Online pour Office 365 géré par 21Vianet**| Les plans suivants comprennent déjà l'archivage et ne nécessitent pas l'Archivage Exchange Online en tant que module complémentaire :  <br/>  Office 365 A1 géré par 21Vianet  <br/>  Office 365 Entreprise E3 géré par 21Vianet  <br/>  Exchange Online Plan 2 pour Office 365 géré par 21Vianet  <br/>  Pour en savoir plus sur les capacités d'archivage des boîtes aux lettres Exchange Online, consultez la rubrique [Boîtes aux lettres d'archivage dans Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|
