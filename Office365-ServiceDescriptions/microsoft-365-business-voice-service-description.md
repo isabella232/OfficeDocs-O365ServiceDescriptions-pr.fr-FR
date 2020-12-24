@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice est un service de complément qui vous permet d’utiliser Microsoft teams pour les appels téléphoniques. Cela combine le système téléphonique, le plan d’appels nationaux, l’audioconférence et l’audioconférence.
-ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: b1b547e7b02865136774e555f33be8e5750de4d4
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624545"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730742"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Description du service Microsoft 365 Business Voice
 
@@ -22,7 +22,7 @@ Microsoft 365 Business Voice est une solution de téléphonie basée sur le Clou
 
 Vous pouvez choisir l’une des deux options Microsoft 365 Business Voice suivantes :
 
-- Téléphonie Microsoft 365 Business
+- Microsoft 365 Business Voice
 - Microsoft 365 Business Voice sans forfait d’appels
 
 Microsoft 365 Business Voice est disponible avec les abonnements suivants avec un maximum de 300 licences :
@@ -42,31 +42,31 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec u
 
 ## <a name="microsoft-365-business-voice-features"></a>Fonctionnalités vocales de Microsoft 365
 
-| Fonctionnalité | Téléphonie Microsoft 365 Business | Microsoft 365 Business Voice sans forfait d’appels |
-|--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| Numéros locaux                                          | Oui                              | Oui                                                   |
-| Appels VoIP                                           | Oui                              | Oui                                                   |
-| Les standards automatiques                                        | Oui                              | Oui                                                   |
-| File d’attente des appels                                             | Oui                              | Oui                                                   |
-| ID de l'appelant                                              | Oui                              | Oui                                                   |
-| Routage des appels                                           | Oui                              | Oui                                                   |
-| Appel d’urgence                                      | Oui                              | Oui                                                   |
-| Appels d’urgence avec emplacement dynamique                | Oui                              | Oui                                                   |
-| Messagerie vocale                                             | Oui                              | Oui                                                   |
-| Parcage d'appel                                              | Oui                              | Oui                                                   |
-| Transfert d’appel                                        | Oui                              | Oui                                                   |
-| Délégation d’appel (partager une ligne téléphonique avec un délégué)   | Oui                              | Oui                                                   |
-| Attente musicale                                          | Oui                              | Oui                                                   |
-| Bloc d’appel                                             | Oui                              | Oui                                                   |
-| Numérotation de l’extension de standard automatique                       | Oui                              | Oui                                                   |
-| Standard automatique/transfert de file d’attente vers la messagerie vocale partagée | Oui                              | Oui                                                   |
-| Réponse vocale interactive multilingue (IVR)          | Oui                              | Oui                                                   |
-| Stratégie d’Appel                                         | Oui                              | Oui                                                   |
-| Plan d’appels nationaux                                  | Oui                              | Oui                                                    |
-| Numérotation gratuite\*                                    | Oui                              | Oui                                                    |
-| Plan d’appels internationaux\*                           | Oui                              | Oui                                                    |
-| Audioconférence                                     | Oui                              | N °<sup>1</sup>                                                   |
+| Fonctionnalité | Microsoft 365 Business Voice | Microsoft 365 Business Voice sans forfait d’appels |
+|--------------------------------------------------------|------------------------------|---------------------------------------------------|
+| Numéros locaux | Oui | OK<sup>*</sup> |
+| Appels VoIP | Oui | OK<sup>*</sup> |
+| Les standards automatiques | Oui | OK<sup>*</sup> |
+| File d’attente des appels | Oui | OK<sup>*</sup> |
+| ID de l'appelant | Oui | OK<sup>*</sup> |
+| Routage des appels | Oui | OK<sup>*</sup> |
+| Appel d’urgence | Oui | OK<sup>*</sup> |
+| Appels d’urgence avec emplacement dynamique | Oui | OK<sup>*</sup> |
+| Messagerie vocale | Oui | OK<sup>*</sup> |
+| Parcage d'appel | Oui | OK<sup>*</sup> |
+| Transfert d’appel | Oui | OK<sup>*</sup> |
+| Délégation d’appel (partager une ligne téléphonique avec un délégué) | Oui | OK<sup>*</sup> |
+| Attente musicale | Oui | OK<sup>*</sup> |
+| Bloc d’appel | Oui | OK<sup>*</sup> |
+| Numérotation de l’extension de standard automatique | Oui | OK<sup>*</sup> |
+| Standard automatique/transfert de file d’attente vers la messagerie vocale partagée | Oui | OK<sup>*</sup> |
+| Réponse vocale interactive multilingue (IVR) | Oui | OK<sup>*</sup> |
+| Stratégie d’Appel | Oui | OK<sup>*</sup> |
+| Plan d’appels nationaux | Oui | Nécessite un plan d’appel tiers |
+| Numérotation gratuite<sup>**</sup> | Oui | Nécessite un plan d’appel tiers |
+| Plan d’appels internationaux<sup>**</sup> | Oui | Nécessite un plan d’appel tiers |
+| Audioconférence | Oui | Oui |
 
-<sup>1</sup> Disponible avec un forfait d’appels fourni par un tiers.
+<sup>*</sup> Disponible avec un forfait d’appels fourni par un tiers.
 
-\* La numérotation gratuite et le forfait d’appels internationaux sont disponibles à des coûts supplémentaires à l’aide des [crédits de communication](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Pour en savoir plus, consultez la rubrique [numéros gratuits de numérotation](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) et de [taux d’appels internationaux](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).
+<sup>**</sup> La numérotation gratuite et le forfait d’appels internationaux sont disponibles à des coûts supplémentaires à l’aide des [crédits de communication](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Pour en savoir plus, consultez la rubrique [numéros gratuits de numérotation](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) et de [taux d’appels internationaux](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).
