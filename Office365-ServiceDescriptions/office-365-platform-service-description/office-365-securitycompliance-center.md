@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le centre de sécurité &amp; conformité est conçu pour vous aider à gérer les fonctionnalités de conformité dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730722"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740965"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -30,21 +30,19 @@ Pour voir les options de licence dont les utilisateurs peuvent bénéficier des 
 | Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 gouvernement américain G1 | Office 365 E3, Office 365 gouvernement américain G3 | Office 365 E5 | Office 365 F3, Office 365 gouvernement américain F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
-|[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1, 3</sup> |Non   |Oui  |Oui   |Non   |Oui   |Oui   |Non   |
-|[Étiquettes de désensibilité manuelle](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
+|[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive entreprise](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
+|[Étiquettes de désensibilité manuelle](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
 |[cas eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[conservations eDiscovery (y compris les conservations eDiscovery basées sur une requête)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Non   |Non   |Non  |Non   |Oui   |Oui   |Non   |
 |[Exportation de la découverte électronique](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Non   |Non   |Non   |Oui   |Oui   |Non   |
-|[Audit de base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |Oui   |Oui   |Oui|Oui   |Oui   |Oui   |Oui   |
+|[Audit de base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Oui   |Oui   |Oui|Oui   |Oui   |Oui   |Oui   |
 |[Office 365 message Encryption (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Non   |Non   |Non   |Non   |Oui  |Oui   |Non   |
 
-<sup>1</sup> inclut les fichiers stockés dans les référentiels Microsoft Teams.
+<sup>1</sup> les journaux d’audit de tous les plans qui incluent l’audit de base (à l’exception de E5) sont conservés pendant 90 jours. Dans la mesure où E5 inclut un audit avancé, les journaux d’audit sont conservés pendant un an maximum. Vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié.
 
-<sup>2</sup> les journaux d’audit de tous les plans qui incluent l’audit de base (à l’exception de E5) sont conservés pendant 90 jours. Dans la mesure où E5 inclut un audit avancé, les journaux d’audit sont conservés pendant un an maximum. Vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié.
+<sup>2</sup> requiert le complément de protection contre la perte de données Office 365.
 
-<sup>3</sup> nécessite le complément de protection contre la perte de données Office 365.
-
-<sup>4</sup> les étiquettes de confidentialité sont également incluses dans Azure information protection P1 et P2.
+<sup>3</sup> les étiquettes de confidentialité sont également incluses dans Azure information protection P1 et P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilité du centre de sécurité conformité pour les plans autonomes
 
