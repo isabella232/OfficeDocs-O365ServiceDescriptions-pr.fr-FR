@@ -11,16 +11,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences pour la conformité de Microsoft 365 afin d’éviter les interruptions de service potentielles en raison d’un accès sans licence.
-ms.openlocfilehash: 04ff448cd45ed81b17ed230547462c80d8c47669
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: ef31f5c9b833163434e6df224b6f8bf8bd462155
+ms.sourcegitcommit: 58befa733e889d34e2f7598ccf894cc8a60dcea0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49779988"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49786856"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Conseils sur les licences Microsoft 365 pour la conformité & sécurité
 
-Dans le cadre de cet article, un service au niveau du client est un service en ligne qui, lorsqu’il est acheté pour un utilisateur du client (autonome ou dans le cadre de &mdash; plans Office 365 ou Microsoft 365), est activé en partie ou en intégralité pour tous les utilisateurs du &mdash; client. Bien que certains utilisateurs sans licence puissent techniquement être en mesure d’accéder au service, une licence est requise pour tous les utilisateurs qui souhaitent bénéficier du service.
+Dans le cadre de cet article, un service au niveau du client est un service en ligne qui, lorsqu’il est acheté pour un utilisateur du client (autonome ou dans le cadre de &mdash; plans Office 365 ou Microsoft 365), est activé en partie ou en intégralité pour tous les utilisateurs du &mdash; client. Bien que certains utilisateurs sans licence puissent techniquement accéder au service, une licence est requise pour tous les utilisateurs qui souhaitent bénéficier du service.
 
 > [!NOTE]
 > Certains services clients ne sont actuellement pas en mesure de limiter les avantages à des utilisateurs spécifiques. Des efforts doivent être faits pour limiter les avantages du service aux utilisateurs titulaires d’une licence. Cela permet d’éviter toute interruption de service potentielle pour votre organisation une fois que les fonctionnalités de ciblage sont disponibles.
@@ -33,11 +33,11 @@ Azure Active Directory Identity Protection est une fonctionnalité du plan Azure
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Les analystes et les professionnels de la sécurité SecOps bénéficient d’affichages consolidés d’utilisateurs marqués et d’événements à risque basés sur des algorithmes d’apprentissage automatique. Les utilisateurs finaux bénéficient de la protection automatique fournie par l’accès conditionnel basé sur les risques et de la sécurité améliorée fournie en agissant sur les vulnérabilités.
+Les analystes et les professionnels de la sécurité SecOps bénéficient d’affichages consolidés d’utilisateurs marqués et d’événements de risque basés sur des algorithmes d’apprentissage automatique. Les utilisateurs finaux bénéficient de la protection automatique fournie par l’accès conditionnel basé sur les risques et de la sécurité améliorée fournie en agissant sur les vulnérabilités.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Les clients titulaires de licences E1 et E3 pourront accéder uniquement à l’évaluation de référence de la protection des données par défaut. Les clients titulaires de licences Office 365 E5/A5 et Microsoft 365 E5/A5 (conformité, gouvernance de la protection des informations et références eDiscovery et audit incluses) pourront accéder aux évaluations prédécoupes de la protection des données, du &amp; R GDPR, du NIST 800-53 et de la norme ISO 27001. La fonctionnalité d’évaluation personnalisée et les évaluations premium sont réservées aux clients Office 365 E5/A5 et Microsoft 365 E5/A5. Les évaluations Premium seront disponibles à l’achat au cours du premier semestre 2021 via VL, CSP et WebDirect.  
+Les clients titulaires de licences Office 365 E5/A5 et Microsoft 365 E5/A5 pourront accéder aux évaluations prédé telles que la base de référence de protection des données, le R GDPR, le NIST 800-53 et ISO 27001, et utiliser la fonctionnalité d’évaluation personnalisée. Les évaluations Premium seront disponibles à l’achat pour les clients Office 365 E5/A5 et Microsoft 365 E5/A5 au cours du premier semestre 2021. Ils seront disponibles à l’achat via VL, CSP et WebDirect.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
@@ -73,7 +73,7 @@ Les administrateurs peuvent affecter l’étendue de la gouvernance des identit�
 
 ## <a name="microsoft-defender-for-identity"></a>Microsoft Defender pour Identity
 
-Microsoft Defender pour l’identité (anciennement Azure Advanced Threat Protection) est un service cloud qui permet de protéger les environnements hybrides d’entreprise contre plusieurs types de cyberattaques ciblées avancées et de menaces internes.
+Microsoft Defender for Identity (anciennement Azure Advanced Threat Protection) est un service cloud qui permet de protéger les environnements hybrides d’entreprise contre plusieurs types de cyberattaques ciblées avancées et de menaces internes.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -89,7 +89,7 @@ Par défaut, les fonctionnalités de Microsoft Defender pour l’identité sont 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Microsoft Defender pour les services d’identité n’est actuellement pas capable de limiter les fonctionnalités à des utilisateurs spécifiques. Vous devez obtenir une licence pour chaque utilisateur dont vous avez l’intention de bénéficier.
+Microsoft Defender pour les services d’identité n’est actuellement pas capable de limiter les fonctionnalités à des utilisateurs spécifiques. Vous devez obtenir une licence pour chaque utilisateur dont vous avez l’intention d’en bénéficier.
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pour Office 365
 
@@ -97,7 +97,7 @@ Microsoft Defender pour Office 365 (anciennement Office 365 - Protection avancé
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Microsoft Defender pour Office 365 protège les utilisateurs contre les attaques sophistiquées telles que le hameçonnage et les programmes malveillants « zero-day ». Pour obtenir la liste complète des services fournis dans les plans 1 et 2, consultez [Microsoft Defender pour Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+Microsoft Defender pour Office 365 protège les utilisateurs contre les attaques sophistiquées telles que le hameçonnage et les programmes malveillants « zero-day ». Pour obtenir la liste complète des services fournis dans les plans 1 et Plan 2, voir [Microsoft Defender pour Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ? 
 
@@ -126,7 +126,7 @@ Pour comparer les [fonctionnalités, voir Différences entre Microsoft Cloud App
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-OCAS découvre shadow IT, offre une protection contre les menaces dans Office 365 et peut contrôler les applications autorisées à accéder aux données.
+OCAS découvre shadow IT, fournit une protection contre les menaces dans Office 365 et peut contrôler les applications autorisées à accéder aux données.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
@@ -189,7 +189,7 @@ Voici les avantages pour les utilisateurs du service Gestionnaire de conformité
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Les clients titulaires de licences Office 365 E5/A5 et Microsoft 365 E5/A5 pourront accéder aux évaluations prédé telles que la protection des données, le R GDPR, le NIST 800-53 et ISO 27001, et utiliser la fonctionnalité d’évaluation personnalisée. Les évaluations Premium seront disponibles à l’achat pour les clients Office 365 E5/A5 et Microsoft 365 E5/A5 au cours du premier semestre 2021. Ils seront disponibles à l’achat via VL, CSP et WebDirect.
+Les clients titulaires de licences E1 et E3 pourront accéder uniquement à l’évaluation de référence de la protection des données par défaut. Les clients titulaires de licences Office 365 E5/A5 et Microsoft 365 E5/A5 (conformité, gouvernance de la protection des informations et références eDiscovery et audit incluses) pourront accéder aux évaluations prédécoupes de la protection des données, du &amp; R GDPR, du NIST 800-53 et de la norme ISO 27001. La fonctionnalité d’évaluation personnalisée et les évaluations premium sont réservées aux clients Office 365 E5/A5 et Microsoft 365 E5/A5. Les évaluations Premium seront disponibles à l’achat au cours du premier semestre 2021 via VL, CSP et WebDirect. 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
@@ -231,10 +231,10 @@ Les utilisateurs bénéficient de la possibilité d’appliquer manuellement des
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 et AIP Plan 2 fournissent les droits pour qu’un utilisateur bénéficie de l’étiquetage de sensibilité manuelle.
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 et AIP Plan 2 fournissent aux utilisateurs les droits de bénéficier de l’application et de l’affichage d’étiquettes de sensibilité dans Power BI et de protéger les données lorsqu’elles sont exportées de Power BI vers Excel, PowerPoint ou PDF. 
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 et AIP Plan 2 permettent à un utilisateur de bénéficier de l’application et de l’affichage d’étiquettes de sensibilité dans Power BI et de protéger les données lorsqu’elles sont exportées de Power BI vers Excel, PowerPoint ou PDF. 
 
 > [!NOTE]
-> Power BI est inclus dans Microsoft 365 E5/A5/G5 ; Dans tous les autres plans, Power BI doit être sous licence séparément.
+> Power BI est inclus dans Microsoft 365 E5/A5/G5 ; Dans tous les autres plans, Power BI doit être titulaire d’une licence distincte.
 
 Microsoft 365 E5/A5/G5, conformité Microsoft 365 E5/A5/G5, Protection et gouvernance des informations Microsoft 365, Office 365 E5, Conformité avancée Office 365, Enterprise Mobility + Security E5 et Plan AIP 2 fournissent aux utilisateurs les droits de bénéficier de l’étiquetage automatique de la sensibilité.
 
@@ -260,13 +260,13 @@ Les utilisateurs bénéficient de la possibilité de classer des données à des
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Les plans Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 et les plans Exchange autonomes offrent aux utilisateurs les droits de bénéficier de l’application manuelle d’étiquettes de rétention non-enregistrement aux données de boîte aux lettres.
+Les plans Microsoft 365 F3/Business Premium, Office 365 E1/A1/F3 et les plans Exchange autonomes fournissent aux utilisateurs les droits qui leur permettent d’appliquer manuellement des étiquettes de rétention non-enregistrement aux données de boîte aux lettres.
 
-Les plans Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 et les plans SharePoint autonomes offrent aux utilisateurs les droits de bénéficier de l’application manuelle d’étiquettes de rétention sans enregistrement à des fichiers dans SharePoint ou OneDrive. 
+Les plans Microsoft 365 F3/F1/Business Premium, Office 365 E1/A1/F3 et les plans SharePoint autonomes offrent aux utilisateurs les droits de bénéficier de l’application manuelle d’étiquettes de rétention sans enregistrement aux fichiers dans SharePoint ou OneDrive. 
 
 Microsoft 365 E5/A5/E3/A3/Business Premium, Office 365 E5/A5/E3/A3, Exchange Plan 2 et Archivage Exchange Online fournissent aux utilisateurs les droits de bénéficier d’une stratégie de rétention de boîte aux lettres de base à l’échelle de l’organisation ou à l’échelle de l’emplacement et/ou d’appliquer manuellement un étiquetage de rétention sans enregistrement aux données de boîte aux lettres.
 
-Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3 et SharePoint Plan 2 fournissent les droits pour qu’un utilisateur bénéficie d’une stratégie de rétention SharePoint ou OneDrive de base et/ou applique manuellement une étiquette de rétention sans enregistrement aux fichiers dans SharePoint ou OneDrive.
+Microsoft 365 E5/A5/E3/A3, Office 365 E5/A5/E3/A3 et SharePoint Plan 2 fournissent aux utilisateurs les droits de bénéficier d’une stratégie de rétention SharePoint ou OneDrive de base et/ou d’appliquer manuellement une étiquette de rétention sans enregistrement aux fichiers dans SharePoint ou OneDrive.
 
 Microsoft 365 E5/A5/E3/A3 et Office 365 E5/A5/E3/A3 fournissent les droits pour qu’un utilisateur bénéficie d’une stratégie de rétention Teams.
 
@@ -286,13 +286,13 @@ Les fonctionnalités de gouvernance des informations peuvent être appliquées a
 
 ## <a name="records-management"></a>Gestion des enregistrements
 
-La gestion des enregistrements aide les organisations à respecter leurs obligations commerciales et réglementaires en matière de conservation des enregistrements par le biais de la découverte, de la classification, de l’étiquetage, de la rétention et de la suppression à l’échelle de leurs données Microsoft 365 et tierces.
+La gestion des enregistrements permet aux organisations de respecter leurs obligations commerciales et réglementaires en matière de conservation des enregistrements par le biais de la découverte, de la classification, de l’étiquetage, de la rétention et de la suppression à l’échelle de leurs données Microsoft 365 et tierces.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Microsoft 365 E5/A5, Conformité Microsoft 365 E5/A5, Protection et gouvernance des informations Microsoft 365, Office 365 E5/A5, Conformité avancée Office 365 fournissent les droits à un utilisateur pour bénéficier de la gestion des enregistrements, y compris la déclaration d’éléments en tant qu’enregistrements, l’application automatique d’étiquettes de rétention ou d’enregistrements et l’exécution de processus de révision de la disposition (à l’exclusion de l’application automatique d’une étiquette de rétention basée sur des classifieurs entra nessables).
+Microsoft 365 E5/A5/G5, La conformité Microsoft 365 E5/A5/G5, la protection et la gouvernance des informations Microsoft 365, Office 365 E5/A5/G5, la conformité avancée Office 365 fournissent aux utilisateurs les droits de bénéficier de la gestion des enregistrements, y compris la déclaration d’éléments en tant qu’enregistrements ou enregistrements réglementaires, l’application automatique d’étiquettes de rétention ou d’enregistrements et l’exécution de processus de révision de disposition (à l’exclusion de l’application automatique d’une étiquette de rétention basée sur des classifieurs entra nessables).
 
-Microsoft 365 E5/A5, conformité Microsoft 365 E5/A5, Protection des informations Microsoft 365 et gouvernance fournissent aux utilisateurs les droits nécessaires pour bénéficier de l’application automatique d’étiquettes de rétention ou d’enregistrement basées sur des classifieurs entraisables.
+Microsoft 365 E5/A5, conformité Microsoft 365 E5/A5 et Microsoft 365 Information Protection and Governance fournissent les droits pour qu’un utilisateur bénéficie de l’application automatique d’étiquettes de rétention ou d’enregistrement basées sur des classifieurs entraisables.
 
 Pour obtenir des droits spécifiques par licence, consultez la comparaison détaillée des licences de conformité Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -302,19 +302,19 @@ Les utilisateurs bénéficient de la possibilité de déclarer du contenu en tan
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
-Par défaut, les fonctionnalités de gestion des enregistrements sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur la configuration de la gestion des enregistrements à appliquer pour les utilisateurs sous licence, voir En savoir plus sur la gestion des enregistrements [dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+Par défaut, les fonctionnalités de gestion des enregistrements sont activées au niveau du client pour tous les utilisateurs au sein du client. Pour plus d’informations sur la configuration de la gestion des enregistrements à appliquer aux utilisateurs sous licence, voir En savoir plus sur la gestion des enregistrements [dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Les fonctionnalités de gestion des enregistrements peuvent être appliquées aux utilisateurs sous licence à des emplacements spécifiques (sites d’équipe, sites de groupe, etc.). Pour plus d’informations sur la configuration de la gestion des enregistrements à appliquer pour les utilisateurs sous licence, voir En savoir plus sur la gestion des enregistrements [dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+Les fonctionnalités de gestion des enregistrements peuvent être appliquées aux utilisateurs sous licence à des emplacements spécifiques (sites d’équipe, sites de groupe, etc.). Pour plus d’informations sur la configuration de la gestion des enregistrements à appliquer aux utilisateurs sous licence, voir En savoir plus sur la gestion des enregistrements [dans Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
 
 ## <a name="data-connectors"></a>Connecteurs de données 
 
-Microsoft fournit des connecteurs de données tiers qui peuvent être configurés dans le Centre de conformité Microsoft 365. Pour obtenir la liste des connecteurs de données fournis par Microsoft, consultez la table [des connecteurs de données tiers.](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) Ce tableau récapitule également les solutions de conformité que vous pouvez appliquer aux données tierces après avoir importé et archivé des données dans Microsoft 365, et des liens vers les instructions pas à pas pour chaque connecteur.
+Microsoft fournit des connecteurs de données tiers qui peuvent être configurés dans le Centre de conformité Microsoft 365. Pour obtenir la liste des connecteurs de données fournis par Microsoft, consultez la table [des connecteurs de données tiers.](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data#third-party-data-connectors) Ce tableau récapitule également les solutions de conformité que vous pouvez appliquer aux données tierces après avoir importé et archivé des données dans Microsoft 365, ainsi que des liens vers les instructions pas à pas pour chaque connecteur.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Le principal avantage de l’utilisation de connecteurs de données pour importer et archiver des données tierces dans Microsoft 365 est que vous pouvez appliquer différentes solutions de conformité Microsoft 365 aux données après leur importation. Cela permet de s’assurer que les données non Microsoft de votre organisation sont conformes aux réglementations et normes qui affectent votre organisation.
+Le principal avantage de l’utilisation de connecteurs de données pour importer et archiver des données tierces dans Microsoft 365 est que vous pouvez appliquer différentes solutions de conformité Microsoft 365 aux données après leur importation. Cela permet de s’assurer que les données non-Microsoft de votre organisation sont conformes aux réglementations et normes qui affectent votre organisation.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
@@ -373,7 +373,7 @@ Un utilisateur bénéficie d’Advanced eDiscovery lorsque l’utilisateur est s
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 et Office 365 Advanced Compliance fournissent les droits d’un utilisateur pour bénéficier de core eDiscovery.
+Microsoft 365 E5/A5/G5/E3/A3/G3, Office 365 E5/A5/G5/E3/A3/G3 et Office 365 Advanced Compliance fournissent les droits à un utilisateur pour bénéficier de core eDiscovery.
 
 Microsoft 365 E5/A5/G5, conformité Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5 eDiscovery and Audit, Office 365 E5/A5/G5 et Office 365 Advanced Compliance fournissent les droits pour qu’un utilisateur bénéficie d’Advanced eDiscovery.
 
@@ -423,11 +423,11 @@ Les administrateurs peuvent activer Customer Lockbox dans le Centre d’administ
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Actuellement, le service Customer Lockbox ne peut pas être limité à des utilisateurs spécifiques. Vous devez obtenir une licence pour chaque utilisateur dont vous avez l’intention de bénéficier.
+Actuellement, le service Customer Lockbox ne peut pas être limité à des utilisateurs spécifiques. Vous devez obtenir une licence pour chaque utilisateur dont vous avez l’intention d’en bénéficier.
 
 ## <a name="privileged-access-management-in-office-365"></a>Gestion des accès privilégiés dans Office 365
 
-[La gestion des accès privilégiés (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) fournit un contrôle d’accès granulaire sur les tâches d’administration privilégiées dans Office 365. Après avoir autorisé PAM, pour effectuer des tâches avec élévation de privilèges et privilèges, les utilisateurs doivent demander un accès juste-à-temps via un flux de travail d’approbation hautement limité et limité dans le temps.
+[La gestion des accès privilégiés (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) fournit un contrôle d’accès granulaire sur les tâches d’administration privilégiées dans Office 365. Après avoir autorisé PAM, pour effectuer des tâches avec élévation de privilèges et privilégiées, les utilisateurs doivent demander un accès juste-à-temps via un flux de travail d’approbation hautement limité et limité dans le temps.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -467,7 +467,7 @@ Pour affecter des clés de chiffrement à des données au sein d’une organisat
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Protection contre la perte de données Office 365 pour Exchange Online, SharePoint Online et OneDrive Entreprise
 
-Avec la protection contre la perte de données (DLP) Office 365 pour Exchange Online, SharePoint Online et OneDrive Entreprise, les organisations peuvent identifier, surveiller et protéger automatiquement les informations sensibles sur les e-mails et les fichiers (y compris les fichiers stockés dans les référentiels de fichiers Microsoft Teams).
+Avec la protection contre la perte de données Office 365 (DLP) pour Exchange Online, SharePoint Online et OneDrive Entreprise, les organisations peuvent identifier, surveiller et protéger automatiquement les informations sensibles dans les e-mails et les fichiers (y compris les fichiers stockés dans les référentiels de fichiers Microsoft Teams).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
@@ -475,7 +475,7 @@ Les utilisateurs bénéficient de la DLP pour Exchange Online, SharePoint Online
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Microsoft 365 A1/E3/A3/Business, Office 365 E3/A3 et Office 365 Protection contre la perte de données fournissent les droits d’un utilisateur pour bénéficier d’Office 365 DLP pour Exchange Online, SharePoint Online et OneDrive Entreprise.
+Microsoft 365 E3/A3/Business Premium, Office 365 E3/A3 et Office 365 Protection contre la perte de données fournissent les droits d’un utilisateur pour bénéficier d’Office 365 DLP pour Exchange Online, SharePoint Online et OneDrive Entreprise.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
@@ -503,7 +503,7 @@ Par défaut, les messages de conversation et de canal Teams sont un emplacement 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Les administrateurs peuvent personnaliser des emplacements (charges de travail), des utilisateurs inclus et des utilisateurs exclus dans le Centre de sécurité & conformité, sous Emplacements de **protection contre la perte de**  >  **données.**
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs inclus et les utilisateurs exclus dans le Centre de sécurité & conformité, sous Emplacements de **protection contre la perte de**  >  **données.**
 
 ## <a name="information-barriers"></a>Obstacles aux informations
 
@@ -511,7 +511,7 @@ Les obstacles à l’information sont des stratégies qu’un administrateur peu
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Les utilisateurs bénéficient des fonctionnalités avancées de conformité des obstacles aux informations lorsqu’ils ne peuvent pas communiquer avec d’autres personnes. Par exemple:<br><br>
+Les utilisateurs bénéficient des fonctionnalités avancées de conformité des obstacles aux informations lorsqu’ils ne peuvent pas communiquer avec d’autres personnes. Par exemple :<br><br>
 
 | Scénario | Qui a besoin d’une licence ? |
 |:------|:------|:------|
@@ -519,7 +519,7 @@ Les utilisateurs bénéficient des fonctionnalités avancées de conformité des
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Microsoft 365 E5/A5, conformité Microsoft 365 E5/A5, Microsoft 365 Insider Risk Management, Office 365 E5/A5 et Conformité avancée Office 365 fournissent les droits pour qu’un utilisateur bénéficie des obstacles à l’information.
+Microsoft 365 E5/A5, conformité Microsoft 365 E5/A5, Microsoft 365 Insider Risk Management, Office 365 E5/A5 et Conformité avancée Office 365 fournissent les droits d’un utilisateur pour tirer parti des obstacles à l’information.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
@@ -527,7 +527,7 @@ Les administrateurs créent et gèrent des stratégies d’obstacle aux informat
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs inclus et les utilisateurs exclus dans le Centre de sécurité & conformité. Par exemple, si tous les utilisateurs sont titulaires d’une licence Office 365 E3 et qu’aucun utilisateur n’est titulaire d’une licence Office 365 Conformité avancée/E5, ils n’ont pas besoin de créer de stratégies de obstacle aux informations pour l’organisation. Pour plus d’informations, voir [Obstacles aux informations dans Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
+Les administrateurs peuvent personnaliser les emplacements (charges de travail), les utilisateurs inclus et les utilisateurs exclus dans le Centre de sécurité & conformité. Par exemple, si tous les utilisateurs sont titulaires d’une licence Office 365 E3 et qu’aucun utilisateur n’est titulaire d’une licence Office 365 Conformité avancée/E5, ils n’ont pas besoin de créer de stratégies d’obstacle aux informations pour l’organisation. Pour plus d’informations, voir [Obstacles aux informations dans Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams)
 
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 
@@ -569,7 +569,7 @@ Les administrateurs créent et gèrent des stratégies de chiffrement de message
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Les administrateurs doivent appliquer des règles de flux de messagerie pour le chiffrement de messages avancé uniquement aux utilisateurs titulaires d’une licence. Pour plus d’informations sur la définition des règles de flux de messagerie, voir Définir des règles de flux de messagerie pour chiffrer les messages électroniques [dans Office 365.](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
+Les administrateurs doivent appliquer des règles de flux de messagerie pour le chiffrement de messages avancé uniquement aux utilisateurs titulaires d’une licence. Pour plus d’informations sur la définition de règles de flux de messagerie, voir Définir des règles de flux de messagerie pour chiffrer les messages électroniques [dans Office 365.](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email)
 
 ## <a name="communication-compliance"></a>Conformité des communications
 
@@ -589,11 +589,11 @@ Les administrateurs et les spécialistes de la conformité créent des stratégi
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de conformité des communications. Lors du choix d’un groupe, il peut également sélectionner des utilisateurs spécifiques du groupe à exclure de la stratégie de conformité des communications. Pour plus d’informations sur les stratégies de conformité des communications, consultez La mise en place de la [conformité des communications dans Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
+Les administrateurs choisissent des utilisateurs ou des groupes spécifiques à inclure dans une stratégie de conformité des communications. Lors du choix d’un groupe, ils peuvent également sélectionner des utilisateurs spécifiques du groupe à exclure de la stratégie de conformité des communications. Pour plus d’informations sur les stratégies de conformité des communications, consultez La mise en place de la [conformité des communications dans Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
 ## <a name="insider-risk-management"></a>Gestion des risques internes
 
-La gestion des risques internes est une solution de Microsoft 365 qui vous permet de minimiser les risques internes en vous permettant de détecter, d’examiner et d’agir sur les activités à risque dans votre organisation.
+La gestion des risques internes est une solution de Microsoft 365 qui permet de minimiser les risques internes en vous permettant de détecter, d’examiner et de prendre des mesures sur les activités à risque dans votre organisation.
 
 Les stratégies personnalisées vous permettent de détecter et de prendre des mesures sur les activités malveillantes et accidentellement risquées dans votre organisation, y compris la escalade de cas vers Microsoft Advanced eDiscovery, si nécessaire. Les analystes des risques de votre organisation peuvent rapidement prendre les mesures appropriées pour s’assurer que les utilisateurs sont conformes aux normes de conformité de votre organisation.
 
@@ -603,7 +603,7 @@ Les utilisateurs peuvent tirer parti du fait que leurs activités sont surveill�
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
 
-Microsoft 365 E5/A5, conformité Microsoft 365 E5/A5 et Microsoft 365 Insider Risk Management fournissent les droits pour qu’un utilisateur bénéficie de la gestion des risques internes.
+Microsoft 365 E5/A5, conformité Microsoft 365 E5/A5 et Microsoft 365 Insider Risk Management fournissent les droits d’un utilisateur pour bénéficier de la gestion des risques internes.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
@@ -647,7 +647,7 @@ Les utilisateurs titulaires d’une licence Avec audit avancé et le module de r
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
-Les utilisateurs profitent de l’audit avancé, car les enregistrements d’audit liés à l’activité des utilisateurs dans les services Microsoft 365 peuvent être conservés pendant un an. En outre, les événements d’audit à valeur élevée sont enregistrés, par exemple lorsque les éléments de la boîte aux lettres d’un utilisateur sont accessibles ou lus. Pour plus d’informations, [voir Audit avancé dans Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
+Les utilisateurs profitent de l’audit avancé, car les enregistrements d’audit liés à l’activité des utilisateurs dans les services Microsoft 365 peuvent être conservés pendant un an. En outre, les événements d’audit à valeur élevée sont enregistrés, par exemple lorsque des éléments de la boîte aux lettres d’un utilisateur sont accessibles ou lus. Pour plus d’informations, [voir Audit avancé dans Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
