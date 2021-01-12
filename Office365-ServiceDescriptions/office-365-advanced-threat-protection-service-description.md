@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender pour Office 365 est un service de filtrage du courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les virus et les programmes malveillants inconnus en offrant une protection zero-day robuste, et inclut des fonctionnalités pour protéger votre organisation contre les liens dangereux en temps réel.
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790438"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794960"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Description du service Microsoft Defender pour Office 365
 
@@ -97,13 +97,13 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online
 |*Intégration à [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Non|Oui|Oui|
 
 > [!NOTE]
-> Si votre client dispose uniquement de la licence d’essai Defender pour Office 365 Plan 2 ou de la licence d’essai Microsoft 365 E5, sans autre licence éligible pour Microsoft 365 Defender, vous ne pourrez pas accéder à Microsoft 365 Defender. Pour en savoir plus, [consultez les conditions requises pour Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+> Si votre client dispose uniquement d’une licence d’essai Office ATP P2 ou d’une licence d’essai Office 365 E5, sans autre licence éligible pour la Protection Microsoft contre les menaces, vous ne pourrez pas accéder à la Protection Microsoft contre les menaces. Pour en savoir plus sur la licence MTP, voir <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
 
 ## <a name="defender-for-office-365-capabilities"></a>Fonctionnalités de Defender pour Office 365
 
 ### <a name="safe-attachments"></a>Pièces jointes sûres
 
-[La fonction Pièces jointes sécurisées](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) protège contre les programmes malveillants et les virus inconnus et fournit une protection zero-day pour protéger votre système de messagerie. Tous les messages et pièces jointes qui n’ont pas de signature de virus/programmes malveillants connus sont acheminés vers un environnement spécial dans lequel Defender pour Office 365 utilise diverses techniques d’apprentissage automatique et d’analyse pour détecter les intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
+[La fonction Pièces jointes](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) sécurisées protège contre les programmes malveillants et les virus inconnus et fournit une protection zero-day pour protéger votre système de messagerie. Tous les messages et pièces jointes qui n’ont pas de signature de virus/programmes malveillants connus sont acheminés vers un environnement spécial dans lequel Defender pour Office 365 utilise diverses techniques d’apprentissage automatique et d’analyse pour détecter les intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
 
 > [!NOTE]
 > L’analyse des pièces jointes sécurisées a lieu dans la même région que vos données Office 365. Pour plus d’informations sur la géographie du centre de données, [voir Où se trouvent vos données ?](https://products.office.com/where-is-your-data-located?geo=All)
@@ -114,7 +114,7 @@ La [fonctionnalité Liens sécurisés](https://docs.microsoft.com/microsoft-365/
 
 Les liens sécurisés sont disponibles pour les URL dans les applications suivantes:
 
-- Applications Microsoft 365 pour les entreprises sur Windows ou Mac
+- Applications Microsoft 365 pour entreprise sur Windows ou Mac
 
 - Office pour le Web (Word pour le Web, Excel pour le Web, PowerPoint pour le Web et OneNote pour le Web)
 
@@ -154,11 +154,11 @@ Ce qu'il faut savoir avant de commencer
 
 ### <a name="anti-phishing-policies"></a>Politiques anti-hameçonnage
 
-[L’anti-hameçonnage recherche](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) dans les messages entrants les indicateurs qu’un message peut être une tentative d’hameçonnage. Lorsque les utilisateurs sont couverts par les stratégies De Defender pour Office 365 (pièces jointes sécurisées, liens sécurisés ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise, en fonction des stratégies configurées.
+[L’anti-hameçonnage recherche](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) dans les messages entrants les indicateurs qu’un message peut être une tentative d’hameçonnage. Lorsque les utilisateurs sont couverts par les stratégies de Defender pour Office 365 (pièces jointes sécurisées, liens sécurisés ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise, en fonction des stratégies configurées.
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
-Les fonctionnalités de surveillance disponibles dans le Centre de sécurité & conformité ( ) incluent des rapports et des informations en temps réel qui donnent à vos administrateurs de sécurité et de conformité la possibilité de se concentrer sur les problèmes prioritaires, tels que les attaques de sécurité ou l’augmentation des activités [https://protection.office.com](https://protection.office.com) suspectes. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) Outre la mise en évidence des problèmes, les rapports intelligents et les informations incluent des recommandations et des liens pour afficher et explorer des données et prendre des mesures rapides.
+Les fonctionnalités de surveillance disponibles dans le Centre de sécurité & conformité ( ) incluent des rapports et des informations en temps réel qui donnent à vos administrateurs de sécurité et de conformité la possibilité de se concentrer sur les problèmes prioritaires, tels que les attaques de sécurité ou l’augmentation des activités [https://protection.office.com](https://protection.office.com) suspectes. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) Outre la mise en évidence des problèmes, des rapports intelligents et des informations incluent des recommandations et des liens pour afficher et explorer des données et prendre des mesures rapides.
 
 ### <a name="explorer"></a>Explorer
 
