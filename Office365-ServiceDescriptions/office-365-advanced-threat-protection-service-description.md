@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender pour Office 365 est un service de filtrage du courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les virus et les programmes malveillants inconnus en offrant une protection zero-day robuste, et inclut des fonctionnalités pour protéger votre organisation contre les liens dangereux en temps réel.
-ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: b3eb9d94fdd96899a0d08e591715a07354104c25
+ms.sourcegitcommit: 29db3ccfdd875fc8968e11c040c6db46c2720134
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794960"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49799403"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Description du service Microsoft Defender pour Office 365
 
@@ -97,7 +97,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online
 |*Intégration à [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|Non|Oui|Oui|
 
 > [!NOTE]
-> Si votre client dispose uniquement d’une licence d’essai Office ATP P2 ou d’une licence d’essai Office 365 E5, sans autre licence éligible pour la Protection Microsoft contre les menaces, vous ne pourrez pas accéder à la Protection Microsoft contre les menaces. Pour en savoir plus sur la licence MTP, voir <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
+> Si votre client dispose uniquement d’une licence d’essai Microsoft Defender pour Office Plan P2 ou d’une licence d’essai Office 365 E5, sans autre licence éligible pour Microsoft 365 Defender, vous ne pourrez pas accéder à Microsoft 365 Defender. Pour en savoir plus sur la licence MTP, consultez les conditions [requises pour Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 
 ## <a name="defender-for-office-365-capabilities"></a>Fonctionnalités de Defender pour Office 365
 
