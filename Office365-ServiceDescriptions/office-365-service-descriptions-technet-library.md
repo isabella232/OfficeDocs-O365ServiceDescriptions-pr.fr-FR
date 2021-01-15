@@ -12,30 +12,32 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365 et Office 365 sont des services en nuage conçus pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs.
-ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
-ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
+description: Microsoft 365 et Office 365 sont des services informatiques conçus pour répondre aux besoins de sécurité, de fiabilité et de productivité robustes de votre organisation.
+ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49687885"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871157"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descriptions des services Microsoft 365 et Office 365 
 
-Microsoft 365 et Office 365 sont des services en nuage conçus pour répondre aux besoins de votre organisation en matière de sécurité, de fiabilité et de productivité des utilisateurs. 
+Microsoft 365 et Office 365 sont des services informatiques conçus pour répondre aux besoins de sécurité, de fiabilité et de productivité robustes de votre organisation. 
   
-Les rubriques de cette bibliothèque décrivent en détail les services et les fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour comparer les fonctionnalités entre les plans, consultez la rubrique [outils puissants pour prendre en charge votre entreprise](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou la description de service appropriée dans la liste ci-dessous. 
+Les articles de cette bibliothèque fournissent une description détaillée des services et fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour plus d’informations sur les applications microsoft Dynamics 365 business, voir [la documentation de Microsoft Dynamics 365.](https://docs.microsoft.com/dynamics365/)
+
+Pour comparer les fonctionnalités entre les plans, voir [Outils puissants pour](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) prendre en charge votre entreprise ou la description de service pertinente dans la liste ci-dessous. 
   
-Pour obtenir des articles et des informations de support technique, consultez [l’aide office & formation](https://support.office.com/), [la documentation Office pour les administrateurs et les professionnels de l’informatique](https://docs.microsoft.com/office/), ainsi que [le centre d’aide de Microsoft 365 pour les administrateurs et les professionnels de l’informatique](https://docs.microsoft.com/microsoft-365/).
+Pour obtenir des articles et des informations de support, consultez l’aide [d’Office & Training,](https://support.office.com/)la documentation Office pour les [administrateurs](https://docs.microsoft.com/office/)et les professionnels de l’informatique, et le Centre d’aide [Microsoft 365](https://docs.microsoft.com/microsoft-365/)pour les administrateurs et les professionnels de l’informatique.
   
 > [!NOTE]
-> Si vous recherchez la feuille de calcul de comparaison de description de service, elle a été retirée. Les tableaux de disponibilité des fonctionnalités des produits sur chaque page de description de service ont été mis à jour pour vous aider à choisir la version d’Office 365 qui répond à vos besoins. 
+> Si vous recherchez la feuille de calcul de comparaison de description de service, elle a été retirée. Les tableaux de disponibilité des fonctionnalités de produit sur chaque page de description de service ont été mis à jour pour vous aider à choisir la version d’Office 365 qui répond à vos besoins. 
   
-Microsoft propose le centre FastTrack pour Office 365 pour les services éligibles dans les offres éligibles. L’avantage vous permet de travailler à distance avec des spécialistes Microsoft afin de préparer votre environnement Office 365 en vue de son utilisation. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft offre les avantages du Centre FastTrack pour Office 365 pour les services éligibles dans les plans éligibles. Cet avantage vous permet de travailler à distance avec des spécialistes Microsoft pour préparer votre environnement Office 365. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Pour commencer, lisez les descriptions suivantes :
   
-- [Description du service de plateforme microsoft 365 et Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Description du service de plateforme Microsoft 365 et Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Description de service des applications Office](office-applications-service-description/office-applications-service-description.md)
 
@@ -79,14 +81,11 @@ Pour commencer, lisez les descriptions suivantes :
 
 - [Guide de sécurité et conformité pour les licences Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
-- [Description du service Microsoft Dynamics 365 (en ligne)](microsoft-dynamics-365-online-service-description.md)
 
 > [!NOTE]
 > <sup>1</sup> Inclut la disponibilité des [fonctionnalités de la suite](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), telles qu'Office Delve, Microsoft MyAnalytics, Microsoft Sway et Microsoft Teams.
->
-> Pour plus d’informations sur les applications Microsoft 365 Dynamics Business, reportez-vous à la rubrique <https://docs.microsoft.com/dynamics365/> .
   
 ## <a name="disclaimer"></a>Clause d’exclusion de responsabilité
 
-&copy; 2018 Microsoft Corporation. Tous droits réservés. Microsoft, Office 365 et d'autres noms de produits et de services sont ou peuvent être des marques déposées et/ou des marques commerciales aux États-Unis et/ou dans d'autres pays. Les informations contenues dans ce document sont fournies uniquement à titre d'information et représentent la vision actuelle de Microsoft Corporation à la date de sa dernière publication ou révision. Il n’est pas destiné à être un contrat de service et ne valide pas Microsoft ou le client pour les fonctionnalités, les fonctionnalités ou les responsabilités mentionnées dans le présent document. MICROSOFT EXCLUT TOUTE GARANTIE, EXPRESSE, IMPLICITE OU LÉGALE, RELATIVE AUX INFORMATIONS CONTENUES DANS CE DOCUMENT.
+&copy; 2018 Microsoft Corporation. Tous droits réservés. Microsoft, Office 365 et d'autres noms de produits et de services sont ou peuvent être des marques déposées et/ou des marques commerciales aux États-Unis et/ou dans d'autres pays. Les informations contenues dans ce document sont fournies uniquement à titre d'information et représentent la vision actuelle de Microsoft Corporation à la date de sa dernière publication ou révision. Il ne s’agit pas d’un contrat de service et ne permet pas à Microsoft ou au client d’assumer les fonctionnalités, fonctionnalités ou responsabilités mentionnées ici. MICROSOFT EXCLUT TOUTE GARANTIE, EXPRESSE, IMPLICITE OU LÉGALE, RELATIVE AUX INFORMATIONS CONTENUES DANS CE DOCUMENT.
  

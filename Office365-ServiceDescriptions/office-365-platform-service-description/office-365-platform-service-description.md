@@ -12,21 +12,21 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
-description: Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux.
-ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+description: Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d’eux.
+ms.openlocfilehash: 5e0cbefa7b1bbc4e89f8b32086fc4e4534d3b5f3
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683518"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871147"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Description des services de la plateforme Microsoft 365 et Office 365
 
-Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous indiquera les fonctionnalités incluses dans chacun d’eux.
+Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans, y compris les plans Exchange Online, cet article vous montre les fonctionnalités incluses dans chacun d’eux.
   
-Microsoft 365 et Office 365 offrent la puissance de la productivité du Cloud pour les entreprises de toutes tailles, ce qui vous permet de gagner du temps, de l’argent et de libérer des ressources précieuses. Les plans Microsoft 365 et Office 365 associent la suite de bureau Microsoft Office familière aux versions Cloud des services de collaboration et de communication de nouvelle génération de Microsoft (y compris Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le Web et Microsoft Skype entreprise Online) pour aider les utilisateurs à être productifs de quasiment n’importe où sur Internet.
+Microsoft 365 et Office 365 offrent la puissance de la productivité cloud aux entreprises de toutes tailles, ce qui permet de gagner du temps, de l’argent et de libérer des ressources de valeur. Les plans Microsoft 365 et Office 365 combinent la suite de bureau Microsoft Office familière aux versions cloud des services de communication et de collaboration nouvelle génération de Microsoft, notamment Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le web et Microsoft Skype Entreprise Online, pour aider les utilisateurs à être productifs de pratiquement n’importe où via Internet.
   
-Pour comparer les fonctionnalités entre les plans, consultez la rubrique [outils puissants pour prendre en charge votre entreprise](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service appropriée sous les [descriptions de service Microsoft 365 et Office 365](../office-365-service-descriptions-technet-library.md).
+Pour comparer les fonctionnalités entre les plans, consultez Les outils puissants pour prendre en charge votre entreprise ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service pertinente sous les descriptions des [services Microsoft 365 et Office 365.](../office-365-service-descriptions-technet-library.md) [](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)
   
 - Pour plus d'informations sur les plans Office 365 Éducation, commencez par la page [Office 365 Éducation](office-365-education.md). 
     
@@ -38,72 +38,72 @@ Pour comparer les fonctionnalités entre les plans, consultez la rubrique [outil
     
 ## <a name="office-365-plans"></a>Plans Office 365
 
-Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d’informations sur les différents plans, y compris des options de plan autonomes et des informations sur le passage d’un plan à l’autre, voir [options de plan Office 365](office-365-plan-options.md).
+Office 365 est disponible dans le cadre de différents plans destinés à répondre au mieux aux besoins de votre organisation. Pour plus d’informations sur les différents plans, y compris sur les options de plan autonome et sur le passage d’un plan à un autre, voir les options de [plan Office 365.](office-365-plan-options.md)
   
-Pour en savoir plus sur les licences en volume, consultez [la rubrique conditions de licence et documentation](https://go.microsoft.com/fwlink/?linkid=848696).
+Pour en savoir plus sur les licences en volume, voir [Termes et documentation sur les licences.](https://go.microsoft.com/fwlink/?linkid=848696)
   
-## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Offres et tarifs Microsoft 365 et Office 365 pour les organisations à but non lucratif
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Offres et tarifs Microsoft 365 et Office 365 pour les associations
 
-Pour les organisations qui bénéficient des plans Microsoft 365 et Office 365 pour les organisations à but non lucratif, ces plans incluent exactement les mêmes fonctionnalités que les plans d’activité correspondants (par exemple, Office 365 E5 pour les organisations à but non lucratif inclut les mêmes fonctionnalités qu’Office 365 E5). La seule différence entre les offres équivalentes est le prix. Pour plus d’informations sur les plans Microsoft 365 et Office 365 pour les organisations à but non lucratif, consultez les [offres comparant microsoft 365 et office 365 offres pour les](https://go.microsoft.com/fwlink/?LinkID=627221)organisations à but non lucratif et les [solutions de productivité pour les organisations à but non lucratif](https://go.microsoft.com/fwlink/?LinkID=786641).
+Pour les organisations éligibles aux plans Microsoft 365 et Office 365 pour les associations, ces offres incluent exactement les mêmes fonctionnalités que les offres professionnelles correspondantes (par exemple, Office 365 E5 pour les associations inclut les mêmes fonctionnalités qu’Office 365 E5). La seule différence entre les offres équivalentes est le prix. Pour plus d’informations sur les offres Microsoft 365 et Office 365 pour les associations, voir Comparer les offres [Microsoft 365 et Office 365](https://go.microsoft.com/fwlink/?LinkID=627221)pour les associations et les [solutions](https://go.microsoft.com/fwlink/?LinkID=786641)de productivité pour les associations.
   
-## <a name="system-requirements"></a>Configuration requise
+## <a name="system-requirements"></a>Configuration requise du système
 
-Pour connaître la configuration requise pour Microsoft 365 et Office 365, les services mensuels basés sur l’abonnement disponibles pour les organisations professionnelles, éducatives et gouvernementales, reportez-vous à la rubrique [System Requirements for Microsoft 365 and Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
+Pour les exigences système requises pour Microsoft 365 et Office 365, les services mensuels basés sur un abonnement disponibles pour les entreprises, l’éducation et les organisations gouvernementales, consultez La sécurité système requise pour les ressources [Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG)et Office.
   
 ## <a name="service-level-agreement"></a>Contrat de niveau de service
 
-Pour plus d'informations sur les contrats de niveau de service, consultez la rubrique [Contrat de niveau de service](https://go.microsoft.com/fwlink/?linkid=843153). Pour plus d’informations sur les temps de fonctionnement récents pour Office 365, voir [service Health and continuation](https://go.microsoft.com/fwlink/?linkid=848695).
+Pour plus d'informations sur les contrats de niveau de service, consultez la rubrique [Contrat de niveau de service](https://go.microsoft.com/fwlink/?linkid=843153). Pour plus d’informations sur les temps de service récents pour Office 365, voir [État et continuité du service.](https://go.microsoft.com/fwlink/?linkid=848695)
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Pour plus d’informations sur le centre de sécurité &amp; conformité et des liens vers des informations et une disponibilité supplémentaires, consultez la rubrique [Security &amp; Compliance Center](office-365-securitycompliance-center.md).
+Pour plus d’informations sur le Centre de conformité de la sécurité et des liens vers des informations supplémentaires et la disponibilité, consultez &amp; le Centre de conformité de [ &amp; sécurité.](office-365-securitycompliance-center.md)
   
 ## <a name="data-storage-location"></a>Emplacement de stockage de données
 
-Pour connaître l’emplacement de stockage de vos données, voir l' [emplacement de stockage de vos données client](https://docs.microsoft.com/office365/enterprise/o365-data-locations). 
+Pour savoir où vos données sont stockées, consultez [l’endroit où vos données client sont stockées.](https://docs.microsoft.com/office365/enterprise/o365-data-locations) 
   
-## <a name="multi-geo-capabilities"></a>Fonctionnalités multi-géo 
+## <a name="multi-geo-capabilities"></a>Fonctionnalités multigé géographiques 
 
-Multi-géo permet à une organisation unique de s’étendre sur plusieurs sites géographiques Office 365 Datacenter, et de stocker des données pour Exchange Online et OneDrive entreprise, au repos, au niveau de chaque utilisateur, dans votre géographie choisie. 
+Multi-Géo permet à une organisation unique de s’étendre sur plusieurs zones géographiques de centres de données Office 365 et vous donne la possibilité de stocker des données pour Exchange Online et OneDrive Entreprise, au repos, par utilisateur, dans la zone géographique que vous avez choisie. 
   
-Disponible régions centres : Asie Pacifique, Australie, Canada, Union européenne, Inde, Japon, Corée, Royaume-Uni, États-Unis. 
+Régions disponibles : Asie-Pacifique, Australie, Canada, Union européenne, Inde, Japon, Corée, Royaume-Uni, États-Unis. 
   
-Pour en savoir plus, consultez la rubrique [Présentation des environnements Multigéographiques dans Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016).
+Pour plus d’informations, voir [Présentation de Multi-Géo dans Office 365.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Introducing-Multi-Geo-in-Office-365/ba-p/107016)
   
 ## <a name="feature-availability-across-plans"></a>Disponibilité des fonctionnalités entre les plans
 
-Le tableau suivant répertorie toutes les fonctionnalités de la plateforme.
+Le tableau suivant répertorie toutes les fonctionnalités de plateforme.
   
 Pour obtenir des informations spécifiques sur les tarifs et les fonctionnalités des offres pour différents types d'entreprise, consultez les pages suivantes :
   
-- Business : [Microsoft 365 pour les offres et les tarifs de l’entreprise](https://go.microsoft.com/fwlink/?LinkID=827896)
+- Business : [plans et tarifs Microsoft 365 pour les entreprises](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - Éducation : [Offres et tarifs Office 365 Éducation](https://go.microsoft.com/fwlink/?LinkID=827897)
     
 - Administration américaine : [Offres Office 365 pour l'administration américaine](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- Organismes à but non lucratif : [Comparez Microsoft 365 et Office 365 offres pour les organisations à](https://go.microsoft.com/fwlink/?LinkID=733237) but non lucratif
+- Associations : [comparer les offres Microsoft 365 et Office 365 pour les associations](https://go.microsoft.com/fwlink/?LinkID=733237)
 
 - Office 365 Germany : [Offres Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
-Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complémentaires que vous pouvez acheter pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d’informations, reportez-vous à la rubrique « modules complémentaires disponibles pour différentes versions de Microsoft 365 pour les entreprises » dans la section [acheter ou modifier un module complémentaire](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de développement que vous pouvez acheter pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d’informations, [voir Acheter ou gérer des modules complémentaires.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
 <br><br>
   
 | Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Entreprise E1 | Office 365 Entreprise E3 | Office 365 Entreprise E5 | Office 365 Entreprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Microsoft 365 Administration](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
-|Administrer Office 365 à l’aide du centre d’administration 365 de Microsoft ou de Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Protéger le contenu à l'aide d'Azure Information Protection  <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |N °<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |N °<sup>2</sup> <br/> |
-|**[Fonctionnalités de Microsoft 365 suite](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**[Administration de Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||||||
+|Administrer Office 365 à l’aide du Centre d’administration Microsoft 365 ou Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Protéger le contenu à l'aide d'Azure Information Protection  <br/> |Non<sup>2</sup> <br/> |Non<sup>2</sup> <br/> |Non<sup>2</sup> <br/> |Non<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Non<sup>2</sup> <br/> |
+|**[Fonctionnalités de Microsoft 365 suite](office-365-suite-features.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|Courrier électronique de briefing Microsoft<sup>20</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Microsoft Briefing email<sup>20</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Power Automate  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>12</sup> <br/> |
 |Microsoft Forms  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |API Microsoft Graph  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft MyAnalytics<sup>18</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft Planner  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft PowerApps  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> | 
-|Microsoft Project pour le Web <sup>21</sup> <br/> |Oui <br/> |Non <br/>|Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> | Oui <br/> |
+|Microsoft Project pour le web <sup>21</sup> <br/> |Oui <br/> |Non <br/>|Oui <br/> |Oui <br/> |Oui <br/> |Oui <br/> | Oui <br/> |
 |Microsoft StaffHub  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Stream  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |Oui<sup>8</sup> <br/> |
@@ -114,20 +114,20 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |Bloc-notes OneNote pour la classe  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui<sup>13</sup> <br/> |Non  <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
 |Recherche Microsoft|Non  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non <br/> |
-|**[Gestion des comptes d’utilisateur](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**[Gestion des comptes d’utilisateur](user-account-management.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Identité cloud, identité fédérée ou authentification multifacteur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Configuration du bureau Office 365  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Téléchargement en bloc utilisant des fichiers .csv  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Outil de synchronisation d'annuaires  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Migration Exchange (à basculement) simple  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Supprimer des comptes et réinitialiser les mots de passe utilisateur à partir de Microsoft 365 ou à l’aide de Windows PowerShell<sup>3</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Supprimer des comptes et réinitialiser les mots de passe utilisateur de Microsoft 365 ou à l’aide Windows PowerShell<sup>3</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Les utilisateurs peuvent modifier leur mot de passe<sup>4</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Gestion des licences  <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |Oui<sup>6</sup> <br/> |
 |Gérer les groupes de sécurité à partir de Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Plusieurs rôles d'administrateur disponibles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Autoriser un partenaire à administrer Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Autoriser un partenaire à administrer Microsoft 365 pour vous  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Services Azure Active Directory<sup>19</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Domaines](domains.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**[Domaines](domains.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Ajouter des domaines personnalisés de 2ème niveau, comme fourthcoffee.com  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ajouter des domaines personnalisés de 3ème niveau, comme marketing.fourthcoffee.com  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Ajouter jusqu'à 900 domaines personnalisés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -140,10 +140,10 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |Utilisation d'un autre fournisseur pour le courrier électronique et la messagerie instantanée  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[État et continuité du service](service-health-and-continuity.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**[État des services et continuité](service-health-and-continuity.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Status information available on the **Service health** or **Service status** page  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|État des alertes individuelles disponible dans le tableau de bord du centre d’administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Rapports](reports.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|État des alertes individuelles disponibles dans le tableau de bord du Centre d’administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|**[Rapports](reports.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Boîtes aux lettres actives et inactives  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Boîtes aux lettres supprimées et nouvelles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Groupes nouveaux et supprimés  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -167,20 +167,20 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |Rapports de protection de messagerie téléchargeable  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Créer vos propres rapports à l’aide des services Web de création de rapports Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour de service](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|Créer vos propres rapports à l’aide des services web de création de rapports Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|**[Mises à jour du service](service-updates.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |--  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Option pour activer la mise en production ciblée  <br/> |Oui  <br/> |--  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Aide et formation](help-and-training.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**[Aide et formation](help-and-training.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Aide en ligne  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Communauté  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Autres ressources d'aide autonome  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Auto-formation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Réseau](networking.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**[Réseau](networking.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Protocoles IPv4 et IPv6  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**Approbation** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**Approbation** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |**[Confidentialité, sécurité et transparence](privacy-security-and-transparency.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Sécurité de l’application cloud Office 365  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft Defender pour Office 365  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
@@ -189,7 +189,7 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |Advanced eDiscovery<sup>15</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Audit de base<sup>22</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Audit avancé<sup>22</sup> <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|Microsoft Secure score<sup>7</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Score de sécurité Microsoft<sup>7</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Intelligence des menaces  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |**[Conformité](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |Évaluations SAS 70 / SSAE16  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -200,7 +200,7 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |Autorisation d'exploitation FISMA  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Accord de traitement de données Microsoft  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Données PAN sous régie PCI  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
+|**[BlackBerry](blackberry.md)** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Standard** <br/> **Office 365 Germany Business Premium** <br/> |**Office 365 Entreprise E1** <br/> |**Office 365 Entreprise E3** <br/> |**Office 365 Entreprise E5** <br/> |**Office 365 Entreprise F3** <br/> |
 |Utilisation de BlackBerry Internet Service (BIS)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Partenaires](partners.md)** <br/> ||||||||
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -208,24 +208,24 @@ Plusieurs des offres Microsoft 365 pour les entreprises ont des modules complém
 |**[Contrat de niveau de service](service-level-agreement.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Droits d’utilisation de logiciels](product-use-rights.md)** <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> | 
 
-> <sup>1</sup> Microsoft 365 et Office 365 ne prennent pas en charge les systèmes d’exploitation qui ne sont pas pris en charge par son fabricant. 
-<br/><sup>2</sup> Azure information protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et permet d’activer les fonctionnalités de gestion des droits relatifs à l’information (IRM). Certaines fonctionnalités Azure information protection requièrent un abonnement à Microsoft 365 apps pour entreprise, qui n’est pas inclus dans Microsoft 365 Business Basic, Microsoft 365 Business standard, Office 365 entreprise E1, Office 365 éducation ou Office 365 Enterprise F3. Les applications clientes Office fournies avec Microsoft 365 apps pour les entreprises prennent également en charge les fonctionnalités Azure information protection (plan 1).
-<br/><sup>3</sup> si vous utilisez la synchronisation d’annuaires avec un annuaire Active Directory local, vous devez supprimer des comptes ou changer des mots de passe à l’aide de l’annuaire Active Directory local, plutôt que du portail Microsoft 365 à l’aide du module Azure Active Directory pour Windows PowerShell. 
-<br/><sup>4</sup> pour découvrir comment définir des stratégies de gestion de mot de passe en libre-service pour les utilisateurs, voir [Réinitialiser votre mot de passe professionnel ou scolaire à l’aide des informations de sécurité](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). 
+> <sup>1</sup> Microsoft 365 et Office 365 ne fournissent pas de prise en charge pour un système d’exploitation qui n’est pas pris en charge par son fabricant. 
+<br/><sup>2</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Microsoft 365 Apps pour entreprise, qui n’est pas inclus dans Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F3. Les applications clientes Office qui sont disponibles avec Les applications Microsoft 365 pour les entreprises offrent également des fonctionnalités Azure Information Protection (Plan 1) complètes.
+<br/><sup>3</sup> Si vous utilisez la synchronisation d’annuaires avec un annuaire Active Directory local, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory local, plutôt que du portail Microsoft 365 à l’aide du module Azure Active Directory pour Windows PowerShell. 
+<br/><sup>4 Pour apprendre</sup> à définir des stratégies de gestion des mots de passe en libre-service pour les utilisateurs, voir Réinitialiser votre mot de passe scolaire ou scolaire à l’aide des informations [de sécurité.](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/) 
 <br/><sup>6</sup> La réduction des sièges qui ont été achetés avec une remise à long terme peut être soumise à des frais de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle. 
-<br/><sup>7</sup> disponible sur la page sécurité de la note de sécurité de [Microsoft](https://securescore.office.com) . Nécessite des autorisations d'administration. Pour plus d’informations, consultez la rubrique [Microsoft Secure score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score). 
+<br/><sup>7 Disponible</sup> sur la page [sécurité Du score de sécurité Microsoft.](https://securescore.office.com) Nécessite des autorisations d'administration. Pour plus d’informations, voir [Le Score de sécurité Microsoft.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score) 
 <br/><sup>8</sup> Microsoft Sway n'est pas disponible actuellement pour les clients de certaines régions géographiques. Certains plans Office 365 hérités qui ne sont plus commercialisés depuis août 2015 peuvent également ne pas avoir accès à Microsoft Sway. 
 <br/><sup>9</sup> Limitation des services. Si votre organisation utilise Internet Explorer 8 ou Internet Explorer 9 pour accéder aux anciens services et applications web, vous pouvez envisager de procéder à une mise à niveau vers Internet Explorer 11 et d'évaluer le mode Entreprise pour Internet Explorer 11. Cette mise à jour optimise la compatibilité descendante des applications web existantes. 
-<br/><sup>10</sup> Microsoft teams est disponible dans Microsoft 365 Business Basic, Microsoft 365 Business standard, Office 365 Enterprise (E1, E3, E5, F3) et les plans Office 365 éducation. 
-<br/><sup>11</sup> dans Office 365 entreprise F3, la vidéo Office 365 est limitée à l’affichage uniquement (aucune publication ni aucun partage). 
-<br/><sup>12</sup> dans Office 365 entreprise F3, le flux est limité à la consommation uniquement et les exécutions sont limitées à 750 par utilisateur et par mois. 
-<br/><sup>13</sup> disponible uniquement dans les plans Office 365 éducation, y compris Office 365 E5 éducation. Il n'est pas disponible dans Office 365 Entreprise E5. 
-<br/><sup>14</sup> pour plus d’informations, voir [chiffrement de service avec la clé client](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
-<br/><sup>15</sup> la fonctionnalité eDiscovery avancée est prise en charge aux États-Unis et dans la région Europe de l’Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].)
-<br/><sup>16</sup> consommation uniquement pour Microsoft Stream : pas de publication ni de partage.
-<br/><sup>17</sup> à compter du 2019 mai, les références SKU existantes d’Office 365 et Microsoft 365 seront rechargées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans tous les SKU Office 365 et Microsoft 365.
-<br/><sup>18</sup> pour plus d’informations, consultez la rubrique [MyAnalytics plans and Environments](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
-<br/><sup>19</sup> inclut les fonctionnalités Azure Active Directory décrites dans la colonne **Office 365 Apps** sur la page [tarification Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Vous devez ajouter l’Azure Active Directory plan 1 ou plan 2, la sécurité mobile de l’entreprise ou Microsoft 365 E3 ou E5 pour obtenir les fonctionnalités de Premium Azure AD.<br/>
-<sup>20</sup> le message de briefing est fourni automatiquement à tous les utilisateurs d’Exchange Online. Pour plus d’informations, consultez la rubrique [configure Briefing mail](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>21</sup> les utilisateurs disposent d’un accès en lecture seule à Project pour le Web. L’utilisation de ces droits est restreinte uniquement avec le projet pour l’application Web et uniquement pour les clients disposant d’une licence plan 1, Project Plan 3 ou Project plan 5. Ces droits n’accordent pas l’accès aux applications de plateforme Power ou à d’autres ensembles de données, Project Online Desktop Client ou Project online. Pour plus d’informations sur les fonctionnalités, consultez la rubrique [Description du service Microsoft Project](../project-online-service-description/project-online-service-description.md).<br/>
-<sup>22</sup> l’audit dans Microsoft 365 offre aux organisations une visibilité dans de nombreux types d’activités auditées sur différents services dans Microsoft 365. Utilisez la recherche du journal d’audit du [ &amp; Centre de sécurité](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) pour afficher l’activité des utilisateurs et des administrateurs dans votre organisation. Vous pouvez également utiliser l' [API activité de gestion d’Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié. Lorsqu’une activité auditée est effectuée par un utilisateur ou un administrateur, un enregistrement d’audit est généré et stocké dans le journal d’audit de l’organisation du client. La durée pendant laquelle un enregistrement d’audit est conservé (et pouvant faire l’objet d’une recherche dans le journal d’audit) dépend de l’abonnement Office 365 ou Microsoft 365 Enterprise du client et du type de licence affecté à des utilisateurs spécifiques.
+<br/><sup>10</sup> Microsoft Teams est disponible dans Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Entreprise (E1, E3, E5, F3) et les plans Office 365 Éducation. 
+<br/><sup>11 Dans</sup> Office 365 Entreprise F3, Office 365 Video est limité à l’affichage uniquement (pas de publication ou de partage). 
+<br/><sup>12</sup> Dans Office 365 Entreprise F3, Flow est limité à la consommation uniquement et les utilisations sont limitées à 750 par utilisateur et par mois. 
+<br/><sup>13 Disponible uniquement</sup> dans les plans Office 365 Éducation, y compris Office 365 E5 Éducation. Il n'est pas disponible dans Office 365 Entreprise E5. 
+<br/><sup>14 Pour plus</sup> d’informations, voir [Chiffrement de service avec clé client.](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697) 
+<br/><sup>15</sup> Advanced eDiscovery est pris en charge aux États-Unis et en Europe de l’Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].)
+<br/><sup>16 Consommation</sup> uniquement pour Microsoft Stream : pas de publication ou de partage.
+<br/><sup>17</sup> À compter de mai 2019, les S SKUs éligibles existantes d’Office 365 et de Microsoft 365 seront recalées avec Kaizala Pro. À partir du 1er juin 2019, Kaizala Pro sera inclus dans toutes les S SKUs Office 365 et Microsoft 365 éligibles.
+<br/><sup>18</sup> Pour plus d’informations, voir les plans et [environnements MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments)
+<br/><sup>19 Inclut</sup> les fonctionnalités Azure Active Directory décrites dans la colonne Applications **Office 365** sur la page de tarification [Azure Active Directory.](https://azure.microsoft.com/pricing/details/active-directory/) Vous devez ajouter Azure Active Directory Plan 1 ou Plan 2, Enterprise Mobile Security ou Microsoft 365 E3 ou E5 pour obtenir les fonctionnalités Azure AD premium.<br/>
+<sup>20 L’e-mail</sup> Briefing est automatiquement fourni à tous les utilisateurs d’Exchange Online. Pour plus d’informations, voir [Configurer la messagerie Briefing.](https://docs.microsoft.com/Briefing/be-admin)<br>
+<sup>21 L’accès</sup> en affichage seul à Project pour le web est fourni aux utilisateurs. Ces droits sont limités pour une utilisation uniquement avec Project pour l’application web et uniquement pour les locataires qui ont une licence Project Plan 1, Project Plan 3 ou Project Plan 5. Ces droits n’accordent pas l’accès aux applications de plateforme Power Platform ou à d’autres jeux de données, au client de bureau Project Online ou à Project Online. Pour plus d’informations sur les fonctionnalités, voir [la description du service Microsoft Project.](../project-online-service-description/project-online-service-description.md)<br/>
+<sup>22</sup> L’audit dans Microsoft 365 offre aux organisations une visibilité sur de nombreux types d’activités auditées dans différents services dans Microsoft 365. Utilisez la recherche [du journal &amp; d’audit](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) du Centre de conformité de sécurité pour afficher l’activité des utilisateurs et des administrateurs dans votre organisation. Vous pouvez également utiliser l’API Activité de gestion [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) pour récupérer des événements à partir du journal d’audit unifié. Lorsqu’une activité auditée est effectuée par un utilisateur ou un administrateur, un enregistrement d’audit est généré et stocké dans le journal d’audit de l’organisation du client. La durée de rétention d’un enregistrement d’audit (et peut faire l’objet d’une recherche dans le journal d’audit) dépend de l’abonnement Office 365 ou Microsoft 365 Entreprise du client et du type de licence attribuée à des utilisateurs spécifiques.
