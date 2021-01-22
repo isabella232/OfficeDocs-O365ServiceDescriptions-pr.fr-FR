@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble de Microsoft 365 Pour le gouvernement et décrit les options d’achat.
-ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878667"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919757"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Pour le gouvernement : comment acheter
 
@@ -30,32 +30,32 @@ Microsoft 365 Pour le gouvernement américain aide les responsables et les emplo
 | Les responsables du gouvernement peuvent... | Les employés du secteur privé peuvent... | Le personnel sur le terrain peut... |
 |:-----|:-----|:-----|:-----|:-----|
 |Renforcer la confiance du public grâce à une communication et à une transparence améliorées  <br/> |Améliorer les services des citoyens grâce à une meilleure collaboration <br/> | Améliorer la qualité des services par le biais de l’accès mobile aux besoins du personnel du champ d’information, lorsqu’ils en ont besoin  |
-|Améliorer l’accès aux informations qui peuvent aider à former des décisions de stratégie et de budget  <br/> |Améliorer les communications entre les agences.  <br/> |Activer la collaboration et le partage de connaissances pour identifier et résoudre rapidement les problèmes  <br/> |
-|Rester informé et en contact avec le personnel et les citoyens, au bureau ou sur la route  <br/> |Créer un engagement plus profond avec une mission civile pour aider à améliorer les taux de rétention des employés  <br/> | Renforcer le sens de la communauté dans les différents emplacements d’agence  <br/> |
+|Améliorer l’accès aux informations qui peuvent vous aider à prendre des décisions de stratégie et de budget  <br/> |Améliorer les communications entre les agences.  <br/> |Activer la collaboration et le partage de connaissances pour identifier et résoudre rapidement les problèmes  <br/> |
+|Rester informé et en contact avec le personnel et les citoyens, au bureau ou sur la route  <br/> |Créer un engagement plus profond avec la liberté civile pour aider à améliorer les taux de rétention des employés  <br/> | Renforcer le sens de la communauté dans les différents emplacements d’agence  <br/> |
 |Garantir une solution conforme au gouvernement américain qui permet de réduire les coûts et d’améliorer l’agilité  <br/> |||
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>En quoi Microsoft 365 Secteur Public est-il différent de Microsoft 365 pour les offres d’entreprise ?
 
 Microsoft 365 Pour le gouvernement est conçu de manière unique pour répondre aux exigences de conformité des agences gouvernementales américaines dans quatre domaines clés :
 
-**Communauté exclusive.** Les centres de données du secteur public sont uniquement accessibles aux agences ou départements du secteur public, ou aux entreprises commerciales qui ont été autorisées à conserver et à contrôler les processus pour le compte du gouvernement des États-Unis.
+**Communauté exclusive.** Les centres de données du secteur public sont uniquement accessibles aux agences ou départements du secteur public, ou aux entreprises commerciales qui ont été autorisées à détenir et à traiter des informations pour le compte du gouvernement des États-Unis.
 
 **Personnel à l’écran.** L’accès au contenu client de votre organisation est limité aux membres du personnel Microsoft qui sont citoyens américains et qui ont passé les vérifications d’arrière-plan requises.
 Audits tiers. L’ensemble de l’infrastructure est audité par un auditeur tiers certifié qui fournit un rapport d’évaluation de la sécurité ou une lettre d’attestation utilisée par les agences fédérales pour émettre une autorisation d’exploitation (ATO). 
 
-**Stockage de contenu.** Les données sont stockées dans les États-Unis d’Amérique du Sud avec une infrastructure conforme. Le tableau suivant récapitule les engagements et les environnements de Microsoft 365 pour le gouvernement.<br><br>
+**Stockage de contenu.** Les données sont stockées dans les États-Unis d’Amérique avec une infrastructure conforme. Le tableau suivant récapitule les engagements et les environnements de Microsoft 365 pour le gouvernement.<br><br>
 
 | Offres | Engagements |
 |:----------|:----------------------------------|
 |Microsoft 365 Pour le gouvernement GCC  <br/> |FedRamp High, CJIS, IRS 1075, DISA SRG L2 <br/> |
-|Microsoft 365 Pour le gouvernement GCC High  <br/> |Contrôles FedRamp High, ITAR, DFARS, DISA SRG L4 <br/> |
+|Microsoft 365 Pour le gouvernement GCC Élevé  <br/> |Contrôles FedRamp High, ITAR, DFARS, DISA SRG L4 <br/> |
 |Microsoft 365 Government DoD  <br/> |DISA SRG L5  <br/> |
 
 Pour plus d’informations sur l’accréditation de sécurité et de conformité Microsoft, visitez le [Centre de](https://www.microsoft.com/trustcenter/default.aspx) confiance Microsoft  
 
 ## <a name="microsoft-365-government-eligibility-and-validation"></a>Éligibilité et validation de Microsoft 365 Pour le gouvernement
 
-Microsoft 365 Secteur Public est disponible pour les clients du secteur public éligibles et les organisations non gouvernementales sponsorisées pour conserver ou traiter des informations contrôlées. Les critères d’éligibilité pour ces deux catégories de clients sont cohérents dans Microsoft Cloud pour le gouvernement.
+Microsoft 365 Pour le gouvernement est disponible pour les clients du secteur public éligibles et les organisations non gouvernementales sponsorisées pour conserver ou traiter des informations contrôlées. Les critères d’éligibilité pour ces deux catégories de clients sont cohérents dans Microsoft Cloud pour le gouvernement.
 
 Les offres GCC et GCC High sont disponibles pour tous les clients éligibles au Cloud Microsoft Government, et l’environnement DoD est pour l’usage exclusif du département de la Défense des États-Unis. La disponibilité du service et le prix diffèrent, et GCC reste l’offre hero pour tous les clients qui ne disposent pas d’informations non classifiées (CUI) contrôlées FedRAMP ou DoD élevées.
 
@@ -64,9 +64,9 @@ Un client du gouvernement éligible est défini par l’un des suivants :
 - Une agence fédérale, définie en tant que bureau, bureau, agence, service ou toute autre entité du gouvernement des États-Unis
 - Entité d’état/locale, définie comme l’une des suivantes :
     - Toute agence d’un état ou d’un gouvernement local aux États-Unis.
-    - N’importe quel département des États-Unis, qu’il s’agit d’une ville, d’un district à usage spécifique ou d’un autre type d’ancienneté gouvernementale similaire établi par les lois de l’état d’un client et situé dans la juridiction et les frontières géographiques du client
+    - Tout département, région, ville, lieu de travail, district à usage spécial ou tout autre type d’ancienneté gouvernementale similaire établi par les lois de l’état d’un client et situé dans la juridiction et les frontières géographiques du client
     - Le district de Colombie, le District de Porto Rico, Guam, les Samoa américaines, les îles Vierges des États-Unis et les îles Island du Nord
-- Entité native, définie en tant qu’entité native reconnue par le gouvernement fédéral et éligible pour le financement et les services du département de l’Intérieur des États-Unis en raison de son statut en tant que chef d’famille indien, ou, en Alaska, un village natif ou une corporation native d’Amérique du Nord
+- Entité native, définie en tant qu’entité native reconnue par le gouvernement fédéral et éligible au financement et aux services du département de l’Intérieur des États-Unis en raison de son statut en tant qu’indien, ou, en Alaska, un village natif ou une corporation native d’Amérique du Nord
 
 Les organisations non gouvernementales qui détiennent les types de données suivants et qui peuvent fournir les preuves répertoriées sont éligibles pour le processus de validation de Microsoft Government Cloud :
 
@@ -83,7 +83,7 @@ Une entité commerciale internationale peut être éligible, même si des donné
 
 Une preuve d’appartenance à l’un des groupes répertoriés ci-dessus sera nécessaire pour accéder aux offres Microsoft 365 Pour le gouvernement.
 
-## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Quels services et fonctionnalités sont disponibles dans les environnements cloud microsoft 365 pour le secteur public ?
+## <a name="what-services-and-features-are-available-in-the-microsoft-365-government-cloud-environments"></a>Quels services et fonctionnalités sont disponibles dans les environnements cloud microsoft 365 pour le gouvernement ?
 
 Pour en savoir plus sur les services disponibles dans Microsoft 365 Pour le secteur public, consultez les ressources suivantes :
 
@@ -132,18 +132,32 @@ Les clients peuvent acheter des licences Microsoft 365 pour le gouvernement des 
 
 **Partenaires AOS-G GCC et GCC High (moins de 500 sièges)**
 
-- Agile IT
-- Applied Information Sciences (AIS)
+- Services fédéraux Accenture, LLC
+- Agile IT, Inc.
+- Applied Information Sciences, Inc.
 - Solutions intégrées C3
+- CACI
 - Carahsoft
-- Dox Electronics, Inc.
-- F1 Solutions, Inc.
-- Quatre points
+- CGI Federal Inc.
+- Dox Electronics Inc.
+- F1 Solutions Inc.
+- Technologie à quatre points, LLC
+- General Dynamics Information Technology, Inc.
+- Imager Software, Inc. d.b.a ISC
+- Jackpé
+- Centre d’ment
 - KTL Solutions, Inc.
 - LiftOff, LLC
-- Technologies de planète
-- Professionnels discrets
-- Systems Der 7
+- Northrop
+- Novetta
+- Planet Technologies, Inc.
+- Quiet Professionals, LLC
+- Red River
+- SAIC
+- Smartronix
+- Accès aux services 7
+- TechTrend, Inc.
+- Vexcel
 
 **Remarque :** Tous les fournisseurs de solutions de gestion des licences Microsoft (LSP) répertoriés dans la liste précédente peuvent transposer GCC et GCC High via le contrat Entreprise (EA) pour créer la feuille de prix client (CPS). Les organisations qui ne sont pas éligibles à EA peuvent acheter des licences GCC par le biais du programme de partenaires AOS-G répertorié ou de partenaires du programme de partenaires du programme De programme de programme de programme De programme de programme De C
 
