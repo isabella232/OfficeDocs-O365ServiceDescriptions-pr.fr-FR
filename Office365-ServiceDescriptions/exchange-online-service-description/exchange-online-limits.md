@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 1e861d10bf336a7378b54a55b6c3e622e90c3a18
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
-ms.translationtype: HT
+ms.openlocfilehash: 325396d0046e857d1c7812f9d8640a95018c248b
+ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518885"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080290"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -30,7 +30,7 @@ Découvrez les limites d’Exchange Online pour plusieurs types de service, nota
 >- [Courrier électronique dans Microsoft 365 pour les entreprises : Aide de l'administrateur](https://go.microsoft.com/fwlink/?linkid=529722)
 >- [Résoudre les problèmes liés à Outlook et Microsoft 365 à l’aide de l’Assistant Support et récupération Office 365](https://diagnostics.office.com/)
 >- [Envoyer les notifications d’échec de remise par courrier électronique](https://go.microsoft.com/fwlink/?linkid=526653)
->- [Aide Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)<
+>- [Aide Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)
 
 Les limites dans Microsoft Exchange Online peuvent être classées dans l'une des catégories suivantes :
 
@@ -284,7 +284,7 @@ Les limites suivantes s'appliquent à chaque message électronique.
 <br/> <sup>2</sup> Les utilisateurs peuvent envoyer et recevoir des messages d’une taille maximale de 150 Mo (le message ne quitte jamais les centres de données Microsoft). Les messages routés en dehors des centres de données Microsoft sont soumis à une augmentation supplémentaire de codage de traduction de l’ordre de 33 %. Dans ce cas, la taille maximale de message est de 112 Mo. <br/> 
 <sup>3</sup> OWA tient compte de la possibilité que votre message soit soumis à une augmentation du codage de l’ordre de 33 %, et que la taille de message autorisée pour l’envoi soit inférieure de 25 % à la valeur du paramètre configuré. Par exemple, si vous personnalisez vos paramètres pour que la taille maximale des messages soit égale à 100 Mo, vous ne pouvez pas envoyer de message d’une taille supérieure à 75 Mo. 
 <br/> <sup>4</sup> La taille des messages à déplacer vers Exchange Online est calculée par Exchange Online. Les versions d’Exchange antérieures à Exchange Server 2013 peuvent signaler une taille d’élément inférieure. Cette limite s’applique aux migrations basées sur un déplacement qui utilisent un service de réplication de boîte aux lettres Exchange, quel qu’il soit. La limite générale de taille des messages s’applique à d’autres méthodes de migration (à basculement, intermédiaire, IMAP, PST) et d’autres outils tiers. <br/> 
-<sup>5</sup> Pour plus d’informations sur OME avec les nouvelles fonctionnalités, consultez [Configurer de nouvelles fonctionnalités de chiffrement de messages Office 365 conçues en complément d’Azure Information Protection](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e). <br/> 
+<sup>5</sup> Pour plus d’informations sur OME avec les nouvelles fonctionnalités, consultez [Configurer de nouvelles fonctionnalités de chiffrement de messages Office 365 conçues en complément d’Azure Information Protection](https://support.office.com/article/7ff0c040-b25c-4378-9904-b1b50210d00e).<br/> 
 <sup>6</sup> Les pièces jointes classiques ont une limite de 112 Mo, mais les pièces jointes OneDrive peuvent avoir une taille maximale de 2 Go.
 
 
@@ -355,11 +355,12 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 |Limite de débit de destinataires<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
 |Nombre maximal de destinataires<sup>2</sup>|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|400|400|
-|Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
+|Limite de fréquence des messages<sup>3</sup>|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
-> <sup>1</sup> Une fois la limite de débit maximale pour tous les destinataires atteinte, il est impossible d’envoyer des messages à partir de la boîte aux lettres tant que le nombre de destinataires des messages envoyés au cours des dernières 24 heures n’est pas redescendu en dessous de la limite. Par exemple, un utilisateur envoie un courrier électronique à 5 000 destinataires à 09:00, puis envoie un autre message à 2 500 destinataires à 10:00, puis envoie un autre message à 2 500 destinataires à 11:00 AM, atteignant la limite de 10 000 messages. L’utilisateur ne peut pas envoyer de messages à nouveau avant 09:00 est le jour suivant.
-> <sup>2</sup> Vous pouvez personnaliser des limites de destinataires comprises entre 1 et 1 000 pour les boîtes aux lettres existantes et les nouvelles boîtes aux lettres qui seront créées ultérieurement. Modifiez la limite de destinataires pour les boîtes aux lettres existantes individuellement ou en bloc à l’aide du centre d’administration Exchange et personnalisez le paramètre par défaut pour les nouvelles boîtes aux lettres via Remote PowerShell. Pour plus d’informations, consultez [Limites pour les destinataires personnalisables dans Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
+> <sup>1</sup> Une fois la limite de débit maximale pour tous les destinataires atteinte, il est impossible d’envoyer des messages à partir de la boîte aux lettres tant que le nombre de destinataires des messages envoyés au cours des dernières 24 heures n’est pas redescendu en dessous de la limite. Par exemple, un utilisateur envoie un courrier électronique à 5 000 destinataires à 09:00, puis envoie un autre message à 2 500 destinataires à 10:00, puis envoie un autre message à 2 500 destinataires à 11:00 AM, atteignant la limite de 10 000 messages. L’utilisateur ne peut pas envoyer de messages à nouveau avant 09:00 est le jour suivant.  
+> <sup>2</sup> Vous pouvez personnaliser des limites de destinataires comprises entre 1 et 1 000 pour les boîtes aux lettres existantes et les nouvelles boîtes aux lettres qui seront créées ultérieurement. Modifiez la limite de destinataires pour les boîtes aux lettres existantes individuellement ou en bloc à l’aide du centre d’administration Exchange et personnalisez le paramètre par défaut pour les nouvelles boîtes aux lettres via Remote PowerShell. Pour plus d’informations, consultez [Limites pour les destinataires personnalisables dans Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).  
+> <sup>3 Lorsque</sup> les volumes de messages sortants dépassent la limite de fréquence des messages, tout dépassement dans l’envoi des messages est limité et successivement effectué jusqu’aux minutes suivantes. En règle générale, cela ne bloque pas le compte de l’expéditeur, mais Exchange Online n’est pas adapté aux scénarios de publipostage en bloc. Pour ce cas d’utilisation, les options 2 et [3](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) sont recommandées à la place.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites d’envoi dans les options autonomes
 
@@ -431,7 +432,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
 |Taille maximale de message pour les groupes de distribution contenant entre 5000 et 99 999 membres|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 |Taille de message maximal pour groupes de distribution avec 100 000 membres|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|
-|Nombre maximal de propriétaires de groupe de distribution|10|10|10|10|10|10|
+|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |10 |10 |
 |Nombre maximal de groupes qu’un utilisateur peut créer|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -443,7 +444,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |:-----|:-----|:-----|:-----|:-----|
 |Nombre maximal de membres d’un groupe de distribution|100 000 membres<sup>1</sup>|100 000 membres|100 000 membres|100 000 membres|
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus<sup>1</sup>|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
-|Nombre maximal de propriétaires de groupe de distribution|10|10|10|10|
+|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |
 |Nombre maximal de groupes qu’un utilisateur peut créer|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
