@@ -48,6 +48,7 @@
       "feedback_product_url": "https://office365.uservoice.com/",
       "titleSuffix": "Service Descriptions",
       "bilingual_type": "hover over",
+      "contributors_to_exclude": [ 
         "rjagiewich", 
         "traya1", 
         "rmca14", 
