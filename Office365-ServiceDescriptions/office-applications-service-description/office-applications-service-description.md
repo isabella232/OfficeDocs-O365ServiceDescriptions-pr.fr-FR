@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 26b3b91800dd4c06c584abc443d54fdb8af89ca1
-ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
+ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49905157"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241010"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -54,6 +54,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |[Office Mobile pour Android](office-applications.md#office-mobile-for-android) <br/> |Non  <br/> |Non <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |
 |[Office Mobile pour Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Non  <br/> |Non <br/> |Oui <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |
 |Outlook pour Android  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Microsoft Teams  <br/> |Non  <br/> |Non  <br/> |Oui <br/>|Oui  <br/> |Oui  <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
 |**Valeur d’entreprise** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office Professionnel Plus 2019** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Non  <br/>| Non  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> | 
 |Mise en service automatisée du compte d'utilisateur  <br/> |N/D  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -68,7 +69,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |Analyse de feuilles de calcul Excel  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Archivage et conformité avec Exchange Online et SharePoint Online  <br/> |Oui<sup>1</sup> <br/> |Oui  <br/> |Oui  <br/>|Oui<sup>1</sup> <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Prise en charge des stratégies de groupe  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
-|Prise en charge des stratégies cloud Office  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Prise en charge des stratégies cloud Office  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Oui<sup>15</sup> <br/> |Oui<sup>16</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>15</sup> <br/> |Oui<sup>16</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>16</sup> <br/> |
 |Gestion des droits de l’information à l’aide d’Azure Information Protection  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Non<sup>2</sup> <br/> |Non<sup>2</sup> <br/> |Non<sup>2</sup> <br/> |Non<sup>2</sup> <br/> |Oui <br/> |Non<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Non<sup>2</sup> <br/> |
 |Gestion des droits relatifs à l'information à l'aide de Windows Server AD RMS  <br/> |Oui<sup>3</sup> <br/> |Oui  <br/> |Oui <br/>| Oui<sup>3</sup> <br/>|Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |Oui<sup>3</sup> <br/> |
 |Prise en charge Office Add-in, ActiveX et BHO  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>+++<sup> <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -95,15 +96,17 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 <sup>3</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge.<br/>
 <sup>4</sup> Si vous avez Office 2013 Professionnel Plus ou une version autonome d’Excel 2013, vous pouvez utiliser Power Map Preview pour Excel 2013, qui n’est pas pris en charge. La version antérieure de l’aperçu Power Map a expiré et ne fonctionne avec aucune version d’Excel. Si vous avez installé la version antérieure, désinstallez-la à partir du Panneau de contrôle, puis téléchargez et installez la version actuelle de l’aperçu Power Map. Cette version possède les mêmes fonctionnalités que la version de Power Map publiée avec Microsoft 365 SP1.<br/> 
 <sup>5</sup> Skype Entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans qui incluent Skype Entreprise Online. Microsoft 365 Apps pour entreprise et Office 365 E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour une comparaison des fonctionnalités et des fonctionnalités, voir tableaux de comparaison des clients de bureau [pour Lync Server 2013.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
-<sup>6</sup> Certaines écoles sont éligibles à Education Plus, qui inclut Microsoft 365 Apps pour entreprise, et permet aux étudiants, enseignants et membres du personnel d’installer la dernière version d’Office sur cinq ordinateurs PC ou Mac et sur d’autres appareils mobiles, y compris les tablettes Windows et l’iPad. Pour pouvoir bénéficier d'Office 365 Éducation Plus, les écoles doivent acquérir une licence Office pour les enseignants et le personnel à l'échelle de l'établissement via l'inscription aux solutions Éducation, le programme Open Value Subscription pour les solutions Éducation ou un contrat pour établissements scolaires. Access et Publisher sont uniquement disponibles sur PC. OneNote pour Mac est disponible en téléchargement séparé à partir de l'App Store Mac. <br/>
+<sup>6</sup> Certaines écoles sont éligibles à Education Plus, qui inclut Microsoft 365 Apps for enterprise, et permet aux étudiants, enseignants et membres du personnel d’installer la dernière version d’Office sur cinq ordinateurs PC ou Mac et sur d’autres appareils mobiles, y compris les tablettes Windows et l’iPad. Pour pouvoir bénéficier d'Office 365 Éducation Plus, les écoles doivent acquérir une licence Office pour les enseignants et le personnel à l'échelle de l'établissement via l'inscription aux solutions Éducation, le programme Open Value Subscription pour les solutions Éducation ou un contrat pour établissements scolaires. Access et Publisher sont uniquement disponibles sur PC. OneNote pour Mac est disponible en téléchargement séparé à partir de l'App Store Mac. <br/>
 <sup>7</sup> Office pour Mac 2011 peut être installé, mais pas activé. <br/>
 <sup>8</sup> Microsoft 365 Apps for enterprise est pris en charge sur une infrastructure VDI (Virtual Desktop Infrastructure) dédiée aux utilisateurs. Les applications Microsoft 365 pour les entreprises ne prend en charge les services Bureau à distance (RDS) qu’en cas d’achat via un programme de licences en volume.<br/>
 <sup>9</sup> L’activation en volume pour Office 365 E3 et Microsoft 365 Apps for enterprise est limitée aux installations sur Windows Server 2008 R2 et les plus nouvelles avec le rôle RDS activé ou les installations Windows To Go. Dans les deux cas, les utilisateurs qui accèdent à ces installations doivent être titulaires d’une licence Office 365 E3 ou Microsoft 365 Apps for enterprise.<br/> 
-<sup>10</sup> fonctionnalités Skype Entreprise dans Office 365 F3 incluent Skype Entreprise Plan 1 (pas de partage de bureau, pas de partage d’application, ne peut pas initier de conférence web, vidéo ou audio à plusieurs, ne peut pas planifier de réunions).<br/> 
+<sup>10</sup> fonctionnalités Skype Entreprise dans Office 365 F3 incluent Skype Entreprise Plan 1 (aucun partage de bureau, aucun partage d’application, ne peut pas initier de conférences web, vidéo ou audio à plusieurs, ne peut pas planifier de réunions).<br/> 
 <sup>11</sup> L’accès est actuellement disponible si vous êtes sur le canal actuel ou sur la version cible du canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d’informations, voir Access inclus dans le cadre des [abonnements Microsoft 365 et Office 365.](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)<br/> 
 <sup>12</sup> Infopath 2013 est toujours pris en charge et est livré dans l’installation Office Professionnel Plus 2016, mais il n’existe aucune nouvelle version pour Office 2016.<br/> 
 <sup>13 Limité</sup> aux appareils dont les écrans intégrés mesurent 10,1 pouces ou moins en diagonale.<br/> 
-<sup>14</sup> Power Query est un add-in gratuit qui peut être téléchargé ici : [Microsoft Power Query pour Excel](https://www.microsoft.com/download/details.aspx?id=39379). Une fois activée, la fonctionnalité Power Query est disponible à partir de l’onglet Power Query du ruban.
+<sup>14</sup> Power Query est un add-in gratuit qui peut être téléchargé ici : [Microsoft Power Query pour Excel](https://www.microsoft.com/download/details.aspx?id=39379). Une fois activée, la fonctionnalité Power Query est disponible à partir de l’onglet Power Query du ruban.<br/> 
+<sup>15 Limité aux</sup> stratégies pour les applications web et aux stratégies de confidentialité pour les applications clientes.<br/> 
+<sup>16 Limité</sup> aux stratégies pour les applications web.
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Disponibilité des applications Office dans les plans Office pour Mac
 
@@ -134,7 +137,7 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Types de données | Non | Non | Non |
 |Remplissage flash  | Non | Non | Non |
 |Idées (Insight Services) | Non | Non | Non |
-|Intégration améliorée avec Power BI (éléments visuels personnalisés, création de graphiques PBI directement à partir d’Excel) | Non | Non | Non |
+|Intégration améliorée avec Power BI (visuels personnalisés, création de graphiques PBI directement à partir d’Excel) | Non | Non | Non |
 |Encre numérique intelligente | Non | Non | Non |
 |Groupes Office 365 | Non | Non | Non |
 |Données de tableau croisé dynamique connectées à des tableaux croisés dynamiques | Non | Non | Non |
@@ -145,7 +148,7 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Recherche intelligente | Non | Non | Non |
 |Graphiques : sunburst, treemap, cascade, histogramme, cartes, chronologie, entonnoir | Non | Non | Non |
 |Historique des versions| Non | Non | Non | 
-|**Microsoft Forms** est entièrement disponible dans les clouds pour le gouvernement, à l’exception des fonctionnalités suivantes qui ne sont pas disponibles pour le moment : | Oui | Oui | Non |
+|**Microsoft Forms** est entièrement disponible dans les clouds pour le gouvernement, à l’exception des fonctionnalités suivantes non disponibles pour le moment : | Oui | Oui | Non |
 |Notification par courrier électronique | Non<sup>1</sup> | Non<sup>1</sup> | Non |
 |Insérer une image | Non<sup>1</sup> | Non<sup>1</sup> | Non |
 |Insérer une vidéo | Non<sup>1</sup> | Non<sup>1</sup> | Non |

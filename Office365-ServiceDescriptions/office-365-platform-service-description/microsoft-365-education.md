@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation.
-ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+ms.openlocfilehash: 737f900412cdd252b3b06d56ef9281cdf09e5333
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50146001"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241040"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -51,7 +51,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |Minecraft Education Edition avec générateur de code|Non|Non|Non|Oui|Oui|Non|Non|Oui|Oui|
 |Application Take a Test|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 |Application Set up School PCs|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
-|**Vidéo vocale et réunions**|**Office 365 Éducation A1**|**Office 365 Éducation A3**|**Office 365 Éducation A5**|**Microsoft 365 Éducation A3**|**Microsoft 365 Éducation A56**|**Office 365 A3 Student Use Benefit**|**Office 365 A5 Student Use Benefit**|**Microsoft 365 Éducation A3 Student Use Benefit**|**Microsoft 365 Éducation A5 Student Use Benefit**|
+|**Vidéo vocale et réunions**|**Office 365 Éducation A1**|**Office 365 Éducation A3**|**Office 365 Éducation A5**|**Microsoft 365 Éducation A3**|**Microsoft 365 Éducation A5**|**Office 365 A3 Student Use Benefit**|**Office 365 A5 Student Use Benefit**|**Microsoft 365 Éducation A3 Student Use Benefit**|**Microsoft 365 Éducation A5 Student Use Benefit**|
 |Diffusion de réunion Skype|Non|Oui|Oui|Oui|Oui|Non|Non|Non|Non|
 |Réservations Microsoft|Non|Oui|Oui|Oui|Oui|Non|Non|Non|Non|
 |Audioconférence|Non|Non|Oui|Non|Oui|Non|Non|Non|Non|
@@ -112,8 +112,8 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 > <sup>5</sup> Microsoft Project n’est pas inclus dans Office 365, mais peut être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement d’enseignement, vous pouvez acheter Project Plan 3 et Plan 5 à prix éducation. <br/>
 > <sup>6 inclut</sup> Intune. <br/>
 > <sup>7</sup> Serveurs et listes d’adresses réseau sont inclus pour Exchange, SharePoint et Skype Entreprise. <br/>
-> <sup>8</sup> ECAL ou Core CAL, en fonction de la version d’A3 achetée ; avec A5, les droits ECAL sont inclus. <br/>
-> <sup>9</sup> applications Microsoft 365 sont nécessaires pour appliquer des protections et envoyer des e-mails protégés à partir du Bureau Outlook. <br/>
+> <sup>8</sup> ECAL ou Core CAL, selon la version d’A3 achetée ; avec A5, les droits ECAL sont inclus. <br/>
+> <sup>9</sup> applications Microsoft 365 sont requises pour appliquer des protections et envoyer des e-mails protégés à partir du Bureau Outlook. <br/>
 > <sup>10 Anciennement</sup> Office 365 - Protection avancée contre les menaces. <br/>
 > <sup>11 Anciennement</sup> Azure Advanced Threat Protection. <br/>
 > <sup>12 Anciennement</sup> Microsoft Defender - Protection avancée contre les menaces. <br/>
