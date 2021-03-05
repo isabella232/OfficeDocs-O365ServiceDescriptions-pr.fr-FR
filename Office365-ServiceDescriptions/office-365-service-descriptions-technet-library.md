@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 et Office 365 sont des services informatiques conçus pour répondre aux besoins de sécurité, de fiabilité et de productivité robustes de votre organisation.
-ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+ms.openlocfilehash: 174d30152a56e799e053d117808e566a08346ffb
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871157"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460293"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descriptions des services Microsoft 365 et Office 365 
 
@@ -26,7 +26,7 @@ Microsoft 365 et Office 365 sont des services informatiques conçus pour répond
   
 Les articles de cette bibliothèque fournissent une description détaillée des services et fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour plus d’informations sur les applications microsoft Dynamics 365 business, voir [la documentation de Microsoft Dynamics 365.](https://docs.microsoft.com/dynamics365/)
 
-Pour comparer les fonctionnalités entre les plans, voir [Outils puissants pour](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) prendre en charge votre entreprise ou la description de service pertinente dans la liste ci-dessous. 
+Pour comparer les fonctionnalités entre les plans, voir [Outils puissants](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) pour prendre en charge votre entreprise ou la description de service pertinente dans la liste ci-dessous. 
   
 Pour obtenir des articles et des informations de support, consultez l’aide [d’Office & Training,](https://support.office.com/)la documentation Office pour les [administrateurs](https://docs.microsoft.com/office/)et les professionnels de l’informatique, et le Centre d’aide [Microsoft 365](https://docs.microsoft.com/microsoft-365/)pour les administrateurs et les professionnels de l’informatique.
   
@@ -58,8 +58,6 @@ Pour commencer, lisez les descriptions suivantes :
 - [Description du service SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
-
-- [Description du service de courrier](briefing-service-description.md)
 
 - [Description du service Workplace Analytics](workplace-analytics-service-description.md)
 

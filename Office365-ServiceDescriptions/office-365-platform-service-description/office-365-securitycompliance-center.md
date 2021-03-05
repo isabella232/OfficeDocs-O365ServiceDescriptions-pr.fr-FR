@@ -1,5 +1,5 @@
 ---
-title: Centre de sécurité et conformité
+title: Centre de sécurité et de conformité
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le Centre de conformité de sécurité est conçu pour vous aider à gérer les fonctionnalités de conformité &amp; dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 0116ecf3f46c2d870d88a5d1ef53e18452a53e7b
-ms.sourcegitcommit: f98239a5631ba312d63753ffce83a7413a143ee5
+ms.openlocfilehash: 4daf754f5472620482eced63a9970b05a4e61a6c
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50122194"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460193"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -30,10 +30,10 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 | Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 pour le gouvernement américain G1 | Office 365 E3, Office 365 pour le gouvernement américain G3 | Office 365 E5 | Office 365 F3, Office 365 pour le gouvernement américain F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
-|[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>Entreprise 2</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
+|[Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>Entreprise 2</sup> | Non | Non  |Oui   | Oui | Oui | Oui | Non  |
 |[Étiquettes de sensibilité manuelles](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | Non | Non  |Non   | Oui | Oui | Oui | Non  |
 |[Cas eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
-|[les détient eDiscovery (y compris les requêtes eDiscovery) ;](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Non   |Non   |Non  |Non   |Oui   |Oui   |Non   |
+|[Les détient eDiscovery (y compris les requêtes eDiscovery)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |Non   |Non   |Non  |Non   |Oui   |Oui   |Non   |
 |[Exportation de la découverte électronique](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Non   |Non   |Non   |Oui   |Oui   |Non   |
 |[Audit de base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Oui   |Oui   |Oui|Oui   |Oui   |Oui   |Oui   |
 |[Chiffrement de messages Office 365 (OME) de base](https://docs.microsoft.com/microsoft-365/compliance/ome)  |Non   |Non   |Non   |Non   |Oui  |Oui   |Non   |
@@ -49,7 +49,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 | Fonctionnalité | Exchange Online (plan 1) | Exchange Online (plan 2) | Exchange Online Kiosk | SharePoint Online (plan 1) | SharePoint Online (plan 2) | OneDrive Entreprise (plan 1) | OneDrive Entreprise (plan 2) | Skype Entreprise Online (plan 1) | Skype Entreprise Online (plan 2)|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
-|[Sécurité de l’application cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Oui   |
+|[Sécurité des applications cloud Office 365](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Oui   |
 |[Gestion des menaces,](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)telle que le filtrage du courrier et la protection contre les programmes malveillants   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Gestion avancée des menaces,](https://docs.microsoft.com/office365/securitycompliance/office-365-ti)telle que l’Explorateur de menaces pour les campagnes de hameçonnage   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non  |
 |[Référentiel sécurisé client](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
@@ -62,7 +62,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |[Recherche de contenu](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Oui   |Oui   |Oui   |Oui   |Oui  | Oui<sup>10</sup>  |Oui<sup>10</sup>  |Oui   |Oui   |
 |[Cas eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui<sup>10</sup>  |Oui<sup>10</sup>  |Non   |Non   |
 |[Exportation de la découverte électronique](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
-|[les détient eDiscovery (y compris les requêtes eDiscovery) ;](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
+|[Les détient eDiscovery (y compris les requêtes eDiscovery)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
 |[Découverte électronique avancée](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Archivage](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |Non   |Oui   |Non   |Oui   |Oui   |Oui<sup>10</sup> |Oui<sup>10</sup>  |Non   |Non   |
 |[Audit de base](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|Oui|Oui|Oui|Oui|Oui|Oui<sup>10</sup>|Oui<sup>10</sup>|Non|Non|
@@ -100,4 +100,4 @@ Le Centre de conformité est disponible dans le plan E3 pour Office 365 géré p
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Le Centre de sécurité & conformité est disponible pour Office 365 Germany. Pour plus d’informations sur Office 365 Germany, voir [Office 365 Germany](office-365-germany.md).
+Le Centre de sécurité & conformité est disponible pour Office 365 Germany. Pour plus d’informations sur Office 365 Germany, voir [Office 365 Germany.](office-365-germany.md)

@@ -6,71 +6,60 @@ audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: Microsoft teams offre des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues.
-ms.openlocfilehash: 508e02d0e2d2afc3fa559e6759307c0c08a4c6d9
-ms.sourcegitcommit: eae5f1a9793fd0ca082ee81143765ae5849263dc
+description: Microsoft Teams fournit des fonctionnalités de messagerie instantanée, de collaboration de fichiers et de données, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence web étendues.
+ms.openlocfilehash: 55511f990f749fc8f39e84a9e0a7b1211b43bd53
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724559"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460203"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
-Microsoft teams est le Hub pour le travail d’équipe dans Microsoft 365. Le service teams permet des fonctions de messagerie instantanée, d’appels audio et vidéo, de réunions en ligne enrichies, d’expériences mobiles et de fonctionnalités de conférence Web étendues. En outre, teams offre des fonctionnalités de collaboration et de fichier de données et d’extensibilité, et s’intègre à Microsoft 365 et à d’autres applications Microsoft et partenaires.
+Microsoft Teams est le hub pour le travail d’équipe dans Microsoft 365. Le service Teams permet la messagerie instantanée, les appels audio et vidéo, les réunions en ligne enrichies, les expériences mobiles et les fonctionnalités de conférence web étendues. En outre, Teams fournit des fonctionnalités de collaboration et d’extensibilité de fichiers et de données, et s’intègre à Microsoft 365 et à d’autres applications Microsoft et partenaires.
 
-Skype entreprise Online sera retiré le 31 juillet 2021, [annoncé](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) le 30 juillet 2019... Microsoft teams est un service entièrement nouveau, conçu pour le nuage dès le départ en tirant parti d’Azure et d’autres innovations de service de Microsoft. Microsoft teams est basé sur les groupes Microsoft 365, Microsoft Graph et les mêmes fonctions de sécurité, de conformité et de gérabilité au niveau de l’entreprise que le reste d’Office 365. Teams exploite les identités stockées dans Azure Active Directory (Azure AD). Ces services sont fournis par les centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils à l’intérieur d’un réseau d’entreprise ou sur Internet. Pour plus d’informations, consultez les [affiches architecture informatique de Microsoft teams et solutions de téléphonie](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
+Skype Entreprise Online sera retiré le 31 juillet 2021, ce qui a été annoncé le 30 juillet 2019. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams est un service entièrement nouveau, conçu pour le cloud depuis le début en tirant parti d’Azure et d’autres innovations de service de Microsoft. Microsoft Teams repose sur les groupes Microsoft 365, Microsoft Graph et avec la même sécurité, la même conformité et la même gérabilité au niveau de l’entreprise que le reste d’Office 365. Teams tire parti des identités stockées dans Azure Active Directory (Azure AD). Ces services sont livrés à partir de centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils depuis l’intérieur d’un réseau d’entreprise ou sur Internet. Pour plus d’informations, voir les affiches sur l’architecture et les solutions téléphoniques de [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters)
 
-Microsoft conserve la sécurité de vos données et l' [accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, consultez le centre de gestion de la [confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft s’engage à assurer la sécurité de vos données et [l’accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, voir le [Centre de confiance Microsoft](https://www.microsoft.com/trust-center) et le Centre [d’accessibilité Office.](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
 
-Pour référence, nous avons inclus cette table principale des abonnements qui permettent aux utilisateurs de Microsoft Teams. Pour obtenir des informations détaillées sur les plans, consultez [la rubrique trouver le bon Microsoft teams pour votre entreprise](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Pour plus d’Office 365 dans les plans gouvernementaux, consultez la rubrique [office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 via G5 incluent l’accès aux fonctionnalités de teams.<br><br>
+Pour obtenir des informations détaillées sur les abonnements qui activent les utilisateurs pour Microsoft Teams, consultez le tableau de comparaison [complet des abonnements.](https://go.microsoft.com/fwlink/?linkid=2139145) Pour plus d’informations sur Office 365 dans les plans pour le gouvernement, consultez les plans [Office 365 pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans) Office 365 G1 à G5 inclut l’accès aux fonctionnalités teams.
 
-| Offres pour les petites entreprises | Plans d’entreprise | Plans d’éducation | Plans de développement |
-|:-----|:-----|:-----|:-----|
-|Microsoft 365 Business Basic <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Développeur Office 365 <br/> |
-|Microsoft 365 Business Standard <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
-|Microsoft 365 Business Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
-|  <br/> |Office 365 F3 <br/> |  Microsoft 365 A3<br/> |  <br/> |
-|  <br/> |Microsoft 365 F1 <br/> |  Microsoft 365 A5<br/> |  <br/> |
-|  <br/> |Microsoft 365 F3 <br/> |  <br/> |  <br/> |
-|  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
-|  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
+Pour obtenir des instructions détaillées sur l’implémentation des fonctionnalités de produit, voir la [documentation de l’administrateur Microsoft Teams.](https://docs.microsoft.com/MicrosoftTeams) Cette description de service détaille les principales différences entre les services fournis dans les différentes installations cloud. Les fonctionnalités principales de Microsoft Teams ne diffèrent pas d’un abonnement à l’autre. La disponibilité des fonctionnalités de conformité dépend du niveau d’abonnement. Pour en savoir plus, [consultez Sécurité et conformité dans Microsoft Teams.](https://docs.microsoft.com/microsoftteams/security-compliance-overview) Pour obtenir la liste détaillée des fonctionnalités disponibles dans chaque abonnement, consultez la description du service de plateforme [Microsoft 365 et Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
 
-Pour obtenir des conseils détaillés sur l’implémentation des fonctionnalités du produit, consultez la [documentation d’administration de Microsoft teams](https://docs.microsoft.com/MicrosoftTeams). Cette description de service décrit les principales différences entre les services fournis dans les différentes installations Cloud. Les fonctionnalités principales de Microsoft Teams ne diffèrent pas des abonnements. La disponibilité des fonctionnalités de conformité dépend de votre niveau d’abonnement. Pour en savoir plus, consultez [la rubrique sécurité et conformité dans Microsoft teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Pour obtenir la liste détaillée des fonctionnalités disponibles dans chaque abonnement, consultez la rubrique [Microsoft 365 et Office 365 Platform Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+**Fonctionnalités** vocales cloud : pour l’audioconférence, votre organisation doit acheter et attribuer une licence d’audioconférence à chaque utilisateur qui va définir des réunions rendez-vous. Pour les fonctionnalités Teams qui nécessitent des forfaits d’appels, chaque utilisateur a besoin d’un système téléphonique et d’un plan d’appels nationaux ou nationaux et internationaux. Pour en savoir plus, [consultez les licences de modules de développement microsoft Teams.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
 
-**Fonctionnalités vocales Cloud**: pour l’audioconférence, votre organisation doit acheter et attribuer une licence d’audioconférence à chaque utilisateur qui configurera des réunions de rendez-vous. Pour les fonctionnalités de teams qui requièrent des forfaits d’appels, chaque utilisateur doit disposer d’un système téléphonique et d’un forfait d’appels nationaux ou internationaux. Pour en savoir plus, consultez la rubrique [licences de module complémentaire Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Événements en** direct : cette offre dans Office 365 remplace la diffusion de réunion Skype retirée. Les fonctionnalités d’événements en direct sont disponibles pour les plans de gestion des licences, comme détaillé dans le service Stream. Veuillez consulter les [détails des licences Microsoft Stream ici.](https://docs.microsoft.com/stream/license-overview) Le service Événements en direct est accessible via Stream, Yammer ou Microsoft Teams. Pour en savoir plus sur les fonctionnalités des événements en direct, consultez les événements en direct dans [Microsoft 365 dans Yammer, Microsoft Teams et Microsoft Stream.](https://docs.microsoft.com/stream/live-event-m365)
 
-**Événements en direct**: cette offre dans Office 365 remplace la diffusion de réunion Skype obsolète. Les fonctionnalités des événements en direct sont disponibles pour les plans de gestion des licences, comme indiqué dans le service de flux. Consultez les [Détails relatifs aux licences Microsoft Stream ici](https://docs.microsoft.com/stream/license-overview). Le service d’événements en direct est accessible via Stream, Yammer ou Microsoft Teams. Pour en savoir plus sur les fonctionnalités d’événement en direct, consultez la rubrique [événements en direct dans microsoft 365 dans Yammer, Microsoft teams et Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+Tous les plans d’abonnement pris en charge sont éligibles pour l’accès au client web Microsoft Teams, aux clients de bureau et aux applications mobiles.
 
-Tous les plans d’abonnement pris en charge sont éligibles pour l’accès au client Web Microsoft Teams, aux clients de bureau et aux applications mobiles.
-
-Microsoft teams n’est pas disponible en tant que service autonome.
+Microsoft Teams n’est pas disponible en tant que service autonome.
 
 ## <a name="feature-category-reference"></a>Référence de catégorie de fonctionnalité
 
-Ce tableau répertorie la disponibilité des fonctionnalités Microsoft teams dans les plans de gestion des licences ou les instances de Cloud. Certaines restrictions s’appliquent. Pour plus d’informations, consultez les notes de bas de page. Cette table peut être modifiée sans préavis. Reportez-vous à Microsoft 365 message Center notifications for Core service change Messaging et à la [documentation de référence des termes du contrat de licence Microsoft](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
+Ce tableau répertorie la disponibilité des fonctionnalités de Microsoft Teams dans les plans de gestion des licences ou les instances cloud. Certaines mises en garde s’appliquent. Pour plus d’informations, voir les notes de bas de page. Ce tableau peut changer sans préavis. Reportez-vous aux notifications du Centre de messages Microsoft 365 pour la messagerie principale de modification du service et à la documentation de référence relative aux termes du contrat [de licence Microsoft.](https://www.microsoft.com/licensing/product-licensing/products)<br><br>
 
-| Fonctionnalité | Petite entreprise | Plans d’entreprise | GCC | GCC-High | DOD | Éducation |
+| Fonctionnalité | Petite entreprise | Plans d’entreprise | GCC | GCC - Élevé | DOD | Éducation |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Conversation  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Teams  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
-|Canaux-standard  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Canaux-privés  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |Oui <br/> |Non  <br/> |Non <br/> |Oui  <br/> |
+|Équipes  <br/> |Oui <br/> |Oui <br/> |Oui <br/> |Oui<sup>1</sup>  <br/> |Oui<sup>1</sup>  <br/> |Oui  <br/> |
+|Canaux - Standard  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Canaux - Privé  <br/> |Oui  <br/> |Oui<sup>2</sup>  <br/> |Oui <br/> |Non  <br/> |Non <br/> |Oui  <br/> |
 |Réunions  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Partage d’écran de bureau audio/vidéo PowerPoint <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Partage d’écran PowerPoint Audio/Vidéo De bureau <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Appels vocaux  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>3</sup>  <br/> |Oui<sup>3</sup>  <br/> |Oui  <br/> |
 |Audioconférence  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>3</sup>  <br/> |Oui<sup>3</sup>  <br/> |Oui  <br/> |
-|Applications, robots, connecteurs &  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup>  <br/> |Oui<sup>5</sup>  <br/> |Oui<sup>4, 5</sup>  <br/> |Oui  <br/> |
-|Événements en direct  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |N °<sup>6</sup>  <br/> |N °<sup>6</sup>  <br/> |Oui  <br/> |
+|Applications, bots & connecteurs  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>5</sup>  <br/> |Oui<sup>5</sup>  <br/> |Oui<sup>4,5</sup>  <br/> |Oui  <br/> |
+|Événements en direct  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non<sup>6</sup>  <br/> |Non<sup>6</sup>  <br/> |Oui  <br/> |
 
-> <sup>1</sup>  Microsoft teams dans GCC-High et DoD prennent en charge 2500 membres d’une équipe individuelle.<br/>
-> <sup>2</sup> le planificateur Microsoft n’est pas disponible actuellement pour accéder aux canaux privés.<br/>
-> <sup>3</sup> le routage direct doit être configuré pour que Microsoft teams Voice and audio Conferencing fonctionne dans GCCH et DoD.<br/>
-> <sup>4</sup> Microsoft OneNote n’est pas disponible dans DOD Clouds.<br/>
-> <sup>5</sup> les applications tierces et la publication d’application ne sont pas disponibles dans ces nuages pour le moment.<br/>
-> <sup>6</sup> les événements en direct ne sont pas disponibles dans GCC-High ou DoD pour le moment.<br/>
+> <sup>1</sup>  Microsoft Teams dans GCC-High et DOD supportent 2 500 membres dans une équipe individuelle.<br/>
+> <sup>2</sup> Le Planificateur Microsoft n’est pas disponible actuellement pour accéder aux canaux privés.<br/>
+> <sup>3 Le</sup> routage direct doit être configuré pour que l’audioconférence et la voix Microsoft Teams fonctionnent dans GCCH et DoD.<br/>
+> <sup>4</sup> Microsoft OneNote n’est pas disponible dans les clouds DOD.<br/>
+> <sup>5</sup> Les applications tierces et la publication d’applications ne sont pas disponibles dans ces clouds pour le moment.<br/>
+> <sup>6</sup> Événements en direct ne sont pas disponibles GCC-High ou DOD pour le moment.<br/>
 
 ## <a name="next-steps"></a>Étapes suivantes
 
-Commencez à planifier votre déploiement de Microsoft teams en visitant la [documentation technique de Microsoft teams](https://aka.ms/SuccessWithTeams). Restez à jour sur les fonctionnalités et les fonctionnalités de teams en [rejoignant notre communauté et en visitant notre blog Microsoft teams](https://aka.ms/TeamsBlog).
+Commencez à planifier votre déploiement de Microsoft Teams en visitant la [documentation technique de Microsoft Teams.](https://aka.ms/SuccessWithTeams) Restez à jour sur les fonctionnalités et fonctionnalités de Teams en rejoignant notre communauté et en [visitant notre blog Microsoft Teams.](https://aka.ms/TeamsBlog)
 
-Pour en savoir plus sur les fonctionnalités de teams par plateforme de système d’exploitation, consultez les [fonctionnalités teams par article de support technique](https://aka.ms/teamsfeaturesbyplatform).
+Pour en savoir plus sur les fonctionnalités teams par plateforme de système d’exploitation, examinez les [fonctionnalités teams par article](https://aka.ms/teamsfeaturesbyplatform)de support de plateforme.

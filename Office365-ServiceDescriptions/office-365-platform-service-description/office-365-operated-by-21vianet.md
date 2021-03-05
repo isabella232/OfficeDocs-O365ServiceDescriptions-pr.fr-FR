@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 04b3a9f34ca50f178c2db4102fcf0607ecb3b87d
-ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
+ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50241050"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460303"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -103,7 +103,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Groupes Office 365|Oui|Non|Oui|Oui|Oui|Oui|Oui|
 |Office 365 Video|Non|Non|Non|Oui|Oui|Oui|Oui<sup>2</sup>|
 |Bloc-notes OneNote pour la classe|Non|Non|Non|Oui <sup> 15<sup>|Non|Non|Non|
-|**[MManagement de compte d’utilisateur](user-account-management.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
+|**[MManagement du compte d’utilisateur](user-account-management.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
 |Identité cloud, identité fédérée ou authentification multifacteur<sup>14</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Configuration du bureau Office 365|Non|Non|Non|Non|Non|Non|Non|
 |Téléchargement en bloc à l'aide de fichiers .csv|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -163,7 +163,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |**[Mises à jour de service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au Centre de messages lorsque l’action est requise, qu’un problème est résolu, que des fonctionnalités sont déployées ou que votre service change|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Oui|--|Oui|Oui|Oui|Oui|Oui|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Non|--|Non|Non|Non|Non|Non|
 |Option pour activer la publication ciblée|Non|--|Non|Non|Oui|Oui|Oui|
 |**[Aide et formation](help-and-training.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
 |Aide en ligne|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -288,7 +288,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 <sup>1</sup> Les fonctionnalités d'archivage et de conformité sont prises en charge avec cette version d'Office, mais les plans SharePoint Online et Exchange Online ne sont pas inclus et doivent être achetés séparément ou utilisés avec les équivalents de serveur local pris en charge.
 <br/><sup>2</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge.
 <br/><sup>3</sup> Si vous disposez d'Office Professionnel Plus 2013 ou d'une version autonome d'Excel 2013, vous pouvez télécharger et utiliser [Power Map Preview pour Excel 2013](https://www.microsoft.com/download/details.aspx?id=38395&amp;clcid=0x409) en tant que module complémentaire non pris en charge.
-<br/><sup>4</sup> Skype Entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype complète, qui intègre des fonctionnalités supplémentaires, y compris le support téléphonique, l'archivage et la conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de comparaison des [clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<br/><sup>4</sup> Skype Entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype complète, qui intègre des fonctionnalités supplémentaires, y compris le support téléphonique, l'archivage et la conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de [comparaison des clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>5</sup> Certaines écoles sont éligibles à Education Plus, qui inclut Office 365 ProPlus, et permet aux étudiants, enseignants et membres du personnel d’installer la dernière version d’Office sur cinq ordinateurs PC ou Mac et sur d’autres appareils mobiles, y compris les tablettes Windows et l’iPad. Pour pouvoir bénéficier d'Office 365 Éducation Plus, les écoles doivent acquérir une licence Office pour les enseignants et le personnel à l'échelle de l'établissement via l'inscription aux solutions Éducation, le programme Open Value Subscription pour les solutions Éducation ou un contrat pour établissements scolaires. Access et Publisher sont uniquement disponibles sur PC. OneNote pour Mac est disponible en téléchargement séparé à partir de l'App Store Mac.
 <br/><sup>6</sup> Office 2011 pour Mac peut être installé, mais pas activé.
 <br/><sup>7</sup> Office 365 ProPlus est pris en charge sur une infrastructure VDI (Virtual Desktop Infrastructure) dédiée aux utilisateurs. Office 365 ProPlus prend uniquement en charge les services Bureau à distance s'il est acheté dans le cadre d'un programme de licences en volume.
@@ -308,7 +308,7 @@ Le tableau suivant fournit des liens vers des comparaisons des fonctionnalités 
 > [!NOTE]
 > - Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. La liste des fonctionnalités de Microsoft Office présentées dans ce tableau comparatif n’est pas exhaustive.
 > - Microsoft Office 365 ProPlus est une offre d’abonnement mensuel à la dernière suite bureautique Office.
-> - les clients Microsoft Office Web Apps Server 2013 sur site obtiennent une licence d’édition Office pour le web s’ils ont acheté une licence de suite bureautique Office (par exemple, Office Professionnel Plus, Office Standard ou une licence Office 365 ProPlus).
+> - Microsoft Office Clients web Apps Server 2013 locaux obtiennent une licence d’édition Office pour le web s’ils ont acheté une licence de suite bureautique Office (par exemple, Office Professionnel Plus, Office Standard ou une licence Office 365 ProPlus).
 
 | Application | Office pour le web géré par 21Vianet | Créer un lien vers une comparaison détaillée des fonctionnalités |
 |:-----|:-----|:-----|
@@ -441,7 +441,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 <br/><sup>12</sup> La configuration du déploiement hybride est disponible via l’Assistant Configuration hybride pour Exchange 2013 CU5 ou peut être configurée manuellement si vous disposez d’Exchange 2013 SP1. Consultez la rubrique d’aide pour plus d’informations, [voir Office 365 géré par 21Vianet.](https://docs.microsoft.com/office365/admin/services-in-china/services-in-china?view=o365-21vianet&preserve-view=true)
 <br/><sup>13</sup> Les comptes connectés sont pris en charge pour les comptes &amp; POP IMAP, mais désactivés pour Outlook.com (Hotmail).
 <br/><sup>14 L’utilisation</sup> d’une cmdlet pour utiliser la liste d’adresses et la liste d’adresses globale n’est pas prise en charge.
-<br/><sup>15</sup> Les fonctionnalités actuelles de chiffrement de messages Office 365 (OME) sont une évolution des solutions actuelles de gestion des droits de l’information (IRM) et des solutions OME précédentes. Pour plus d’informations sur OME, voir le FAQ sur le chiffrement de [messages Office 365.](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)
+<br/><sup>15</sup> Les fonctionnalités actuelles de chiffrement de messages Office 365 (OME) sont une évolution des solutions de gestion des droits de l’information (IRM) et des solutions OME précédentes. Pour plus d’informations sur OME, voir le FAQ sur le chiffrement de [messages Office 365.](https://docs.microsoft.com/microsoft-365/compliance/ome-faq)
 
 ### <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -647,7 +647,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.<br><br>
 |Contrôles d'intégrité de collections de sites|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Service d’états temporaires|Non|Non|Non|Non|Non|Non|Non|
 |Administration centrale simplifiée|Non|Non|Non|Non|Non|Non|Non|
-|Notifications d’état du système|Non|Non|Non|Non|Non|Non|Non|
+|Notifications d’état système|Non|Non|Non|Non|Non|Non|Non|
 |Récupération de base de données de contenu non attachée|Non|Non|Non|Non|Non|Non|Non|
 |Upgrade evaluation site collections|Non|Non|Non|Oui|Oui|Oui|Oui|
 |Rapports et journalisation de l’utilisation|Non|Non|Non|Non|Non|Non|Non|
@@ -829,7 +829,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.<br><br>
 <br/><sup>12</sup> Vous pouvez afficher des documents dans n’importe quel navigateur mobile. Vous devez installer l’application Office Mobile pour modifier des documents. Office Mobile est actuellement disponible pour les tablettes et téléphones Windows, les tablettes et téléphones Android, l’iPhone et l’iPad.
 <br/><sup>13 L’aide</sup> est disponible uniquement en chinois simplifié et en anglais.
 <br/><sup>14</sup> Visio pour la consommation web (fonctionnalité d’affichage) est disponible gratuitement. Les fonctionnalités de création et de modification de Visio pour le web nécessitent une licence. Pour plus d’informations sur Visio pour le web, voir [Visio pour la description du service web.](../visio-online-service-description/visio-online-service-description.md)
-<br/><sup>15</sup> K1 utilisateurs peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 K1 n’inclut pas les droits cal pour accéder au serveur ; ces droits doivent être achetés séparément.
+<br/><sup>15</sup> utilisateurs K1 peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 K1 n’inclut pas les droits cal pour accéder au serveur ; ces droits doivent être achetés séparément.
 
 ## <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
@@ -877,7 +877,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Vidéo du haut-parleur actif|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Codage et décodage H.264|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Vidéo à plusieurs|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Vidéo haute définition ou images de tous les participants|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Vidéo ou images haute définition de tous les participants|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Contrôles de présentateur|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Affichage sélectionné par le participant|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Partage OneNote|Oui|Oui|Oui|Oui|Oui|Oui|Non|
@@ -936,7 +936,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Moniteur d'appel vidéo|Non|Non|Non|Non|Non|Non|Non|
 |Messagerie vocale|Non|Non|Non|Non|Non|Non|Non|
 |[Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels nationaux, avec achat de modules add-on requis)|Non|Non|Non|Non|Non|Non|Non|
-|[Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels internationaux, avec achat de modules add-on requis)|Non|Non|Non|Non|Non|Non|Non|
+|[Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels internationaux, achat d’un module add-on requis)|Non|Non|Non|Non|Non|Non|Non|
 |[Crédits de communication](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|Non|Non|Non|Non|Non|Non|Non|
 |Appels vocaux Skype Entreprise|Non|Non|Non|Non|Non|Non|Non|
 |**[Sécurité et archivage](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
@@ -965,7 +965,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Windows PowerShell|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Rapports Skype Entreprise Online dans le Centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype Entreprise (Lync) complète, qui intègre des fonctionnalités supplémentaires, notamment des fonctionnalités avancées de prise en charge de téléphonie, d'archivage et de conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de [comparaison des clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype Entreprise (Lync) complète, qui intègre des fonctionnalités supplémentaires, notamment des fonctionnalités avancées de prise en charge de téléphonie, d'archivage et de conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, voir les tableaux de [comparaison des clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>3</sup> Only accessible through the Skype for Business admin center management interface.
 <br/><sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus.
@@ -1020,7 +1020,7 @@ Le tableau suivant répertorie les plans Office 365 qui incluent le service Shar
 |Vidéo du haut-parleur actif|Non|Oui|
 |Codage et décodage H.264|Non|Oui|
 |Vidéo à plusieurs|Non|Oui|
-|Vidéo haute définition ou images de tous les participants|Non|Oui|
+|Vidéo ou images haute définition de tous les participants|Non|Oui|
 |Contrôles de présentateur|Non|Oui|
 |Affichage sélectionné par le participant|Non|Oui|
 |Partage OneNote|Non|Oui|
@@ -1066,7 +1066,7 @@ Le tableau suivant répertorie les plans Office 365 qui incluent le service Shar
 |Windows PowerShell|Oui|Oui|
 |Rapports Skype Entreprise Online dans le Centre d’administration Microsoft 365|Non<sup>4</sup>|Non<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l’application Skype Entreprise (Lync) complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, les fonctionnalités de conformité de &amp; l’archivage. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de comparaison des [clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l’application Skype Entreprise (Lync) complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, les fonctionnalités de conformité de &amp; l’archivage. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de [comparaison des clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.

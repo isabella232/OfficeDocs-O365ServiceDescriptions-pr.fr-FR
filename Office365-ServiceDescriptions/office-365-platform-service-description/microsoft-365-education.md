@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation.
-ms.openlocfilehash: 737f900412cdd252b3b06d56ef9281cdf09e5333
-ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
+ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
+ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50241040"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50460223"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -90,11 +90,11 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |Gestion de la sécurité avancée|Non|Oui|Oui|Oui|Oui|Non|Non|Non|Non|
 |Intune pour<sup>l’Éducation 6</sup>|Non|Non|Non|Oui|Oui|Non|Non|Oui|Oui|
 |Advanced Threat Analytics|Non|Non|Non|Oui|Oui|Non|Non|Oui|Oui|
-|Microsoft Defender Antivirus|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
+|Antivirus Microsoft Defender|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 |Microsoft Defender Device Guard|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 |Microsoft Defender pour<sup>l’identité 11</sup>|Non|Non|Non|Non|Oui|Non|Non|Non|Oui|
 |Sécurité de l’application cloud Office 365|Non|Non|Non|Non|Oui|Oui|Oui|Oui|Oui|
-|Microsoft 365 Cloud App Security|Non|Non|Non|Non|Non|Non|Non|Oui|Oui|
+|Microsoft 365 Cloud App Security|Non|Non|Non|Non|Non|Non|Non|Non|Oui|
 |Microsoft Defender pour Endpoint<sup>12</sup>|Non|Non|Non|Non|Oui|Non|Non|Non|Non|
 |**Avantages des serveurs et des cal**|**Office 365 Éducation A1**|**Office 365 Éducation A3**|**Office 365 Éducation A5**|**Microsoft 365 Éducation A3**|**Microsoft 365 Éducation A5**|**Office 365 A3 Student Use Benefit**|**Office 365 A5 Student Use Benefit**|**Microsoft 365 Éducation A3 Student Use Benefit**|**Microsoft 365 Éducation A5 Student Use Benefit**|
 |Exchange<sup>7</sup>|Non|Non|Non|Oui<sup>8</sup>|Oui|Non|Non|Non|Non|
@@ -112,8 +112,8 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 > <sup>5</sup> Microsoft Project n’est pas inclus dans Office 365, mais peut être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement d’enseignement, vous pouvez acheter Project Plan 3 et Plan 5 à prix éducation. <br/>
 > <sup>6 inclut</sup> Intune. <br/>
 > <sup>7</sup> Serveurs et listes d’adresses réseau sont inclus pour Exchange, SharePoint et Skype Entreprise. <br/>
-> <sup>8</sup> ECAL ou Core CAL, selon la version d’A3 achetée ; avec A5, les droits ECAL sont inclus. <br/>
+> <sup>8</sup> ECAL ou Core CAL, en fonction de la version d’A3 achetée ; avec A5, les droits ECAL sont inclus. <br/>
 > <sup>9</sup> applications Microsoft 365 sont requises pour appliquer des protections et envoyer des e-mails protégés à partir du Bureau Outlook. <br/>
 > <sup>10 Anciennement</sup> Office 365 - Protection avancée contre les menaces. <br/>
 > <sup>11 Anciennement</sup> Azure Advanced Threat Protection. <br/>
-> <sup>12 Anciennement</sup> Microsoft Defender - Protection avancée contre les menaces. <br/>
+> <sup>12</sup> Anciennement Microsoft Defender - Protection avancée contre les menaces. <br/>
