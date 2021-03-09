@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 68f57eef2133d6993d269489b883ea1d62a745d0
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
+ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460303"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50572740"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -55,9 +55,9 @@ Chaque plan Office 365 géré par 21Vianet inclut un certain nombre de services,
 <sup>1</sup> Inclut des fonctionnalités telles que l'administration d'Office 365, les applications de la suite Office 365, la gestion des comptes d'utilisateur, les domaines, la continuité et l'état du service, la création de rapports, les mises à jour de service, l'aide et la formation, la mise en réseau et ainsi de suite. Pour plus d'informations, reportez-vous au tableau des [Fonctionnalités de la plateforme](office-365-operated-by-21vianet.md#platform-features).
 <br/><sup>2</sup> Project Online n'est pas inclus, mais peut être acheté en tant que service complémentaire distinct ou ajouté gratuitement au plan Office 365 A1.
 <br/><sup>3</sup> Visio pour la consommation web (fonctionnalité d’affichage) est disponible gratuitement. Les fonctionnalités de création et de modification de Visio pour le web nécessitent une licence. Pour plus d’informations sur Visio pour le web, voir [Visio pour la description du service web.](../visio-online-service-description/visio-online-service-description.md)
-<br/><sup>4</sup> AIP est partiellement pris en charge dans Office 365 géré par 21Vianet. Pour plus d’informations, voir Parité entre Azure Information Protection pour Office 365 géré par [21Vianet](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)et offres commerciales.
+<br/><sup>4</sup> AIP est partiellement pris en charge dans Office 365 géré par 21Vianet. Pour plus d’informations, voir [Parité entre Azure Information Protection pour Office 365 géré par 21Vianet](https://docs.microsoft.com/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?view=o365-21vianet&preserve-view=true)et offres commerciales.
 
-## <a name="system-requirements"></a>Configuration requise du système
+## <a name="system-requirements"></a>Configuration requise
 
 Pour connaître la configuration requise pour Office 365, reportez-vous à la page [Configuration requise pour Office](https://products.office.com/office-system-requirements/#Office365forBEG) sur le site des produits [office.com](https://www.office.com).
 
@@ -163,7 +163,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |**[Mises à jour de service](service-updates.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Notifications envoyées au Centre de messages lorsque l’action est requise, qu’un problème est résolu, que des fonctionnalités sont déployées ou que votre service change|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Non|--|Non|Non|Non|Non|Non|
+|[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service|Non|Non|Non|Non|Non|Non|Non|
 |Option pour activer la publication ciblée|Non|--|Non|Non|Oui|Oui|Oui|
 |**[Aide et formation](help-and-training.md)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
 |Aide en ligne|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -202,7 +202,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Administration déléguée|Non|Non|Non|Non|Non|Non|Non|
 |**[Contrat de niveau de service](service-level-agreement.md)**<sup>9</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Droits d’utilisation du](product-use-rights.md)**<sup>produit 10</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|**[Droits d’utilisation du produit](product-use-rights.md)**<sup>10</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 
 <sup>1</sup> Office 365 et Office 365 gérés par 21Vianet ne fournissent pas de prise en charge pour un système d’exploitation qui n’est pas pris en charge par son fabricant.<br/>
 <sup>2</sup> Dans Office 365 Entreprise F3 géré par 21Vianet, la vidéo Office 365 est limitée à l’affichage uniquement (pas de publication ou de partage). <br/>
@@ -800,7 +800,7 @@ La version d'Office 365 gérée par 21Vianet est propre à la Chine.<br><br>
 |Recommandations en matière de personnes, de sites et de documents|Non|Non|Non|Non|Non|Non|Non|
 |Site personnel |Non|Non|Non|Non|Non|Non|Non|
 |Photos et présence|Non|Non|Non|Non|Non|Non|Non|
-|Profils|Non|Non|Non|Non|Non|Non|Non|
+|Profil|Non|Non|Non|Non|Non|Non|Non|
 |Évaluations|Non|Non|Non|Non|Non|Non|Non|
 |Shared with Me|Non|Non|Non|Non|Non|Non|Non|
 |Flux de site (site d’équipe classique utilisant les réseaux sociaux SharePoint)|Non|Non|Non|Non|Non|Non|Non|
@@ -877,7 +877,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Vidéo du haut-parleur actif|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Codage et décodage H.264|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Vidéo à plusieurs|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|Vidéo ou images haute définition de tous les participants|Oui|Oui|Oui|Oui|Oui|Oui|Non|
+|Vidéo haute définition ou images de tous les participants|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Contrôles de présentateur|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Affichage sélectionné par le participant|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Partage OneNote|Oui|Oui|Oui|Oui|Oui|Oui|Non|
@@ -936,7 +936,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Moniteur d'appel vidéo|Non|Non|Non|Non|Non|Non|Non|
 |Messagerie vocale|Non|Non|Non|Non|Non|Non|Non|
 |[Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels nationaux, avec achat de modules add-on requis)|Non|Non|Non|Non|Non|Non|Non|
-|[Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels internationaux, achat d’un module add-on requis)|Non|Non|Non|Non|Non|Non|Non|
+|[Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels internationaux, avec achat de modules add-on requis)|Non|Non|Non|Non|Non|Non|Non|
 |[Crédits de communication](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)|Non|Non|Non|Non|Non|Non|Non|
 |Appels vocaux Skype Entreprise|Non|Non|Non|Non|Non|Non|Non|
 |**[Sécurité et archivage](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)**|**Office 365 Business Essentials géré par 21Vianet**|**Office 365 Business géré par 21Vianet**|**Office 365 Business Premium géré par 21Vianet**|**Office 365 A1 géré par 21Vianet**|**Office 365 Entreprise E1 géré par 21Vianet**|**Office 365 Entreprise E3 géré par 21Vianet**|**Office 365 Entreprise F3 géré par 21Vianet**|
@@ -965,7 +965,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Windows PowerShell|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Rapports Skype Entreprise Online dans le Centre d’administration Microsoft 365|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype Entreprise (Lync) complète, qui intègre des fonctionnalités supplémentaires, notamment des fonctionnalités avancées de prise en charge de téléphonie, d'archivage et de conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, voir les tableaux de [comparaison des clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype Entreprise (Lync) complète, qui intègre des fonctionnalités supplémentaires, notamment des fonctionnalités avancées de prise en charge de téléphonie, d'archivage et de conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de [comparaison des clients de bureau.](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>3</sup> Only accessible through the Skype for Business admin center management interface.
 <br/><sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus.
@@ -1020,7 +1020,7 @@ Le tableau suivant répertorie les plans Office 365 qui incluent le service Shar
 |Vidéo du haut-parleur actif|Non|Oui|
 |Codage et décodage H.264|Non|Oui|
 |Vidéo à plusieurs|Non|Oui|
-|Vidéo ou images haute définition de tous les participants|Non|Oui|
+|Vidéo haute définition ou images de tous les participants|Non|Oui|
 |Contrôles de présentateur|Non|Oui|
 |Affichage sélectionné par le participant|Non|Oui|
 |Partage OneNote|Non|Oui|
