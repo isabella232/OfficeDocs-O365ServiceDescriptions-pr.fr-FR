@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Découvrez les limites de SharePoint pour microsoft 365 et les plans autonomes.
-ms.openlocfilehash: 8e8931c77f7ceda2b1aed90d4804f98355fd6caa
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+description: Découvrez les limites de SharePoint pour Microsoft 365 et les plans autonomes.
+ms.openlocfilehash: 12baba7f9da374e88825b97aef30182f9b2014f5
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878697"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726759"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -49,7 +49,7 @@ Pour les grandes listes, concevez pour avoir le moins d’autorisations uniques 
 
 ### <a name="file-size-and-file-path-length"></a>Taille du fichier et longueur du chemin d’accès au fichier
 
-100 Go. Pour en savoir plus sur les restrictions et les limites lors de l’utilisation de la nouvelle application de synchronisation OneDrive (OneDrive.exe), voir Noms de fichiers et types de fichiers [non valides.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
+250 Go. Pour en savoir plus sur les restrictions et les limites lors de l’utilisation de la nouvelle application de synchronisation OneDrive (OneDrive.exe), voir Noms de fichiers et types de fichiers [non valides.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 ### <a name="moving-and-copying-across-sites"></a>Déplacement et copie d’un site à l’autre
 
@@ -87,7 +87,7 @@ Un utilisateur peut appartenir à 5 000 groupes par site (collection de sites) e
 2 000 par site (collection de sites). Nous vous recommandons de créer des sites et de les organiser en hubs au lieu de créer des sous-sites. Si vous utilisez des sous-sites, nous vous recommandons de limiter leur nombre (en particulier sur les sites fortement trafficked).
 
 > [!NOTE]
-> Votre organisation est limitée à 2 000 sites hub. Vous n’avez peut-être pas besoin d’un site hub pour chaque fonction et il est important d’y faire une planification avant de créer des hubs. Pour plus d’informations, consultez [La planification de vos sites hub SharePoint.](https://docs.microsoft.com/sharepoint/planning-hub-sites)
+> Votre organisation est limitée à 2 000 sites hub. Vous n’avez peut-être pas besoin d’un site hub pour chaque fonction et il est important d’y faire une planification avant de créer des hubs. Pour plus d’informations, visitez [la planification de vos sites hub SharePoint.](https://docs.microsoft.com/sharepoint/planning-hub-sites)
 
 ### <a name="sharepoint-hosted-applications"></a>Applications hébergées par SharePoint
 
