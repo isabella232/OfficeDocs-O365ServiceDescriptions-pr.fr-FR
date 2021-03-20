@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation.
-ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460223"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902033"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -30,7 +30,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Plateforme Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Office pour le web|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Applications Microsoft 365 for entreprise|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Applications Microsoft 365 pour les grandes entreprises|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Exchange Online|Oui<sup>1</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|
 |SharePoint Online|Oui<sup>3</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -93,8 +93,8 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |Antivirus Microsoft Defender|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 |Microsoft Defender Device Guard|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 |Microsoft Defender pour<sup>l’identité 11</sup>|Non|Non|Non|Non|Oui|Non|Non|Non|Oui|
-|Sécurité de l’application cloud Office 365|Non|Non|Non|Non|Oui|Oui|Oui|Oui|Oui|
-|Microsoft 365 Cloud App Security|Non|Non|Non|Non|Non|Non|Non|Non|Oui|
+|Sécurité de l’application cloud Office 365|Non|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Microsoft 365 Cloud App Security|Non|Non|Non|Non|Oui|Non|Non|Non|Oui|
 |Microsoft Defender pour Endpoint<sup>12</sup>|Non|Non|Non|Non|Oui|Non|Non|Non|Non|
 |**Avantages des serveurs et des cal**|**Office 365 Éducation A1**|**Office 365 Éducation A3**|**Office 365 Éducation A5**|**Microsoft 365 Éducation A3**|**Microsoft 365 Éducation A5**|**Office 365 A3 Student Use Benefit**|**Office 365 A5 Student Use Benefit**|**Microsoft 365 Éducation A3 Student Use Benefit**|**Microsoft 365 Éducation A5 Student Use Benefit**|
 |Exchange<sup>7</sup>|Non|Non|Non|Oui<sup>8</sup>|Oui|Non|Non|Non|Non|

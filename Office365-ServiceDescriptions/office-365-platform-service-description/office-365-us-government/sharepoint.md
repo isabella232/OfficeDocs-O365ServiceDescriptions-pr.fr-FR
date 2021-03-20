@@ -8,21 +8,21 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients cloud du gouvernement américain.
-ms.openlocfilehash: 505be0509dbef718e64983377c8dc75a23adfd26
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients cloud du gouvernement des États-Unis.
+ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50145981"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902019"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Environnements SharePoint pour le gouvernement américain
 
 Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la description du [service SharePoint.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) SharePoint est disponible pour les environnements GCC (Government Community Cloud), GCC High et DoD. 
 
-Pour plus d’informations sur le cloud pour le gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Pour le](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)gouvernement - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Pour plus d’informations sur le cloud du gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Secteurs](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)Publics - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 Pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
-Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir les points de terminaison [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou Office [365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)points de terminaison .
+Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir les points de terminaison [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou Office [365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement américain :
 
@@ -48,7 +48,7 @@ Voici les différences entre les fonctionnalités d’administration informatiqu
 
 - La modification d’une adresse de site n’est pas disponible pour les clients GCC High
 - SharePoint Server hybride n’est pas disponible pour tous les clients cloud du gouvernement
-- L’outil de migration SharePoint et le Gestionnaire de migration nécessitent une modification de configuration. Pour plus d’informations, voir la prise en charge du cloud pour le gouvernement [de SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
+- L’outil de migration SharePoint et le Gestionnaire de migration nécessitent une modification de configuration. Pour plus d’informations, voir la prise en charge du cloud pour [le gouvernement de SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
 - Mover.io n’est pas encore pris en charge
 - Multi-géo n’est pas disponible pour tous les clients cloud du gouvernement
 
@@ -56,23 +56,24 @@ Pour plus d’informations sur la migration FastTrack, voir la description du [s
 
 ## <a name="security-and-compliance-features"></a>Fonctionnalités de sécurité et de conformité
 
-Il n’existe aucune différence connue entre les fonctionnalités de sécurité et de conformité pour les clients commerciaux et celles pour les clients cloud du gouvernement.
+Il n’existe aucune différence connue entre les fonctionnalités de sécurité et de conformité pour les clients commerciaux et celles des clients cloud du secteur privé.
 
 Pour plus d’informations sur les fonctionnalités de sécurité et de conformité, voir [le Centre de sécurité & conformité.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
 
 Pour plus d’informations sur les fonctionnalités Azure Active Directory pour le gouvernement, voir la documentation relative à [Azure Government Security + Identity.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
-Pour plus d’informations sur les fonctionnalités Azure Information Protection pour le secteur public, consultez la description du [service Azure Information Protection Premium Government.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
+Pour plus d’informations sur les fonctionnalités Azure Information Protection pour le secteur public, voir la description du [service Azure Information Protection Premium Pour le secteur public.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
 
 ## <a name="sites-and-content"></a>Sites et contenu
 
 Voici les différences entre les sites et les fonctionnalités de contenu pour les clients commerciaux et celles pour les clients cloud du secteur privé :
 
-- Les composants Web Parts qui s’appuient sur des connexions aux services Internet, tels que amazon Bing, Bing Maps, Twitter et YouTube, ne fonctionneront pas comme prévu.
+- Les composants Web Parts qui s’appuient sur des connexions aux services Internet, tels qu’Amazon Bing, Bing Maps, Twitter et YouTube, ne fonctionneront pas comme prévu.
 - La bibliothèque de biens de l’organisation n’est pas disponible
 - L’ajout de listes et de pages à Teams n’est pas disponible pour les clients GCC High et DoD
 - La fonctionnalité graphique dans SharePoint Online pour GCC High est actuellement désactivée. Tout service qui s’appuie sur Microsoft Graph n’est peut-être pas disponible actuellement
 - Les fonctionnalités qui reposent sur les connexions aux services Internet, telles que l’onglet Images boursières, ne fonctionneront pas comme prévu.
+- Les notifications d’activité de fichier et de site ne sont pas disponibles
 
 ## <a name="search-features"></a>Fonctionnalités de recherche
 

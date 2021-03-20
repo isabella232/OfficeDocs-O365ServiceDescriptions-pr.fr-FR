@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
-ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
+ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50241010"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902023"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -28,7 +28,7 @@ Même si Office est un service basé sur le cloud, les applications Office ne s�
   
 Les applications Office sont disponibles en éditions 32 bits et 64 bits.
   
-Pour comparer les fonctionnalités entre les plans, voir [Outils puissants pour prendre en charge votre entreprise.](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409)
+Pour obtenir des informations détaillées sur les abonnements qui activent la description du service des utilisateurs pour les applications Office, consultez le tableau de comparaison [complet des abonnements.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
   
 ## <a name="feature-availability-across-plans"></a>Disponibilité des fonctionnalités entre les plans
 
@@ -36,7 +36,7 @@ Utilisez le tableau suivant pour comparer la disponibilité des fonctionnalités
   
 Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de développement que vous pouvez acheter pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d’informations, [voir Acheter ou modifier un module complémentaire.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)<br><br>
 
-| Application/fonctionnalité | Office Professionnel Plus 2013 | Office Professionnel Plus 2016 | Office Professionnel Plus 2019 | Applications Microsoft 365 for entreprise | Applications Microsoft 365 pour les entreprises | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Application/fonctionnalité | Office Professionnel Plus 2013 | Office Professionnel Plus 2016 | Office Professionnel Plus 2019 | Applications Microsoft 365 pour les grandes entreprises | Applications Microsoft 365 pour les entreprises | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Applications Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -122,7 +122,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |[Skype Entreprise](office-applications.md#skype-for-business) <br/> |Oui  <br/> |Oui  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Non  <br/> |Non  <br/> |
    
-> <sup>1</sup> Office 2016 pour Mac requiert Mac OS X 10.10 ou ultérieur. Pour les clients qui se connectent à Exchange via Outlook pour Mac, la connectivité à Microsoft Exchange Server 2010 Service Pack 2 ou version ultérieure est nécessaire. Pour en savoir plus, [consultez Microsoft 365 et les ressources Office.](https://products.office.com/office-system-requirements)<br/>
+> <sup>1</sup> Office 2016 pour Mac nécessite Mac OS X 10.10 ou ultérieur. Pour les clients qui se connectent à Exchange via Outlook pour Mac, la connectivité à Microsoft Exchange Server 2010 Service Pack 2 ou version ultérieure est nécessaire. Pour en savoir plus, [consultez Microsoft 365 et les ressources Office.](https://products.office.com/office-system-requirements)<br/>
 <sup>2</sup> Disponible en téléchargement séparé à partir de l'App Store. Pour en savoir plus, consultez la page dédiée à [OneNote pour Mac](https://aka.ms/OneNoteforMac).<br/> 
 <sup>3</sup> Office pour Mac 2011 peut être installé, mais pas activé.
 
@@ -181,7 +181,7 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |**Le tableau blanc Microsoft dans** les clouds pour le secteur public est actuellement disponible uniquement sur les clients Hub, et non sur le Bureau. | Oui<sup>2</sup> | Oui<sup>2</sup> | Oui<sup>2</sup> |
 |Insérer des notes, du texte et des images qui collent |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
 |Entrée manuscrite pour la forme et entrée manuscrite dans un tableau |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
-|Prétentification des entrées manuscrites |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
+|Prétification des entrées manuscrites |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
 |Convertir une image en entrée manuscrite |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
 |Vérificateur d'accessibilité |Oui<sup>2</sup> |Oui<sup>2</sup> |Oui<sup>2</sup> |
 |Modèles dynamiques (KANBAN, SWOT, etc.) | Non | Non | Non |

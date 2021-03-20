@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726699"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901931"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -30,11 +30,11 @@ SharePoint dans Microsoft 365 permet aux organisations de partager et de gérer 
 
 Pour obtenir une vue d’ensemble rapide, [voir Qu’est-ce que SharePoint ?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Pour voir les plans qui incluent SharePoint, [des outils puissants pour prendre en charge votre entreprise.](https://products.office.com/business/compare-more-office-365-for-business-plans) Pour la sécurité requise pour Microsoft 365, voir [Microsoft 365 et Ressources Office.](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4) 
+Pour obtenir des informations détaillées sur les abonnements qui activent les utilisateurs pour SharePoint, consultez le tableau de comparaison [complet des abonnements.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Pour la sécurité système requise pour Microsoft 365, consultez [Microsoft 365 et les ressources Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
 Pour en savoir plus sur les différences de fonctionnalités De SharePoint pour les clients du cloud pour le gouvernement des États-Unis, voir SharePoint pour les [environnements pour le gouvernement des États-Unis](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
-## <a name="whats-new"></a>Quoi de neuf ?
+## <a name="whats-new"></a>Nouveautés
 
 Pour plus d’informations sur les dernières fonctionnalités publiées, voir [Nouveautés de SharePoint.](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)
   
