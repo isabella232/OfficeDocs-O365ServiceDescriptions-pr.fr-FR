@@ -7,18 +7,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: High
+localization_priority: Priority
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 325396d0046e857d1c7812f9d8640a95018c248b
-ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
-ms.translationtype: MT
+ms.openlocfilehash: 8b4b888b3b8830092095c710d82579daf5f6ee32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080290"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901909"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -355,12 +355,12 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 |Limite de débit de destinataires<sup>1</sup>|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|10 000 destinataires par jour|
 |Nombre maximal de destinataires<sup>2</sup>|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|Personnalisable jusqu’à 1 000 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|400|400|
-|Limite de fréquence des messages<sup>3</sup>|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
+|Limite de débit maximal des messages<sup>3</sup>|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
 > <sup>1</sup> Une fois la limite de débit maximale pour tous les destinataires atteinte, il est impossible d’envoyer des messages à partir de la boîte aux lettres tant que le nombre de destinataires des messages envoyés au cours des dernières 24 heures n’est pas redescendu en dessous de la limite. Par exemple, un utilisateur envoie un courrier électronique à 5 000 destinataires à 09:00, puis envoie un autre message à 2 500 destinataires à 10:00, puis envoie un autre message à 2 500 destinataires à 11:00 AM, atteignant la limite de 10 000 messages. L’utilisateur ne peut pas envoyer de messages à nouveau avant 09:00 est le jour suivant.  
 > <sup>2</sup> Vous pouvez personnaliser des limites de destinataires comprises entre 1 et 1 000 pour les boîtes aux lettres existantes et les nouvelles boîtes aux lettres qui seront créées ultérieurement. Modifiez la limite de destinataires pour les boîtes aux lettres existantes individuellement ou en bloc à l’aide du centre d’administration Exchange et personnalisez le paramètre par défaut pour les nouvelles boîtes aux lettres via Remote PowerShell. Pour plus d’informations, consultez [Limites pour les destinataires personnalisables dans Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).  
-> <sup>3 Lorsque</sup> les volumes de messages sortants dépassent la limite de fréquence des messages, tout dépassement dans l’envoi des messages est limité et successivement effectué jusqu’aux minutes suivantes. En règle générale, cela ne bloque pas le compte de l’expéditeur, mais Exchange Online n’est pas adapté aux scénarios de publipostage en bloc. Pour ce cas d’utilisation, les options 2 et [3](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) sont recommandées à la place.
+> <sup>3</sup> lorsque le volume des messages sortants est supérieur à la limite de taux de messages, tout dépassement de nombre de messages est limité et successivement effectué dans les minutes suivantes. Cela ne bloque généralement pas le compte de l’expéditeur, mais Exchange Online n’est pas adapté aux scénarios de publipostage. Dans ce cas d’utilisation, les options 2 et 3 [ici](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) sont recommandées à la place.
 
 #### <a name="sending-limits-across-standalone-options"></a>Limites d’envoi dans les options autonomes
 
@@ -432,7 +432,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
 |Taille maximale de message pour les groupes de distribution contenant entre 5000 et 99 999 membres|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|25 Mo|
 |Taille de message maximal pour groupes de distribution avec 100 000 membres|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|5 Mo|
-|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |10 |10 |
+|Nombre maximal de propriétaires de groupe de distribution|10|10|10|10|10|10|
 |Nombre maximal de groupes qu’un utilisateur peut créer|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -444,7 +444,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |:-----|:-----|:-----|:-----|:-----|
 |Nombre maximal de membres d’un groupe de distribution|100 000 membres<sup>1</sup>|100 000 membres|100 000 membres|100 000 membres|
 |Limite d’envoi de messages à de grands groupes de distribution|5 000 membres ou plus<sup>1</sup>|5 000 membres ou plus|5 000 membres ou plus|5 000 membres ou plus|
-|Nombre maximal de propriétaires de groupe de distribution|10 |10 |10 |10 |
+|Nombre maximal de propriétaires de groupe de distribution|10|10|10|10|
 |Nombre maximal de groupes qu’un utilisateur peut créer|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]

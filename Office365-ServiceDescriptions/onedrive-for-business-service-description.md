@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez les fonctionnalités OneDrive disponibles par offre.
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154402"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901949"
 ---
 # <a name="onedrive-service-description"></a>Description du service OneDrive
 
@@ -26,7 +26,7 @@ OneDrive pour les comptes professionnels et scolaires est un espace de stockage 
   
 OneDrive est inclus dans les offres Microsoft 365, Office 365 et SharePoint. Vous pouvez également l’acheter séparément. 
     
-Pour comparer les offres, voir [Outils puissants pour la prise en charge de votre entreprise](https://go.microsoft.com/fwlink/?linkid=799177) et [Comparer les offres OneDrive Entreprise](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Pour obtenir des informations détaillées sur les abonnements qui activent les utilisateurs pour OneDrive, consultez le [tableau de comparaison complet des abonnements](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) et [Comparer les plans OneDrive Entreprise](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
   
 > [!NOTE]
 > Les offres individuelles OneDrive incluent Office pour le web. 
@@ -133,7 +133,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans toutes les offres incluant OneDrive et toutes les offres individuelles OneDrive :
 
 - [Demandes d’accès](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [Liens « Tout le monde »](/Office365/Enterprise/best-practices-anonymous-sharing) (pouvant être définis pour exiger l’expiration) 
+- [Liens « Tout le monde »](/Office365/Enterprise/best-practices-anonymous-sharing) (pouvant être définis pour exiger l’expiration) 
 - [Aux mentions dans les commentaires](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Nécessite une offre incluant Office 365 pour le web ou les applications de bureau Office 365.
 - [Demandes de fichiers](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Gérer le lien de partage par défaut ([au niveau de l’organisation](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) et [par site](/sharepoint/change-default-sharing-link))
