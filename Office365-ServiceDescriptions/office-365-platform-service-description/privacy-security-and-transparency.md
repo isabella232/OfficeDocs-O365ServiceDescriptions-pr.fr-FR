@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: d08c31797737381b6ff01a42bb9dc1630d692711
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519055"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172919"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -31,7 +31,7 @@ Pour découvrir comment Microsoft Office 365 protège la confidentialité de vos
   
 Pour connaître les procédures spécifiques que les administrateurs Entreprise, Business, Gouvernement et Éducation peuvent entreprendre pour configurer les paramètres de confidentialité Office 365, voir [Options de confidentialité avancées pour les administrateurs](https://go.microsoft.com/fwlink/p/?LinkID=285202).
   
-Pour plus d’informations sur la sécurité et la confidentialité des autres services Microsoft, dont les applications Microsoft 365 pour les entreprises, consultez [la rubrique à quels services en ligne le centre de gestion de la confidentialité s’applique](https://www.microsoft.com/trustcenter/default.aspx) -t-il ?
+Pour plus d’informations sur la sécurité et la confidentialité d’autres services Microsoft, y compris les applications Microsoft 365 pour les entreprises, voir à quels services en ligne le Centre de gestion [de la confidentialité s’applique-t-il ?](https://www.microsoft.com/trustcenter/default.aspx)
   
 ## <a name="security"></a>Sécurité
 
@@ -39,22 +39,22 @@ Pour savoir comment Microsoft garantit les services Office 365 de manière fiabl
   
 ## <a name="transparency"></a>Transparence
 
-En tant que client, vous pouvez déterminer l’emplacement de vos données, les utilisateurs de Microsoft y ayant accès et ce que nous faisons avec ces informations en interne. Pour plus d'informations, consultez la rubrique relative à la [transparence](https://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
+En tant que client, vous pouvez savoir où résident vos données, qui chez Microsoft peut y accéder et ce que nous faisons avec ces informations en interne. Pour plus d'informations, consultez la rubrique relative à la [transparence](https://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).
   
 ## <a name="advanced-ediscovery"></a>Advanced eDiscovery
 
-La découverte électronique, ou eDiscovery, est le processus d'identification et de livraison d'informations électroniques qui peuvent être utilisées comme preuves dans des affaires juridiques. Advanced eDiscovery repose sur l’ensemble existant de fonctionnalités eDiscovery dans Office 365, ce qui vous permet d’analyser des ensembles de données non structurés volumineux et de réduire la quantité de données correspondant à un cas juridique. Vous pouvez utiliser la fonctionnalité de recherche dans le Centre de conformité d'Office 365 pour effectuer une recherche initiale de toutes les sources de contenu de votre organisation, afin d'identifier et de collecter les données qui pourraient être pertinentes pour un dossier juridique donné. Vous pouvez ensuite analyser ces données en appliquant les fonctionnalités d'analyse de texte, d'apprentissage automatique et de codage prédictif/par pertinence de la découverte électronique avancé. Pour plus d’informations, reportez-vous à [Advanced eDiscovery](https://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).
+La découverte électronique, ou eDiscovery, est le processus d'identification et de livraison d'informations électroniques qui peuvent être utilisées comme preuves dans des affaires juridiques. Advanced eDiscovery s’appuie sur l’ensemble existant de fonctionnalités eDiscovery dans Office 365, ce qui vous permet d’analyser des jeux de données non structurés de grande taille et de réduire la quantité de données pertinentes pour un dossier juridique. Vous pouvez utiliser la fonctionnalité de recherche dans le Centre de conformité d'Office 365 pour effectuer une recherche initiale de toutes les sources de contenu de votre organisation, afin d'identifier et de collecter les données qui pourraient être pertinentes pour un dossier juridique donné. Vous pouvez ensuite analyser ces données en appliquant les fonctionnalités d'analyse de texte, d'apprentissage automatique et de codage prédictif/par pertinence de la découverte électronique avancé. Pour plus d’informations, [voir Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20).
   
 ## <a name="customer-lockbox"></a>Référentiel sécurisé client
 
-En tant qu’administrateur Microsoft, vous pouvez utiliser le référentiel sécurisé du client pour contrôler la manière dont un ingénieur du support technique Microsoft accède à vos données au cours d’une session d’aide. Dans le cas où l'ingénieur requiert l'accès à vos données pour résoudre un problème, le référentiel sécurisé vous permet d'approuver ou de rejeter la demande d'accès. Si vous l'approuvez, l'ingénieur peut accéder aux données. Chaque demande a un délai d'expiration, et une fois que le problème est résolu, la demande est fermée et l'accès révoqué.
+En tant qu’administrateur Microsoft, vous pouvez utiliser Customer Lockbox pour contrôler comment un ingénieur du support Microsoft accède à vos données pendant une session d’aide. Dans le cas où l'ingénieur requiert l'accès à vos données pour résoudre un problème, le référentiel sécurisé vous permet d'approuver ou de rejeter la demande d'accès. Si vous l'approuvez, l'ingénieur peut accéder aux données. Chaque demande a un délai d'expiration, et une fois que le problème est résolu, la demande est fermée et l'accès révoqué.
   
-Le référentiel sécurisé du client est inclus dans le plan Office 365 Entreprise 5, mais vous pouvez aussi acheter un abonnement distinct avec tout autre plan Office 365 Entreprise. Pour plus d'informations, voir [Demandes Customer Lockbox dans Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Le référentiel sécurisé du client est inclus dans le plan Office 365 Entreprise 5, mais vous pouvez aussi acheter un abonnement distinct avec tout autre plan Office 365 Entreprise. Pour plus d'informations, voir [Demandes Customer Lockbox dans Office 365](/microsoft-365/compliance/customer-lockbox-requests).
   
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pour Office 365
 
-Defender for Office 365 permet de protéger votre organisation contre les programmes malveillants et les virus. Defender for Office 365 inclut des fonctionnalités de [liens approuvés](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), de [pièces jointes fiables](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [anti-hameçonnage](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)et d’aide à la [décision](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Liens fiables protège de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, ce qui assure une protection chaque fois que le lien est sélectionné. Les pièces jointes fiables protègent contre les programmes malveillants et les virus inconnus, acheminant tous les messages et les pièces jointes qui n’ont pas de signature de virus/programmes malveillants connus vers un environnement spécial où Defender pour Office 365 peut détecter les intentions malveillantes. Pour plus d’informations sur Defender pour Office 365, reportez-vous à la rubrique [Microsoft Defender for office 365 Service Description](../office-365-advanced-threat-protection-service-description.md).
+Defender pour Office 365 vous aide à protéger votre organisation contre les programmes malveillants et les virus. Defender pour Office 365 [inclut](/office365/securitycompliance/atp-safe-links)des fonctionnalités de liens sécurisés, de pièces [jointes sécurisées,](/office365/securitycompliance/atp-safe-attachments)d’anti-hameçonnage et d’intelligence contre [l’usurpation](/office365/securitycompliance/learn-about-spoof-intelligence) d’informations. [](/office365/securitycompliance/atp-anti-phishing) La stratégie de liens sécurisés protège de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, offrant ainsi une protection chaque fois que le lien est sélectionné. La fonction Pièces jointes sécurisées protège contre les programmes malveillants et les virus inconnus, en routant tous les messages et pièces jointes qui n’ont pas de signature connue de virus/programmes malveillants vers un environnement spécial où Defender pour Office 365 peut détecter des intentions malveillantes. Pour plus d’informations sur Defender pour Office 365, voir la description du [service Microsoft Defender pour Office 365.](../office-365-advanced-threat-protection-service-description.md)
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, voir [Microsoft 365 et Office 365 Platform Service Description](office-365-platform-service-description.md).
+Pour afficher la disponibilité des fonctionnalités dans les différents plans, voir la description du service de plateforme [Microsoft 365 et Office 365.](office-365-platform-service-description.md)

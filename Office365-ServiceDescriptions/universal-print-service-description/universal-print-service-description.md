@@ -1,5 +1,5 @@
 ---
-title: Description du service d’impression universel
+title: Description du service Impression universelle
 ms.author: office365servicedesc
 author: Benzicald
 ms.audience: ITPro
@@ -7,20 +7,20 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Impression universelle, un service d’impression cloud Microsoft 365, supprime le besoin de serveurs d’impression locaux.
-ms.openlocfilehash: 8d79a1034c2f7406e68fb826faffd6f796e08f23
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 6e6ef0d91ea1c7c06a924c391a4b0523ae139120
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460317"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172509"
 ---
-# <a name="universal-print-service-description"></a>Description du service d’impression universel
+# <a name="universal-print-service-description"></a>Description du service Impression universelle
 
 [Impression universelle,](https://www.microsoft.com/microsoft-365/windows/universal-print)un service d’impression cloud Microsoft 365, supprime le besoin de serveurs d’impression locaux. Ce service permet aux points de terminaison Windows 10 joints à l’espace de travail de sélectionner et d’imprimer sur les imprimantes inscrites dans Azure AD sans avoir à installer un autre logiciel client.
 
 Les utilisateurs tirent parti de l’impression sans pilote, de la découverte simplifiée de l’imprimante basée sur l’emplacement et d’une expérience d’impression intuitive sans courbe d’apprentissage qui tire parti du flux d’impression existant sur leur appareil.
 
-Impression universelle est un service cloud d’infrastructure d’impression qui peut être étendu avec des fonctionnalités avancées par les solutions logicielles partenaires Microsoft, les périphériques d’impression [multifonctionnels](https://docs.microsoft.com/universal-print/fundamentals/universal-print-partner-integrations)et les services cloud.
+Impression universelle est un service cloud d’infrastructure d’impression qui peut être étendu avec des fonctionnalités avancées par les solutions logicielles partenaires Microsoft, les périphériques d’impression [multifonctionnels et](/universal-print/fundamentals/universal-print-partner-integrations)les services cloud.
 
 ## <a name="available-subscriptions"></a>Abonnements disponibles
 
@@ -31,26 +31,26 @@ L’impression universelle est incluse dans les abonnements suivants, pour répo
 | Microsoft 365 Business Premium | Windows 10 Entreprise E3     | Windows 10 Éducation E3 |
 |                                | Windows 10 Entreprise E5     | Windows 10 Éducation E3 |
 |                                | Microsoft 365 F3             | Microsoft 365 A3        |
-|                                | Microsoft 365 E3             | Microsoft 365 A5        |
+|                                | Microsoft 365 E3             | Microsoft 365 A5        |
 |                                | Microsoft 365 E5             |                         |
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour obtenir la liste complète de toutes les fonctionnalités d’impression universelle, voir la [documentation d’impression universelle.](https://docs.microsoft.com/universal-print/)
+Pour obtenir la liste complète de toutes les fonctionnalités d’impression universelle, voir la [documentation d’impression universelle.](/universal-print/)
 
 | Fonctionnalité                                  | Plans pour les petites entreprises | Plans d’entreprise | Plans d’enseignement |
 |------------------------------------------|----------------------|------------------|-----------------|
-| [Fonctionnalité d’impression principale](https://docs.microsoft.com/universal-print/)             | Oui                  | Oui              | Oui             |
-| [Conversion de documents](https://docs.microsoft.com/universal-print/fundamentals/universal-print-document-conversion)                  | Oui                  | Oui              | Oui             |
-| [Logiciel de connecteur d’impression universel](https://docs.microsoft.com/universal-print/fundamentals/universal-print-connector-overview)   | Oui                  | Oui              | Oui             |
-| [Scripts PowerShell d’impression universelle](https://docs.microsoft.com/universal-print/fundamentals/universal-print-powershell) | Oui                  | Oui              | Oui             |
+| [Fonctionnalité d’impression principale](/universal-print/)             | Oui                  | Oui              | Oui             |
+| [Conversion de documents](/universal-print/fundamentals/universal-print-document-conversion)                  | Oui                  | Oui              | Oui             |
+| [Logiciel de connecteur d’impression universel](/universal-print/fundamentals/universal-print-connector-overview)   | Oui                  | Oui              | Oui             |
+| [Scripts PowerShell d’impression universelle](/universal-print/fundamentals/universal-print-powershell) | Oui                  | Oui              | Oui             |
 
 ## <a name="learn-more"></a>En savoir plus
 
 Pour plus d’informations sur l’impression universelle, consultez les ressources suivantes :
 
-- [Intégrations des partenaires d’impression universels](https://docs.microsoft.com/universal-print/fundamentals/universal-print-partner-integrations)
-- [Référence de l’API Impression universelle](https://docs.microsoft.com/graph/universal-print-concept-overview)
+- [Intégrations des partenaires d’impression universels](/universal-print/fundamentals/universal-print-partner-integrations)
+- [Référence de l’API Impression universelle](/graph/universal-print-concept-overview)
 - [Communauté technique d’impression universelle](https://techcommunity.microsoft.com/t5/universal-print/ct-p/UniversalPrint)
 
 ### <a name="licensing-terms"></a>Termes du contrat de licence
@@ -59,7 +59,7 @@ Pour obtenir les termes et conditions de licence des produits et services achet�
 
 ### <a name="service-updates"></a>Mises à jour de services
 
-Pour suivre les modifications à venir, y compris les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le [Centre de messages.](https://docs.microsoft.com/microsoft-365/admin/manage/message-center)
+Pour suivre les modifications à venir, y compris les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le [Centre de messages.](/microsoft-365/admin/manage/message-center)
 
 ### <a name="accessibility"></a>Accessibilité
 

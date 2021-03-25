@@ -1,5 +1,5 @@
 ---
-title: Options de plan Microsoft 365 et Office 365
+title: Options des plans Microsoft 365 et Office 365
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -15,29 +15,29 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 6bd5bacf9f3f6b65120c33bde38ea125dec80ea9
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 9ef5b54b96e9c75e76f3327b6b8f511a71818c97
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072297"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174019"
 ---
-# <a name="microsoft-365-and-office-365-plan-options"></a>Options de plan Microsoft 365 et Office 365
+# <a name="microsoft-365-and-office-365-plan-options"></a>Options des plans Microsoft 365 et Office 365
 
 Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation.
   
-## <a name="service-families-and-plans"></a>Familles et plans de services
+## <a name="service-families-and-plans"></a>Familles et plans de service
 
 Le tableau suivant répertorie les différentes familles de services et plans disponibles dans Microsoft 365 et Office 365. Pour une vue d’ensemble des fonctionnalités et des informations tarifaires, ou pour discuter avec un représentant en ligne, sélectionnez l’un des liens dans la colonne Plans.<br><br>
   
 | Famille de services Office 365 | Plans |
 |:-----|:-----|
 |**Entreprise (maximum de 300 utilisateurs)** <br/>     |[Microsoft 365 Business Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) (anciennement Office 365 Business Essentials) <br/> [Microsoft 365 Business Standard](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) (anciennement Office 365 Business Premium) <br/> [Microsoft 365 Business Premium](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot%3aoverviewtab) (anciennement Microsoft 365 Business) <br/> [Applications Microsoft 365 pour les entreprises](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) (anciennement Office 365 Business) <br/> |
-|**Entreprise (nombre illimité d’utilisateurs)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (inclut Office 365 F3)](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (inclut Office 365 E3)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (inclut Office 365 E5)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [Applications Microsoft 365 pour les entreprises](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (anciennement Office 365 ProPlus) <br/> |
-|**Éducation (nombre illimité d’utilisateurs)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (une seule licence par appareil couplée avec une licence Office 365 A1 gratuite par utilisateur) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (inclut Office 365 A3) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (inclut Office 365 A5) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
+|**Entreprise (nombre illimité d’utilisateurs)** <br/> |[Office 365 E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 F3](https://products.office.com/business/office-365-f1) <br/> [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1?activetab=pivot%3aoverviewtab) <br/> [Microsoft 365 F3 (inclut Office 365 F3)](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E3 (inclut Office 365 E3)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E3?activetab=pivot:overviewtab) <br/> [Microsoft 365 E5 (inclut Office 365 E5)](https://www.microsoft.com/en-us/microsoft-365/enterprise/E5?activetab=pivot:overviewtab) <br/> [Applications Microsoft 365 pour les entreprises](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise?rtc=1&activetab=pivot%3aoverviewtab) (anciennement Office 365 ProPlus) <br/> |
+|**Éducation (nombre illimité d’utilisateurs)** <br/> |[Office 365 A1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 A3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Office 365 E5](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) <br/> [Microsoft 365 A1 (une seule fois, par licence par appareil couplée avec une licence Office 365 A1 gratuite par utilisateur) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A3 (inclut Office 365 A3) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> [Microsoft 365 A5 (inclut Office 365 A5) ](https://www.microsoft.com/en-us/education/buy-license/microsoft365/default.aspx) <br/> |
 |**Gouvernement américain (nombre illimité d’utilisateurs)** <br/> |[Voir tous les plans disponibles](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Office 365 géré par 21Vianet en Chine** <br/> |[Voir tous les plans disponibles](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[En savoir plus à propos d’Office 365 Allemagne](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
+|**Office 365 Germany** <br/> |[En savoir plus à propos d’Office 365 Allemagne](/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-microsoft-365-and-office-365-plan"></a>Disponibilité des services dans chaque plan Microsoft 365 et Office 365
 
@@ -63,21 +63,21 @@ Chaque plan Microsoft 365 ou Office 365 inclut un certain nombre de services ind
 |Microsoft Kaizala <br/> |Non <br/> |Oui  <br/> |Oui <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |Oui  <br/> |Non  <br/> |
    
 <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Microsoft 365 Apps pour entreprise, qui n’est pas inclus dans Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 F1, Microsoft 365 F3, Office 365 E1, Office 365 A1 ou Office 365 F3.<br/>
-<sup>2</sup> Pour en savoir plus sur les fonctionnalités Azure Information Protection incluses dans les plans Microsoft 365 et Office 365, consultez [Azure Information Protection.](https://azure.microsoft.com/services/information-protection/)<br/>
+<sup>2</sup> Pour en savoir plus sur les fonctionnalités Azure Information Protection incluses dans les plans Microsoft 365 et Office 365, voir [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>3</sup> Office 365 E5 et Microsoft 365 E5 contiennent le système téléphonique et l’audioconférence. Pour implémenter la fonctionnalité Forfait d’appels, vous devez souscrire à un plan supplémentaire (Forfait d’appels nationaux ou Forfait d’appels internationaux).<br/>
 <sup>4 Inclut</sup> 2 Go de stockage. <br/>
 <sup>5 inclut</sup> Exchange Online Plan 1. <br/>
 <sup>6 Inclut</sup> Exchange Online Plan 2. <br/>
 <sup>7 inclut</sup> Exchange Online Plan 1 et des fonctionnalités supplémentaires. <br/>
 <sup>8 Inclut</sup> Exchange Online Kiosk. <br/>
-<sup>9 Inclut</sup> Skype Entreprise Online Plan 2 avec des limitations de client de base. <br/>
+<sup>9 Inclut</sup> Skype Entreprise Online Plan 2 avec des limitations de base du client. <br/>
 <sup>10 inclut</sup> Skype Entreprise Online Plan 2 sans limitations client. <br/>
 <sup>11 inclut</sup> Skype Entreprise Online Plan 1 et des fonctionnalités supplémentaires. <br/>
 <sup>12 inclut</sup> Skype Entreprise Online Plan 2 avec prise en charge vocale et sans limitations client.  <br/>
 <sup>13 inclut</sup> Skype Entreprise Online Plan 1.<br>
 <sup>14</sup> Microsoft Teams est désormais le client principal pour la messagerie, les réunions et les appels dans Microsoft 365. Depuis le 1er octobre 2018, les nouveaux clients avec 500 sièges ou moins sont intégrés à Microsoft Teams et n’ont pas accès à Skype Entreprise Online. Les clients qui utilisent déjà Skype Entreprise Online peuvent continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu’à ce qu’ils terminent leur transition vers Microsoft Teams.<br>
-<sup>15</sup> inclut la conformité Microsoft 365 E5, qui fournit la classification et la rétention automatiques, la clé client, le chiffrement de messages avancé, la gestion des risques internes, la conformité des communications, les obstacles aux informations, customer lockbox, Privileged Access Management, Advanced Audit, Records Management et Advanced eDiscovery. et Microsoft 365 E5 Security, qui inclut Microsoft Defender pour Office 365 Plan 2, Microsoft Defender pour point de terminaison, Azure Active Directory Plan 2, Microsoft Defender pour l’identité, Microsoft Cloud App Security et documents sécurisés.<br>
-<sup>16</sup> Microsoft 365 F1 n’inclut pas les droits sur une boîte aux lettres Exchange. Pour activer une expérience Teams complète, les licences M365 F1 peuvent être disponibles avec le plan de service Exchange Online K1 activé. Bien que le plan de service Exchange Online K1 provisionn e une boîte aux lettres pour l’utilisateur, les utilisateurs M365 F1 ne sont pas autorisés à utiliser la boîte aux lettres. Nous recommandons à vos clients de [](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) désactiver Outlook sur le web via ces étapes et de demander aux utilisateurs de ne pas accéder à la boîte aux lettres Exchange via d’autres méthodes.<br>
+<sup>15</sup> inclut la conformité Microsoft 365 E5, qui fournit la classification et la rétention automatiques, la clé client, le chiffrement de messages avancé, la gestion des risques internes, la conformité des communications, les obstacles aux informations, customer lockbox, Privileged Access Management, Advanced Audit, Records Management et Advanced eDiscovery. et Microsoft 365 E5 Security, qui inclut Microsoft Defender pour Office 365 Plan 2, Microsoft Defender pour point de terminaison, Azure Active Directory Plan 2, Microsoft Defender pour l’identité, Microsoft Cloud App Security et Documents sécurisés.<br>
+<sup>16</sup> Microsoft 365 F1 n’inclut pas les droits sur une boîte aux lettres Exchange. Pour activer une expérience Teams complète, les licences M365 F1 peuvent être disponibles avec le plan de service Exchange Online K1 activé. Bien que le plan de service Exchange Online K1 provisionn e une boîte aux lettres pour l’utilisateur, les utilisateurs M365 F1 ne sont pas autorisés à utiliser la boîte aux lettres. Nous recommandons à vos clients de [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) désactiver Outlook sur le web via ces étapes et de demander aux utilisateurs de ne pas accéder à la boîte aux lettres Exchange via d’autres méthodes.<br>
 <sup>17 Inclut</sup> SharePoint Online Kiosk. Ne peut pas être administrateurs. Aucune boîte aux lettres de site. Aucun site personnel.<br>
 <sup>18 utilisateurs</sup> de Microsoft 365 F1 peuvent lire des fichiers à l’aide d’Office pour le web, mais ne sont pas en droit de créer/modifier/enregistrer. 
   

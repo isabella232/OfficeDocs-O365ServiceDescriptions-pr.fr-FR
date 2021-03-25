@@ -1,5 +1,5 @@
 ---
-title: Stratégie et conformité de la messagerie dans Exchange Online Protection
+title: Stratégie et conformité de messagerie dans Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,27 +10,27 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Lisez cet article pour en savoir plus sur les fonctionnalités de stratégie et de conformité de messagerie dans Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Lisez cet article pour en savoir plus sur la stratégie de messagerie et les fonctionnalités de conformité dans Microsoft Exchange Online Protection des données (EOP).
+ms.openlocfilehash: a1ed14ed555adb17801014141a3f66616e17d2e1
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293800"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173729"
 ---
-# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Stratégie et conformité de la messagerie dans Exchange Online Protection
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Stratégie et conformité de messagerie dans Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
+Microsoft Exchange Online Protection des messages (EOP) fournit des fonctionnalités de stratégie et de conformité de messagerie qui peuvent vous aider à gérer vos données de messagerie.
 
-Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service Exchange Online Protection](exchange-online-protection-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la [description du service Exchange Online Protection.](exchange-online-protection-service-description.md)
 
 ## <a name="mail-flow-rules"></a>Règles de flux de messagerie
 
-Les règles de flux de messagerie (également appelées règles de transport) vous offrent la souplesse nécessaire pour appliquer vos propres stratégies propres à votre entreprise à la messagerie électronique. Les règles de flux de messagerie sont constituées de critères flexibles, qui vous permettent de définir les conditions, les exceptions et les actions à effectuer en fonction des critères. Pour plus d’informations, consultez la rubrique [mail Flow Rules (transport Rules) in Exchange Online Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
+Les règles de flux de messagerie (également appelées règles de transport) vous offrent la possibilité d’appliquer vos propres stratégies propres à votre entreprise à la messagerie électronique. Les règles de flux de messagerie sont composés de critères flexibles qui vous permettent de définir des conditions, des exceptions et des actions à prendre en fonction des critères. Pour plus d’informations, voir [Règles de flux de messagerie (règles de transport) dans Exchange Online Protection.](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0)
 
 ## <a name="audit-logging"></a>Journalisation d'audit
 
-La journalisation d’audit vous permet de suivre les modifications apportées par les administrateurs à votre organisation. Ces rapports vous aident à satisfaire les exigences relatives aux réglementations, à la conformité et aux litiges. Pour plus d'informations, voir [Rapports d'audit dans EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/auditing-reports-in-eop).
+La journalisation d’audit vous permet de suivre les modifications apportées par les administrateurs à votre organisation. Ces rapports vous aident à satisfaire les exigences relatives aux réglementations, à la conformité et aux litiges. Pour plus d'informations, voir [Rapports d'audit dans EOP](/microsoft-365/security/office-365-security/auditing-reports-in-eop).
 
 ## <a name="data-loss-prevention-dlp"></a>Protection contre la perte de données (DLP)
 
@@ -48,24 +48,24 @@ Vous pouvez configurer des stratégies de protection contre la perte de données
 
 - Détecter des informations sensibles dans les pièces jointes, le corps du texte ou les lignes d'objet des messages, et ajuster le niveau de confiance à partir duquel le service intervient.
 
-- Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. La création d’une empreinte numérique de document vous permet de créer facilement des types d’informations sensibles personnalisés basés sur des formulaires basés sur du texte que vous pouvez utiliser pour définir des règles de flux de messagerie et des stratégies DLP.
+- Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. L’empreinte numérique de document vous permet de créer facilement des types d’informations sensibles personnalisés basés sur des formulaires texte que vous pouvez utiliser pour définir des règles de flux de messagerie et des stratégies DLP.
 
-- Ajoutez des conseils de stratégie, qui peuvent aider à réduire les pertes de données en affichant un avertissement pour les utilisateurs d’Outlook 2013, Outlook sur le Web et OWA pour les appareils et peuvent également améliorer l’efficacité de vos stratégies en autorisant la création de rapports faux positifs.
+- Ajoutez des conseils de stratégie, qui peuvent aider à réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2013, Outlook sur le web et OWA pour les appareils, et qui peuvent également améliorer l’efficacité de vos stratégies en permettant la signalement de faux positifs.
 
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
 
 > [!NOTE]
 > Les stratégies de protection contre la perte de données s'appliquent uniquement au courrier entrant ou sortant de l'organisation. Aucune stratégie de protection contre la perte de données ne s'applique au courrier interne, sauf si vous exécutez Exchange Server 2013 avec la protection contre la perte de données localement. Cela vaut également pour les conseils de protection contre la perte de données qui informent les utilisateurs concernant de possibles violations de stratégie avant l'envoi inopiné de données sensibles à des destinataires non autorisés.
 
-Pour en savoir plus sur DLP, consultez la rubrique [protection contre la perte de données dans Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
+Pour en savoir plus sur la protection contre la perte de données, consultez La protection contre la perte de [données dans Exchange Online.](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)
 
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 
-Le chiffrement de messages Office 365, qui fait partie d’Azure information protection, est un service en ligne qui permet aux utilisateurs de messagerie d’envoyer des messages électroniques chiffrés à tous. Les clients locaux peuvent accéder au chiffrement de messages Office 365 en achetant Azure information protection et en utilisant Exchange Online Protection pour configurer le flux de messagerie via Exchange Online. Pour en savoir plus sur le chiffrement de messages Office 365 dans Exchange Online, consultez la rubrique [office 365 message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) dans la description du service Exchange Online.
+Le chiffrement de messages Office 365, qui fait partie d’Azure Information Protection, est un service en ligne qui permet aux utilisateurs de messagerie d’envoyer des messages électroniques chiffrés à tout le monde. Les clients locaux peuvent accéder au chiffrement de messages Office 365 en achetant Azure Information Protection et en utilisant Exchange Online Protection pour configurer le flux de messagerie via Exchange Online. Pour en savoir plus sur le chiffrement de messages Office 365 dans Exchange Online, voir chiffrement de messages [Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) dans la description du service Exchange Online.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
 
-| Fonctionnalité | EOP autonome | Fonctionnalités EOP dans <br/> Exchange Online | Entreprise Exchange <br/> CAL avec services |
+| Fonctionnalité | EOP autonome | Fonctionnalités EOP dans <br/> Exchange Online | Exchange Enterprise <br/> CAL avec services |
 |:-----|:-----|:-----|:-----|
 |Règles de flux de messagerie|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1, 3</sup>|
 |Journalisation d'audit|Oui<sup>2</sup>|Oui|Oui|
@@ -73,7 +73,7 @@ Le chiffrement de messages Office 365, qui fait partie d’Azure information pro
 |Chiffrement de messages Office 365|Oui<sup>4</sup>|Oui|Oui<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1</sup> les conditions, les exceptions et les actions de règle de flux de messagerie disponibles diffèrent légèrement entre EOP et Exchange Online. Ces différences sont indiquées dans [conditions de règle de flux de messagerie et exceptions (prédicats) dans Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) et les [actions de règle de flux de messagerie dans Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
+> <sup>1 Les</sup> conditions, les exceptions et les actions de règle de flux de messagerie disponibles diffèrent légèrement entre EOP et Exchange Online. Ces différences sont notées dans les conditions de règle de flux de messagerie et les [exceptions (prédicats)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) dans Exchange Online et les actions de règle de flux de [messagerie dans Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
 > <sup>2</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. <br/>
 > <sup>3</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services. <br/>
-> <sup>4</sup> pris en charge pour les clients locaux qui achètent le module complémentaire Azure information protection et utilisent Exchange Online Protection pour acheminer le courrier électronique via Exchange Online. Pour l’expérience utilisateur, outre le complément Azure information protection, les applications Microsoft 365 pour entreprise doivent être achetées. <br/>
+> <sup>4 Pris</sup> en charge pour les clients locaux qui achètent le module complémentaire Azure Information Protection et utilisent Exchange Online Protection pour router le courrier électronique via Exchange Online. Pour l’expérience utilisateur, en plus du module complémentaire Azure Information Protection, Microsoft 365 Apps for enterprise doit être acheté. <br/>

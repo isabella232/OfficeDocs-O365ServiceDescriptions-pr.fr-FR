@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: a6245acdeaeda173f1a675d1ce34d9086e3f077a
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe1d1f5a58012498e5b0f71c9a4299e61a4456ad
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132548"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173389"
 ---
 # <a name="voice-message-services"></a>Services de messagerie vocale
 
@@ -39,15 +39,15 @@ Les services hébergés de messagerie vocale permettent à une société de conn
     
 - Notifications d'appels en absence.
     
-- Voice mail PIN reset from Outlook on the web and Outlook (see [Reset a Voice Mail PIN](https://go.microsoft.com/fwlink/p/?LinkId=286328)).
+- Voice mail PIN reset from Outlook on the web and Outlook (see [Reset a Voice Mail PIN](/exchange/voice-mail-unified-messaging/set-outlook-voice-access-pin-security/reset-a-voice-mail-pin)).
     
-- Réinitialisation du code confidentiel de la messagerie vocale à partir d'Outlook Web App et d'Outlook (voir la rubrique [Réinitialiser un code confidentiel de la messagerie vocale ](https://go.microsoft.com/fwlink/p/?LinkId=271794)). 
+- Réinitialisation du code confidentiel de la messagerie vocale à partir d'Outlook Web App et d'Outlook (voir la rubrique [Réinitialiser un code confidentiel de la messagerie vocale ](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/mwi-in-exchange-online)). 
     
-- Règles de répondeur automatique (consultez la rubrique [autoriser les utilisateurs de messagerie vocale à transférer des appels](https://go.microsoft.com/fwlink/p/?LinkId=271795) pour plus de détails).
+- Règles de répondeurs d’appel (voir [Autoriser les utilisateurs](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) de messagerie vocale à envoyer des appels pour plus d’informations).
     
-- Messagerie vocale protégée dans Exchange Online (pour plus d’informations, consultez la rubrique [protection de la messagerie vocale dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) ).
+- Messagerie vocale protégée dans Exchange Online (pour plus d’informations, voir Protéger la messagerie vocale [dans Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
     
-- Aperçu de messagerie vocale (voir [la rubrique autoriser les utilisateurs à voir la transcription de la messagerie vocale](https://go.microsoft.com/fwlink/p/?LinkId=271797) pour obtenir la liste des langues prises en charge).
+- Aperçu de messagerie vocale (voir [Autoriser les utilisateurs à](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) voir une transcription de messagerie vocale pour une liste des langues pris en charge).
     
 - Speech access to email, voice mail, calendar, personal contacts, and personal contact groups.
     
@@ -55,16 +55,16 @@ Les services hébergés de messagerie vocale permettent à une société de conn
     
 - Recherche dans l'annuaire via Outlook Voice Access ou un standard automatique
     
-Pour plus d’informations sur les fonctionnalités de messagerie vocale, consultez la rubrique [messagerie vocale dans Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+Pour plus d’informations sur les fonctionnalités de messagerie vocale, [consultez la messagerie vocale dans Exchange Online.](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)
   
 > [!IMPORTANT]
 > The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. 
 >
-> Le client doit fournir une connexion téléphonique à partir du réseau téléphonique commuté (RTC) à l’aide d’une passerelle VoIP et d’un PBX, d’un PBX IP ou de Skype entreprise Server 2015. 
+> Le client doit fournir une connexion téléphonique à partir du réseau téléphonique commuté (PSTN) à l’aide d’une passerelle VoIP et d’un PBX, d’un PBX IP ou de Skype Entreprise Server 2015. 
 >
 > Le client doit fournir les contrôleurs de frontière de session (SBC) et vérifier qu'ils sont correctement configurés pour se connecter aux services de messagerie vocale en ligne. Cela comprend le niveau correct de sécurité en utilisant des certificats et des interfaces IP publiques et privées et en activant les ports TCP corrects avec leurs pare-feu sur site. 
 >
-> La messagerie vocale hébergée est uniquement disponible pour les abonnés à Exchange Online plan 2 et Office 365 entreprise E3. 
+> La messagerie vocale hébergée est disponible uniquement pour les abonnés à Exchange Online Plan 2 et Office 365 Entreprise E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interopérabilité avec messagerie vocale tierce
 
@@ -75,10 +75,8 @@ Interopérabilité avec messagerie vocale tierce
   
 ## <a name="skype-for-business-integration"></a>Intégration Skype Entreprise
 
-Les organisations peuvent acheter Skype Entreprise Online en tant que service autonome ou composant de Microsoft Office 365. Skype entreprise 2015 en local est également pris en charge. Pour en savoir plus sur Skype entreprise Online, reportez-vous à la rubrique [Description du service Skype entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Les organisations peuvent acheter Skype Entreprise Online en tant que service autonome ou composant de Microsoft Office 365. Skype Entreprise 2015 local est également pris en charge. Pour en savoir plus sur Skype Entreprise Online, consultez la [description du service Skype Entreprise Online.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
-  
-
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 21df7d4747ae0b92f21a9da56c0d4bc9ff96ccaf
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132748"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173319"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interopérabilité, connectivité et compatibilité
 
@@ -27,11 +27,11 @@ Pour les clients qui ont déployé Microsoft Lync Server 2010, Lync Server 2013 
   
 Lync Server 2010 et Lync Server 2013 sur site peuvent interagir avec Exchange Online de deux façons supplémentaires :
   
-- Interopérabilité de la messagerie instantanée et de la présence dans Outlook sur le Web
+- Interopérabilité de la messagerie instantanée et de la présence dans Outlook sur le web
     
 - Interopérabilité de la messagerie vocale
     
-Pour plus d'informations sur la configuration de Skype Entreprise Server 2015 avec Exchange Online, consultez la page [Configuration de l'intégration de Skype Entreprise Server 2015 sur site avec Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). Pour les configurations hybrides, consultez la page [Configurations hybrides Skype Entreprise Server 2015 prises en charge](https://go.microsoft.com/fwlink/?LinkID=513084).
+Pour plus d'informations sur la configuration de Skype Entreprise Server 2015 avec Exchange Online, consultez la page [Configuration de l'intégration de Skype Entreprise Server 2015 sur site avec Exchange Online](/skypeforbusiness/deploy/integrate-with-exchange-server/outlook-web-app). Pour les configurations hybrides, consultez la page [Configurations hybrides Skype Entreprise Server 2015 prises en charge](/skypeforbusiness/skype-for-business-hybrid-solutions/integration-with-exchange-and-sharepoint).
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
@@ -57,6 +57,4 @@ Exchange Online peut être configuré comme un service de remise SMTP pour relay
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Description du service Exchange Online](exchange-online-service-description.md).
-  
-
+Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)

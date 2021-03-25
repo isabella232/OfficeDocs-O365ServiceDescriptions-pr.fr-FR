@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype Entreprise Online dans Configurer Skype Entreprise Online.
-ms.openlocfilehash: 0ed4c057ba8421a14a4848993159587506abeeac
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572700"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172669"
 ---
 # <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
@@ -29,7 +29,7 @@ Si vous êtes un administrateur, vous trouverez des instructions détaillées su
     
 - Pour savoir quelles sont les options Skype Entreprise sur un appareil mobile, consultez la rubrique [Installer Skype Entreprise sur un appareil mobile](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- Vous trouverez une comparaison détaillée des clients Skype Entreprise de bureau et web dans la rubrique [Tableaux de comparaison des clients pour Skype Entreprise Online](https://go.microsoft.com/fwlink/?linkid=829754). Pour obtenir une comparaison détaillée des clients mobiles de Skype Entreprise, consultez la rubrique [Tableaux de comparaison des clients mobiles pour Skype Entreprise](https://go.microsoft.com/fwlink/?linkid=846932).
+- Vous trouverez une comparaison détaillée des clients Skype Entreprise de bureau et web dans la rubrique [Tableaux de comparaison des clients pour Skype Entreprise Online](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). Pour obtenir une comparaison détaillée des clients mobiles de Skype Entreprise, consultez la rubrique [Tableaux de comparaison des clients mobiles pour Skype Entreprise](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison).
     
 Pour télécharger le client pour votre appareil mobile, PC ou Mac, allez télécharger Skype Entreprise [sur tous vos appareils.](https://go.microsoft.com/fwlink/?linkid=846929)
   
@@ -39,7 +39,7 @@ Skype Entreprise prend en charge les appareils de salle de conférence répertor
 
 Les utilisateurs de Skype Entreprise peuvent :
   
-- Affichez leur statut de présence par exemple, Disponible, Absent,Ne pas déranger ou Hors connexion pour en faire savoir &mdash; &mdash; la disponibilité à d’autres personnes. Les informations de présence de Skype Entreprise sont présentées dans toute la suite.
+- Affichez leur statut de présence par exemple, Disponible, Absent,Ne pas déranger ou Hors connexion pour en faire savoir &mdash; &mdash; à d’autres leur disponibilité. Les informations de présence de Skype Entreprise sont présentées dans toute la suite.
     
 - Envoyer et recevoir des messages texte en temps réel via un réseau IP (Internet Protocol), tel qu’Internet, ou le réseau d’entreprise d’une organisation. La messagerie instantanée est disponible pour la communication à plusieurs et entre utilisateurs Skype. Le texte MI est crypté pour une sécurité accrue.
     
@@ -57,7 +57,7 @@ Voir [Définir les options de périphérique audio dans Skype Entreprise](https:
 
 La connectivité externe Skype Entreprise (fédération) permet aux utilisateurs de Skype Entreprise de communiquer avec les utilisateurs d’autres organisations qui utilisent Skype Entreprise, ainsi que ceux qui hébergent leur propre serveur Skype Entreprise local. Les contacts fédérés peuvent afficher la liste des personnes présentes, communiquer par messagerie instantanée, et passer des appels audio et vidéo entre utilisateurs Skype. Toutes les communications fédérées entre les systèmes de messagerie instantanée utilisant des serveurs proxy d'accès sont chiffrées. Microsoft ne contrôle pas le chiffrement une fois les messages transmis au réseau du partenaire fédéré (si le partenaire fédéré dispose d'un serveur Skype Entreprise local ou d'un réseau tiers).
   
-La connectivité externe Skype Entreprise nécessite l'accord et la configuration appropriée des deux parties impliquées dans la relation de fédération. Une fois la fédération définie par les administrateurs des deux côtés, les utilisateurs de chaque organisation peuvent voir la présence et communiquer avec les utilisateurs de l’autre organisation. La fédération est uniquement prise en charge entre d’autres environnements Skype Entreprise, avec un proxy d’accès ou des serveurs Edge correctement configurés. Pour en savoir plus sur la configuration du serveur Edge, voir Composants requis pour l’accès des utilisateurs externes dans [Lync Server 2013.](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access)
+La connectivité externe Skype Entreprise nécessite l'accord et la configuration appropriée des deux parties impliquées dans la relation de fédération. Une fois la fédération définie par les administrateurs des deux côtés, les utilisateurs de chaque organisation peuvent voir la présence et communiquer avec les utilisateurs de l’autre organisation. La fédération est uniquement prise en charge entre d’autres environnements Skype Entreprise, avec un proxy d’accès ou des serveurs Edge correctement configurés. Pour en savoir plus sur la configuration du serveur Edge, voir Composants requis pour l’accès des utilisateurs externes dans [Lync Server 2013.](/lyncserver/lync-server-2013-components-required-for-external-user-access)
   
 ## <a name="skype-for-business-online-meetings"></a>Réunions Skype Entreprise Online
 
@@ -106,21 +106,21 @@ Skype Entreprise Online fournit donc aux administrateurs du client les outils in
     
 - Windows PowerShell
     
-Pour consulter les dernières rubriques d’aide de l’administrateur Skype Entreprise Online et les articles de la rubrique d’aide, consultez Skype Entreprise [Online - Aide de l’administrateur.](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59)
+Pour consulter les dernières rubriques d’aide sur l’administration de Skype Entreprise Online et les articles de la rubrique d’aide, consultez Skype Entreprise [Online - Aide de l’administrateur.](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59)
   
 ## <a name="audio-conferencing-in-office-365"></a>Audioconférence dans Office 365
 
 Une audioconférence est une conférence dans laquelle au moins un participant se connecte à la partie audio à l'aide d'un téléphone. La possibilité d'accéder à une réunion par téléphone est utile pour les personnes qui sont en déplacement ou ne peuvent pas y participer via un PC ou un appareil mobile. Le téléphone peut également être une meilleure option dans d'autres cas de figure, par exemple lorsque la connectivité Internet est limitée ou lorsqu'une réunion est uniquement diffusée en audio.
   
-Avec l'audioconférence, les utilisateurs de votre organisation peuvent héberger ou créer des réunions qui contiennent des numéros de conférence téléphonique. Les appelants peuvent ensuite utiliser ces numéros de téléphone pour appeler et participer à une réunion avec leur téléphone (ces utilisateurs auront uniquement accès à l'audio, pas aux messages instantanés, aux partages de bureaux ou aux fichiers partagés pendant la réunion). Il vous suffit de configurer la conférence rendez-vous pour les utilisateurs qui comptent planifier ou organiser des réunions. Toute personne en possession du numéro d'appel entrant et de l'ID de conférence peut participer à la réunion, sauf si l'organisateur a verrouillé la réunion. Pour obtenir plus d'informations, consultez les articles sur la [prise en main de la conférence audio](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) et les [numéros d'accès disponibles pour les conférences audio](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Avec l'audioconférence, les utilisateurs de votre organisation peuvent héberger ou créer des réunions qui contiennent des numéros de conférence téléphonique. Les appelants peuvent ensuite utiliser ces numéros de téléphone pour appeler et participer à une réunion avec leur téléphone (ces utilisateurs auront uniquement accès à l'audio, pas aux messages instantanés, aux partages de bureaux ou aux fichiers partagés pendant la réunion). Il vous suffit de configurer la conférence rendez-vous pour les utilisateurs qui comptent planifier ou organiser des réunions. Toute personne en possession du numéro d'appel entrant et de l'ID de conférence peut participer à la réunion, sauf si l'organisateur a verrouillé la réunion. Pour obtenir plus d'informations, consultez les articles sur la [prise en main de la conférence audio](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) et les [numéros d'accès disponibles pour les conférences audio](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Vous pouvez activer la conférence rendez-vous en utilisant Microsoft comme fournisseur de services de conférence rendez-vous ou en utilisant un fournisseur tiers de conférence rendez-vous (également appelé fournisseur de services d’audioconférence).
   
-La fonctionnalité d'audioconférence n'est pas disponible dans tous les pays ou toutes les régions. Pour obtenir la liste des pays ou régions dans lesquels vous pouvez acquérir la fonction de conférence audio, reportez-vous à [l'article dédié](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+La fonctionnalité d'audioconférence n'est pas disponible dans tous les pays ou toutes les régions. Pour obtenir la liste des pays ou régions dans lesquels vous pouvez acquérir la fonction de conférence audio, reportez-vous à [l'article dédié](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json).
   
 ## <a name="calling-plans"></a>Forfaits d’appel
 
-Skype Entreprise inclut des fonctionnalités d'appel trouvées sur le réseau téléphonique commuté (PSTN). Les forfaits d’appels [](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) sont un module ajoute au système téléphonique qui vous permet de rechercher, d’acquérir et d’affecter des numéros de téléphone aux utilisateurs de votre organisation afin qu’ils peuvent effectuer et recevoir des appels de personnes à l’intérieur et à l’extérieur de l’organisation, directement à partir d’Office 365. Les utilisateurs auxquels des numéros de téléphone sont attribués peuvent effectuer des appels vocaux sur tous les appareils Skype Entreprise, y compris les téléphones VoIP, les PC et les appareils mobiles. Ils peuvent aussi contrôler leurs appels en désactivant le son ou à l'aide des fonctionnalités de mise en attente, de renvoi d'appel et de transfert d'appel, ainsi que passer des appels d'urgence. 
+Skype Entreprise inclut des fonctionnalités d'appel trouvées sur le réseau téléphonique commuté (PSTN). Les forfaits d’appels [](#phone-system-in-office-365) sont un module ajoute au système téléphonique qui vous permet de rechercher, d’acquérir et d’attribuer des numéros de téléphone aux utilisateurs de votre organisation afin qu’ils peuvent appeler et recevoir des appels de personnes à l’intérieur et à l’extérieur de l’organisation, directement à partir d’Office 365. Les utilisateurs auxquels des numéros de téléphone sont attribués peuvent effectuer des appels vocaux sur tous les appareils Skype Entreprise, y compris les téléphones VoIP, les PC et les appareils mobiles. Ils peuvent aussi contrôler leurs appels en désactivant le son ou à l'aide des fonctionnalités de mise en attente, de renvoi d'appel et de transfert d'appel, ainsi que passer des appels d'urgence. 
   
 Pour obtenir plus d'informations sur les plans d'appel disponibles, accédez à la rubrique [Plans d'appel pour Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Pour plus d’informations et pour configurer un forfait d’appels, consultez le [plan d’appel qui vous est le mieux ?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

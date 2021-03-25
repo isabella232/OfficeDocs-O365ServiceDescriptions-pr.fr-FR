@@ -11,42 +11,42 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: Les fonctionnalités d’administration et de sécurité suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: c4f7bc321de1abff3a260cd30922d305548cfc97
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 8043e18bcacb8056c4a109a1d909ddf190908e9c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132098"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173869"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Fonctionnalités d’administration et de sécurité dans Yammer
 
 Les fonctionnalités d’administration et de sécurité suivantes sont disponibles dans Yammer.
   
-Pour obtenir des explications et des procédures détaillées, reportez-vous à [Yammer admin Help](https://go.microsoft.com/fwlink/?LinkId=869688).
+Pour obtenir des explications détaillées et des procédures, voir [Yammer’aide de l’administrateur.](/yammer/)
 
-## <a name="admin-private-content-mode"></a>Mode de contenu privé d’administrateur
+## <a name="admin-private-content-mode"></a>Mode de contenu privé administrateur
 
-Un administrateur vérifié d'un réseau Yammer peut afficher les messages privés et les groupes dans le réseau. Les administrateurs vérifiés peuvent consulter uniquement le contenu privé en s'accordant temporairement à eux-mêmes l'accès à ce contenu pour examiner les problèmes. Pour plus d'informations, consultez la rubrique [Contrôler le contenu privé dans Yammer (administrateurs vérifiés)](https://go.microsoft.com/fwlink/?LinkId=627479).
+Un administrateur vérifié d'un réseau Yammer peut afficher les messages privés et les groupes dans le réseau. Les administrateurs vérifiés peuvent consulter uniquement le contenu privé en s'accordant temporairement à eux-mêmes l'accès à ce contenu pour examiner les problèmes. Pour plus d'informations, consultez la rubrique [Contrôler le contenu privé dans Yammer (administrateurs vérifiés)](/yammer/manage-security-and-compliance/monitor-private-content).
 
 ## <a name="analytics"></a>Analyse
 
 Tirez parti des analyses réseau pour savoir comment vos employés utilisent Yammer. Identifiez les moyens de stimuler la croissance et d’augmenter la valeur de votre réseau grâce à des métriques d’utilisation et à des statistiques relatives aux membres.
 
-## <a name="custom-network-branding"></a>Personnalisation du réseau personnalisé
+## <a name="custom-network-branding"></a>Personnalisation du réseau
 
-Apportez l’apparence de votre organisation à votre réseau Yammer. Les administrateurs réseau peuvent charger le logo et l’image d’une organisation pour créer une conception de titre personnalisée.
+Apportez l’apparence de votre organisation à votre Yammer réseau. Les administrateurs réseau peuvent télécharger le logo et l’image d’une organisation pour créer une conception de tête de page personnalisée.
 
 ## <a name="data-export"></a>Exportation de données
 
-Gérez et exportez facilement les données réseau en fonction des stratégies de votre organisation. Vous pouvez également programmer des exportations de données quotidiennes ou hebdomadaires afin de répondre aux exigences de conformité légale et réglementaire.
+Gérez et exportez facilement les données réseau conformément aux stratégies de votre organisation. Vous pouvez également programmer des exportations de données quotidiennes ou hebdomadaires afin de répondre aux exigences de conformité légale et réglementaire.
   
 ## <a name="directory-synchronization"></a>Synchronisation d’annuaires
 
-Normalisez les données de profil utilisateur sur plusieurs systèmes. Les ajouts, suppressions et informations de profils utilisateur peuvent être automatiquement synchronisés à partir d’un annuaire d’organisation existant.
+Normalisez les données de profil utilisateur sur plusieurs systèmes. Les ajouts, suppressions et informations de profil utilisateur peuvent être synchronisés automatiquement à partir d’un annuaire d’organisation existant.
 
 ## <a name="keyword-monitoring"></a>Surveillance des mots clés
 
-Surveillez les mots-clés afin de suivre le contenu sensible. Lorsqu’un utilisateur publie un message incluant un mot clé ou une expression surveillé, tous les administrateurs vérifiés sont avertis.
+Surveillez les mots-clés afin de suivre le contenu sensible. Lorsqu’un utilisateur publie un message qui inclut un mot clé ou une expression surveillé, tous les administrateurs vérifiés sont avertis.
 
 ## <a name="logical-firewall"></a>Pare-feu logique
 
@@ -54,14 +54,14 @@ Limitez l'accès à votre réseau Yammer à l'aide d'une plage d'adresses IP sp�
 
 ## <a name="network-migration"></a>Migration de réseau
 
-Consolidez plusieurs réseaux Yammer en un réseau unique. Pour plus d'informations, consultez l'article [Migration de réseau : consolider plusieurs réseaux Yammer](https://go.microsoft.com/fwlink/?LinkID=617488)
+Consolidez plusieurs réseaux Yammer en un réseau unique. Pour plus d'informations, consultez l'article [Migration de réseau : consolider plusieurs réseaux Yammer](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
   
 > [!NOTE]
-> La migration de réseaux Yammer sur plusieurs plans n’est pas prise en charge. 
+> La migration de Yammer réseaux entre différents plans n’est pas prise en charge. 
 
-## <a name="organization-resources"></a>Ressources de l’Organisation
+## <a name="organization-resources"></a>Ressources de l’organisation
 
-Ajoutez des fichiers importants et des liens pour donner aux employés un accès rapide aux ressources de l’organisation, telles que les stratégies RH, les informations sur les avantages ou les calendriers de congés.
+Ajoutez des fichiers et des liens importants pour donner aux employés un accès rapide aux ressources de l’organisation, telles que les stratégies RH, les informations sur les avantages ou les calendriers de congés.
   
 ## <a name="password-policies"></a>Stratégies de mot de passe
 
@@ -73,18 +73,16 @@ Obtenez une vision globale des périphériques auxquels sont connectés les util
 
 ## <a name="single-identity"></a>Identité unique
 
-Lorsque vous choisissez Yammer comme expérience sociale par défaut pour votre organisation, les employés sont mappés à leurs comptes Yammer existants. Autrement dit, ils n'auront pas besoin de se connecter de nouveau lors de l'accès à Yammer dans Office 365. Lorsque les employés accèdent à Yammer &mdash; à partir d’Office 365, via une application mobile Yammer, ou en accédant à Yammer.com, &mdash; ils sont automatiquement connectés en fonction des informations d’identification de l’Organisation existantes.
+Lorsque vous choisissez Yammer comme expérience sociale par défaut pour votre organisation, les employés sont mappés à leurs comptes Yammer existants. Autrement dit, ils n'auront pas besoin de se connecter de nouveau lors de l'accès à Yammer dans Office 365. Lorsque les employés accèdent à Yammer à partir d’Office 365, via une application mobile Yammer ou en accédant à Yammer.com ils sont automatiquement connectés en fonction des informations &mdash; &mdash; d’identification de l’organisation existantes.
 
 ## <a name="usage-policy"></a>Stratégie d’utilisation
 
-Définir une stratégie d’utilisation personnalisée pour le réseau de votre organisation et obliger les utilisateurs à l’accepter.
+Définissez une stratégie d’utilisation personnalisée pour le réseau de votre organisation et exigez que les utilisateurs l’acceptent.
 
 ## <a name="user-management"></a>Gestion des utilisateurs
 
-Gérer facilement l’accès au réseau de votre organisation. Yammer vous permet de synchroniser avec des répertoires que vous utilisez déjà, d’ajouter ou de supprimer des utilisateurs, individuellement ou en bloc, d’inviter des invités à votre réseau et de nommer d’autres administrateurs.
+Gérez facilement l’accès au réseau de votre organisation. Yammer vous permet de synchroniser avec les répertoires que vous utilisez déjà, d’ajouter ou de supprimer des utilisateurs , individuellement ou en bloc, d’inviter des invités sur votre réseau et de nommer d’autres administrateurs.
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
-  
-
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Yammer description du service.](yammer-service-description.md)

@@ -10,19 +10,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
-description: Les fonctionnalités de base suivantes sont disponibles dans Project online.
-ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+description: Les fonctionnalités principales suivantes sont disponibles dans Project Online.
+ms.openlocfilehash: cdcb5354790f228e0f1601aab0f7d476c761442c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411583"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172709"
 ---
 # <a name="core-functionality"></a>Fonctionnalités principales
 
-Les fonctionnalités de base suivantes sont disponibles dans Project online.
+Les fonctionnalités principales suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la rubrique [Description du service Project Online](project-online-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
   
 ## <a name="add-columns"></a>Ajouter des colonnes
 
@@ -30,11 +30,11 @@ Ajoutez une colonne à votre vue. Pour en savoir plus, consultez la rubrique [Ma
   
 ## <a name="backstage"></a>Arrière-plan
 
-Sélectionnez **fichier** pour utiliser les fonctionnalités en mode Backstage, où vous pouvez gérer vos fichiers de projet et les données les concernant. Utilisez l'arrière-plan pour tout ce que vous faites sur un fichier de projet que vous ne faites pas dans le fichier : création, enregistrement, recherche de métadonnées masquées ou d'informations personnelles, et définition d'options. 
+Sélectionnez **Fichier** pour utiliser les fonctionnalités de Backstage, où vous pouvez gérer vos fichiers de projet et les données les concernant. Utilisez l'arrière-plan pour tout ce que vous faites sur un fichier de projet que vous ne faites pas dans le fichier : création, enregistrement, recherche de métadonnées masquées ou d'informations personnelles, et définition d'options. 
   
 ## <a name="click-to-run"></a>Démarrer en un clic
 
-Installez rapidement Project Online sur Internet, les réseaux internes, les systèmes de fichiers locaux ou à partir de médias hors ligne pour vous assurer que vous êtes à jour avec la version la plus récente de l’application de bureau Project. Pour en savoir plus, consultez la rubrique [Démarrer en un clic](https://go.microsoft.com/fwlink/p/?LinkId=271596).
+Installez rapidement Project Online sur Internet, les réseaux internes, les systèmes de fichiers locaux ou à partir d’un support hors connexion pour vous assurer que vous êtes à jour avec la version la plus récente de l’application de bureau Project. Pour en savoir plus, consultez la rubrique [Démarrer en un clic](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Menus contextuels par clic droit
 
@@ -50,15 +50,15 @@ Collaborez sur le développement d'un planning en copiant et collant des détail
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Diagramme de Gantt, calendrier et vues de feuille de travail
 
-Présenter graphiquement les informations sur le projet à l’aide des affichages Diagramme de Gantt, réseau de tâches, graphique, feuille, utilisation et formulaire. Consultez la rubrique [Choisir le bon affichage de votre planning de projet](https://go.microsoft.com/fwlink/?LinkId=402905).
+Présentez graphiquement les informations de projet à l’aide d’un diagramme de Gantt, d’un diagramme de réseau, d’un graphique, d’une feuille, d’une utilisation et d’affichages de formulaires. Consultez la rubrique [Choisir le bon affichage de votre planning de projet](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="user-interface-the-ribbon"></a>Interface utilisateur, le ruban
+## <a name="user-interface-the-ribbon"></a>Interface utilisateur, ruban
 
 Augmentez votre productivité avec le ruban, une interface avec onglets qui permet de rechercher et d'utiliser rapidement des fonctionnalités et des commandes Project.
 
 ## <a name="multiple-level-undo"></a>Multiple-level undo
 
-Vous pouvez annuler plusieurs modifications en même temps à l’aide du menu annuler.
+Vous pouvez annuler plusieurs modifications en même temps à l’aide du menu Annuler.
   
 ## <a name="network-diagram-view"></a>Affichage de diagrammes de réseau
 
@@ -70,11 +70,11 @@ Vous avez besoin d'une application qui vous aidera dans Project ? Recherchez de 
   
 ## <a name="online-help"></a>Aide en ligne
 
-L’aide sur Project est disponible dans Office.com ou dans les guides de mise en route directement dans Project (sélectionnez **fichier** \> **nouveau**). [Visionnez ces vidéos pour passer à Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+L’aide de Project est disponible Office.com ou dans les guides de mise en ligne directement dans Project **(sélectionnez Fichier** \> **nouveau).** [Visionnez ces vidéos pour passer à Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>Sortie PDF et XPS
 
-Enregistrez un fichier de projet au format PDF ou XPS. Consultez la rubrique [Enregistrer un fichier de projet au format PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Enregistrez un fichier Project au format PDF ou XPS. Consultez la rubrique [Enregistrer un fichier de projet au format PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -102,4 +102,4 @@ Utilisez les commandes de zoom de la barre d’état pour modifier rapidement la
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [la description du service Project Online.](project-online-service-description.md)

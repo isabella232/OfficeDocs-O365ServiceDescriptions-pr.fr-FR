@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium est une solution intégrée qui réunit la productivité de pointe avec des fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: b1bdac2026d7a32aaef4af4c88a8ec75467f3074
-ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
+ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "50145991"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173539"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Description du service Microsoft 365 Business Premium
 
@@ -41,7 +41,7 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |Microsoft PowerApps  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft StaffHub  <br/> |Oui  <br/> |Oui  <br/> |
 |Microsoft Stream  <br/> |Oui<sup>6</sup>  <br/> |Oui<sup>6</sup>  <br/> |
-|[Administration de Microsoft 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
+|[Administration de Microsoft 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Outil de synchronisation Azure AD Connect<br/> |Oui  <br/> |Oui  <br/> |
 |Shared computer activation <br/> |Non <br/> |Oui  <br/> |
 |[Stratégie et conformité de message](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
@@ -72,7 +72,7 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |Licence d'accès client utilisation Microsoft Identity Manager (MIM)  <br/> |Non  <br/> |Oui<sup>9</sup>  <br/> |Oui  <br/> |
 |Connect Health  <br/> |Non  <br/> |Oui<sup>9</sup>  <br/> |Oui  <br/> |
 |SLA 99,9 %  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[Gestion des appareils et des applications](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium inclut des fonctionnalités Intune complètes pour iOS, Android, Mac OS et d’autres fonctionnalités de gestion des appareils sur plusieurs plateformes. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
+|[Gestion des appareils et des applications](/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business Premium inclut des fonctionnalités Intune complètes pour iOS, Android, Mac OS et d’autres fonctionnalités de gestion des appareils sur plusieurs plateformes. <sup>8</sup> <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Intune Mobile Device Management (MDM) for PC, Macs, and mobile devices<sup>5</sup> <br/> |Non  <br/> |Oui  <br/> |
 |Inscription automatique de la gestion des appareils mobiles  <br/> |Non  <br/> |Oui  <br/> |
 |Intune Mobile Application Management (MAM) pour les applications Office et les applications LOB<br/> |Non  <br/> |Oui  <br/> |
@@ -100,13 +100,13 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |Protéger les dossiers contre des menaces telles que des rançongiciels <br/> |Oui  <br/> |
 |Protéger les fichiers et dossiers sur les PC contre tout accès non autorisé avec Bitlocker <br/> |Oui  <br/> |
 
-### <a name="notes"></a>Notes
+### <a name="notes"></a>Remarques
 <sup>1 inclut</sup> Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) active les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. AIP Plan 1 est inclus dans Microsoft 365 Business Premium. <br/>
-<sup>3</sup> Microsoft 365 Business Premium inclut Archivage Exchange Online abonnement. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d’informations, voir [Vue d’ensemble de l’archivage illimité.](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) <br/>
-<sup>4 Disponible</sup> sur [https://securescore.office.com](https://securescore.office.com) . Nécessite des autorisations d'administration. Pour plus d’informations, voir [Le Score de sécurité Microsoft.](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score)<br/>
+<sup>3</sup> Microsoft 365 Business Premium inclut Archivage Exchange Online abonnement. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d’informations, voir [Vue d’ensemble d’un archivage illimité](/office365/securitycompliance/unlimited-archiving). <br/>
+<sup>4 Disponible</sup> sur [https://securescore.office.com](https://securescore.office.com) . Nécessite des autorisations d'administration. Pour plus d’informations, voir [Le Score de sécurité Microsoft.](/office365/securitycompliance/microsoft-secure-score)<br/>
 <sup>5</sup> Gestion simplifiée des appareils Windows 10 intégrée au Centre d’administration Microsoft 365. Fonctionnalités de gestion Intune d’iOS, Android, macOS et autres fonctionnalités de gestion des appareils sur plusieurs plateformes intégrées au Centre d’administration de gestion des appareils, également sous licence pour une utilisation avec Microsoft 365 Business Premium. Les applications tierces et la configuration d’éléments tels que les profils WiFi et les certificats VPN peuvent également être gérées dans le Centre d’administration de gestion des appareils. <br/>
 <sup>6 Ce</sup> plan est inclus avec Microsoft Stream Plan 2, qui inclut le portail vidéo, la transcription de texte par reconnaissance vocale, la recherche approfondie et la détection des visages.<br/>
-<sup>7</sup> Microsoft 365 est livré avec Microsoft Defender pour Office 365 Plan 1. Pour plus d’informations, voir les fonctionnalités de sécurité et de conformité de [Microsoft 365 Business Premium.](https://docs.microsoft.com/microsoft-365/business/security-features)<br/>
+<sup>7</sup> Microsoft 365 est livré avec Microsoft Defender pour Office 365 Plan 1. Pour plus d’informations, voir les fonctionnalités de sécurité et de conformité de [Microsoft 365 Business Premium.](/microsoft-365/business/security-features)<br/>
 <sup>8</sup> abonnés Microsoft 365 Business Premium sont titulaires d’une licence pour utiliser les fonctionnalités Intune complètes pour iOS, Android, MacOS et d’autres fonctionnalités de gestion des appareils sur plusieurs plateformes. Les fonctionnalités non disponibles dans le Centre d’administration dans Microsoft 365 Business Premium, telles que la gestion des applications tierces et la configuration des profils WiFi, les certificats VPN, etc., peuvent être gérées dans la console Intune complète.</br>
 <sup>9</sup> Si vous avez des appareils sous licence pour Windows 7 et 8.1 Professionnel, Microsoft 365 Business Premium fournit une mise à niveau vers Windows 10 Professionnel. Toutefois, cette licence ne couvre pas Windows 7.1 ou 8 Édition Familiale avec Windows 10 Professionnel. Avec Microsoft 365 Business Premium, vous obtenez non seulement des fonctionnalités de sécurité Microsoft Defender activées dans [Windows Pro,](https://wfbdevicemanagementprod.blob.core.windows.net/windowsforbusiness/Windows10_CommercialEdition_Comparison.pdf)mais vous avez également accès à des fonctionnalités premium telles que la protection réseau pour les menaces basées sur le web et les règles de prévention des intrusions hôtes pour atténuer les ransomware. Lorsque vous définissez votre compte Microsoft 365 Business Premium, vous sélectionnez la protection des applications et les paramètres de configuration des appareils. Ces paramètres déterminent les stratégies appliquées automatiquement aux appareils lorsqu'ils connectent à Azure Active Directory.</br>

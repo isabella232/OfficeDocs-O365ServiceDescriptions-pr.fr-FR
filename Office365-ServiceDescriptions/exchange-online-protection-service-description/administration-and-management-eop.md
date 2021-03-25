@@ -10,33 +10,32 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: Cet article décrit les interfaces de gestion disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 6889998aaf71243a743e1ec0cf1787a9a2fdb624
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+description: Cet article décrit les interfaces de gestion disponibles pour les administrateurs Microsoft Exchange Online Protection des données (EOP).
+ms.openlocfilehash: 997a3446a2420815b860a1ed58c4d9c5be9c04d1
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293610"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173349"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Administration et gestion dans Exchange Online Protection
 
-Cet article décrit les interfaces de gestion disponibles pour les administrateurs de Microsoft Exchange Online Protection (EOP).
+Cet article décrit les interfaces de gestion disponibles pour les administrateurs Microsoft Exchange Online Protection des données (EOP).
   
-Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la rubrique [Description du service Exchange Online Protection](exchange-online-protection-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la [description du service Exchange Online Protection.](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Accès au centre d’administration Microsoft 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Accès au Centre d’administration Microsoft 365
 
-Le centre d’administration Microsoft 365 est le portail Web à partir duquel les administrateurs de services de chaque entreprise peuvent gérer les comptes d’utilisateur et les paramètres de chacun des services Microsoft auxquels ils s’abonnent. À partir du centre d’administration 365 de Microsoft, les administrateurs peuvent suivre des liens vers le centre d’administration Exchange, où ils peuvent gérer des paramètres spécifiques d’EOP.
+Le Centre d’administration Microsoft 365 est le portail web à partir duquel l’administrateur de services de chaque entreprise peut gérer les comptes d’utilisateur et les paramètres pour chacun des services Microsoft auquel il s’abonne. À partir du Centre d’administration Microsoft 365, les administrateurs peuvent suivre des liens vers le CAE, où ils peuvent gérer les paramètres spécifiques d’EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Accès au Centre d’administration Exchange
 
-Le Centre d’administration Exchange (CAE) est une console de gestion unifiée facilitant l’utilisation et optimisée pour tous les types de déploiements. Le nouveau CAE amélioré remplace le Centre d'administration Forefront Online Protection for Exchange (FOPE). Le centre d’administration Exchange offre une intégration plus étroite avec Microsoft 365 et une expérience utilisateur cohérente et transparente entre les produits Exchange (Microsoft Exchange Online et Microsoft Exchange Server 2013). Pour plus d'informations sur le CAE, consultez la rubrique [Centre d'administration Exchange dans Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=282381).
+Le Centre d’administration Exchange (CAE) est une console de gestion unifiée facilitant l’utilisation et optimisée pour tous les types de déploiements. Le nouveau CAE amélioré remplace le Centre d'administration Forefront Online Protection for Exchange (FOPE). Le EAC offre une intégration plus étroite avec Microsoft 365 et une expérience d’interface utilisateur cohérente et transparente entre les produits Exchange (Microsoft Exchange Online et Microsoft Exchange Server 2013). Pour plus d'informations sur le CAE, consultez la rubrique [Centre d'administration Exchange dans Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
   
 ## <a name="remote-windows-powershell-access"></a>Accès à Windows PowerShell à distance
 
- Les administrateurs peuvent utiliser Windows PowerShell à distance pour effectuer des tâches de gestion à partir de la ligne de commande. Pour obtenir plus d'informations sur l'utilisation de Windows PowerShell, y compris sur la création d'une session Windows PowerShell à distance et de la documentation sur chaque cmdlet, voir [Exchange Online PowerShell ](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ Les administrateurs peuvent utiliser Windows PowerShell à distance pour effectuer des tâches de gestion à partir de la ligne de commande. Pour obtenir plus d'informations sur l'utilisation de Windows PowerShell, y compris sur la création d'une session Windows PowerShell à distance et de la documentation sur chaque cmdlet, voir [Exchange Online PowerShell ](/powershell/exchange/exchange-online-powershell).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Description du service de protection Exchange Online](exchange-online-protection-service-description.md).
-  
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la description du [service Exchange Online Protection.](exchange-online-protection-service-description.md)

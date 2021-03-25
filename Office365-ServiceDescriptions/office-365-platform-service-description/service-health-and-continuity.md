@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs Microsoft peuvent afficher l’état des services et savoir quand la maintenance est programmée. Les informations d’état du service sont disponibles à tout moment en se signant.
-ms.openlocfilehash: bb9e789cd8f72a792ce43f952d35c3f47323b2f8
-ms.sourcegitcommit: 4cb96a615ca98bee0b0657bef77b03357e118c52
+ms.openlocfilehash: ea9beb020d2f868eb51638c4729924a7ac873b7b
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50031258"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51174139"
 ---
 # <a name="service-health-and-continuity"></a>État des services et continuité
 
@@ -27,7 +27,7 @@ Les administrateurs Microsoft peuvent afficher l’état des services et savoir 
   
 ## <a name="view-status-of-services"></a>Afficher l’état des services
 
-La section État du service indique l’état actuel du service et des détails sur les interruptions et les pannes de service. Les informations de maintenance planifiée sont disponibles dans le centre de messages. Pour plus d'informations, consultez la rubrique [Vérifier l'état du service Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+La section État du service indique l’état actuel du service et des détails sur les interruptions et les pannes de service. Les informations de maintenance planifiée sont disponibles dans le centre de messages. Pour plus d'informations, consultez la rubrique [Vérifier l'état du service Office 365](/office365/enterprise/view-service-health). 
   
 ## <a name="service-incidents"></a>Incidents de service
 
@@ -35,13 +35,13 @@ Un incident de service est un événement qui a une incidence sur la prestation 
   
 Il existe deux types de notifications concernant les moments où les services peuvent ne pas être disponibles :
   
-- **Événements de maintenance planifiée :** La maintenance planifiée est une mise à jour régulière du service initié par Microsoft pour l’infrastructure et les applications logicielles. Les notifications de maintenance planifiée informent les clients du travail de service qui peut affecter les fonctionnalités d’un service Microsoft. Les clients sont avertis au plus tard cinq jours avant toute maintenance planifiée via le Centre de messages sur le Centre d’administration Microsoft 365. Microsoft prévoit généralement la maintenance pour les périodes où l’utilisation du service est historiquement au plus bas en fonction des fuseaux horaires régionaux. 
+- **Événements de maintenance planifiée :** La maintenance planifiée est une mise à jour régulière du service initié par Microsoft pour l’infrastructure et les applications logicielles. Les notifications de maintenance planifiée informent les clients du travail de service qui peut affecter les fonctionnalités d’un service Microsoft. Les clients sont avertis au plus tard cinq jours avant toute maintenance planifiée via le Centre de messages sur le Centre d’administration Microsoft 365. Microsoft prévoit généralement une maintenance pour les périodes où l’utilisation du service est historiquement à son plus bas en fonction des fuseaux horaires régionaux. 
     
 - **Temps d’arrêt non planifié :** Des incidents de service non planifiés se produisent lorsqu’un des services n’est pas disponible ou ne répond pas. 
 
 ### <a name="recent-worldwide-uptimes"></a>Temps de travail récents dans le monde
 
-Le passage à un service cloud ne doit pas signifier perdre la possibilité de savoir ce qui se passe. Avec Office 365, ce n’est pas le cas. Notre objectif est d’être transparent dans nos opérations afin que vous pouvez surveiller l’état de votre service, suivre les problèmes et avoir une vue historique de la disponibilité. Les tableaux suivants indiquent les données récentes de temps de travail dans le monde entier.
+Le passage à un service cloud ne doit pas signifier perdre la possibilité de savoir ce qui se passe. Avec Office 365, ce n’est pas le cas. Notre objectif est d’être transparent dans nos opérations afin que vous pouvez surveiller l’état de votre service, suivre les problèmes et avoir une vue historique de la disponibilité. Les tableaux suivants indiquent les données récentes sur le temps de travail dans le monde entier.
 
 **2020**
 
@@ -79,9 +79,9 @@ Quand un incident de service se produit, Microsoft reconnaît que les communicat
   
 ## <a name="service-health-communication-channels"></a>Canaux de communication d’état du service
 
-### <a name="admin-app"></a>Application d’administration
+### <a name="admin-app"></a>Application Administrateur
 
-L’application d’administration pour les administrateurs de l’organisation vous permet de vous connecter à l’état du service Microsoft de votre organisation en libre-service. Les administrateurs Microsoft ont la possibilité d’afficher les informations d’état du service et les mises à jour de l’état de maintenance à partir de leurs appareils mobiles. Pour plus d’informations, consultez le [FAQ sur l’application d’administration](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app).
+L’application d’administration pour les administrateurs de l’organisation vous permet de vous connecter à l’état du service Microsoft de votre organisation en libre-service. Les administrateurs Microsoft auront la possibilité d’afficher les informations d’état du service et les mises à jour de l’état de maintenance à partir de leurs appareils mobiles. Pour plus d’informations, consultez le [FAQ sur l’application d’administration](/office365/admin/admin-overview/admin-mobile-app).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d’administration d’Office 365 pour Microsoft System Center 2012 R2
 
@@ -95,7 +95,7 @@ L’API Office 365 Service Communications vous permet d’accéder aux communica
     
 - Communications du centre de messages
     
-Pour plus d’informations, voir la référence de [l’API Office 365 Service Communications.](https://docs.microsoft.com/office/office-365-management-api/office-365-service-communications-api-reference) 
+Pour plus d’informations, voir la référence de [l’API Office 365 Service Communications](/office/office-365-management-api/office-365-service-communications-api-reference). 
   
 ## <a name="post-incident-reviews"></a>Analyses post-incident
 
@@ -141,7 +141,7 @@ Microsoft garantit à tout moment la disponibilité des données du client par l
     
 - **Exécution de la maintenance préventive :** La maintenance préventive inclut les vérifications de la cohérence des bases de données, la compression périodique des données et les analyses des journaux d’erreurs. 
     
-## <a name="support"></a>Support
+## <a name="support"></a>Assistance
 
 Les équipes de développement et d’exploitation Microsoft sont complétées par une organisation de support dédiée, qui joue un rôle important dans la continuité des activités des clients. L'équipe de support détient une connaissance approfondie du service et ses applications associées, et dispose d'un accès direct aux experts Microsoft en architecture, développement et test.
   
@@ -158,4 +158,3 @@ Pour plus d’informations sur le support, consultez [l’article de support.](s
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
 Pour afficher la disponibilité des fonctionnalités dans les différents plans, voir la description du service de plateforme [Microsoft 365 et Office 365.](office-365-platform-service-description.md)
-  

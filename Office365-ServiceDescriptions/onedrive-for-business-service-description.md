@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez les fonctionnalités OneDrive disponibles par offre.
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901949"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172729"
 ---
 # <a name="onedrive-service-description"></a>Description du service OneDrive
 
@@ -85,7 +85,7 @@ Pour connaître la configuration requise pour l'application mobile et l'applicat
 > [!NOTE]
 > Pour pouvoir augmenter l’espace de stockage OneDrive par défaut, vous devez attribuer au moins une licence à un utilisateur. 
   
-En cas de besoin d’une capacité de stockage dans le cloud supérieure à la capacité initiale de 5 To pour certains utilisateurs, les administrateurs peuvent [ouvrir une demande de service auprès du support technique Microsoft](https://go.microsoft.com/fwlink/?linkid=869559). L’espace de stockage dans le cloud supplémentaire est octroyé comme suit : 
+En cas de besoin d’une capacité de stockage dans le cloud supérieure à la capacité initiale de 5 To pour certains utilisateurs, les administrateurs peuvent [ouvrir une demande de service auprès du support technique Microsoft](/microsoft-365/admin/contact-support-for-business-products). L’espace de stockage dans le cloud supplémentaire est octroyé comme suit : 
   
 - Si un utilisateur utilise au moins 90 % de l’espace de stockage OneDrive de 5 To, Microsoft augmente l’espace de stockage par défaut dans OneDrive jusqu’à 25 To par utilisateur (les administrateurs peuvent définir une limite par utilisateur inférieure s’ils le souhaitent). 
     
@@ -101,7 +101,7 @@ Le stockage de données autres que des fichiers de travail (ceux-ci incluant les
   
 ## <a name="onedrive-limits"></a>Limites de OneDrive
 
-Pour en savoir plus sur les limites de fichier et de synchronisation, consultez les [Limites de SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) et les [Noms et types de fichiers non valides](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+Pour en savoir plus sur les limites de fichier et de synchronisation, consultez les [Limites de SharePoint](./sharepoint-online-service-description/sharepoint-online-limits.md) et les [Noms et types de fichiers non valides](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
   
 Pour les offres qui incluent un espace de stockage personnel illimité dans le cloud, veuillez noter que des limites peuvent s’appliquer à des fonctionnalités autres que celles de stockage. 
 
@@ -185,5 +185,4 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 
 ## <a name="it-admin-security-and-compliance-features"></a>Fonctionnalités de conformité et de sécurité avancées, et administrateurs informatiques
 
-Pour plus d’informations sur ces fonctionnalités, voir la [description du service SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
-
+Pour plus d’informations sur ces fonctionnalités, voir la [description du service SharePoint](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features).

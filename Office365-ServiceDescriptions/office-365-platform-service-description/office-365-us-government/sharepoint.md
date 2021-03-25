@@ -1,5 +1,5 @@
 ---
-title: Environnements SharePoint pour le gouvernement américain
+title: Environnements SharePoint pour le gouvernement des États-Unis
 ms.author: office365servicedesc
 author: pamelaar
 ms.reviewer: mkashman
@@ -8,23 +8,23 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients cloud du gouvernement des États-Unis.
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients cloud du gouvernement américain.
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902019"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172929"
 ---
-# <a name="sharepoint-for-us-government-environments"></a>Environnements SharePoint pour le gouvernement américain
+# <a name="sharepoint-for-us-government-environments"></a>Environnements SharePoint pour le gouvernement des États-Unis
 
-Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la description du [service SharePoint.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description) SharePoint est disponible pour les environnements GCC (Government Community Cloud), GCC High et DoD. 
+Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la description du [service SharePoint.](../../sharepoint-online-service-description/sharepoint-online-service-description.md) SharePoint est disponible pour les environnements GCC (Government Community Cloud), GCC High et DoD. 
 
-Pour plus d’informations sur le cloud du gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Secteurs](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy)Publics - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 Pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Pour plus d’informations sur le cloud pour le gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Pour le](./microsoft-365-government-how-to-buy.md)gouvernement - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
-Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir les points de terminaison [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou Office [365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir les points de terminaison [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou Office [365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)points de terminaison .
 
-En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement américain :
+En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement des États-Unis :
 
 -   Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Commerciaux Office 365 de Microsoft.
 -   Le contenu client de votre organisation est stocké aux États-Unis.
@@ -40,7 +40,7 @@ Il n’existe aucune différence connue entre les fonctionnalités de développe
 - Les connexions à des applications externes telles que des sources de données pour les applications sont limitées aux sources situées dans les limites de sécurité système pris en charge par votre environnement public.
 - Services Business Connectivity (BCS) est prise en charge pour les scénarios de connectivité dans lesquels les sources de données restent accessibles à l’intérieur des limites de sécurité de votre service cloud.
 
-Si vous utilisez des applications tierces sur des sites, examinez les déclarations de confidentialité et de conformité fournies par les tiers lors de l’évaluation de l’utilisation appropriée de ces services pour votre organisation. Les applications et services tiers peuvent impliquer le stockage, la transmission et le traitement des données client de votre organisation sur des systèmes tiers qui sont en dehors du cloud du gouvernement et, par conséquent, ne sont pas couverts par ses engagements en matière de conformité et de protection des données. 
+Si vous utilisez des applications tierces sur des sites, examinez les déclarations de confidentialité et de conformité fournies par les tiers lors de l’évaluation de l’utilisation appropriée de ces services pour votre organisation. Les applications et services tiers peuvent impliquer le stockage, la transmission et le traitement des données client de votre organisation sur des systèmes tiers qui sont en dehors du cloud du gouvernement et qui, par conséquent, ne sont pas couverts par ses engagements en matière de conformité et de protection des données. 
 
 ## <a name="it-admin-features"></a>Fonctionnalités d’administration informatique
 
@@ -52,13 +52,13 @@ Voici les différences entre les fonctionnalités d’administration informatiqu
 - Mover.io n’est pas encore pris en charge
 - Multi-géo n’est pas disponible pour tous les clients cloud du gouvernement
 
-Pour plus d’informations sur la migration FastTrack, voir la description du [service Office 365 pour le gouvernement américain.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack)
+Pour plus d’informations sur la migration FastTrack, voir la description du [service Office 365 pour le gouvernement américain.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>Fonctionnalités de sécurité et de conformité
 
 Il n’existe aucune différence connue entre les fonctionnalités de sécurité et de conformité pour les clients commerciaux et celles des clients cloud du secteur privé.
 
-Pour plus d’informations sur les fonctionnalités de sécurité et de conformité, voir [le Centre de sécurité & conformité.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)
+Pour plus d’informations sur les fonctionnalités de sécurité et de conformité, voir [le Centre de sécurité & conformité.](../office-365-securitycompliance-center.md)
 
 Pour plus d’informations sur les fonctionnalités Azure Active Directory pour le gouvernement, voir la documentation relative à [Azure Government Security + Identity.](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory) 
 
@@ -83,7 +83,7 @@ Voici les différences entre les fonctionnalités de recherche pour les clients 
 
 ## <a name="sharing-and-sync"></a>Partage et synchronisation
 
-Pour plus d’informations sur les différences de fonctionnalités entre le cloud commercial et les environnements cloud du secteur privé, voir [Partage de fichiers.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)
+Pour plus d’informations sur les différences de fonctionnalités entre le cloud commercial et les environnements cloud du secteur privé, voir [Partage de fichiers.](./gcc-high-and-dod.md#file-sharing)
 
 ## <a name="plan-for-governance"></a>Planifier la gouvernance
 
@@ -93,4 +93,4 @@ Votre passage au cloud offre des expériences transformatives avec des contrôle
 
 Après avoir installé votre organisation dans le cloud microsoft pour le gouvernement des États-Unis, suivez le chemin d’accès de déploiement recommandé décrit dans le centre de ressources sur [l’adoption de SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) N’oubliez pas de vous engager avec vos champions de l’adoption et de la gestion des changements.
 Vous pouvez également travailler avec [FastTrack](https://www.microsoft.com/fasttrack) ou votre partenaire choisi pour déployer le service auprès de vos utilisateurs.
-Visitez le [Centre de](https://www.microsoft.com/trust-center) confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, principes fondamentaux pour la façon dont nous donnent aux organisations la possibilité de servir leurs clients.
+Visitez le [Centre de](https://www.microsoft.com/trust-center) confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, principes fondamentaux pour permettre aux organisations de servir leurs clients.

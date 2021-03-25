@@ -1,5 +1,5 @@
 ---
-title: Fonctionnalités syntex SharePoint
+title: Fonctions de SharePoint Syntex
 ms.author: office365servicedesc
 author: pamelaar
 ms.audience: ITPro
@@ -7,20 +7,20 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Découvrez les principales fonctionnalités de SharePoint Syntex disponibles dans les plans Microsoft 365, Office 365 et SharePoint Online éligibles.
-ms.openlocfilehash: 998443a635b7816705553374d8a029f37a669fe0
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 2f3d30a1d2eddaa3cdfe420eb10840b10da4da6d
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072433"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172629"
 ---
-# <a name="sharepoint-syntex-features"></a>Fonctionnalités syntex SharePoint 
+# <a name="sharepoint-syntex-features"></a>Fonctions de SharePoint Syntex 
 
 Les sections suivantes décrivent les principales fonctionnalités [de SharePoint Syntex](sharepoint-syntex-service-description.md) disponibles dans les plans Microsoft 365, Office 365 et SharePoint Online éligibles. Les fonctionnalités disponibles peuvent changer sans préavis. Pour obtenir la liste complète des fonctionnalités les plus à jour, consultez la page des [plans syntex](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)et des tarifs SharePoint.
 
 ## <a name="syntex-content-center"></a>Centre de contenu Syntex
 
-Syntex fournit un modèle de site appelé centre de contenu pour la gestion du contenu à grande échelle, l’intégration de métadonnées et de flux de travail et la livraison de &mdash;  &mdash; l’automatisation de la conformité. Les centres de contenu fournissent des fonctionnalités pour apprendre au cloud à lire et traiter des documents de la même manière que vous le feriez manuellement. Syntex utilise ces informations pour reconnaître automatiquement le contenu, extraire des informations importantes et appliquer des balises de métadonnées. En outre, vous pouvez suivre l’efficacité de vos modèles avec l’analyse visuelle intégrée.
+Syntex fournit un modèle de site appelé centre de contenu pour la gestion du contenu à grande échelle, l’intégration de métadonnées et de flux de travail et la livraison de &mdash;  &mdash; l’automatisation de la conformité. Les centres de contenu fournissent des fonctionnalités pour apprendre au cloud à lire et traiter des documents de la même manière que vous le feriez manuellement. Syntex utilise ces informations pour reconnaître automatiquement le contenu, extraire des informations importantes et appliquer des balises de métadonnées. En outre, vous pouvez suivre l’efficacité de vos modèles à l’aide de l’analyse visuelle intégrée.
 
 Pour en savoir plus sur les centres de contenu et comment les créer, voir Créer un centre de contenu [dans SharePoint Syntex](/microsoft-365/contentunderstanding/create-a-content-center).
 
@@ -30,9 +30,9 @@ Syntex peut baliser automatiquement des images à l’aide d’un nouveau dictio
 
 Pour en savoir plus sur la reconnaissance d’objet dans Syntex et comment configurer le marquage d’image, voir marquage d’image dans [SharePoint Syntex](/microsoft-365/contentunderstanding/image-tagging).
 
-## <a name="document-understanding"></a>Compréhension des documents
+## <a name="document-understanding"></a>Compréhension de document
 
-Vous pouvez apprendre à Syntex à lire votre contenu de la façon dont vous utiliseriez l’apprentissage automatique pour créer des modèles d’intelligence artificielle (IA) sans code. Syntex peut automatiquement suggérer ou créer des métadonnées, appeler des flux de travail Power Automate personnalisés et joindre des étiquettes de conformité pour appliquer des stratégies de rétention ou de gestion des enregistrement.
+Vous pouvez apprendre à Syntex à lire votre contenu de la manière dont vous utiliseriez l’apprentissage automatique pour créer des modèles d’intelligence artificielle (IA) sans code. Syntex peut automatiquement suggérer ou créer des métadonnées, appeler des flux de travail Power Automate personnalisés et joindre des étiquettes de conformité pour appliquer des stratégies de rétention ou de gestion des enregistrement.
 
 Les modèles de compréhension des documents sont basés sur les modèles de compréhension des langues dans Azure Cognitive Services. Ces modèles sont créés et gérés dans un centre de contenu Syntex, et vous pouvez publier et mettre à jour vos modèles dans n’importe quelle bibliothèque dans n’importe quel centre de contenu dans Syntex.
 
@@ -48,11 +48,11 @@ Pour en savoir plus sur le traitement des formulaires, voir [Vue d’ensemble du
 
 Syntex utilise des connecteurs Microsoft Graph pour intégrer des sources distantes telles que des partages de fichiers, Azure SQL ou des sources tierces telles que Box et IBM FileNet dans Microsoft Graph, ce qui le rend utilisable et utilisable dans &mdash; &mdash; Microsoft 365.
 
-Avec les connecteurs Microsoft Graph, les clients peuvent indexer des éléments dans des référentiels externes pour les inclure dans les résultats de recherche Microsoft. Microsoft 365 E5 et Office 365 E5 incluent la possibilité d’indexer jusqu’à 500 éléments à l’aide de connecteurs Microsoft Graph pour Microsoft Search (non inclus dans A5). Tout utilisateur titulaire d’une suite ou d’une licence autonome incluant un plan SharePoint ou OneDrive peut voir les résultats de recherche des connecteurs Microsoft Graph pour Microsoft Search (recherche Microsoft).
+Avec les connecteurs Microsoft Graph, les clients peuvent indexer des éléments dans des référentiels externes pour les inclure dans les résultats de recherche Microsoft. Microsoft 365 E5 et Office 365 E5 incluent la possibilité d’indexer jusqu’à 500 éléments à l’aide de connecteurs Microsoft Graph pour Microsoft Search (non inclus dans A5). Tout utilisateur avec une suite ou une licence autonome qui inclut un plan SharePoint ou OneDrive peut voir les résultats de recherche des connecteurs Microsoft Graph pour Microsoft Search (recherche Microsoft).
 
-Aujourd’hui, les connecteurs vers plus de 130 sources sont disponibles auprès de Microsoft ou de l’un de nos partenaires. Pour plus d’informations, voir [Vue d’ensemble des connecteurs Microsoft Graph.](https://aka.ms/iwantconnectors)
+Aujourd’hui, les connecteurs vers plus de 130 sources sont disponibles auprès de Microsoft ou de l’un de nos partenaires. Pour plus d’informations, voir [Vue d’ensemble des connecteurs Microsoft Graph.](/MicrosoftSearch/connectors-overview)
 
-## <a name="advanced-taxonomy-services"></a>Services de taxonomie avancée
+## <a name="advanced-taxonomy-services"></a>Services de taxonomie avancés
 
 Syntex inclut des fonctionnalités qui vous permet d’observer et d’analyser la création et l’utilisation de termes dans Microsoft 365. Ces rapports sont remis dans le Centre d’administration SharePoint.
 
