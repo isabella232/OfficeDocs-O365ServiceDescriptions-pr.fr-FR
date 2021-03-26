@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Une liste des plans qui fournissent Exchange Online Protection est incluse, ainsi qu’une comparaison des fonctionnalités de ces plans.
-ms.openlocfilehash: 03eab6d8d6b0131579b8149fd444d049a90952d7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173809"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215777"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
 
@@ -34,7 +34,7 @@ La liste suivante décrit les principales façons d’utiliser EOP pour la prote
 
 ## <a name="available-plans"></a>Plans disponibles
 
-Pour obtenir des informations détaillées sur les abonnements qui activent les utilisateurs pour Exchange Online Protection, consultez le tableau de comparaison [complet des abonnements.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Pour obtenir des informations détaillées sur les abonnements qui activent les utilisateurs pour Exchange Online Protection, consultez le tableau de comparaison [complet des abonnements.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 Pour acheter Exchange Online Protection, voir [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -63,9 +63,9 @@ Microsoft Exchange Enterprise CAL with Services fournit les fonctionnalités de 
 
 - [Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services)
 
-Pour plus d’informations sur la licence d’accès licence Exchange Enterprise avec Services, voir FAQ sur les [licences Exchange.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
+Pour plus d’informations sur la licence d’accès licence Exchange Enterprise avec services, voir FAQ sur les [licences Exchange.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
 
-Si vous avez une licence d’accès client Exchange Enterprise avec services et que vous souhaitez configurer EOP, suivez les instructions de [l’article Configurer votre service EOP.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Les étapes de configuration sont les mêmes que pour EOP autonome.
+Si vous avez une licence d’accès client Exchange Enterprise avec services et que vous souhaitez configurer EOP, suivez les instructions de l’article [Configurer votre service EOP.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Les étapes de configuration sont les mêmes que pour EOP autonome.
 
 > [!NOTE]
 > De nouvelles fonctionnalités pour la licence d’accès client Exchange Enterprise avec Services sont déployées en même temps qu’Exchange Online, et non EOP autonome. Les calendriers de déploiement pour EOP autonome et Exchange Online/la licence d’accès client Exchange Enterprise avec Services peuvent varier légèrement.

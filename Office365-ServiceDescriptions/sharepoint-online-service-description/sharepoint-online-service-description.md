@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: 0bf7d9ba57c215465af6400067db17621814b190
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174099"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215737"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -30,9 +30,9 @@ SharePoint dans Microsoft 365 permet aux organisations de partager et de gérer 
 
 Pour obtenir une vue d’ensemble rapide, [voir Qu’est-ce que SharePoint ?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Pour obtenir des informations détaillées sur les abonnements qui activent les utilisateurs pour SharePoint, consultez le tableau de comparaison [complet des abonnements.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) Pour la sécurité requise pour Microsoft 365, voir [Microsoft 365 et Ressources Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
+Pour obtenir des informations détaillées sur les abonnements qui activent les utilisateurs pour SharePoint, consultez le tableau de comparaison [complet des abonnements.](https://go.microsoft.com/fwlink/?linkid=2139145) Pour la sécurité requise pour Microsoft 365, voir [Microsoft 365 et Ressources Office.](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/)
 
-Pour en savoir plus sur les différences de fonctionnalités SharePoint pour les clients cloud du gouvernement américain, voir SharePoint pour les [environnements pour le gouvernement des États-Unis.](../office-365-platform-service-description/office-365-us-government/sharepoint.md)
+Pour en savoir plus sur les différences de fonctionnalités De SharePoint pour les clients du cloud pour le gouvernement des États-Unis, voir SharePoint pour les [environnements pour le gouvernement des États-Unis](../office-365-platform-service-description/office-365-us-government/sharepoint.md).
   
 ## <a name="whats-new"></a>Nouveautés
 
@@ -46,7 +46,7 @@ Pour accéder à SharePoint, les utilisateurs de votre organisation doivent se v
   
 ## <a name="rights-of-guests"></a>Droits des invités
 
-Si vous achetez un plan et créez un site qui utilise des fonctionnalités d’entreprise, les invités que vous invitez disposent des droits d’utilisation et/ou d’affichage des fonctionnalités d’entreprise dans le site sur lequel vous les avez invités. Bien que vous pouvez inviter des invités à effectuer une gamme complète d’actions sur un site, ils n’auront pas les mêmes fonctionnalités qu’un utilisateur sous licence au sein de votre organisation. Par exemple, si votre plan inclut des versions de bureau des applications Office, les invités ne peuvent pas les installer sur leurs propres ordinateurs, sauf si vous leur attribuez une licence.
+Si vous achetez un plan et créez un site qui utilise des fonctionnalités d’entreprise, les invités que vous invitez disposent des droits d’utilisation et/ou d’affichage des fonctionnalités d’entreprise dans le site auquel vous les avez invités. Bien que vous pouvez inviter des invités à effectuer une gamme complète d’actions sur un site, ils n’auront pas les mêmes fonctionnalités qu’un utilisateur sous licence au sein de votre organisation. Par exemple, si votre plan inclut des versions de bureau des applications Office, les invités ne peuvent pas les installer sur leurs propres ordinateurs, sauf si vous leur attribuez une licence.
 
 ## <a name="onedrive"></a>OneDrive
 
@@ -81,14 +81,14 @@ Pour une vue d’ensemble des options de personnalisation, voir [Personnalisatio
 
 Pour en savoir plus sur la disponibilité de Microsoft Power Apps et Power Automate, consultez les FAQ sur les licences Power Apps et [Power Automate.](/power-platform/admin/powerapps-flow-licensing-faq)
 
-Pour en savoir plus sur la disponibilité de Microsoft Graph, consultez la description du service de plateforme [Microsoft 365 et Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-office-365-plans)
+Pour en savoir plus sur la disponibilité de Microsoft Graph, consultez la description du service de plateforme [Microsoft 365 et Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md#feature-availability-across-plans)
 
 ## <a name="it-admin-features"></a>Fonctionnalités d’administration informatique
 
 Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans tous les plans qui incluent SharePoint et tous les plans autonomes SharePoint :
 
 - [Analyse de l’utilisation et des erreurs des applications](/sharepoint/monitor-apps)
-- Rapports d’activité et d’utilisation [pour SharePoint](/office365/admin/activity-reports/sharepoint-activity) [et OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
+- Rapports d’activité et d’utilisation [pour SharePoint](/office365/admin/activity-reports/sharepoint-activity) et [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Modifier l’URL du site](/sharepoint/change-site-address)
 - [Paramètres de stockage et de rétention par défaut pour OneDrive](/onedrive/set-default-storage-space)
 - [Hybride pour SharePoint Server](/sharepoint/hybrid/hybrid). Les employés de première ligne ont besoin d’une licence d’accès client (CAL) pour accéder à SharePoint Server.
