@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Découvrez les limites de SharePoint pour microsoft 365 et les plans autonomes.
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+description: Découvrez les limites de SharePoint pour Microsoft 365 et les plans autonomes.
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172609"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484777"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -29,7 +29,7 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365.
 |Sites (collections de sites) par organisation  <br/> |2 millions<sup>6</sup> <br/> |2 millions<sup>6</sup> <br/> |2 millions<br/> |
 |Nombre d'utilisateurs.  <br/> |Jusqu'à 300  <br/> |1 - 500 000<sup>7</sup> <br/> |1 - 500 000<sup>7</sup> <br/> |
    
-<sup>1</sup> [Découvrez comment trouver le stockage total et disponible pour votre organisation.](/sharepoint/manage-site-collection-storage-limits) Vous pouvez acheter une quantité illimitée de stockage SharePoint supplémentaire. Consultez la rubrique [Modifier l'espace de stockage pour votre abonnement](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> [Découvrez comment trouver le stockage total et disponible pour votre organisation.](/sharepoint/manage-site-collection-storage-limits) Vous pouvez acheter une quantité illimitée de stockage SharePoint supplémentaire. Voir [Ajouter de l’espace de stockage pour votre abonnement.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> Nous vous recommandons de surveiller la Corbeille et de la vider régulièrement. L’espace de stockage qu’il utilise fait partie de la limite de stockage totale de l’organisation. 
 <br/> <sup>3</sup> Si vous avez un abonnement Microsoft 365 et un module supplémentaire de stockage de fichiers Office 365, les quantités de stockage sont ajoutées. 
 <br/> <sup>4 Il</sup> s’agit de la limite de stockage pour un site unique (précédemment appelé « collection de sites ») et non de la quantité de stockage *fournie* pour chaque site.  Cette limite s’applique à tous les types de sites, y compris les sites d’équipe connectés à un groupe Office 365 et OneDrive. Les administrateurs SharePoint peuvent [définir manuellement des limites de stockage inférieures.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 
@@ -87,7 +87,7 @@ Un utilisateur peut appartenir à 5 000 groupes par site (collection de sites) e
 2 000 par site (collection de sites). Nous vous recommandons de créer des sites et de les organiser en hubs au lieu de créer des sous-sites. Si vous utilisez des sous-sites, nous vous recommandons de limiter leur nombre (en particulier sur les sites fortement trafficked).
 
 > [!NOTE]
-> Votre organisation est limitée à 2 000 sites hub. Vous n’avez peut-être pas besoin d’un site hub pour chaque fonction et il est important d’y faire une planification avant de créer des hubs. Pour plus d’informations, visitez [la planification de vos sites hub SharePoint.](/sharepoint/planning-hub-sites)
+> Votre organisation est limitée à 2 000 sites hub. Vous n’avez peut-être pas besoin d’un site hub pour chaque fonction et il est important d’y faire une planification avant de créer des hubs. Pour plus d’informations, consultez [La planification de vos sites hub SharePoint.](/sharepoint/planning-hub-sites)
 
 ### <a name="sharepoint-hosted-applications"></a>Applications hébergées par SharePoint
 

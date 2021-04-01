@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium est une solution intégrée qui réunit la productivité de pointe avec des fonctionnalités avancées de sécurité et de gestion des appareils pour vous aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173539"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484817"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Description du service Microsoft 365 Business Premium
 
@@ -43,7 +43,7 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |Microsoft Stream  <br/> |Oui<sup>6</sup>  <br/> |Oui<sup>6</sup>  <br/> |
 |[Administration de Microsoft 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Outil de synchronisation Azure AD Connect<br/> |Oui  <br/> |Oui  <br/> |
-|Shared computer activation <br/> |Non <br/> |Oui  <br/> |
+|[Activation d'ordinateurs partagés](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |Non <br/> |Oui  <br/> |
 |[Stratégie et conformité de message](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Archivage à long terme des boîtes aux lettres Exchange Online  <br/> |Non  <br/> |Oui<sup>3</sup> <br/> |
 |Azure Information Protection Plan 1 |Non <br/>|Oui<sup>2</sup> </br>|
@@ -100,7 +100,7 @@ Microsoft 365 Business Premium inclut essentiellement toutes les fonctionnalité
 |Protéger les dossiers contre des menaces telles que des rançongiciels <br/> |Oui  <br/> |
 |Protéger les fichiers et dossiers sur les PC contre tout accès non autorisé avec Bitlocker <br/> |Oui  <br/> |
 
-### <a name="notes"></a>Remarques
+### <a name="notes"></a>Notes
 <sup>1 inclut</sup> Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) active les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. AIP Plan 1 est inclus dans Microsoft 365 Business Premium. <br/>
 <sup>3</sup> Microsoft 365 Business Premium inclut Archivage Exchange Online abonnement. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d’informations, voir [Vue d’ensemble d’un archivage illimité](/office365/securitycompliance/unlimited-archiving). <br/>

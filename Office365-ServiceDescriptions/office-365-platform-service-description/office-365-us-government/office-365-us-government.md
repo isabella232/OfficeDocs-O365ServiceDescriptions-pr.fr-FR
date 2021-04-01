@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et en constante évolution du secteur public des États-Unis, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365 pour le gouvernement). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 pour le gouvernement américain.
-ms.openlocfilehash: a2568a77406954a2d3461a0e33f7ca5f3e9160d8
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172959"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484827"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -23,9 +23,9 @@ ms.locfileid: "51172959"
 >
 >En réponse à l’augmentation sans précédent des appels et pour garantir la continuité et la disponibilité, Microsoft permet aux serveurs audio/vidéo GCC de Microsoft Teams d’exploiter la capacité de traitement dans nos centres de données commerciaux, ainsi que dans nos centres de données publics.<br/>
 >
->Ces serveurs audio/vidéo résident dans les serveurs de limite d’accréditation élevée Microsoft Azure FedRAMP aux États-Unis et ne stockent aucun contenu client. Toutefois, ces serveurs traitent l’audio et la vidéo pour les appels et les conférences et fonctionnent sous notre personnel commercial pendant cette période intermédiaire.<br/>
+>Ces serveurs audio/vidéo résident dans les serveurs de limite d’accréditation élevée Microsoft Azure FedRAMP aux États-Unis et ne stockent aucun contenu client. Toutefois, ces serveurs traitent l’audio et la vidéo pour les appels et les conférences et fonctionnent sous nos employés commerciaux pendant cette période intermédiaire.<br/>
 >
->Le personnel qualifié et à l’écran surveille ces serveurs afin d’y trouver un accès potentiel aux données client en examineant les connexions interactives à ces serveurs. Le personnel qualifié répond aux exigences GCC pour l’accès au contenu client. Pour plus d’informations sur les exigences de filtrage, voir la [description du service GCC.](gcc.md)<br/>
+>Le personnel qualifié et à l’écran surveille ces serveurs afin d’y trouver un accès potentiel aux données client en examineant les connexions interactives à ces serveurs. Le personnel qualifié répond aux exigences GCC pour l’accès au contenu client. Pour plus d’informations sur les exigences de filtrage, voir [la description du service GCC.](gcc.md)<br/>
 >
 >Nous vous remercions de votre support, car nous prenons les mesures nécessaires pour nous assurer que nos services restent disponibles et fiables dans ces périodes exceptionnelles.<br/>
 
@@ -39,7 +39,7 @@ La description du service Office 365 pour le secteur public est conçue pour ser
 
 Les plans Office 365 pour le gouvernement sont des abonnements mensuels et peuvent être sous licence pour un nombre illimité d’utilisateurs.
 
-- L’environnement **Office 365 GCC** assure la conformité avec les exigences fédérales pour les services cloud, notamment FedRAMP High, et les exigences relatives aux systèmes d’informations fiscales fédérales et de justice pénale (types de données CJI et FTI).
+- L’environnement **Office 365 GCC** assure la conformité avec les exigences fédérales pour les services cloud, y compris FedRAMP High, et les exigences relatives aux systèmes d’informations fiscales fédérales et de la justice pénale (types de données CJI et FTI).
 
 - Les environnements **Office 365 GCC High** et DoD assurent la conformité avec les recommandations en matière de sécurité du département de la Défense, le DFARS (Defense Federal Acquisition Regulations Supplement) et la réglementation ITAR (International Traffic in Arms Regulations).
 
@@ -55,7 +55,7 @@ Outre les fonctionnalités d’Office 365, les organisations qui utilisent Offic
 
 ## <a name="customer-eligibility"></a>Conditions d’éligibilité des clients
 
-Office 365 Pour le gouvernement américain est disponible pour (1) les entités fédérales, gouvernementales, locales, ovales et gouvernementales américaines, et (2) les autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et lorsque l’utilisation d’Office 365 Pour le gouvernement est appropriée pour répondre à ces exigences, sous réserve de validation de l’éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. L’environnement Office 365 DoD est pour une utilisation exclusive du département de la Défense des États-Unis.
+Office 365 Pour le gouvernement américain est disponible pour (1) les entités gouvernementales fédérales, gouvernementales, locales, y siègent et (2) les autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et lorsque l’utilisation d’Office 365 Pour le gouvernement est appropriée pour répondre à ces exigences, sous réserve de validation de l’éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. L’environnement Office 365 DoD est pour une utilisation exclusive du département de la Défense des États-Unis.
 
 Bien que les critères d’éligibilité soient cohérents dans les offres Office 365 pour le secteur public, Microsoft acceptera uniquement la langue du contrat DFARS et ITAR pour l’environnement GCC High.
 
@@ -67,11 +67,11 @@ Lors du renouvellement du contrat d’un client pour Office 365 pour le gouverne
 
 Les services Office 365 Pour le gouvernement sont fournis à partir de centres de données physiquement situés aux États-Unis. Le contenu client suivant est enregistré au repos dans des centres de données situés physiquement uniquement aux États-Unis :
 
-- Contenu de boîte aux lettres Exchange Online (corps de courrier électronique, entrées de calendrier et contenu de pièces jointes de courrier électronique)
+- Contenu de boîte aux lettres Exchange Online (corps des messages électroniques, entrées de calendrier et contenu des pièces jointes des messages électroniques)
 
 - Contenu du site SharePoint Online et fichiers stockés dans ce site
 
-- Conversations archivées, documents téléchargés et sessions de tableau blanc Skype Entreprise
+- Conversations archivées Skype Entreprise, documents téléchargés et sessions de tableau blanc
 
 - Threads de conversation permanente Microsoft Teams
 
@@ -100,7 +100,7 @@ L’intégration se compose des éléments suivants :
 
 - Intégration et migration de service : les tâches d’intégration de service permettent des scénarios dans votre client. La migration des données (y compris les e-mails et les fichiers) est couverte par [la migration des données.](/FastTrack/data-migration) <sup>2</sup>
 
-Les services d’adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs connaissent les services éligibles et qu’ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
+Les services d’adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs sont conscients des services éligibles et qu’ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
 
 Des informations spécifiques sur le processus du Centre FastTrack sont disponibles [ici.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d’engagement, examinez les responsabilités [fastTrack](/FastTrack/us-gov-appendix-fasttrack-responsibilities) ainsi que [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
 
@@ -127,7 +127,7 @@ Pour plus d’informations, telles que les fournisseurs pris en charge, les mod�
 
 Pour plus d’informations sur la prise en charge d’Office 365 pour Azure ExpressRoute, voir [Azure ExpressRoute pour Office 365](/microsoft-365/enterprise/azure-expressroute)
 
-## <a name="system-requirements"></a>Configuration requise du système
+## <a name="system-requirements"></a>Configuration requise
 
 Pour connaître la configuration requise pour installer et utiliser les plans Office 365 pour le gouvernement américain, reportez-vous à la page [Configuration requise pour Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) sur le site des produits [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409).
 
@@ -142,7 +142,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Service Office 365|Office 365 pour le gouvernement G1|Office 365 pour le gouvernement G3|Office 365 Secteur Public G5|Office 365 Pour le gouvernement F3|
 |---|---|---|---|---|
 |Office pour le web|Oui|Oui|Oui|Oui|
-|Applications Microsoft 365 pour les grandes entreprises|Non|Oui|Oui|Non|
+|Applications Microsoft 365 for entreprise|Non|Oui|Oui|Non|
 |Exchange Online|Oui|Oui|Oui|Oui|
 |Exchange Online Protection|Oui|Oui|Oui|Oui|
 |SharePoint Online|Oui|Oui|Oui|Oui|
@@ -348,7 +348,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |Télémétrie Office|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
 |Prise en charge hors connexion pour les applications clients|Non|Oui|Oui|Non|
 |Installation optimisée du client côte à côte|Non|Oui|Oui|Non|
-|Power Map pour Excel|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
+|Power Map pour Excel|Non|Non|Non|Non|
 |Power Pivot pour Excel|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
 |Power Query pour Excel|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
 |Power View pour Excel|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
@@ -451,6 +451,6 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 Pour la disponibilité des fonctionnalités de Microsoft Teams dans GCC/GCC High/DoD, consultez la description du [service Microsoft Teams.](../../teams-service-description.md)
 > <sup>1 Disponibilité</sup> à venir.
 <br/><sup>2 Disponibilité</sup> sur le Surface Hub local (non signé).
-<br/><sup>3 Le</sup> partage externe est disponible pour l’environnement GCC. En savoir plus sur la façon [de désactiver ou d’activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements GCC High et DOD ; Les utilisateurs au sein de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
+<br/><sup>3 Le</sup> partage externe est disponible pour l’environnement GCC. En savoir plus sur la façon [de désactiver ou d’activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements GCC High et DOD ; Les utilisateurs de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
 <br/><sup>4 La</sup> fonctionnalité Formulaires de groupe récents est désactivée pour l’environnement GCC. Toutefois, les utilisateurs peuvent toujours accéder aux formulaires de groupe en sélectionnant un groupe spécifique sous l’onglet Formulaires de groupe.
 <br/><sup>5</sup> Word, client Windows Excel PowerPoint uniquement, et non web, MacOS, iOS ou Android.
