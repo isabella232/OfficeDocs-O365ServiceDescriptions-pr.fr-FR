@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Découvrez les limites d’Exchange Online pour plusieurs types de service, notamment concernant les carnets d’adresses, le stockage en boîte aux lettres, ou encore la création de rapports et le suivi des messages, pour n’en citer que quelques-uns.
-ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 47f56be9b431b6f2b5e0340291ea6e3d156674d8
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173709"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484837"
 ---
 # <a name="exchange-online-limits"></a>Limites d’Exchange Online
 
@@ -321,7 +321,7 @@ Des limites de réception et d’envoi sont appliquées pour lutter contre les v
 
 ### <a name="receiving-limits"></a>Limites de réception
 
-Les limites de réception s’appliquent au nombre de messages qu’un utilisateur, groupe ou dossier public peut recevoir par heure. Cela s’applique à la fois pour les messages reçus à partir d’Internet et de serveurs locaux. Lorsque la limite de réception est dépassée, les e-mails envoyés à cette boîte aux lettres recevra une notification d’échec de remise indiquant que la boîte aux lettres a dépassé le seuil maximal de remise. Cette limite se réinitialise une heure après. À ce moment-là, la boîte aux lettres pourra de nouveau recevoir des messages.
+Les limites de réception s’appliquent au nombre de messages qu’un utilisateur, groupe ou dossier public peut recevoir par heure *de toutes les sources*. Cela inclut les messages provenant d’expéditeurs internes, de messages provenant d’Internet et de serveurs locaux. Lorsque la limite de réception a été dépassée sur une boîte aux lettres, les messages envoyés à la boîte aux lettres sont renvoyés à l’expéditeur dans un rapport de non-remise (également appelée rapport de non-remise ou non-remise) indiquant que la boîte aux lettres a dépassé le seuil de remise maximal. Cette limite se réinitialise une heure après. À ce moment-là, la boîte aux lettres pourra de nouveau recevoir des messages.
 
 | Fonctionnalité | Microsoft 365 Business Basic | Office 365 Business Premium | Office 365 Entreprise E1 | Office 365 Entreprise E3 | Office 365 Entreprise E5 | Office 365 Entreprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -369,7 +369,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 |Limite de débit de destinataires|Aucune limite<sup>1</sup>|10 000 destinataires par jour<sup>2</sup>|10 000 destinataires par jour<sup>2</sup>|10 000 destinataires par jour<sup>2</sup>|
 |Nombre maximal de destinataires|1 000 destinataires<sup>1</sup>|1 000 destinataires|1 000 destinataires|1 000 destinataires|
 |Limite d’adresse proxy destinataire|400|400|400|400|
-|Limite de débit maximal des messages|30 messages par minute|30 messages par minute|30 messages par minute|30 messages par minute|
+|Limite de débit maximal des messages|Sans limite|30 messages par minute|30 messages par minute|30 messages par minute|
 
 > [!NOTE]
 > <sup>1</sup> Ceci est la limite par défaut pour les organisations Exchange Server 2013. Les administrateurs peuvent modifier cette valeur pour leur organisation.<br/>
