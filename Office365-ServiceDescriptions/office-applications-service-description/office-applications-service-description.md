@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215757"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599056"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -36,7 +36,7 @@ Utilisez le tableau suivant pour comparer la disponibilité des fonctionnalités
   
 Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de développement que vous pouvez acheter pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d’informations, [voir Acheter ou modifier un module complémentaire.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)<br><br>
 
-| Application/fonctionnalité | Office Professionnel Plus 2013 | Office Professionnel Plus 2016 | Office Professionnel Plus 2019 | Microsoft 365 Apps for enterprise | Microsoft 365 Apps for business | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Application/fonctionnalité | Office Professionnel Plus 2013 | Office Professionnel Plus 2016 | Office Professionnel Plus 2019 | Applications Microsoft 365 for entreprise | Applications Microsoft 365 pour les entreprises | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Applications Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -55,7 +55,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |[Office Mobile pour Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Non  <br/> |Non <br/> |Oui <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |
 |Outlook pour Android  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft Teams  <br/> |Non  <br/> |Non  <br/> |Oui <br/>|Oui  <br/> |Oui  <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
-|**Valeur d’entreprise** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office Professionnel Plus 2019** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
+|**Valeur d’entreprise** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office Professionnel Plus 2019** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Non  <br/>| Non  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> | 
 |Mise en service automatisée du compte d'utilisateur  <br/> |N/D  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Interface utilisateur multilingue  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -81,7 +81,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |Power Query pour Excel  <br/> |Non<sup>14</sup>  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Power View pour Excel  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Paramètres d'itinérance  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
-|Activation d'ordinateurs partagés  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|[Activation d'ordinateurs partagés](/DeployOffice/overview-shared-computer-activation)  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Support pour bloquer le stockage de fichiers informatiques  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Oui <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non  <br/> |
 |Fonction « Appuyez pour rechercher et réutiliser du contenu »  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Non <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Mises à niveau de la version  <br/> |Non  <br/> |Non  <br/>|Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -100,7 +100,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 <sup>7</sup> Office pour Mac 2011 peut être installé, mais pas activé. <br/>
 <sup>8</sup> Microsoft 365 Apps for enterprise est pris en charge sur une infrastructure VDI (Virtual Desktop Infrastructure) dédiée aux utilisateurs. Microsoft 365 Apps for enterprise prend uniquement en charge les services Bureau à distance (RDS) lorsqu’il est acheté dans le cadre d’un programme de licences en volume.<br/>
 <sup>9</sup> L’activation en volume pour Office 365 E3 et Microsoft 365 Apps for enterprise est limitée aux installations sur Windows Server 2008 R2 et les plus nouvelles avec le rôle RDS activé ou les installations Windows To Go. Dans les deux cas, les utilisateurs qui accèdent à ces installations doivent être titulaires d’une licence Office 365 E3 ou Microsoft 365 Apps for enterprise.<br/> 
-<sup>10</sup> fonctionnalités Skype Entreprise dans Office 365 F3 incluent Skype Entreprise Plan 1 (aucun partage de bureau, aucun partage d’application, ne peut pas initier de conférences web, vidéo ou audio à plusieurs, ne peut pas planifier de réunions).<br/> 
+<sup>10</sup> fonctionnalités Skype Entreprise dans Office 365 F3 incluent Skype Entreprise Plan 1 (pas de partage de bureau, pas de partage d’application, ne peut pas initier de conférence web, vidéo ou audio à plusieurs, ne peut pas planifier de réunions).<br/> 
 <sup>11</sup> L’accès est actuellement disponible si vous êtes sur le canal actuel ou sur la version cible du canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d’informations, voir Access inclus dans le cadre des [abonnements Microsoft 365 et Office 365.](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)<br/> 
 <sup>12</sup> Infopath 2013 est toujours pris en charge et est livré dans l’installation Office Professionnel Plus 2016, mais il n’existe aucune nouvelle version pour Office 2016.<br/> 
 <sup>13 Limité</sup> aux appareils dont les écrans intégrés mesurent 10,1 pouces ou moins en diagonale.<br/> 
@@ -122,7 +122,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |[Skype Entreprise](office-applications.md#skype-for-business) <br/> |Oui  <br/> |Oui  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Non  <br/> |Non  <br/> |
    
-> <sup>1</sup> Office 2016 pour Mac nécessite Mac OS X 10.10 ou ultérieur. Pour les clients qui se connectent à Exchange via Outlook pour Mac, la connectivité à Microsoft Exchange Server 2010 Service Pack 2 ou version ultérieure est nécessaire. Pour en savoir plus, [consultez Microsoft 365 et les ressources Office.](https://products.office.com/office-system-requirements)<br/>
+> <sup>1</sup> Office 2016 pour Mac requiert Mac OS X 10.10 ou ultérieur. Pour les clients qui se connectent à Exchange via Outlook pour Mac, la connectivité à Microsoft Exchange Server 2010 Service Pack 2 ou version ultérieure est nécessaire. Pour en savoir plus, [consultez Microsoft 365 et les ressources Office.](https://products.office.com/office-system-requirements)<br/>
 <sup>2</sup> Disponible en téléchargement séparé à partir de l'App Store. Pour en savoir plus, consultez la page dédiée à [OneNote pour Mac](https://aka.ms/OneNoteforMac).<br/> 
 <sup>3</sup> Office pour Mac 2011 peut être installé, mais pas activé.
 
@@ -137,7 +137,7 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Types de données | Non | Non | Non |
 |Remplissage flash  | Non | Non | Non |
 |Idées (Insight Services) | Non | Non | Non |
-|Intégration améliorée avec Power BI (éléments visuels personnalisés, création de graphiques PBI directement à partir d’Excel) | Non | Non | Non |
+|Intégration améliorée avec Power BI (visuels personnalisés, création de graphiques PBI directement à partir d’Excel) | Non | Non | Non |
 |Encre numérique intelligente | Non | Non | Non |
 |Groupes Office 365 | Non | Non | Non |
 |Données de tableau croisé dynamique connectées à des tableaux croisés dynamiques | Non | Non | Non |
@@ -204,7 +204,7 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Intégration de Skype Entreprise au partage | Non | Non | Non |
 |Historique des versions | Non | Non | Non |
 |Groupes Office 365 | Non | Non | Non |
-|Conversation contextuelle avec les co-auteurs : conversation avec les co-auteurs dans le document | Non | Non | Non |
+|Conversation contextuelle avec les co-auteurs : discuter avec les co-auteurs dans le document | Non | Non | Non |
 |Dictée| Non<sup>1</sup> | Non<sup>1</sup> | Non<sup>1</sup> |
 
 > [!NOTE]

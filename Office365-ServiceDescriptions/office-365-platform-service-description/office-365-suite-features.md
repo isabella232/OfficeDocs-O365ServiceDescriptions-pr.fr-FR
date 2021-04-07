@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils web qui vous aident à collaborer et à communiquer en toute sécurité sur de nombreux appareils et plusieurs services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173979"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599046"
 ---
 # <a name="microsoft-365-suite-features"></a>Fonctionnalités de Microsoft 365 suite
 
@@ -26,18 +26,12 @@ Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’out
 
 Delve permet aux utilisateurs de rechercher et de découvrir du contenu dans Microsoft 365 en fonction d’informations personnalisées. Delve est la première expérience fournie par Office Graph. Pour en savoir plus sur Delve, voir [Qu’est-ce que Delve ?](https://go.microsoft.com/fwlink/?LinkId=511463)
 
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-Microsoft Bookings est une application mobile et en ligne pour les entreprises qui souhaitent fournir des services aux clients sur la base d’un rendez-vous. Parmi les exemples de ces entreprises figurent les salons de santé, les bureaux scolaires, les spas, les cabinets d’avocats, les fournisseurs de services financiers, les consultants, les professionnels de la santé, les établissements d’enseignement et les auto-boutiques. Microsoft Bookings est disponible pour les clients aux États-Unis et au Canada qui disposent d’un abonnement Microsoft 365 pour les entreprises.
-  
-Pour plus d’informations sur Microsoft Bookings, rendez-vous sur Publier votre calendrier d’entreprise en [ligne avec Microsoft Bookings.](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d)
-
 ## <a name="microsoft-briefing-email"></a>E-mail Microsoft Briefing
 
 L’e-mail Briefing aide les utilisateurs à utiliser au mieux chaque jour en les aidant à :
 
 * Préparez les réunions en affichant les tâches associées ou les documents pertinents.
-* Gérer les tâches identifiées à partir du courrier électronique qui peuvent être en attente.
+* Gérer les tâches identifiées à partir d’un e-mail qui peuvent être en attente.
 * Maximum de temps de travail au travail en réservant du temps sur le calendrier et en mutant les notifications.
 
 Les e-mails de briefing sont automatiquement fournis à tous les utilisateurs d’Exchange Online. Pour en savoir plus, consultez la vue [d’ensemble de la messagerie Briefing.](/Briefing/be-overview)
@@ -48,17 +42,17 @@ Microsoft Power Automate vous permet d’automatiser les flux de travail entre l
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft Forms vous permet de créer rapidement et facilement des questionnaires personnalisés, des enquêtes, des questionnaires, des inscriptions, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats du questionnaire, peuvent être facilement exportées vers Excel pour une analyse ou une notation supplémentaire. Pour en savoir plus, [consultez Microsoft Forms.](https://support.office.com/forms)
+Microsoft Forms vous permet de créer rapidement et facilement des questionnaires personnalisés, des enquêtes, des questionnaires, des inscriptions, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats du questionnaire, peuvent être facilement exportées vers Excel pour une analyse ou une notation supplémentaire. Pour en savoir plus, [voir Qu’est-ce que Microsoft Forms ?](https://support.office.com/forms).
   
 ## <a name="microsoft-graph-api"></a>API Microsoft Graph
 
-Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand nombre de ressources, de relations et d’intelligence, via un point de terminaison unique : https://graph.microsoft.com . Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, voir la [documentation de Microsoft Graph.](/graph/overview)
+Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand nombre de ressources, de relations et d’intelligence, tout au long d’un point de terminaison unique https://graph.microsoft.com : Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, voir la [documentation de Microsoft Graph.](/graph/overview)
   
 ## <a name="microsoft-lists"></a>Microsoft Lists
 
 Microsoft Lists est une application Microsoft 365 qui vous permet de suivre les informations et d’organiser le travail. Les listes sont simples, intelligentes et flexibles, vous pouvez donc rester au fait de ce qui est le plus important pour votre équipe. Suivre les problèmes, les ressources, les routines, les contacts, l’inventaire et bien plus encore à l’aide d’affichages personnalisables et de règles intelligentes pour maintenir la notification et la synchronisation de tout le monde. Avec les modèles prêts à l’emploi, vous pouvez rapidement démarrer des listes en ligne, sur notre nouvelle application mobile ou dans Microsoft Teams. Dans le cadre de Microsoft 365, vous pouvez vous appuyer sur la sécurité et la conformité prêtes à l’emploi pour l’entreprise.
 
-Pour plus d’informations, reportez-vous aux rubriques suivantes :
+Pour plus d’informations, voir :
 
 * [Centre **de ressources des listes Microsoft publiques**](https://aka.ms/MSLists)
 * [Centre **d’adoption des listes Microsoft publiques**](https://aka.ms/ListsAdoption)
@@ -69,21 +63,21 @@ Microsoft Planner est un outil qui offre aux utilisateurs un moyen visuel pour o
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft Power Apps est un service d’entreprise qui vous permet de créer, d’intégrer et de partager rapidement des applications qui fonctionnent sur n’importe quel appareil. Power Apps vous permet d’utiliser des connexions intégrées ou celles conçues par votre entreprise pour connecter votre application à des services cloud et locaux, notamment Microsoft 365 et Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de données Oracle, etc. Vous pouvez facilement partager vos Power Apps avec vos collègues en tapant simplement une adresse de messagerie. Pour en savoir plus, allez sur le site Web Microsoft [Power Apps.](https://powerapps.microsoft.com/)
+Microsoft Power Apps est un service d’entreprise qui vous permet de créer, d’intégrer et de partager rapidement des applications qui fonctionnent sur n’importe quel appareil. Power Apps vous permet d’utiliser des connexions intégrées ou celles conçues par votre entreprise pour connecter votre application aux services cloud et locaux, notamment Microsoft 365 et Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de données Oracle, etc. Vous pouvez facilement partager vos Power Apps avec vos collègues en tapant une adresse de messagerie. Pour en savoir plus, allez sur le site Web Microsoft [Power Apps.](https://powerapps.microsoft.com/)
   
-## <a name="microsoft-stream"></a>Microsoft Stream
+## <a name="microsoft-stream"></a>Microsoft Stream
 
 Microsoft Stream est un service vidéo d’entreprise que les membres de votre organisation peuvent utiliser pour télécharger, afficher et partager des vidéos en toute sécurité. Vous pouvez partager des enregistrements de cours, réunions, présentations, sessions de formation ou d’autres vidéos pour faciliter la collaboration de votre équipe. Microsoft Stream facilite également le partage de commentaires sur une vidéo et des codes d’heure de balise dans des commentaires et des descriptions pour faire référence à des points spécifiques dans une vidéo.
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway est une application professionnelle de numérique pour les entreprises qui vous aide, ainsi que vos collègues, à exprimer des idées à l’aide d’un canevas web interactif. Le moteur de conception intégré de Microsoft Sway vous permet de produire des rapports, des présentations et bien plus encore, professionnels et attrayants, sans avoir besoin d’une mise en forme complète ou d’une formation supplémentaire. Vous pouvez également modifier les résultats pour obtenir l’apparence unique que vous souhaitez. Microsoft Sway rend votre création très bonne dans n’importe quel navigateur sur n’importe quel écran, et elle peut être partagée avec des collègues et des clients en envoyant simplement un lien. Microsoft Sway vous aide à trouver et rassembler toutes sortes de contenu sans quitter l’application, afin que vous pouvez faire glisser et déposer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, voir [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible [dans Office 365 Germany.](office-365-germany.md)
+Microsoft Sway est une application professionnelle de numérique pour les entreprises qui vous aide, ainsi que vos collègues, à exprimer des idées à l’aide d’un canevas web interactif. Le moteur de conception intégré de Microsoft Sway vous permet de produire des rapports, des présentations et bien plus encore, professionnels et attrayants, sans avoir besoin d’une mise en forme complète ou d’une formation supplémentaire. Vous pouvez également modifier les résultats pour obtenir l’apparence unique que vous souhaitez. Microsoft Sway rend votre création très bien vue dans n’importe quel navigateur sur n’importe quel écran, et elle peut être partagée avec des collègues et des clients en envoyant un lien. Microsoft Sway vous aide à trouver et rassembler toutes sortes de contenu sans quitter l’application, afin que vous pouvez faire glisser et déposer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, voir [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible [dans Office 365 Germany.](office-365-germany.md)
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Applications Microsoft 365 pour Entreprise
 
 Microsoft 365 Apps for enterprise est la suite toujours à jour d’applications de bureau que vous connaissez déjà (notamment Word, PowerPoint, Excel, Outlook et Teams) disponible sous la mesure d’un abonnement. Microsoft 365 Apps pour entreprise inclut des fonctionnalités intelligentes exclusives telles que idées dans [**Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Recherche dans [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916) [**collaboration**](https://go.microsoft.com/fwlink/p/?linkid=2109917)en temps réel, Teams comme hub pour le travail d’équipe et fonctionnalités de sécurité avancées. En tant que licence utilisateur, vous pouvez déployer Office sur cinq PC ou Mac, cinq tablettes et cinq appareils mobiles. Avec 1 To de stockage cloud OneDrive, vous pouvez accéder à vos fichiers et collaborer sur ceux-ci depuis n’importe où.
 
-Pour plus d’informations, reportez-vous aux rubriques suivantes :
+Pour plus d’informations, voir :
 
 * [Page Vue d’ensemble](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Page du produit (à acheter)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
@@ -106,11 +100,11 @@ Le bloc-notes pour la classe fait partie de OneNote et est disponible pour Offic
 
 ## <a name="to-do"></a>To Do
 
-Microsoft To Do est une application de gestion des tâches qui permet aux clients de planifier leur journée et de gérer leurs tâches ( au travail et à la vie privée) à partir de n’importe quel appareil.
+Microsoft To Do est une application de gestion des tâches qui permet aux clients de planifier leur journée et de gérer leurs tâches( au travail et à la vie privée) à partir de n’importe quel appareil.
 
 Avec Microsoft To Do, les clients peuvent :
 
-* Synchroniser leurs tâches dans Outlook, Teams, Planner, et bien plus encore
+* Synchroniser leurs tâches entre Outlook, Teams, Le Planificateur et bien plus encore
 * Restez concentré sur Mon jour, un planificateur quotidien personnalisé avec des tâches suggérées
 * Obtenir leurs listes n’importe où, sur n’importe quel appareil ou plateforme
 * Partager des listes et affecter des tâches avec des collègues, des amis et une famille
