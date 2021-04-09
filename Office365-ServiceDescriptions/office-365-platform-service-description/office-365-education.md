@@ -2,6 +2,7 @@
 title: Office 365 Éducation
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite bureautique Microsoft Office familière avec les versions cloud des services de communication et de collaboration nouvelle génération de Microsoft, notamment Microsoft Exchange Online, Microsoft SharePoint Online, Office pour le web et Microsoft Skype Entreprise Online pour aider les utilisateurs à être productifs à partir de pratiquement n’importe où via &mdash; &mdash; Internet.
-ms.openlocfilehash: 62f8c255d7e86f597140765b0ab0909ec45f3871
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173849"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653216"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
@@ -49,7 +50,7 @@ Chaque plan Office 365 Éducation inclut un certain nombre de services individue
 <sup>5 inclut</sup> Exchange Online Plan 1 et des fonctionnalités supplémentaires. <br/> 
 <sup>6 Inclut</sup> Skype Entreprise Online Plan 2. <br> <sup>7 Inclut</sup> Skype Entreprise Online Plan 1 et des fonctionnalités supplémentaires. 
   
-## <a name="system-requirements"></a>Configuration requise du système
+## <a name="system-requirements"></a>Configuration requise
 
 Pour obtenir la demande système requise pour Office 365, consultez la demande du [système Office 365.](https://products.office.com/office-system-requirements/)
   
@@ -199,7 +200,7 @@ Le [Centre de conformité de &amp; sécurité](/microsoft-365/compliance/go-to-t
 |:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Présentation de la gestion de la sécurité avancée dans Office 365](/cloud-app-security/what-is-cloud-app-security) <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
-|[La gestion des menaces,](/office365/securitycompliance/protect-against-threats)telle que le filtrage du courrier et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Gestion des menaces,](/office365/securitycompliance/protect-against-threats)telle que le filtrage du courrier et la protection contre les programmes malveillants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Gestion avancée des menaces,](/microsoft-365/security/office-365-security/office-365-ti)telle que l’Explorateur de menaces pour les campagnes de hameçonnage <sup>5</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Référentiel sécurisé client](/office365/securitycompliance/customer-lockbox-requests) |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Gestion des appareils mobiles](https://support.office.com/article/bc44-4eb1-af00-9db5430be3cd) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -278,13 +279,13 @@ Utilisez le tableau suivant pour comparer la disponibilité des fonctionnalités
    
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d’activer les fonctionnalités IRM pris en charge. <br/> 
-<sup>2</sup> Skype Entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Microsoft 365 Apps pour entreprise et Office 365 Entreprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de [comparaison des clients de bureau.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) <br/> 
+<sup>2</sup> Skype Entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Microsoft 365 Apps pour entreprise et Office 365 Entreprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de comparaison des [clients de bureau.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) <br/> 
 <sup>3</sup> Certaines écoles sont éligibles à Education Plus, qui inclut Microsoft 365 Apps for enterprise, et permet aux étudiants, enseignants et membres du personnel d’installer la dernière version d’Office sur cinq ordinateurs PC ou Mac et sur d’autres appareils mobiles, y compris les tablettes Windows et l’iPad. Pour pouvoir bénéficier d'Office 365 Éducation Plus, les écoles doivent acquérir une licence Office pour les enseignants et le personnel à l'échelle de l'établissement via l'inscription aux solutions Éducation, le programme Open Value Subscription pour les solutions Éducation ou un contrat pour établissements scolaires. Access et Publisher sont uniquement disponibles sur PC. OneNote pour Mac est disponible en téléchargement séparé à partir de l'App Store Mac. <br/> 
 <sup>4 versions</sup> d’Office pour le web sont incluses. Pour plus d’informations, [voir Office pour les fonctionnalités web](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Fonctionnalités d’Office pour le web
 
-Le tableau suivant fournit des liens vers des comparaisons des fonctionnalités d’Office pour le web disponibles dans les plans Office 365 Éducation pour les applications de bureau Microsoft Office de bureau. Utilisez les comparaisons pour découvrir les fonctionnalités disponibles dans Office pour le web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation peuvent avoir besoin de la fonctionnalité de graphique avancée de l’application excel de bureau, tandis que d’autres peuvent avoir uniquement besoin d’afficher et de modifier légèrement des documents Word et des présentations PowerPoint avec Office pour le web.
+Le tableau suivant fournit des liens vers des comparaisons des fonctionnalités d’Office pour le web disponibles dans les plans Office 365 Éducation pour les applications de bureau Microsoft Office de bureau. Utilisez les comparaisons pour découvrir les fonctionnalités disponibles dans Office pour le web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation peuvent avoir besoin de la fonctionnalité de graphique avancée de l’application excel de bureau, tandis que d’autres peuvent avoir seulement besoin d’afficher et de modifier légèrement des documents Word et des présentations PowerPoint avec Office pour le web.
   
 > [!NOTE]
 > - Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. <br/>
@@ -416,7 +417,7 @@ Le tableau suivant répertorie les fonctionnalités Exchange Online disponibles 
 <sup>3</sup> Exchange Server 2013 utilise uniquement le moteur anti-programme malveillant de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes. <br/> 
 <sup>4</sup> SharePoint Online doit être inclus dans le plan d’abonnement. <br/> 
 <sup>5</sup> Les comptes connectés sont pris en charge pour les comptes POP et IMAP, mais désactivés pour Outlook.com (Hotmail). <br/> <sup>6 L’utilisation</sup> d’une cmdlet pour utiliser la liste d’adresses et la liste d’adresses globale n’est pas prise en charge. <br/> 
-<sup>7</sup> Il se peut que certains composants Web Parts et des applications tierces ne soient pas disponibles. <br/> 
+<sup>7</sup> Il se peut que certains composants Web Et des modules de développement tiers ne soient pas disponibles. <br/> 
 <sup>8</sup> Pour eDiscovery, vous avez besoin d’une requête distincte pour l’local et le cloud. <br/> 
 <sup>9</sup> Le tableau indique si le client travaille avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans. 
   
@@ -570,7 +571,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
 |Avertissement pour le nombre de sous-dossiers par dossier public  <br/> |9000  <br/> |9000  <br/> |9000  <br/> |
    
 > [!NOTE]
-> <sup>1 Vous</sup> pouvez envoyer et recevoir jusqu’à 150 Mo de messages entre les utilisateurs (où le message ne quitte jamais les centres de données Microsoft). Les messages routés en dehors des centres de données Microsoft sont soumis à une augmentation supplémentaire de codage de traduction de l’ordre de 33 %. Dans ce cas, la taille maximale de message est de 112 Mo. 
+> <sup>1</sup> Vous pouvez envoyer et recevoir jusqu’à 150 Mo de messages entre les utilisateurs (où le message ne quitte jamais les centres de données Microsoft). Les messages routés en dehors des centres de données Microsoft sont soumis à une augmentation supplémentaire de codage de traduction de l’ordre de 33 %. Dans ce cas, la taille maximale de message est de 112 Mo. 
   
 #### <a name="message-limits"></a>Limites concernant les messages
 
@@ -579,7 +580,7 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
    > [!NOTE]
     > Certains clients de messagerie électronique peuvent avoir des limites de taille de message inférieures ou peuvent limiter la taille d'une pièce jointe individuelle à une valeur inférieure à la limite de taille de message d'Exchange Online. 
   
-- **Limite de longueur d’objet** : nombre maximal de caractères de texte autorisés dans la ligne d’objet d’un message électronique. 
+- **Limite de longueur de l’objet** : nombre maximal de caractères de texte autorisés dans la ligne d’objet d’un message électronique. 
     
 - **Limite des pièces jointes** : nombre maximal de pièces jointes autorisées dans un message électronique. Même si la taille totale de toutes les pièces jointes n'enfreint pas la limite de taille de message, il existe une limite portant sur le nombre de pièces jointes autorisées dans le message. Cette limite est contrôlée par la limite de message à parties multiples. 
     
@@ -661,7 +662,7 @@ Pour connaître les limites de création de rapports et de suivi de messages, vo
 
 Ces limites contrôlent la durée pendant laquelle les éléments situés dans des dossiers spécifiques sont accessibles dans la boîte de réception.
   
-- **Période de rétention** du dossier Éléments supprimés : nombre maximal de jours pendantés pendant la conservation des éléments dans le dossier Éléments supprimés avant leur suppression automatique. 
+- **Période de rétention du** dossier Éléments supprimés : nombre maximal de jours pendantés pendant la conservation des éléments dans le dossier Éléments supprimés avant leur suppression automatique. 
     
 - **Période** de rétention pour les éléments supprimés du dossier Éléments supprimés : nombre maximal de jours pendant qui les éléments supprimés du dossier Éléments supprimés sont conservés avant d’être définitivement supprimés. 
     
@@ -824,10 +825,10 @@ Le tableau suivant indique les limites de SharePoint pour chaque plan Office 365
   
 ## <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
-Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online disponibles pour chaque plan Office 365 Éducation.
+Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online disponibles pour chaque offre Office 365 Éducation.
   
 > [!NOTE]
-> Ce tableau indique la disponibilité des clients et des services dans les options Office 365 Éducation. Si vous souhaitez comparer des fonctionnalités individuelles parmi les différents clients de bureau Skype Entreprise, clients web et clients mobiles, consultez les tableaux de comparaison des clients Skype Entreprise [Online](/lyncserver/lync-server-2013-desktop-client-comparison-tables) et les tableaux de comparaison des clients [mobiles.](/lyncserver/lync-server-2013-mobile-client-comparison-tables) 
+> Ce tableau indique la disponibilité des clients et des services dans les options Office 365 Éducation. Si vous souhaitez comparer des fonctionnalités individuelles parmi les différents clients de bureau Skype Entreprise, clients web et clients mobiles, consultez les tableaux de comparaison des clients Skype Entreprise [Online](/lyncserver/lync-server-2013-desktop-client-comparison-tables) et les tableaux de comparaison des [clients mobiles.](/lyncserver/lync-server-2013-mobile-client-comparison-tables) 
   
 | Fonctionnalité | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -868,7 +869,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 |Vidéo du haut-parleur actif  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Codage et décodage H.264  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Vidéo à plusieurs  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Vidéo ou images haute définition de tous les participants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Vidéo haute définition ou images de tous les participants  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Contrôles de présentateur  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Affichage sélectionné par le participant  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Partage OneNote  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -989,7 +990,7 @@ Les limites de Skype Entreprise Online sont les suivantes :
    
 #### <a name="meeting-limits"></a>Limites de réunion
 
-- **Limite de téléchargement de** fichiers : taille maximale des fichiers qui peuvent être téléchargés vers une réunion Skype Entreprise, y compris les documents et les présentations PowerPoint. 
+- **Limite de téléchargement de** fichiers : taille maximale des fichiers qui peuvent être téléchargés vers une réunion Skype Entreprise, y compris des documents et des présentations PowerPoint. 
     
 - **Participants à une réunion Skype** Entreprise : nombre maximal de participants (y compris le présentateur) qui peuvent participer à une seule réunion Skype Entreprise. 
     
@@ -1016,7 +1017,7 @@ Les limites de Skype Entreprise Online sont les suivantes :
   
 #### <a name="meeting-retention-limits"></a>Limites de rétention de réunion
 
-- **Période de** rétention du contenu de réunion : durée après le départ de la dernière personne d’une réunion pendant la conservation de tout contenu de réunion téléchargé dans Skype Entreprise avant sa suppression définitive. 
+- **Période de** rétention du contenu de réunion : durée après le départ de la dernière personne d’une réunion pendant qui tout contenu de réunion téléchargé est conservé dans Skype Entreprise avant d’être définitivement supprimé. 
     
 - **Période d’expiration de** la réunion : durée après la fin d’une réunion pendant qui permet aux utilisateurs d’accéder à la réunion. 
     

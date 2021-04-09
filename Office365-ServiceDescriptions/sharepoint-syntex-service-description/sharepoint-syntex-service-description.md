@@ -2,23 +2,24 @@
 title: Description du service SharePoint Syntex
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: SharePoint Syntex dans Microsoft 365 utilise l’intelligence artificielle avancée (IA) et l’apprentissage automatique pour inonder l’expertise humaine, automatiser le traitement de contenu et transformer le contenu en connaissances.
-ms.openlocfilehash: 76da52c2a7021ca0bc48272f8983401da39b4136
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5606fec3e825fbb09d2a19a686bec5df61754b46
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174089"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653396"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Description du service SharePoint Syntex 
 
 SharePoint Syntex dans Microsoft 365 utilise l’intelligence artificielle avancée (IA) et l’apprentissage automatique pour inonder l’expertise humaine, automatiser le traitement de contenu et transformer le contenu en connaissances.
 
-Syntex s’appuie sur SharePoint pour fournir des fonctionnalités étendues pour le traitement de contenu à volume élevé, l’extraction de métadonnées pour l’automatisation des processus et l’amélioration de la sécurité et de la conformité. Et il s’appuie sur l’intelligence de Microsoft Search (recherche Microsoft), avec des liens vers [les connecteurs Microsoft Graph](/microsoftsearch/connectors-overview).
+Syntex s’appuie sur SharePoint pour fournir des fonctionnalités étendues pour le traitement de contenu à volume élevé, l’extraction de métadonnées pour l’automatisation des processus et l’amélioration de la sécurité et de la conformité. Et il s’appuie sur l’intelligence de Recherche Microsoft, avec des liens vers [des connecteurs Microsoft Graph](/microsoftsearch/connectors-overview).
 
 Pour obtenir une vue d’ensemble détaillée et des détails supplémentaires sur le produit, consultez la page du produit [Syntex SharePoint.](https://aka.ms/sharepointsyntex)
 
@@ -58,13 +59,13 @@ Le tableau suivant répertorie les principales fonctionnalités Syntex disponibl
 | [Compréhension de document](sharepoint-syntex-features.md#document-understanding) | Oui | Oui | Oui |
 | [Traitement des formulaires](sharepoint-syntex-features.md#form-processing) | Oui | Oui | Oui |
 | [Connecteurs de contenu Microsoft Graph](sharepoint-syntex-features.md#microsoft-graph-content-connectors) | Oui | Oui | Oui |
-| [Services de taxonomie avancés](sharepoint-syntex-features.md#advanced-taxonomy-services) | Oui | Oui | Oui |
+| [Services de taxonomie avancée](sharepoint-syntex-features.md#advanced-taxonomy-services) | Oui | Oui | Oui |
 
 ## <a name="learn-more"></a>En savoir plus
 
 Pour plus d’informations sur Syntex, consultez les ressources suivantes :
 
-  - Pour commencer la planification de votre déploiement Syntex, visitez la [page SharePoint Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) dans le Centre de ressources de la communauté technique Microsoft.
+  - Pour commencer à planifier votre déploiement Syntex, visitez la [page SharePoint Syntex](https://resources.techcommunity.microsoft.com/sharepoint-syntex/) dans le Centre de ressources de la communauté technique Microsoft.
 
   - Pour en savoir plus sur Syntex et comment l’utiliser, consultez la documentation du produit [Syntex SharePoint.](/microsoft-365/contentunderstanding/)
 
@@ -72,7 +73,7 @@ Pour plus d’informations sur Syntex, consultez les ressources suivantes :
 
 ### <a name="licensing-terms"></a>Termes du contrat de licence
 
-Syntex est disponible en tant que module de développement basé sur l’utilisateur pour les plans Microsoft 365. Pour vous inscrire à une version d’évaluation gratuite ou acheter Syntex, visitez la page du produit [Syntex SharePoint.](https://aka.ms/sharepointsyntex)
+Syntex est disponible en tant que module de développement basé sur l’utilisateur pour les plans Microsoft 365. Pour vous inscrire à une version d’évaluation gratuite ou acheter Syntex, visitez la page du produit [SharePoint Syntex.](https://aka.ms/sharepointsyntex)
 
 Pour obtenir les termes et conditions de licence des produits et services achetés via les programmes de licence en volume commerciaux Microsoft, consultez le [site Termes du produit.](https://www.microsoft.com/licensing/terms/)
 

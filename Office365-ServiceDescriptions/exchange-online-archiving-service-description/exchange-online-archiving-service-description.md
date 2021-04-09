@@ -2,6 +2,7 @@
 title: Description du service d’archivage Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Lisez cet article pour en savoir plus sur Microsoft Exchange Online’archivage.
-ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 1dcd594017f4699bbccdd29c109269bc9dea7875
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215767"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653076"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Description du service d’archivage Exchange Online
 
@@ -26,7 +27,7 @@ Microsoft Exchange Online Archiving est une solution d’archivage microsoft 365
   
 En tant que service en ligne Microsoft, l'archivage Exchange Online est conçu pour aider à répondre aux besoins grandissants de sécurité, de fiabilité et de productivité des utilisateurs. Pour plus d’informations sur Microsoft 365, y compris sur les fonctionnalités communes à tous les services en ligne Microsoft, voir la description du service de plateforme [Microsoft 365 et Office 365.](../office-365-platform-service-description/office-365-platform-service-description.md)
   
-Pour acheter Archivage Exchange Online, [voir Archivage Exchange Online pour le serveur.](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)
+Pour acheter Archivage Exchange Online, voir [Archivage Exchange Online pour le serveur.](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)
   
 ## <a name="available-plans"></a>Plans disponibles
 
@@ -66,7 +67,7 @@ Chaque utilisateur qui accède au service d'Archivage Exchange Online doit poss�
   
 ## <a name="unlimited-archive-storage-quota"></a>Quota de stockage d’archive illimité
 
- La fonctionnalité d'archivage illimité (appelée *archivage à extension automatique*) fournit un espace de stockage supplémentaire dans les boîtes aux lettres d'archivage. Au départ, chaque abonné à l’archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d’archivage. Lorsque l’archivage à extension automatique est allumé, un espace de stockage supplémentaire est automatiquement ajouté lorsque la capacité de stockage de 100 Go est atteinte. Dans les déploiements hybrides Exchange, l’archivage à extension automatique est uniquement pris en charge pour les boîtes aux lettres d’archivage informatiques lorsque la boîte aux lettres de l’utilisateur local réside sur Exchange Server 2019, Exchange Server 2016 ou Exchange Server 2013 (SP1 ou version ultérieure). Pour plus d’informations, voir [Vue d’ensemble d’un archivage illimité](/office365/securitycompliance/unlimited-archiving).
+ La fonctionnalité d'archivage illimité (appelée *archivage à extension automatique*) fournit un espace de stockage supplémentaire dans les boîtes aux lettres d'archivage. Au départ, chaque abonné à l’archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d’archivage. Lorsque l’archivage à extension automatique est allumé, un espace de stockage supplémentaire est automatiquement ajouté lorsque la capacité de stockage de 100 Go est atteinte. Dans les déploiements hybrides Exchange, l’archivage à extension automatique n’est pris en charge que pour les boîtes aux lettres d’archivage informatiques lorsque la boîte aux lettres de l’utilisateur local réside sur Exchange Server 2019, Exchange Server 2016 ou Exchange Server 2013 (SP1 ou version ultérieure). Pour plus d’informations, voir [Vue d’ensemble d’un archivage illimité](/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Les administrateurs ne peuvent pas ajuster le quota de stockage.<br/>

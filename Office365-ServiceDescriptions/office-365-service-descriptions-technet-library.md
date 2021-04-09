@@ -2,6 +2,7 @@
 title: Descriptions des services Microsoft 365 et Office 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 et Office 365 sont des services informatiques conçus pour répondre aux besoins de sécurité, de fiabilité et de productivité robustes de votre organisation.
-ms.openlocfilehash: 79b4eaf46edf1e43d8e350e7da2ac044dc5f0526
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 7a51d0914774455ad6f78bbd362633a48094ebf3
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172769"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652388"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descriptions des services Microsoft 365 et Office 365 
 

@@ -2,6 +2,7 @@
 title: Gestion des tâches
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,25 +11,25 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
-ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project Online.
+ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131068"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651059"
 ---
 # <a name="task-management"></a>Gestion des tâches
 
-Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project online.
+Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la rubrique [Description du service Project Online](project-online-service-description.md).
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
 Lorsque vous désactivez une tâche, elle reste dans le plan du projet mais n'a aucune incidence sur les éléments suivants : la disponibilité des ressources, le planning du projet ou la planification des autres tâches. Pour en savoir plus, consultez la rubrique [Désactiver une tâche](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
-## <a name="auto-complete"></a>Saisie semi-automatique
+## <a name="auto-complete"></a>Mise à l’complet automatique
 
 Obtenez des suggestions pour les noms des tâches ou des ressources lorsque vous les saisissez. 
   
@@ -48,7 +49,7 @@ Un chemin critique représente la série de tâches qui doivent être accomplies
 
 Affichez les facteurs qui influent sur la planification d’une tâche, tels que la modification de la date de début ou les messages d’erreur.
   
-## <a name="task-path-analysis"></a>Analyse du chemin des tâches
+## <a name="task-path-analysis"></a>Analyse du chemin d’accès aux tâches
 
 Visualisez la façon dont une tâche est associée à d'autres en surlignant la séquence des tâches tout au long du projet. Pour en savoir plus, consultez la rubrique relative à la [mise en évidence des liens entre les tâches](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
@@ -66,5 +67,5 @@ Utilisez le mode de planification manuelle pour planifier des tâches manuelleme
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, voir [Project Online Service Description](project-online-service-description.md).
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [la description du service Project Online.](project-online-service-description.md)
   

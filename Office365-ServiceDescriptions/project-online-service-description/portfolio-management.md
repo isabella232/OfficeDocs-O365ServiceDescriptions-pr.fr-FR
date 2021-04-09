@@ -2,6 +2,7 @@
 title: Gestion de portefeuille
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Les fonctionnalités de gestion de portefeuille suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: ef0f670e890a364ac4e85cc6cf79ff979e8a52db
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 1554659494a6ad6afbeb35690deee61346bf6e55
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172689"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652278"
 ---
 # <a name="portfolio-management"></a>La gestion de portefeuille
 
@@ -32,7 +33,7 @@ Créez des projets de différentes manières. Pour plus d'informations, voir [Cr
   
 ## <a name="enterprise-resource-management"></a>Gestion des ressources d’entreprise
 
-Les ressources sont les personnes, le matériel ou les coûts nécessaires à la réalisation de votre projet. Les solutions de gestion de portefeuille de projets Microsoft permettent aux responsables de ressources de gérer la réserve de ressources, de planifier la capacité des ressources et d’approuver, rejeter et modifier les demandes d’engagement de ressources entrantes. Pour plus d’informations, voir [Ajouter une ressource à Project Web App.](https://go.microsoft.com/fwlink/p/?LinkId=271320)
+Les ressources sont les personnes, le matériel ou les coûts nécessaires à la réalisation de votre projet. Les solutions de gestion de portefeuille de projets Microsoft permettent aux responsables de ressources de gérer la réserve de ressources, de planifier la capacité des ressources et d’approuver, rejeter et modifier les demandes d’engagement des ressources entrantes. Pour plus d’informations, voir [Ajouter une ressource à Project Web App.](https://go.microsoft.com/fwlink/p/?LinkId=271320)
   
 ## <a name="financial-management"></a>Gestion financière
 

@@ -2,6 +2,7 @@
 title: Fonctionnalités de conformité et de sécurité dans Archivage Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: Lisez cet article pour en savoir plus sur les fonctionnalités de conformité disponibles dans Microsoft Exchange Online’archivage.
-ms.openlocfilehash: db2a6c515e5d438dce98a9a14d880ea40c25f505
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 0d424823116dd670c81628eaf85d1d553fdb5b8e
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173309"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653086"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans Archivage Exchange Online
 
@@ -88,7 +89,7 @@ Les sections suivantes décrivent les fonctionnalités de sécurité de Microsof
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Chiffrement entre serveurs sur site et archivage Exchange Online
 
-TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pour aider à prévenir l'usurpation et assurer la confidentialité des messages en transit. TLS est également utilisé pour sécuriser le trafic du serveur de messagerie local vers les centres de données Microsoft pour les Archivage Exchange Online.
+TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pour aider à prévenir l'usurpation et assurer la confidentialité des messages en transit. TLS est également utilisé pour sécuriser le trafic du serveur de messagerie local vers les centres de données Microsoft pour Archivage Exchange Online.
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Chiffrement entre clients et archivage Exchange Online
 

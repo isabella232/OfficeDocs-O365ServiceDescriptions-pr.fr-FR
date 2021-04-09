@@ -2,6 +2,7 @@
 title: Description du service Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Découvrez quelles fonctionnalités sont disponibles dans les différents plans Yammer plan.
-ms.openlocfilehash: a09ab0e57d5f79355b5e89f22362a6647b285fca
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 1224a348663b8a0244e599f28e617255f71b870a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726729"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653506"
 ---
 # <a name="yammer-service-description"></a>Description du service Yammer
 
@@ -28,7 +29,7 @@ Pour obtenir des informations détaillées sur les abonnements qui permettent au
   
 ## <a name="system-requirements"></a>Configuration requise
 
-Pour les exigences système d’Office 365, le service basé sur un abonnement mensuel disponible pour les entreprises, l’éducation et le secteur public, consultez [Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG)et les ressources Office.
+Pour les exigences système d’Office 365, le service basé sur un abonnement mensuel disponible pour les entreprises, l’éducation et les organisations gouvernementales, consultez [Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG)et les ressources Office.
   
 ## <a name="yammer-plans"></a>Plans Yammer
 
@@ -55,7 +56,7 @@ Le choix des canaux de communication dépend de l'impact :<br><br>
   
 | Type de modification | Canal de communication |
 |:-----|:-----|
-|**Modifications nécessitant une action (planifier la modification)** <br/>L’administrateur doit apporter des modifications pour maintenir le service en cours d’exécution, mises à jour qui peuvent avoir un impact sur la conformité de votre organisation  <br/> |- Courriers électroniques du Centre de messages Office 365 Yammer administrateurs vérifiés <br/>- Feuille de route Microsoft 365<br/>- mises à jour Yammer service de mise à jour<br/>- Groupe externe<br/>Avec les modifications qui concernent un ensemble d’utilisateurs ciblé, nous pouvons également informer ces utilisateurs directement. |
+|**Modifications nécessitant une action (planifier la modification)** <br/>L’administrateur doit apporter des modifications pour maintenir le service en cours d’exécution, mises à jour qui peuvent avoir un impact sur la conformité de votre organisation  <br/> |- Courriers électroniques du Centre de messages Office 365 Yammer aux administrateurs vérifiés <br/>- Feuille de route Microsoft 365<br/>- mises à jour Yammer service de mise à jour<br/>- Groupe externe<br/>Avec les modifications qui concernent un ensemble d’utilisateurs ciblé, nous pouvons également informer ces utilisateurs directement. |
 |**Modifications nécessitant une sensibilisation (rester informé)**<br/>Modifications qui ne nécessitent pas d’action de l’administrateur, modifications de conception visuelle  <br/> |- Centre de messages Office 365<br/>- Feuille de route Microsoft 365<br/>- mises à jour Yammer service de mise à jour<br/>- Groupe externe<br/>Avec les modifications qui concernent un ensemble d’utilisateurs ciblé, nous pouvons également informer ces utilisateurs directement. |
 |**Non critique** <br/>Modifications qui ne sont pas critiques et qui ne nécessitent pas d’action ou de sensibilisation, même si elles peuvent être observables par certains utilisateurs  <br/> |Ne seront pas communiquées largement. |
    

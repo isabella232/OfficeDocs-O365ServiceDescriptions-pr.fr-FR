@@ -2,6 +2,7 @@
 title: User account management
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft prend en charge les méthodes suivantes pour créer, gérer et authentifier des utilisateurs.
-ms.openlocfilehash: 31fe2a1df472b6fc22df5cb7ff29b8658519cbc7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 16c12692107e789692b28351eed7dae5b32b18d9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172779"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652408"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -41,7 +42,7 @@ Microsoft dispose de deux systèmes qui peuvent être utilisés pour les identit
   
 - Compte scolaire ou professionnels **(identité cloud)** : les utilisateurs reçoivent les informations d’identification du cloud Azure Active Directory (distinctes des autres informations d’identification de bureau ou d’entreprise) pour se connexion aux services cloud de Microsoft. Il s'agit de l'identité par défaut, recommandée afin de minimiser la complexité du déploiement. Les mots de passe des comptes professionnels ou scolaires respectent la stratégie de mots de passe Azure Active Directory [stratégie de mot de passe](/previous-versions/azure/jj943764(v=azure.100)).
     
-- Compte fédéré **(identité** fédérée) : pour tous les abonnements dans les organisations avec Active Directory local qui utilisent l' sign-on unique (SSO), les utilisateurs peuvent se connectent aux services Microsoft à l’aide de leurs informations d’identification Active Directory. Active Directory d'entreprise stocke et commande la stratégie de mot de passe. Pour plus d'informations sur l'authentification unique, voir [Feuille de route pour l'authentification unique](/previous-versions/azure/azure-services/hh967643(v=azure.100)).
+- Compte fédéré **(identité** fédérée) : pour tous les abonnements dans les organisations avec Active Directory local qui utilisent l' sign-on unique (SSO), les utilisateurs peuvent se connecter aux services Microsoft à l’aide de leurs informations d’identification Active Directory. Active Directory d'entreprise stocke et commande la stratégie de mot de passe. Pour plus d'informations sur l'authentification unique, voir [Feuille de route pour l'authentification unique](/previous-versions/azure/azure-services/hh967643(v=azure.100)).
     
 Le type d'identité affecte non seulement l'expérience utilisateur et les options de gestion du compte utilisateur, mais également les conditions requises en termes de matériels et de logiciels et d'autres considérations concernant le déploiement.
   
@@ -81,7 +82,7 @@ Pour les clients riches comme des applications de bureau Microsoft Office, l'aut
   
 - **assistant Microsoft Online Services Sign-In** - L’Assistant De se connectez, qui est installé par le programme d’installation de bureau, contient un service client qui obtient un jeton de service du service de signature et le renvoie au client riche. 
     
-  - Si vous avez une identité cloud, vous recevez une invite d’informations d’identification que le service client envoie au service de connexion pour authentification (à l’aide de WS-Trust).
+  - Si vous avez une identité cloud, vous recevez un message d’identification que le service client envoie au service de connexion pour l’authentification (à l’aide de WS-Trust).
     
   - Si vous avez une identité fédérée, le service client contacte d’abord le serveur AD FS 2.0 pour authentifier les informations d’identification (à l’aide de Kerberos ou NTLMv2) et obtenir un jeton de connexion qui est envoyé au service de connexion (à l’aide de WS-Federation et WS-Trust).
     
@@ -181,7 +182,7 @@ Des partenaires peuvent être autorisés à administrer des comptes pour le comp
   
 ## <a name="azure-active-directory-services"></a>Services Azure Active Directory
 
-Azure Active Directory apporte à Office 365 des fonctionnalités complètes de gestion des identités et des accès. Il combine des services d'annuaire, une gouvernance des identités avancée, une gestion d'accès aux applications et une plateforme complète basée sur des normes pour les développeurs. Pour en savoir plus sur les fonctionnalités AD d’Office 365, consultez La marque de page de signature et la réinitialisation du mot de passe en [libre-service de l’utilisateur]() https://go.microsoft.com/fwlink/?linkid=2144147 cloud. En savoir plus sur les [éditions gratuite, de base et Premium d'Azure Active Directory](/previous-versions/azure/dn532272(v=azure.100)). 
+Azure Active Directory apporte à Office 365 des fonctionnalités complètes de gestion des identités et des accès. Il combine des services d'annuaire, une gouvernance des identités avancée, une gestion d'accès aux applications et une plateforme complète basée sur des normes pour les développeurs. Pour en savoir plus sur les fonctionnalités AD dans Office 365, consultez La marque de page de signature et la réinitialisation du mot de passe en [libre-service de l’utilisateur]() https://go.microsoft.com/fwlink/?linkid=2144147 cloud. En savoir plus sur les [éditions gratuite, de base et Premium d'Azure Active Directory](/previous-versions/azure/dn532272(v=azure.100)). 
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

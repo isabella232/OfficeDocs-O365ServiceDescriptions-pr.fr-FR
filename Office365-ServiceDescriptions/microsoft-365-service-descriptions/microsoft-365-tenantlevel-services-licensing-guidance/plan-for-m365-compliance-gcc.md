@@ -2,18 +2,19 @@
 title: Plan de conformité de Microsoft 365 – GCC
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Ces conseils sont adaptés aux professionnels de l’informatique qui déploient Office 365 dans des entités gouvernementales fédérales, gouvernementales, locales, y siègent ou américaines, ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Pour le gouvernement - GCC est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 702ed14de312588aee1cad6094683fcada2333bc
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+description: Ces conseils sont adaptés aux professionnels de l’informatique qui déploient Office 365 dans des entités gouvernementales fédérales, gouvernementales, locales, locales ou gouvernementales américaines ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Pour le gouvernement - GCC est appropriée pour répondre à ces exigences.
+ms.openlocfilehash: cf5a5caa5cf0793141e7498006aff1224fbcc659
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173509"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652628"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité Microsoft 365 : GCC
 
@@ -56,7 +57,7 @@ Après avoir décidé que ce service est le bon pour votre organisation, démarr
 
 ## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>Étape 3. Comprendre Microsoft 365 Pour le gouvernement - Paramètres de sécurité gcc par défaut
 
-Nous vous recommandons de prendre le temps d’examiner attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
+Nous vous recommandons de prendre le temps de consulter attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
 
 **Point de** décision : déterminez si vous allez modifier l’un des paramètres de sécurité Microsoft 365 Pour le gouvernement de Microsoft 365 par défaut - GCC, en résolvant *d’abord l’impact* des modifications que vous pourriez apporter.
 
@@ -90,9 +91,9 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Gouvernance des informations : importer PST                      | Available              |
 |                                         | Gouvernance des informations : étiquettes de rétention non-enregistrement manuelles            | Available |
 |                                         | Gouvernance des informations : étiquettes de rétention par défaut pour SharePoint, les bibliothèques OneDrive Entreprise, les dossiers et les ensembles de documents ; Boîtes de réception Exchange ; et groupes Office 365 | Available              |
-|                                         | Gouvernance des informations : stratégies de rétention pour l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; automatiquement en fonction d’une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; et basé sur un événement                                       | Available              |
+|                                         | Gouvernance des informations : stratégies de rétention pour l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; basées automatiquement sur une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; et basé sur un événement                                       | Available              |
 |                                         | Gouvernance des informations : stratégies de rétention pour Teams                            | Available |
-|                                         | Gouvernance des informations : étiquettes de rétention à l’aide de la classification Syntex SharePoint                            | On engineering backlog |
+|                                         | Gouvernance des informations : étiquettes de rétention à l’aide de la classification syntex SharePoint                            | On engineering backlog |
 |                                         | Gouvernance des informations : stratégies de rétention avec classifieurs entraidables                            | On engineering backlog |
 |                                         | Gouvernance des informations : stratégies de rétention pour l’enregistrement des réunions Teams                            | On engineering backlog |
 |                                         | Gouvernance des informations : stratégies de rétention pour Yammer                            | On engineering backlog |
@@ -105,7 +106,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Gestion des enregistrements : gestion des versions des enregistrements                            | Available |
 |                                         | Gestion des enregistrements : enregistrements réglementaires (prévisualisation publique)                         | En cours de développement |
 |                                         | Gestion des enregistrements : révision de la disposition en plusieurs étapes | On engineering backlog |
-|                                         | Gestion des enregistrements : utiliser la classification Syntex SharePoint pour appliquer des étiquettes d’enregistrement | On engineering backlog |
+|                                         | Gestion des enregistrements : utiliser la classification SharePoint Syntex pour appliquer des étiquettes d’enregistrement | On engineering backlog |
 | **Gestion des risques internes**             | Référentiel sécurisé client                                | Available            |
 |                                         | Gestion des risques internes : indicateurs Office pour Teams, sites SharePoint, messagerie électronique                         | En cours de développement |
 |                                         | Gestion des risques internes : vol de données par des utilisateurs qui quittent le site                        | En cours de développement |
@@ -119,7 +120,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par les utilisateurs prioritaires (aperçu) | On engineering backlog |
 |                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par les utilisateurs non résusés (aperçu) | On engineering backlog |
 |                                         | Gestion des risques internes : modèles de stratégie pour les violations générales de stratégie de sécurité (aperçu) | On engineering backlog |
-|                                         | Gestion des risques internes : modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent l’entreprise, les utilisateurs non régrunts (prévisualisation) | On engineering backlog |
+|                                         | Gestion des risques internes : modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent le programme, les utilisateurs non régrunts (prévisualisation) | On engineering backlog |
 |                                         | Gestion des risques internes : personnalisation des stratégies (prévisualisation) | On engineering backlog |
 |                                         | Gestion des risques internes : exporter des alertes (aperçu) | On engineering backlog |
 |                                         | Gestion des risques internes : groupes d’utilisateurs prioritaires (prévisualisation) | On engineering backlog |
@@ -127,7 +128,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Conformité des communications (incl. stratégies de surveillance) : prise en charge de Teams, Exchange et suppression du message Teams | En cours de déploiement |
 |                                         | Conformité des communications (incl. stratégies de surveillance) : alertes d’accès ; modèles de notification ; tableau de bord de stratégie de communication | En cours de déploiement  |
 |                                         | Conformité des communications (incl. stratégies de surveillance) : escalade pour examen pour Advanced eDiscovery | En cours de déploiement |
-|                                         | Conformité des communications (incl. stratégies de surveillance) : détecter le contenu adulte | En cours de déploiement |
+|                                         | Conformité des communications (incl. stratégies de surveillance) : détecter le contenu pour adultes | En cours de déploiement |
 |                                         | Conformité des communications : détecte les violations répétées de code de conduite au fil du temps | En cours de déploiement |
 |                                         | Conformité des communications : prise en charge des autorisations plus granulaires | En cours de déploiement |
 |                                         | Conformité des communications : analyser les données de conversation Teams des utilisateurs avec une boîte aux lettres sur site | En cours de déploiement |
@@ -170,7 +171,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Advanced eDiscovery : visionneuses                              | Available |
 |                                         | Advanced eDiscovery : Yammer advanced eDiscovery dans le Centre de conformité Microsoft                              | Available |
 |                                         | Découverte électronique avancée : prise en charge étendue du Centre de conformité Microsoft pour rechercher et exporter des éléments dans la Corbeille SharePoint et OneDrive Entreprise                              | En cours de développement |
-|                                         | Advanced eDiscovery : prise en charge des réactions teams                              | En cours de développement |
+|                                         | Découverte électronique avancée : prise en charge des réactions teams                              | En cours de développement |
 |                                         | Audit de base                              | Available |
 |                                         | Audit avancé : accès à des événements essentiels (par exemple, mailitemsaccessed)                              | Available |
 |                                         | Audit avancé : augmentation de la bande passante pour l’API activité de gestion                              | Available |

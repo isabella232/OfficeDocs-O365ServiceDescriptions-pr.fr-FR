@@ -2,6 +2,7 @@
 title: Options des plans Microsoft 365 et Office 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,18 +16,18 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation.
-ms.openlocfilehash: 9ef5b54b96e9c75e76f3327b6b8f511a71818c97
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 1adcb5aaf9584889299e38943cc0355c0a82caed
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174019"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653486"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Options des plans Microsoft 365 et Office 365
 
 Microsoft 365 et Office 365 sont disponibles dans différents plans pour répondre au mieux aux besoins de votre organisation.
   
-## <a name="service-families-and-plans"></a>Familles et plans de service
+## <a name="service-families-and-plans"></a>Familles et plans de services
 
 Le tableau suivant répertorie les différentes familles de services et plans disponibles dans Microsoft 365 et Office 365. Pour une vue d’ensemble des fonctionnalités et des informations tarifaires, ou pour discuter avec un représentant en ligne, sélectionnez l’un des liens dans la colonne Plans.<br><br>
   

@@ -2,6 +2,7 @@
 title: Services de base
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Les fonctionnalités de services principaux suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: 4816f9e21cfe44f4a75b9366b347bfd820303fc2
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 685c14a18af853c206bb9db0aaa294b7f96b1dfe
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174129"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652288"
 ---
 # <a name="core-services-functionality"></a>Services de base
 
@@ -52,7 +53,7 @@ Nous nous engageons à assurer une activité de 99,9 % avec une garantie financi
   
 ## <a name="service-updates"></a>Mises à jour du service
 
-Nous mettez régulièrement à jour les services Microsoft avec de nouvelles fonctionnalités. Consultez [les mises à jour de service.](../office-365-platform-service-description/service-updates.md)
+Nous mettez régulièrement à jour les services Microsoft avec de nouvelles fonctionnalités. Voir [les mises à jour de service.](../office-365-platform-service-description/service-updates.md)
   
 ## <a name="team-member-collaboration"></a>Collaboration des membres de l’équipe
 

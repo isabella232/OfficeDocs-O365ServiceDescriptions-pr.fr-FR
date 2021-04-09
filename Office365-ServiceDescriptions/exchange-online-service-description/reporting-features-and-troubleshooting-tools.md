@@ -2,6 +2,7 @@
 title: Fonctions de rapport et outils de dépannage
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre une variété de fonctionnalités de rapport à la fois dans le Centre d’administration Exchange (EAC) et en dehors de celui-ci.
-ms.openlocfilehash: 45eab90643f2abcbed7a2a791845284aa599e044
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173359"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652688"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Fonctions de rapport et outils de dépannage
 
@@ -32,7 +33,7 @@ La page Rapports du Centre d’administration Microsoft 365 fournit des informat
   
 En outre, la page Rapports du Centre d’administration Microsoft 365 contient des rapports de données de messagerie, qui fournissent des informations sur le trafic des messages, les détections de courrier indésirable et de programmes malveillants, ainsi que les messages affectés par les règles de transport Exchange ou les stratégies de protection contre la perte de données (DLP). Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une utilisation interactive des rapports aux administrateurs Exchange Online. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
   
-Pour plus d’informations sur les rapports disponibles pour chaque abonnement, voir [Rapports.](../office-365-platform-service-description/reports.md) Pour plus d’informations sur la page Rapports dans le Centre d’administration Microsoft 365, voir Afficher et télécharger des rapports sur l’utilisation des services dans [Office 365](/microsoft-365/admin/activity-reports/activity-reports) et utiliser les rapports de protection de messagerie pour afficher les données sur les programmes [malveillants,](/exchange/monitoring/use-mail-protection-reports)le courrier indésirable et les détections de règles.
+Pour plus d’informations sur les rapports disponibles avec chaque abonnement, voir [Rapports.](../office-365-platform-service-description/reports.md) Pour plus d’informations sur la page Rapports dans le Centre d’administration Microsoft 365, voir Afficher et télécharger des rapports sur l’utilisation des services dans [Office 365](/microsoft-365/admin/activity-reports/activity-reports) et utiliser les rapports de protection de messagerie pour afficher des données sur les programmes [malveillants,](/exchange/monitoring/use-mail-protection-reports)le courrier indésirable et les détections de règles.
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Rapports utilisant le classeur de rapports Excel
 
@@ -40,7 +41,7 @@ Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher
   
 ### <a name="reporting-using-web-services"></a>Création de rapports à l’aide de services web
 
-L’accès à des rapports récapitulatifs et détaillés sur les boîtes aux lettres, les groupes et les données de messagerie est disponible à l’aide du service web rest/OData Tenant Reporting, qui est une interface programmatique qui vous permet de créer des rapports personnalisés. Pour plus d’informations, consultez les services web de rapports [Office 365.](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))
+L’accès à des rapports récapitulatifs et détaillés sur les boîtes aux lettres, les groupes et les données de messagerie est disponible à l’aide du service web rest/OData Tenant Reporting, qui est une interface programmatique qui vous permet de créer des rapports personnalisés. Pour plus d’informations, voir services web de rapports [Office 365.](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Fonctionnalités de reporting et outils de dépannage dans le Centre d'Administration Exchange
 

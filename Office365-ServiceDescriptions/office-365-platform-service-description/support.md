@@ -2,6 +2,7 @@
 title: Prise en charge
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Avec chaque abonnement Microsoft Office 365 pour les entreprises, les entreprises, l’éducation et le secteur public, le support Microsoft fournit un support technique global, avant-vente, facturation et abonnement. Le support est disponible à la fois en ligne via le Centre d’administration Microsoft 365 et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir Options de support Microsoft.
-ms.openlocfilehash: f2279db8689f30d6906f33d6c2531ddfb4223784
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c43658f47d2dc2644228d3b4cb87396757137428
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172789"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652428"
 ---
-# <a name="support"></a>Assistance
+# <a name="support"></a>Support
 
 Avec chaque abonnement Microsoft Office 365 pour les entreprises, les entreprises, l’éducation et le secteur public, le support Microsoft fournit un support technique global, avant-vente, facturation et abonnement. Le support est disponible à la fois en ligne via le Centre d’administration Microsoft 365 et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir [Options de support Microsoft.](/Office365/Admin/contact-support-for-business-products)
   
@@ -66,7 +67,7 @@ Le support technique pour les abonnements Microsoft 365 fournit une assistance a
 > [!NOTE]
 > Vous pouvez apprendre à contacter le support technique ici : Contactez le support [Microsoft 365 pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
 >
-> Le support technique n’inclut pas le dépannage des services ou des modules de prise en charge tiers. Découvrez comment trouver des réponses d’autres clients de [la communauté Microsoft.](https://answers.microsoft.com)
+> Le support technique n’inclut pas la résolution des problèmes de services ou de modules de prise en charge tiers. Découvrez comment trouver des réponses d’autres clients de [la communauté Microsoft.](https://answers.microsoft.com)
   
 ### <a name="technical-support-case-handling"></a>Gestion des incidents d’assistance technique
 
@@ -92,7 +93,7 @@ Le temps de réponse initial est basé sur les niveaux de gravité décrits ci-d
 > <sup>1 Les</sup> plans d’entreprise incluent la prise en charge des heures d’ouverture pour tous les problèmes non critiques et le support téléphonique 24 h/24 et 7 j/7 de Microsoft.<br/>
 > <sup>2</sup> Les plans Entreprise incluent une prise en charge téléphonique 24 h/24 et 7 j/7 de Microsoft pour tous les problèmes.<br/>
 > <sup>3 Pour</sup> obtenir des descriptions des options de prise en charge élevées, voir [Options de support supplémentaires.](support.md#additional-support-options)<br/>
-> <sup>4 Les</sup> appels et les demandes de service sont traités 24 heures sur 24, 7 jours sur 7 dans la plupart des pays et régions.
+> <sup>4 Les appels</sup> et les demandes de service sont traités 24 heures sur 24, 7 jours sur 7 dans la plupart des pays et régions.
   
 ### <a name="support-for-standalone-plans"></a>Assistance pour les plans autonomes
 
@@ -170,7 +171,7 @@ Plusieurs types de services d'assistance supplémentaires sont disponibles :
   
 - Pour connaître les options de grands clients professionnels recherchant une assistance complète pour leur migration vers Office 365, consultez les [Services Microsoft pour Office 365](https://www.microsoft.com/microsoftservices/cloud-productivity.aspx).
 
-- Pour obtenir des options pour les grandes entreprises qui recherchent un service de support géré qui couvre les technologies Microsoft et sur site requises pour accéder au service en ligne, consultez le support [Premier.](https://www.microsoft.com/enterprise/services/support)
+- Pour obtenir des options pour les grandes entreprises qui recherchent un service de support géré qui couvre à la fois Microsoft et les technologies sur site requises pour accéder au service en ligne, voir [Premier Support](https://www.microsoft.com/enterprise/services/support).
 
 - Afin de connaître les options disponibles pour les entreprises clientes plus petites aux États-Unis, au Canada et au Royaume-Uni, consultez la page [Aide et Support](https://support.microsoft.com/help/4341255/support-for-business).
 
@@ -180,7 +181,7 @@ Vous pouvez sélectionner un partenaire Microsoft et déléguer des fonctions ad
   
 ### <a name="developers"></a>Développeurs
 
-Les développeurs peuvent en savoir plus sur le développement d’applications Office et SharePoint sur [MSDN Microsoft Developer Network.](https://developer.microsoft.com/office/docs) Le support pour les développeurs est disponible via les blogs et forums en ligne de la communauté des développeurs, via les ressources de support Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers les options du support technique pour les développeurs, voir [Ressources de support.](https://developer.microsoft.com/office/docs)
+Les développeurs peuvent en savoir plus sur le développement d’applications Office et SharePoint sur [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs). Le support pour les développeurs est disponible via les blogs et forums en ligne de la communauté des développeurs, via les ressources de support Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers les options du support technique pour les développeurs, voir [Ressources de support.](https://developer.microsoft.com/office/docs)
   
 > [!NOTE]
 > L’équipe Microsoft ne prend pas en charge les scripts (par exemple, les techniques de script telles que JavaScript, VBScript, et ainsi de suite, ou VBA). Si vous avez besoin d'aide avec des scripts, contactez l'[assistance Microsoft](https://support.microsoft.com/). Pour la prise en charge de l’utilisation des applications Office, voir Les options de support [pour Microsoft Office problèmes d’application pour les abonnés.](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)

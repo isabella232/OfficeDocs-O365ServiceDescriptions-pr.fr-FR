@@ -2,6 +2,7 @@
 title: Description du service Microsoft Defender pour Office 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,16 +12,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender pour Office 365 est un service de filtrage du courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les virus et les programmes malveillants inconnus en offrant une protection zero-day robuste et inclut des fonctionnalités pour protéger votre organisation contre les liens dangereux en temps réel.
-ms.openlocfilehash: c736ac7c107c91c720737c569a3e41fe5bb0c98f
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 16d9b5ac54513493c0438009ff772df3073d0dd0
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173009"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653416"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Description du service Microsoft Defender pour Office 365
 
-Microsoft Defender pour Office 365 est un service de filtrage du courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les programmes malveillants et les virus inconnus en offrant une protection zero-day robuste et inclut des fonctionnalités pour protéger votre organisation contre les liens dangereux en temps réel. Defender pour Office 365 offre de riches fonctionnalités de suivi d’URL et de rapports qui donnent aux administrateurs des informations sur le type d’attaques qui se produisent dans votre organisation.
+Microsoft Defender pour Office 365 est un service de filtrage du courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les virus et les programmes malveillants inconnus en offrant une protection zero-day robuste et inclut des fonctionnalités pour protéger votre organisation contre les liens dangereux en temps réel. Defender pour Office 365 offre de riches fonctionnalités de suivi d’URL et de rapports qui donnent aux administrateurs des informations sur le type d’attaques qui se produisent dans votre organisation.
 
 Les principaux moyens d’utiliser Defender pour Office 365 pour la protection des messages sont les suivants :
 
@@ -50,9 +51,9 @@ Vous pouvez ajouter Defender pour Office 365 aux plans d’abonnement Exchange e
 
 - Office 365 Entreprise E1
 
-- Office 365 Entreprise E3
+- Office 365 Entreprise E3
 
-- Office 365 Entreprise F3
+- Office 365 Entreprise F3
 
 - Office 365 A1
 
@@ -154,11 +155,11 @@ Ce qu'il faut savoir avant de commencer
 
 ### <a name="anti-phishing-policies"></a>Politiques anti-hameçonnage
 
-[L’anti-hameçonnage recherche](/microsoft-365/security/office-365-security/atp-anti-phishing) dans les messages entrants les indicateurs qu’un message peut être une tentative d’hameçonnage. Lorsque les utilisateurs sont couverts par les stratégies De Defender pour Office 365 (pièces jointes sécurisées, liens sécurisés ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise, en fonction des stratégies configurées.
+[L’anti-hameçonnage recherche](/microsoft-365/security/office-365-security/atp-anti-phishing) dans les messages entrants les indicateurs qu’un message peut être une tentative d’hameçonnage. Lorsque les utilisateurs sont couverts par les stratégies de Defender pour Office 365 (pièces jointes sécurisées, liens sécurisés ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise, en fonction des stratégies configurées.
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
-Les fonctionnalités de surveillance disponibles dans le Centre de sécurité & conformité ( ) incluent des rapports et des informations en temps réel qui donnent à vos administrateurs de sécurité et de conformité la possibilité de se concentrer sur les problèmes prioritaires, tels que les attaques de sécurité ou l’augmentation des activités [https://protection.office.com](https://protection.office.com) suspectes. [](/microsoft-365/security/office-365-security/view-reports-for-atp) Outre la mise en évidence des problèmes, les rapports intelligents et les informations incluent des recommandations et des liens pour afficher et explorer des données et prendre des mesures rapides.
+Les fonctionnalités de surveillance disponibles dans le Centre de sécurité & conformité ( ) incluent des rapports et des informations en temps réel qui donnent à vos administrateurs de sécurité et de conformité la possibilité de se concentrer sur les problèmes prioritaires, tels que les attaques de sécurité ou l’augmentation des activités [https://protection.office.com](https://protection.office.com) suspectes. [](/microsoft-365/security/office-365-security/view-reports-for-atp) Outre la mise en évidence des problèmes, des rapports intelligents et des informations incluent des recommandations et des liens pour afficher et explorer des données et prendre des mesures rapides.
 
 ### <a name="explorer"></a>Explorer
 

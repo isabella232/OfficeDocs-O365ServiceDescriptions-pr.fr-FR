@@ -2,28 +2,29 @@
 title: Exchange Online pour les environnements pour le gouvernement américain
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement américain et le cloud commercial, comme indiqué dans la description du service Exchange Online.
-ms.openlocfilehash: 2ecef2aeaa9c216e715f1084be022c5c4d0cce32
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cf1b995f8497ff2249504b195ecaf1b2f7c6f62c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173969"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653286"
 ---
-# <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements pour le gouvernement des États-Unis
+# <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements pour le gouvernement américain
 
 Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la description du [service Exchange Online.](../../exchange-online-service-description/exchange-online-service-description.md) Exchange Online est disponible pour les environnements GCC (Government Community Cloud), GCC High et Department of Defense (DoD).
 
-Pour plus d’informations sur le cloud du gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Secteurs](./microsoft-365-government-how-to-buy.md)Publics - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Pour plus d’informations sur le cloud du gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Secteurs](./microsoft-365-government-how-to-buy.md)Publics - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 Pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
 Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir les points de terminaison [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou Office [365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)points de terminaison .
 
-En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement des États-Unis :
+En plus de profiter des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement américain :
 
 - Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Commerciaux Office 365.
 
@@ -174,7 +175,7 @@ Si vous envisagez d’utiliser le chiffrement de messages Office 365 dans un env
 
 - Lors de l’envoi de messages chiffrés à partir de GCC High ou DoD à des destinataires dans le même environnement :
     
-    - Les expéditeurs peuvent chiffrer manuellement les messages électroniques dans Outlook pour PC et Mac et Outlook sur le web, ou les organisations peuvent configurer une stratégie pour chiffrer les messages électroniques à l’aide de règles de flux de messagerie Exchange.
+    - Les expéditeurs peuvent chiffrer manuellement les e-mails dans Outlook pour PC et Mac et Outlook sur le web, ou les organisations peuvent configurer une stratégie pour chiffrer les messages électroniques à l’aide de règles de flux de messagerie Exchange.
     
     - Les destinataires dans GCC High/DoD bénéficient de la même expérience de lecture en ligne dans Outlook pour PC et Mac et Outlook sur le web que tous les autres utilisateurs d’Office 365.
 
@@ -184,7 +185,7 @@ Si vous envisagez d’utiliser le chiffrement de messages Office 365 dans un env
     
     - Les expéditeurs à l’intérieur de GCC High/DoD peuvent envoyer des messages chiffrés en dehors de la limite GCC High/DoD.
     
-    - Tous les destinataires en dehors de GCC High/DoD, y compris les utilisateurs commerciaux d’Office 365, les utilisateurs Outlook.com et les autres utilisateurs d’autres fournisseurs de messagerie, reçoivent un message électronique de wrapper. Ce message de wrapper redirige le destinataire vers le portail OME où le destinataire peut lire le message et y répondre.
+    - Tous les destinataires en dehors de GCC High/DoD, y compris les utilisateurs commerciaux d’Office 365, les utilisateurs Outlook.com et les autres utilisateurs d’autres fournisseurs de messagerie, reçoivent un message électronique de wrapper. Ce wrapper redirige le destinataire vers le portail OME où le destinataire peut lire le message et y répondre.
 
 Pour plus d’informations et les dernières mises à jour, voir [Comparer les versions d’OME.](/microsoft-365/compliance/ome-version-comparison)
 
@@ -218,7 +219,7 @@ Seuls certains OWA et des add-ins Outlook sont disponibles dans GCC High et DoD.
 |:-----|:-----|:-----|:-----|
 |Plateformes pris en charge|Web, Android, iOS, Mac, Windows|Tous|Web uniquement|
 |Hub M365 prend en charge|Intégrations avec Outlook, Teams, Planificateur|Tous|Outlook, Planificateur (Teams disponible avec l’application tâches Teams)|
-|Wunderlist Migration|Autoriser les utilisateurs wunderlist à migrer des données vers À faire sur le Web|Oui|Non|
+|Wunderlist Migration|Autoriser les utilisateurs wunderlist à migrer des données vers To Do sur le Web|Oui|Non|
 |Notifications Push|Envoyer des notifications Push aux utilisateurs finaux pour les rappels, etc.|Oui|Non|
 |Prise en charge de Helpshift|Utiliser l’interface helpshift pour créer une demande de support|Oui|Non|
 |Mon jour|Planifier votre journée|Oui|Oui|

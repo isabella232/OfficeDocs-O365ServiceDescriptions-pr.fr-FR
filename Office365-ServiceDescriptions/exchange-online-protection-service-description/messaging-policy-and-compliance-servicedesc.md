@@ -2,6 +2,7 @@
 title: Stratégie et conformité de messagerie dans Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Lisez cet article pour en savoir plus sur la stratégie de messagerie et les fonctionnalités de conformité dans Microsoft Exchange Online Protection des données (EOP).
-ms.openlocfilehash: a1ed14ed555adb17801014141a3f66616e17d2e1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173729"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653346"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Stratégie et conformité de messagerie dans Exchange Online Protection
 
@@ -50,7 +51,7 @@ Vous pouvez configurer des stratégies de protection contre la perte de données
 
 - Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. L’empreinte numérique de document vous permet de créer facilement des types d’informations sensibles personnalisés basés sur des formulaires texte que vous pouvez utiliser pour définir des règles de flux de messagerie et des stratégies DLP.
 
-- Ajoutez des conseils de stratégie, qui peuvent aider à réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2013, Outlook sur le web et OWA pour les appareils, et qui peuvent également améliorer l’efficacité de vos stratégies en permettant la signalement de faux positifs.
+- Ajoutez des conseils de stratégie, qui peuvent aider à réduire la perte de données en affichant une notification à vos utilisateurs Outlook 2013, Outlook sur le web et OWA pour périphériques, et qui peuvent également améliorer l’efficacité de vos stratégies en permettant la signalement de faux positifs.
 
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
 
@@ -65,7 +66,7 @@ Le chiffrement de messages Office 365, qui fait partie d’Azure Information Pro
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
 
-| Fonctionnalité | EOP autonome | Fonctionnalités EOP dans <br/> Exchange Online | Exchange Enterprise <br/> CAL avec services |
+| Fonctionnalité | EOP autonome | Fonctionnalités EOP dans <br/> Exchange Online | Exchange Enterprise <br/> CAL avec services |
 |:-----|:-----|:-----|:-----|
 |Règles de flux de messagerie|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1, 3</sup>|
 |Journalisation d'audit|Oui<sup>2</sup>|Oui|Oui|

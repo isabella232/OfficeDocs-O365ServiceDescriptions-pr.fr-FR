@@ -2,6 +2,7 @@
 title: Description du service Microsoft 365 Business Voice
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
@@ -9,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice est un service de add-in qui vous permet d’utiliser Microsoft Teams pour les appels téléphoniques. Cela combine le système téléphonique, le forfait d’appels nationaux, les SMS et l’audioconférence.
-ms.openlocfilehash: 6c9c118b5786a8919f1156e650dbc9a82ddcd590
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e47d794ba1fe2790603908f0e7b9c4a0ef93132c
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173549"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653266"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Description du service Microsoft 365 Business Voice
 
@@ -37,7 +38,7 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec j
 - Microsoft 365 et Office 365 Éducation A1 ou A3
 - Microsoft 365 et Office 365 pour le gouvernement G1 ou G3
 - Microsoft 365 Business Basic pour les associations
-- Microsoft 365 Nonprofit Business Standard
+- Microsoft 365 Business Standard pour les associations
 - Microsoft 365 et Office 365 E1 ou E3 pour les associations
 
 ## <a name="microsoft-365-business-voice-features"></a>Fonctionnalités de Microsoft 365 Business Voice
@@ -46,7 +47,7 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec j
 |--------------------------------------------------------|------------------------------|---------------------------------------------------|
 | Numéros locaux | Oui | Oui<sup>*</sup> |
 | Appel VoIP | Oui | Oui<sup>*</sup> |
-| Les standards automatiques | Oui | Oui<sup>*</sup> |
+| Standardistes automatiques | Oui | Oui<sup>*</sup> |
 | File d’attente d’appels | Oui | Oui<sup>*</sup> |
 | ID de l'appelant | Oui | Oui<sup>*</sup> |
 | Routage des appels | Oui | Oui<sup>*</sup> |
@@ -54,7 +55,7 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec j
 | Appel d’urgence avec emplacement dynamique | Oui | Oui<sup>*</sup> |
 | Messagerie vocale | Oui | Oui<sup>*</sup> |
 | Parcage d'appel | Oui | Oui<sup>*</sup> |
-| Transfert d’appel | Oui | Oui<sup>*</sup> |
+| Renvoi d'appel | Oui | Oui<sup>*</sup> |
 | Délégation d’appel (partage d’une ligne téléphonique avec un délégué) | Oui | Oui<sup>*</sup> |
 | Attente musicale | Oui | Oui<sup>*</sup> |
 | Bloc d’appel | Oui | Oui<sup>*</sup> |

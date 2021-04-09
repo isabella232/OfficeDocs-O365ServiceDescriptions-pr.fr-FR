@@ -2,22 +2,23 @@
 title: Plan de conformité de Microsoft 365 – GCC High
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Ces conseils sont adaptés aux professionnels de l’informatique qui déploient Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Pour le gouvernement – GCC High est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 14c92229fa5ec147ff995d0cebe991cfdce0de70
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+description: Ces conseils sont adaptés aux professionnels de l’informatique qui déploient Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, où l’utilisation de Microsoft 365 Pour le gouvernement – GCC High est appropriée pour répondre à ces exigences.
+ms.openlocfilehash: 016b3596829337cffb2c5a14813c5927f010e432
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173079"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652608"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Planifier la conformité Microsoft 365 : GCC High
 
-Ces conseils sont adaptés aux professionnels de l’informatique qui déploient Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Pour le gouvernement – GCC High est appropriée pour répondre à ces exigences.
+Ces conseils sont adaptés aux professionnels de l’informatique qui déploient Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, où l’utilisation de Microsoft 365 Pour le gouvernement – GCC High est appropriée pour répondre à ces exigences.
 
 > [!NOTE]
 >Si votre organisation a déjà satisfait aux exigences d’éligibilité De Microsoft 365 Pour le gouvernement - GCC Les conditions d’éligibilité élevées ont été appliquées et acceptées dans le programme, vous pouvez ignorer les étapes 1 et 2 et passer directement à l’étape 3.
@@ -31,7 +32,7 @@ L’environnement Microsoft 365 Government - GCC High est conforme aux exigences
 - L’accès au contenu client de votre organisation est limité à des membres du personnel de Microsoft triés sur le volet.
 - Microsoft 365 Pour le gouvernement : GCC High est conforme aux certifications et accréditations requises pour les clients du secteur public américain.
 
-Vous trouverez plus d’informations sur l’offre Microsoft 365 Pour le gouvernement – GCC High pour les clients du gouvernement des États-Unis dans les [plans Office 365](https://products.office.com/government/compare-office-365-government-plans)pour le gouvernement, y compris les conditions d’éligibilité.
+Vous trouverez plus d’informations sur l’offre Microsoft 365 Government – GCC High pour les clients du gouvernement des États-Unis dans les [plans Office 365](https://products.office.com/government/compare-office-365-government-plans)pour le gouvernement, y compris les conditions d’éligibilité.
 
 La [description du service Office 365](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) pour le gouvernement américain décrit les avantages de la plateforme, qui sont centrés sur les exigences de conformité aux États-Unis.
 
@@ -85,7 +86,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Gouvernance des informations : importer PST                      | Available              |
 |                                         | Gouvernance des informations : étiquettes de rétention non-enregistrement manuelles            | Available |
 |                                         | Gouvernance des informations : étiquettes de rétention par défaut pour les bibliothèques, dossiers et ensembles de documents SharePoint/OneDrive Entreprise ; Boîtes de réception Exchange ; et groupes Office 365 | Available              |
-|                                         | Gouvernance des informations : stratégies de rétention pour l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; automatiquement en fonction d’une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; et basé sur un événement                                       | Available              |
+|                                         | Gouvernance des informations : stratégies de rétention pour l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; basées automatiquement sur une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; et basé sur un événement                                       | Available              |
 |                                         | Gouvernance des informations : stratégies de rétention pour Teams                            | On engineering backlog |
 |                                         | Gouvernance des informations : étiquettes de rétention à l’aide de la classification syntex SharePoint                            | On engineering backlog |
 |                                         | Gouvernance des informations : stratégies de rétention avec classifieurs entraidables                            | On engineering backlog |
@@ -108,12 +109,12 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Gestion des risques internes : examiner les alertes de gestion des risques internes                                   | En cours de développement              |
 |                                         | Gestion des risques internes : tableau de bord de cas, explorateur de contenu et modèles d’avis | En cours de développement |
 |                                         | Gestion des risques internes : escalade pour examen pour Advanced eDiscovery | En cours de développement|
-|                                         | Gestion des risques internes : indicateurs d’appareil pour l’activité sur Windows 10, build 1809 et supérieure | On engineering backlog|
+|                                         | Gestion des risques internes : indicateurs d’appareil pour l’activité sur Windows 10 build 1809 et supérieures | On engineering backlog|
 |                                         | Gestion des risques internes : indicateurs de violation de stratégie de sécurité (aperçu) | On engineering backlog|
 |                                         | Gestion des risques internes : indicateurs pour les alertes de point de terminaison Microsoft Defender (aperçu) | On engineering backlog|
 |                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par les utilisateurs prioritaires (aperçu) | On engineering backlog |
-|                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par des utilisateurs non régrunts (aperçu) | On engineering backlog |
-|                                         | Gestion des risques internes : modèles de stratégie pour les violations de stratégie de sécurité générales (aperçu) | On engineering backlog |
+|                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par les utilisateurs non résusés (aperçu) | On engineering backlog |
+|                                         | Gestion des risques internes : modèles de stratégie pour les violations générales de stratégie de sécurité (aperçu) | On engineering backlog |
 |                                         | Gestion des risques internes : modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent le programme, les utilisateurs non régrunts (prévisualisation) | On engineering backlog |
 |                                         | Gestion des risques internes : personnalisation des stratégies (prévisualisation) | On engineering backlog |
 |                                         | Gestion des risques internes : exporter des alertes (aperçu) | On engineering backlog |
@@ -130,7 +131,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Conformité des communications (incl. stratégies de surveillance) : possibilité d’ignorer la signature électronique ou la clause d’exclusion de responsabilité | On engineering backlog |
 |                                         | Conformité des communications (incl. stratégies de surveillance) : remise de la gestion des risques internes | On engineering backlog |
 |                                         | Conformité des communications (incl. stratégies de surveillance) : vérification de l’état de la stratégie et possibilité de suspendre la stratégie | On engineering backlog |
-|                                         | Conformité des communications (incl. stratégies de surveillance) : traduire le contenu d’état au cours de l’examen | On engineering backlog |
+|                                         | Conformité des communications (incl. stratégies de surveillance) : traduire le contenu d’état d’santé pendant l’examen | On engineering backlog |
 |                                         | Conformité des communications (incl. stratégies de surveillance) : détection de l’incendie et de l’incendie | On engineering backlog |
 |                                         | Obstacles aux informations | On engineering backlog |
 |                                         | Gestion des accès privilégiés                    | On engineering backlog |

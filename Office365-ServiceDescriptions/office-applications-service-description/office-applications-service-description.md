@@ -2,6 +2,7 @@
 title: Description de service des applications Office
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: 95d80a0850b33b58774cdf2616c0f58bb6dadb9b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599056"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652398"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -100,7 +101,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 <sup>7</sup> Office pour Mac 2011 peut être installé, mais pas activé. <br/>
 <sup>8</sup> Microsoft 365 Apps for enterprise est pris en charge sur une infrastructure VDI (Virtual Desktop Infrastructure) dédiée aux utilisateurs. Microsoft 365 Apps for enterprise prend uniquement en charge les services Bureau à distance (RDS) lorsqu’il est acheté dans le cadre d’un programme de licences en volume.<br/>
 <sup>9</sup> L’activation en volume pour Office 365 E3 et Microsoft 365 Apps for enterprise est limitée aux installations sur Windows Server 2008 R2 et les plus nouvelles avec le rôle RDS activé ou les installations Windows To Go. Dans les deux cas, les utilisateurs qui accèdent à ces installations doivent être titulaires d’une licence Office 365 E3 ou Microsoft 365 Apps for enterprise.<br/> 
-<sup>10</sup> fonctionnalités Skype Entreprise dans Office 365 F3 incluent Skype Entreprise Plan 1 (pas de partage de bureau, pas de partage d’application, ne peut pas initier de conférence web, vidéo ou audio à plusieurs, ne peut pas planifier de réunions).<br/> 
+<sup>10</sup> fonctionnalités Skype Entreprise dans Office 365 F3 incluent Skype Entreprise Plan 1 (aucun partage de bureau, aucun partage d’application, ne peut pas initier de conférences web, vidéo ou audio à plusieurs, ne peut pas planifier de réunions).<br/> 
 <sup>11</sup> L’accès est actuellement disponible si vous êtes sur le canal actuel ou sur la version cible du canal différé. Si vous êtes sur le canal différé, Access sera disponible en juin 2017. Pour plus d’informations, voir Access inclus dans le cadre des [abonnements Microsoft 365 et Office 365.](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)<br/> 
 <sup>12</sup> Infopath 2013 est toujours pris en charge et est livré dans l’installation Office Professionnel Plus 2016, mais il n’existe aucune nouvelle version pour Office 2016.<br/> 
 <sup>13 Limité</sup> aux appareils dont les écrans intégrés mesurent 10,1 pouces ou moins en diagonale.<br/> 
@@ -122,7 +123,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |[Skype Entreprise](office-applications.md#skype-for-business) <br/> |Oui  <br/> |Oui  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |Non  <br/> |Non  <br/> |
    
-> <sup>1</sup> Office 2016 pour Mac requiert Mac OS X 10.10 ou ultérieur. Pour les clients qui se connectent à Exchange via Outlook pour Mac, la connectivité à Microsoft Exchange Server 2010 Service Pack 2 ou version ultérieure est nécessaire. Pour en savoir plus, [consultez Microsoft 365 et les ressources Office.](https://products.office.com/office-system-requirements)<br/>
+> <sup>1</sup> Office 2016 pour Mac nécessite Mac OS X 10.10 ou ultérieur. Pour les clients qui se connectent à Exchange via Outlook pour Mac, la connectivité à Microsoft Exchange Server 2010 Service Pack 2 ou version ultérieure est nécessaire. Pour en savoir plus, [consultez Microsoft 365 et les ressources Office.](https://products.office.com/office-system-requirements)<br/>
 <sup>2</sup> Disponible en téléchargement séparé à partir de l'App Store. Pour en savoir plus, consultez la page dédiée à [OneNote pour Mac](https://aka.ms/OneNoteforMac).<br/> 
 <sup>3</sup> Office pour Mac 2011 peut être installé, mais pas activé.
 

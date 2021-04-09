@@ -2,6 +2,7 @@
 title: État des services et continuité
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs Microsoft peuvent afficher l’état des services et savoir quand la maintenance est programmée. Les informations d’état du service sont disponibles à tout moment en se signant.
-ms.openlocfilehash: ea9beb020d2f868eb51638c4729924a7ac873b7b
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 6b4d854eebe4a3f07d1aac9dc3751dcaa6b62937
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174139"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652448"
 ---
 # <a name="service-health-and-continuity"></a>État des services et continuité
 
@@ -31,7 +32,7 @@ La section État du service indique l’état actuel du service et des détails 
   
 ## <a name="service-incidents"></a>Incidents de service
 
-Un incident de service est un événement qui a une incidence sur la prestation d’un service. Les incidents de service peuvent être causés par une défaillance matérielle ou logicielle dans le centre de données Microsoft, une connexion réseau défectueux entre le client et Microsoft, ou un problème majeur du centre de données tel que le feu, le débordement ou la catastrophe régionale. La plupart des incidents de service peuvent être résolus au moyen des technologies et solutions de traitement Microsoft, dans un délai court. Cependant, certains incidents de service sont plus graves et peuvent aboutir à des pannes à plus long terme.
+Un incident de service est un événement qui a une incidence sur la prestation d’un service. Les incidents de service peuvent être causés par une défaillance matérielle ou logicielle dans le centre de données Microsoft, une connexion réseau défectueux entre le client et Microsoft ou un défi majeur du centre de données, tel que le feu, le débordement ou la catastrophe régionale. La plupart des incidents de service peuvent être résolus au moyen des technologies et solutions de traitement Microsoft, dans un délai court. Cependant, certains incidents de service sont plus graves et peuvent aboutir à des pannes à plus long terme.
   
 Il existe deux types de notifications concernant les moments où les services peuvent ne pas être disponibles :
   
@@ -41,7 +42,7 @@ Il existe deux types de notifications concernant les moments où les services pe
 
 ### <a name="recent-worldwide-uptimes"></a>Temps de travail récents dans le monde
 
-Le passage à un service cloud ne doit pas signifier perdre la possibilité de savoir ce qui se passe. Avec Office 365, ce n’est pas le cas. Notre objectif est d’être transparent dans nos opérations afin que vous pouvez surveiller l’état de votre service, suivre les problèmes et avoir une vue historique de la disponibilité. Les tableaux suivants indiquent les données récentes sur le temps de travail dans le monde entier.
+Le passage à un service cloud ne doit pas signifier perdre la possibilité de savoir ce qui se passe. Avec Office 365, ce n’est pas le cas. Notre objectif est d’être transparent dans nos opérations afin que vous pouvez surveiller l’état de votre service, suivre les problèmes et avoir une vue historique de la disponibilité. Les tableaux suivants indiquent les données récentes de temps de travail dans le monde entier.
 
 **2020**
 
@@ -81,7 +82,7 @@ Quand un incident de service se produit, Microsoft reconnaît que les communicat
 
 ### <a name="admin-app"></a>Application Administrateur
 
-L’application d’administration pour les administrateurs de l’organisation vous permet de vous connecter à l’état du service Microsoft de votre organisation en libre-service. Les administrateurs Microsoft auront la possibilité d’afficher les informations d’état du service et les mises à jour de l’état de maintenance à partir de leurs appareils mobiles. Pour plus d’informations, consultez le [FAQ sur l’application d’administration](/office365/admin/admin-overview/admin-mobile-app).
+L’application d’administration pour les administrateurs de l’organisation vous permet de vous connecter à l’état du service Microsoft de votre organisation en libre-service. Les administrateurs Microsoft ont la possibilité d’afficher les informations d’état du service et les mises à jour de l’état de maintenance à partir de leurs appareils mobiles. Pour plus d’informations, consultez le [FAQ sur l’application d’administration](/office365/admin/admin-overview/admin-mobile-app).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Pack d’administration d’Office 365 pour Microsoft System Center 2012 R2
 
@@ -103,7 +104,7 @@ L'engagement de Microsoft pour une amélioration continue implique l'analyse des
   
 Les incidents de service non planifiés sont définis comme des interruptions de service à plusieurs clients qui ont une incidence sur l’utilisation du service telles que définies par nos contrats de niveau de service (SSL) et ont été déclarées en tant que telles dans le Tableau de bord d’état du service.
   
- Pour les incidents de service non planifiés qui ont eu un impact important et perceptible sur un grand nombre d’organisations, une analyse post-incident préliminaire sera livrée via votre tableau de bord d’état du service dans les 48 heures suivant la résolution de l’incident, puis une analyse post-incident finale dans les cinq jours ouvrées. Le rapport détaillé sur la analyse du travail inclut les informations ci-après : 
+ Pour les incidents de service non planifiés qui ont eu un impact important et perceptible sur un grand nombre d’organisations, une analyse post-incident préliminaire sera livrée via votre tableau de bord d’état du service dans les 48 heures suivant la résolution de l’incident, puis une analyse post-incident finale dans les cinq jours ouvrée. Le rapport détaillé sur la pir inclut les informations ci-après : 
   
 - Impact sur les clients et l'expérience utilisateur
     
@@ -141,7 +142,7 @@ Microsoft garantit à tout moment la disponibilité des données du client par l
     
 - **Exécution de la maintenance préventive :** La maintenance préventive inclut les vérifications de la cohérence des bases de données, la compression périodique des données et les analyses des journaux d’erreurs. 
     
-## <a name="support"></a>Assistance
+## <a name="support"></a>Support
 
 Les équipes de développement et d’exploitation Microsoft sont complétées par une organisation de support dédiée, qui joue un rôle important dans la continuité des activités des clients. L'équipe de support détient une connaissance approfondie du service et ses applications associées, et dispose d'un accès direct aux experts Microsoft en architecture, développement et test.
   

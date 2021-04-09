@@ -2,29 +2,30 @@
 title: Environnements SharePoint pour le gouvernement américain
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients cloud du gouvernement des États-Unis.
-ms.openlocfilehash: 69900e2da0040882992677f7db764033ff01308d
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+description: Découvrez la disponibilité des fonctionnalités SharePoint pour les clients cloud du gouvernement américain.
+ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215787"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653146"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Environnements SharePoint pour le gouvernement américain
 
 Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la description du [service SharePoint.](../../sharepoint-online-service-description/sharepoint-online-service-description.md) SharePoint est disponible pour les environnements GCC (Government Community Cloud), GCC High et DoD. 
 
-Pour plus d’informations sur le cloud du gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Secteurs](./microsoft-365-government-how-to-buy.md)Publics - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 Pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Pour plus d’informations sur le cloud pour le gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Pour le](./microsoft-365-government-how-to-buy.md)gouvernement - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 Pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
 Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir les points de terminaison [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou Office [365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)points de terminaison .
 
-En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement des États-Unis :
+En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement américain :
 
 -   Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Commerciaux Office 365 de Microsoft.
 -   Le contenu client de votre organisation est stocké aux États-Unis.
@@ -93,4 +94,4 @@ Votre passage au cloud offre des expériences transformatives avec des contrôle
 
 Après avoir installé votre organisation dans le cloud microsoft pour le gouvernement des États-Unis, suivez le chemin d’accès de déploiement recommandé décrit dans le centre de ressources sur [l’adoption de SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) N’oubliez pas de vous engager avec vos champions de l’adoption et de la gestion des changements.
 Vous pouvez également travailler avec [FastTrack](https://www.microsoft.com/fasttrack) ou votre partenaire choisi pour déployer le service auprès de vos utilisateurs.
-Visitez le [Centre de](https://www.microsoft.com/trust-center) confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, principes fondamentaux pour permettre aux organisations de servir leurs clients.
+Visitez le [Centre de](https://www.microsoft.com/trust-center) confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, principes fondamentaux pour la façon dont nous donnent aux organisations la possibilité de servir leurs clients.

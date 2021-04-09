@@ -2,6 +2,7 @@
 title: Fonctionnalités de support dans Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,21 +12,21 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Les fonctionnalités de support suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131998"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653516"
 ---
 # <a name="support-features-in-yammer"></a>Fonctionnalités de support dans Yammer
 
 Les fonctionnalités de support suivantes sont disponibles dans Yammer.
   
 > [!IMPORTANT]
-> Yammer ne prend pas en charge la récupérant le contenu supprimé, comme &mdash; les réseaux externes, les utilisateurs, les messages, les groupes et les fichiers, &mdash; y compris le contenu accidentellement supprimé par les administrateurs réseau.
+> Yammer ne prend pas en charge la récupération de contenu supprimé tel que les réseaux externes, les utilisateurs, les messages, les groupes et les fichiers, y compris le contenu supprimé accidentellement par les &mdash; &mdash; administrateurs réseau.
 >
-> Microsoft ne fournit pas de rapports ad hoc ou personnalisés en dehors des fonctionnalités d’analyse disponibles dans Yammer. Parfois, Microsoft peut fournir un rapport personnalisé au cours d’une demande de support, mais pour la plupart, il ne peut pas gérer les demandes directes de données.
+> Microsoft ne fournit pas de rapports ad hoc ou personnalisés en dehors des fonctionnalités d’analyse disponibles dans Yammer. Parfois, Microsoft peut fournir un rapport personnalisé dans le cadre d’une demande de support, mais la plupart du temps, il ne peut pas prendre en charge les demandes directes pour les données.
 
 ## <a name="administrator-support"></a>Administrator support
 
@@ -33,11 +34,11 @@ Les administrateurs Yammer Enterprise sont responsables de la maintenance des co
 
 ## <a name="customer-support"></a>Support client
 
-Le support technique est disponible pour répondre aux questions des clients et résoudre rapidement les problèmes. Les clients Yammer peuvent recevoir un support en publiant sur le Forum de support public, qui est surveillé 24 heures sur 24, sept jours par semaine par des agents de support. Si vous êtes un client Yammer à la recherche de support, consultez la page relative au [support public Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
+Le support technique est disponible pour répondre aux questions des clients et résoudre rapidement les problèmes. Yammer clients peuvent bénéficier d’un support en publiant sur le forum de support public, qui est surveillé 24 heures sur 24, 7 jours sur 7 par les agents de support. Si vous êtes un client Yammer à la recherche de support, consultez la page relative au [support public Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
    
 ## <a name="fasttrack-center"></a>Service FastTrack
 
-Le service FastTrack de Microsoft peut aider votre organisation à se déplacer vers le Cloud Microsoft en fournissant de l’aide à chaque étape de la procédure. FastTrack vous permet de planifier les déploiements de manière stratégique, de mettre rapidement en avant de nouveaux services et d’intégrer de nouveaux utilisateurs. Pour plus d'informations, visitez le [centre FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Pour plus d’informations sur la création de votre réseau Yammer, notamment sur les documents et les activités de pré-lancement, de lancement et de support, accédez à la page [prévoir : identifier les scénarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) , puis sélectionnez **mettre en place votre organisation**.
+Le service Microsoft FastTrack peut aider votre organisation à passer à Microsoft Cloud en fournissant de l’aide à chaque étape. FastTrack vous permet de planifier des déploiements de façon stratégique, d’accélérer le déploiement de nouveaux services et d’intégrer de nouveaux utilisateurs. Pour plus d'informations, visitez le [centre FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Pour plus d’informations sur la création de votre réseau Yammer, notamment sur les documents et les activités de pré-lancement, de lancement et de support, voir la page Concevoir : identifier les [scénarios,](https://fasttrack.microsoft.com/office/envision/identify-scenarios) puis sélectionnez Rassembler votre **organisation.**
 
 ## <a name="support-features-across-yammer-plans"></a>Fonctionnalités de support dans les plans Yammer
 
@@ -55,7 +56,7 @@ Exemples
   
 |**Niveau de gravité**|**Description**|**Exemples**|
 |:-----|:-----|:-----|
-|Niveau de gravité A (Critique)  <br/> |Le service est inutilisable pour la majorité des utilisateurs finaux.  <br/> |La plateforme Yammer est inactive.  <br/> |
+|Niveau de gravité A (Critique)  <br/> |Le service est inutilisable pour la majorité des utilisateurs finaux.  <br/> |La Yammer est en panne.  <br/> |
 |Niveau de gravité B (Haute)  <br/> |Le service est utilisable, mais gravement endommagé.  <br/> |La publication dans les flux ne fonctionne pas comme prévu.  <br/> |
 |Niveau de gravité C (Moyenne)  <br/> |Le service ne fonctionne pas comme prévu, mais une solution de contournement est disponible.  <br/> |Les aperçus de fichier n'apparaissent pas comme prévu.  <br/> |
 

@@ -2,6 +2,7 @@
 title: Clients et appareils mobiles
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online fonctionne avec les versions de bureau et mobiles d’Outlook, ainsi qu’Outlook sur le web.
-ms.openlocfilehash: 4f72bb4f598a0c274b352163142f72b562fa2518
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173689"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653116"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients et appareils mobiles
 
@@ -53,9 +54,9 @@ Outlook sur le web est une version du programme de messagerie électronique Outl
   
 Outlook sur le web est proposé sous deux versions client, pouvant toutes les deux être utilisées avec Exchange Online :
   
-- **Outlook sur le web** - La version standard d’Outlook sur le web offre aux utilisateurs Exchange Online une expérience de messagerie plus similaire à celle des utilisateurs d’Outlook. Il prend en charge la plupart des navigateurs web plus récents et est optimisé pour une utilisation sur les tablettes et les smartphones, ainsi que sur les ordinateurs de bureau et les ordinateurs portables. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’activité par défaut est fixé à [](/powershell/module/exchange/set-organizationconfig) six heures, mais il peut être configuré par un administrateur dans Windows PowerShell de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès séparé en matière de sécurité, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
+- **Outlook sur le web** - La version standard d’Outlook sur le web offre aux utilisateurs Exchange Online une expérience de messagerie plus similaire à celle des utilisateurs d’Outlook. Il prend en charge la plupart des navigateurs web les plus récents et est optimisé pour une utilisation sur les tablettes et les smartphones, ainsi que sur les ordinateurs de bureau et les ordinateurs portables. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’activité par défaut est de six heures, mais il peut être configuré par un administrateur dans [Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès à la sécurité distinct, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
 
-- **La version légère d’Outlook sur le web** - La version légère d’Outlook sur le web permet aux utilisateurs d’Exchange Online d’accéder à la boîte aux lettres à l’aide de presque n’importe quel navigateur web. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’activité par défaut est fixé à [](/powershell/module/exchange/set-organizationconfig) six heures, mais il peut être configuré par un administrateur dans Windows PowerShell de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès séparé en matière de sécurité, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, la version light de OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
+- **Version légère d’Outlook sur** le web : la version légère d’Outlook sur le web permet aux utilisateurs d’Exchange Online d’accéder à la boîte aux lettres à l’aide de presque n’importe quel navigateur web. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’activité par défaut est de six heures, mais il peut être configuré par un administrateur dans [Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès à la sécurité distinct, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, la version light de OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
 
 Outlook sur le web est également disponible en versions mobiles. Pour plus d'informations, voir [cette page](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
@@ -87,7 +88,7 @@ Avec Outlook, les utilisateurs peuvent :
 
 Avec Outlook pour iOS, Outlook pour Android ou Outlook pour Windows Phone, les utilisateurs peuvent : 
   
-- Tirer parti d’une boîte de réception axée sur la priorité des messages électroniques importants
+- Bénéficier d’une boîte de réception axée sur la priorité des messages électroniques importants
 
 - Personnaliser les mouvements de balayage pour qu’ils correspondent à leurs habitudes de messagerie uniques
 

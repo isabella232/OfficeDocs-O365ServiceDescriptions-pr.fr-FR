@@ -2,18 +2,19 @@
 title: Plan de conformité de Microsoft 365 – Déploiements Département de la Défense (DoD)
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Ces conseils sont adaptés aux professionnels de l’informatique qui déploient Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Pour le gouvernement – DoD est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: 0730ecf23d4c2fd167edf9f0e8b0dc5dcf67b646
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173529"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652618"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan de conformité de Microsoft 365 – Déploiements Département de la Défense (DoD)
 
@@ -26,7 +27,7 @@ Ces conseils sont adaptés aux professionnels de l’informatique qui déploient
 
 L’environnement Microsoft 365 Government - DoD est conforme aux exigences du gouvernement des États-Unis pour les services cloud.
 
-En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes qui sont propres à Microsoft 365 Pour le gouvernement – DoD :
+En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes qui sont propres à Microsoft 365 Secteur Public : DoD :
 
 - Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Commerciaux Office 365 de Microsoft.
 - Le contenu client de votre organisation est stocké aux États-Unis.
@@ -53,7 +54,7 @@ Après avoir décidé que ce service est le bon pour votre organisation, démarr
 
 ## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Étape 3. Comprendre Microsoft 365 Pour le gouvernement - Paramètres de sécurité par défaut du DoD
 
-Nous vous recommandons de prendre le temps d’examiner attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
+Nous vous recommandons de prendre le temps de consulter attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
 
 **Point de** décision : déterminez si vous allez modifier l’un des paramètres de sécurité Par défaut de Microsoft 365 Pour le gouvernement - DoD, en résolvant *d’abord l’impact* des modifications que vous pourriez apporter.
 
@@ -107,13 +108,13 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Gestion des risques internes : examiner les alertes de gestion des risques internes                                   | On engineering backlog              |
 |                                         | Gestion des risques internes : tableau de bord de cas, explorateur de contenu et modèles d’avis | On engineering backlog |
 |                                         | Gestion des risques internes : escalade pour examen pour Advanced eDiscovery |On engineering backlog|
-|                                         | Gestion des risques internes : indicateurs d’appareil pour l’activité sur Windows 10, build 1809 et supérieure |On engineering backlog|
+|                                         | Gestion des risques internes : indicateurs d’appareil pour l’activité sur Windows 10 build 1809 et supérieures |On engineering backlog|
 |                                         | Gestion des risques internes : indicateurs de violation de stratégie de sécurité (aperçu) |On engineering backlog|
 |                                         | Gestion des risques internes : indicateurs pour les alertes de point de terminaison Microsoft Defender (aperçu) |On engineering backlog|
 |                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par les utilisateurs prioritaires (aperçu) | On engineering backlog |
-|                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par des utilisateurs non régrunts (aperçu) | On engineering backlog |
+|                                         | Gestion des risques internes : modèles de stratégie pour les fuites de données par les utilisateurs non résusés (aperçu) | On engineering backlog |
 |                                         | Gestion des risques internes : modèles de stratégie pour les violations générales de stratégie de sécurité (aperçu) | On engineering backlog |
-|                                         | Gestion des risques internes : modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent l’entreprise, les utilisateurs non régrunts (prévisualisation) | On engineering backlog |
+|                                         | Gestion des risques internes : modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent le programme, les utilisateurs non régrunts (prévisualisation) | On engineering backlog |
 |                                         | Gestion des risques internes : personnalisation des stratégies (prévisualisation) | On engineering backlog |
 |                                         | Gestion des risques internes : exporter des alertes (aperçu) | On engineering backlog |
 |                                         | Gestion des risques internes : groupes d’utilisateurs prioritaires (prévisualisation) | On engineering backlog |
@@ -158,8 +159,8 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 |                                         | Advanced eDiscovery : rapport de terme de recherche                        | En cours de déploiement |
 |                                         | Advanced eDiscovery : prise en charge du contenu lié à partir de OneDrive et SharePoint Online (pièces jointes modernes)                        | En cours de déploiement |
 |                                         | Advanced eDiscovery : marquage                              | En cours de déploiement |
-|                                         | Advanced eDiscovery : prise en charge des réactions teams                              | En cours de déploiement |
-|                                         | Advanced eDiscovery : rapports sur les locataires                              | En cours de déploiement |
+|                                         | Découverte électronique avancée : prise en charge des réactions teams                              | En cours de déploiement |
+|                                         | Advanced eDiscovery : rapports de client                              | En cours de déploiement |
 |                                         | Advanced eDiscovery : thèmes                              | En cours de déploiement |
 |                                         | Advanced eDiscovery : visionneuses                              | En cours de déploiement |
 |                                         | Advanced eDiscovery : Yammer advanced eDiscovery dans le Centre de conformité Microsoft                              | En cours de déploiement |

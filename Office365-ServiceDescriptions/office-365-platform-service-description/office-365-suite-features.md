@@ -2,6 +2,7 @@
 title: Fonctionnalités de Microsoft 365 suite
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils web qui vous aident à collaborer et à communiquer en toute sécurité sur de nombreux appareils et plusieurs services Office 365. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599046"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653176"
 ---
 # <a name="microsoft-365-suite-features"></a>Fonctionnalités de Microsoft 365 suite
 
@@ -34,7 +35,7 @@ L’e-mail Briefing aide les utilisateurs à utiliser au mieux chaque jour en le
 * Gérer les tâches identifiées à partir d’un e-mail qui peuvent être en attente.
 * Maximum de temps de travail au travail en réservant du temps sur le calendrier et en mutant les notifications.
 
-Les e-mails de briefing sont automatiquement fournis à tous les utilisateurs d’Exchange Online. Pour en savoir plus, consultez la vue [d’ensemble de la messagerie Briefing.](/Briefing/be-overview)
+Les e-mails de briefing sont automatiquement fournis à tous les utilisateurs d’Exchange Online. Pour en savoir plus, consultez la vue [d’ensemble](/Briefing/be-overview)de la messagerie Briefing.
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
@@ -46,7 +47,7 @@ Microsoft Forms vous permet de créer rapidement et facilement des questionnaire
   
 ## <a name="microsoft-graph-api"></a>API Microsoft Graph
 
-Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand nombre de ressources, de relations et d’intelligence, tout au long d’un point de terminaison unique https://graph.microsoft.com : Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, voir la [documentation de Microsoft Graph.](/graph/overview)
+Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand nombre de ressources, de relations et d’intelligence, via un point de terminaison unique : https://graph.microsoft.com . Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, voir la [documentation de Microsoft Graph.](/graph/overview)
   
 ## <a name="microsoft-lists"></a>Microsoft Lists
 
@@ -63,7 +64,7 @@ Microsoft Planner est un outil qui offre aux utilisateurs un moyen visuel pour o
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft Power Apps est un service d’entreprise qui vous permet de créer, d’intégrer et de partager rapidement des applications qui fonctionnent sur n’importe quel appareil. Power Apps vous permet d’utiliser des connexions intégrées ou celles conçues par votre entreprise pour connecter votre application aux services cloud et locaux, notamment Microsoft 365 et Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de données Oracle, etc. Vous pouvez facilement partager vos Power Apps avec vos collègues en tapant une adresse de messagerie. Pour en savoir plus, allez sur le site Web Microsoft [Power Apps.](https://powerapps.microsoft.com/)
+Microsoft Power Apps est un service d’entreprise qui vous permet de créer, d’intégrer et de partager rapidement des applications qui fonctionnent sur n’importe quel appareil. Power Apps vous permet d’utiliser des connexions intégrées ou celles conçues par votre entreprise pour connecter votre application à des services cloud et locaux, notamment Microsoft 365 et Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de données Oracle, etc. Vous pouvez facilement partager vos Power Apps avec vos collègues en tapant une adresse de messagerie. Pour en savoir plus, allez sur le site Web Microsoft [Power Apps.](https://powerapps.microsoft.com/)
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -71,7 +72,7 @@ Microsoft Stream est un service vidéo d’entreprise que les membres de votre o
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway est une application professionnelle de numérique pour les entreprises qui vous aide, ainsi que vos collègues, à exprimer des idées à l’aide d’un canevas web interactif. Le moteur de conception intégré de Microsoft Sway vous permet de produire des rapports, des présentations et bien plus encore, professionnels et attrayants, sans avoir besoin d’une mise en forme complète ou d’une formation supplémentaire. Vous pouvez également modifier les résultats pour obtenir l’apparence unique que vous souhaitez. Microsoft Sway rend votre création très bien vue dans n’importe quel navigateur sur n’importe quel écran, et elle peut être partagée avec des collègues et des clients en envoyant un lien. Microsoft Sway vous aide à trouver et rassembler toutes sortes de contenu sans quitter l’application, afin que vous pouvez faire glisser et déposer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, voir [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible [dans Office 365 Germany.](office-365-germany.md)
+Microsoft Sway est une application professionnelle de numérique pour les entreprises qui vous aide, ainsi que vos collègues, à exprimer des idées à l’aide d’un canevas web interactif. Le moteur de conception intégré de Microsoft Sway vous permet de produire des rapports, des présentations et bien plus encore, professionnels et attrayants, sans avoir besoin d’une mise en forme complète ou d’une formation supplémentaire. Vous pouvez également modifier les résultats pour obtenir l’apparence unique que vous souhaitez. Microsoft Sway rend votre création très bien vue dans n’importe quel navigateur sur n’importe quel écran, et elle peut être partagée avec des collègues et des clients en envoyant un lien. Microsoft Sway vous permet de rechercher et de rassembler toutes sortes de contenu sans quitter l’application, afin que vous pouvez faire glisser et déposer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, voir [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible [dans Office 365 Germany.](office-365-germany.md)
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Applications Microsoft 365 pour Entreprise
 
@@ -100,11 +101,11 @@ Le bloc-notes pour la classe fait partie de OneNote et est disponible pour Offic
 
 ## <a name="to-do"></a>To Do
 
-Microsoft To Do est une application de gestion des tâches qui permet aux clients de planifier leur journée et de gérer leurs tâches( au travail et à la vie privée) à partir de n’importe quel appareil.
+Microsoft To Do est une application de gestion des tâches qui permet aux clients de planifier leur journée et de gérer leurs tâches ( au travail et à la vie privée) à partir de n’importe quel appareil.
 
 Avec Microsoft To Do, les clients peuvent :
 
-* Synchroniser leurs tâches entre Outlook, Teams, Le Planificateur et bien plus encore
+* Synchroniser leurs tâches dans Outlook, Teams, Planner, et bien plus encore
 * Restez concentré sur Mon jour, un planificateur quotidien personnalisé avec des tâches suggérées
 * Obtenir leurs listes n’importe où, sur n’importe quel appareil ou plateforme
 * Partager des listes et affecter des tâches avec des collègues, des amis et une famille

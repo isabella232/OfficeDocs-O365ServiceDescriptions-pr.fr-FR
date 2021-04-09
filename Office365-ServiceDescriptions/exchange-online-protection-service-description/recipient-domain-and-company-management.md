@@ -2,6 +2,7 @@
 title: Gestion des destinataires, des domaines et des entreprises dans Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Lisez cet article pour en savoir plus sur la gestion des destinataires, des domaines et des entreprises dans Microsoft Exchange Online Protection des données (EOP).
-ms.openlocfilehash: a01d572ce239e7d1a6c0c57814fb7494a6670f84
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f58ffe829be839d8321cfc98f331d1836986e293
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173719"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652996"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gestion des destinataires, des domaines et des entreprises dans Exchange Online Protection
 

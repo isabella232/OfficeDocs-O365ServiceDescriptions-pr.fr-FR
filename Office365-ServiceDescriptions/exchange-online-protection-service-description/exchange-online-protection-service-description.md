@@ -2,6 +2,7 @@
 title: Description du service Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Une liste des plans qui fournissent Exchange Online Protection est incluse, ainsi qu’une comparaison des fonctionnalités de ces plans.
-ms.openlocfilehash: 95b544ead98aca12460f1b828a8f4083f9252b41
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 172e07db12590e51720c2446974418244f3234e4
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215777"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653036"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
 
@@ -65,7 +66,7 @@ Microsoft Exchange Enterprise CAL with Services fournit les fonctionnalités de 
 
 Pour plus d’informations sur la licence d’accès licence Exchange Enterprise avec services, voir FAQ sur les [licences Exchange.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
 
-Si vous avez une licence d’accès client Exchange Enterprise avec services et que vous souhaitez configurer EOP, suivez les instructions de l’article [Configurer votre service EOP.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Les étapes de configuration sont les mêmes que pour EOP autonome.
+Si vous avez une licence d’accès client Exchange Enterprise avec services et que vous souhaitez configurer EOP, suivez les instructions de [l’article Configurer votre service EOP.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Les étapes de configuration sont les mêmes que pour EOP autonome.
 
 > [!NOTE]
 > De nouvelles fonctionnalités pour la licence d’accès client Exchange Enterprise avec Services sont déployées en même temps qu’Exchange Online, et non EOP autonome. Les calendriers de déploiement pour EOP autonome et Exchange Online/la licence d’accès client Exchange Enterprise avec Services peuvent varier légèrement.

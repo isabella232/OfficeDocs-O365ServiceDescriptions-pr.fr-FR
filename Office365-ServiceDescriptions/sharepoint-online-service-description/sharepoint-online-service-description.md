@@ -2,6 +2,7 @@
 title: Description du service SharePoint
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les fonctionnalités SharePoint disponibles dans les plans.
-ms.openlocfilehash: a109b6f0eb83757b703dbe934301c55d1a3096e6
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 929156fe985764615dc3e7a7797e87f5d97cdd3b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215737"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651167"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -46,7 +47,7 @@ Pour accéder à SharePoint, les utilisateurs de votre organisation doivent se v
   
 ## <a name="rights-of-guests"></a>Droits des invités
 
-Si vous achetez un plan et créez un site qui utilise des fonctionnalités d’entreprise, les invités que vous invitez disposent des droits d’utilisation et/ou d’affichage des fonctionnalités d’entreprise dans le site auquel vous les avez invités. Bien que vous pouvez inviter des invités à effectuer une gamme complète d’actions sur un site, ils n’auront pas les mêmes fonctionnalités qu’un utilisateur sous licence au sein de votre organisation. Par exemple, si votre plan inclut des versions de bureau des applications Office, les invités ne peuvent pas les installer sur leurs propres ordinateurs, sauf si vous leur attribuez une licence.
+Si vous achetez un plan et créez un site qui utilise des fonctionnalités d’entreprise, les invités que vous invitez disposent des droits d’utilisation et/ou d’affichage des fonctionnalités d’entreprise dans le site sur lequel vous les avez invités. Bien que vous pouvez inviter des invités à effectuer une gamme complète d’actions sur un site, ils n’auront pas les mêmes fonctionnalités qu’un utilisateur sous licence au sein de votre organisation. Par exemple, si votre plan inclut des versions de bureau des applications Office, les invités ne peuvent pas les installer sur leurs propres ordinateurs, sauf si vous leur attribuez une licence.
 
 ## <a name="onedrive"></a>OneDrive
 
@@ -158,7 +159,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Bibliothèques de documents](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [Ensembles de documents](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - Cartes de fichier (activité, conversations, visionneuses)
-- [Listes](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [Méga menus](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Intégration de Microsoft Forms.](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256) Nécessite un abonnement qui inclut Office 365 et nécessite que l’utilisateur soit titulaire d’une licence Forms.
 - [Actualités](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
@@ -173,7 +174,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Application mobile SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [Page de démarrage de SharePoint](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
 - [Conceptions de sites](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
-- [Rapports d’utilisation de site](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
+- [Rapports d’utilisation du site](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [Sites : sites classiques](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
 - [Sites : sites de communication](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [Sites : site d’accueil](/sharepoint/home-site)

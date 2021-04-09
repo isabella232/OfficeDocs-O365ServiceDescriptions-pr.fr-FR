@@ -2,6 +2,7 @@
 title: PowerPoint pour le web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint pour le web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur web, où vous pouvez utiliser des présentations directement sur le site web où la présentation est stockée. Les clients Microsoft 365 avec Office pour le web peuvent afficher, créer et modifier des fichiers en cours de navigation.
-ms.openlocfilehash: 32ebb9f1ef3a9c68d5bc01314721f197a7f80cee
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e0ab38fd633e44be01f38da0398affbf81e01e7b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172739"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652338"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint pour le web
 
@@ -32,7 +33,7 @@ Découvrez comment télécharger [et installer Office à l’aide de Microsoft 3
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
-Avec PowerPoint pour le web, vous pouvez modifier l’alignement des paragraphes, appliquer des puces ou des nombres et modifier le niveau de texte à puces ou numéro. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Avec PowerPoint pour le web, vous pouvez modifier l’alignement des paragraphes, appliquer des puces ou des nombres, et modifier le niveau de texte à puces ou numéro. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="apply-basic-transitions-and-animations"></a>Apply basic transitions and animations
 
@@ -44,7 +45,7 @@ Non disponible dans PowerPoint pour le web. Des fonctions de mise en forme avanc
   
 ## <a name="apply-themes-and-theme-variants"></a>Appliquer des thèmes et des variantes de thèmes
 
-Choisissez un thème ou une variante de thème dans la galerie correspondante quand vous ajoutez une nouvelle diapositive à la présentation. Les thèmes non pris en charge par PowerPoint pour le web sont conservés dans la présentation, mais la possibilité de modifier les thèmes n’est pas disponible dans PowerPoint pour le web. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Choisissez un thème ou une variante de thème dans la galerie correspondante quand vous ajoutez une nouvelle diapositive à la présentation. Les thèmes non pris en charge par PowerPoint pour le web sont conservés dans la présentation, mais la possibilité de modifier des thèmes n’est pas disponible dans PowerPoint pour le web. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="office-add-ins"></a>Compléments Office
 
@@ -210,4 +211,4 @@ Modifiez votre présentation dans un formulaire conforme à son apparence lorsqu
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions sur site, voir [Office pour la description du service web.](office-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir Office pour la [description du service web.](office-online-service-description.md)

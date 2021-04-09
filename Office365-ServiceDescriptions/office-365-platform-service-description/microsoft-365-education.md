@@ -2,6 +2,7 @@
 title: Microsoft 365 Éducation
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation.
-ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: d9cd436fd006aa72f25c10a485881671b6e1dbb5
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902033"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652579"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -30,7 +31,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Plateforme Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Office pour le web|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Applications Microsoft 365 pour les grandes entreprises|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Applications Microsoft 365 for entreprise|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Exchange Online|Oui<sup>1</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|
 |SharePoint Online|Oui<sup>3</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -101,7 +102,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |SharePoint<sup>7</sup>|Non|Non|Non|Oui<sup>8</sup>|Oui|Non|Non|Non|Non|
 |Skype Entreprise<sup>7</sup>|Non|Non|Non|Oui<sup>8</sup>|Oui|Non|Non|Non|Non|
 |Licence d'accès client Windows Server|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
-|Microsoft Endpoint Configuration Manager|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
+|Microsoft Endpoint Configuration Manager|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 |System Center Endpoint Protection|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 
 > [!NOTE]
@@ -116,4 +117,4 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 > <sup>9</sup> applications Microsoft 365 sont requises pour appliquer des protections et envoyer des e-mails protégés à partir du Bureau Outlook. <br/>
 > <sup>10 Anciennement</sup> Office 365 - Protection avancée contre les menaces. <br/>
 > <sup>11 Anciennement</sup> Azure Advanced Threat Protection. <br/>
-> <sup>12</sup> Anciennement Microsoft Defender - Protection avancée contre les menaces. <br/>
+> <sup>12 Anciennement</sup> Microsoft Defender - Protection avancée contre les menaces. <br/>

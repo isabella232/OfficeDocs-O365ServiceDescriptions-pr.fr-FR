@@ -2,6 +2,7 @@
 title: Centre de sécurité et conformité
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le Centre de conformité de sécurité est conçu pour vous aider à gérer les fonctionnalités de conformité &amp; dans Office 365 pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 345d0ed87275e2029a61e0c7603292aa0480e767
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173999"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653476"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -27,7 +28,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilité &amp; du Centre de conformité de sécurité pour les plans d’entreprise et d’entreprise
 
-| Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 pour le gouvernement américain G1 | Office 365 E3, Office 365 pour le gouvernement américain G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 pour le gouvernement américain F3|
+| Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 pour le gouvernement américain G1 | Office 365 E3, Office 365 pour le gouvernement américain G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 pour le gouvernement américain F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité des applications cloud Office 365](/cloud-app-security/what-is-cloud-app-security) | Non | Non |Non | Non | Non | Oui | Oui  |   |
@@ -61,7 +62,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 
 <sup>2 Nécessite</sup> un module de protection contre la perte de données Office 365.
 
-<sup>3 Les étiquettes</sup> de niveau de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
+<sup>3 Les étiquettes</sup> de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilité &amp; du Centre de conformité de sécurité pour les plans autonomes
 
@@ -69,7 +70,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité des applications cloud Office 365](/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Oui   |
-|[La gestion des menaces,](/cloud-app-security/what-is-cloud-app-security)telle que le filtrage du courrier et la protection contre les programmes malveillants   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
+|[Gestion des menaces,](/cloud-app-security/what-is-cloud-app-security)telle que le filtrage du courrier et la protection contre les programmes malveillants   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Gestion avancée des menaces,](/office365/securitycompliance/office-365-ti)telle que l’Explorateur de menaces pour les campagnes de hameçonnage   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non  |
 |[Référentiel sécurisé client](/office365/securitycompliance/customer-lockbox-requests)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
@@ -99,7 +100,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 
 <sup>4</sup> Les conversations Skype sont stockées dans le cadre de la boîte aux lettres.
 
-<sup>5</sup> Advanced eDiscovery nécessite Office 365 E5 ou une licence de modules.
+<sup>5</sup> Advanced eDiscovery nécessite Office 365 E5 ou une licence de module add-on.
 
 <sup>6</sup> L’archivage Skype se trouve dans la boîte aux lettres de l’utilisateur.
 
@@ -119,4 +120,4 @@ Le Centre de conformité est disponible dans le plan E3 pour Office 365 géré p
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Le Centre de sécurité & conformité est disponible pour Office 365 Germany. Pour plus d’informations sur Office 365 Germany, voir [Office 365 Germany](office-365-germany.md).
+Le Centre de sécurité & conformité est disponible pour Office 365 Germany. Pour plus d’informations sur Office 365 Germany, voir [Office 365 Germany.](office-365-germany.md)

@@ -2,6 +2,7 @@
 title: Configuration et administration d’Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: "Cet article décrit les contrôles d’administration et la prise en charge disponibles pour personnaliser les paramètres Exchange Online et maintenir à jour l’environnement Exchange Online d’une organisation. Elle comprend les informations sur les outils d'administration en libre-service et les fonctionnalités à disposition des organisations : responsabilités et engagements de performances de l'administrateur Microsoft et mises à niveau des services et des produits."
-ms.openlocfilehash: 169752df12564131e4b5fb0f95b94f62273cd5ff
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173669"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652728"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Configuration et administration d’Exchange Online
 
@@ -73,7 +74,7 @@ Exchange Online prend en charge les mêmes stratégies ActiveSync pour les pér
   
 ### <a name="message-tracking-for-exchange-online"></a>Suivi des messages pour Exchange Online
 
-Le suivi des messages via la fonctionnalité Rapports de remise est décrit dans la rubrique suivante : Fonctionnalités de rapport et outils [de dépannage.](reporting-features-and-troubleshooting-tools.md)
+Le suivi des messages via la fonctionnalité Rapports de remise est décrit dans la rubrique suivante : Fonctionnalités de rapport et [outils de dépannage.](reporting-features-and-troubleshooting-tools.md)
   
 ### <a name="usage-reporting-for-exchange-online"></a>Création de rapports d’utilisation pour Exchange Online
 

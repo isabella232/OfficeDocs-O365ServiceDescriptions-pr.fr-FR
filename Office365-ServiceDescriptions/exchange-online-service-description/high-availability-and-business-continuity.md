@@ -2,6 +2,7 @@
 title: Haute disponibilité et continuité de service
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online offre une prise en charge étendue de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
-ms.openlocfilehash: e205f26bfa611e388cc22557db98eeb84505ef9c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 5415499e85d0e6fb0334e2e23abc435d0df9d2ab
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173679"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653336"
 ---
 # <a name="high-availability-and-business-continuity"></a>Haute disponibilité et continuité de service
 
@@ -34,7 +35,7 @@ Les administrateurs peuvent supprimer des boîtes aux lettres Exchange Online à
   
 ## <a name="deleted-item-recovery"></a>Récupération d'éléments supprimés
 
-Exchange Online permet aux utilisateurs de restaurer les éléments qu’ils ont supprimés de n’importe quel dossier de courrier électronique, y compris le dossier Éléments supprimés. Quand un élément est supprimé, il est conservé dans le dossier Éléments supprimés de l'utilisateur. Il y reste jusqu'à ce qu'il soit manuellement supprimé par l'utilisateur, ou automatiquement supprimé en raison des stratégies de rétention. Les administrateurs peuvent personnaliser les stratégies de rétention à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante.
+Exchange Online permet aux utilisateurs de restaurer les éléments qu’ils ont supprimés de n’importe quel dossier de messagerie, y compris le dossier Éléments supprimés. Quand un élément est supprimé, il est conservé dans le dossier Éléments supprimés de l'utilisateur. Il y reste jusqu'à ce qu'il soit manuellement supprimé par l'utilisateur, ou automatiquement supprimé en raison des stratégies de rétention. Les administrateurs peuvent personnaliser les stratégies de rétention à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante.
   
 Une fois qu'un élément a été supprimé du dossier Éléments supprimés, il est conservé dans un dossier Éléments récupérables pendant 14 jours avant d'être supprimé définitivement, mais les administrateurs peuvent étendre cette durée à un maximum de 30 jours en utilisant l'application Windows PowerShell à distance. Les utilisateurs peuvent récupérer l’élément pendant cette période à l’aide de la fonctionnalité Récupérer les éléments supprimés dans Outlook sur le web ou Outlook. Découvrez comment [modifier la période de rétention des éléments supprimés](/exchange/recipients-in-exchange-online/manage-user-mailboxes/change-deleted-item-retention).
   

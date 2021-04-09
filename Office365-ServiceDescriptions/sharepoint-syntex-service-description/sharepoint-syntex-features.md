@@ -2,17 +2,18 @@
 title: Fonctions de SharePoint Syntex
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Découvrez les principales fonctionnalités de SharePoint Syntex disponibles dans les plans Microsoft 365, Office 365 et SharePoint Online éligibles.
-ms.openlocfilehash: 2f3d30a1d2eddaa3cdfe420eb10840b10da4da6d
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 2ffc3ccb52d074434c89424a151e63c7698b62c2
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172629"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651029"
 ---
 # <a name="sharepoint-syntex-features"></a>Fonctions de SharePoint Syntex 
 
@@ -22,7 +23,7 @@ Les sections suivantes décrivent les principales fonctionnalités [de SharePoin
 
 Syntex fournit un modèle de site appelé centre de contenu pour la gestion du contenu à grande échelle, l’intégration de métadonnées et de flux de travail et la livraison de &mdash;  &mdash; l’automatisation de la conformité. Les centres de contenu fournissent des fonctionnalités pour apprendre au cloud à lire et traiter des documents de la même manière que vous le feriez manuellement. Syntex utilise ces informations pour reconnaître automatiquement le contenu, extraire des informations importantes et appliquer des balises de métadonnées. En outre, vous pouvez suivre l’efficacité de vos modèles à l’aide de l’analyse visuelle intégrée.
 
-Pour en savoir plus sur les centres de contenu et comment les créer, voir Créer un centre de contenu [dans SharePoint Syntex](/microsoft-365/contentunderstanding/create-a-content-center).
+Pour en savoir plus sur les centres de contenu et comment les créer, voir Créer un centre de [contenu dans SharePoint Syntex](/microsoft-365/contentunderstanding/create-a-content-center).
 
 ## <a name="object-recognition"></a>Reconnaissance d’objet
 
@@ -48,11 +49,11 @@ Pour en savoir plus sur le traitement des formulaires, voir [Vue d’ensemble du
 
 Syntex utilise des connecteurs Microsoft Graph pour intégrer des sources distantes telles que des partages de fichiers, Azure SQL ou des sources tierces telles que Box et IBM FileNet dans Microsoft Graph, ce qui le rend utilisable et utilisable dans &mdash; &mdash; Microsoft 365.
 
-Avec les connecteurs Microsoft Graph, les clients peuvent indexer des éléments dans des référentiels externes pour les inclure dans les résultats de recherche Microsoft. Microsoft 365 E5 et Office 365 E5 incluent la possibilité d’indexer jusqu’à 500 éléments à l’aide de connecteurs Microsoft Graph pour Microsoft Search (non inclus dans A5). Tout utilisateur avec une suite ou une licence autonome qui inclut un plan SharePoint ou OneDrive peut voir les résultats de recherche des connecteurs Microsoft Graph pour Microsoft Search (recherche Microsoft).
+Avec les connecteurs Microsoft Graph, les clients peuvent indexer des éléments dans des référentiels externes pour les inclure dans les résultats de recherche Microsoft. Microsoft 365 E5 et Office 365 E5 incluent la possibilité d’indexer jusqu’à 500 éléments à l’aide de connecteurs Microsoft Graph pour Microsoft Search (non inclus dans A5). Tout utilisateur titulaire d’une suite ou d’une licence autonome incluant un plan SharePoint ou OneDrive peut voir les résultats de recherche des connecteurs Microsoft Graph pour Microsoft Search (recherche Microsoft).
 
 Aujourd’hui, les connecteurs vers plus de 130 sources sont disponibles auprès de Microsoft ou de l’un de nos partenaires. Pour plus d’informations, voir [Vue d’ensemble des connecteurs Microsoft Graph.](/MicrosoftSearch/connectors-overview)
 
-## <a name="advanced-taxonomy-services"></a>Services de taxonomie avancés
+## <a name="advanced-taxonomy-services"></a>Services de taxonomie avancée
 
 Syntex inclut des fonctionnalités qui vous permet d’observer et d’analyser la création et l’utilisation de termes dans Microsoft 365. Ces rapports sont remis dans le Centre d’administration SharePoint.
 

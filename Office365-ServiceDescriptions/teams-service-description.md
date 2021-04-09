@@ -2,17 +2,18 @@
 title: Description du service Microsoft Teams
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Découvrez la disponibilité des fonctionnalités et des services Microsoft Teams dans les plans Microsoft 365 et Office 365.
-ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484857"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653566"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -67,7 +68,7 @@ Pour l’audioconférence, votre organisation doit acheter et attribuer une lice
 
 Cette offre dans Office 365 remplace la diffusion de réunion Skype retirée. Les fonctionnalités d’événements en direct sont disponibles pour les plans de gestion des licences, comme détaillé dans le service Stream. Pour plus d’informations, examinez la vue [d’ensemble des licences Microsoft Stream.](/stream/license-overview) Le service d’événements en direct est accessible via Stream, Yammer ou Microsoft Teams. Pour en savoir plus sur les fonctionnalités des événements en direct, consultez les événements en direct dans [Microsoft 365 dans Yammer, Microsoft Teams et Microsoft Stream.](/stream/live-event-m365)
 
-## <a name="learn-more"></a>Si vous souhaitez en savoir plus
+## <a name="learn-more"></a>En savoir plus
 
 Pour plus d’informations sur Teams, consultez les ressources suivantes :
  

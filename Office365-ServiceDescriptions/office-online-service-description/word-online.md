@@ -2,6 +2,7 @@
 title: Word pour le web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word pour le web (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur web, où vous pouvez travailler avec des documents directement sur le site web où le document est stocké.
-ms.openlocfilehash: 50d1e7ceeff9e6b117e127a0d62b208e9b1b325c
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174149"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652328"
 ---
 # <a name="word-for-the-web"></a>Word pour le web
 
@@ -122,7 +123,7 @@ Insérez un en-tête et un pied de page dans votre document dans Word pour le we
   
 ## <a name="hyperlinks"></a>Liens hypertexte
 
-Avec Word pour le web, vous pouvez facilement créer des liens vers des signets dans un document et définir une info-conseil qui s’affiche lorsque le curseur pointe vers le lien. En savoir plus [sur les liens hypertexte dans Word pour le web.](https://go.microsoft.com/fwlink/p/?LinkId=271863)
+Avec Word pour le web, vous pouvez facilement créer des liens vers des signets dans un document et définir une info-pointe qui s’affiche lorsque le curseur pointe vers le lien. En savoir plus [sur les liens hypertexte dans Word pour le web.](https://go.microsoft.com/fwlink/p/?LinkId=271863)
   
 ## <a name="index"></a>Index
 
@@ -176,7 +177,7 @@ Avec Word pour le web, vous pouvez aligner les paragraphes à gauche, à droite 
   
 ## <a name="picture-tools"></a>Outils Image
 
-Avec Word pour le web, vous pouvez resizer des images et ajouter un texte de remplacement dans votre document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Word pour le web vous permet de re tailler des images et d’ajouter un texte de remplacement dans votre document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="preformatted-font-and-color-schemes"></a>Polices et modèles de couleurs préformatés
 
@@ -224,7 +225,7 @@ Non disponible dans Word pour le web. Les fonctionnalités multimédias enrichie
   
 ## <a name="rich-table-formatting"></a>Mise en forme de tableaux enrichie
 
-La mise en forme de tableau avancée, telle que le choix de styles de tableau pré-définies, la définition d’options pour les lignes et les colonnes d’en-tête et la définition d’options d’ombrage et de bordures, sont disponibles dans Word pour le web et l’application Word de bureau. Pour en savoir plus sur la mise en forme des tableaux dans Word pour le web, voir [Nouveautés de Word pour le web.](https://go.microsoft.com/fwlink/?LinkId=389520)
+La mise en forme de tableau avancée, telle que le choix de styles de tableau pré-définies, la définition d’options pour les lignes et les colonnes d’en-tête, et la définition d’options pour l’ombrage et les bordures, sont disponibles dans Word pour le web et l’application Word de bureau. Pour en savoir plus sur la mise en forme des tableaux dans Word pour le web, voir [Nouveautés de Word pour le web.](https://go.microsoft.com/fwlink/?LinkId=389520)
   
 ## <a name="save-as-and-download-a-copy"></a>Enregistrer sous et télécharger une copie
 
@@ -276,7 +277,7 @@ Les contrôles ActiveX, les objets OLR intégrés et une ligne de signature s'af
   
 ## <a name="view-and-add-comments"></a>Affichage et ajout de commentaires
 
-Avec Word pour le web, vous pouvez insérer, modifier ou supprimer des commentaires en mode Édition. Vous pouvez également répondre à un commentaire ou le marquer comme traité, comme vous le feriez dans Word sur le bureau.
+Word pour le web vous permet d’insérer, de modifier ou de supprimer des commentaires en mode Édition. Vous pouvez également répondre à un commentaire ou le marquer comme traité, comme vous le feriez dans Word sur le bureau.
   
 ## <a name="watermarks"></a>Filigranes
 
@@ -296,4 +297,4 @@ Pour afficher la disponibilité des fonctionnalités entre les plans, les option
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>Spécifications et limitations des paramètres d’exploitation
 
-Pour plus d’informations sur les limites des paramètres d’exploitation, voir Limitations et spécifications des [paramètres d’exploitation dans Word.](/office/troubleshoot/word/operating-parameter-limitation)
+Pour plus d’informations sur les limites des paramètres d’exploitation, voir Limitations et [spécifications des paramètres d’exploitation dans Word.](/office/troubleshoot/word/operating-parameter-limitation)

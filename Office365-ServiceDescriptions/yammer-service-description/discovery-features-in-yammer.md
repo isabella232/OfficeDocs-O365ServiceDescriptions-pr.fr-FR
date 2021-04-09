@@ -2,6 +2,7 @@
 title: Fonctionnalités de découverte dans Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 8992cf1bbadf980b9e869eecc8d99b6fef1a3c78
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: 263a6b7cc3fd3a9ed51e0e22ff5b311478eb8fec
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624525"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653546"
 ---
 # <a name="discovery-features-in-yammer"></a>Fonctionnalités de découverte dans Yammer
 
@@ -24,26 +25,26 @@ Les fonctionnalités de découverte suivantes sont disponibles dans Yammer.
   
 ## <a name="feeds"></a>Flux
 
-Restez au fait des conversations, des fichiers et des projets pertinents qui se produisent au sein de l’organisation. Les flux vous permettent de participer rapidement à des conversations, de @mention des collègues pour les parcourir dans une discussion et de prévisualiser des documents.
+Restez au fait des conversations, fichiers et projets pertinents qui se produisent au sein de l’organisation. Les flux vous permet de vous engager rapidement dans des conversations, @mention vos collègues de les mettre en boucle dans une discussion et d’afficher un aperçu des documents.
 
-## <a name="instant-type-ahead"></a>Type de saisie semi-automatique
+## <a name="instant-type-ahead"></a>Type d’avance instantané
 
-Des suggestions de résultats de recherche apparaissent au fur et à mesure de votre saisie pour vous aider à trouver ce dont vous avez besoin plus rapidement. Les résultats sont catégorisés par des personnes, des groupes, des fichiers, des notes, des rubriques et des applications.
+Des suggestions de résultats de recherche apparaissent au fur et à mesure de votre saisie pour vous aider à trouver ce dont vous avez besoin plus rapidement. Les résultats sont classés par personnes, groupes, fichiers, notes, rubriques et applications.
     
 ## <a name="ticker"></a>Télex
 
-Découvrez ce sur quoi vos collègues travaillent à tout moment. Le téléscripteur affiche les activités qui se produisent en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour effectuées dans d’autres applications d’entreprise.
+Découvrez ce sur quoi vos collègues travaillent à tout moment. Le ticker vous montre les activités qui se produisent en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour réalisées dans d’autres applications métiers.
   
 ## <a name="topics"></a>Topics
 
-Baliser le contenu avec des rubriques pour aider les autres utilisateurs à trouver rapidement des messages, des fichiers, des notes connexes et plus encore en ajoutant un mot-dièse (#) avant le mot ou en recherchant des rubriques existantes.
+Balisez le contenu avec des rubriques pour aider les autres à trouver rapidement des messages connexes, des fichiers, des notes, etc. en ajoutant un hashtag (#) avant le mot ou en recherchant des rubriques existantes.
   
 ## <a name="universal-search"></a>Recherche universelle
 
-La recherche en texte intégral vous permet de trouver rapidement des fichiers, des notes, des conversations, des personnes et des données au sein de votre réseau Yammer et des applications métiers intégrées.
+La recherche en texte intégral vous permet de trouver rapidement des fichiers, des notes, des conversations, des personnes et des données dans Yammer réseau et les applications métiers intégrées.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans, les options autonomes et les solutions locales, consultez la rubrique [Yammer Service Description](yammer-service-description.md).
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Yammer description du service.](yammer-service-description.md)
   
   

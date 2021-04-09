@@ -2,6 +2,7 @@
 title: Services de messagerie vocale
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: fe1d1f5a58012498e5b0f71c9a4299e61a4456ad
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 23cc82d51d1afcbd2662e86dd6bc2aeebfb22346
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173389"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652678"
 ---
 # <a name="voice-message-services"></a>Services de messagerie vocale
 
@@ -45,7 +46,7 @@ Les services hébergés de messagerie vocale permettent à une société de conn
     
 - Règles de répondeurs d’appel (voir [Autoriser les utilisateurs](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) de messagerie vocale à envoyer des appels pour plus d’informations).
     
-- Messagerie vocale protégée dans Exchange Online (pour plus d’informations, voir Protéger la messagerie vocale [dans Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
+- Messagerie vocale protégée dans Exchange Online (pour plus d’informations, voir Protéger la messagerie [vocale dans Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
     
 - Aperçu de messagerie vocale (voir [Autoriser les utilisateurs à](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) voir une transcription de messagerie vocale pour une liste des langues pris en charge).
     

@@ -2,6 +2,7 @@
 title: OneNote pour le web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilisez OneNote pour le web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe quel endroit et facilement partager avec d’autres personnes. Tous les clients peuvent afficher et modifier légèrement des fichiers Office à l’aide d’Office pour le web.
-ms.openlocfilehash: c23edcb6107fd097bc6a72d173f96a451db1a6cd
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 96d240e7911991a605303ec2f62c0444cbb7ed9b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173889"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652348"
 ---
 # <a name="onenote-for-the-web"></a>OneNote pour le web
 
@@ -94,7 +95,7 @@ Non disponible dans OneNote pour le web. L'application OneNote de bureau vous pe
   
 ## <a name="linked-notes"></a>Notes liées
 
-La possibilité de lier la prise de notes aux fichiers n’est pas disponible dans OneNote pour le web et les liens vers les fichiers sont masqués. Toutefois, ils sont conservés dans les notes afin que vous puissiez les ouvrir avec l'application OneNote de bureau. 
+La possibilité de lier la prise de notes à des fichiers n’est pas disponible dans OneNote pour le web et les liens vers les fichiers sont masqués. Toutefois, ils sont conservés dans les notes afin que vous puissiez les ouvrir avec l'application OneNote de bureau. 
   
 ## <a name="navigation"></a>Navigation
 
@@ -107,11 +108,11 @@ Les fonctionnalités de gestion avancées, telles que la création, la suppressi
   
 ## <a name="offline-viewing-and-authoring"></a>Création et affichage en mode hors connexion
 
-Non disponible dans OneNote pour le web. Office pour le web nécessite une connexion Internet et un navigateur web. Vous avez besoin que l’application oneNote de bureau soit installée sur votre ordinateur pour afficher et modifier un document tout en vous déconnectant d’Office Web Apps Server ou d’Internet.
+Non disponible dans OneNote pour le web. Office pour le web nécessite une connexion Internet et un navigateur web. L’application oneNote de bureau doit être installée sur votre ordinateur pour afficher et modifier un document tout en le déconnectant d’Office Web Apps Server ou d’Internet.
   
 ## <a name="outlook-integration-tasks"></a>Outlook integration (tasks)
 
-OneNote pour le web ne prend pas en charge les commandes qui fonctionnent avec Microsoft Outlook, telles que la page de messagerie, les tâches Outlook ou les détails de la réunion.
+OneNote pour le web ne prend pas en charge les commandes qui fonctionnent avec Microsoft Outlook, telles que la page e-mail, les tâches Outlook ou les détails de la réunion.
   
 ## <a name="paragraph-formatting"></a>Mise en forme de paragraphe
 

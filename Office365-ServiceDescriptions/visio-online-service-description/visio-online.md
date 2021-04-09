@@ -2,6 +2,7 @@
 title: Visio pour le web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio pour le web étend votre expérience Microsoft Visio au navigateur, où vous pouvez créer et modifier des diagrammes enregistrés dans le cloud. Les clients Microsoft 365 peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en cours de travail.
-ms.openlocfilehash: 70e738a853a5550cf58a481c8cf1fca318539722
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172489"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653636"
 ---
 # <a name="visio-for-the-web"></a>Visio pour le web
 
@@ -122,4 +123,4 @@ Vous pouvez utiliser Visio pour le web pour voir les métadonnées d’un diagra
   
 ## <a name="zoom"></a>Zoom
 
-Visio pour le web inclut un curseur qui vous permet d’effectuer un zoom avant et arrière. En outre, vous pouvez utiliser la fonctionnalité Zoom panoramique pour effectuer un &amp; zoom avant sur une région du diagramme.
+Visio pour le web inclut un curseur qui vous permet d’effectuer un zoom avant et arrière. En outre, vous pouvez utiliser la fonctionnalité Zoom panoramique pour effectuer un zoom avant sur une &amp; région du diagramme.

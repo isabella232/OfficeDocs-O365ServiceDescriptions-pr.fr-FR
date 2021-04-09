@@ -2,33 +2,34 @@
 title: Description du service Visio pour le web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Comparez les fonctionnalités de Visio pour le Web à l’application de bureau Visio.
-ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+description: Comparez les fonctionnalités de Visio pour le web avec l’application de bureau Visio.
+ms.openlocfilehash: c490e0fbb891c09cfa73706002d6f5b7b3b33452
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276668"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653620"
 ---
 # <a name="visio-for-the-web-service-description"></a>Description du service Visio pour le web
 
-Avec Visio pour le Web, vous pouvez afficher, modifier et partager des diagrammes Visio sur le Web. Commencez par un diagramme simple pour exprimer des idées courantes, par exemple pour décrire un plan, formuler une proposition ou énumérer une suite d'étapes pour un processus. Il est simple et facile de créer des diagrammes de première classe avec des types de diagrammes et des jeux de formes enrichis. Visio pour les utilisateurs Web peut afficher et collaborer en partageant des diagrammes et en insérant des commentaires dans des fichiers chargés sur SharePoint Online ou OneDrive entreprise online.
+Visio pour le web vous permet d’afficher, de modifier et de partager des diagrammes Visio sur le web. Commencez par un diagramme simple pour exprimer des idées courantes, par exemple pour décrire un plan, formuler une proposition ou énumérer une suite d'étapes pour un processus. Il est simple et facile de créer des diagrammes de première classe avec des types de diagrammes couramment utilisés et des jeux de formes enrichis. Les utilisateurs de Visio pour le web peuvent afficher et collaborer en partageant des diagrammes et en insérant des commentaires dans des fichiers téléchargés vers SharePoint Online ou OneDrive Entreprise Online.
   
-Pour plus d’informations et pour commencer, reportez-vous à [Visio plan 1](https://products.office.com/visio/visio-online).
+Pour plus d’informations et pour commencer, voir [Visio Plan 1](https://products.office.com/visio/visio-online).
   
-Pour obtenir de l’aide lors de l’utilisation de Visio pour le Web, reportez-vous à l' [aide visio & formation](https://support.office.com/visio).
+Pour obtenir de l’aide lors de l’utilisation de Visio pour le web, voir [l’aide de Visio & l’apprentissage.](https://support.office.com/visio)
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilité et comparaison des fonctionnalités
 
-Le tableau suivant compare les fonctionnalités de fonctionnalité Web de Visio à l’application de bureau Visio riche en fonctionnalités. Utilisez le tableau pour découvrir les fonctionnalités disponibles dans Visio pour le Web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin des fonctionnalités avancées de l’application de bureau Visio, tandis que d’autres personnes ont besoin d’afficher et de modifier légèrement des diagrammes Visio avec Visio pour le Web.<br><br> 
+Le tableau suivant compare Visio pour les fonctionnalités web à l’application de bureau Visio riche en fonctionnalités. Utilisez le tableau pour découvrir les fonctionnalités disponibles dans Visio pour le web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin des fonctionnalités avancées de l’application de bureau Visio, tandis que d’autres n’ont besoin que d’afficher et de modifier légèrement les diagrammes Visio avec Visio pour le web.<br><br> 
   
-| Fonctionnalité de l’application | Visio pour le web | Application de bureau Visio |
+| Fonctionnalité d’application | Visio pour le web | Application de bureau Visio |
 |:-----|:-----|:-----|
 |[Appliquer des formes et une mise en forme enrichie au texte](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Disposer des objets](visio-online.md#arrange-objects) <br/> |Oui  <br/> |Oui  <br/> |
@@ -58,14 +59,14 @@ Le tableau suivant compare les fonctionnalités de fonctionnalité Web de Visio 
    
 > <sup>1</sup> Suivre des liens hypertexte (sans pouvoir en insérer ou les modifier). 
 <br/><sup>2</sup> Partager via SharePoint ou OneDrive Entreprise et partager avec des utilisateurs qui n'ont pas SharePoint ou OneDrive. 
-<br/> <sup>3</sup> non disponible dans Visio pour l’éditeur Web.
-<br/><sup>4</sup> non disponible dans Visio pour la visionneuse Web. 
-<br/><sup>5</sup> non disponible dans Visio pour l’éditeur Web, mais vous pouvez basculer en mode affichage et afficher les commentaires. 
-<br/><sup>6</sup> disponible dans Visio pour l’éditeur Web. 
+<br/> <sup>3 Non</sup> disponible dans Visio pour l’éditeur web.
+<br/><sup>4 Non</sup> disponible dans Visio pour la visionneuse web. 
+<br/><sup>5 Non</sup> disponible dans Visio pour l’éditeur web, mais vous pouvez basculer en mode Affichage et afficher les commentaires. 
+<br/><sup>6</sup> Disponible dans Visio pour l’éditeur web. 
   
-## <a name="supported-file-types-in-visio-for-the-web"></a>Types de fichiers pris en charge dans Visio pour le Web
+## <a name="supported-file-types-in-visio-for-the-web"></a>Types de fichiers pris en charge dans Visio pour le web
 
-| Diagramme Visio créé dans Visio 2010 ou version ultérieure | Mode Affichage | Mode Édition |
+| Diagramme Visio créé dans Visio 2010 ou ultérieur | Mode Affichage | Mode Édition |
 |:-----|:-----|:-----|
 |Open XML (.vsdx)  <br/> |Oui  <br/> |Non  <br/> |
 |Binaire (.vsd)  <br/> |Oui  <br/> |Non  <br/> |

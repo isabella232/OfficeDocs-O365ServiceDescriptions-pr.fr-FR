@@ -2,6 +2,7 @@
 title: Office 365 pour le gouvernement américain
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et en constante évolution du secteur public des États-Unis, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365 pour le gouvernement). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques aux environnements Office 365 pour le gouvernement américain.
-ms.openlocfilehash: 27943ddbb1f590f06c74b335c89844afe11a7b02
-ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
+ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51484827"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653156"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -150,7 +151,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |Skype for Business (Instant Messaging &amp; Presence)|Oui<sup>1</sup>|Oui|Oui|Oui<sup>1</sup>|
 |Voix - Système téléphonique, audioconférence|Non<sup>2</sup>|Non<sup>2</sup>|Oui<sup>5</sup>|Non|
 |Power BI Pro|Non<sup>2</sup>|Non<sup>2</sup>|Oui|Non<sup>2</sup>|
-|Microsoft Project Online|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|
+|Project Online|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|
 |Visio pour le web|Non<sup>6</sup>|Non<sup>6</sup>|Non<sup>6</sup>|Non<sup>6</sup>|
 |Yammer Entreprise|Non<sup>4</sup>|Non<sup>4</sup>|Non<sup>4</sup>|Non<sup>4</sup>|
 

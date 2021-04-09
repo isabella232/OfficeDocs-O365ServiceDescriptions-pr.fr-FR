@@ -2,6 +2,7 @@
 title: Fonctionnalités de Skype Entreprise Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités de Skype Entreprise Online dans Configurer Skype Entreprise Online.
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172669"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651019"
 ---
 # <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
@@ -67,7 +68,7 @@ Un codec audio adaptatif est fourni aux utilisateurs pour des performances optim
   
 En plus de l’audio, Skype Entreprise permet aux utilisateurs de se connecter via des sessions vidéo de haute qualité. Sont prises en charge les sessions en face à face et multipartites (trois utilisateurs ou plus). La vidéo de l'intervenant actif est disponible uniquement pour les sessions multipartites. Avec Skype Entreprise, les utilisateurs peuvent aisément planifier une réunion en ligne avec vidéo ou transformer une session de messagerie instantanée en appel vidéo.
   
-Pour en savoir plus sur les réunions en ligne Skype Entreprise, voir Démarrer l’utilisation de Skype Entreprise pour la messagerie instantanée et les [réunions en ligne.](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd)
+Pour en savoir plus sur les réunions en ligne Skype Entreprise, voir Commencer à utiliser Skype Entreprise pour la messagerie instantanée [et les réunions en ligne.](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd)
   
 > [!IMPORTANT]
 > Il est possible que des fonctionnalités de conférence audio et vidéo Skype Entreprise à plusieurs ne soient pas disponibles dans certains pays en raison de restrictions réglementaires. Pour obtenir plus d'informations, consultez les [restrictions de licence existantes](https://go.microsoft.com/fwlink/?LinkId=278963). 
@@ -120,7 +121,7 @@ La fonctionnalité d'audioconférence n'est pas disponible dans tous les pays ou
   
 ## <a name="calling-plans"></a>Forfaits d’appel
 
-Skype Entreprise inclut des fonctionnalités d'appel trouvées sur le réseau téléphonique commuté (PSTN). Les forfaits d’appels [](#phone-system-in-office-365) sont un module ajoute au système téléphonique qui vous permet de rechercher, d’acquérir et d’attribuer des numéros de téléphone aux utilisateurs de votre organisation afin qu’ils peuvent appeler et recevoir des appels de personnes à l’intérieur et à l’extérieur de l’organisation, directement à partir d’Office 365. Les utilisateurs auxquels des numéros de téléphone sont attribués peuvent effectuer des appels vocaux sur tous les appareils Skype Entreprise, y compris les téléphones VoIP, les PC et les appareils mobiles. Ils peuvent aussi contrôler leurs appels en désactivant le son ou à l'aide des fonctionnalités de mise en attente, de renvoi d'appel et de transfert d'appel, ainsi que passer des appels d'urgence. 
+Skype Entreprise inclut des fonctionnalités d'appel trouvées sur le réseau téléphonique commuté (PSTN). Les forfaits d’appels [](#phone-system) sont un module ajoute au système téléphonique qui vous permet de rechercher, d’acquérir et d’affecter des numéros de téléphone aux utilisateurs de votre organisation afin qu’ils peuvent effectuer et recevoir des appels de personnes à l’intérieur et à l’extérieur de l’organisation, directement à partir d’Office 365. Les utilisateurs auxquels des numéros de téléphone sont attribués peuvent effectuer des appels vocaux sur tous les appareils Skype Entreprise, y compris les téléphones VoIP, les PC et les appareils mobiles. Ils peuvent aussi contrôler leurs appels en désactivant le son ou à l'aide des fonctionnalités de mise en attente, de renvoi d'appel et de transfert d'appel, ainsi que passer des appels d'urgence. 
   
 Pour obtenir plus d'informations sur les plans d'appel disponibles, accédez à la rubrique [Plans d'appel pour Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Pour plus d’informations et pour configurer un forfait d’appels, consultez le [plan d’appel qui vous est le mieux ?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

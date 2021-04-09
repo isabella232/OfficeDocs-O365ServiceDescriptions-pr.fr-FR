@@ -2,6 +2,7 @@
 title: Description du service Office pour le web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,23 +11,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office pour le web (anciennement Office Web Apps) ouvre les documents Word, Excel, OneNote et PowerPoint dans votre navigateur web. Office pour le web facilite le travail et le partage de fichiers Office de n’importe où avec une connexion Internet, à partir de presque n’importe quel appareil. Les clients Microsoft 365 avec Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en cours de travail.
-ms.openlocfilehash: 199568d34f9d30d507ee9635b6f30b29f463baf4
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+description: Office pour le web (anciennement Office Web Apps) ouvre les documents Word, Excel, OneNote et PowerPoint dans votre navigateur web. Office pour le web facilite le travail et le partage de fichiers Office de n’importe où avec une connexion Internet, à partir de presque n’importe quel appareil. Les clients Microsoft 365 qui utilisent Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en tout temps.
+ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726689"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652368"
 ---
 # <a name="office-for-the-web-service-description"></a>Description du service Office pour le web
 
-Office pour le web (anciennement Office Web Apps) ouvre les documents Word, Excel, OneNote et PowerPoint dans votre navigateur web. Office pour le web facilite le travail et le partage de fichiers Office depuis n’importe où avec une connexion Internet, à partir de presque n’importe quel appareil. Les clients Microsoft 365 qui utilisent Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en tout temps. 
+Office pour le web (anciennement Office Web Apps) ouvre les documents Word, Excel, OneNote et PowerPoint dans votre navigateur web. Office pour le web facilite le travail et le partage de fichiers Office de n’importe où avec une connexion Internet, à partir de presque n’importe quel appareil. Les clients Microsoft 365 qui utilisent Word, Excel, OneNote ou PowerPoint peuvent afficher, créer et modifier des fichiers en tout temps. 
   
 ## <a name="available-plans"></a>Plans disponibles
 
 Pour obtenir des informations détaillées sur les abonnements qui permettent aux utilisateurs d’office pour le web, consultez le tableau de comparaison complet [des abonnements.](https://go.microsoft.com/fwlink/?linkid=2139145)
   
-## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilité des fonctionnalités dans office pour les plans web
+## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilité des fonctionnalités dans Office pour les plans web
 
 Vous avez besoin d’aide pour déterminer quelle solution Office convient le mieux à votre organisation ? Les tableaux suivants comparent les fonctionnalités d’Office pour le web aux fonctionnalités Microsoft Office applications de bureau. Utilisez les tableaux pour découvrir les fonctionnalités disponibles dans Office pour le web, puis sélectionnez le nom de la fonctionnalité pour lire une brève description du fonctionnement de cette fonctionnalité. Vous pouvez découvrir que certaines personnes de votre organisation ont besoin de la fonctionnalité de graphique avancée de l’application excel de bureau, tandis que d’autres n’ont besoin d’afficher et de modifier légèrement que des documents Word et des présentations PowerPoint avec Office pour le web. 
   
@@ -126,7 +127,7 @@ Vous avez besoin d’aide pour déterminer quelle solution Office convient le mi
 |[Saisie semi-automatique](excel-online.md#autocomplete) <br/> |Oui  <br/> |Oui  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Oui  <br/> |Oui  <br/> |
 |[Calculs](excel-online.md#calculations) <br/> |Oui  <br/> |Oui  <br/> |
-|[Références de cellule dans les formules](excel-online.md#cell-references-in-formulas) <br/> |Oui  <br/> |Oui  <br/> |
+|[Références de cellules dans les formules](excel-online.md#cell-references-in-formulas) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création de commentaires](excel-online.md#comment-creation) <br/> |Oui  <br/> |Oui  <br/> |
 |[Copie et collage](excel-online.md#copy-and-paste) <br/> |Oui  <br/> |Oui  <br/> |
 |[Créer des connexions de données<sup>externes 2</sup>](excel-online.md#create-external-data-connections) <br/> |Non<sup>3</sup> <br/> |Oui  <br/> |

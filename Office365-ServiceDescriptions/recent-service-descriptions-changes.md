@@ -2,6 +2,7 @@
 title: Modifications récentes de descriptions de service
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: Les tableaux suivants répertorient les modifications récemment apportées au contenu des descriptions de service.
-ms.openlocfilehash: c4f8635af11b41bcd9e12e147d5fe04b394dbe12
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51174109"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651039"
 ---
 # <a name="recent-service-descriptions-changes"></a>Modifications récentes de descriptions de service
 
@@ -31,8 +32,8 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Disponibilité mise à jour dans Microsoft 365 Apps for business.  <br/> |
 |Applications Office  <br/> |[Description de service des applications Office](office-applications-service-description/office-applications-service-description.md) <br/> |Disponibilité mise à jour sur les plateformes mobiles.  <br/> |
 |Workplace Analytics  <br/> |[Description du service Workplace Analytics](workplace-analytics-service-description.md) <br/> |Mise à jour de la limite de licence, ajout d’un lien vers l’article De mise en place, mise à jour des conditions préalables.  <br/> |
-|Microsoft Project Online  <br/> |[Description du service Project Online](project-online-service-description/project-online-service-description.md) <br/> |Clarification de la gestion des licences.  <br/> |
-|Visio Online  <br/> |[Description du service Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Tableau des fonctionnalités mis à jour pour afficher les fonctionnalités supplémentaires désormais disponibles dans Visio Online.  <br/> |
+|Project Online  <br/> |[Description du service Project Online](project-online-service-description/project-online-service-description.md) <br/> |Clarification de la gestion des licences.  <br/> |
+|Visio Online  <br/> |[Description du service Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Tableau des fonctionnalités mises à jour pour afficher les fonctionnalités supplémentaires désormais disponibles dans Visio Online.  <br/> |
    
 ## <a name="may-2018"></a>Mai 2018
 
@@ -88,18 +89,18 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
 |Office 365 Plateforme  <br/> |[Microsoft 365 Éducation](office-365-platform-service-description/microsoft-365-education.md) <br/> |Correction de la disponibilité de Microsoft Teams dans les plans Éducation.  <br/> |
 |Skype Entreprise Online  <br/> |[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Clarification de la limitation de conversation client.  <br/> |
-|Multiple  <br/> |Multiple  <br/> |Ajout d’une clé client dans les descriptions du service Skype Entreprise Online, SharePoint Online et OneDrive Entreprise.  <br/> |
+|Multiple  <br/> |Multiple  <br/> |Ajout de la clé client à Skype Entreprise Online, SharePoint Online et les descriptions du service OneDrive Entreprise.  <br/> |
    
 ## <a name="december-2017"></a>Décembre 2017
 
 ||||
 |:-----|:-----|:-----|
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
-|Office 365 Plateforme  <br/> |[Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Modifications apportées relatives à la disponibilité des services, y compris Stream et Delve, dans Office 365 Entreprise F1.  <br/> |
+|Office 365 Plateforme  <br/> |[Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Modification apportée à la disponibilité des services, y compris Stream et Delve, dans Office 365 Entreprise F1.  <br/> |
 ||[Mises à jour du service](office-365-platform-service-description/service-updates.md) <br/> |« Première version » est désormais « Publication ciblée ». Lien mis à jour vers la page des programmes de publication Office 365.  <br/> |
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Clarification de la prise en charge du déploiement hybride avec Office 365 Entreprise F1 et Exchange Online Kiosk plan.  <br/> |
 |OneDrive Entreprise  <br/> |[Description du service OneDrive Entreprise](onedrive-for-business-service-description.md) <br/> |Disponibilité supplémentaire de OneDrive Entreprise pour Office 365 Entreprise F1 (ces utilisateurs ont 2 Go d’espace OneDrive).  <br/> |
-|SharePoint Online  <br/> |[Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |BCS modifié : disponibilité des webparts de données métiers dans la cal standard SharePoint Server 2013 sous les plans sharePoint locaux de « Oui » à « Non »  <br/> |
+|SharePoint Online  <br/> |[Description du service SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |BCS modifié : disponibilité des webparts de données métiers dans la cal standard sharePoint Server 2013 sous les plans sharePoint locaux de « Oui » à « Non »  <br/> |
    
 ## <a name="november-2017"></a>Novembre 2017
 
@@ -117,7 +118,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||[Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Clarification de la limite de pièces jointes de 35 Mo pour Outlook Web Access (OWA). Un fichier individuel joint dont la taille dépasse 35 Mo est bloqué. En outre, un groupe de fichiers joints qui dépasse collectivement 35 Mo est également bloqué.  <br/> |
 ||[Clients et appareils mobiles](exchange-online-service-description/clients-and-mobile-devices.md) <br/> |Plusieurs mises à jour ; article restructuré.  <br/> |
 |Multiple  <br/> |Multiple  <br/> |Correction des références à Microsoft Sway.  <br/> |
-|Multiple  <br/> |Multiple  <br/> |Mise à jour des descriptions de service OneDrive Entreprise et SharePoint Online pour inclure des fonctionnalités hybrides supplémentaires. Ajout de fonctionnalités hybrides à Office 365 géré par Vianet, Office 365 Germany et les pages Office 365 Éducation.  <br/> |
+|Multiple  <br/> |Multiple  <br/> |Mise à jour des descriptions de service OneDrive Entreprise et SharePoint Online pour inclure des fonctionnalités hybrides supplémentaires. Ajout de fonctionnalités hybrides aux pages Office 365 géré par Vianet, Office 365 Germany et Office 365 Éducation.  <br/> |
    
 ## <a name="october-2017"></a>Octobre 2017
 
@@ -127,7 +128,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |Office 365 Plateforme  <br/> |[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Ajout de détails sur la gouvernance avancée.  <br/> |
 ||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Ajout des migrations de données effectuées par la table FastTrack.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Notez également que le partage fédéré nécessite l’utilisation de l’espace d’adressare de disponibilité pour prendre en charge le partage avec d’autres locataires.  <br/> |
-|Exchange Online  <br/> |[Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Ajout de limites pour la version héritée du chiffrement de messages Office 365 (OME) et le chiffrement de messages Office 365 (OME) avec de nouvelles fonctionnalités.  <br/> |
+|Exchange Online  <br/> |[Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Ajout de limites pour la version héritée du chiffrement de messages Office 365 (OME) et le chiffrement de messages Office 365 (OME) avec de nouvelles fonctionnalités.  <br/> |
 |Skype Entreprise  <br/> |[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Notez également que l’audioconférence peut être ajoutée aux plans d’abonnement Microsoft 365 Business Standard, Office 365 Entreprise E1 et Office 365 Entreprise E3 en tant que module supplémentaire.  <br/> |
 ||[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Notez également que les crédits de communication peuvent être ajoutés au plan d’abonnement Microsoft 365 Business Standard en tant que module supplémentaire pour prendre en charge l’audioconférence uniquement.  <br/> |
 ||[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Clarification des fonctionnalités de transfert de fichiers dans Office 365 Entreprise F1.  <br/> |

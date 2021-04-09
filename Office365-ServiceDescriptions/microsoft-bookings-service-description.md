@@ -2,21 +2,22 @@
 title: Description du service Microsoft Bookings
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Découvrez les options et fonctionnalités de plan disponibles dans Microsoft Bookings.
-ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173029"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653376"
 ---
 # <a name="microsoft-bookings-service-description"></a>Description du service Microsoft Bookings
 
-Microsoft Bookings simplifie le processus de planification et de gestion des rendez-vous. Bookings inclut un calendrier de réservation basé sur le web et se synchronise avec Outlook pour optimiser la disponibilité et offrir aux clients et aux utilisateurs finaux la flexibilité nécessaire pour réserver un temps qui leur est le mieux réservé. Les e-mails et rappels de notification automatisés réduisent les absences de shows et améliorent la satisfaction des clients, et les organisations gagnent du temps en réduisant les tâches répétitives de planification. Bookings s’intègre à Microsoft Teams pour prendre en charge les rendez-vous virtuels via des réunions en ligne et la gestion des calendriers Bookings via l’application Bookings dans Teams.
+Microsoft Bookings simplifie le processus de planification et de gestion des rendez-vous. Bookings inclut un calendrier de réservation basé sur le web et se synchronise avec Outlook pour optimiser la disponibilité et offrir aux clients et aux utilisateurs finaux la flexibilité nécessaire pour réserver un temps qui leur est le mieux réservé. Les e-mails et rappels de notification automatisés réduisent les absences de notifications et améliorent la satisfaction des clients, et les organisations gagnent du temps en réduisant les tâches répétitives de planification. Bookings s’intègre à Microsoft Teams pour prendre en charge les rendez-vous virtuels via des réunions en ligne et la gestion des calendriers Bookings via l’application Bookings dans Teams.
 
 ## <a name="available-plans"></a>Plans disponibles
 
