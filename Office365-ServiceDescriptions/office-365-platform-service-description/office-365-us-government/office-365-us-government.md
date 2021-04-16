@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et en constante évolution du secteur public des États-Unis, Microsoft a créé des plans Office 365 pour le gouvernement américain (ou Office 365 pour le gouvernement). Cet article fournit une vue d'ensemble des fonctionnalités spécifiques aux environnements Office 365 pour le gouvernement américain.
-ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: d72294f222850b5b3d2705302f578d9a67f6075d
+ms.sourcegitcommit: c64da86e181eb61e622c2f29e1ab994b5de6894a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767484"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857824"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -40,7 +40,7 @@ La description du service Office 365 pour le secteur public est conçue pour ser
 
 Les plans Office 365 pour le gouvernement sont des abonnements mensuels et peuvent être sous licence pour un nombre illimité d'utilisateurs.
 
-- L'environnement **Office 365 GCC** assure la conformité avec les exigences fédérales pour les services cloud, y compris FedRAMP High, et les exigences relatives aux systèmes d'informations fiscales fédérales et de la justice pénale (types de données CJI et FTI).
+- L'environnement **Office 365 GCC** assure la conformité avec les exigences fédérales pour les services cloud, notamment FedRAMP High, et les exigences relatives aux systèmes d'informations fiscales fédérales et de justice pénale (types de données CJI et FTI).
 
 - Les environnements **Office 365 GCC High** et DoD assurent la conformité avec les recommandations en matière de sécurité du département de la Défense, le DFARS (Defense Federal Acquisition Regulations Supplement) et la réglementation ITAR (International Traffic in Arms Regulations).
 
@@ -56,7 +56,7 @@ Outre les fonctionnalités d'Office 365, les organisations qui utilisent Office 
 
 ## <a name="customer-eligibility"></a>Conditions d’éligibilité des clients
 
-Office 365 Pour le gouvernement américain est disponible pour (1) les entités gouvernementales fédérales, gouvernementales, locales, y siègent et (2) les autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et lorsque l'utilisation d'Office 365 Pour le gouvernement est appropriée pour répondre à ces exigences, sous réserve de validation de l'éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. L'environnement Office 365 DoD est pour une utilisation exclusive du département de la Défense des États-Unis.
+Office 365 Pour le gouvernement américain est disponible pour (1) les entités fédérales, gouvernementales, locales, ovales et gouvernementales américaines, et (2) les autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et lorsque l'utilisation d'Office 365 Pour le gouvernement est appropriée pour répondre à ces exigences, sous réserve de validation de l'éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. L'environnement Office 365 DoD est pour une utilisation exclusive du département de la Défense des États-Unis.
 
 Bien que les critères d'éligibilité soient cohérents dans les offres Office 365 pour le secteur public, Microsoft acceptera uniquement la langue du contrat DFARS et ITAR pour l'environnement GCC High.
 
@@ -68,11 +68,11 @@ Lors du renouvellement du contrat d'un client pour Office 365 pour le gouverneme
 
 Les services Office 365 Pour le gouvernement sont fournis à partir de centres de données physiquement situés aux États-Unis. Le contenu client suivant est enregistré au repos dans des centres de données situés physiquement uniquement aux États-Unis :
 
-- Contenu de boîte aux lettres Exchange Online (corps des messages électroniques, entrées de calendrier et contenu des pièces jointes des messages électroniques)
+- Contenu de boîte aux lettres Exchange Online (corps de courrier électronique, entrées de calendrier et contenu de pièces jointes de courrier électronique)
 
 - Contenu du site SharePoint Online et fichiers stockés dans ce site
 
-- Conversations archivées Skype Entreprise, documents téléchargés et sessions de tableau blanc
+- Conversations archivées, documents téléchargés et sessions de tableau blanc Skype Entreprise
 
 - Threads de conversation permanente Microsoft Teams
 
@@ -101,12 +101,12 @@ L’intégration se compose des éléments suivants :
 
 - Intégration et migration de service : les tâches d'intégration de service permettent des scénarios dans votre client. La migration des données (y compris les e-mails et les fichiers) est couverte par [la migration des données.](/FastTrack/data-migration) <sup>2</sup>
 
-Les services d'adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs sont conscients des services éligibles et qu'ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
+Les services d'adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs connaissent les services éligibles et qu'ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
 
 Des informations spécifiques sur le processus du Centre FastTrack sont disponibles [ici.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d'engagement, examinez les responsabilités [fastTrack](/FastTrack/us-gov-appendix-fasttrack-responsibilities) ainsi que [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
 
 > <sup>1</sup> Vous devez acheter au moins 50 licences dans la liste des [plans](/fasttrack/eligibility) éligibles pour recevoir les services FastTrack.
-<br/><sup>2</sup> Les services de migration de données sont disponibles pour les clients Office 365 avec au moins 500 licences.
+<br/><sup>2</sup> Les services de migration de données sont disponibles pour les clients Office 365 avec 500 licences ou plus.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrations de données effectuées par FastTrack
 
@@ -290,7 +290,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>7 La réduction</sup> des sièges achetés avec une remise à terme peut être soumise à des frais de résiliation anticipée. Ceci n’est pas applicable aux abonnements payés sur une base mensuelle.
 <br/><sup>8</sup> Les plans suivants ne viennent pas en charge des changements de licence du Centre d'administration Microsoft 365 : Office 365 Pour le gouvernement G1, Office 365 Pour le gouvernement G3, Office 365 Pour le gouvernement F3.
 <br/><sup>9</sup> Pas encore disponible dans GCC High, mais bientôt disponible.
-<br/><sup>10</sup> Pour Office 365 Pour le gouvernement G1, G3 et F3, la version ciblée et la feuille de route Office 365 pour les entreprises s'appliquent ; toutefois, il peut y avoir des différences ou des retards pour des mises à jour de service spécifiques en raison des exigences [de conformité.](https://www.microsoft.com/trust-center)
+<br/><sup>10</sup> Pour Office 365 pour le gouvernement G1, G3 et F3, la version ciblée et la feuille de route Office 365 pour les entreprises s'appliquent ; toutefois, il peut y avoir des différences ou des retards pour des mises à jour de service spécifiques en raison des exigences [de conformité.](https://www.microsoft.com/trust-center)
 <br/><sup>11 Pas</sup> encore disponible dans les offres Office 365 pour le gouvernement, mais bientôt disponible.
 <br/><sup>12 Non</sup> inclus, mais peut être acheté en tant que module add-on distinct dans GCC.
 <br/><sup>13 Non pris</sup> en charge pour les offres Office 365 pour le gouvernement.
@@ -359,7 +359,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |Mises à niveau de la version|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
 |Volume activation (KMS/MAK)|Non|Non|Non|Non|
 
-> <sup>1</sup> Azure Information Protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l'information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement aux Applications Microsoft 365 pour les entreprises, qui n'est pas inclus dans Office 365 Pour le gouvernement G1 ou Office 365 Pour le gouvernement F3.
+> <sup>1</sup> Azure Information Protection n'est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l'information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Microsoft 365 Apps for enterprise, qui n'est pas inclus dans Office 365 Pour le gouvernement G1 ou Office 365 Pour le gouvernement F3.
 <br/><sup>2</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément pour activer les fonctionnalités IRM pris en charge.
 <br/><sup>3</sup> Skype Entreprise Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Microsoft 365 Apps pour entreprise et Office 365 Entreprise E3 incluent l'application Skype complète, qui inclut des fonctionnalités supplémentaires telles que la prise en charge de téléphonie avancée, l'archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup> Pas encore disponible dans les environnements GCC High ou DoD, mais bientôt disponible.
@@ -378,7 +378,7 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Types de données|Non|Non|Non|
 |Remplissage flash|Non|Non|Non|
 |Idées (Insight Services)|Non|Non|Non|
-|Intégration améliorée avec Power BI (visuels personnalisés, création de graphiques PBI directement à partir d'Excel)|Non|Non|Non|
+|Intégration améliorée avec Power BI (éléments visuels personnalisés, création de graphiques PBI directement à partir d'Excel)|Non|Non|Non|
 |Encre numérique intelligente|Non|Non|Non|
 |Groupes Office 365|Non|Non|Non|
 |Données de tableau croisé dynamique connectées à des tableaux croisés dynamiques|Non|Non|Non|
@@ -401,11 +401,11 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |[**Microsoft OneNote est**](../../office-applications-service-description/office-applications.md#microsoft-onenote) entièrement disponible dans les clouds pour le gouvernement, à **l'exception** des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment :|**GCC**|**GCC High**|**DOD**|
 |Recherche|Non|Non|Non|
 |Encre numérique intelligente|Non|Non|Non|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) est entièrement disponible dans les clouds pour le gouvernement, à **l'exception** des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment :|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Outlook est**](../../office-applications-service-description/office-applications.md#microsoft-outlook) entièrement disponible dans les clouds pour le gouvernement, à l'exception des fonctionnalités suivantes, qui ne sont pas disponibles dans tous les clouds pour le gouvernement, comme indiqué dans le tableau ci-dessous.|**GCC**|**GCC High**|**DOD**|
 |Sons Office (certains)|Non|Non|Non|
 |Dynamic Data Exchange (DDE) désactivé par défaut|Non|Non|Non|
-|Dictée|Non<sup>1</sup>|Non<sup>1</sup>|Non<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) est entièrement disponible dans les clouds pour le gouvernement, à **l'exception** des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment :|**GCC**|**GCC High**|**DOD**|
+|Dictée|Oui|Oui|Non<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) est entièrement disponible dans les clouds pour le gouvernement, à l'exception des fonctionnalités suivantes, qui ne sont pas disponibles dans tous les clouds pour le gouvernement, comme indiqué dans le tableau ci-dessous.|**GCC**|**GCC High**|**DOD**|
 |Recherche intelligente|Non|Non|Non|
 |Sons Office (certains)|Non|Non|Non|
 |Modèles 3D et animations 3D incorporées|Non|Non|Non|
@@ -418,12 +418,12 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Historique des versions|Non|Non|Non|
 |Groupes Office 365|Non|Non|Non|
 |Collaboration en temps réel (présence, co-auteur régulier, conversation dans le document)|Non|Non|Non|
-|Dictée|Non<sup>1</sup>|Non<sup>1</sup>|Non<sup>1</sup>|
+|Dictée|Oui|Oui|Non<sup>1</sup>|
 |Réutiliser des diapositives|Non|Non|Non|
 |**Le tableau blanc Microsoft dans** les clouds pour le secteur public est actuellement disponible uniquement sur les clients Hub, et non sur le Bureau.|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |Insérer des notes, du texte et des images qui collent|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Entrée manuscrite pour la forme et entrée manuscrite dans un tableau|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
-|Prétification des entrées manuscrites|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
+|Prétentification des entrées manuscrites|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Convertir une image en entrée manuscrite|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Vérificateur d'accessibilité|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Modèles dynamiques (KANBAN, SWOT, et ainsi de suite)|Non|Non|Non|
@@ -431,7 +431,7 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Présence en temps réel|Non|Non|Non|
 |Réactions sur le contenu|Non|Non|Non|
 |Galerie de tableaux blancs, y compris partagés avec vous|Non|Non|Non|
-|[**Microsoft Word est**](../../office-applications-service-description/office-applications.md#microsoft-word) entièrement disponible dans les clouds pour le gouvernement, à **l'exception** des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment :|**GCC**|**GCC High**|**DOD**|
+|[**Microsoft Word est**](../../office-applications-service-description/office-applications.md#microsoft-word) entièrement disponible dans les clouds pour le gouvernement, à l'exception des fonctionnalités suivantes, qui ne sont pas disponibles dans tous les clouds pour le gouvernement, comme indiqué dans le tableau ci-dessous.|**GCC**|**GCC High**|**DOD**|
 |Recherche intelligente|Non|Non|Non|
 |Recherche|Non|Non|Non|
 |Sons Office|Non|Non|Non|
@@ -447,11 +447,11 @@ Les applications Office suivantes sont disponibles dans les clouds pour le gouve
 |Historique des versions|Non|Non|Non|
 |Groupes Office 365|Non|Non|Non|
 |Conversation contextuelle avec les co-auteurs : discuter avec les co-auteurs dans le document|Non|Non|Non|
-|Dictée|Non<sup>1</sup>|Non<sup>1</sup>|Non<sup>1</sup>|
+|Dictée|Oui|Oui|Non<sup>1</sup>|
 
 Pour la disponibilité des fonctionnalités de Microsoft Teams dans GCC/GCC High/DoD, consultez la description du [service Microsoft Teams.](../../teams-service-description.md)
 > <sup>1 Disponibilité</sup> à venir.
 <br/><sup>2 Disponibilité</sup> sur le Surface Hub local (non signé).
-<br/><sup>3 Le</sup> partage externe est disponible pour l'environnement GCC. En savoir plus sur la façon [de désactiver ou d'activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements GCC High et DOD ; Les utilisateurs de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
+<br/><sup>3 Le</sup> partage externe est disponible pour l'environnement GCC. En savoir plus sur la façon [de désactiver ou d'activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements GCC High et DOD ; Les utilisateurs au sein de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
 <br/><sup>4 La</sup> fonctionnalité Formulaires de groupe récents est désactivée pour l'environnement GCC. Toutefois, les utilisateurs peuvent toujours accéder aux formulaires de groupe en sélectionnant un groupe spécifique sous l'onglet Formulaires de groupe.
 <br/><sup>5</sup> Word, client Windows Excel PowerPoint uniquement, et non web, MacOS, iOS ou Android.
