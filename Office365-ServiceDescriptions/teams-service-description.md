@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Découvrez la disponibilité des fonctionnalités et des services Microsoft Teams dans les plans Microsoft 365 et Office 365.
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767454"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074485"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -27,9 +27,9 @@ Si les utilisateurs ont été migrés entièrement en ligne, ils doivent avoir �
 
 ## <a name="available-plans"></a>Plans disponibles
 
-Pour obtenir des informations détaillées sur les abonnements qui activent Teams pour les utilisateurs, consultez Rechercher [microsoft teams pour votre entreprise.](https://www.microsoft.com/microsoft-teams/compare-microsoft-teams-options) Vous pouvez trouver des détails supplémentaires dans le tableau [de comparaison des solutions Microsoft.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Pour obtenir des informations détaillées sur l'offre sur les abonnements qui activent Teams pour les utilisateurs, voir Rechercher les microsoft teams les plus [utiles pour votre entreprise.](https://www.microsoft.com/microsoft-teams/compare-microsoft-teams-options) Vous pouvez trouver des détails supplémentaires dans le tableau [de comparaison des solutions Microsoft.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
-Les plans pour le gouvernement qui supportent Teams incluent Office 365 G1 à G5. Pour plus d'informations, [consultez les plans Office 365 pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)
+Les plans pour le gouvernement qui supportent Teams incluent Office 365 G1 à G5. Pour plus d'informations, [voir les plans Office 365 pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans)
 
 Tous les plans d'abonnement pris en charge sont éligibles pour l'accès au client web Microsoft Teams, aux clients de bureau et aux applications mobiles.
 
@@ -59,8 +59,8 @@ Pour obtenir la liste complète des fonctionnalités Teams les plus à jour dans
 <sup>1</sup> Microsoft Teams dans GCC-High et DOD supportent 2 500 membres dans une équipe individuelle.<br/>
 <sup>2</sup> Le Planificateur Microsoft n'est pas disponible actuellement pour accéder aux canaux privés.<br/>
 <sup>3 Le</sup> routage direct doit être configuré pour que l'audioconférence et la voix Microsoft Teams fonctionnent dans GCCH et DoD.<br/>
-<sup>4</sup> Les applications tierces et la publication d'applications ne sont pas disponibles dans ces clouds pour le moment.<br/>
-<sup>5</sup> Événements en direct n'est pas disponible GCC-High ou DOD pour le moment.<br/>
+<sup>4</sup> Les applications tierces et la publication d'applications ne sont pas disponibles dans ces clouds pour le moment. Les connecteurs ne sont pas pris en charge dans GCCH et DOD.<br/>
+<sup>5</sup> Événements en direct ne sont pas disponibles GCC-High ou DOD pour le moment.<br/>
 
 ### <a name="cloud-voice-features"></a>Fonctionnalités vocales cloud
 
@@ -68,9 +68,9 @@ Pour l'audioconférence, votre organisation doit acheter et attribuer une licenc
 
 ### <a name="live-events"></a>Événements en direct
 
-Cette offre dans Office 365 remplace la diffusion de réunion Skype retirée. Les fonctionnalités d'événements en direct sont disponibles pour les plans de gestion des licences, comme détaillé dans le service Stream. Pour plus d'informations, examinez la vue [d'ensemble des licences Microsoft Stream.](/stream/license-overview) Le service d'événements en direct est accessible via Stream, Yammer ou Microsoft Teams. Pour en savoir plus sur les fonctionnalités des événements en direct, consultez les événements en direct dans [Microsoft 365 dans Yammer, Microsoft Teams et Microsoft Stream.](/stream/live-event-m365)
+Cette offre dans Office 365 remplace la diffusion de réunion Skype retirée. Les fonctionnalités d'événements en direct sont disponibles pour les plans de gestion des licences, comme détaillé dans le service Stream. Pour plus d'informations, examinez la vue [d'ensemble des licences Microsoft Stream.](/stream/license-overview) Le service d'événements en direct est accessible via Stream, Yammer ou Microsoft Teams. Pour en savoir plus sur les fonctionnalités des événements en direct, consultez les événements en direct dans [Microsoft 365 dans Yammer, Microsoft Teams et Microsoft Stream.](/stream/live-event-m365) Pour en savoir plus sur la planification des événements en direct, y compris sur les licences requises, voir Planifier des événements [en direct dans Microsoft Teams.](/microsoftteams/teams-live-events/plan-for-teams-live-events)
 
-## <a name="learn-more"></a>En savoir plus
+## <a name="learn-more"></a>Si vous souhaitez en savoir plus
 
 Pour plus d'informations sur Teams, consultez les ressources suivantes :
  
