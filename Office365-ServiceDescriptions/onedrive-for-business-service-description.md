@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez les fonctionnalités OneDrive disponibles par offre.
-ms.openlocfilehash: e4c83a4a8310375940737957381c2cf5fca2c3fd
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
+ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652318"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264792"
 ---
 # <a name="onedrive-service-description"></a>Description du service OneDrive
 
@@ -50,6 +50,7 @@ Pour connaître la configuration requise pour l'application mobile et l'applicat
 - Microsoft 365 Apps for business
 - Microsoft 365 Business Standard
 - Microsoft 365 Apps for enterprise
+- Office 365 A1
 - Office 365 Entreprise E1
 - Office 365 Secteur Public G1
 - Microsoft 365 Business Basic pour les associations
@@ -61,11 +62,10 @@ Pour connaître la configuration requise pour l'application mobile et l'applicat
 
 **Au-delà de 1 To, jusqu’à illimité**
  
-1 To par utilisateur pour les abonnements de moins de 5 utilisateurs. Pour les abonnements comptant au moins 5 utilisateurs (combinaison de plans éligibles), Microsoft fournir initialement une capacité de stockage de 1 To par utilisateur, que les administrateurs peuvent porter à 5 To (Pour savoir comment procéder, voir [Définir l’espace de stockage par défaut pour les utilisateurs de OneDrive](/onedrive/set-default-storage-space)). Pour demander un espace de stockage supplémentaire, les administrateurs doivent contacter le Support Microsoft.
+1 To par utilisateur pour les abonnements de moins de cinq utilisateurs. Pour les abonnements comptant au moins cinq utilisateurs (combinaison de plans éligibles), Microsoft fournir initialement une capacité de stockage de 1 To par utilisateur, que les administrateurs peuvent porter à 5 To. (Pour savoir comment procéder, voir [Définir l’espace de stockage par défaut pour les utilisateurs de OneDrive](/onedrive/set-default-storage-space)). Pour demander un espace de stockage supplémentaire, les administrateurs doivent contacter le Support Microsoft.
 
 - Office 365 Entreprise E3
-- Office 365 Entreprise E5
-- Office 365 A1
+- Office 365 Entreprise E5
 - Office 365 A3
 - Office 365 A5
 - Office 365 pour le gouvernement américain G3
@@ -98,7 +98,7 @@ Pour afficher l’espace de stockage et l’utilisation d’un utilisateur, acc�
 
 Le stockage OneDrive est fourni par utilisateur, et conçu pour s’adapter aux besoins de chaque utilisateur.
   
-Le stockage de données autres que des fichiers de travail (ceux-ci incluant les sauvegardes système et les données de niveau départemental ou organisationnel) n’est pas pris en charge. Il en va de même de l’affectation d’une licence par utilisateur à un bot, à un service ou à une autre entité non humaine. SharePoint est la meilleure solution de collaboration et de gestion avancées de contenu, notamment en matière de stockage et gestion de fichiers, de communications et de sites intranet au sein d’une équipe ou d’une organisation.
+Le stockage de données autres que des fichiers de travail d'un utilisateur (y compris, des sauvegardes système, ainsi que des données de niveau service ou organisation) n'est pas pris en charge. Il en est de même pour l'affectation d'une licence par utilisateur à un bot, à un service ou à une autre entité non humaine. SharePoint représente la meilleure solution de collaboration et de gestion avancées de contenu, notamment en matière de stockage et gestion de fichiers, de communications et de sites intranet dans une équipe ou une organisation.
   
 ## <a name="onedrive-limits"></a>Limites de OneDrive
 
