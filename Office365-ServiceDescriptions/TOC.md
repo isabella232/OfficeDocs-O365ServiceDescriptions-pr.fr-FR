@@ -66,6 +66,7 @@
 ### [Fonctionnalités de conformité et de sécurité](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Description du service Microsoft Defender pour Office 365](office-365-advanced-threat-protection-service-description.md)
 ## [Description du service Microsoft Teams](teams-service-description.md)
+### [Description du service Microsoft 365 Business Voice](microsoft-365-business-voice-service-description.md)
 ## [Description du service OneDrive](onedrive-for-business-service-description.md)
 ## [Description du service SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [Limites de SharePoint](sharepoint-online-service-description/sharepoint-online-limits.md)
@@ -103,7 +104,6 @@
 ### [Fonctionnalités d’administration et de sécurité dans Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Fonctionnalités de support dans Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Description des services Microsoft 365
-### [Description du service Microsoft 365 Business Voice](microsoft-365-business-voice-service-description.md)
 ### [Description du service Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [Licences Microsoft 365 pour les petites et moyennes entreprises](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
