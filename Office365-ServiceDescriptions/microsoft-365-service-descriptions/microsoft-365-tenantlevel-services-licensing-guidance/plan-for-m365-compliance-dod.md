@@ -8,7 +8,7 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Cette orientation s’adresse aux professionnels de l’informatique qui sont à l’origine des déploiements de Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui traitent des données soumises à des règlements et des exigences du gouvernement, lorsque l’utilisation d’Microsoft 365 un gouvernement – DoD est appropriée pour répondre à ces exigences.
+description: Ces conseils sont adaptés aux professionnels de l’informatique qui déploient des Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Government – DoD est appropriée pour répondre à ces exigences.
 ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
 ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
 ms.translationtype: MT
@@ -18,187 +18,187 @@ ms.locfileid: "52546001"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan de conformité de Microsoft 365 – Déploiements Département de la Défense (DoD)
 
-Cette orientation s’adresse aux professionnels de l’informatique qui sont à l’origine des déploiements de Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui traitent des données soumises à des règlements et des exigences du gouvernement, lorsque l’utilisation d’Microsoft 365 un gouvernement – DoD est appropriée pour répondre à ces exigences.
+Ces conseils sont adaptés aux professionnels de l’informatique qui déploient des Office 365 dans des entités du gouvernement fédéral américain ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Government – DoD est appropriée pour répondre à ces exigences.
 
 > [!NOTE]
-> Si votre organisation a déjà satisfait aux exigences d’admissibilité du gouvernement Microsoft 365 – DoD et a présenté une demande et a été acceptée dans le programme, vous pouvez sauter les étapes 1 et 2 et passer directement à l’étape 3.
+> Si votre organisation a déjà satisfait aux conditions d’éligibilité Microsoft 365 Government – DoD et a été appliquée et acceptée dans le programme, vous pouvez ignorer les étapes 1 et 2 et passer directement à l’étape 3.
 
-## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Étape 1. Déterminez si votre organisation a besoin Microsoft 365 gouvernement - DoD et satisfait aux exigences d’admissibilité
+## <a name="step-1-determine-whether-your-organization-needs-microsoft-365-government---dod-and-meets-eligibility-requirements"></a>Étape 1. Déterminer si votre organisation a besoin Microsoft 365 gouvernement - DoD et répond aux exigences d’éligibilité
 
-L Microsoft 365 environnement Government - DoD est conforme aux exigences du gouvernement américain en matière de services cloud.
+L’environnement Microsoft 365 Government - DoD est conforme aux exigences du gouvernement des États-Unis pour les services cloud.
 
-En plus de profiter des caractéristiques et des capacités de Office 365, les organisations bénéficient des caractéristiques suivantes qui sont uniques à Microsoft 365 gouvernement – DoD :
+En plus de profiter des fonctionnalités et des fonctionnalités de Office 365, les organisations bénéficient des fonctionnalités suivantes qui sont propres à Microsoft 365 secteur privé – DoD :
 
-- Le contenu client de votre organisation est logiquement séparé du contenu client dans les services commerciaux Office 365 de Microsoft.
+- Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Office 365 commerciaux de Microsoft.
 - Le contenu client de votre organisation est stocké aux États-Unis.
 - L’accès au contenu client de votre organisation est limité à des membres du personnel de Microsoft triés sur le volet.
-- Microsoft 365 Gouvernement - Le DoD respecte les certifications et accréditations requises pour les clients du secteur public américain.
+- Microsoft 365 Gouvernement : DoD est conforme aux certifications et accréditations requises pour les clients du secteur public américain.
 
-Vous pouvez trouver plus d’informations sur l’offre Microsoft 365 gouvernement - DoD pour les clients du gouvernement américain [à Office 365 Secteur Public, y](https://products.office.com/government/compare-office-365-government-plans)compris les conditions d’admissibilité.
+Vous trouverez plus d’informations sur l’offre Microsoft 365 Government - DoD pour les clients du gouvernement des États-Unis dans les [plans Office 365 Secteur Public,](https://products.office.com/government/compare-office-365-government-plans)y compris les conditions d’éligibilité.
 
-La [description Office 365 service du gouvernement des États-Unis](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) décrit les avantages de la plate-forme, qui sont centrés sur le respect des exigences de conformité aux États-Unis.
+La [description Office 365 service pour le](../../office-365-platform-service-description/office-365-us-government/office-365-us-government.md) gouvernement américain décrit les avantages de la plateforme, qui sont centrés sur les exigences de conformité aux États-Unis.
 
 > [!TIP]
-> Vous pouvez transférer les tableaux d’information dans la description du service dans un cahier de travail Excel et ajouter deux colonnes : **Pertinent pour mon organisation Y/N et** répond aux besoins de mon organisation **Y/N**. Ensuite, vous pouvez consulter cette liste avec vos collègues pour confirmer que ce service répond aux besoins de votre organisation.
+> Vous pouvez transférer les tables d’informations dans la description du service dans un workbook Excel et ajouter deux colonnes : Pertinent pour mon organisation **Y/N** et Répond aux besoins de mon organisation **Y/N**. Vous pouvez ensuite consulter cette liste avec vos collègues pour vérifier que ce service répond aux besoins de votre organisation.
 
 **Points de décision**:<br/>
-- *Décidez si Microsoft 365 gouvernement - DoD convient à votre organisation.*
-- *Confirmez que votre organisation répond aux exigences d’admissibilité.*
+- *Déterminez si Microsoft 365 administration - DoD est approprié pour votre organisation.*
+- *Confirmez que votre organisation répond aux conditions d’éligibilité.*
 
 > [!NOTE]
-> Microsoft 365 Gouvernement - Le DoD n’est disponible qu’aux États-Unis. Les clients non-US Government peuvent choisir parmi un certain nombre [de plans Office 365 Secteur Public’argent.](https://products.office.com/government/compare-office-365-government-plans)
+> Microsoft 365 Gouvernement - DoD est uniquement disponible aux États-Unis. Les clients non américains peuvent choisir parmi un certain nombre [d’Office 365 Secteur Public.](https://products.office.com/government/compare-office-365-government-plans)
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Étape 2. Faire une demande Microsoft 365 gouvernement fédéral - DoD
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Étape 2. Demander une Microsoft 365 pour le gouvernement - DoD
 
-Ayant décidé que ce service est bon pour votre organisation, commencez le processus de [demande de ce service](https://products.office.com/government/eligibility-validation).
+Après avoir décidé que ce service est le bon pour votre organisation, démarrez le processus [d’application de ce service.](https://products.office.com/government/eligibility-validation)
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Étape 3. Comprendre Microsoft 365 gouvernement - Paramètres de sécurité par défaut du DoD
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Étape 3. Comprendre Microsoft 365 administration : paramètres de sécurité par défaut du DoD
 
-Nous vous recommandons de prendre le temps d’examiner attentivement vos paramètres d’administration et de sécurité avant de les modifier et d’examiner l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
+Nous vous recommandons de prendre le temps d’examiner attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
 
-**Point de décision**: *Décidez si vous modifierez l’un des paramètres de sécurité par défaut du gouvernement Microsoft 365 - DoD, en décidant de comprendre d’abord l’impact de toutes les modifications que vous pourriez apporter.*
+**Point de** décision : déterminez si vous allez modifier l’un des paramètres de sécurité Microsoft 365 Government - DoD par défaut, en résolvant *d’abord l’impact* des modifications que vous pourriez apporter.
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Étape 4. Comprendre quelles capacités sont actuellement indisponibles ou désactivées par défaut dans Microsoft 365 gouvernement – DoD<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Étape 4. Comprendre quelles fonctionnalités sont actuellement indisponibles ou désactivées par défaut dans Microsoft 365 Administration – DoD<sup>1</sup>
 
-Pour répondre aux exigences de nos clients du cloud gouvernemental, il existe certaines différences entre les plans Microsoft 365 gouvernement - DoD et d’entreprise. Consultez le tableau suivant pour voir quelles fonctionnalités sont disponibles. Consultez [ici les](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) dernières mises à jour des produits de conformité publiées sur Microsoft 365 feuille de route.<br><br>
+Pour répondre aux exigences de nos clients cloud pour le gouvernement, il existe des différences entre les plans Microsoft 365 secteur privé - DoD et Entreprise. Reportez-vous au tableau suivant pour voir quelles fonctionnalités sont disponibles. Consultez [ici](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) les dernières mises à jour des produits de conformité publiées Microsoft 365 feuille de route.<br><br>
 
-| Domaine | Fonctionnalité | Statut DoD |
+| Domaine | Fonctionnalité | État du dod |
 |------|---------|------------|
-| **Protection des informations** | Client et scanner d’étiquetage unifiés | Available |
+| **Protection des informations** | Client et scanneur d’étiquetage unifié | Available |
 | | Correspondance exacte des données | Available |
-| | Classification et étiquetage automatiques pour les Exchange Online, SharePoint en ligne et OneDrive Entreprise | En cours de déploiement |
-| | Classification et étiquetage automatiques pour les applications Office (Word, Excel, PowerPoint, Outlook) sur toutes les plateformes (web, Windows et Mac) | Available |
-| | Classification et étiquetage automatiques pour Office clients - Mobile | Sur le carnet de commandes de l’ingénierie |
-| | Classification et étiquetage automatiques pour les Teams, Microsoft 365 groupes et SharePoint sites | Available |
+| | Classification et étiquetage automatiques pour Exchange Online, SharePoint Online et OneDrive Entreprise | En cours de déploiement |
+| | Classification et étiquetage automatiques pour les applications Office (Word, Excel, PowerPoint, Outlook) sur les plateformes (web, Windows et Mac) | Available |
+| | Classification et étiquetage automatiques pour les clients Office - Mobile | On engineering backlog |
+| | Classification et étiquetage automatiques pour Teams, Microsoft 365 groupes et sites SharePoint sites | Available |
 | | Étiquetage obligatoire | Available |
-| | Étiquetage manuel de sensibilité dans Office applications (iOS, Android, Windows) | Available |
-| | Configuration de l’étiquette de sensibilité pour la protection cryptée uniquement sur Outlook messages | En cours de déploiement |
-| **Analyse** | Classification des données : Aperçu et explorateur de contenu | En cours de déploiement |
-| | Analytique : Classificateurs d’apprentissage automatique avec étiquetage automatique côté service | En développement |
-| | Analytique : Classificateurs d’apprentissage automatique avec étiquetage automatique Office applications/client | En cours de déploiement |
+| | Étiquetage de sensibilité manuelle dans Office applications (iOS, Android, Windows) | Available |
+| | Configuration des étiquettes de sensibilité pour la protection de chiffrement uniquement sur Outlook messages | En cours de déploiement |
+| **Analyse** | Classification des données : vue d’ensemble et Explorateur de contenu | En cours de déploiement |
+| | Analyse : classifieurs d’apprentissage automatique avec étiquetage automatique côté service | En cours de développement |
+| | Analyse : classifieurs d’apprentissage automatique avec étiquetage automatique Office applications/client | En cours de déploiement |
 | **Chiffrement** | Base chiffrement de messages Office 365 (E3) | Available |
 | | Advanced chiffrement de messages Office 365 (E5) | Available |
-| | Apportez votre propre clé (BYOK) pour le cycle de vie de l’approvisionnement clé géré par le client | Available |
+| | Apportez votre propre clé (BYOK) pour le cycle de vie de mise en service de clé gérée par le client | Available |
 | | Clé client pour Office 365 | Available |
 | | Chiffrement à double clé | Available |
-| **Protection contre la perte de données** | Prévention des pertes de données (DLP) pour les fichiers et les courriels | Available |
-| | DLP pour les conversations Teams chat et les canaux | Available |
-| | DLP: Tableau de bord alertes | En cours de déploiement |
-| | Point final DLP | En développement |
-| | DLP On-prem | Sur le carnet de commandes de l’ingénierie |
-| | Page d’aperçu DLP | En développement |
-| **Gouvernance des informations** | Gouvernance de l’information : Archivage par courriel | Available |
-| | Gouvernance de l’information : verrouillage de préservation | Available |
-| | Gouvernance de l’information : PST d’importation | Available |
-| | Gouvernance de l’information : Appliquez manuellement les étiquettes de rétention des documents non | Available |
-| | Gouvernance de l’information : Appliquez des étiquettes de conservation par défaut pour SharePoint/OneDrive Entreprise bibliothèques, les dossiers et les ensembles de documents; Exchange boîtes de réception; et Office 365 groupes | Available |
-| | Gouvernance de l’information : Appliquer une étiquette de rétention par défaut unique à l’ensemble de l’organisation; emplacements ou utilisateurs spécifiques; et automatiquement basé sur des conditions spécifiques (par exemple, mots clés ou informations sensibles) | Available |
-| | Gouvernance de l’information : Appliquez une étiquette par défaut pour Exchange boîtes de réception | Available |
-| | Gouvernance de l’information : examen des dispositions en plusieurs étapes | Sur le carnet de commandes de l’ingénierie |
-| | Gouvernance de l’information : Politiques de rétention avec classificateurs formables | En développement |
-| | Gouvernance de l’information : politiques de rétention pour Teams chat | En cours de déploiement |
-| | Gouvernance de l’information : Politiques de conservation pour Teams’enregistrement des Teams réunion | Available |
-| | Gouvernance de l’information : Politiques de rétention Teams messages sur les chaînes privées | Sur le carnet de commandes de l’ingénierie |
-| | Gouvernance de l’information : Stratégies de conservation et d’étiquetage portées adaptatives | En développement |
-| | Gestion des dossiers : Appliquez manuellement la maison de disques | Available |
-| | Gestion des dossiers : Appliquez une maison de disques par défaut pour les SharePoint, OneDrive Entreprise bibliothèques, les dossiers et les ensembles de documents; et Office 365 groupes | Available |
-| | Gestion des dossiers : Stratégies d’enregistrement automatiques basées sur des conditions spécifiques (par exemple, mots clés ou informations sensibles); et sur la base d’un événement | Available |
-| | Gestion des dossiers : Examen des dispositions | Available |
-| | Gestion des dossiers : Gestionnaire de plan de fichiers | Available |
-| | Gestion des dossiers : preuve d’élimination | Available |
-| | Gestion des dossiers : Version des enregistrements | Available |
-| | Gestion des dossiers : Dossiers réglementaires | Available |
-| | Gestion des dossiers : Utilisez SharePoint classification Syntex pour appliquer les maisons de disques | Sur le carnet de commandes de l’ingénierie |
+| **Protection contre la perte de données** | Protection contre la perte de données (DLP) pour les fichiers et la messagerie | Available |
+| | DLP pour les Teams conversation et les conversations de canal | Available |
+| | DLP : tableau de bord Alertes | En cours de déploiement |
+| | Point de terminaison DLP | En cours de développement |
+| | DLP sur place | On engineering backlog |
+| | Page Vue d’ensemble de la DLP | En cours de développement |
+| **Gouvernance des informations** | Gouvernance des informations : archivage du courrier électronique | Available |
+| | Gouvernance des informations : verrouillage de conservation | Available |
+| | Gouvernance des informations : importer PST | Available |
+| | Gouvernance des informations : appliquer manuellement des étiquettes de rétention non-enregistrement | Available |
+| | Gouvernance des informations : appliquer des étiquettes de rétention par SharePoint/OneDrive Entreprise bibliothèques, dossiers et ensembles de documents ; Exchange boîtes de réception ; et Office 365 groupes | Available |
+| | Gouvernance des informations : appliquer une seule étiquette de rétention par défaut à l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; et automatiquement en fonction d’une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; | Available |
+| | Gouvernance des informations : appliquer une étiquette par défaut pour Exchange boîtes de réception | Available |
+| | Gouvernance des informations : révision de disposition en plusieurs étapes | On engineering backlog |
+| | Gouvernance des informations : stratégies de rétention avec classifieurs entraidables | En cours de développement |
+| | Gouvernance des informations : stratégies de rétention pour Teams conversation | En cours de déploiement |
+| | Gouvernance des informations : stratégies de rétention pour l’enregistrement Teams réunion | Available |
+| | Gouvernance des informations : stratégies de rétention pour Teams messages de canal privé | On engineering backlog |
+| | Gouvernance des informations : stratégies de rétention et d’étiquetage étendues adaptatives | En cours de développement |
+| | Gestion des enregistrements : appliquer manuellement une étiquette d’enregistrement | Available |
+| | Gestion des enregistrements : appliquer une étiquette d’enregistrement par SharePoint, OneDrive Entreprise bibliothèques, dossiers et ensembles de documents ; et Office 365 groupes | Available |
+| | Gestion des enregistrements : stratégies d’enregistrement automatique basées sur des conditions spécifiques (par exemple, des mots clés ou des informations sensibles) ; et basé sur un événement | Available |
+| | Gestion des enregistrements : révision de la disposition | Available |
+| | Gestion des enregistrements : gestionnaire de plan de gestion de fichiers | Available |
+| | Gestion des enregistrements : preuve de destruction | Available |
+| | Gestion des enregistrements : gestion des versions des enregistrements | Available |
+| | Gestion des enregistrements : enregistrements réglementaires | Available |
+| | Gestion des enregistrements : utiliser SharePoint classification Syntex pour appliquer des étiquettes d’enregistrement | On engineering backlog |
 | **Gestion des risques internes** | Référentiel sécurisé client | Available |
-| | Gestion des risques internes : tableau de bord de cas, explorateur de contenu et modèles d’avis | En cours de déploiement |
-| | Gestion des risques d’initiés : escalade pour une enquête Advanced eDiscovery | En cours de déploiement |
-| | Gestion des risques internes : vol de données par les utilisateurs au départ | En cours de déploiement |
+| | Gestion des risques internes : tableau de bord de cas, Explorateur de contenu et modèles d’avis | En cours de déploiement |
+| | Gestion des risques internes : faire l’objet d’une enquête pour Advanced eDiscovery | En cours de déploiement |
+| | Gestion des risques internes : vol de données par des utilisateurs qui quittent le site | En cours de déploiement |
 | | Gestion des risques internes : fuites générales de données | En cours de déploiement |
-| | Gestion des risques internes : Enquêter sur les alertes de gestion des risques internes | En cours de déploiement |
-| | Gestion des risques internes : Office indicateurs pour les Teams, les sites SharePoint, la messagerie électronique | En cours de déploiement |
-| | Explorateur d’activités de gestion des risques d’initiés | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques d’initiés : Indicateurs d’Windows 10 build 1809 et plus | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : indicateurs pour Microsoft Defender pour les alertes endpoint | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : indicateurs de violation de la politique de sécurité | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : modèles de stratégie s’il y a des fuites de données par des utilisateurs mécontents | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : modèles de stratégie s’il y a des fuites de données par les utilisateurs prioritaires | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : modèles de politique s’il y a violation générale de la politique de sécurité | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : modèles de stratégie s’il s’y a des violations des stratégies de sécurité commises par les utilisateurs prioritaires, les utilisateurs sortants et les utilisateurs mécontents (aperçu) | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques d’initiés : Personnalisation des politiques | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : alertes à l’exportation | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques d’initiés : Microsoft Teams intégration | Sur le carnet de commandes de l’ingénierie |
-| | Gestion des risques internes : groupes d’utilisateurs prioritaires | Sur le carnet de commandes de l’ingénierie |
-| | Conformité à la communication : Créer des stratégies clients, 3 préconfigurées | Available |
-| | Conformité à la communication : Prise en charge Teams, Exchange et suppression Teams message | Available |
-| | Conformité aux communications : alertes d’accès; modèles d’avis; tableau de bord des politiques de communication | Available |
-| | Conformité aux communications : Escalade pour enquête pour Advanced eDiscovery | Available |
-| | Conformité à la communication : détecte une violation répétée du code de conduite au fil du temps | Available |
-| | Conformité à la communication : prise en charge d’autorisations plus granulaires | Available |
-| | Conformité à la communication : analyser Teams données de chat des utilisateurs avec la boîte aux lettres prém | Available |
-| | Conformité aux communications : modèle de conflit d’intérêts | Available |
-| | Conformité à la communication : Capacité d’ignorer la signature ou la clause de non-responsabilité par courriel | En développement |
-| | Conformité aux communications : capacité de fixer une période de conservation pour une politique de conformité aux communications | Sur le carnet de commandes de l’ingénierie |
-| | Conformité à la communication : Détecter le contenu pour adultes | Sur le carnet de commandes de l’ingénierie |
-| | Conformité à la communication : transfert de la gestion des risques d’initiés | En développement |
-| | Conformité à la communication : bilan de santé des politiques et capacité de mettre en pause la politique | En développement |
-| | Conformité à la communication : Prise en charge de 7 langues pour les personnes menacées, le harcèlement ciblé et les classificateurs de jurons | En développement |
-| | Conformité à la communication : traduire le contenu de la santé pendant l’enquête | En développement |
+| | Gestion des risques internes : examiner les alertes de gestion des risques internes | En cours de déploiement |
+| | Gestion des risques internes : indicateurs Office pour les Teams, les sites SharePoint, la messagerie électronique | En cours de déploiement |
+| | Explorateur d’activités de gestion des risques internes | On engineering backlog |
+| | Gestion des risques internes : indicateurs d’appareil pour l’activité Windows 10 build 1809 et supérieure | On engineering backlog |
+| | Gestion des risques internes : indicateurs pour les alertes de point de terminaison Microsoft Defender | On engineering backlog |
+| | Gestion des risques internes : indicateurs de violation de la stratégie de sécurité | On engineering backlog |
+| | Gestion des risques internes : modèles de stratégie pour les fuites de données par des utilisateurs non régrunts | On engineering backlog |
+| | Gestion des risques internes : modèles de stratégie pour les fuites de données par les utilisateurs prioritaires | On engineering backlog |
+| | Gestion des risques internes : modèles de stratégie pour les violations générales de stratégie de sécurité | On engineering backlog |
+| | Gestion des risques internes : modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent le programme, les utilisateurs non régrunts (prévisualisation) | On engineering backlog |
+| | Gestion des risques internes : personnalisation des stratégies | On engineering backlog |
+| | Gestion des risques internes : exporter des alertes | On engineering backlog |
+| | Gestion des risques internes : intégration Microsoft Teams interne | On engineering backlog |
+| | Gestion des risques internes : groupes d’utilisateurs prioritaires | On engineering backlog |
+| | Conformité des communications : créer des stratégies client, 3 pré-configuré | Available |
+| | Conformité des communications : prise en charge Teams, Exchange et suppression Teams message | Available |
+| | Conformité des communications : alertes d’accès ; modèles de notification ; tableau de bord de stratégie de communication | Available |
+| | Conformité des communications : faire l’objet d’une enquête pour Advanced eDiscovery | Available |
+| | Conformité des communications : détecte les violations répétées de code de conduite au fil du temps | Available |
+| | Conformité des communications : prise en charge des autorisations plus granulaires | Available |
+| | Conformité des communications : analyser Teams de conversation des utilisateurs avec une boîte aux lettres sur site | Available |
+| | Conformité des communications : modèle de conflit d’intérêts | Available |
+| | Conformité des communications : possibilité d’ignorer la signature électronique ou la clause d’exclusion de responsabilité | En cours de développement |
+| | Conformité des communications : possibilité de définir une période de rétention pour une stratégie de conformité des communications | On engineering backlog |
+| | Conformité des communications : détecter le contenu adulte | On engineering backlog |
+| | Conformité des communications : remise de la gestion des risques internes | En cours de développement |
+| | Conformité des communications : vérification de l’état de la stratégie et possibilité de suspendre la stratégie | En cours de développement |
+| | Conformité des communications : prise en charge de 7 langues pour les classifieurs de menaces, de harcèlement ciblé et de blasphèmes | En cours de développement |
+| | Conformité des communications : traduire le contenu d’état au cours de l’examen | En cours de développement |
 | | Obstacles aux informations | En cours de déploiement |
-| | Gestion des accès privilégiés | Sur le carnet de commandes de l’ingénierie |
-| **Découvrez & répondre** | Core eDiscovery: Préservation en place | Available |
-| | Core eDiscovery: Gestion de cas | Available |
-| | Core eDiscovery: Recherche | Available |
-| | Core eDiscovery: Exportation | Available |
-| | Core eDiscovery: Décryptage RMS | Available |
-| | EDiscovery de base : Exportation indigène | Available |
-| | Core eDiscovery: Auditing | Available |
-| | Core eDiscovery: Limites de conformité pour OneDrive Entreprise | En cours de déploiement |
-| | Advanced eDiscovery: Traitement avancé | Available |
-| | Advanced eDiscovery: CJK / Double prise en charge de l’octet pour Advanced eDiscovery | Available |
-| | Advanced eDiscovery : Dépositaire de la cartographie de la charge de travail | Available |
-| | Advanced eDiscovery : Communications des gardiens | Available |
-| | Advanced eDiscovery: Tableau de bord | Available |
-| | Advanced eDiscovery: Threading email | Available |
-| | Advanced eDiscovery: Export (télécharger, exporter, ajouter à un autre ensemble d’examen) | Available |
-| | Advanced eDiscovery: Filtrage | Available |
-| | Advanced eDiscovery : Identification quasi dupliquée | Available |
-| | Advanced eDiscovery : Codage prédictif | Available |
-| | Advanced eDiscovery: Exportation traitée avec fichier de charge | Available |
+| | Gestion des accès privilégiés | On engineering backlog |
+| **Découvrir les & répondre** | Découverte électronique principale : conservation sur place | Available |
+| | Core eDiscovery : gestion des cas | Available |
+| | Core eDiscovery : recherche | Available |
+| | Core eDiscovery : exporter | Available |
+| | Core eDiscovery : déchiffrement RMS | Available |
+| | Core eDiscovery : exportation native | Available |
+| | Core eDiscovery : audit | Available |
+| | Core eDiscovery : limites de conformité pour les OneDrive Entreprise | En cours de déploiement |
+| | Advanced eDiscovery : traitement avancé | Available |
+| | Advanced eDiscovery : prise en charge des nombres d’Advanced eDiscovery | Available |
+| | Advanced eDiscovery : mappage du dépositaire à la charge de travail | Available |
+| | Advanced eDiscovery : communications des dépositaires | Available |
+| | Advanced eDiscovery : Tableau de bord | Available |
+| | Advanced eDiscovery : Threads de messagerie | Available |
+| | Advanced eDiscovery : exporter (télécharger, exporter, ajouter à un autre jeu à réviser) | Available |
+| | Advanced eDiscovery : filtrage | Available |
+| | Advanced eDiscovery : identification quasi-en double | Available |
+| | Advanced eDiscovery : codage prédictif | Available |
+| | Advanced eDiscovery : exportation traitée avec fichier de chargement | Available |
 | | Advanced eDiscovery: Redactions | Available |
-| | Advanced eDiscovery : Ensembles d’examen | Available |
-| | Advanced eDiscovery: Revoir et annoter | Available |
-| | Advanced eDiscovery: Rapport de durée de recherche | Available |
-| | Advanced eDiscovery : Prise en charge du contenu lié OneDrive et SharePoint Online (pièces jointes modernes) | Available |
-| | Advanced eDiscovery: Marquage | Available |
-| | Advanced eDiscovery: Teams réactions soutiennent | Available |
-| | Advanced eDiscovery: Rapports des locataires | Available |
-| | Advanced eDiscovery: Thèmes | Available |
-| | Advanced eDiscovery: Téléspectateurs | Available |
+| | Advanced eDiscovery : Ensembles de révision | Available |
+| | Advanced eDiscovery : révision et annoter | Available |
+| | Advanced eDiscovery : rapport de terme de recherche | Available |
+| | Advanced eDiscovery : prise en charge du contenu lié OneDrive et SharePoint Online (pièces jointes modernes) | Available |
+| | Advanced eDiscovery : marquage | Available |
+| | Advanced eDiscovery : prise en charge Teams réactions | Available |
+| | Advanced eDiscovery : rapports de client | Available |
+| | Advanced eDiscovery : Thèmes | Available |
+| | Advanced eDiscovery : visiteurs | Available |
 | | Advanced eDiscovery : Yammer Advanced eDiscovery dans le Centre de conformité Microsoft | Available |
-| | Advanced eDiscovery : Optimiser les | En développement |
-| | Advanced eDiscovery : Microsoft Compliance Center a élargi son soutien à la recherche et à l’exportation d’articles en SharePoint, OneDrive Entreprise, Recycle Bin in Core et Advanced eDiscovery | En développement |
-| | Advanced eDiscovery: Prise légale pour les Teams messages des chaînes privées | En développement |
-| | Advanced eDiscovery : Nouveau module de codage prédictif | En développement |
-| | Advanced eDiscovery: Ingestion Office 365 non-Office 365 | Sur le carnet de commandes de l’ingénierie |
-| | Advanced eDiscovery: Rapports des locataires | En développement |
+| | Advanced eDiscovery : Optimisation des attentes | En cours de développement |
+| | Advanced eDiscovery : prise en charge étendue du Centre de conformité Microsoft pour rechercher et exporter des éléments dans SharePoint, OneDrive Entreprise, Corbeille principale et Advanced eDiscovery | En cours de développement |
+| | Advanced eDiscovery : procédure de Teams messages de canaux privés | En cours de développement |
+| | Advanced eDiscovery : nouveau module de codage prédictif | En cours de développement |
+| | Advanced eDiscovery : ingestion non Office 365 | On engineering backlog |
+| | Advanced eDiscovery : rapports de client | En cours de développement |
 | | Audit de base | Available |
-| | Audit avancé : Accès à des événements cruciaux (par exemple, mailitemsaccessed) | Available |
-| | Audit avancé : Augmentation de la bande passante à l’API activité de gestion | Available |
-| | Audit avancé : Conservation du journal (1 an) | Available |
-| | Audit avancé : Envoyer le courrier et envoyer des événements par la poste | Available |
-| | Audit avancé : disponibilité du Centre de sécurité et de conformité | Available |
-| | Vérification avancée : Conservation à plus long terme des registres de vérification (10 ans) | En développement |
-| | Audit avancé : Événements à terme de recherche en Exchange Online et SharePoint en ligne | Sur le carnet de commandes de l’ingénierie |
-| **Gestion de la conformité** | Microsoft 365 Centre de sécurité et de conformité | Available |
-| | Microsoft Cloud App Security | En développement |
+| | Audit avancé : accès à des événements essentiels (par exemple, mailitemsaccessed) | Available |
+| | Audit avancé : augmentation de la bande passante pour l’API activité de gestion | Available |
+| | Audit avancé : rétention des journaux (1 an) | Available |
+| | Audit avancé : événements de publipostage et d’envoi de courrier | Available |
+| | Audit avancé : disponibilité du Centre de sécurité et conformité | Available |
+| | Audit avancé : rétention à plus long terme dans les journaux d’audit (10 ans) | En cours de développement |
+| | Audit avancé : événements de terme de recherche dans Exchange Online et SharePoint Online | On engineering backlog |
+| **Gestion de la conformité** | Microsoft 365 Centre de sécurité et conformité | Available |
+| | Microsoft Cloud App Security | En cours de développement |
 | | Gestionnaire de conformité | Available |
-| | Prise en charge des personnages d’au-être double | Available |
-| **écosystème** | Connecteurs de données de première partie : RH | Available |
-| | Connecteurs de données de première partie : Instant Bloomberg, Bloomberg Mail, LinkedIn Business pages, ICE Chat | Sur le carnet de commandes de l’ingénierie |
-| | Connecteurs de données tiers | Sur le carnet de commandes de l’ingénierie |
-| | Graph API pour Advanced eDiscovery | En développement |
-| | Graph API pour les données Teams’exportation | Sur le carnet de commandes de l’ingénierie |
+| | Prise en charge des caractères sur deux byte | Available |
+| **Écosystème** | Connecteurs de données de première partie : RH | Available |
+| | Connecteurs de données de première partie : Instant Bloomberg, Bloomberg Mail, pages LinkedIn Business, ICE Chat | On engineering backlog |
+| | Connecteurs de données tiers | On engineering backlog |
+| | Graph API pour les Advanced eDiscovery | En cours de développement |
+| | Graph API pour l’exportation Teams données | On engineering backlog |
 
-<sup>1 L’état</sup> identifié peut être changé au fur et à mesure que les plans et les priorités du projet sont réévalués.<br/>
+<sup>1 L’état</sup> identifié est sujet à modification à mesure que les plans et priorités du projet sont réévalués.<br/>
 
-**Point de décision**: *Décidez si les caractéristiques de conformité répondent aux besoins de votre organisation.*
+**Point de décision**: *déterminez si les fonctionnalités de conformité répondent aux besoins de votre organisation.*
