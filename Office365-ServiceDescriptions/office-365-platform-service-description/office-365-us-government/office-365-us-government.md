@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des abonnements Office 365 pour le gouvernement américain (ou Office 365 Secteur Public). Cet article fournit une vue d’ensemble des fonctionnalités propres Office 365 Secteur Public aux États-Unis.
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625641"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699080"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -79,9 +79,9 @@ Office 365 Secteur Public services sont fournis à partir de centres de données
 > [!NOTE]
 > Dans le cas d'une utilisation normale, Skype Entreprise ne stocke pas le contenu client, mais si ce stockage se produit, il sera réalisé dans des centres de données aux États-Unis.
 
-Si vos utilisateurs sont situés aux États-Unis lors de l’utilisation de Office sur le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation des services AD FS (Active Directory Federation Services) 2.0 et que vous définissez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via l' connexion unique, tout contenu client temporairement mis en cache dans Office sur le Web se trouve aux États-Unis.
+Si vos utilisateurs sont situés aux États-Unis lors de l’utilisation de Office sur le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation d’Active Directory Federation Services (AD FS) 2.0 et que vous définissez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via l' connexion unique, tout contenu client temporairement mis en cache dans Office sur le Web se trouve aux États-Unis.
 
-La page Utilisation du site pour SharePoint sites est disponible pour les plans du secteur public, bien que, conformément à la conformité, certaines fonctionnalités de cette page ne soient disponibles que pour les clients commerciaux. Pour en savoir plus, [consultez la page Utilisation](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)du site SharePoint sites dans Microsoft 365 .
+La page Utilisation du site pour les sites SharePoint est disponible pour les plans du secteur public, bien que, conformément à la conformité, certaines fonctionnalités de cette page ne soient disponibles que pour les clients commerciaux. Pour en savoir plus, [consultez la page Utilisation](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)du site SharePoint sites dans Microsoft 365 .
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 Secteur Public services tiers et tiers
 
@@ -93,7 +93,7 @@ L’accès Office 365 Secteur Public contenu client par les administrateurs Micr
 
 ## <a name="fasttrack-center-onboarding-assistance"></a>Assistance pour l’intégration du Centre FastTrack
 
-Grâce aux avantages du Centre FastTrack pour Office 365<sup>1,</sup>vous travaillez à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 et planifier le déploiement et l’utilisation au sein de votre organisation. Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. 
+Avec les avantages du Centre FastTrack pour Office 365<sup>1,</sup>vous travaillez à distance avec des spécialistes FastTrack pour préparer votre environnement Office 365 et planifier le déploiement et l’utilisation au sein de votre organisation. Le processus de FastTrack propose des services pour l’adoption utilisateur et l’intégration. 
 
 L’intégration se compose des éléments suivants :
 
@@ -105,7 +105,7 @@ Les services d’adoption utilisateur sont composés de tâches qui vous fournis
 
 Des informations spécifiques sur le processus du Centre FastTrack sont disponibles [ici.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d’engagement, examinez les responsabilités [fastTrack](/FastTrack/us-gov-appendix-fasttrack-responsibilities) ainsi que [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
 
-> <sup>1</sup> Vous devez acheter au moins 50 licences dans la liste des [plans](/fasttrack/eligibility) éligibles pour recevoir les services FastTrack.
+> <sup>1</sup> Vous devez acheter au moins 150 licences dans la liste des [plans](/fasttrack/eligibility) éligibles pour recevoir les services FastTrack.
 <br/><sup>2</sup> Les services de migration de données sont disponibles Office 365 clients 500 licences ou plus.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrations de données effectuées par FastTrack
@@ -173,7 +173,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Gestion des paramètres de service principal à partir d'Office 365|Oui|Oui|Oui|Oui|
 |Utilisation de Windows PowerShell pour gérer Office 365|Oui|Oui|Oui|Oui|
 |Protéger le contenu à l'aide d'Azure Information Protection|Non<sup>1</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Non<sup>1</sup>|
-|**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Fonctionnalités de la suite Office 365](../../office-365-platform-service-description/office-365-suite-features.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Réservations Microsoft|Non|Oui<sup>21</sup>|Oui<sup>21</sup>|Non|
 |E-mail Microsoft Briefing|Non|Non|Non|Non|
 |Microsoft Power Automate|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
@@ -188,7 +188,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Microsoft Teams|Oui|Oui|Oui|Oui|
 |Office Delve|Oui<sup>17</sup>|Oui<sup>17</sup>|Oui|Oui<sup>17</sup>|
 |Groupes Office 365|Oui|Oui|Oui|Oui|
-|**[Gestion des comptes d’utilisateur](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Gestion des comptes d’utilisateur](../../office-365-platform-service-description/user-account-management.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Identité de nuage|Oui|Oui|Oui|Oui|
 |Identités fédérées (authentification unique)|Oui|Oui|Oui|Oui|
 |Authentification multifacteur|Oui|Oui|Oui|Oui|
@@ -206,16 +206,16 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Plusieurs rôles d'administrateur disponibles|Oui|Oui|Oui|Oui|
 |Autoriser un partenaire à administrer Office 365 pour vous|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|Oui<sup>11</sup>|
 |Services Azure Active Directory|Oui|Oui|Oui|Oui|
-|**[Domaines](../../office-365-platform-service-description/domains.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Domaines](../../office-365-platform-service-description/domains.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Ajouter des domaines personnalisés de 2ème niveau, comme fourthcoffee.com|Oui|Oui|Oui|Oui|
 |Ajouter des domaines personnalisés de 3ème niveau, comme marketing.fourthcoffee.com|Oui|Oui|Oui|Oui|
 |Ajouter jusqu'à 900 domaines personnalisés|Oui|Oui|Oui|Oui|
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés|Oui|Oui|Oui|Oui|
-|**[État et continuité du service](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[État et continuité du service](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Status information available on the **Service health** or **Service status** page|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|
 |État des alertes individuelles disponibles dans le tableau de bord Microsoft 365 centre d’administration|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|
 |Flux RSS **État du service**|Oui|Oui|Oui|Oui|
-|**[Rapports](../../office-365-platform-service-description/reports.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Rapports](../../office-365-platform-service-description/reports.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Boîtes aux lettres actives et inactives|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Boîtes aux lettres supprimées et nouvelles|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Groupes nouveaux et supprimés|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
@@ -240,19 +240,19 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Système d'exploitation utilisé|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Créer vos propres rapports à l’aide Microsoft 365 web de création de rapports|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
-|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu'une action est requise|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Roadmap.office.com pour certaines mises à jour de service|Non<sup>10, 13</sup>|Non<sup>10, 13</sup>|Non<sup>10, 13</sup>|Non<sup>10, 13</sup>|
 |Option d’activer la publication ciblée|Oui<sup>10</sup>|Oui<sup>10</sup>|Oui<sup>10</sup>|Oui<sup>10</sup>|
-|**[Aide et formation](../../office-365-platform-service-description/help-and-training.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Aide et formation](../../office-365-platform-service-description/help-and-training.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Aide en ligne|Oui|Oui|Oui|Oui|
 |Communauté|Oui|Oui|Oui|Oui|
 |Autres ressources d'aide autonome|Oui|Oui|Oui|Oui|
 |Auto-formation|Oui|Oui|Oui|Oui|
-|**[Réseau](../../office-365-platform-service-description/networking.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Réseau](../../office-365-platform-service-description/networking.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Protocoles IPv4 et IPv6|Oui|Oui|Oui|Oui|
-|**Approbation**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**Approbation**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |**[Confidentialité, sécurité et transparence](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Gouvernance des données avancée|Non<sup>12</sup>|Non<sup>12</sup>|Oui|Non<sup>12</sup>|
 |Cloud App Security|Non<sup>12, 19</sup>|Non<sup>12, 19</sup>|Oui<sup>19</sup>|Non<sup>12, 19</sup>|
@@ -273,7 +273,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |PCI-DSS niveau 1|Oui|Oui|Oui|Oui|
 |Données PAN sous régie PCI|Non|Non|Non|Non|
 |**[Continuité de service](../../office-365-platform-service-description/service-health-and-continuity.md)**|Oui|Oui|Oui|Oui|
-|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[BlackBerry](../../office-365-platform-service-description/blackberry.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Utilisation de BlackBerry Internet Service (BIS)|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|
 |**[Partenaires](../../office-365-platform-service-description/partners.md)**|||||
 |Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié|Non<sup>11</sup>|Non<sup>11</sup>|Non<sup>11</sup>|Non<sup>11</sup>|
@@ -286,7 +286,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>3</sup> Si vous utilisez la synchronisation d’annuaires, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory, plutôt que du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell.
 <br/><sup>4 Si</sup> vous utilisez la synchronisation de mot de passe, les utilisateurs doivent modifier leur mot de passe dans Active Directory local.
 <br/><sup>5 Pour découvrir</sup> comment définir des stratégies de gestion des mots de passe en libre-service pour les utilisateurs, voir Gérer les mots de passe [dans Azure AD.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)
-<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un abonnement différent, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
+<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un autre abonnement, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
 <br/><sup>7 La réduction</sup> des sièges achetés avec une remise à terme peut être soumise à des frais de résiliation anticipée. Ceci n’est pas applicable aux abonnements payés sur une base mensuelle.
 <br/><sup>8</sup> Les plans suivants ne viennent pas en charge des changements de licence du Centre d’administration Microsoft 365 : Office 365 Secteur Public G1, Office 365 Secteur Public G3, Office 365 Secteur Public F3.
 <br/><sup>9</sup> Not yet available in Cloud de la communauté du secteur public High, but coming soon.
@@ -327,7 +327,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |[Office Mobile pour Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Oui|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui|
 |Office Mobile pour tablettes Windows 10|Oui|Oui<sup></sup>|Oui<sup></sup>|Oui|
 |Outlook pour iOS et Android<sup>5, 4</sup>|Oui|Oui|Oui|Oui|
-|**Enterprise valeur**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**Enterprise valeur**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Cinq installations par utilisateur sur PC ou Mac|Non|Oui|Oui|Non|
 |Mise en service automatisée du compte d'utilisateur|Oui|Oui|Oui|Oui|
 |Interface utilisateur multilingue|Non|Oui|Oui|Non|
@@ -427,7 +427,7 @@ Les applications Office suivantes sont disponibles dans les clouds du gouverneme
 |**Microsoft Whiteboard** cloud pour le secteur public est actuellement disponible uniquement sur les clients Hub, et non sur le Bureau.|**Cloud de la communauté du secteur public**<sup>2</sup>|**Cloud de la communauté du secteur public High**<sup>2</sup>|**DOD**<sup>2</sup>|
 |Insérer des notes, du texte et des images qui collent|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Entrée manuscrite pour la forme et entrée manuscrite dans un tableau|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
-|Prétentification des entrées manuscrites|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
+|Prétification des entrées manuscrites|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Convertir une image en entrée manuscrite|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Vérificateur d'accessibilité|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|Oui<sup>2</sup> <br/>|
 |Modèles dynamiques (KANBAN, SWOT, et ainsi de suite)|Non|Non|Non|
@@ -450,10 +450,10 @@ Les applications Office suivantes sont disponibles dans les clouds du gouverneme
 |Skype Entreprise’intégration au partage|Non|Non|Non|
 |Historique des versions|Non|Non|Non|
 |Groupes Office 365|Non|Non|Non|
-|Conversation contextuelle avec les co-auteurs : conversation avec les co-auteurs dans le document|Non|Non|Non|
+|Conversation contextuelle avec les co-auteurs : discuter avec les co-auteurs dans le document|Non|Non|Non|
 |Dictée|Oui|Oui|Non<sup>1</sup>|
 
-Pour la disponibilité des fonctionnalités Microsoft Teams dans Cloud de la communauté du secteur public/Cloud de la communauté du secteur public Haut/DoD, veuillez consulter la [description Microsoft Teams service.](../../teams-service-description.md)
+Pour obtenir la disponibilité des fonctionnalités Microsoft Teams dans Cloud de la communauté du secteur public/Cloud de la communauté du secteur public Haut/DoD, consultez la [description Microsoft Teams service.](../../teams-service-description.md)
 > <sup>1 Disponibilité</sup> à venir.
 <br/><sup>2 Disponibilité</sup> sur les Surface Hub local (non signé).
 <br/><sup>3 Le</sup> partage externe est disponible pour l’environnement Cloud de la communauté du secteur public externe. En savoir plus sur la façon [de désactiver ou d’activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements Cloud de la communauté du secteur public élevé et DOD ; Les utilisateurs au sein de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
