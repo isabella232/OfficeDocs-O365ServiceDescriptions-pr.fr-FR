@@ -45,7 +45,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |[Gouvernance avancée des informations](/microsoft-365/compliance/retention)<sup>2</sup> | Non | Non  |Non  | Non | Non | Oui | Oui  | Non  |
 |[Recherche de contenu](/microsoft-365/compliance/search-for-content) | Oui | Oui  |Oui  | Oui | Oui | Oui | Oui  | Oui  |
 |[Cas eDiscovery](/microsoft-365/compliance/get-started-core-ediscovery)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   | Oui  |
-|[les détient eDiscovery (y compris les requêtes eDiscovery) ;](/microsoft-365/compliance/get-started-core-ediscovery)  |Non   |Non   |Non  |Non   |Oui   |Oui   |Oui   |Non   |
+|[Les détient eDiscovery (y compris les requêtes eDiscovery)](/microsoft-365/compliance/get-started-core-ediscovery)  |Non   |Non   |Non  |Non   |Oui   |Oui   |Oui   |Non   |
 |[Exportation de la découverte électronique](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Non   |Non   |Non  |Oui   |Oui   |Oui  |Non   |
 |[Découverte électronique avancée](/microsoft-365/compliance/overview-ediscovery-20)<sup>5</sup>  |Non   |Non   |Non   |Non  |Non   |Oui   |Oui  |Non  |
 |[Archivage](/microsoft-365/compliance/enable-archive-mailboxes)  |Oui<sup>3</sup>  |Oui<sup>3</sup>  |Oui<sup>3</sup>  |Oui<sup>3</sup>  |Oui<sup>4</sup>   |Oui<sup>4</sup>   |Oui  |Non  |
@@ -60,9 +60,9 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 
 <sup>1 Les</sup> journaux d’audit de tous les plans qui incluent l’audit de base (à l’exception de E5) sont conservés pendant 90 jours. Étant donné que L’E5 inclut l’audit avancé, les journaux d’audit sont conservés pendant un an. En outre, vous pouvez utiliser [l’API activité Office 365 gestion pour](/office/office-365-management-api/office-365-management-activity-api-reference) récupérer des événements à partir du journal d’audit unifié.
 
-<sup>2 Nécessite</sup> une Office 365 de protection contre la perte de données.
+<sup>2 Nécessite</sup> une Office 365 protection contre la perte de données.
 
-<sup>3 Les étiquettes</sup> de niveau de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
+<sup>3 Les étiquettes</sup> de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilité &amp; du Centre de conformité de sécurité pour les plans autonomes
 
@@ -70,7 +70,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité des applications cloud Office 365](/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Oui   |
-|[La gestion des menaces,](/cloud-app-security/what-is-cloud-app-security)telle que le filtrage du courrier et la protection contre les programmes malveillants   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
+|[Gestion des menaces,](/cloud-app-security/what-is-cloud-app-security)telle que le filtrage du courrier et la protection contre les programmes malveillants   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Gestion avancée des menaces,](/office365/securitycompliance/office-365-ti)telle que l’Explorateur de menaces pour les campagnes de hameçonnage   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non  |
 |[Référentiel sécurisé client](/office365/securitycompliance/customer-lockbox-requests)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
@@ -82,7 +82,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |[Recherche de contenu](/office365/securitycompliance/search-for-content)  |Oui   |Oui   |Oui   |Oui   |Oui  | Oui<sup>10</sup>  |Oui<sup>10</sup>  |Oui   |Oui   |
 |[Cas eDiscovery](/office365/securitycompliance/ediscovery-cases)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui<sup>10</sup>  |Oui<sup>10</sup>  |Non   |Non   |
 |[Exportation de la découverte électronique](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
-|[les détient eDiscovery (y compris les requêtes eDiscovery) ;](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
+|[Les détient eDiscovery (y compris les requêtes eDiscovery)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
 |[Découverte électronique avancée](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Archivage](/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |Non   |Oui   |Non   |Oui   |Oui   |Oui<sup>10</sup> |Oui<sup>10</sup>  |Non   |Non   |
 |[Audit de base](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|Oui|Oui|Oui|Oui|Oui|Oui<sup>10</sup>|Oui<sup>10</sup>|Non|Non|
@@ -108,7 +108,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 
 <sup>8 Les journaux</sup> d’audit de tous les plans qui incluent l’audit de base sont conservés pendant 90 jours. En outre, vous pouvez utiliser [l’API activité Office 365 gestion pour](/office/office-365-management-api/office-365-management-activity-api-reference) récupérer des événements à partir du journal d’audit unifié.
 
-<sup>9</sup> Nécessite une Office 365 protection contre la perte de données.
+<sup>9</sup> Nécessite une Office 365 de protection contre la perte de données.
 
 <sup>10 Limité</sup> aux fichiers stockés dans OneDrive Entreprise.
 

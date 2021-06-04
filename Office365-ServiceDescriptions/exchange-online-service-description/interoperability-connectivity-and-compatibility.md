@@ -22,13 +22,13 @@ ms.locfileid: "51652718"
 
 ## <a name="interoperability-with-other-microsoft-products"></a>Interopérabilité avec d'autres produits Microsoft
 
-### <a name="skype-for-business-online"></a>Skype Entreprise Online
+### <a name="skype-for-business-online"></a>Skype Entreprise Online
 
 Pour les clients qui ont déployé Microsoft Lync Server 2010, Lync Server 2013 ou Microsoft Office Communications Server 2007 R2 local, Microsoft Office Communicator peut se connecter à Microsoft Exchange Online à l'aide des services web Exchange afin d'accéder aux messages de notification d'absence du bureau et aux données de calendrier.
   
 Lync Server 2010 et Lync Server 2013 sur site peuvent interagir avec Exchange Online de deux façons supplémentaires :
   
-- Interopérabilité de la messagerie instantanée et de la présence dans Outlook sur le web
+- Interopérabilité de la messagerie instantanée et de la présence Outlook sur le web
     
 - Interopérabilité de la messagerie vocale
     
@@ -36,7 +36,7 @@ Pour plus d'informations sur la configuration de Skype Entreprise Server 2015 av
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d’un plan d’abonnement, SharePoint peut se connecter à Exchange Online pour les services intégrés.
+Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d’un plan d’abonnement, SharePoint peuvent se connecter à Exchange Online services intégrés.
   
 Pour plus d'informations sur la connexion de SharePoint à Exchange Online, visitez la page [Utiliser SharePoint Online sur un domaine personnalisé avec d'autres services](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,4 +58,4 @@ Exchange Online peut être configuré comme un service de remise SMTP pour relay
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Exchange Online description du service.](exchange-online-service-description.md)

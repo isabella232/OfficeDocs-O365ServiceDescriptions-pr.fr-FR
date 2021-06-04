@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
-description: En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des abonnements Office 365 pour le gouvernement américain (ou Office 365 Secteur Public). Cet article fournit une vue d’ensemble des fonctionnalités propres Office 365 Secteur Public aux États-Unis.
+description: En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des abonnements Office 365 pour le gouvernement américain (ou Office 365 Secteur Public). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques Office 365 Secteur Public aux États-Unis.
 ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
 ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
@@ -20,21 +20,21 @@ ms.locfileid: "52699080"
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
 > [!IMPORTANT]
-> Microsoft Teams rencontre un pic considérable d’appels en ligne et de conférence audio/vidéo en raison de la épidémie de coronavirus (COVID-19).<br/>
+> Microsoft Teams rencontre un pic considérable dans les appels en ligne et les conférences audio/vidéo en raison de la épidémie de coronavirus (COVID-19).<br/>
 >
 >En réponse à l’augmentation sans précédent des appels et pour garantir la continuité et la disponibilité, Microsoft permet à Microsoft Teams Cloud de la communauté du secteur public serveurs audio/vidéo de tirer parti de la capacité de traitement dans nos centres de données commerciaux, ainsi que dans nos centres de données publics.<br/>
 >
->Ces serveurs audio/vidéo résident dans les Microsoft Azure frontière de l’accréditation FedRAMP aux États-Unis et ne stockent aucun contenu client. Toutefois, ces serveurs traitent l’audio et la vidéo pour les appels et les conférences et fonctionnent sous notre personnel commercial pendant cette période intermédiaire.<br/>
+>Ces serveurs audio/vidéo résident dans les Microsoft Azure frontière de l’accréditation FedRAMP aux États-Unis et ne stockent aucun contenu client. Toutefois, ces serveurs traitent l’audio et la vidéo pour les appels et les conférences et fonctionnent sous nos employés commerciaux pendant cette période intermédiaire.<br/>
 >
 >Le personnel qualifié et à l’écran surveille ces serveurs afin d’y trouver un accès potentiel aux données client en examineant les connexions interactives à ces serveurs. Le personnel qualifié répond Cloud de la communauté du secteur public conditions requises pour l’accès au contenu client. Pour plus d’informations sur les exigences de filtrage, voir la [description Cloud de la communauté du secteur public service.](gcc.md)<br/>
 >
->Nous vous remercions de votre support, car nous prenons des mesures pour nous assurer que nos services restent disponibles et fiables dans ces périodes exceptionnelles.<br/>
+>Nous vous remercions de votre support, car nous prenons les mesures nécessaires pour nous assurer que nos services restent disponibles et fiables dans ces périodes exceptionnelles.<br/>
 
-En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 Secteur Public (ou Office 365 Secteur Public). Cette description de service fournit une vue d’ensemble des fonctionnalités propres Office 365 Secteur Public aux États-Unis. Nous vous recommandons de lire cette description de service en même temps que d’autres Microsoft 365 [et Office 365 descriptions de service.](../../office-365-service-descriptions-technet-library.md)
+En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 Secteur Public (ou Office 365 Secteur Public). Cette description de service fournit une vue d’ensemble des fonctionnalités propres aux environnements Office 365 Secteur Public États-Unis. Nous vous recommandons de lire cette description de service en même temps que d’autres Microsoft 365 [et Office 365 descriptions de service.](../../office-365-service-descriptions-technet-library.md)
 
 ## <a name="how-to-use-this-service-description"></a>Utilisation de la description de ce service
 
-La description Office 365 Secteur Public service est conçue pour servir de superposition à la description Office 365 service. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
+La description Office 365 Secteur Public service est conçue pour servir de superposition à la description générale Office 365 service. Elle définit les engagements uniques et les différences par rapport aux offres Office 365 Entreprise.
 
 ## <a name="about-office-365-government-environments"></a>À propos Office 365 Secteur Public environnements de travail
 
@@ -56,7 +56,7 @@ Outre les fonctionnalités de Office 365, les organisations qui utilisent Office
 
 ## <a name="customer-eligibility"></a>Conditions d’éligibilité des clients
 
-Office 365 Secteur Public est disponible pour (1) les entités gouvernementales fédérales, nationales, locales, fédérales et américaines, et (2) les autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et lorsque l’utilisation de Office 365 Secteur Public est appropriée pour répondre à ces exigences, sous réserve de validation de l’éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. L’Office 365 DoD est pour une utilisation exclusive du département de la Défense des États-Unis.
+Office 365 Secteur Public est disponible pour (1) les entités gouvernementales fédérales, américaines, nationales, locales, yézyments et gouvernementales américaines, et (2) les autres entités qui gèrent les données soumises aux réglementations et exigences gouvernementales et lorsque l’utilisation de Office 365 Secteur Public est appropriée pour répondre à ces exigences, sous réserve de validation de l’éligibilité. Les contrôles d'éligibilité menés par Microsoft consistent en la confirmation du traitement de données soumises à la Réglementation américaine sur le trafic d'armes au niveau international (ITAR), de données judiciaires soumises à la politique des services d'information sur les informations de justice criminelle (CJIS) du FBI, ou d'autre données faisant l'objet de contrôles ou de réglementations gouvernementales. Dans le cadre de ces contrôles, il peut être exigé une preuve d'enregistrement auprès du département d'État des États-Unis dans le cas des données ITAR, ou encore une caution délivrée par une entité gouvernementale ayant des exigences spécifiques en matière de gestion des données. L’Office 365 DoD est pour une utilisation exclusive du département de la Défense des États-Unis.
 
 Bien que les critères d’éligibilité soient cohérents entre les offres Office 365 Secteur Public, Microsoft acceptera uniquement la langue du contrat DFARS et ITAR pour l’environnement Cloud de la communauté du secteur public High.
 
@@ -97,16 +97,16 @@ Avec les avantages du Centre FastTrack pour Office 365<sup>1,</sup>vous travaill
 
 L’intégration se compose des éléments suivants :
 
-- Intégration de base : il s’agit des tâches requises pour la configuration du client et l’intégration avec Azure Active Directory (Azure AD) si nécessaire. L’intégration de base fournit également la ligne de base pour l’intégration d’autres services éligibles.
+- Intégration de base : il s’agit des tâches requises pour la configuration du client et l’intégration Azure Active Directory (Azure AD) si nécessaire. L’intégration de base fournit également la ligne de base pour l’intégration d’autres services éligibles.
 
 - Intégration et migration de service : les tâches d’intégration de service permettent des scénarios dans votre client. La migration des données (y compris les e-mails et les fichiers) est couverte par [la migration des données.](/FastTrack/data-migration) <sup>2</sup>
 
-Les services d’adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs connaissent les services éligibles et qu’ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
+Les services d’adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs sont conscients des services éligibles et qu’ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
 
 Des informations spécifiques sur le processus du Centre FastTrack sont disponibles [ici.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d’engagement, examinez les responsabilités [fastTrack](/FastTrack/us-gov-appendix-fasttrack-responsibilities) ainsi que [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
 
 > <sup>1</sup> Vous devez acheter au moins 150 licences dans la liste des [plans](/fasttrack/eligibility) éligibles pour recevoir les services FastTrack.
-<br/><sup>2</sup> Les services de migration de données sont disponibles Office 365 clients 500 licences ou plus.
+<br/><sup>2</sup> Les services de migration de données sont disponibles Office 365 clients avec 500 licences ou plus.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrations de données effectuées par FastTrack
 
@@ -281,12 +281,12 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**[Contrat de niveau de service](../../office-365-platform-service-description/service-level-agreement.md)**|Oui|Oui|Oui|Oui|
 |**[Droits d’utilisation de logiciels](../../office-365-platform-service-description/product-use-rights.md)**|Oui|Oui|Oui|Oui|
 
-> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus dans Office 365 Secteur Public G1 ou Office 365 Secteur Public F3. >
+> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Office 365 Secteur Public G1 ou Office 365 Secteur Public F3. >
 <br/><sup>2 Clients</sup> BBCS et BIS existants peuvent continuer à utiliser le service. Les nouveaux clients ne sont pas acceptés.
 <br/><sup>3</sup> Si vous utilisez la synchronisation d’annuaires, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory, plutôt que du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell.
 <br/><sup>4 Si</sup> vous utilisez la synchronisation de mot de passe, les utilisateurs doivent modifier leur mot de passe dans Active Directory local.
 <br/><sup>5 Pour découvrir</sup> comment définir des stratégies de gestion des mots de passe en libre-service pour les utilisateurs, voir Gérer les mots de passe [dans Azure AD.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)
-<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un autre abonnement, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
+<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un abonnement différent, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
 <br/><sup>7 La réduction</sup> des sièges achetés avec une remise à terme peut être soumise à des frais de résiliation anticipée. Ceci n’est pas applicable aux abonnements payés sur une base mensuelle.
 <br/><sup>8</sup> Les plans suivants ne viennent pas en charge des changements de licence du Centre d’administration Microsoft 365 : Office 365 Secteur Public G1, Office 365 Secteur Public G3, Office 365 Secteur Public F3.
 <br/><sup>9</sup> Not yet available in Cloud de la communauté du secteur public High, but coming soon.
@@ -359,13 +359,13 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |Mises à niveau de la version|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
 |Volume activation (KMS/MAK)|Non|Non|Non|Non|
 
-> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus dans Office 365 Secteur Public G1 ou Office 365 Secteur Public F3.
+> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Office 365 Secteur Public G1 ou Office 365 Secteur Public F3.
 <br/><sup>2</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément pour activer les fonctionnalités IRM pris en charge.
 <br/><sup>3 Skype Entreprise</sup> Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 Entreprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup> Pas encore disponible dans Cloud de la communauté du secteur public environnements Élevé ou DoD, mais bientôt disponible.
-<br/><sup>5 Pour</sup> plus [d’Outlook,](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) voir l’utilisation de Cloud de la communauté du secteur public pour iOS et Android.
+<br/><sup>5 Pour</sup> plus [d’Outlook,](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) voir Utilisation de Outlook pour iOS et Android dans la Cloud de la communauté du secteur public plus d’informations.
 <br/><sup>6</sup> Pas encore disponible dans Office 365'environnement DoD, mais bientôt disponible.
-<br/><sup>7 Les</sup> applications sont entièrement disponibles dans les clouds du secteur public, à l’exception des fonctionnalités spécifiques qui ne sont pas disponibles pour le moment. Pour [plus d Office, voir la disponibilité des fonctionnalités](#office-application-and-feature-availability-in-government-plans) de l’application.
+<br/><sup>7 Les</sup> applications sont entièrement disponibles dans les clouds du secteur public, à l’exception des fonctionnalités spécifiques qui ne sont pas disponibles pour le moment. Pour [plus d Office, voir la disponibilité des fonctionnalités](#office-application-and-feature-availability-in-government-plans) d’application.
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>Office disponibilité des applications et des fonctionnalités dans les plans pour le gouvernement
 
@@ -456,6 +456,6 @@ Les applications Office suivantes sont disponibles dans les clouds du gouverneme
 Pour obtenir la disponibilité des fonctionnalités Microsoft Teams dans Cloud de la communauté du secteur public/Cloud de la communauté du secteur public Haut/DoD, consultez la [description Microsoft Teams service.](../../teams-service-description.md)
 > <sup>1 Disponibilité</sup> à venir.
 <br/><sup>2 Disponibilité</sup> sur les Surface Hub local (non signé).
-<br/><sup>3 Le</sup> partage externe est disponible pour l’environnement Cloud de la communauté du secteur public externe. En savoir plus sur la façon [de désactiver ou d’activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements Cloud de la communauté du secteur public élevé et DOD ; Les utilisateurs au sein de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
+<br/><sup>3 Le</sup> partage externe est disponible pour l’environnement Cloud de la communauté du secteur public externe. En savoir plus sur la façon [de désactiver ou d’activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements Cloud de la communauté du secteur public élevé et DOD ; Les utilisateurs de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
 <br/><sup>4 La</sup> fonctionnalité Formulaires de groupe récents est désactivée pour l’Cloud de la communauté du secteur public de groupe. Toutefois, les utilisateurs peuvent toujours accéder aux formulaires de groupe en sélectionnant un groupe spécifique sous l’onglet Formulaires de groupe.
 <br/><sup>5</sup> Word, Excel PowerPoint Windows client uniquement, et non web, MacOS, iOS ou Android.

@@ -1,5 +1,5 @@
 ---
-title: Environnements OneDrive pour le gouvernement américain
+title: OneDrive pour les environnements pour le gouvernement américain
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -9,7 +9,7 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Découvrez la disponibilité des fonctionnalités OneDrive pour les clients du cloud pour le gouvernement des États-Unis.
+description: Découvrez la disponibilité OneDrive fonctionnalités pour les clients cloud du gouvernement des États-Unis.
 ms.openlocfilehash: 61d7e178c1b3940ad8a3ba487b803c7e4cc0e197
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,22 +17,22 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653436"
 ---
-# <a name="onedrive-for-us-government-environments"></a>Environnements OneDrive pour le gouvernement américain
+# <a name="onedrive-for-us-government-environments"></a>OneDrive pour les environnements pour le gouvernement américain
 
-Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la [description du service OneDrive.](../../onedrive-for-business-service-description.md) OneDrive est disponible pour les environnements GCC (Government Community Cloud), GCC High et DoD. 
+Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la [description OneDrive service.](../../onedrive-for-business-service-description.md) OneDrive est disponible pour les environnements Cloud de la communauté du secteur public (Cloud de la communauté du secteur public), Cloud de la communauté du secteur public High et DoD. 
 
-Pour plus d’informations sur le cloud pour le gouvernement, notamment sur l’éligibilité et les achats, voir [Microsoft 365 Pour le](./microsoft-365-government-how-to-buy.md)gouvernement - comment acheter . Pour comparer les plans Office 365 pour le gouvernement, consultez [les plans Office 365 Pour le gouvernement.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Pour plus d’informations sur le cloud du gouvernement, y compris sur l’éligibilité et les achats, [voir Microsoft 365 secteurs](./microsoft-365-government-how-to-buy.md)publics - comment acheter . Pour comparer les Office 365 Secteur Public, voir [Office 365 Secteur Public plans.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
-Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir les points de terminaison [Office 365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) ou Office [365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business)points de terminaison .
+Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir [Office 365 U.S. Government Cloud de la communauté du secteur public High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) or [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
-En plus de profiter des fonctionnalités et des fonctionnalités d’Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement américain :
+En plus de profiter des fonctionnalités et des fonctionnalités de Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement américain :
 
--   Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Commerciaux Office 365 de Microsoft.
+-   Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Office 365 commerciaux de Microsoft.
 -   Le contenu client de votre organisation est stocké aux États-Unis.
 -   L’accès au contenu client de votre organisation est limité à des membres du personnel de Microsoft triés sur le volet.
 -   Les environnements cloud du secteur public sont conformes aux certifications et accréditations requises pour les clients du secteur public américain.
 
-Notre objectif est de fournir toutes les fonctionnalités commerciales de OneDrive aux environnements cloud du secteur privé. Certaines fonctionnalités ne sont pas disponibles en raison des exigences des clients cloud du gouvernement. D’autres fonctionnalités sont disponibles dans les environnements du secteur public, mais ne sont pas encore disponibles. Reportez-vous aux sections suivantes pour en savoir plus sur la disponibilité des fonctionnalités dans les environnements cloud du secteur privé.
+Notre objectif est de fournir toutes les fonctionnalités commerciales OneDrive aux environnements cloud du gouvernement. Certaines fonctionnalités ne sont pas disponibles en raison des exigences des clients cloud du gouvernement. D’autres fonctionnalités sont disponibles dans les environnements du secteur public, mais ne sont pas encore disponibles. Reportez-vous aux sections suivantes pour en savoir plus sur la disponibilité des fonctionnalités dans les environnements cloud du secteur privé.
 
 ## <a name="sharing-features"></a>Fonctionnalités de partage
 
@@ -42,14 +42,14 @@ Pour plus d’informations sur les différences de fonctionnalités entre le clo
 
 Voici les différences entre les fonctionnalités web pour les clients commerciaux et celles pour les clients cloud du secteur privé :
 
-- Les cartes de fichier ne sont pas disponibles dans les environnements GCC High et DoD
-- L’accès à la bibliothèque SharePoint ( « Bibliothèques partagées » dans le volet de navigation) n’est pas disponible dans les environnements GCC High et DoD
+- Les cartes de fichier ne sont pas disponibles dans Cloud de la communauté du secteur public environnements Élevé et DoD
+- SharePoint’accès à la bibliothèque ( « Bibliothèques partagées » dans le volet de navigation) n’est pas disponible dans les environnements Cloud de la communauté du secteur public et DoD
 
 ## <a name="mobile-features"></a>Fonctionnalités mobiles
 
 Voici les différences entre les fonctionnalités mobiles pour les clients commerciaux et celles des clients cloud du secteur privé :
 
-- L’application Windows 10 pour XBox One, HoloLens, Surface Hub et les tablettes n’est pas disponible pour les environnements publics (GCC, GCC High et DoD).
+- L’application Windows 10 pour XBox One, HoloLens, Surface Hub et tablettes n’est pas disponible pour les environnements publics (Cloud de la communauté du secteur public, Cloud de la communauté du secteur public High et DoD).
 
 ## <a name="sync-features"></a>Fonctionnalités de synchronisation
 
@@ -59,4 +59,4 @@ Voici les différences entre les fonctionnalités de synchronisation pour les cl
 
 ## <a name="security-compliance-and-administration-features"></a>Fonctionnalités de sécurité, de conformité et d’administration
 
-Pour plus d’informations sur les différences de fonctionnalités entre le cloud commercial et les environnements cloud du gouvernement, voir SharePoint pour les [environnements pour le gouvernement des États-Unis](sharepoint.md)
+Pour les différences de fonctionnalités entre le cloud commercial et les environnements cloud du gouvernement, voir SharePoint pour les [environnements du gouvernement des États-Unis](sharepoint.md)

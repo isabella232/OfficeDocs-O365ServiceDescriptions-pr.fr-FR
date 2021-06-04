@@ -48,7 +48,7 @@ Pour plus d'informations sur les autorisations disponibles dans Exchange Online,
   
 ## <a name="role-groups"></a>Groupes de rôles
 
-Les groupes de rôles de gestion associent les rôles de gestion à un groupe d'administrateurs ou d'utilisateurs spécialisés. Les administrateurs gèrent une organisation ou une configuration de destinataire Exchange Online large. Les utilisateurs spécialistes gèrent les fonctionnalités spécifiques d’Exchange Online, telles que la conformité, ou ils peuvent avoir des capacités de gestion limitées, telles que les membres du service d’aide, mais ne disposent pas de droits d’administration étendus. Les groupes de rôles associent généralement des rôles de gestion d’administration qui permet aux administrateurs et aux utilisateurs spécialistes de gérer la configuration de leur organisation et de leurs destinataires. Par exemple, le fait que les administrateurs peuvent gérer des destinataires ou utiliser des fonctionnalités de découverte de boîtes aux lettres est contrôlé à l’aide de groupes de rôles. 
+Les groupes de rôles de gestion associent les rôles de gestion à un groupe d'administrateurs ou d'utilisateurs spécialisés. Les administrateurs gèrent une grande Exchange Online organisation ou la configuration des destinataires. Les utilisateurs spécialistes gèrent les fonctionnalités spécifiques des Exchange Online, telles que la conformité, ou ils peuvent avoir des capacités de gestion limitées, telles que les membres du service d’aide, mais ne disposent pas de droits d’administration étendus. Les groupes de rôles associent généralement des rôles de gestion d’administration qui permet aux administrateurs et aux utilisateurs spécialistes de gérer la configuration de leur organisation et de leurs destinataires. Par exemple, le fait que les administrateurs peuvent gérer des destinataires ou utiliser des fonctionnalités de découverte de boîtes aux lettres est contrôlé à l’aide de groupes de rôles. 
   
 > [!IMPORTANT]
 > Certains groupes de rôles disponibles dans la version sur site de Microsoft Exchange Server 2013 ne sont peut-être pas disponibles dans Exchange Online. 
@@ -66,4 +66,4 @@ Pour plus d'informations sur les stratégies d'attribution de rôle, consultez l
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Exchange Online description du service.](exchange-online-service-description.md)

@@ -25,23 +25,23 @@ Microsoft Exchange Online offre une variété de fonctionnalités de rapport à 
   
 ## <a name="reporting-features"></a>Fonctionnalités de création de rapports
 
-Les clients Exchange Online peuvent accéder aux rapports dans le Centre d’administration Microsoft 365, en téléchargeant un manuel de rapports Excel ou à l’aide de services web.
+Exchange Online clients peuvent accéder aux rapports dans le Centre d’administration Microsoft 365, en téléchargeant un Excel de rapports ou à l’aide de services web.
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Rapports dans le Centre d’administration Microsoft 365
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Rapports dans le Centre d’administration Microsoft 365 de gestion des rapports
 
 La page Rapports du Centre d’administration Microsoft 365 fournit des informations récapitulatifs sur les boîtes aux lettres et les groupes. Par exemple, un rapport répertorie le nombre de groupes créés et supprimés par jour, semaine, mois ou an. Des rapports de synthèse sont aussi fournis pour les boîtes aux lettres nouvelles et supprimées, ainsi que pour les boîtes aux lettres actives et inactives. 
   
 En outre, la page Rapports du Centre d’administration Microsoft 365 contient des rapports de données de messagerie, qui fournissent des informations sur le trafic des messages, les détections de courrier indésirable et de programmes malveillants, ainsi que les messages affectés par les règles de transport Exchange ou les stratégies de protection contre la perte de données (DLP). Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une utilisation interactive des rapports aux administrateurs Exchange Online. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
   
-Pour plus d’informations sur les rapports disponibles avec chaque abonnement, voir [Rapports.](../office-365-platform-service-description/reports.md) Pour plus d’informations sur la page Rapports dans le Centre d’administration Microsoft 365, voir Afficher et télécharger des rapports sur l’utilisation des services dans [Office 365](/microsoft-365/admin/activity-reports/activity-reports) et utiliser les rapports de protection de messagerie pour afficher des données sur les programmes [malveillants,](/exchange/monitoring/use-mail-protection-reports)le courrier indésirable et les détections de règles.
+Pour plus d’informations sur les rapports disponibles avec chaque abonnement, voir [Rapports.](../office-365-platform-service-description/reports.md) Pour plus d’informations sur la page Rapports dans le Centre d’administration Microsoft 365, voir Afficher et télécharger des rapports sur l’utilisation des services dans [Office 365](/microsoft-365/admin/activity-reports/activity-reports) et utiliser les rapports de protection de messagerie pour afficher les données sur les programmes [malveillants,](/exchange/monitoring/use-mail-protection-reports)le courrier indésirable et les détections de règles.
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Rapports utilisant le classeur de rapports Excel
 
-Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d’utiliser les rapports améliorés du Centre d’administration Microsoft 365 à la place. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez cette [page de téléchargement](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
+Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d’utiliser les rapports Microsoft 365 centre d’administration à la place. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez cette [page de téléchargement](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
   
 ### <a name="reporting-using-web-services"></a>Création de rapports à l’aide de services web
 
-L’accès à des rapports récapitulatifs et détaillés sur les boîtes aux lettres, les groupes et les données de messagerie est disponible à l’aide du service web rest/OData Tenant Reporting, qui est une interface programmatique qui vous permet de créer des rapports personnalisés. Pour plus d’informations, voir services web de rapports [Office 365.](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))
+L’accès à des rapports récapitulatifs et détaillés sur les boîtes aux lettres, les groupes et les données de messagerie est disponible à l’aide du service web rest/OData Tenant Reporting, qui est une interface programmatique qui vous permet de créer des rapports personnalisés. Pour plus d’informations, [voir Office 365 services web de rapports.](/previous-versions/office/developer/o365-enterprise-developers/jj984325(v=office.15))
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Fonctionnalités de reporting et outils de dépannage dans le Centre d'Administration Exchange
 
@@ -49,7 +49,7 @@ Le Centre d'administration Exchange propose les fonctionnalités de création de
   
 ### <a name="trace-an-email-message"></a>Suivre un message électronique
 
-La fonctionnalité de suivi des messages vous permet, en tant qu’administrateur, de suivre les messages électroniques lors de leur passage par votre service Exchange Online. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Vous pouvez ainsi répondre efficacement aux questions de vos utilisateurs et résoudre les problèmes de flux de messagerie, tout en réduisant la nécessité de demander de l'aide à l'assistance technique.
+La fonctionnalité de suivi des messages vous permet, en tant qu’administrateur, de suivre les messages électroniques lors de leur passage par Exchange Online service. Elle vous aide à déterminer si un message électronique ciblé a été reçu, rejeté, différé ou remis par le service. Vous pouvez ainsi répondre efficacement aux questions de vos utilisateurs et résoudre les problèmes de flux de messagerie, tout en réduisant la nécessité de demander de l'aide à l'assistance technique.
   
 > [!IMPORTANT]
 > Dans le cadre de tendances et problèmes généraux de dépannage, utilisez les outils de reporting pour obtenir les données correspondantes. Pour des points spécifiques où les détails relatifs à un message sont requis, recourez à l'outil de suivi des messages. 
@@ -72,4 +72,4 @@ Vous pouvez utiliser ces rapports pour surveiller et dépanner la messagerie uni
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Exchange Online description du service.](exchange-online-service-description.md)

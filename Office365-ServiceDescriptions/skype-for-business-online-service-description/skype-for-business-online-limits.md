@@ -34,11 +34,11 @@ Les limites de Skype Entreprise Online sont les suivantes :
 - [Limites en minutes](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Les limites appliquées à une organisation Microsoft 365 peuvent varier en fonction de la durée pendant combien de temps l’organisation a été inscrite au service. En cas de modification d’une limite dans les centres de données Microsoft, l’application de la modification à tous les clients existants peut prendre un certain temps. 
+> Les limites appliquées à une Microsoft 365 organisation peuvent varier en fonction de la durée pendant combien de temps l’organisation a été inscrite au service. En cas de modification d’une limite dans les centres de données Microsoft, l’application de la modification à tous les clients existants peut prendre un certain temps. 
   
 ## <a name="peer-to-peer-limits"></a>Limites pair à pair
 
-- **Limite de transfert de** fichiers : taille maximale d’un fichier qui peut être transféré dans une conversation de messagerie instantanée Skype Entreprise Online. Pour connaître les types de fichiers dont le transfert est bloqué, consultez l'article du support Microsoft sur [l'envoi ou la réception de fichiers ou de pièces jointes dans Skype Entreprise Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
+- **Limite de transfert de** fichiers : taille maximale d’un fichier qui peut être transféré dans une conversation Skype Entreprise messagerie instantanée en ligne. Pour connaître les types de fichiers dont le transfert est bloqué, consultez l'article du support Microsoft sur [l'envoi ou la réception de fichiers ou de pièces jointes dans Skype Entreprise Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **Limite des conversations ouvertes à** onglets : nombre maximal d’onglets de conversation qu’un utilisateur Skype Entreprise peut ouvrir en même temps. 
     
@@ -55,7 +55,7 @@ Les limites de Skype Entreprise Online sont les suivantes :
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Limites pair à pair parmi les options autonomes
 
-| Fonctionnalité | Skype Entreprise Server 2015 | Skype Entreprise Online Plan autonome &nbsp; 1 | Skype Entreprise Online Plan autonome &nbsp; 2 |
+| Fonctionnalité | Skype Entreprise Server 2015 | Skype Entreprise Plan autonome en ligne &nbsp; 1 | Skype Entreprise Plan autonome en ligne &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Limite de transfert de fichiers  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |Aucune limite  <br/> |
 |Limite de conversation<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
@@ -66,15 +66,15 @@ Les limites de Skype Entreprise Online sont les suivantes :
   
 ## <a name="meeting-limits"></a>Limites de réunion
 
-- **Limite de téléchargement de** fichiers : taille maximale des fichiers qui peuvent être téléchargés vers une réunion Skype Entreprise, y compris des documents et des présentations PowerPoint. 
+- **Limite de téléchargement de** fichiers : taille maximale des fichiers qui peuvent être téléchargés vers une réunion Skype Entreprise, y compris les documents et PowerPoint présentations. 
     
-- **Participants à une réunion Skype** Entreprise : nombre maximal de participants (y compris le présentateur) qui peuvent participer à une seule réunion Skype Entreprise. 
+- **Participants à une Skype Entreprise -** Nombre maximal de participants (y compris le présentateur) qui peuvent participer à une seule Skype Entreprise réunion. 
     
-- **Présentateurs dans une réunion Skype** Entreprise : nombre maximal de présentateurs dans une seule réunion Skype Entreprise. 
+- **Présentateurs dans une réunion Skype Entreprise -** Nombre maximal de présentateurs dans une seule Skype Entreprise réunion. 
     
-- **Participants à une** réunion Skype Entreprise Web App : nombre maximal de participants à une réunion Skype Entreprise Web App qui peuvent participer à une réunion. 
+- **Skype Entreprise des participants** à une réunion d’application web : nombre maximal de participants Skype Entreprise de réunion Web App qui peuvent participer à une réunion. 
     
-- **Participants anonymes de l’application web Skype** Entreprise : nombre maximal de participants à une réunion Skype Entreprise Web App qui peuvent participer anonymement à une réunion. 
+- **Skype Entreprise participants anonymes** de l’application web : nombre maximal de participants Skype Entreprise réunion d’application web qui peuvent participer anonymement à une réunion. 
     
 - **Invités se joignant par téléphone** : nombre maximal d’invités qui peuvent participer à une réunion. 
     
@@ -95,7 +95,7 @@ Les limites de Skype Entreprise Online sont les suivantes :
   
 ### <a name="meeting-limits-across-standalone-options"></a>Limites de réunion parmi les options autonomes
 
-| Fonctionnalité | Skype Entreprise Server 2015 | Skype Entreprise Online Plan autonome &nbsp; 1 | Skype Entreprise Online Plan autonome &nbsp; 2 |
+| Fonctionnalité | Skype Entreprise Server 2015 | Skype Entreprise Plan autonome en ligne &nbsp; 1 | Skype Entreprise Plan autonome en ligne &nbsp; 2 |
 |:-----|:-----|:-----|:-----|
 |Limite de chargement de fichiers  <br/> |500 Mo  <br/> |Non applicable  <br/> |500 Mo  <br/> |
 |Participants à une réunion Skype Entreprise  <br/> |250  <br/> |Non applicable  <br/> |250  <br/> |

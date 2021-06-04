@@ -41,11 +41,11 @@ Ajoutez des responsables et des rapports pour créer un organigramme avec vos co
   
 ## <a name="praise"></a>Compliment
 
-Exprimez et recevez de la reconnaissance pour un travail bien fait. Les réussites et les badges apparaissent sur les profils dans **l’onglet Félicitations.**
+Exprimez et recevez de la reconnaissance pour un travail bien fait. Les réussites et les badges apparaissent sur les profils sous **Compliment’onglet.**
  
 ## <a name="user-profiles"></a>Profils utilisateur
 
-Téléchargez une image, remplissez les coordonnées et listez vos connaissances. Les profils regroupent toutes vos informations, y compris les conversations et les fichiers.
+Télécharger image, remplissez les coordonnées et listez votre expertise. Les profils regroupent toutes vos informations, y compris les conversations et les fichiers.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

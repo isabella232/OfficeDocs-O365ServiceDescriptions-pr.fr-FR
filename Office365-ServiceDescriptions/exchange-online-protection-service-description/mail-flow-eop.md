@@ -21,13 +21,13 @@ ms.locfileid: "51653136"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>Flux de messagerie dans Exchange Online Protection
 
-Pour la plupart des organisations qui utilisent Microsoft, nous hébergeons vos boîtes aux lettres et nous nous chargeons du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres localement. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement de courrier antivirus et anti-courrier indésirable dans le cloud. Pour plus d’informations et pour acheter EOP, allez sur [Exchange Online Protection.](https://products.office.com/exchange/exchange-email-security-spam-protection)
+Pour la plupart des organisations qui utilisent Microsoft, nous hébergeons vos boîtes aux lettres et nous nous chargeons du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres localement. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement antivirus et anti-courrier indésirable dans le cloud. Pour plus d’informations et pour acheter EOP, Exchange Online Protection [.](https://products.office.com/exchange/exchange-email-security-spam-protection)
   
-Vous recherchez des informations sur la gestion de domaines ou le blocage du périmètre basé sur l'annuaire (DBEB) ? Consultez [la gestion des destinataires, des domaines et des entreprises.](recipient-domain-and-company-management.md) Pour en savoir plus sur toutes les fonctionnalités EOP, consultez la description du [service Exchange Online Protection.](exchange-online-protection-service-description.md)
+Vous recherchez des informations sur la gestion de domaines ou le blocage du périmètre basé sur l'annuaire (DBEB) ? Consultez [la gestion des destinataires, des domaines et des entreprises.](recipient-domain-and-company-management.md) Pour en savoir plus sur toutes les fonctionnalités EOP, consultez la [description Exchange Online Protection service.](exchange-online-protection-service-description.md)
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Routage du courrier électronique entre Microsoft et vos propres serveurs de messagerie
 
-Vous pouvez configurer un connecteur pour activer le flux de messagerie entre Microsoft (y compris Exchange Online ou EOP) et un serveur de messagerie SMTP tel qu’Exchange. Pour plus d'informations à ce sujet, consultez les rubriques [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? Et [configurer des connecteurs pour router le courrier entre Microsoft et vos propres serveurs de messagerie.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
+Vous pouvez configurer un connecteur pour activer le flux de messagerie entre Microsoft (y compris Exchange Online ou EOP) et un serveur de messagerie SMTP tel que Exchange. Pour plus d'informations à ce sujet, consultez les rubriques [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)? Et [configurer des connecteurs pour router le courrier entre Microsoft et vos propres serveurs de messagerie.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
@@ -53,4 +53,4 @@ L'[Assistant de déploiement Microsoft Exchange Server](/exchange/exchange-deplo
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la description du [service Exchange Online Protection.](exchange-online-protection-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Exchange Online Protection description du service.](exchange-online-protection-service-description.md)

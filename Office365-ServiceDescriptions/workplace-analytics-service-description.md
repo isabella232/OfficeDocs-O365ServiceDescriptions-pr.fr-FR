@@ -35,7 +35,7 @@ Microsoft Workplace Analytics fournit des informations riches et actionnables su
 
 ## <a name="gain-objective-actionable-insights"></a>Obtenir des informations objectives et actionnables
 
-Découvrez comment votre organisation consacre du temps et collabore en interne et en externe avec des informations sans précédent d’Office 365. Workplace Analytics fournit aux chefs d’entreprise des dizaines de mesures comportementales actionnables sur le temps et les réseaux pour informer une variété de décisions stratégiques, notamment les modèles d’équipe, l’allocation des ressources et la planification de l’espace de travail.
+Découvrez comment votre organisation consacre du temps et collabore en interne et en externe avec des informations sans précédent de Office 365. Workplace Analytics fournit aux chefs d’entreprise des dizaines de mesures comportementales actionnables sur le temps et les réseaux pour informer une variété de décisions stratégiques, notamment les modèles d’équipe, l’allocation des ressources et la planification de l’espace de travail.
 
 ## <a name="drive-organizational-change-with-data"></a>Modifier l’organisation avec les données
 
@@ -47,6 +47,6 @@ Workplace Analytics fournit des contrôles de confidentialité pour répondre à
 
 Pour plus d'informations, voir [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Pour en savoir plus sur l’utilisation de Workplace Analytics, consultez la [documentation Workplace Analytics.](/workplace-analytics/)
   
-## <a name="licensing-requirements"></a>Critères de licence
+## <a name="licensing-requirements"></a>Conditions d'octroi de licence
 
-Exchange Online Plan 1 ou Plan 2 est une condition préalable.
+Exchange Online Le plan 1 ou le plan 2 est une condition préalable.

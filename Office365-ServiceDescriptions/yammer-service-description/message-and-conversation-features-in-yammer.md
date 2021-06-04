@@ -31,9 +31,9 @@ Informez vos collègues et intégrez-les à une conversation en mentionnant leur
 
 Organisez des réunions et des événements, partagez-les avec vos collègues et suivez les participants. Les événements peuvent être ajoutés aux calendriers Outlook, Google, Yahoo! et iCal.
   
-## <a name="office-for-the-web-support"></a>Prise en charge d’Office pour le web
+## <a name="office-for-the-web-support"></a>Office sur le Web prise en charge
 
-Avec la prise en charge d’Office pour le web dans Yammer, les documents téléchargés sur Yammer peuvent être consultables et modifiés avec Office pour le web, directement dans Yammer. Cela permet aux documents d’être restituer correctement avec Office pour le web, permet la co-auteur par différents utilisateurs simultanément et affiche les conversations Yammer pertinentes, directement dans votre navigateur.
+Avec Office sur le Web prise en charge dans Yammer, les documents téléchargés vers Yammer peuvent être consultables et modifiés avec Office sur le Web, directement dans Yammer. Cela permet aux documents d’être restituer correctement avec Office sur le Web, d’activer la co-auteur par différents utilisateurs simultanément et d’afficher des conversations Yammer pertinentes, directement dans votre navigateur.
 
 ## <a name="online-now"></a>En ligne maintenant
 

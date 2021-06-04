@@ -21,7 +21,7 @@ ms.locfileid: "51652288"
 
 Les fonctionnalités de services principaux suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la [description Project Online service.](project-online-service-description.md)
   
 ## <a name="active-directory-integration"></a>Active Directory integration
 
@@ -33,13 +33,13 @@ Project Online et Project Server 2013 proposent aux administrateurs des fonction
   
 ## <a name="getting-started"></a>Prise en main
 
-Le contenu de mise en ligne est disponible pour Project Online. Voir l'article [Prise en main de Project Online ](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
+Le contenu de mise en Project Online. Voir l'article [Prise en main de Project Online ](https://support.office.com/article/E3E5F64F-ADA5-4F9D-A578-130B2D4E5F11).
   
 ## <a name="issues-and-risk-management-for-team-members"></a>Gestion des problèmes et des risques (pour les membres de l’équipe)
 
 Project Online et Project Server 2013 comprennent des fonctions qui permettent de prévenir, d'identifier et d'atténuer les risques et problèmes potentiels liés aux projets ou aux activités. Pour en savoir plus, consultez la rubrique [Gestion des problèmes, des risques et des documents dans Project Web App](/previous-versions/office/project-server-2010/hh767484(v=office.14)).
   
-## <a name="office-365-trust-center"></a>Centre de gestion de la confidentialité Office 365
+## <a name="office-365-trust-center"></a>Office 365 Trust Center
 
 Vos données vous appartiennent. Nous les protégeons afin de préserver votre vie privée. Pour plus d'informations, consultez la page du [Centre de gestion de la confidentialité d'Office 365](https://go.microsoft.com/fwlink/?LinkId=402637).
   
@@ -53,7 +53,7 @@ Nous nous engageons à assurer une activité de 99,9 % avec une garantie financi
   
 ## <a name="service-updates"></a>Mises à jour du service
 
-Nous mettez régulièrement à jour les services Microsoft avec de nouvelles fonctionnalités. Voir [les mises à jour de service.](../office-365-platform-service-description/service-updates.md)
+Nous les mettez régulièrement à services Microsoft avec de nouvelles fonctionnalités. Voir [les mises à jour de service.](../office-365-platform-service-description/service-updates.md)
   
 ## <a name="team-member-collaboration"></a>Collaboration des membres de l’équipe
 

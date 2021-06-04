@@ -74,7 +74,7 @@ Obtenez une vision globale des périphériques auxquels sont connectés les util
 
 ## <a name="single-identity"></a>Identité unique
 
-Lorsque vous choisissez Yammer comme expérience sociale par défaut pour votre organisation, les employés sont mappés à leurs comptes Yammer existants. Autrement dit, ils n'auront pas besoin de se connecter de nouveau lors de l'accès à Yammer dans Office 365. Lorsque les employés accèdent à Yammer à partir d’Office 365, via une application mobile Yammer ou en accédant à Yammer.com ils sont automatiquement connectés en fonction des informations &mdash; &mdash; d’identification de l’organisation existantes.
+Lorsque vous choisissez Yammer comme expérience sociale par défaut pour votre organisation, les employés sont mappés à leurs comptes Yammer existants. Autrement dit, ils n'auront pas besoin de se connecter de nouveau lors de l'accès à Yammer dans Office 365. Lorsque les employés accèdent à Yammer à partir de Office 365, via une application mobile Yammer ou en accédant à Yammer.com, ils sont automatiquement connectés en fonction des informations &mdash; &mdash; d’identification de l’organisation existantes.
 
 ## <a name="usage-policy"></a>Stratégie d’utilisation
 

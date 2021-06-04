@@ -46,15 +46,15 @@ La [description Office 365 service pour le](../../office-365-platform-service-de
 - *Confirmez que votre organisation répond aux conditions d’éligibilité.*
 
 > [!NOTE]
-> Microsoft 365 Gouvernement - DoD est uniquement disponible aux États-Unis. Les clients non américains peuvent choisir parmi un certain nombre [d’Office 365 Secteur Public.](https://products.office.com/government/compare-office-365-government-plans)
+> Microsoft 365 Gouvernement - DoD est disponible uniquement aux États-Unis. Les clients non américains peuvent choisir parmi un certain nombre [d’Office 365 Secteur Public.](https://products.office.com/government/compare-office-365-government-plans)
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Étape 2. Demander une Microsoft 365 pour le gouvernement - DoD
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Étape 2. Demander une Microsoft 365 pour le gouvernement - DoD
 
 Après avoir décidé que ce service est le bon pour votre organisation, démarrez le processus [d’application de ce service.](https://products.office.com/government/eligibility-validation)
 
-## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Étape 3. Comprendre Microsoft 365 administration : paramètres de sécurité par défaut du DoD
+## <a name="step-3-understand-microsoft-365-government---dod-default-security-settings"></a>Étape 3. Comprendre Microsoft 365 administration : paramètres de sécurité par défaut du DoD
 
-Nous vous recommandons de prendre le temps d’examiner attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
+Nous vous recommandons de prendre le temps de consulter attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
 
 **Point de** décision : déterminez si vous allez modifier l’un des paramètres de sécurité Microsoft 365 Government - DoD par défaut, en résolvant *d’abord l’impact* des modifications que vous pourriez apporter.
 
@@ -91,7 +91,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 | | Gouvernance des informations : verrouillage de conservation | Available |
 | | Gouvernance des informations : importer PST | Available |
 | | Gouvernance des informations : appliquer manuellement des étiquettes de rétention non-enregistrement | Available |
-| | Gouvernance des informations : appliquer des étiquettes de rétention par SharePoint/OneDrive Entreprise bibliothèques, dossiers et ensembles de documents ; Exchange boîtes de réception ; et Office 365 groupes | Available |
+| | Gouvernance des informations : appliquer des étiquettes de rétention par défaut SharePoint/OneDrive Entreprise bibliothèques, dossiers et ensembles de documents ; Exchange boîtes de réception ; et Office 365 groupes | Available |
 | | Gouvernance des informations : appliquer une seule étiquette de rétention par défaut à l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; et automatiquement en fonction d’une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; | Available |
 | | Gouvernance des informations : appliquer une étiquette par défaut pour Exchange boîtes de réception | Available |
 | | Gouvernance des informations : révision de disposition en plusieurs étapes | On engineering backlog |
@@ -117,7 +117,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 | | Gestion des risques internes : examiner les alertes de gestion des risques internes | En cours de déploiement |
 | | Gestion des risques internes : indicateurs Office pour les Teams, les sites SharePoint, la messagerie électronique | En cours de déploiement |
 | | Explorateur d’activités de gestion des risques internes | On engineering backlog |
-| | Gestion des risques internes : indicateurs d’appareil pour l’activité Windows 10 build 1809 et supérieure | On engineering backlog |
+| | Gestion des risques internes : indicateurs d’appareil pour l’activité Windows 10 build 1809 et supérieures | On engineering backlog |
 | | Gestion des risques internes : indicateurs pour les alertes de point de terminaison Microsoft Defender | On engineering backlog |
 | | Gestion des risques internes : indicateurs de violation de la stratégie de sécurité | On engineering backlog |
 | | Gestion des risques internes : modèles de stratégie pour les fuites de données par des utilisateurs non régrunts | On engineering backlog |
@@ -164,7 +164,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 | | Advanced eDiscovery : identification quasi-en double | Available |
 | | Advanced eDiscovery : codage prédictif | Available |
 | | Advanced eDiscovery : exportation traitée avec fichier de chargement | Available |
-| | Advanced eDiscovery: Redactions | Available |
+| | Advanced eDiscovery : Actions | Available |
 | | Advanced eDiscovery : Ensembles de révision | Available |
 | | Advanced eDiscovery : révision et annoter | Available |
 | | Advanced eDiscovery : rapport de terme de recherche | Available |
@@ -173,10 +173,10 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 | | Advanced eDiscovery : prise en charge Teams réactions | Available |
 | | Advanced eDiscovery : rapports de client | Available |
 | | Advanced eDiscovery : Thèmes | Available |
-| | Advanced eDiscovery : visiteurs | Available |
+| | Advanced eDiscovery : visionneuses | Available |
 | | Advanced eDiscovery : Yammer Advanced eDiscovery dans le Centre de conformité Microsoft | Available |
-| | Advanced eDiscovery : Optimisation des attentes | En cours de développement |
-| | Advanced eDiscovery : prise en charge étendue du Centre de conformité Microsoft pour rechercher et exporter des éléments dans SharePoint, OneDrive Entreprise, Corbeille principale et Advanced eDiscovery | En cours de développement |
+| | Advanced eDiscovery : optimisations des attentes | En cours de développement |
+| | Advanced eDiscovery : prise en charge étendue du Centre de conformité Microsoft pour la recherche et l’exportation d’éléments dans SharePoint, OneDrive Entreprise, Corbeille au cœur et Advanced eDiscovery | En cours de développement |
 | | Advanced eDiscovery : procédure de Teams messages de canaux privés | En cours de développement |
 | | Advanced eDiscovery : nouveau module de codage prédictif | En cours de développement |
 | | Advanced eDiscovery : ingestion non Office 365 | On engineering backlog |
@@ -190,7 +190,7 @@ Pour répondre aux exigences de nos clients cloud pour le gouvernement, il exist
 | | Audit avancé : rétention à plus long terme dans les journaux d’audit (10 ans) | En cours de développement |
 | | Audit avancé : événements de terme de recherche dans Exchange Online et SharePoint Online | On engineering backlog |
 | **Gestion de la conformité** | Microsoft 365 Centre de sécurité et conformité | Available |
-| | Microsoft Cloud App Security | En cours de développement |
+| | Microsoft Cloud App Security | En cours de développement |
 | | Gestionnaire de conformité | Available |
 | | Prise en charge des caractères sur deux byte | Available |
 | **Écosystème** | Connecteurs de données de première partie : RH | Available |

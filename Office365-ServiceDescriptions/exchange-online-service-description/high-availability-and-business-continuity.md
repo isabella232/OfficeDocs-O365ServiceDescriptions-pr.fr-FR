@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online offre une prise en charge étendue de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
+description: Microsoft Exchange Online offre une prise en charge complète de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
 ms.openlocfilehash: 5415499e85d0e6fb0334e2e23abc435d0df9d2ab
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,7 +21,7 @@ ms.locfileid: "51653336"
 ---
 # <a name="high-availability-and-business-continuity"></a>Haute disponibilité et continuité de service
 
-Microsoft Exchange Online offre une prise en charge étendue de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
+Microsoft Exchange Online offre une prise en charge complète de la rétention et de la récupération pour l’infrastructure de messagerie d’une organisation. Sont incluses la réplication de boîte aux lettres dans les centres de données et la possibilité de restaurer des boîtes aux lettres et éléments supprimés.
   
 ## <a name="mailbox-replication-at-data-centers"></a>Réplication de boîtes aux lettres dans les centres de données
 
@@ -31,7 +31,7 @@ Pour plus d'informations sur la manière dont Microsoft protège vos données, c
   
 ## <a name="deleted-mailbox-recovery"></a>Récupération de boîtes aux lettres supprimées
 
-Les administrateurs peuvent supprimer des boîtes aux lettres Exchange Online à l’aide du Centre d’administration Microsoft 365 pour supprimer le compte d’utilisateur correspondant ou la licence Exchange Online, ou à l’aide de la cmdlet **Remove-Mailbox** dans Windows PowerShell. Lors de la suppression d'une boîte aux lettres, Exchange Online conserve la boîte aux lettres et son contenu pendant 30 jours par défaut. Passé ce délai de 30 jours, la boîte aux lettres n'est plus récupérable. Une boîte aux lettres récupérée contient toutes les données qui y étaient stockées au moment de sa suppression. Les administrateurs peuvent récupérer une boîte aux lettres supprimée pendant la période de rétention à l’aide du Centre d’administration Microsoft 365. Pour récupérer une boîte aux lettres supprimée, les administrateurs doivent restaurer le compte d’utilisateur correspondant ou réaffecter une licence Exchange Online au compte d’utilisateur. Pour plus d'informations, consultez la rubrique [Suppression ou restauration de boîtes aux lettres utilisateur dans Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Les administrateurs peuvent supprimer des boîtes aux lettres Exchange Online à l’aide du Centre d’administration Microsoft 365 pour supprimer le compte d’utilisateur correspondant ou supprimer la licence Exchange Online, ou à l’aide de la cmdlet **Remove-Mailbox** dans Windows PowerShell. Lors de la suppression d'une boîte aux lettres, Exchange Online conserve la boîte aux lettres et son contenu pendant 30 jours par défaut. Passé ce délai de 30 jours, la boîte aux lettres n'est plus récupérable. Une boîte aux lettres récupérée contient toutes les données qui y étaient stockées au moment de sa suppression. Les administrateurs peuvent récupérer une boîte aux lettres supprimée au cours de la période de rétention à l’aide Microsoft 365 centre d’administration. Pour récupérer une boîte aux lettres supprimée, les administrateurs doivent restaurer le compte d’utilisateur correspondant ou réaffecter une licence Exchange Online au compte d’utilisateur. Pour plus d'informations, consultez la rubrique [Suppression ou restauration de boîtes aux lettres utilisateur dans Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
   
 ## <a name="deleted-item-recovery"></a>Récupération d'éléments supprimés
 
@@ -45,4 +45,4 @@ Pour conserver les messages au-delà de 30 jours dans le dossier Éléments réc
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Exchange Online description du service.](exchange-online-service-description.md)

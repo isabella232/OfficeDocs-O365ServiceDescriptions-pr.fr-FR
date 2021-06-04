@@ -23,17 +23,17 @@ ms.locfileid: "52545971"
 
 Microsoft Defender pour Office 365 est un service de filtrage de courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les programmes malveillants et les virus inconnus en offrant une protection zero-day robuste, et inclut des fonctionnalités permettant de protéger votre organisation contre les liens dangereux en temps réel. Defender for Office 365 offre de riches fonctionnalités de suivi d’URL et de rapports qui donnent aux administrateurs des informations sur le type d’attaques qui se produisent dans votre organisation.
 
-Voici les principales façons d’utiliser Defender pour Office 365 protection des messages :
+Les principaux moyens d’utiliser Defender pour la protection des Office 365 sont les suivants :
 
 - Dans un scénario de filtrage defender pour Office 365 uniquement, Defender pour Office 365 offre une protection de messagerie électronique basée sur le cloud pour votre environnement Exchange Server local ou toute autre solution de messagerie SMTP locale.
 
 - Defender for Office 365 peut être activé pour protéger Exchange Online boîtes aux lettres hébergées dans le cloud. Pour en savoir plus sur Exchange Online, voir la [description Exchange Online service.](exchange-online-service-description/exchange-online-service-description.md)
 
-- Dans un déploiement hybride, Defender pour Office 365 peut être configuré pour protéger votre environnement de messagerie et contrôler le routage des messages lorsque vous avez une combinaison de boîtes aux lettres sur site et cloud avec Exchange Online Protection pour le filtrage des messages entrants.
+- Dans un déploiement hybride, Defender pour Office 365 peut être configuré pour protéger votre environnement de messagerie et contrôler le routage du courrier lorsque vous avez une combinaison de boîtes aux lettres sur site et cloud avec Exchange Online Protection pour le filtrage des messages entrants.
 
-## <a name="microsoft-defender-for-office-365-availability"></a>Disponibilité de Microsoft Defender pour Office 365 données
+## <a name="microsoft-defender-for-office-365-availability"></a>Microsoft Defender pour la Office 365 disponible
 
-Microsoft Defender pour Office 365 Plan 2 est inclus dans Office 365 E5, Office 365 A5, Microsoft 365 E5 Sécurité et Microsoft 365 E5 comme spécifié ici [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](/microsoft-365/security/office-365-security/office-365-atp) : Defender pour Office 365 Plan 1 est inclus dans Microsoft 365 Business Premium.
+Microsoft Defender pour Office 365 Plan 2 est inclus dans Office 365 E5, Office 365 A5, Microsoft 365 E5 Sécurité et Microsoft 365 E5 comme spécifié ici [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](/microsoft-365/security/office-365-security/office-365-atp) : Defender for Office 365 Plan 1 est inclus dans Microsoft 365 Business Premium.
 
 Vous pouvez ajouter Defender for Office 365 aux plans d’abonnement Exchange et Microsoft 365 suivants :
 
@@ -55,13 +55,13 @@ Vous pouvez ajouter Defender for Office 365 aux plans d’abonnement Exchange et
 
 - Office 365 Entreprise F3
 
-- Office 365 A1
+- Office 365 A1
 
-- Office 365 A3
+- Office 365 A3
 
-Pour acheter Microsoft Defender pour Office 365, [consultez Microsoft Defender pour Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
+Pour acheter Microsoft Defender pour Office 365, consultez [Microsoft Defender pour Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Pour obtenir des informations détaillées sur les abonnements qui activent Microsoft Defender pour les utilisateurs pour Office 365, consultez le tableau de comparaison complet [des abonnements.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Pour obtenir des informations détaillées sur les abonnements qui activent Microsoft Defender pour Office 365, consultez le tableau de comparaison complet [des abonnements.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Nouveautés de Microsoft Defender pour Office 365
 
@@ -79,7 +79,7 @@ Defender for Office 365 peut être utilisé avec n’importe quel agent de trans
 
 Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online » fait généralement référence à la famille de services  Office 365 Entreprise.<br><br>
 
-| Fonctionnalité | Microsoft Defender pour Office 365 Plan 1 | Microsoft Defender pour Office 365 Plan 2 | Microsoft 365 E5 /A5 Security|
+| Fonctionnalité | Microsoft Defender pour Office 365 Plan 1 | Microsoft Defender pour Office 365 Plan 2 | Microsoft 365 E5/A5 Security|
 |:-----|:-----|:-----|:-----|
 |*Configuration, protection et détection*|
 |[Pièces jointes fiables](#safe-attachments)|Oui|Oui|Oui|
@@ -104,7 +104,7 @@ Chaque fonctionnalité est indiquée ci-dessous. La mention « Exchange Online
 
 ### <a name="safe-attachments"></a>Pièces jointes fiables
 
-[La fonction Pièces jointes sécurisées](/microsoft-365/security/office-365-security/atp-safe-attachments) protège contre les programmes malveillants et les virus inconnus et fournit une protection zero-day pour protéger votre système de messagerie. Tous les messages et pièces jointes qui n’ont pas de signature de virus/programmes malveillants connus sont acheminés vers un environnement spécial dans lequel Defender pour Office 365 utilise diverses techniques d’apprentissage automatique et d’analyse pour détecter les intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
+[La fonction Pièces jointes](/microsoft-365/security/office-365-security/atp-safe-attachments) sécurisées protège contre les programmes malveillants et les virus inconnus et fournit une protection zero-day pour protéger votre système de messagerie. Tous les messages et pièces jointes qui n’ont pas de signature de virus/programmes malveillants connus sont acheminés vers un environnement spécial dans lequel Defender pour Office 365 utilise diverses techniques d’apprentissage automatique et d’analyse pour détecter les intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
 
 > [!NOTE]
 > L’analyse des pièces jointes sécurisées a lieu dans la même région que Office 365 données personnelles. Pour plus d’informations sur la géographie du centre de données, [voir Où se trouvent vos données ?](https://products.office.com/where-is-your-data-located?geo=All)
@@ -151,11 +151,11 @@ Ce qu'il faut savoir avant de commencer
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>Protection avancée contre les menaces pour SharePoint, OneDrive et Microsoft Teams
 
-[AtP pour SharePoint, OneDrive](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) et Microsoft Teams permet de détecter et de bloquer les fichiers identifiés comme malveillants dans les sites d’équipe et les bibliothèques de documents. En outre, la protection des liens sécurisés est désormais disponible dans Microsoft Teams et conversations.
+[AtP pour SharePoint, OneDrive](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) et Microsoft Teams permet de détecter et de bloquer les fichiers identifiés comme malveillants dans les sites d’équipe et les bibliothèques de documents. En outre, la protection contre les liens sécurisés est désormais disponible dans Microsoft Teams et conversations.
 
 ### <a name="anti-phishing-policies"></a>Politiques anti-hameçonnage
 
-[L’anti-hameçonnage recherche](/microsoft-365/security/office-365-security/atp-anti-phishing) dans les messages entrants les indicateurs qu’un message peut être une tentative de hameçonnage. Lorsque les utilisateurs sont couverts par les stratégies defender pour Office 365 (pièces jointes sécurisées, liens sécurisés ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise, en fonction des stratégies configurées.
+[L’anti-hameçonnage recherche](/microsoft-365/security/office-365-security/atp-anti-phishing) dans les messages entrants les indicateurs qu’un message peut être une tentative d’hameçonnage. Lorsque les utilisateurs sont couverts par les stratégies defender pour Office 365 (pièces jointes sécurisées, liens sécurisés ou anti-hameçonnage), les messages entrants sont évalués par plusieurs modèles d’apprentissage automatique qui analysent les messages et l’action appropriée est entreprise, en fonction des stratégies configurées.
 
 ### <a name="real-time-reports"></a>Rapports en temps réel
 
@@ -171,7 +171,7 @@ Pour plus d’informations sur l’Explorateur (dans Microsoft Defender pour Off
 
 ### <a name="real-time-detections"></a>Détections en temps réel
 
-Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Comme dans l’Explorateur, par défaut, ce rapport affiche les données des sept derniers jours.
+Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Comme dans l’Explorateur, ce rapport affiche par défaut les données des sept derniers jours.
 
 Les détections en temps réel contiennent des affichages, tels que les programmes malveillants (pour le courrier électronique et le contenu), les soumissions et le hameçonnage. Pour comparer les détections en temps réel avec l’Explorateur, [téléchargez ce PDF.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
@@ -192,5 +192,5 @@ Les fonctionnalités de réponse automatisée aux [incidents](/microsoft-365/sec
 - L’entraînement de simulation d’attaque est désormais disponible dans ww et Cloud de la communauté du secteur public (sera disponible Cloud de la communauté du secteur public le 21 juin).
 - Pour plus d’informations sur la mise en place, voir Commencer à utiliser la formation sur la [simulation d’attaque.](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)
 - Diverses techniques d’attaque qui appliquent des charges utiles d’hameçonnage réelles et dédupliquées sont disponibles pour répliquer le comportement d’une attaque réelle afin de rendre les simulations de hameçonnage pertinentes.
-- Ce service est disponible pour les organisations qui disposent de licences Microsoft 365 E5, Office 365 E5 ou [Microsoft Defender pour Office 365 Plan 2.](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) Un sous-ensemble de fonctionnalités est proposé aux clients E3 comme version d’essai.
+- Ce service est disponible pour les organisations qui disposent de licences Microsoft 365 E5, Office 365 E5 ou [Microsoft Defender pour Office 365 Plan 2.](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) Un sous-ensemble de fonctionnalités est proposé aux clients E3 en tant qu’essai.
 - Pour en savoir plus et tester une simulation, voir [Simulation d’une attaque par hameçonnage.](/microsoft-365/security/office-365-security/attack-simulation-training)

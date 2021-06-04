@@ -19,13 +19,13 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51652538"
 ---
-# <a name="networking"></a>Réseau
+# <a name="networking"></a>Mise en réseau
 
 Microsoft prend en charge les fonctionnalités réseau suivantes.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Ports, protocoles et adresses IP
 
-Microsoft utilise les adresses IPv4 et IPv6. L'utilisation des adresses IPv6 est facultative et non obligatoire pour la connexion à Office 365. Toutes les fonctionnalités de Microsoft 365 ne sont pas entièrement activées à l’aide d’IPv6. Pour plus d’informations sur la prise en charge d’Ipv6, consultez la prise en charge [IPv6 dans les services Microsoft.](/office365/enterprise/ipv6-support)
+Microsoft utilise les adresses IPv4 et IPv6. L'utilisation des adresses IPv6 est facultative et non obligatoire pour la connexion à Office 365. Les fonctionnalités Microsoft 365 ne sont pas toutes entièrement activées à l’aide d’IPv6. Pour plus d’informations sur la prise en charge d’Ipv6, voir la prise en charge [d’IPv6 dans services Microsoft](/office365/enterprise/ipv6-support).
   
 Microsoft conserve une liste d’adresses IP autorisées dans l’aide de Microsoft. Pour plus d’informations, [voir URL et plages d’adresses IP.](/office365/enterprise/urls-and-ip-address-ranges) Pour Office 365 géré par 21Vianet, voir [URL et adresses IP pour Office 365 géré par 21Vianet](/office365/enterprise/managing-office-365-endpoints). Pour Office 365 Germany, voir [Points de terminaison Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
@@ -64,4 +64,4 @@ Pour plus d'informations, rendez-vous dans le [Centre de gestion de la confident
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les différents plans, voir la description du service de plateforme [Microsoft 365 et Office 365.](office-365-platform-service-description.md)
+Pour afficher la disponibilité des fonctionnalités dans les différents plans, voir [Microsoft 365 et Office 365 description du service de plateforme.](office-365-platform-service-description.md)

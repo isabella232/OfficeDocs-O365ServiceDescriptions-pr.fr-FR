@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: Les fonctionnalités d’interopérabilité sharePoint et Skype Entreprise suivantes sont disponibles dans Project Online.
+description: Les fonctionnalités SharePoint et Skype Entreprise’interopérabilité sont disponibles dans Project Online.
 ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651187"
 ---
 # <a name="project-publishing"></a>Publication de projet
 
-Les fonctionnalités d’interopérabilité sharePoint et Skype Entreprise suivantes sont disponibles dans Project Online.
+Les fonctionnalités SharePoint et Skype Entreprise’interopérabilité sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la [description Project Online service.](project-online-service-description.md)
   
 ## <a name="create-a-project-site"></a>Créer un site de projet
 
@@ -41,16 +41,16 @@ Utilisez les fonctionnalités de messagerie pour discuter de votre projet avec l
 
 Publiez un projet avec Project Web App. Pour en savoir plus, consultez la rubrique [Enregistrer et publier un projet sur Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271354).
   
-## <a name="save-a-project-mpp-file-on-sharepoint"></a>Enregistrer un fichier MPP Project sur SharePoint
+## <a name="save-a-project-mpp-file-on-sharepoint"></a>Enregistrez un Project MPP sur SharePoint
 
-Enregistrez un projet dans une bibliothèque de documents SharePoint à partager avec les membres de l’équipe qui n’ont pas Project Server. En savoir plus sur [la synchronisation avec une liste de tâches SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+Enregistrez un projet dans une bibliothèque SharePoint documents à partager avec les membres de l’équipe qui n’ont pas Project Server. En savoir plus sur [la synchronisation avec une liste de tâches SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
-## <a name="task-list-sync-to-sharepoint"></a>Synchronisation des listes de tâches avec SharePoint
+## <a name="task-list-sync-to-sharepoint"></a>Synchronisation de la liste des tâches avec SharePoint
 
 Après avoir initialement couplé votre projet avec une liste de tâches SharePoint, vous pouvez continuer à synchroniser la liste des tâches lorsque vous mettez votre projet à jour. Les relations de prédécesseur entre les tâches, les jalons et le mappage de champs (y compris les notes) sont conservées pendant la synchronisation. Il n'est pas indispensable que Project Professionnel 2013 soit installé pour que les membres de votre équipe puissent accéder à leurs tâches. En savoir plus sur [la synchronisation avec une liste de tâches SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [la description du service Project Online.](project-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Project Online description du service.](project-online-service-description.md)
   
 

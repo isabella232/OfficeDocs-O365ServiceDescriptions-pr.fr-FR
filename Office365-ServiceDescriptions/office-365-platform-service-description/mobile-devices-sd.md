@@ -27,8 +27,8 @@ De nombreux téléphones mobiles, tablettes et autres appareils mobiles peuvent 
     
 - Pour plus d’informations sur l’utilisation du courrier électronique sur les appareils mobiles, voir la description du service Clients [et](../exchange-online-service-description/clients-and-mobile-devices.md) appareils mobiles. 
     
-- Pour plus d’informations sur basic Mobility and Security pour Microsoft 365, voir Vue d’ensemble de [Basic Mobility and Security pour Microsoft 365.](/microsoft-365/admin/basic-mobility-security/overview)
+- Pour plus d’informations sur basic Mobility and Security pour Microsoft 365, voir Vue d’ensemble de [Basic Mobility and Security pour Microsoft 365](/microsoft-365/admin/basic-mobility-security/overview).
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les plans Microsoft 365 et Office 365, consultez la description du service de plateforme [Microsoft 365 et Office 365.](office-365-platform-service-description.md)
+Pour afficher la disponibilité des fonctionnalités dans Microsoft 365 et Office 365 plans, voir Microsoft 365 [et Office 365 description du service de plateforme.](office-365-platform-service-description.md)

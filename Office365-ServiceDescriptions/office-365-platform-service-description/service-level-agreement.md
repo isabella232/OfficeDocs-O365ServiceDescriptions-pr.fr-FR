@@ -26,7 +26,7 @@ ms.locfileid: "51652438"
 
 Nous assurons un soutien financier pour démontrer notre engagement à obtenir et à conserver les niveaux de service de chacun de nos services. Si nous ne parvenons pas à atteindre et à maintenir les niveaux de service de chaque service, comme décrit dans le contrat de niveau de service, vous pouvez bénéficier d'un crédit sur une partie de vos frais de service mensuels. Pour en savoir plus sur nos contrats de niveau de service, téléchargez notre [contrat de niveau de service pour les services en ligne Microsoft](https://go.microsoft.com/fwlink/?linkid=272026). Pour connaître les taux de disponibilité du système et consulter les informations de sécurité, de confidentialité et de conformité, consultez la page [Opérations transparentes d'Office 365](./service-health-and-continuity.md).
   
-## <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
+## <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
 Consultez la page relative au [contrat de niveau de service 21Vianet](https://go.microsoft.com/fwlink/?linkid=846729) et au [contrat standard pour les services en ligne](https://go.microsoft.com/fwlink/?linkid=846730) pour Office 365 géré par 21Vianet. 
   
@@ -35,4 +35,4 @@ Consultez la page relative au [contrat de niveau de service 21Vianet](https://go
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans les différents plans, voir la description du service de plateforme [Microsoft 365 et Office 365.](office-365-platform-service-description.md)
+Pour afficher la disponibilité des fonctionnalités dans les différents plans, voir [Microsoft 365 et Office 365 description du service de plateforme.](office-365-platform-service-description.md)

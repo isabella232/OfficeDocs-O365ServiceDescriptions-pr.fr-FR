@@ -25,20 +25,20 @@ ms.locfileid: "51652388"
 
 Microsoft 365 et Office 365 sont des services informatiques conçus pour répondre aux besoins de sécurité, de fiabilité et de productivité robustes de votre organisation. 
   
-Les articles de cette bibliothèque fournissent une description détaillée des services et fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour plus d’informations sur les applications microsoft Dynamics 365 business, voir [la documentation de Microsoft Dynamics 365.](/dynamics365/)
+Les articles de cette bibliothèque fournissent une description détaillée des services et des fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour plus d’informations sur les applications microsoft Dynamics 365 business, voir [la documentation de Microsoft Dynamics 365.](/dynamics365/)
 
 Pour comparer les fonctionnalités entre les plans, voir [Outils puissants pour](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) prendre en charge votre entreprise ou la description de service pertinente dans la liste ci-dessous. 
   
-Pour obtenir des articles et des informations de support, consultez l’aide [d’Office & Training,](https://support.office.com/)la documentation Office pour les [administrateurs](/office/)et les professionnels de l’informatique, et le Centre d’aide [Microsoft 365](/microsoft-365/)pour les administrateurs et les professionnels de l’informatique.
+Pour obtenir des articles et des informations de support, voir Office Help [& Training,](https://support.office.com/)la documentation Office pour les [administrateurs](/office/)et les professionnels de l’informatique et le centre d’aide Microsoft 365 pour les [administrateurs](/microsoft-365/)et les professionnels de l’informatique.
   
 > [!NOTE]
-> Si vous recherchez la feuille de calcul de comparaison de description de service, elle a été retirée. Les tableaux de disponibilité des fonctionnalités de produit sur chaque page de description de service ont été mis à jour pour vous aider à choisir la version d’Office 365 qui répond à vos besoins. 
+> Si vous recherchez la feuille de calcul de comparaison de description de service, elle a été retirée. Les tableaux de disponibilité des fonctionnalités de produit sur chaque page de description de service ont été mis à jour pour vous aider à choisir la version de Office 365 qui répond à vos besoins. 
   
-Microsoft offre les avantages du Centre FastTrack pour Office 365 pour les services éligibles dans les plans éligibles. Cet avantage vous permet de travailler à distance avec des spécialistes Microsoft pour préparer votre environnement Office 365. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft offre les avantages du Centre FastTrack Office 365 pour les services éligibles dans les plans éligibles. L’avantage vous permet de travailler à distance avec des spécialistes De Microsoft pour préparer votre environnement Office 365 prêt à l’emploi. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Pour commencer, lisez les descriptions suivantes :
   
-- [Description du service de plateforme Microsoft 365 et Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 et description Office 365 service de plateforme](office-365-platform-service-description/office-365-platform-service-description.md)web<sup>1</sup>
 
 - [Description de service des applications Office](office-applications-service-description/office-applications-service-description.md)
 

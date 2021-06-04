@@ -36,7 +36,7 @@ Pour plus d’informations, voir [Configurer des connecteurs pour router le cour
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
-En tant que client Exchange Online, vous pouvez configurer un flux de messagerie sécurisé avec un partenaire approuvé à l’aide de connecteurs Microsoft. Microsoft prend en charge la communication sécurisée via TLS (Transport Layer Security), et vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS est](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) un protocole de chiffrement qui assure la sécurité des communications sur Internet. À l’aide de connecteurs, vous pouvez configurer le TLS entrant forcé et le TLS sortant à l’aide de certificats auto-signés ou validés par l’autorité de certification. Vous pouvez également appliquer d’autres restrictions de sécurité, telles que la spécification de noms de domaine ou de plages d’adresses IP à partir des duquel votre organisation partenaire envoie des messages. 
+En tant Exchange Online client, vous pouvez configurer un flux de messagerie sécurisé avec un partenaire approuvé à l’aide de connecteurs Microsoft. Microsoft prend en charge la communication sécurisée via TLS (Transport Layer Security), et vous pouvez créer un connecteur pour appliquer le chiffrement via TLS. [TLS est](/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) un protocole de chiffrement qui assure la sécurité des communications sur Internet. À l’aide de connecteurs, vous pouvez configurer le TLS entrant forcé et le TLS sortant à l’aide de certificats auto-signés ou validés par l’autorité de certification. Vous pouvez également appliquer d’autres restrictions de sécurité, telles que la spécification de noms de domaine ou de plages d’adresses IP à partir des duquel votre organisation partenaire envoie des messages. 
   
 Pour plus d'informations, consultez la rubrique [Set up connectors for secure mail flow with a partner organization](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -96,4 +96,4 @@ Pour plus d'informations sur la configuration requise pour un déploiement hybri
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description Exchange Online service.](exchange-online-service-description.md)

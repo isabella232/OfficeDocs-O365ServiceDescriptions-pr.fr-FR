@@ -35,7 +35,7 @@ Vous avez besoin d'aide pour déterminer quel plan Yammer répond le mieux aux b
 
 ## <a name="files"></a>Fichiers
 
-Partagez Microsoft Office documents, PDFs, images et vidéos entre les équipes et obtenez des commentaires immédiatement. Téléchargez les nouvelles versions afin de vous assurer que tous les utilisateurs visualisent les dernières modifications et peuvent accéder aux anciennes versions à tout moment.
+Partagez Microsoft Office documents, PDF, images et vidéos entre les équipes et obtenez des commentaires immédiatement. Téléchargez les nouvelles versions afin de vous assurer que tous les utilisateurs visualisent les dernières modifications et peuvent accéder aux anciennes versions à tout moment.
   
 ## <a name="official-content"></a>Contenu officiel
 

@@ -90,15 +90,15 @@ La communauté Office 365 est une destination unique pour obtenir des informatio
     
 Pour plus d'informations, visitez la [Communauté Office 365](https://techcommunity.microsoft.com/).
   
-## <a name="manage-office-365-guidance"></a>Conseils sur la gestion d’Office 365
+## <a name="manage-office-365-guidance"></a>Gérer les Office 365 conseils
 
-Les professionnels de l’informatique des grandes organisations peuvent consulter la page d’accueil de la documentation Gérer Office 365. Cette page fournit des liens vers des instructions de déploiement complexes destinées aux grandes organisations.
+Les professionnels de l’informatique des grandes organisations peuvent consulter la page d’accueil Gérer Office 365 documentation. Cette page fournit des liens vers des instructions de déploiement complexes destinées aux grandes organisations.
   
-Pour plus d’informations, [consultez La fonction Gérer Office 365.](/Office365/)
+Pour plus d’informations, [consultez la Office 365](/Office365/).
   
 ## <a name="other-self-help-resources"></a>Autres ressources d'aide autonome
 
-En plus de la communauté Office 365 et de l’aide en ligne, Office 365 inclut les ressources d’aide autonome suivantes :
+En plus de l’Office 365 Community et de l’aide en ligne, Office 365 inclut les ressources d’aide autonome suivantes :
   
 - **Outil de dépannage pour Office 365** Une fois que vous avez répondu à quelques brèves questions concernant votre problème, l'outil de dépannage pour Office 365 vous recommande des outils et des informations utiles en fonction de vos réponses. Pour utiliser cet outil, accédez à la page [Outil de dépannage pour Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) de la communauté Office 365. 
     
@@ -149,4 +149,4 @@ Les ressources d'aide et de formation sont disponibles dans les langues suivante
    
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir la description du service de plateforme [Microsoft 365 et Office 365.](office-365-platform-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir Microsoft 365 et Office 365 description du [service de plateforme.](office-365-platform-service-description.md)

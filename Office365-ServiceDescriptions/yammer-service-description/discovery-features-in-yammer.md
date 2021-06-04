@@ -35,7 +35,7 @@ Des suggestions de résultats de recherche apparaissent au fur et à mesure de v
 
 Découvrez ce sur quoi vos collègues travaillent à tout moment. Le ticker vous montre les activités qui se produisent en temps réel, y compris les modifications de page, les téléchargements de fichiers et les mises à jour réalisées dans d’autres applications métiers.
   
-## <a name="topics"></a>Topics
+## <a name="topics"></a>Rubriques
 
 Balisez le contenu avec des rubriques pour aider les autres à trouver rapidement des messages connexes, des fichiers, des notes, etc. en ajoutant un hashtag (#) avant le mot ou en recherchant des rubriques existantes.
   

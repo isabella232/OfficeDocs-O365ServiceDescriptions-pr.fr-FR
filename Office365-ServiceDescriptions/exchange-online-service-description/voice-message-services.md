@@ -46,7 +46,7 @@ Les services hébergés de messagerie vocale permettent à une société de conn
     
 - Règles de répondeurs d’appel (voir [Autoriser les utilisateurs](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) de messagerie vocale à envoyer des appels pour plus d’informations).
     
-- Messagerie vocale protégée dans Exchange Online (pour plus d’informations, voir Protéger la messagerie [vocale dans Exchange Online).](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail)
+- Messagerie vocale protégée dans Exchange Online (voir Protéger la messagerie vocale [dans Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail) pour plus d’informations).
     
 - Aperçu de messagerie vocale (voir [Autoriser les utilisateurs à](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) voir une transcription de messagerie vocale pour une liste des langues pris en charge).
     
@@ -56,16 +56,16 @@ Les services hébergés de messagerie vocale permettent à une société de conn
     
 - Recherche dans l'annuaire via Outlook Voice Access ou un standard automatique
     
-Pour plus d’informations sur les fonctionnalités de messagerie vocale, [consultez la messagerie vocale dans Exchange Online.](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)
+Pour plus d’informations sur les fonctionnalités de messagerie vocale, [consultez la](/exchange/voice-mail-unified-messaging/voice-mail-unified-messaging)Exchange Online .
   
 > [!IMPORTANT]
 > The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. 
 >
-> Le client doit fournir une connexion téléphonique à partir du réseau téléphonique commuté (PSTN) à l’aide d’une passerelle VoIP et d’un PBX, d’un PBX IP ou de Skype Entreprise Server 2015. 
+> Le client doit fournir une connexion téléphonique à partir du réseau téléphonique commuté (PSTN) à l’aide d’une passerelle VoIP et d’un PBX, d’un PBX IP ou d’un Skype Entreprise Server 2015. 
 >
 > Le client doit fournir les contrôleurs de frontière de session (SBC) et vérifier qu'ils sont correctement configurés pour se connecter aux services de messagerie vocale en ligne. Cela comprend le niveau correct de sécurité en utilisant des certificats et des interfaces IP publiques et privées et en activant les ports TCP corrects avec leurs pare-feu sur site. 
 >
-> La messagerie vocale hébergée est disponible uniquement pour les abonnés à Exchange Online Plan 2 et Office 365 Entreprise E3. 
+> La messagerie vocale hébergée est disponible uniquement pour les Exchange Online Plan 2 et Office 365 Entreprise abonnés E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interopérabilité avec messagerie vocale tierce
 
@@ -76,8 +76,8 @@ Interopérabilité avec messagerie vocale tierce
   
 ## <a name="skype-for-business-integration"></a>Intégration Skype Entreprise
 
-Les organisations peuvent acheter Skype Entreprise Online en tant que service autonome ou composant de Microsoft Office 365. Skype Entreprise 2015 local est également pris en charge. Pour en savoir plus sur Skype Entreprise Online, consultez la [description du service Skype Entreprise Online.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+Les organisations peuvent acheter Skype Entreprise Online en tant que service autonome ou composant de Microsoft Office 365. Skype Entreprise 2015 local est également pris en charge. Pour en savoir plus sur Skype Entreprise Online, consultez [Skype Entreprise description du service En ligne.](../skype-for-business-online-service-description/skype-for-business-online-service-description.md)
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Exchange Online description du service.](exchange-online-service-description.md)

@@ -23,7 +23,7 @@ ms.locfileid: "51652298"
 
 Les fonctionnalités principales suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la [description Project Online service.](project-online-service-description.md)
   
 ## <a name="add-columns"></a>Ajouter des colonnes
 
@@ -65,17 +65,17 @@ Vous pouvez annuler plusieurs modifications en même temps à l’aide du menu A
 
 Affichez les tâches, les dépendances et le chemin critique de votre projet dans une vue de diagramme de réseau. Consultez la rubrique [Créer un réseau de tâches](https://go.microsoft.com/fwlink/p/?LinkId=271338).
   
-## <a name="office-store"></a>Office Store
+## <a name="office-store"></a>Office store
 
-Vous avez besoin d'une application qui vous aidera dans Project ? Recherchez de nouvelles applications pour Project dans l’Office Store. Consultez la rubrique relative aux [compléments pour Project](https://go.microsoft.com/fwlink/?LinkId=273883).
+Vous avez besoin d'une application qui vous aidera dans Project ? Recherchez de nouvelles applications pour Project dans le Office store. Consultez la rubrique relative aux [compléments pour Project](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Aide en ligne
 
-L’aide de Project est disponible Office.com ou dans les guides de mise en ligne directement dans Project **(sélectionnez Fichier** \> **nouveau).** [Visionnez ces vidéos pour passer à Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Project L’aide est disponible dans Office.com ou dans les guides de mise en Project (sélectionnez **Fichier** \> **nouveau).** [Visionnez ces vidéos pour passer à Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>Sortie PDF et XPS
 
-Enregistrez un fichier Project au format PDF ou XPS. Consultez la rubrique [Enregistrer un fichier de projet au format PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Enregistrez un Project au format PDF ou XPS. Consultez la rubrique [Enregistrer un fichier de projet au format PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -103,4 +103,4 @@ Utilisez les commandes de zoom de la barre d’état pour modifier rapidement la
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [la description du service Project Online.](project-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Project Online description du service.](project-online-service-description.md)

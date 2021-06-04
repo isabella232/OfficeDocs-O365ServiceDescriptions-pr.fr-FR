@@ -27,11 +27,11 @@ Cet article décrit les fonctionnalités de conformité de Microsoft Exchange On
   
 ### <a name="retention-policies"></a>Stratégies de rétention
 
-Archivage Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également donner aux utilisateurs un menu de stratégies de rétention et les laisser appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l’aide d’Outlook 2010 ou d’une période ultérieure ou d’Outlook sur le web. Dans l'Archivage Exchange Online, les administrateurs gèrent les stratégies de rétention à partir de l'infrastructure sur site.
+Archivage Exchange Online offre des stratégies de rétention qui permettent aux organisations de limiter les possibilités associées à la messagerie et autres communications. Grâce à ces stratégies, les administrateurs peuvent appliquer des paramètres de rétention à des dossiers spécifiques dans les boîtes de réception des utilisateurs. Les administrateurs peuvent également donner aux utilisateurs un menu de stratégies de rétention et les laisser appliquer les stratégies à des éléments, des conversations ou des dossiers spécifiques à l’aide de Outlook 2010 ou d’une Outlook sur le web. Dans l'Archivage Exchange Online, les administrateurs gèrent les stratégies de rétention à partir de l'infrastructure sur site.
   
 L'Archivage Exchange Online offre deux types de stratégies : archiver et supprimer. Ces deux types peuvent être appliqués au même élément ou dossier. Par exemple, un utilisateur peut baliser un message électronique afin qu'il soit automatiquement transféré dans l'archive personnelle après un nombre spécifié de jours, puis supprimé après un autre nombre de jours.
   
-Avec Outlook 2010 et les ultérieurs et Outlook sur le web, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels, et peuvent également afficher les stratégies de rétention appliquées et les dates de suppression attendues sur les messages. Les utilisateurs des autres clients de messagerie peuvent également faire supprimer ou archiver des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur, mais ils ne bénéficient pas du même niveau de visibilité et de contrôle.
+Avec Outlook 2010 et les ultérieures et Outlook sur le web, les utilisateurs peuvent appliquer des stratégies de rétention à des dossiers, des conversations ou des messages individuels, et peuvent également afficher les stratégies de rétention appliquées et les dates de suppression attendues sur les messages. Les utilisateurs des autres clients de messagerie peuvent également faire supprimer ou archiver des messages électroniques en fonction des stratégies de rétention côté serveur définies par l'administrateur, mais ils ne bénéficient pas du même niveau de visibilité et de contrôle.
   
 Les fonctionnalités de stratégie de rétention disponibles dans Archivage Exchange Online sont identiques à celles d'Exchange Server 2010 Service Pack 2 (SP2) et versions ultérieures. Les administrateurs peuvent gérer les stratégies de rétention à partir des environnements locaux Exchange Server 2010 et versions ultérieures. Les dossiers gérés, ancienne approche de la gestion des enregistrements de messagerie qui a été introduite dans Exchange 2007, ne sont pas disponibles dans l'archivage Exchange Online et sont incompatibles. Pour plus d'informations, reportez-vous à la rubrique [Balises et stratégies de rétention](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
   
@@ -89,13 +89,13 @@ Les sections suivantes décrivent les fonctionnalités de sécurité de Microsof
   
 ### <a name="encryption-between-on-premises-servers-and-exchange-online-archiving"></a>Chiffrement entre serveurs sur site et archivage Exchange Online
 
-TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pour aider à prévenir l'usurpation et assurer la confidentialité des messages en transit. TLS est également utilisé pour sécuriser le trafic du serveur de messagerie local vers les centres de données Microsoft pour Archivage Exchange Online.
+TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pour aider à prévenir l'usurpation et assurer la confidentialité des messages en transit. TLS est également utilisé pour sécuriser le trafic du serveur de messagerie local vers les centres de données Microsoft pour les Archivage Exchange Online.
   
 ### <a name="encrypting-between-clients-and-exchange-online-archiving"></a>Chiffrement entre clients et archivage Exchange Online
 
 Les connexions client à l'Archivage Exchange Online utilisent les méthodes de chiffrement suivantes pour améliorer la sécurité :
   
-- SSL est utilisé pour sécuriser outlook, Outlook sur le web et le trafic des services web Exchange, à l’aide du port TCP 443.
+- SSL est utilisé pour sécuriser les Outlook, les Outlook sur le web et le trafic Exchange Services Web, à l’aide du port TCP 443.
     
 - Les connexions client aux serveurs locaux ne changent pas avec l'introduction de l'Archivage Exchange Online.
     
@@ -109,9 +109,9 @@ De même, l'Archivage Exchange Online stocke les messages chiffrés à l'aide de
 
 L'Archivage Exchange Online ne fournit pas de services de Gestion des droits relatifs à l'information (IRM), mais les administrateurs peuvent utiliser des services AD RMS (Active Directory Rights Management Services). Si un serveur AD RMS est déployé, Outlook peut communiquer directement avec ce serveur, en permettant aux utilisateurs de composer et de lire les messages protégés par IRM. Si l'interopérabilité entre le serveur AD RMS et l'environnement Exchange sur site est configurée, les utilisateurs pourront composer et lire les messages protégés par IRM.
   
-#### <a name="support-for-irm-in-outlook-on-the-web"></a>Prise en charge de l’IRM dans Outlook sur le web
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Prise en charge de la gestion des Outlook sur le web
 
-Les utilisateurs peuvent lire et créer des messages protégés par IRM en natif dans Outlook sur le web, comme ils le peuvent dans Outlook. Les messages protégés par IRM dans Outlook sur le web sont accessibles via Internet Explorer, Firefox, Safari et Chrome (sans plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L'interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l'environnement Exchange sur site doit être configurée pour les activer.
+Les utilisateurs peuvent lire et créer des messages protégés par IRM en natif dans Outlook sur le web, comme ils le peuvent dans Outlook. Les messages protégés par IRM Outlook sur le web sont accessibles via Internet Explorer, Firefox, Safari et Chrome (sans plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L'interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l'environnement Exchange sur site doit être configurée pour les activer.
   
 #### <a name="irm-search"></a>Recherche de la Gestion des droits relatifs à l’information
 

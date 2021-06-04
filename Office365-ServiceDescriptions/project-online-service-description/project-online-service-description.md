@@ -27,29 +27,29 @@ ms.locfileid: "52545921"
 
 Microsoft Project propose les applications suivantes pour répondre aux besoins de votre organisation en matière de gestion de projet et de travail :
 
-- Project pour le web
-- Project Online 
+- Project for the web
+- Microsoft Project Online 
 - Project Online client de bureau
 
 Cet article vous aidera à comprendre quelles applications sont fournies dans chaque abonnement Project et quelles fonctionnalités chaque application offre.
 
-### <a name="project-for-the-web"></a>Project pour le web
+### <a name="project-for-the-web"></a>Project for the web
 
 Project web est l’offre la plus récente de Microsoft pour la gestion de projets et de travail dans le cloud. Project web fournit des fonctionnalités de gestion de travail simples et puissantes pour répondre à la plupart des besoins et des rôles. Project responsables et membres d’équipe peuvent utiliser Project web pour planifier et gérer le travail de n’importe quelle taille.
 
 Project web repose sur la plateforme Microsoft Power Platform. La plateforme Power Se compose de PowerApps, Power Automate, Power BI et Microsoft Dataverse. Project données web sont stockées dans microsoft Dataverse. 
 
-Project web est disponible via trois abonnements : Project (plan 1), Project (plan 3) et Project (plan 5). Les fonctionnalités répertoriées dans Project pour les [fonctionnalités web](#project-for-the-web-features) interagissent uniquement avec les données du Project du magasin de données web.
+Project web est disponible via trois abonnements : Project (plan 1), Project (plan 3) et Project (plan 5). Les fonctionnalités répertoriées [dans Project pour](#project-for-the-web-features) les fonctionnalités web interagissent uniquement avec les données du Project du magasin de données web.
 
-### <a name="project-online"></a>Project Online
+### <a name="project-online"></a>Microsoft Project Online
  
-Project Online est une solution en ligne flexible pour la gestion Project portefeuille (PPM) et le travail quotidien. Project Online offre de puissantes fonctionnalités de gestion de projet pour la planification, la hiér doncisation et la gestion des projets et des investissements de portefeuille de projets à partir de pratiquement n’importe où sur &mdash; presque n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
+Project Online est une solution en ligne flexible pour la gestion Project portefeuille (PPM) et le travail quotidien. Project Online offre de puissantes fonctionnalités de gestion de projet pour la planification, la hiérérisation et la gestion des projets et des investissements de portefeuille de projets de pratiquement n’importe où sur &mdash; presque n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
 
 Project Online repose sur la plateforme SharePoint et stocke les données dans le magasin SharePoint données.
 
 Project Online est disponible via deux abonnements : Project (plan 3) et Project (plan 5). Les fonctionnalités répertoriées [dans Project Online fonctionnalités interagissent](#project-online-features) uniquement avec les données du magasin Project Online SharePoint données.
 
-La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement Project Online Essentials ou Project (plan 1) abonnement. Project Online Essentials est un abonnement  de modules de modules de membre de l’équipe pour les clients qui Project (plan 3) ou Project (plan 5) abonnements. Project Online Essentials et Project (plan 1) abonnements offrent aux membres de l’équipe une interface web pour effectuer des mises à jour de tâches et de temps pour les projets gérés dans Project Online.
+La fonctionnalité de membre d’équipe pour Project Online est disponible via un abonnement Project Online Essentials ou Project (plan 1) abonnement. Project Online Essentials est un abonnement  de modules de modules Project (plan 3) ou Project (plan 5) d’équipe. Project Online Essentials et Project (plan 1) abonnements offrent aux membres de l’équipe une interface web pour effectuer des mises à jour de tâches et de temps pour les projets gérés dans Project Online.
 
 Les membres d’équipe Project Online Essentials ou Project (plan 1) abonnements peuvent effectuer les Project Online suivantes :
 
@@ -66,7 +66,7 @@ Microsoft Project Online client de bureau est un programme de gestion de projet 
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Utilisation Project pour le web et les Project Online ensemble
 
-Bien Project web et Project Online sont des applications distinctes, vous pouvez les utiliser côte à côte. Vous pouvez voir tous vos projets à partir des deux applications dans Project Accueil. Vous pouvez utiliser la fonctionnalité Project feuille de route pour créer des feuilles de route qui incluent des projets provenant des deux applications. Vous pouvez également utiliser Power BI et les Project pour le pack de contenu Power BI web pour obtenir des informations sur les projets et les ressources dans les deux applications. <sup>3</sup>
+Bien Project web et Project Online sont des applications distinctes, vous pouvez les utiliser côte à côte. Vous pouvez voir tous vos projets à partir des deux applications dans Project Accueil. Vous pouvez utiliser la fonctionnalité Project feuille de route pour créer des feuilles de route qui incluent des projets provenant des deux applications. Vous pouvez également utiliser Power BI et le Project pour le pack de contenu Power BI web pour obtenir des informations sur les projets et les ressources dans les deux applications. <sup>3</sup>
 
 Ce diagramme montre comment les applications peuvent fonctionner côte à côte.
 
@@ -80,8 +80,8 @@ Microsoft Project est disponible via trois abonnements différents pour répondr
 
 |Produit | Offre 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project pour le web |**x**  | **x x** | **x x** |
-|Project Online |**x** |**x x**| **x x x** |
+|Project for the web |**x**  | **x x** | **x x** |
+|Microsoft Project Online |**x** |**x x**| **x x x** |
 |Project Online client de bureau | |**x**|**x**|
 
 Dans le tableau ci-dessus, le nombre de vérifications (**x**) indique le niveau général des fonctionnalités fournies par un plan. Par exemple, pour Project Online, le plan 5 offre plus de fonctionnalités que le plan 3.
@@ -107,12 +107,12 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |**Collaboration** ||||||
 |Microsoft Teams’intégration | Collaborez sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui | Oui | Oui |
 |**Gestion des ressources et des programmes** ||||||
-|Project d’équipe | Gérez une équipe de projet en ajoutant et en supprimant des membres et en fixant le calendrier de travail. | Non | Oui | Oui | Oui |
-|Feuilles de route | Créez des feuilles de route visuelles interactives entre les projets Microsoft Project Online, Microsoft Project pour le web et Azure Boards projets. <sup>2</sup> Avec Project (plan 1) vous obtenez un accès en lecture seule aux feuilles de route. Avec Project (plan 3) ou Project (plan 5), vous pouvez également créer des feuilles de route. | Afficher seulement | Afficher seulement | Oui | Oui |
+|Project d’équipe | Gérez une équipe de projet en ajoutant et en supprimant des membres et en setting le calendrier de travail. | Non | Oui | Oui | Oui |
+|Feuilles de route | Créez des feuilles de route visuelles interactives entre les projets Microsoft Project Online, Microsoft Project pour le web et Azure Boards projets. <sup>2</sup> Avec cette Project (plan 1) vous obtenez un accès en lecture seule aux feuilles de route. Avec Project (plan 3) ou Project (plan 5), vous pouvez également créer des feuilles de route. | Afficher seulement | Afficher seulement | Oui | Oui |
 |**Rapports**<sup>3</sup> ||||||
-|Lire des rapports à *partir Project pour les données web* | Affichez des rapports prêts à l’emploi ou personnalisés, ainsi que des tableaux de bord pour comprendre les données de projet, de programme, de portefeuille et de ressources. | Oui | Oui | Oui | Oui |
+|Lire des rapports à *partir Project données web* | Affichez des rapports prêts à l’emploi ou personnalisés, ainsi que des tableaux de bord pour comprendre les données de projet, de programme, de portefeuille et de ressources. | Oui | Oui | Oui | Oui |
 |Créer des rapports à *l’Project pour les données web* | Comprenez les données importantes pour votre organisation en construisant des rapports personnalisés basés sur des rapports pré-personnalisés ou à partir de zéro. <br>Créer des tableaux de bord personnalisés pour répondre à des besoins spécifiques de l’organisation. | Non | Oui | Oui | Oui |
-|**Utilisation** ||||||
+|**Convivialité** ||||||
 |Co-édition | Collaborer avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projet, etc.| Afficher uniquement | Oui | Oui | Oui |
 |Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec les indicateurs graphiques.| Afficher uniquement | Oui | Oui | Oui |
 |**Personnalisation et intégration**||||||
@@ -127,7 +127,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |**Sécurité et gestion des utilisateurs**||||||
 |Office Groupes modernes | Créer une équipe de projet avec qui collaborer et configurer facilement une collection de ressources que les membres de l’équipe peuvent partager. | Oui | Oui | Oui | Oui |
 |**Applications tierces**||||||
-|Connecter à *Project pour le web* avec des applications <sup>tierces 4</sup> | Utilisez une application personnalisée ou tierce pour afficher, créer, mettre à jour ou supprimer des Project dans n’importe quel tableau Project natif. | Non | Oui | Oui | Oui |
+|Connecter à *Project pour le web* avec des applications tierces <sup>4</sup> | Utilisez une application personnalisée ou tierce pour afficher, créer, mettre à jour ou supprimer des Project dans n’importe quel tableau Project natif. | Non | Oui | Oui | Oui |
 
 ### <a name="project-online-features"></a>Fonctionnalités de Project Online
 
@@ -136,21 +136,21 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |Fonctionnalité | Description | Project (plan 3) | Project (plan 5) |
 |--------|-------------|-----------------------------|------------------------|
 |**Project gestion des tâches, des tâches et du temps**||||
-|Alertes et rappels | Restez à l’heure des tâches importantes à venir et des événements de projet avec des rappels Outlook et Microsoft Teams. <sup>1</sup>| Oui | Oui |
-|Lignes de base | Définissez les lignes de base du projet pour surveiller les performances actuelles par rapport aux performances passées à l’aide Project Web App.| Oui | Oui |
-|Affichage Tableau | Suivre visuellement les tâches de projet pour améliorer la surveillance du flux de travail et de l’état. | Oui | Oui |
+|Alertes et rappels | Restez à la planification des tâches importantes à venir et des événements de projet avec des rappels Outlook et Microsoft Teams. <sup>1</sup>| Oui | Oui |
+|Lignes de base | Définissez les lignes de base de projet pour surveiller les performances actuelles par rapport aux performances passées à l’aide Project Web App.| Oui | Oui |
+|Affichage Tableau | Suivre visuellement les tâches de projet pour une surveillance améliorée du flux de travail et de l’état. | Oui | Oui |
 |Chemin critique | Suivez visuellement les tâches qui représentent le chemin le plus long à travers le projet à l’aide du Project Web App.| Oui | Oui |
 |Gestion des livrables | Suivre et gérer les livrables à l’aide des dates de début et de fin et de la planification automatisée.| Oui | Oui |
 |Dépendances | Définir et suivre visuellement les dépendances entre les tâches.| Oui | Oui |
-|Vue du Gantt | Suivez et comprenez visuellement les dates, dépendances et affectations d’un projet dans un diagramme de Gantt hiérarchique à l’aide Project Web App.| Oui | Oui |
-|Affichage Grille | Planifiez et gérez les projets à l’aide d’un affichage de grille hiérarchique des tâches à l’aide Project Web App.| Oui | Oui |
+|Vue du Gantt | Suivez et comprenez visuellement les dates, les dépendances et les affectations de projet dans un diagramme de Gantt hiérarchique à l’aide Project Web App.| Oui | Oui |
+|Affichage Grille | Planifiez et gérez des projets à l’aide d’un affichage de grille hiérarchique des tâches à l’aide Project Web App.| Oui | Oui |
 |Gestion des problèmes et des risques | Identifier et suivre les problèmes et les risques au niveau du projet et de la tâche.| Oui | Oui |
 |Projets maîtres  | Groupez des projets associés de plus petite taille sous un seul projet maître à l’aide Project Web App. | Oui | Oui |
 |Notifications | Restez informé des affectations de tâches, de l’état et des événements de projet importants avec Outlook et Teams notifications. <sup>1</sup> | Oui | Oui |
 |Project Accueil | Obtenez une vue d’ensemble des projets que vous avez récemment travaillés, ainsi que des projets importants que vous devez surveiller étroitement.| Oui | Oui |
 |Project version | Comparez les différentes versions d’un projet à un rapport qui indique ce qui a changé entre les versions. | Oui | Oui |
 |Tâches récapitulatives | Planifiez, gérez et suivez les livrables et les phases à l’aide de tâches récapitulatifs dans le Project Web App. | Oui | Oui |
-|Planification des tâches | Utilisez les dates de début et de fin des tâches, l’effort, le travail, les retards et les retards, et les dépendances pour obtenir une planification précise des dates de projet à l’aide de la Project Web App. | Oui | Oui |
+|Planification des tâches | Utilisez les dates de début et de fin des tâches, l’effort, le travail, les retards et les retards, ainsi que les dépendances pour obtenir une planification précise des dates de projet à l’aide de la Project Web App. | Oui | Oui |
 |Mises à jour de tâches | Capturez le temps et l’état avec des commentaires sur les tâches de projet, le travail hors projet et le temps non travaillé. | Oui | Oui |
 |Chronologies | Suivez et comprenez visuellement les dates, dépendances et affectations de projet sur un affichage chronologique à l’aide de la Project Web App. | Oui | Oui |
 |Feuilles de temps | Les membres de l’équipe peuvent entrer le temps et l’état par rapport aux tâches, au travail hors projet et au temps non travaillé. | Oui | Oui |
@@ -164,7 +164,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |**Gestion de la demande** ||||
 |Project configuration du flux de travail d’approbation de demande | Créez les flux de travail dont vous avez besoin pour évaluer, hiérarchiser et approuver la demande entrante. | Non | Oui |
 |Project création de formulaires de demande | Capturez des données importantes sur la demande entrante pour vous aider à évaluer et hiérarchiser le nouveau travail. | Non | Oui |
-|Project demandes | Suivre, gérer, évaluer et hiérarchiser les demandes entrantes au sein de votre organisation et des clients et partenaires externes. | Oui | Oui |
+|Project demandes | Suivez, gérez, évaluez et hiérarchisez les demandes entrantes au sein de votre organisation et des clients et partenaires externes. | Oui | Oui |
 |**Gestion des ressources, des programmes et des portefeuilles** ||||
 |Project et budgétation | Comparez l’avancement et le budget planifiés par rapport au temps et aux coûts réels à l’aide Project Web App. | Oui | Oui |
 |Project d’équipe | Gérez une équipe de projet en ajoutant et en supprimant des membres, en fixant des niveaux d’allocation et en ajoutant des membres externes. | Oui | Oui |
@@ -182,7 +182,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |Tableaux de bord et portails | Créer des tableaux de bord et des portails personnalisés pour répondre à des besoins spécifiques de l’organisation. | Oui | Oui |
 |**Personnalisation et intégration**||||
 |Marque personnalisée | Personnalisez votre Project à l’aide de votre marque, de votre logo et de vos propres couleurs. | Non | Oui |
-|Custom fields | Ajoutez des champs personnalisés au niveau du projet, de la tâche et des ressources pour suivre les données importantes pour votre organisation et vos projets. | Oui | Oui |
+|Custom fields | Ajoutez des champs personnalisés au niveau du projet, de la tâche et de la ressource pour suivre les données importantes pour votre organisation et vos projets. | Oui | Oui |
 |Formules | Calculer et capturer des données importantes à l’aide de formules dans les tâches et les projets. | Oui | Oui |
 |PowerApps | Créez et consommez des solutions web et mobiles (via OData) avec PowerApps. <sup>4</sup> | Oui | Oui |
 |Flux de travail | Automatisez et intégrez des processus métiers (via OData) avec Power Automate. <sup>7</sup> | Oui | Oui |
@@ -193,15 +193,15 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |Gestion des utilisateurs | Gérer les rôles et autorisations des utilisateurs et des groupes au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
 |Administration des services | Planifiez, installez et configurez, maintenez à jour et étendez votre environnement Microsoft Project dans le cadre de votre environnement Office 365<sup>1.</sup> | Non | Oui |
 
-#### <a name="notes"></a>Remarques
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> Nécessite un abonnement Office ou Microsoft 365 commercial.</br>
 <sup>2 Azure Boards</sup> acquis séparément.</br>
 <sup>3 La</sup> reporting for Project for the web and Project Online using Power BI requires a Power BI license.</br>
 <sup>4</sup> La création et l’utilisation de Power Apps distinctes au-delà de l’application Project prêt à l’emploi qui accède aux Project pour les données client web ou Project Online nécessitent un abonnement Power Apps distinct.</br>
-<sup>5 Limité</sup> à 5 tableaux personnalisés.</br>
+<sup>5 Limité</sup> à 5 tables personnalisées.</br>
 <sup>6 Project Online</sup> licences pour les utilisateurs externes suit la même stratégie que celle des utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement Project (plan 3) ou Project (plan 5) client.</br>
-<sup>7 Power Automate’utilisation</sup> dans Project est limitée au contexte de l’application Project application. Cela signifie que pour les déclencheurs et les actions, les droits de flux inclus Project peuvent :
+<sup>7 Power Automate</sup> dans Project est limitée au contexte de l’application Project application. Cela signifie que pour les déclencheurs et les actions, les droits de flux inclus Project peuvent :
 
 - Connecter source de données dans les droits d’utilisation de l’application Project :
   - Sources de données disponibles via des connecteurs standard
@@ -210,7 +210,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 
 Si le flux est isolé et n’a rien à voir avec l’application Project, une licence de plateforme doit être achetée.</br>
 <sup>8 Les</sup> utilisateurs avec un abonnement Project (plan 3) ou Project (plan 5) peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas examiner, satisfaire ou approuver les demandes d’engagement de ressources.</br>
-<sup>9 Les utilisateurs</sup> avec un abonnement Project (plan 5) peuvent examiner, remplir et approuver les demandes d’engagement de ressources.</br>
+<sup>9 Les utilisateurs</sup> avec un abonnement Project (plan 5) peuvent examiner, remplir et approuver des demandes d’engagement de ressources.</br>
 <sup>10</sup> Active Directory nécessite un abonnement distinct. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online client de bureau
@@ -251,7 +251,7 @@ Si le flux est isolé et n’a rien à voir avec l’application Project, une li
 |Annuler plusieurs niveaux | Annuler plusieurs modifications en même temps à l’aide **du** menu Annuler. |
 |Tri et regroupement | Utilisez le tri et le regroupement personnalisés pour obtenir une vue d’ensemble de votre projet, tâches et ressources.|
 |**Personnalisation et intégration**||
-|Champs personnalisés | Ajoutez des champs personnalisés au niveau du projet, de la tâche et des ressources pour suivre les données importantes pour votre organisation et vos projets. |
+|Champs personnalisés | Ajoutez des champs personnalisés au niveau du projet, de la tâche et de la ressource pour suivre les données importantes pour votre organisation et vos projets. |
 |Formulaires | Créez et déployez des formulaires personnalisés pour capturer des données de projet importantes. |
 |Formules | Calculer et capturer des données importantes à l’aide de formules dans les tâches et les projets. |
 |Modèles | Créez des modèles pour les projets courants, y compris les plans de projet, les équipes et les affectations. |
@@ -277,7 +277,7 @@ Project Online nécessite l’utilisation de SharePoint Online, qui est mise en 
 
 ### <a name="project-roadmap-and-power-automate"></a>Project Feuille de route et Power Automate
 
-Project La feuille de route nécessite l’utilisation Power Automate, qui est mise en service dans le cadre de votre abonnement Project abonnement. Les droits à Power Automate sont limités aux fonctionnalités Power Automate requises par Project feuille de route. Power Automate fonctionnalité requise par la feuille de route Project apparaît comme intégration des données pour **Project** avec le plan de service Flow dans la **section** Applications du Centre d’administration Microsoft 365.
+Project La feuille de route nécessite l’utilisation Power Automate, qui est mise en service dans le cadre de votre abonnement Project abonnement. Les droits à Power Automate fonctionnalités d’Power Automate sont limités aux fonctionnalités requises par Project feuille de route. Power Automate fonctionnalité requise par la feuille de route Project apparaît comme intégration des données pour **Project** avec le plan de service Flow dans la **section** Applications du Centre d’administration Microsoft 365.
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project web et Microsoft Dataverse
 

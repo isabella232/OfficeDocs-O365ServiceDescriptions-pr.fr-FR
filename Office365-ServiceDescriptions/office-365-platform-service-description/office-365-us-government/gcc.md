@@ -1,5 +1,5 @@
 ---
-title: Office 365 GCC
+title: Office 365 Cloud de la communauté du secteur public
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: Pour répondre aux exigences uniques et en constante évolution des gouvernements fédéral, d’états américains, d’États-Unis, de l’administration locale et de l’administration des États-Unis, ainsi que des sous-traitants détenant ou traitant des données pour le compte du gouvernement américain, Microsoft propose des services office 365 pour le gouvernement américain (GCC). Disponibles via plusieurs canaux, y compris les licences en volume, les organisations intéressées traversent un processus de validation pour garantir leur éligibilité avant qu’un environnement ne soit établi. Les essais sont disponibles uniquement pour les entités du gouvernement américain pour le moment.
+description: Pour répondre aux exigences uniques et en constante évolution des gouvernements fédéral, d’états américains, d’états locaux et de premier ordre, ainsi que des sous-traitants détenant ou traitant des données pour le compte du gouvernement des États-Unis, Microsoft propose des services Office 365 pour le gouvernement américain Community (Cloud de la communauté du secteur public). Disponibles via plusieurs canaux, y compris les licences en volume, les organisations intéressées traversent un processus de validation pour garantir leur éligibilité avant qu’un environnement ne soit établi. Les essais sont disponibles uniquement pour les entités du gouvernement américain pour le moment.
 ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,23 +17,23 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653166"
 ---
-# <a name="office-365-gcc"></a>Office 365 GCC
+# <a name="office-365-gcc"></a>Office 365 Cloud de la communauté du secteur public
 
-Pour répondre aux exigences uniques et en constante évolution des gouvernements fédéral, d’états américains, d’États-Unis, de l’administration locale et de l’administration locale, ainsi que des sous-traitants détenant ou traitant des données pour le compte du gouvernement des États-Unis, Microsoft propose l’environnement Office 365 Government GCC. Disponibles via plusieurs canaux, y compris les licences en volume, les organisations intéressées traversent un processus de validation pour garantir leur éligibilité avant qu’un environnement ne soit établi. Les essais sont disponibles uniquement pour les entités du gouvernement américain pour le moment.
+Pour répondre aux exigences uniques et en constante évolution des gouvernements fédéral, d’états américains, d’États-Unis, de l’administration locale et de l’administration locale, ainsi que des sous-traitants détenant ou traitant des données pour le compte du gouvernement des États-Unis, Microsoft propose l’environnement Office 365 Secteur Public Cloud de la communauté du secteur public. Disponibles via plusieurs canaux, y compris les licences en volume, les organisations intéressées traversent un processus de validation pour garantir leur éligibilité avant qu’un environnement ne soit établi. Les essais sont disponibles uniquement pour les entités du gouvernement américain pour le moment.
   
 Engagez votre équipe de compte ou votre partenaire favori pour en savoir plus ou lancer le processus de validation. Vous trouverez des informations supplémentaires sur la page [Offres Office 365 Secteur Public](https://products.office.com/government/compare-office-365-government-plans).
   
 ## <a name="how-to-use-this-service-description"></a>Utilisation de la description de ce service
 
-La description du service Office 365 Government GCC est conçue pour servir de superposition à la description générale du service Office 365. Il définit les engagements uniques et les différences par rapport aux offres Office 365 pour les entreprises.
+La description Office 365 Secteur Public Cloud de la communauté du secteur public service est conçue pour servir de superposition à la description générale Office 365 service. Il définit les engagements uniques et les différences par rapport aux Office 365 pour les offres d’entreprise.
   
 ## <a name="us-government-community-compliance"></a>Conformité de la communauté du gouvernement américain
 
-Office 365 government supports the Federal Risk and Authorization Management Program (FedRAMP) accreditation at a High Impact level. Les artefacts FedRAMP sont disponibles pour révision par les clients qui sont tenus de se conformer à FedRAMP. Les agences fédérales peuvent examiner ces artefacts pour prendre en charge leur examen afin d’émettre une autorité de fonctionnement.
+Office 365 Secteur Public prend en charge l’accréditation fedramp (Federal Risk and Authorization Management Program) à un niveau d’impact élevé. Les artefacts FedRAMP sont disponibles pour révision par les clients qui sont tenus de se conformer à FedRAMP. Les agences fédérales peuvent examiner ces artefacts pour prendre en charge leur examen afin d’émettre une autorité de fonctionnement.
   
-## <a name="office-365-government-gcc-environment-screened-personnel"></a>Personnel de l’environnement office 365 pour le gouvernement GCC
+## <a name="office-365-government-gcc-environment-screened-personnel"></a>Office 365 Secteur Public Cloud de la communauté du secteur public de l’environnement de travail
 
-Le personnel Office 365 n’a pas un accès permanent au contenu client hébergé dans l’environnement Office 365 Government GCC. Tout personnel qui demande une élévation d’autorisation temporaire qui accorderait l’accès au contenu du client doit d’abord avoir passé les vérifications des antécédents suivantes.<br><br> 
+Office 365 n’ont pas un accès permanent au contenu client hébergé dans Office 365 Secteur Public Cloud de la communauté du secteur public environnement. Tout personnel qui demande une élévation d’autorisation temporaire qui accorderait l’accès au contenu du client doit d’abord avoir passé les vérifications des antécédents suivantes.<br><br> 
   
 | Filtrage du personnel Microsoft et vérifications des antécédents<sup>1</sup> | Description |
 |:-----|:-----|
@@ -48,18 +48,18 @@ Le personnel Office 365 n’a pas un accès permanent au contenu client héberg�
 |Vérification des empreintes digitales  <br/> |Vérification des antécédents par empreintes digitales par rapport aux bases de données du FBI  <br/> |
 |Filtrage des antécédents CJIS  <br/> |Examen validé par l'État du casier judiciaire fédéral et étatique par l'autorité étatique nommée par le CSA au sein de chaque état qui s'est inscrit au programme Microsoft CJIS IA  <br/> |
 
-<sup>1</sup> S’applique uniquement au personnel ayant un accès temporaire ou permanent au contenu client hébergé dans l’environnement Office 365 Government GCC.
+<sup>1 S’applique</sup> uniquement au personnel ayant un accès temporaire ou permanent au contenu client hébergé dans Office 365 Secteur Public Cloud de la communauté du secteur public environnement.
   
-## <a name="office-365-government-gcc-and-yammer"></a>Office 365 Government GCC et Yammer
+## <a name="office-365-government-gcc-and-yammer"></a>Office 365 Secteur Public Cloud de la communauté du secteur public et Yammer
 
-Yammer entreprise n’est pas un composant d’Office 365 pour le secteur public, mais peut être acquis sans frais en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence pour office 365 government plan E1 et E3. Cette offre est actuellement limitée aux clients qui achètent Office 365 Pour le secteur public dans le cadre du contrat Entreprise et des contrats d’abonnement Entreprise.
+Yammer entreprise n’est pas un composant de Office 365 Secteur Public, mais peut être acquis sans frais en tant qu’offre autonome pour chaque utilisateur titulaire d’une licence Office 365 Secteur Public Plan E1 et E3. Cette offre est actuellement limitée aux clients qui achètent des Office 365 Secteur Public sous Accord Entreprise et Enterprise abonnement.
   
-À ce jour, Yammer fournit la séparation logique des données client au niveau de la couche d'application. Toutefois, Yammer ne fournit pas les mêmes fonctionnalités d’emplacement de données et d’accès aux données qu’Office 365 Pour le gouvernement, ne prend pas en charge l’accréditation FedRAMP et est soumis à des conditions de contrat différentes des services Office 365. Il est recommandé de passer en revue la description du [service Yammer et](../../yammer-service-description/yammer-service-description.md) les conditions de confidentialité lors de l’évaluation de l’utilisation appropriée des Yammer pour votre organisation. Pour découvrir les plans Office 365 pour le Yammer, consultez [Office 365 Pour le gouvernement.](office-365-us-government.md)
+À ce jour, Yammer fournit la séparation logique des données client au niveau de la couche d'application. Toutefois, Yammer ne fournit pas les mêmes fonctionnalités d’emplacement de données et d’accès aux données que Office 365 Secteur Public, ne prend pas en charge l’accréditation FedRAMP et est soumis à des conditions de contrat différentes de Office 365 services. Il est recommandé de passer en revue la description du [service Yammer et](../../yammer-service-description/yammer-service-description.md) les conditions de confidentialité lors de l’évaluation de l’utilisation appropriée des Yammer pour votre organisation. Pour savoir quelles Office 365 Secteur Public les plans incluent Yammer, voir [Office 365 Secteur Public](office-365-us-government.md).
   
-Si vous décidez que l’utilisation de Yammer est appropriée pour votre organisation dans le cadre de votre abonnement Office 365 Pour le gouvernement et que vous avez acheté l’un des plans mentionnés ci-dessus qui inclut Yammer, dans le cadre de votre inscription à l’entreprise, vous pouvez demander une modification pour activer votre abonnement Yammer pour entreprise.
+Si vous décidez que l’utilisation de Yammer est appropriée pour votre organisation dans le cadre de votre abonnement Office 365 Secteur Public et que vous avez acheté l’un des plans mentionnés ci-dessus qui inclut Yammer, sous votre inscription Enterprise, vous pouvez demander une modification pour activer votre abonnement Yammer pour entreprise.
   
-## <a name="office-365-government-gcc-customer-support"></a>Support client Office 365 Pour le gouvernement GCC
+## <a name="office-365-government-gcc-customer-support"></a>Office 365 Secteur Public Cloud de la communauté du secteur public support client
 
-Le support client Office 365 GCC est fourni dans les mêmes conditions que celles proposées aux versions mondiales [d’Office 365,](../support.md)y compris aucun emplacement physique d’agent de support ou garanties de nationalité. Office 365 GCC fonctionne conjointement avec le cloud public Azure, qui est pris en charge dans les [conditions générales suivantes.](https://azure.microsoft.com/support/plans/)
+Office 365 Cloud de la communauté du secteur public support client est fourni dans les mêmes conditions et conditions que celles proposées aux versions mondiales de [Office 365,](../support.md)y compris aucun emplacement physique de l’agent de support ou garanties de nationalité. Office 365 Cloud de la communauté du secteur public fonctionne conjointement avec le cloud public Azure, qui est pris en charge dans les [conditions générales suivantes.](https://azure.microsoft.com/support/plans/)
 
-Microsoft vous rappelle de ne pas partager d’informations contrôlées, sensibles ou confidentielles avec le support technique dans le cadre de votre incident de support office 365 GCC, jusqu’à ce que vous confirmiez leur autorisation d’afficher ou d’accéder à ces données. Microsoft s’engage à [protéger votre confidentialité.](https://privacy.microsoft.com/privacystatement) Le support client Office 365 GCC n’est pas inclus dans les limites de l’accréditation du service et ne fournit pas de garanties de conformité et/ou de gestion des données FedRAMP, SRG, ITAR, IRS 1075 ou CJIS.
+Microsoft vous rappelle de ne pas partager d’informations contrôlées, sensibles ou confidentielles avec le personnel de support technique dans le cadre de votre incident de support Office 365 Cloud de la communauté du secteur public, jusqu’à ce que vous confirmiez leur autorisation d’afficher ou d’accéder à ces données. Microsoft s’engage à [protéger votre confidentialité.](https://privacy.microsoft.com/privacystatement) Office 365 Cloud de la communauté du secteur public Customer Support n’est pas inclus dans les limites de l’accréditation du service et ne fournit pas de garanties de conformité et/ou de gestion des données FedRAMP, SRG, ITAR, IRS 1075 ou CJIS.

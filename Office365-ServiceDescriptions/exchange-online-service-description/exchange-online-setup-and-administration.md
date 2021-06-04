@@ -43,9 +43,9 @@ Exchange Online offre donc aux administrateurs du client les outils décrits ci-
 
 Le portail Microsoft Office 365 ([https://portal.office.com](https://portal.office.com)) est le site web sur lequel les administrateurs et les partenaires peuvent acheter et gérer les services Office 365 et où les utilisateurs peuvent accéder aux outils de collaboration Office 365.
   
-### <a name="microsoft-365-admin-center"></a>Centre d’administration Microsoft 365
+### <a name="microsoft-365-admin-center"></a>Centre d’administration Microsoft 365
 
-Le Centre d’administration Microsoft 365 est le portail web à partir duquel l’administrateur de services de chaque entreprise peut gérer les comptes d’utilisateur et les paramètres pour chacun des services Microsoft auquel il s’abonne. À partir du Centre d’administration Microsoft 365, les administrateurs peuvent suivre des liens vers le Centre d’administration Exchange (EAC), où ils peuvent gérer les paramètres spécifiques d’Exchange Online. Pour plus d’informations sur la mise en place et l’utilisation du Centre d’administration Microsoft 365, voir la vidéo suivante : Présentation [d’Office 365 Entreprise.](https://go.microsoft.com/fwlink/p/?LinkId=271806)
+Le centre d’administration Microsoft 365 est le portail web à partir duquel l’administrateur de service de chaque entreprise peut gérer les comptes d’utilisateurs et les paramètres de chaque services Microsoft auquel il s’abonne. À partir du Centre d’administration Microsoft 365, les administrateurs peuvent suivre des liens vers le Centre d’administration Exchange (EAC), où ils peuvent gérer les paramètres spécifiques à Exchange Online. Pour plus d’informations sur la mise en place et l’utilisation du Centre d’administration Microsoft 365, voir la vidéo suivante : Présentation [de Office 365 Entreprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Centre d'administration Exchange
 
@@ -102,4 +102,4 @@ Lorsque Microsoft publie une version majeure d'Exchange, les clients disposent d
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Exchange Online description du service.](exchange-online-service-description.md)

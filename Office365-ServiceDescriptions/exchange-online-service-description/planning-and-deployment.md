@@ -27,9 +27,9 @@ Les organisations doivent choisir des options de migration selon leurs systèmes
   
 ## <a name="deployment-options"></a>Options de déploiement
 
-- **Déploiement en nuage uniquement** : toutes les boîtes aux lettres utilisateur de votre organisation sont hébergées dans Exchange Online. 
+- **Déploiement en nuage uniquement** : toutes les boîtes aux lettres utilisateur de votre organisation sont hébergées Exchange Online. 
     
-- **Déploiement Hybride Exchange** : votre organisation dispose de boîtes aux lettres utilisateur hébergées dans une organisation Exchange sur site et de boîtes aux lettres d’utilisateurs hébergées dans Exchange Online. 
+- **Exchange** déploiement hybride : votre organisation dispose de boîtes aux lettres utilisateur hébergées dans une organisation Exchange sur site et de boîtes aux lettres d’utilisateurs hébergées dans Exchange Online. 
     
 ### <a name="cloud-only"></a>Cloud uniquement
 
@@ -50,11 +50,11 @@ Les organisations doivent choisir des options de migration selon leurs systèmes
   
 - **Migration IMAP** : migrer les données de boîtes aux lettres des systèmes de messagerie IMAP vers Exchange Online. 
     
-- Migration Exchange à **cutover** : migrer des boîtes aux lettres de Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 et des systèmes Exchange hébergés vers Exchange Online en une seule migration à change. 
+- Migration à Exchange à **cutover** : migrer des boîtes aux lettres de Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 et des systèmes Exchange hébergés vers Exchange Online dans une seule migration à cutover. 
     
-- Migration **Exchange** par étapes : effectuez une migration par étapes pour migrer des boîtes aux lettres à partir de Exchange Server 2003 ou Exchange Server 2007 à l’aide d’outils de migration web et de modifications minimales apportées à l’infrastructure locale. 
+-  Migration Exchange par étapes : effectuez une migration par étapes pour migrer des boîtes aux lettres à partir de Exchange Server 2003 ou Exchange Server 2007 à l’aide d’outils de migration web et de modifications minimales apportées à l’infrastructure locale. 
     
-- **Migration de déplacement à distance** : migrer des boîtes aux lettres Exchange sur site vers Exchange Online dans un déploiement hybride Exchange. Vous devez mettre en place un déploiement hybride Exchange pour recourir à une migration de déplacement à distance. 
+- **Migration de déplacement à distance** : migrer des boîtes aux lettres Exchange vers des boîtes aux lettres Exchange Online dans un déploiement hybride Exchange local. Vous devez mettre en place un déploiement hybride Exchange pour recourir à une migration de déplacement à distance. 
     
 Pour plus d'informations sur la migration des e-mails et des boîtes aux lettres vers Exchange Online, voir [Migration de boîtes aux lettres vers Exchange Online](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
   
@@ -109,7 +109,7 @@ Pour plus d'informations sur les migrations Exchange intermédiaires, voir [Ce q
 
 Microsoft propose plusieurs outils permettant de migrer un environnement de messagerie électronique existant vers Exchange Online. L'outil le plus approprié à utiliser dépend de l'environnement actuel de l'organisation et des objectifs de déploiement :
   
-- **Tableau de** bord de migration : les administrateurs peuvent utiliser le tableau de bord de migration dans le Centre d’administration Exchange pour gérer la migration de boîtes aux lettres vers Exchange Online dans le cadre d’une migration Exchange à cutover ou par étapes. Ils peuvent également utiliser le tableau de bord pour migrer le contenu des boîtes aux lettres des utilisateurs vers des boîtes aux lettres Exchange Online existantes à partir d'un serveur IMAP local. Le tableau de bord offre aux administrateurs les fonctionnalités suivantes : 
+- **Tableau** de bord de migration : les administrateurs peuvent utiliser le tableau de bord de migration dans le Centre d’administration Exchange pour gérer la migration de boîtes aux lettres vers Exchange Online lors d’une migration à Exchange à Exchange étapes. Ils peuvent également utiliser le tableau de bord pour migrer le contenu des boîtes aux lettres des utilisateurs vers des boîtes aux lettres Exchange Online existantes à partir d'un serveur IMAP local. Le tableau de bord offre aux administrateurs les fonctionnalités suivantes : 
     
   - **Créez et démarrez plusieurs lots** de migration : les administrateurs peuvent créer et mettre en file d’attente jusqu’à 100 lots de migration. Un seul lot de migration est exécuté à la fois, mais les administrateurs ont toujours la possibilité de mettre plusieurs lots en file d'attente, de sorte que lorsqu'un lot de migration se termine, l'exécution du lot suivant dans la file d'attente démarre. 
     
@@ -119,13 +119,13 @@ Microsoft propose plusieurs outils permettant de migrer un environnement de mess
     
   - **Ouvrir des rapports de migration** : les administrateurs peuvent ouvrir les statistiques de migration ou le rapport d’erreurs de migration pour un lot de migration directement à partir du tableau de bord. 
     
-  - **Modifier un** lot de migration : si un lot de migration pour une migration Exchange ou une migration IMAP est dans la file d’attente de migration mais n’est pas en cours d’exécution, les administrateurs peuvent modifier le lot de migration. 
+  - **Modifier** un lot de migration : si un lot de migration pour une migration Exchange ou une migration IMAP se trouve dans la file d’attente de migration mais n’est pas en cours d’exécution, les administrateurs peuvent modifier le lot de migration. 
     
-- Outil de synchronisation **Azure Active Directory** : l’outil de synchronisation Azure Active Directory joue un rôle important dans la migration vers des scénarios de messagerie hybride qui utilisent Exchange Online et un service Exchange Server. L'outil exécute une synchronisation monodirectionnelle d'Active Directory local vers Exchange Online. Une fois la migration terminée, les administrateurs doivent seulement utiliser Exchange Online pour gérer des groupes et utilisateurs Active Directory. L'outil fournit également aux utilisateurs une liste d'adresses globale unifiée dans laquelle l'environnement en ligne est en permanence synchronisé avec l'environnement local. 
+- **Azure Active Directory Sync** : l’outil de synchronisation Azure Active Directory joue un rôle important dans la migration vers des scénarios de messagerie hybride qui utilisent à la fois Exchange Online et une boîte aux Exchange Server. L'outil exécute une synchronisation monodirectionnelle d'Active Directory local vers Exchange Online. Une fois la migration terminée, les administrateurs doivent seulement utiliser Exchange Online pour gérer des groupes et utilisateurs Active Directory. L'outil fournit également aux utilisateurs une liste d'adresses globale unifiée dans laquelle l'environnement en ligne est en permanence synchronisé avec l'environnement local. 
     
     Pour plus d'informations sur l'Outil de synchronisation Windows Azure Active Directory, consultez la rubrique [Synchronisation d'annuaires : Feuille de route](/azure/active-directory/hybrid/whatis-hybrid-identity).
     
-- **Assistant Configuration hybride** : l’Assistant Configuration hybride simplifie le processus de déploiement hybride en simplifiant la configuration des fonctionnalités et des services locaux et Exchange Online. Introduit dans Exchange Server 2010 Service Pack 2, l'Assistant de configuration hybride est exécuté uniquement dans des organisations locales ; ses composants sont les suivants : 
+- **Assistant Configuration hybride** : l’Assistant Configuration hybride rationalise le processus de déploiement hybride en simplifiant la configuration des fonctionnalités et des services locaux et Exchange Online local. Introduit dans Exchange Server 2010 Service Pack 2, l'Assistant de configuration hybride est exécuté uniquement dans des organisations locales ; ses composants sont les suivants : 
     
   - Un Assistant Centre d'administration Exchange (EAC) qui guide les administrateurs de bout en bout tout au long du processus de configuration d'un déploiement hybride.
     
@@ -133,8 +133,8 @@ Microsoft propose plusieurs outils permettant de migrer un environnement de mess
     
     Pour plus d'informations sur l'Assistant de configuration hybride, consultez la rubrique [Assistant de configuration hybride](/exchange/hybrid-configuration-wizard).
     
-- **Remote Windows PowerShell** - Dans le cadre de la mise à jour du service Exchange Online de décembre 2011, les Windows PowerShell à distance peuvent être utilisées pour résoudre les erreurs de migration. Par exemple, des administrateurs peuvent afficher des informations de diagnostic relatives à des lots de migration ainsi que des statistiques de migration et des informations de diagnostic pour des utilisateurs en fonction de leurs adresses SMTP principales. 
+- **Remote Windows PowerShell** - Dans le cadre de la mise à jour Exchange Online service de décembre 2011, les Windows PowerShell distants peuvent être utilisées pour résoudre les erreurs de migration. Par exemple, des administrateurs peuvent afficher des informations de diagnostic relatives à des lots de migration ainsi que des statistiques de migration et des informations de diagnostic pour des utilisateurs en fonction de leurs adresses SMTP principales. 
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la [description du service Exchange Online.](exchange-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, consultez la Exchange Online [description du service.](exchange-online-service-description.md)

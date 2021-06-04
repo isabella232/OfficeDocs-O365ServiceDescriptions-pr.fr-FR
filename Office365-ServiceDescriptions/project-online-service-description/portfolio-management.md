@@ -21,7 +21,7 @@ ms.locfileid: "51652278"
 
 Les fonctionnalités de gestion de portefeuille suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la [description Project Online service.](project-online-service-description.md)
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analyser les projets et optimiser le portefeuille
 
@@ -33,7 +33,7 @@ Créez des projets de différentes manières. Pour plus d'informations, voir [Cr
   
 ## <a name="enterprise-resource-management"></a>Gestion des ressources d’entreprise
 
-Les ressources sont les personnes, le matériel ou les coûts nécessaires à la réalisation de votre projet. Les solutions de gestion de portefeuille de projets Microsoft permettent aux responsables de ressources de gérer la réserve de ressources, de planifier la capacité des ressources et d’approuver, rejeter et modifier les demandes d’engagement des ressources entrantes. Pour plus d’informations, voir [Ajouter une ressource à Project Web App.](https://go.microsoft.com/fwlink/p/?LinkId=271320)
+Les ressources sont les personnes, le matériel ou les coûts nécessaires à la réalisation de votre projet. Les solutions PPM Microsoft permettent aux responsables de ressources de gérer la réserve de ressources, de planifier la capacité des ressources et d’approuver, rejeter et modifier les demandes d’engagement de ressources entrantes. Pour plus d’informations, voir [Ajouter une ressource à Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320).
   
 ## <a name="financial-management"></a>Gestion financière
 

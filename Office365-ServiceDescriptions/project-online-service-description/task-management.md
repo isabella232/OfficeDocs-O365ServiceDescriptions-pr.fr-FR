@@ -23,7 +23,7 @@ ms.locfileid: "51651059"
 
 Les fonctionnalités de gestion des tâches suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la [description Project Online service.](project-online-service-description.md)
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -53,7 +53,7 @@ Affichez les facteurs qui influent sur la planification d’une tâche, tels que
 
 Visualisez la façon dont une tâche est associée à d'autres en surlignant la séquence des tâches tout au long du projet. Pour en savoir plus, consultez la rubrique relative à la [mise en évidence des liens entre les tâches](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
-## <a name="top-down-summary-tasks"></a>Tâches récapitulatives verticales
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 
 Créez une affectation de ressource dans une tâche récapitulative. En savoir plus sur la [planification verticale](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
@@ -67,5 +67,5 @@ Utilisez le mode de planification manuelle pour planifier des tâches manuelleme
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [la description du service Project Online.](project-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Project Online description du service.](project-online-service-description.md)
   

@@ -17,11 +17,11 @@ ms.contentlocale: fr-FR
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51652268"
 ---
-# <a name="project-management"></a>Gestion de projets
+# <a name="project-management"></a>Gestion de projet
 
 Les fonctionnalités de gestion de projet suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la [description Project Online service.](project-online-service-description.md)
   
 ## <a name="issues-and-risk-management"></a>Gestion des problèmes et des risques
 
@@ -43,6 +43,6 @@ La planification représente les tâches et livrables à réaliser pour mener à
 
 Utilisez une approche centralisée et commune à la gestion de tâches et de rapports de temps. Capturez les périodes de travail et chômées à des fins de paie, de facturation et à d'autres fins d'entreprise. Communiquez efficacement l'état sur les projets, les tâches quotidiennes et les demandes ad hoc pour évaluer les pics et les creux d'utilisation ou l'avancement des tâches. Cela vous aide à anticiper l'effet sur les efforts, les coûts et l'échéancier prévus. Pour en savoir plus, consultez la rubrique [Effectuer le suivi de votre temps et de l'avancement de vos tâches](https://go.microsoft.com/fwlink/p/?LinkId=271321).
 
-## <a name="project-home"></a>Accueil du projet
+## <a name="project-home"></a>Project Accueil
 
-Project Home est le point de départ qui vous permet d’accéder rapidement et facilement aux projets récemment travaillés et importants, les projets les plus importants. Vous pouvez marquer ces projets comme favoris avec des contrôles faciles à utiliser afin qu’ils s’affichent bien dans La page d’accueil du projet. Pour en savoir plus, [consultez La mise en place de Project Home.](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)
+Project La page d’accueil est le point de départ qui vous permet d’accéder rapidement et facilement aux projets récemment travaillés et importants, les projets les plus importants. Vous pouvez marquer ces projets comme favoris avec des contrôles faciles à utiliser afin qu’ils s’affichent en évidence dans Project Accueil. Pour en savoir plus, consultez La mise [en Project Accueil.](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a)

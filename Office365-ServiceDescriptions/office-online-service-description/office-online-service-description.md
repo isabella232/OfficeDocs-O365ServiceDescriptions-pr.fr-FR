@@ -110,7 +110,7 @@ Vous avez besoin d’aide pour déterminer Office solution la mieux adaptée à 
    
 > [!NOTE]
 > <sup>1</sup> Ces éléments sont restituer dans la visionneuse, mais vous ne pouvez pas les créer ni les modifier dans Office sur le Web. <br/>
-> <sup>2</sup> Some, but not all, Office add-ins are available. <br/>
+> <sup>2</sup> Certains, mais pas tous, Office sont disponibles. <br/>
   
 ### <a name="excel"></a>Excel
 
@@ -127,7 +127,7 @@ Vous avez besoin d’aide pour déterminer Office solution la mieux adaptée à 
 |[Saisie semi-automatique](excel-online.md#autocomplete) <br/> |Oui  <br/> |Oui  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Oui  <br/> |Oui  <br/> |
 |[Calculs](excel-online.md#calculations) <br/> |Oui  <br/> |Oui  <br/> |
-|[Références de cellule dans les formules](excel-online.md#cell-references-in-formulas) <br/> |Oui  <br/> |Oui  <br/> |
+|[Références de cellules dans les formules](excel-online.md#cell-references-in-formulas) <br/> |Oui  <br/> |Oui  <br/> |
 |[Création de commentaires](excel-online.md#comment-creation) <br/> |Oui  <br/> |Oui  <br/> |
 |[Copie et collage](excel-online.md#copy-and-paste) <br/> |Oui  <br/> |Oui  <br/> |
 |[Créer des connexions de données<sup>externes 2</sup>](excel-online.md#create-external-data-connections) <br/> |Non<sup>3</sup> <br/> |Oui  <br/> |
@@ -240,7 +240,7 @@ Vous avez besoin d’aide pour déterminer Office solution la mieux adaptée à 
 
 > [!NOTE]
 > <sup>1</sup> In OneNote sur le Web, you can move sections within a notebook, and copy and paste pages from one section to another. 
- <br/> <sup>2</sup> Some, but not all, Office add-ins are available. 
+ <br/> <sup>2</sup> Certains, mais pas tous, Office sont disponibles. 
  <br/><sup>3 Vous</sup> pouvez effectuer une recherche sur page ou section, mais pas sur un bloc-notes entier ou sur plusieurs blocs-notes (comme vous pouvez le faire dans la version de bureau).
  <br/><sup>4</sup> Dans la version de bureau, il n’existe pas d’option « télécharger », mais vous pouvez enregistrer sous à un autre emplacement. 
   
@@ -280,7 +280,7 @@ Vous avez besoin d’aide pour déterminer Office solution la mieux adaptée à 
 |[Outils de réviseur, avancés](powerpoint-online.md#reviewer-tools-advanced) <br/> |Non  <br/> |Oui  <br/> |
 |Gestion des droits : Gestion des droits et sécurité des mots de passe <br/> |Non  <br/> |Oui  <br/> |
 |[Lancer le diaporama](powerpoint-online.md#run-slide-show) <br/> |Oui  <br/> |Oui  <br/> |
-|[Enregistrer sous ou télécharger une copie](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Oui  <br/> |Oui  <br/> |
+|[Enregistrer en tant que ou télécharger une copie](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Oui  <br/> |Oui  <br/> |
 |[Formes](powerpoint-online.md#shapes) <br/> |Oui  <br/> |Oui  <br/> |
 |[Partager](powerpoint-online.md#share) <br/> |Oui  <br/> |Oui  <br/> |
 |[Diaporama](powerpoint-online.md#slide-show) <br/> |Oui  <br/> |Oui  <br/> |

@@ -59,11 +59,11 @@ Utilisez un format conditionnel pour vous aider à explorer et analyser visuelle
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
-Cette fonctionnalité est disponible dans Excel sur le Web. D’autres fonctionnalités avancées sont disponibles uniquement dans l’Excel de bureau.
+Cette fonctionnalité est disponible dans Excel sur le Web. D’autres fonctionnalités avancées sont disponibles uniquement dans l Excel de bureau.
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-Non disponible dans Excel sur le Web. Dans l’Excel de bureau, les graphiques recommandés vous permet de choisir parmi une variété de graphiques qui sont les plus pratiques pour présenter vos données. En savoir plus [sur l’utilisation des recommandations de graphique dans Excel](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0).
+Non disponible dans Excel sur le Web. Dans l’Excel de bureau, les graphiques recommandés vous offrent la meilleure sélection parmi divers graphiques pour présenter vos données. En savoir plus [sur l’utilisation des recommandations de](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)graphique dans Excel .
   
 ## <a name="autocomplete"></a>Autocomplete
 
@@ -86,7 +86,7 @@ Seule l'application Microsoft Excel de bureau prend en charge les fonctionnalit�
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Graphiques et tableaux, notamment les rapports de graphique croisé dynamique et de tableau croisé dynamique
 
-Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion des données. Pour plus d’informations, voir [Créer et mettre en forme des tableaux](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) et vue d’ensemble des rapports de tableau croisé dynamique et PivotChart de tableau croisé [dynamique.](https://go.microsoft.com/fwlink/?linkid=55417)
+Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion des données. Pour plus d’informations, voir [Créer et mettre en forme des tableaux](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) et vue d’ensemble des rapports de tableau croisé dynamique PivotChart de tableau croisé [dynamique.](https://go.microsoft.com/fwlink/?linkid=55417)
 
 ## <a name="check-spelling"></a>Vérifier l’orthographe
 
@@ -286,7 +286,7 @@ Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie 
 
 ## <a name="sensitivity-labels"></a>Étiquettes de confidentialité
 
-Maintenez le contrôle de l’accès et de la sensibilité de vos documents en appliquant manuellement une étiquette ou en utilisant les étiquettes recommandées automatiquement de Microsoft.
+Maintenez le contrôle de l’accès et de la sensibilité de vos documents en appliquant manuellement une étiquette ou en utilisant les étiquettes recommandées automatiquement par Microsoft.
   
 ## <a name="share"></a>Partager
 
@@ -338,7 +338,7 @@ Excel sur le Web enregistre automatiquement votre travail. Si vous faites une er
   
 ## <a name="vba-and-macro-scripting"></a>Écriture de macro VBA
 
-Microsoft Excel’application de bureau est un outil extrêmement puissant utilisé pour manipuler, analyser et présenter des données. Parfois, malgré l’ensemble enrichi de fonctionnalités, votre organisation peut trouver plus facile d’utiliser Visual Basic pour Applications (VBA), un langage de programmation, pour créer une macro qui effectue des tâches répétitives ou pour effectuer des tâches que l’interface utilisateur ne semble pas traiter. Vous ne pouvez pas créer de macros avec VBA dans Excel sur le Web, mais vous pouvez ouvrir et modifier des feuilles de calcul compatibles VBA sans supprimer (ou corrompre) le VBA contenu dans le fichier. En savoir plus [sur la mise en place des macros.](https://go.microsoft.com/fwlink/p/?LinkId=271678)
+Microsoft Excel’application de bureau est un outil extrêmement puissant utilisé pour manipuler, analyser et présenter des données. Parfois, malgré l’ensemble enrichi de fonctionnalités, votre organisation peut trouver plus facile d’utiliser Visual Basic pour Applications (VBA), un langage de programmation, pour créer une macro qui effectue des tâches répétitives ou effectuer des tâches que l’interface utilisateur ne semble pas traiter. Vous ne pouvez pas créer de macros avec VBA dans Excel sur le Web, mais vous pouvez ouvrir et modifier des feuilles de calcul compatibles VBA sans supprimer (ou corrompre) le VBA contenu dans le fichier. En savoir plus [sur la mise en place des macros.](https://go.microsoft.com/fwlink/p/?LinkId=271678)
   
 ## <a name="view-3d-charts"></a>Affichage de graphiques 3D
 

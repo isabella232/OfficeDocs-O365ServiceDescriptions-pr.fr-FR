@@ -23,7 +23,7 @@ ms.locfileid: "51651049"
 
 Les fonctionnalités de planification de projet suivantes sont disponibles dans Project Online.
   
-Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Voir la [description du service Project Online.](project-online-service-description.md)
+Vous recherchez des informations sur toutes les fonctionnalités de Project Online ? Consultez la [description Project Online service.](project-online-service-description.md)
   
 ## <a name="baseline-rollup"></a>Cumul de la ligne de base
 
@@ -63,5 +63,5 @@ Utilisez une vue qui affiche les personnes et leurs affectations.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [la description du service Project Online.](project-online-service-description.md)
+Pour afficher la disponibilité des fonctionnalités entre les plans, les options autonomes et les solutions sur site, voir [Project Online description du service.](project-online-service-description.md)
   

@@ -21,7 +21,7 @@ ms.locfileid: "52266354"
 
 Microsoft 365 Business Voice est une solution de téléphonie basée sur le cloud dans Microsoft Teams qui offre des fonctionnalités de système téléphonique telles que le parcage d’appel, le transport d’appel, les attendants automatiques, les files d’attente d’appels, l’audioconférence et les plans d’appel. Business Voice peut être ajouté aux abonnements Office 365 et Microsoft 365 qui incluent Microsoft Teams (jusqu’à 300 licences). Pour plus d’informations sur le service Business Voice, [voir Microsoft 365 Business Voice](/MicrosoftTeams/business-voice/whats-business-voice).
 
-Vous pouvez choisir parmi deux options Microsoft 365 Business Voice :
+Vous pouvez choisir entre deux options Microsoft 365 Business Voice :
 
 - Microsoft 365 Business Voice
 - Microsoft 365 Business Voice sans forfait d’appels
@@ -31,8 +31,8 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec j
 - Microsoft 365 Business Basic
 - Microsoft 365 Business Standard
 - Microsoft 365 Business Premium
-- Microsoft 365 F1
-- Microsoft 365 F3
+- Microsoft 365 F1
+- Microsoft 365 F3
 - Office 365 F3
 - Microsoft et Office 365 Entreprise E1 ou E3
 - Microsoft 365 et Office 365 Éducation A1 ou A3
@@ -59,7 +59,7 @@ Microsoft 365 Business Voice est disponible avec les abonnements suivants avec j
 | Délégation d’appel (partage d’une ligne téléphonique avec un délégué) | Oui | Oui<sup>*</sup> |
 | Musique en attente | Oui | Oui<sup>*</sup> |
 | Bloc d’appel | Oui | Oui<sup>*</sup> |
-| Numérotation des numéros d’extension du service de téléphone automatique | Oui | Oui<sup>*</sup> |
+| Numérotation des numéros de poste du service de téléphone automatique | Oui | Oui<sup>*</sup> |
 | Transfert automatique de la file d’attente/du attendant automatique vers la messagerie vocale partagée | Oui | Oui<sup>*</sup> |
 | Réponse vocale interactive multilingue (IVR) | Oui | Oui<sup>*</sup> |
 | Stratégie d’Appel | Oui | Oui<sup>*</sup> |
