@@ -1,5 +1,5 @@
 ---
-title: Visio pour le web
+title: détails Visio fonctionnalités de Visio
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio web étend votre expérience de Visio Microsoft au navigateur, où vous pouvez créer et modifier des diagrammes enregistrés dans le cloud. Microsoft 365 clients peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en même temps.
-ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e8e395c91d0bb7c018dd4451a6491c2b209ec4f2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653636"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906760"
 ---
-# <a name="visio-for-the-web"></a>Visio pour le web
+# <a name="visio-features-detail"></a>détails Visio fonctionnalités de Visio
 
 Visio web étend votre expérience de Visio Microsoft au navigateur, où vous pouvez créer et modifier des diagrammes enregistrés dans le cloud. Microsoft 365 clients peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en même temps. Si vous avez un abonnement Visio, vous pouvez utiliser des fonctionnalités supplémentaires, telles que celles décrites dans les sections suivantes.
   
