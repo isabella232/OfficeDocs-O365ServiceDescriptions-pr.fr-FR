@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des conseils en matière de licences Microsoft 365 conformité afin d’éviter toute interruption de service potentielle en raison d’un accès sans licence.
-ms.openlocfilehash: dc52a66990114f9c74ca815c9525f34175e7995b
-ms.sourcegitcommit: 0bf671ec5b5ba16bcdc730b88e2607d85a3d4497
+ms.openlocfilehash: 00124a252a0e14a4ac78854385817a6c949e9f67
+ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52950163"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53021967"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 licences pour la conformité de &amp; la sécurité
 
@@ -260,7 +260,9 @@ Les utilisateurs bénéficient de la possibilité d’appliquer manuellement des
 
 Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/A3/F3, AIP Plan 1 et AIP Plan 2 fournissent les droits pour qu’un utilisateur bénéficie de l’étiquetage de sensibilité manuel.
 
-Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 et AIP Plan 2 permettent à un utilisateur de bénéficier de l’application et de l’affichage d’étiquettes de sensibilité dans Power BI et de protéger les données lorsqu’elles sont exportées de Power BI vers Excel, PowerPoint ou PDF. 
+Microsoft 365 E5/A5/G5/E3/A3/G3/F1/F3/Business Premium, Enterprise Mobility + Security F3/E3/E5, AIP Plan 1 et AIP Plan 2 permettent à un utilisateur de bénéficier de l’application et de l’affichage d’étiquettes de sensibilité dans Power BI et de protéger les données lorsqu’elles sont exportées de Power BI vers Excel, PowerPoint ou PDF.
+
+Microsoft 365 Business Premium et Enterprise Mobility fournissent les droits d’utilisation du module [PowerShell AIPService](/powershell/azure/aip/overview#aipservice) pour administrer le service de protection Azure Rights Management pour Azure Information Protection.
 
 > [!NOTE]
 > Power BI est inclus dans Microsoft 365 E5/A5/G5 ; Dans tous les autres plans, Power BI doit être titulaire d’une licence distincte.
@@ -275,9 +277,11 @@ Par défaut, les fonctionnalités de protection des informations sont activées 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Sauf en cas d’utilisation de la fonctionnalité de scanneur AIP, les stratégies peuvent être limitées à des groupes spécifiques, ou des utilisateurs et registres peuvent être modifiés pour empêcher les utilisateurs sans permis d’utiliser des fonctionnalités de classification ou d’étiquetage. Pour obtenir des instructions sur l’étendue des déploiements AIP, voir [Configuration de la stratégie Azure Information Protection](/azure/information-protection/configure-policy).
+Sauf en cas d’utilisation de la fonctionnalité de scanneur AIP, les stratégies peuvent être limitées à des groupes spécifiques, ou des utilisateurs et registres peuvent être modifiés pour empêcher les utilisateurs sans permis d’utiliser des fonctionnalités de classification ou d’étiquetage.
 
 Pour la fonctionnalité de scanneur AIP, Microsoft ne s’engage pas à fournir des fonctionnalités de classification de fichier, d’étiquetage ou de protection aux utilisateurs qui ne disposent pas d’une licence.
+
+Pour plus d’informations, voir [Créer et publier](/microsoft-365/compliance/create-sensitivity-labels#publish-sensitivity-labels-by-creating-a-label-policy) des étiquettes de sensibilité et Comprendre le scanneur d’étiquetage unifié Azure Information [Protection.](/azure/information-protection/deploy-aip-scanner)
 
 ## <a name="information-governance"></a>Gouvernance des informations
 
