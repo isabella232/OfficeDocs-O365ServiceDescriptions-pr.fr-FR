@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office est un service puissant qui vous permet de donner libre cours à vos idées, de faire vos choses et de rester en contact. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées.
-ms.openlocfilehash: 5d23343c076244d3a326ed447d2fbf4ff88ffa0c
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ba9da48b79d6b5350182caa347c8d0ce9d6873df
+ms.sourcegitcommit: f1adb57081ea5234e09de4890e756e17e09a2696
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652378"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53069248"
 ---
 # <a name="office-applications"></a>Applications Office
 
@@ -27,31 +27,31 @@ Pour la besoins du système, le service basé sur un abonnement mensuel disponib
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
-Microsoft Word est un logiciel de traitement de texte complet pour les systèmes d'exploitation Windows et Mac. Découvrez [les nouveautés de Word 2019](https://support.office.com/article/what-s-new-in-word-2019-for-windows-d3d31e5e-2bb8-4433-80bb-08279beef4b3) pour Windows et les nouveautés de [Word 2019 pour Mac.](https://support.office.com/article/what-s-new-in-word-2019-for-mac-247e0cd4-a758-4b42-a157-42eb8853aef5)
-  
+Microsoft Word est un logiciel de traitement de texte complet pour les systèmes d'exploitation Windows et Mac. Pour en savoir plus [sur Word, Microsoft 365](https://www.microsoft.com/microsoft-365/word).
+
 ## <a name="microsoft-excel"></a>Microsoft Excel
 
-Microsoft Excel est un logiciel de feuilles de calcul qui propose la prise en charge d'outils de calcul, d'outils graphiques, de tableaux croisés dynamiques et de langues de programmation macro pour les systèmes d'exploitation Windows et Mac. Découvrez [les nouveautés de Excel 2019](https://support.office.com/article/what-s-new-in-excel-2019-for-windows-5a201203-1155-4055-82a5-82bf0994631f) pour Windows et les nouveautés de [Excel 2019 pour Mac.](https://support.office.com/article/what-s-new-in-excel-2019-for-mac-5ce129d3-9e5c-417f-9545-fb6f7b72674d)
+Microsoft Excel est un logiciel de feuilles de calcul qui propose la prise en charge d'outils de calcul, d'outils graphiques, de tableaux croisés dynamiques et de langues de programmation macro pour les systèmes d'exploitation Windows et Mac. En savoir plus [sur Excel avec Microsoft 365](https://www.microsoft.com/microsoft-365/excel).
   
 ## <a name="microsoft-powerpoint"></a>Microsoft PowerPoint
 
-Microsoft PowerPoint est un logiciel de présentation pour les systèmes d'exploitation Windows et Mac. Découvrez [les nouveautés de PowerPoint 2019](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-windows-8355a56a-f643-42d2-8454-784fa9b3d109) pour Windows et les nouveautés de [PowerPoint 2019 pour Mac.](https://support.office.com/article/what-s-new-in-powerpoint-2019-for-mac-5038ba79-48c5-40f0-adff-11489e5d6fed)
-  
+Microsoft PowerPoint est un logiciel de présentation pour les systèmes d'exploitation Windows et Mac. En savoir plus [sur PowerPoint avec Microsoft 365](https://www.microsoft.com/microsoft-365/powerpoint).
+
 ## <a name="microsoft-onenote"></a>Microsoft OneNote
 
-Microsoft OneNote est un programme de prise de notes de forme libre pour Windows et mac. Découvrez [les nouveautés de OneNote pour Windows 10](https://support.office.com/article/what-s-new-in-onenote-for-windows-10-1477d5de-f4fd-4943-b18a-ff17091161ea) et les [nouveautés de OneNote pour Mac](https://support.office.com/article/see-what-s-new-in-onenote-for-mac-c82d3f15-252f-452a-89ba-e09fbe418829).
+Microsoft OneNote est un programme de prise de notes de forme libre pour Windows et mac. En savoir plus sur [OneNote](https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app).
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook est un programme de messagerie pour les systèmes d'exploitation Windows et Mac. Découvrez [les nouveautés de Outlook 2019](https://support.office.com/article/what-s-new-in-outlook-2019-for-windows-0c64df36-0908-4ff6-a7fc-573a62800525) pour Windows et les nouveautés de [Outlook 2019 pour Mac.](https://support.office.com/article/what-s-new-in-outlook-2019-for-mac-05736033-f99e-4cb2-88aa-01e979b0736b)
+Microsoft Outlook est un programme de messagerie pour les systèmes d'exploitation Windows et Mac. En savoir plus [sur Outlook avec Microsoft 365](https://www.microsoft.com/microsoft-365/outlook/outlook-personal-email-plans).
   
 ## <a name="microsoft-publisher"></a>Microsoft Publisher
 
-Microsoft Publisher est un programme de publication assistée par ordinateur pour les systèmes d'exploitation Windows. Voir [Microsoft Publisher](https://products.office.com/publisher).
+Microsoft Publisher est un programme de publication assistée par ordinateur pour les systèmes d'exploitation Windows. En savoir plus [sur Publisher avec Microsoft 365](https://www.microsoft.com/microsoft-365/publisher).
   
 ## <a name="microsoft-access"></a>Microsoft Access
 
-Microsoft Access est une solution de gestion de bases de données pour les systèmes d'exploitation Windows. Découvrez [les nouveautés d’Access 2019.](https://support.office.com/article/what-s-new-in-access-2019-f52c5317-3494-4105-9c56-5a2abb8e0f87)
+Microsoft Access est une solution de gestion de bases de données pour les systèmes d'exploitation Windows. En savoir plus [sur Access avec Microsoft 365](https://www.microsoft.com/microsoft-365/access).
   
 ## <a name="skype-for-business"></a>Skype Entreprise
 
