@@ -31,11 +31,11 @@ Les fonctionnalités d’édition, telles que plus de couleurs, de dégradés, d
 
 ## <a name="arrange-objects"></a>Disposer des objets
 
-Vous pouvez déplacer, reizer, faire pivoter, retourner ou commander des formes et des zones de texte, et vous pouvez regrouper les formes pour les utiliser individuellement.
+Vous pouvez déplacer, resserrez, faites pivoter, retournez ou commandez des formes et des zones de texte, et vous pouvez regrouper les formes pour les utiliser individuellement.
 
 ## <a name="build-mashup-solutions"></a>Créer des solutions d’application web hybride
 
-L Visio APA JavaScript mashup permet aux développeurs d’accéder à un Visio web, de ses pages et de ses formes et de les manipuler.
+L Visio’API Mashup JavaScript permet aux développeurs d’accéder à un Visio web, de ses pages et de ses formes et de les manipuler.
 
 ## <a name="create-diagrams"></a>Créer des diagrammes
 
@@ -91,7 +91,7 @@ Avec Visio pour le web, vous pouvez afficher, ajouter ou supprimer des commentai
 
 ## <a name="save-as-or-download-a-copy"></a>Enregistrer en tant que ou Télécharger une copie
 
-Visio web vous permet d’utiliser Enregistrer sous ou de télécharger une copie de votre diagramme, mais vous devez avoir l’application de bureau Visio pour modifier une copie locale.
+Visio pour le web vous permet d’utiliser Enregistrer sous ou de télécharger une copie de votre diagramme, mais vous devez avoir l’application de bureau Visio pour modifier une copie locale.
 
 ## <a name="share-a-diagram"></a>Partager un diagramme
 
@@ -103,7 +103,7 @@ La fonctionnalité Me dire n’est pas disponible Visio pour le web. Dans l'appl
 
 ## <a name="undo-and-redo"></a>Annulation et rétablissement
 
-Les fonctionnalités Annuler et Refaire sont disponibles dans Visio pour le web.
+Les fonctionnalités Annuler et Annuler et Annuler sont disponibles dans Visio pour le web.
 
 ## <a name="view-and-add-comments"></a>Affichage et ajout de commentaires
 
@@ -115,7 +115,7 @@ Vous pouvez utiliser Visio pour le web pour voir les métadonnées d’un diagra
 
 ## <a name="view-visio-files-in-the-browser"></a>Afficher des fichiers Visio dans le navigateur
 
-Étant donné que votre diagramme Visio est enregistré en ligne, vous pouvez envoyer un lien menant à celui-ci. D'autres personnes peuvent ensuite l'afficher dans n'importe quel navigateur. Il n’est pas nécessaire que l’application Visio de bureau soit installée ou qu’une licence Visio soit installée pour afficher un diagramme dans le navigateur.
+Étant donné que votre diagramme Visio est enregistré en ligne, vous pouvez envoyer un lien menant à celui-ci. D'autres personnes peuvent ensuite l'afficher dans n'importe quel navigateur. Il n’est pas nécessaire que l’application Visio bureau soit installée ou qu’une licence Visio pour afficher un diagramme dans le navigateur.
 
 ## <a name="zoom"></a>Zoom
 
