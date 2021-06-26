@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Grâce à Office 365, Project Online offre de puissantes fonctionnalités de gestion de projet pour la planification, la hiér doncisation et la gestion des projets et des investissements de portefeuille de projets, pratiquement n’importe où sur presque n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: fde1441db90bd24316c5b5d3ba9316f8717ac650
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
+ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021997"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53140826"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -28,7 +28,7 @@ ms.locfileid: "53021997"
 Microsoft Project propose les applications suivantes pour répondre aux besoins de votre organisation en matière de gestion de projet et de travail :
 
 - Project for the web
-- Microsoft Project Online 
+- Project Online 
 - Project Online client de bureau
 
 Cet article vous aidera à comprendre quelles applications sont fournies dans chaque abonnement Project et quelles fonctionnalités chaque application offre.
@@ -41,7 +41,7 @@ Project web repose sur la plateforme Microsoft Power Platform. La plateforme Pow
 
 Project web est disponible via trois abonnements : Project (plan 1), Project (plan 3) et Project (plan 5). Les fonctionnalités répertoriées [dans Project pour](#project-for-the-web-features) les fonctionnalités web interagissent uniquement avec les données du Project du magasin de données web.
 
-### <a name="project-online"></a>Microsoft Project Online
+### <a name="project-online"></a>Project Online
  
 Project Online est une solution en ligne flexible pour la gestion Project portefeuille (PPM) et le travail quotidien. Project Online offre de puissantes fonctionnalités de gestion de projet pour la planification, la hiérérisation et la gestion des projets et des investissements de portefeuille de projets de pratiquement n’importe où sur &mdash; presque n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
 
@@ -81,7 +81,7 @@ Microsoft Project est disponible via trois abonnements différents pour répondr
 |Produit | Offre 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
 |Project for the web |**x**  | **x x** | **x x** |
-|Microsoft Project Online |**x** |**x x**| **x x x** |
+|Project Online |**x** |**x x**| **x x x** |
 |Project Online client de bureau | |**x**|**x**|
 
 Dans le tableau ci-dessus, le nombre de vérifications (**x**) indique le niveau général des fonctionnalités fournies par un plan. Par exemple, pour Project Online, le plan 5 offre plus de fonctionnalités que le plan 3.
@@ -315,7 +315,7 @@ Project pour le web présente certaines limitations, décrites dans le tableau s
 |Longueur durée de la tâche feuille | 1250 jours |
 |Longueur durée de la tâche récapitulatif | 3 650 jours (10 ans) |
 |Longueur ressources qui peuvent être affectées à une tâche ; | 20 ressources |
-|Plage de dates prise en charge pour la tâche | 01/01/1984 &ndash; 31/12/2149 |
+|Plage de dates prise en charge pour la tâche | 01/01/2000 &ndash; 31/12/2149 |
 |**Project** ||
 |Longueur total des tâches pour le projet | 500 |
 |Longueur durée totale du projet | 3 650 jours (10 ans) |
