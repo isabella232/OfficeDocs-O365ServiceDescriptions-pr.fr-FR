@@ -65,6 +65,7 @@
 ### [Fonctionnalités client](exchange-online-archiving-service-description/client-features.md)
 ### [Fonctionnalités de conformité et de sécurité](exchange-online-archiving-service-description/compliance-and-security-features.md)
 ## [Description du service Microsoft Defender pour Office 365](office-365-advanced-threat-protection-service-description.md)
+### [Description du service Microsoft Defender pour Office 365](microsoft-defender-for-office-365-features.md)
 ## [Description du service Azure Active Directory](azure-active-directory.md)
 ## [Description du service Microsoft Teams](teams-service-description.md)
 ### [Description du service Microsoft 365 Business Voice](microsoft-365-business-voice-service-description.md)
