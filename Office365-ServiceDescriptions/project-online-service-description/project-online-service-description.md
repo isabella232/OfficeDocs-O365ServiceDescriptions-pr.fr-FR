@@ -14,26 +14,26 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Grâce à Office 365, Project Online offre de puissantes fonctionnalités de gestion de projet pour la planification, la hiér doncisation et la gestion des projets et des investissements de portefeuille de projets, pratiquement n’importe où sur presque n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140826"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290854"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
-## <a name="overview"></a>Vue d’ensemble
+## <a name="overview"></a>Présentation
 
 Microsoft Project propose les applications suivantes pour répondre aux besoins de votre organisation en matière de gestion de projet et de travail :
 
-- Project for the web
+- Project pour le web
 - Project Online 
 - Project Online client de bureau
 
 Cet article vous aidera à comprendre quelles applications sont fournies dans chaque abonnement Project et quelles fonctionnalités chaque application offre.
 
-### <a name="project-for-the-web"></a>Project for the web
+### <a name="project-for-the-web"></a>Project pour le web
 
 Project web est l’offre la plus récente de Microsoft pour la gestion de projets et de travail dans le cloud. Project web fournit des fonctionnalités de gestion de travail simples et puissantes pour répondre à la plupart des besoins et des rôles. Project responsables et membres d’équipe peuvent utiliser Project web pour planifier et gérer le travail de n’importe quelle taille.
 
@@ -80,7 +80,7 @@ Microsoft Project est disponible via trois abonnements différents pour répondr
 
 |Produit | Offre 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project for the web |**x**  | **x x** | **x x** |
+|Project pour le web |**x**  | **x x** | **x x** |
 |Project Online |**x** |**x x**| **x x x** |
 |Project Online client de bureau | |**x**|**x**|
 
@@ -108,6 +108,10 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |Microsoft Teams’intégration | Collaborez sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui | Oui | Oui |
 |**Gestion des ressources et des programmes** ||||||
 |Project d’équipe | Gérez une équipe de projet en ajoutant et en supprimant des membres et en setting le calendrier de travail. | Non | Oui | Oui | Oui |
+|Créer des demandes de<sup>ressources 12</sup> |  | Vue seule | Vue seule | Oui | Oui |
+|Accepter une proposition de<sup>réservation 12</sup> |  | Vue seule | Vue seule | Oui | Oui |
+|Créer et mettre à jour des réservations pour répondre aux demandes de ressources<sup>12</sup> |  | Vue seule | Vue seule | Vue seule | Oui |
+|Gérer les compétences/compétences sur vos ressources |  | Vue seule | Vue seule | Oui | Oui |
 |Feuilles de route | Créez des feuilles de route visuelles interactives entre les projets Microsoft Project Online, Microsoft Project pour le web et Azure Boards projets. <sup>2</sup> Avec cette Project (plan 1) vous obtenez un accès en lecture seule aux feuilles de route. Avec Project (plan 3) ou Project (plan 5), vous pouvez également créer des feuilles de route. | Afficher seulement | Afficher seulement | Oui | Oui |
 |**Rapports**<sup>3</sup> ||||||
 |Lire des rapports à *partir Project données web* | Affichez des rapports prêts à l’emploi ou personnalisés, ainsi que des tableaux de bord pour comprendre les données de projet, de programme, de portefeuille et de ressources. | Oui | Oui | Oui | Oui |
@@ -195,12 +199,12 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 
 #### <a name="notes"></a>Notes
 
-<sup>1</sup> Nécessite un abonnement Office ou Microsoft 365 commercial.</br>
-<sup>2 Azure Boards</sup> acquis séparément.</br>
-<sup>3 La</sup> reporting for Project for the web and Project Online using Power BI requires a Power BI license.</br>
-<sup>4</sup> La création et l’utilisation de Power Apps distinctes au-delà de l’application Project prêt à l’emploi qui accède aux Project pour les données client web ou Project Online nécessitent un abonnement Power Apps distinct.</br>
-<sup>5 Limité</sup> à 5 tables personnalisées.</br>
-<sup>6 Project Online</sup> licences pour les utilisateurs externes suit la même stratégie que celle des utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement Project (plan 3) ou Project (plan 5) client.</br>
+<sup>1</sup> Nécessite un abonnement Office ou Microsoft 365 commercial.<br/>
+<sup>2 Azure Boards</sup> acquis séparément.<br/>
+<sup>3 La</sup> reporting for Project for the web and Project Online using Power BI requires a Power BI license.<br/>
+<sup>4</sup> La création et l’utilisation de Power Apps distinctes au-delà de l’application Project prêt à l’emploi qui accède aux Project pour les données client web ou Project Online nécessitent un abonnement Power Apps distinct.<br/>
+<sup>5 Limité</sup> à 5 tables personnalisées.<br/>
+<sup>6 Project Online</sup> licences pour les utilisateurs externes suit la même stratégie que celle des utilisateurs internes. Toute interaction sur un site Project Online nécessite un abonnement Project (plan 3) ou Project (plan 5) client.<br/>
 <sup>7 Power Automate</sup> dans Project est limitée au contexte de l’application Project application. Cela signifie que pour les déclencheurs et les actions, les droits de flux inclus Project peuvent :
 
 - Connecter source de données dans les droits d’utilisation de l’application Project :
@@ -208,11 +212,12 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
   - Project données par le biais du connecteur Microsoft Dataverse
 - Être déclenché directement à partir de l’application Project (via le déclencheur/action intégré)
 
-Si le flux est isolé et n’a rien à voir avec l’application Project, une licence de plateforme doit être achetée.</br>
-<sup>8 Les</sup> utilisateurs avec un abonnement Project (plan 3) ou Project (plan 5) peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas examiner, satisfaire ou approuver les demandes d’engagement de ressources.</br>
-<sup>9 Les utilisateurs</sup> avec un abonnement Project (plan 5) peuvent examiner, remplir et approuver des demandes d’engagement de ressources.</br>
-<sup>10</sup> Active Directory nécessite un abonnement distinct. </br>
-<sup>11 Les</sup> droits d’affichage uniquement sont accordés uniquement à partir d’une application Power App. </br>
+Si le flux est isolé et n’a rien à voir avec l’application Project, une licence de plateforme doit être achetée.<br/>
+<sup>8 Les</sup> utilisateurs avec un abonnement Project (plan 3) ou Project (plan 5) peuvent soumettre des demandes d’engagement de ressources. Ils ne peuvent pas examiner, satisfaire ou approuver les demandes d’engagement de ressources.<br/>
+<sup>9 Les utilisateurs</sup> avec un abonnement Project (plan 5) peuvent examiner, remplir et approuver des demandes d’engagement de ressources.<br/>
+<sup>10</sup> Active Directory nécessite un abonnement distinct. <br/>
+<sup>11 Les</sup> droits d’affichage uniquement sont accordés uniquement à partir d’une application Power App. <br/>
+<sup>12</sup> Les clients titulaires d’une licence Microsoft Project Plan 3/5 sont uniquement autorisés à utiliser la planification des ressources universelles pour planifier des tables Project et des tables de tâches dans le contexte d’un projet. <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online client de bureau
 
@@ -309,7 +314,7 @@ Project pour le web présente certaines limitations, décrites dans le tableau s
 
 | Entité/champ | Limite |
 |-------------|-------|
-|**Tâche** ||
+|**Task** ||
 |Longueur niveau de hiérarchie pour la tâche | 10 niveaux |
 |Longueur liens (successeur + prédécesseur) pour une tâche | 20 |
 |Longueur durée de la tâche feuille | 1250 jours |

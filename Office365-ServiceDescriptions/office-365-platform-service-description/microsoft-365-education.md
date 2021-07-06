@@ -9,31 +9,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation.
-ms.openlocfilehash: 0fb0f1ccd686329010612b18107c6f5e5d2cb77c
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation de projet.
+ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021977"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290844"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
 Microsoft 365 est disponible dans différents plans pour répondre au mieux aux besoins de votre organisation. Si vous recherchez les différences entre les plans Microsoft 365 et Office 365 Éducation, cet article vous montre les fonctionnalités incluses dans chacun d'eux.
   
-Microsoft 365 fournit un système complet, comprenant Office 365, Windows 10 et Enterprise Mobility et Security. Le tableau suivant répertorie les fonctionnalités Office 365 pour l'Éducation A1, A3 et A5, ainsi que les fonctionnalités correspondantes Microsoft 365 pour l'Éducation A3 et A5. Pour comparer les fonctionnalités entre les plans d’entreprise et les plans d’entreprise, voir Comparer les [plans Microsoft 365](https://go.microsoft.com/fwlink/?linkid=799177)pour les entreprises ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service pertinente sous les descriptions des [services Microsoft 365 et Office 365.](../office-365-service-descriptions-technet-library.md) Pour rechercher des articles et des informations de support, voir [Formation &amp; d’aide Office.](https://support.office.com/)
+Microsoft 365 fournit un système complet, comprenant Office 365, Windows 10 et Enterprise Mobility et Security. Le tableau suivant répertorie les fonctionnalités Office 365 pour l'Éducation A1, A3 et A5, ainsi que les fonctionnalités correspondantes Microsoft 365 pour l'Éducation A3 et A5. Pour comparer les fonctionnalités entre les plans d’entreprise et les plans d’entreprise, consultez comparer les [plans](https://go.microsoft.com/fwlink/?linkid=799177)Microsoft 365 pour les entreprises ou, pour obtenir une liste plus détaillée des fonctionnalités, consultez la description de service pertinente sous Microsoft 365 et [Office 365 descriptions de service.](../office-365-service-descriptions-technet-library.md) Pour rechercher des articles et des informations de support, voir [Office Help &amp; Training](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Services et fonctionnalités
 
-Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant affiche les services disponibles dans chaque plan Office 365 et Microsoft 365 afin que vous puissiez choisir la solution répondant le mieux à vos besoins. Pour examiner plus en détail les services et fonctionnalités, consultez la description du service [Office 365](office-365-education.md) Éducation.<br></br>
+Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comme Exchange Online et SharePoint Online. Le tableau suivant affiche les services disponibles dans chaque plan Office 365 et Microsoft 365 afin que vous puissiez choisir la solution répondant le mieux à vos besoins. Pour examiner plus en détail les services et fonctionnalités, consultez la description [Office 365 Éducation](office-365-education.md) service.<br></br>
 
 | Service | Office 365 Éducation A1 | Office 365 Éducation A3 | Office 365 Éducation A5 | Microsoft 365 Éducation A3 | Microsoft 365 Éducation A5 | Office 365 A3 Student Use Benefit | Office 365 A5 Student Use Benefit | Microsoft 365 Éducation A3 Student Use Benefit | Microsoft 365 Éducation A5 Student Use Benefit |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Plateforme Office 365|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Office 365 plateforme|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Office pour le web|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Microsoft 365 Apps for enterprise|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Exchange Online|Oui<sup>1</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1</sup>|
-|SharePoint Online|Oui<sup>3</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|Oui<sup>3</sup>|
+|Applications Microsoft 365 for entreprise|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Exchange Online|Oui<sup>1</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|
+|SharePoint Online|Oui<sup>3</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Microsoft Teams|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Skype Entreprise Online|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -76,7 +76,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |eDiscovery (découverte électronique) avancée|Non|Non|Oui|Non|Oui|Non|Non|Non|Non|
 |Protection contre la perte de données (DLP) pour le courrier électronique et les fichiers|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Point de terminaison DLP|Non|Non|Non|Non|Oui|Non|Non|Non|Non|
-|Communications DLP (conversation Teams)|Non|Non|Oui|Non|Oui|Non|Non|Non|Non|
+|Communications DLP (Teams chat)|Non|Non|Oui|Non|Oui|Non|Non|Non|Non|
 |Conformité des communications|Non|Non|Oui|Non|Oui|Non|Non|Non|Non|
 |Clé client|Non|Non|Oui|Non|Oui|Non|Non|Non|Non|
 |Audit de base|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Les fonctionnalités répertoriées dans cette rubrique sont un ensemble d’outils web qui vous aident à collaborer et à communiquer en toute sécurité sur de nombreux appareils et plusieurs services Office 365 web. Ces fonctionnalités contribuent à établir de nouvelles connexions au sein de votre organisation en unifiant la création, le stockage et la gestion de contenu numérique avec des outils de réseaux sociaux pour la découverte et le partage d'informations entre les utilisateurs.
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074475"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275603"
 ---
 # <a name="microsoft-365-suite-features"></a>Fonctionnalités de Microsoft 365 suite
 
@@ -45,7 +45,7 @@ Microsoft Power Automate vous permet d’automatiser les flux de travail entre l
 
 Microsoft Forms vous permet de créer rapidement et facilement des questionnaires personnalisés, des enquêtes, des questionnaires, des inscriptions, etc. Lorsque vous créez un questionnaire ou un formulaire, vous pouvez inviter d'autres personnes à y répondre via n'importe quel navigateur web, voire sur des appareils mobiles. Une fois les résultats envoyés, vous pouvez utiliser des analyses intégrées pour évaluer les réponses. Les données de formulaires, telles que les résultats du questionnaire, peuvent être facilement exportées vers Excel pour une analyse ou une notation supplémentaires. Pour en savoir plus, [voir Qu’est-ce que Microsoft Forms ?](https://support.office.com/forms).
   
-## <a name="microsoft-graph-api"></a>API Microsoft Graph
+## <a name="microsoft-graph-api"></a>API Microsoft Graph
 
 Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se connectent à un grand nombre de ressources, de relations et d’intelligence, tout au long d’un point de terminaison unique https://graph.microsoft.com : Par exemple, vous pouvez créer des tableaux de bord, des flux de travail et des applications personnalisés qui récupèrent des données pour votre organisation. Pour plus d’informations, voir la [documentation Graph Microsoft.](/graph/overview)
   
@@ -53,7 +53,7 @@ Utilisez l’API Microsoft Graph pour créer rapidement des applications qui se 
 
 Microsoft Lists est une application Microsoft 365 qui vous permet de suivre les informations et d’organiser le travail. Les listes sont simples, intelligentes et flexibles, vous pouvez donc rester au fait de ce qui est le plus important pour votre équipe. Suivre les problèmes, les ressources, les routines, les contacts, l’inventaire et bien plus encore à l’aide d’affichages personnalisables et de règles intelligentes pour maintenir la notification et la synchronisation de tout le monde. Avec les modèles prêts à l’emploi, vous pouvez rapidement démarrer des listes en ligne, sur notre nouvelle application mobile ou dans Microsoft Teams. Dans le cadre de votre Microsoft 365, vous pouvez vous appuyer sur la sécurité et la conformité prêtes à l’emploi pour l’entreprise.
 
-Pour plus d'informations, voir :
+Pour plus d’informations, voir :
 
 * [Centre **de ressources des listes Microsoft publiques**](https://aka.ms/MSLists)
 * [Centre **d’adoption des listes Microsoft publiques**](https://aka.ms/ListsAdoption)
@@ -74,11 +74,11 @@ Microsoft Stream est un service vidéo d’entreprise que les membres de votre o
 
 Microsoft Sway est une application professionnelle de numérique pour les entreprises qui vous aide, ainsi que vos collègues, à exprimer des idées à l’aide d’un canevas web interactif. Le moteur de conception intégré de Microsoft Sway vous permet de produire des rapports, des présentations et bien plus encore, professionnels et attrayants, sans avoir besoin d’une mise en forme complète ou d’une formation supplémentaire. Vous pouvez également modifier les résultats pour obtenir l’apparence unique que vous souhaitez. Microsoft Sway rend votre création très bien vue dans n’importe quel navigateur sur n’importe quel écran, et elle peut être partagée avec des collègues et des clients en envoyant un lien. Microsoft Sway vous permet de rechercher et de rassembler toutes sortes de contenu sans quitter l’application, afin que vous pouvez faire glisser et déposer vos images, textes, vidéos et graphiques directement sur votre zone de dessin. Pour en savoir plus, voir [Sway](https://sway.com). Microsoft Sway n’est pas encore disponible [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps for enterprise
+## <a name="microsoft-365-apps-for-enterprise"></a>Applications Microsoft 365 for entreprise
 
 Applications Microsoft 365 pour les grandes entreprises est la suite d’applications de bureau toujours à jour que vous connaissez déjà (notamment Word, PowerPoint, Excel, Outlook et Teams) disponible sous la mesure d’un abonnement. Applications Microsoft 365 pour les grandes entreprises inclut des fonctionnalités intelligentes exclusives telles que idées dans [**Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Recherche dans [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916) [**collaboration**](https://go.microsoft.com/fwlink/p/?linkid=2109917)en temps réel, Teams comme hub pour le travail d’équipe et fonctionnalités de sécurité avancées. En tant que licence utilisateur, vous pouvez déployer Office sur cinq PC ou Mac, cinq tablettes et cinq appareils mobiles. Avec 1 To de stockage OneDrive cloud, vous pouvez accéder à vos fichiers et collaborer sur ces fichiers depuis n’importe où.
 
-Pour plus d'informations, voir :
+Pour plus d’informations, voir :
 
 * [Page Vue d’ensemble](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Page du produit (à acheter)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
@@ -90,10 +90,6 @@ Les groupes dans Microsoft 365 connectent les utilisateurs aux collègues, aux i
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
 Microsoft Kaizala est une application de gestion du travail mobile simple et sécurisée, qui apporte des fonctionnalités uniques à Microsoft 365, avec sa capacité à connecter et à impliquer des personnes à l’intérieur et à l’extérieur de l’annuaire d’une organisation ( y compris les travailleurs de contrat, fournisseurs, partenaires, fournisseurs, clients et citoyens) à l’aide de types de groupe larges et [flexibles.](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Kaizala’annuaire ouvert permet une identité basée sur les numéros de téléphone pour faciliter l’intégration et une expérience utilisateur simple pour la messagerie et la gestion du travail. L’application mobile Kaizala permet aux utilisateurs d’envoyer des messages instantanés et des pièces jointes telles que des images, des documents, des vidéos, des fichiers audio, etc. et d’utiliser des cartes d’action pour des enquêtes, des sondages, des affectations de travail, des annonces, des formations, etc. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) fonctionne sur iPhone et Android. Pour en savoir plus, allez sur le [site Kaizala web.](https://products.office.com/en/business/microsoft-kaizala)
-
-## <a name="office-365-video"></a>Office 365 Video
-
-Office 365 La vidéo est une destination sécurisée à l’échelle de l’entreprise où vous pouvez télécharger, partager et découvrir des vidéos sur vos appareils, optimisée par Microsoft Azure Media Services. Office 365 Video peut contribuer à maintenir les utilisateurs impliqués et informés, à communiquer des idées de façon globale et à homogénéiser les organisations. Pour en savoir plus, voir [Présentation d'Office 365 Video](https://go.microsoft.com/fwlink/?linkid=2144056).
 
 ## <a name="onenote-class-notebook"></a>Bloc-notes OneNote pour la classe
 
