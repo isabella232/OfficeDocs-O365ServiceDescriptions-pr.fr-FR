@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les SharePoint limites de Microsoft 365 et des plans autonomes.
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767474"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338337"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -50,7 +50,11 @@ Pour les grandes listes, concevez pour avoir le moins d’autorisations uniques 
 
 ### <a name="file-size-and-file-path-length"></a>Taille du fichier et longueur du chemin d’accès au fichier
 
-250 Go. Pour en savoir plus sur les restrictions et les limites lors de l’utilisation de la nouvelle application de synchronisation OneDrive (OneDrive.exe), voir Noms de fichiers et types de fichiers [non valides.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **250 Go : limite de téléchargement de fichiers.** S’applique à chaque fichier individuel téléchargé dans l’onglet Fichiers Microsoft Teams, SharePoint bibliothèques de documents, OneDrive dossiers et Yammer conversations.
+
+- **250 Mo : fichier joint à un élément de liste.** S’applique aux listes Microsoft et SharePoint listes basées sur la même plateforme de listes.
+
+Pour en savoir plus sur les restrictions et les limites lors de l’utilisation de la nouvelle application Synchronisation OneDrive (OneDrive.exe), voir Noms de fichiers et types de fichiers [non valides.](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 ### <a name="moving-and-copying-across-sites"></a>Déplacement et copie d’un site à l’autre
 
@@ -62,7 +66,7 @@ La copie/déplacement de plusieurs fichiers en une seule opération présente tr
 
 ### <a name="sync"></a>Synchronisation
 
-Pour optimiser les performances, nous vous recommandons de ne pas stocker plus de 300 000 fichiers dans une bibliothèque OneDrive site d’équipe ou unique. Bien que SharePoint Online puisse stocker 30 millions de documents par bibliothèque, pour des performances optimales, nous vous recommandons de ne pas synchroniser plus de 300 000 fichiers dans toutes les bibliothèques de documents. En outre, les mêmes problèmes de performances peuvent se produire si vous avez 300 000 éléments ou plus dans toutes les bibliothèques que vous synchronisez, même si vous ne synchronisez pas tous les éléments de ces bibliothèques. Si vous utilisez le client de synchronisation OneDrive Entreprise précédent (Groove.exe), la limite de synchronisation par bibliothèque est de 20 000 éléments (y compris 5 000 éléments par site d’équipe).
+Pour optimiser les performances, nous vous recommandons de ne pas stocker plus de 300 000 fichiers dans une bibliothèque OneDrive site d’équipe ou unique. Bien SharePoint Online puisse stocker 30 millions de documents par bibliothèque, pour des performances optimales, nous vous recommandons de ne pas synchroniser plus de 300 000 fichiers dans toutes les bibliothèques de documents. En outre, les mêmes problèmes de performances peuvent se produire si vous avez 300 000 éléments ou plus dans toutes les bibliothèques que vous synchronisez, même si vous ne synchronisez pas tous les éléments de ces bibliothèques. Si vous utilisez le client de synchronisation OneDrive Entreprise précédent (Groove.exe), la limite de synchronisation par bibliothèque est de 20 000 éléments (y compris 5 000 éléments par site d’équipe).
 
 ### <a name="versions"></a>Versions
 
