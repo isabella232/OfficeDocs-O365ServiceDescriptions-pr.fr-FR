@@ -10,25 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le Centre de conformité de sécurité est conçu pour vous aider à gérer les fonctionnalités de conformité Office 365 &amp; pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798460"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537210"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Le [Centre de conformité de &amp; sécurité](https://protection.office.com/) est conçu pour vous aider à gérer les fonctionnalités de conformité Office 365 pour votre organisation. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-  
-> [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+Conçus avec l’accessibilité et la facilité d’utilisation à l’esprit, le centre d’administration Microsoft 365 de sécurité, [Centre de conformité Microsoft 365](https://sip.compliance.microsoft.com/homepage)et [Exchange](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) incluent des fonctionnalités existantes et de nouvelles expériences améliorées pour la sécurité [unifiée,](https://sip.security.microsoft.com/homepage)la conformité et la gestion du flux de messagerie entre les services Microsoft 365. Ces nouveaux centres remplaceront progressivement le Centre Office 365 conformité de la sécurité &amp; (protection.office.com). Vous pouvez activer la redirection [](https://sip.security.microsoft.com/homepage) automatique maintenant dans le centre de sécurité ou le Centre de [conformité,](https://sip.compliance.microsoft.com/homepage)afin que les administrateurs de votre organisation soient immédiatement redirigés des fonctionnalités du Centre de conformité de sécurité Office 365 vers la fonctionnalité correspondante dans les nouveaux &amp; centres.
 
-Pour voir les options de gestion des licences pour vos utilisateurs afin de bénéficier des fonctionnalités Microsoft 365 conformité, téléchargez [le Microsoft 365 comparaison.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Pour voir les options de gestion des licences pour vos utilisateurs afin de bénéficier des fonctionnalités Microsoft 365 conformité, téléchargez [Microsoft 365 tableau de comparaison.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilité &amp; du Centre de conformité de sécurité pour les plans d’entreprise et d’entreprise
 
-| Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 gouvernement américain G1 | Office 365 E3, Office 365 gouvernement américain G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 gouvernement américain F3|
+| Fonctionnalité | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1, Office 365 gouvernement américain G1 | Office 365 E3, Office 365 gouvernement américain G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 gouvernement américain F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité des applications cloud Office 365](/cloud-app-security/what-is-cloud-app-security) | Non | Non |Non | Non | Non | Oui | Oui  |   |
@@ -62,11 +59,11 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 
 <sup>2 Nécessite</sup> une Office 365 de protection contre la perte de données.
 
-<sup>3 Les étiquettes</sup> de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
+<sup>3 Les étiquettes</sup> de niveau de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilité &amp; du Centre de conformité de sécurité pour les plans autonomes
 
-| Fonctionnalité | Exchange Online (plan 1) | Exchange Online (plan 2) | Exchange Online Kiosk | SharePoint Online (plan 1) | SharePoint Online (offre 2) | OneDrive Entreprise (plan 1) | OneDrive Entreprise (plan 2) | Skype Entreprise Online (plan 1) | Skype Entreprise Online (plan 2)|
+| Fonctionnalité | Exchange Online (plan 1) | Exchange Online (plan 2) | Exchange Online Kiosk | SharePoint Online (plan 1) | SharePoint Online (offre 2) | OneDrive Entreprise (plan 1) | OneDrive Entreprise (plan 2) | Skype Entreprise Online (plan 1) | Skype Entreprise Online (plan 2)|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité des applications cloud Office 365](/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Oui   |
@@ -82,7 +79,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |[Recherche de contenu](/office365/securitycompliance/search-for-content)  |Oui   |Oui   |Oui   |Oui   |Oui  | Oui<sup>10</sup>  |Oui<sup>10</sup>  |Oui   |Oui   |
 |[Cas eDiscovery](/office365/securitycompliance/ediscovery-cases)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui<sup>10</sup>  |Oui<sup>10</sup>  |Non   |Non   |
 |[Exportation de la découverte électronique](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
-|[les détient eDiscovery (y compris les requêtes eDiscovery) ;](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
+|[Les détient eDiscovery (y compris les requêtes eDiscovery)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |Non   |Oui   |Non   |Non   |Oui   |Non  |Oui<sup>10</sup> |Non<sup>4</sup>  |Non<sup>4</sup>  |
 |[Découverte électronique avancée](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Archivage](/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |Non   |Oui   |Non   |Oui   |Oui   |Oui<sup>10</sup> |Oui<sup>10</sup>  |Non   |Non   |
 |[Audit de base](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|Oui|Oui|Oui|Oui|Oui|Oui<sup>10</sup>|Oui<sup>10</sup>|Non|Non|
@@ -108,7 +105,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 
 <sup>8 Les journaux</sup> d’audit de tous les plans qui incluent l’audit de base sont conservés pendant 90 jours. En outre, vous pouvez utiliser [l’API activité Office 365 gestion pour](/office/office-365-management-api/office-365-management-activity-api-reference) récupérer des événements à partir du journal d’audit unifié.
 
-<sup>9</sup> Nécessite une Office 365 protection contre la perte de données.
+<sup>9</sup> Nécessite une Office 365 de protection contre la perte de données.
 
 <sup>10 Limité</sup> aux fichiers stockés dans OneDrive Entreprise.
 
@@ -116,7 +113,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-Le Centre de conformité est disponible dans le plan E3 [Office 365 géré par 21Vianet.](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)
+Le Centre de conformité est disponible dans le plan E3 [pour Office 365 géré par 21Vianet](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
