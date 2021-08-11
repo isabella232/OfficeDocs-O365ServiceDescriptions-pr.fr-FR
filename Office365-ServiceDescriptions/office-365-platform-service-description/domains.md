@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Lorsque vous avez terminé l’Assistant, votre courrier électronique professionnel commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour plus d’informations, voir Ajouter vos utilisateurs et domaines à Microsoft. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la vérification de votre domaine.
-ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Une fois l’Assistant terminé, le courrier électronique de votre entreprise commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour plus d’informations, voir Ajouter vos utilisateurs et domaines à Microsoft. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la vérification de votre domaine.
+ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652568"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662987"
 ---
 # <a name="domains"></a>Domaines
 
-Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Lorsque vous avez terminé l’Assistant, votre courrier électronique professionnel commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour en savoir plus, voir [Ajouter vos utilisateurs et domaines à Microsoft.](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la [vérification de votre domaine](/office365/admin/setup/add-domain).
+Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Une fois l’Assistant terminé, le courrier électronique de votre entreprise commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour en savoir plus, voir [Ajouter vos utilisateurs et domaines à Microsoft.](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la [vérification de votre domaine](/office365/admin/setup/add-domain).
   
 ## <a name="custom-domains"></a>Domaines personnalisés
 
@@ -49,7 +49,7 @@ Pour plus d’informations, voir Comment Microsoft gère les enregistrements [DN
   
 ## <a name="sharing-a-domain"></a>Partage d’un domaine
 
-Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microsoft, et d’autres sur votre fournisseur de messagerie précédent. Cette procédure est recommandée uniquement pour une utilisation au cours d’un projet pilote, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services Microsoft. Pour plus d'informations, voir :
+Vous pouvez piloter certaines adresses de messagerie pour un domaine sur Microsoft, et d’autres sur votre fournisseur de messagerie précédent. Cette procédure est recommandée uniquement pour une utilisation au cours d’un projet pilote, car elle nécessite des étapes de configuration supplémentaires et présente certaines limitations pour les services Microsoft. Pour plus d’informations, voir :
   
 - [Projet Microsoft 365 pilote pour une petite entreprise](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs Microsoft peuvent afficher l’état des services et savoir quand la maintenance est programmée. Les informations d’état du service sont disponibles à tout moment en se signant.
-ms.openlocfilehash: 2d48b04dc59567c18d8f8326b23d60499321791b
-ms.sourcegitcommit: ef3ef6370ae5b118f7100bf83894634d02ce6e23
+ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53679691"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701813"
 ---
 # <a name="service-health-and-continuity"></a>État des services et continuité
 
@@ -112,7 +112,7 @@ L'engagement de Microsoft pour une amélioration continue implique l'analyse des
   
 Les incidents de service non planifiés sont définis comme des interruptions de service à plusieurs clients qui ont une incidence sur l’utilisation du service telles que définies par nos contrats de niveau de service (SSL) et ont été déclarées en tant que telles dans le Tableau de bord d’état du service.
   
- Pour les incidents de service non planifiés qui ont eu un impact important et perceptible sur un grand nombre d’organisations, une analyse post-incident préliminaire sera livrée via votre tableau de bord d’état du service dans les 48 heures suivant la résolution de l’incident, puis une analyse post-incident finale dans les cinq jours ouvrée. Le rapport détaillé sur la pir inclut les informations ci-après : 
+ Pour les incidents de service non planifiés qui ont eu un impact important et perceptible sur un grand nombre d’organisations, une analyse post-incident préliminaire sera livrée via votre tableau de bord d’état du service dans les 48 heures suivant la résolution de l’incident, puis une analyse post-incident finale dans les cinq jours ouvrée. Le rapport détaillé sur la analyse du travail inclut les informations ci-après : 
   
 - Impact sur les clients et l'expérience utilisateur
 

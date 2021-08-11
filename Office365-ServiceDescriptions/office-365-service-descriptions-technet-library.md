@@ -1,5 +1,5 @@
 ---
-title: Descriptions des services Microsoft 365 et Office 365
+title: Descriptions des services Microsoft 365 et Office 365
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 et Office 365 sont des services informatiques conçus pour répondre aux besoins de sécurité, de fiabilité et de productivité robustes de votre organisation.
-ms.openlocfilehash: 7a51d0914774455ad6f78bbd362633a48094ebf3
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 20470f92e036fe5f57e93ba7fd64bcf9d0fc0c9ff32122a88a2fe8fcc81decad
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652388"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702073"
 ---
-# <a name="microsoft-365-and-office-365-service-descriptions"></a>Descriptions des services Microsoft 365 et Office 365 
+# <a name="microsoft-365-and-office-365-service-descriptions"></a>Descriptions des services Microsoft 365 et Office 365 
 
 Microsoft 365 et Office 365 sont des services informatiques conçus pour répondre aux besoins de sécurité, de fiabilité et de productivité robustes de votre organisation. 
   
-Les articles de cette bibliothèque fournissent une description détaillée des services et des fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour plus d’informations sur les applications microsoft Dynamics 365 business, voir [la documentation de Microsoft Dynamics 365.](/dynamics365/)
+Les articles de cette bibliothèque fournissent des descriptions détaillées des services et fonctionnalités disponibles avec Microsoft 365 et Office 365. Pour plus d’informations sur les applications microsoft Dynamics 365 business, voir [la documentation de Microsoft Dynamics 365.](/dynamics365/)
 
 Pour comparer les fonctionnalités entre les plans, voir [Outils puissants pour](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) prendre en charge votre entreprise ou la description de service pertinente dans la liste ci-dessous. 
   
@@ -34,7 +34,7 @@ Pour obtenir des articles et des informations de support, voir Office Help [& Tr
 > [!NOTE]
 > Si vous recherchez la feuille de calcul de comparaison de description de service, elle a été retirée. Les tableaux de disponibilité des fonctionnalités de produit sur chaque page de description de service ont été mis à jour pour vous aider à choisir la version de Office 365 qui répond à vos besoins. 
   
-Microsoft offre les avantages du Centre FastTrack Office 365 pour les services éligibles dans les plans éligibles. L’avantage vous permet de travailler à distance avec des spécialistes De Microsoft pour préparer votre environnement Office 365 prêt à l’emploi. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft offre les avantages FastTrack Centre d’Office 365 pour les services éligibles dans les plans éligibles. L’avantage vous permet de travailler à distance avec des spécialistes Microsoft pour préparer votre environnement Office 365 prêt à l’emploi. Pour plus d’informations, consultez l’article [Avantages du Centre FastTrack pour Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Pour commencer, lisez les descriptions suivantes :
   
@@ -46,9 +46,9 @@ Pour commencer, lisez les descriptions suivantes :
 
 - [Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md)
 
-- [Description du service Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
+- [Description du service Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
 
-- [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
+- [Description du service d’archivage Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
 - [Description du service Microsoft Defender pour Office 365](office-365-advanced-threat-protection-service-description.md)
 
@@ -58,7 +58,7 @@ Pour commencer, lisez les descriptions suivantes :
 
 - [Description du service SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
-- [Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
+- [Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 
 - [Description du service Workplace Analytics](workplace-analytics-service-description.md)
 
@@ -76,9 +76,9 @@ Pour commencer, lisez les descriptions suivantes :
 
 - [Description du service Microsoft 365 Business Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Licences Microsoft 365 pour les petites et moyennes entreprises](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+- [Licences Microsoft 365 pour les petites et moyennes entreprises](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 
-- [Guide de sécurité et conformité pour les licences Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Guide de sécurité et conformité pour les licences Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 
 > [!NOTE]

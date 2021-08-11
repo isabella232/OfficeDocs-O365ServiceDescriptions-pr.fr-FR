@@ -1,5 +1,5 @@
 ---
-title: Azure Active Directory de service
+title: Description du service Azure Active Directory
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -9,16 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Azure Active Directory est la solution de gestion des identités et des accès basée sur le cloud de Microsoft, qui permet à vos employés et utilisateurs invités de se connecter en toute sécurité et d’accéder aux ressources.
-ms.openlocfilehash: f637c202b4023584a88e9cb5688278309743efe2
-ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
+ms.openlocfilehash: 9620f98fd241016748908d74b6644b3208e3418064fb6b296c433836bc8c31d0
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53077531"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701613"
 ---
-# <a name="azure-active-directory-service-description"></a>Azure Active Directory de service
+# <a name="azure-active-directory-service-description"></a>Description du service Azure Active Directory
 
-Azure Active Directory est la solution de gestion des identités et des accès basée sur le cloud de Microsoft, qui permet à vos employés et utilisateurs invités de se connecter en toute sécurité et d’accéder à des ressources telles que les applications Microsoft (par exemple, Microsoft 365 et Azure), des milliers d’applications SaaS populaires pré-intégrées (par exemple, ServiceNow, google apps) et toutes les applications web cloud ou locales personnalisées. Il offre des fonctionnalités de sécurité telles que l’authentification unique, l’authentification multifacteur, l’accès conditionnel et la gestion du cycle de vie pour protéger les organisations contre la compromission d’identité.
+Azure Active Directory est la solution de gestion des identités et des accès basée sur le cloud de Microsoft, qui permet à vos employés et utilisateurs invités de se connecter en toute sécurité et d’accéder à des ressources telles que les applications Microsoft (par exemple, Microsoft 365 et Azure), des milliers d’applications SaaS populaires pré-intégrées (par exemple, ServiceNow, Google Apps) et toutes les applications web cloud ou locales personnalisées. Il offre des fonctionnalités de sécurité telles que l’authentification unique, l’authentification multifacteur, l’accès conditionnel et la gestion du cycle de vie pour protéger les organisations contre la compromission d’identité.
 
 ## <a name="available-plans"></a>Plans disponibles
 
@@ -30,17 +30,17 @@ Azure Active Directory fonctionnalités sont en constante évolution et en expan
 
 ## <a name="messaging"></a>Messagerie
 
-Pour rester informé des modifications à venir, y compris des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, voir [Centre de messages.](/microsoft-365/admin/manage/message-center)
+Pour rester informé des modifications à venir, notamment des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ## <a name="licensing-terms"></a>Termes du contrat de licence
 
-Pour obtenir les termes et conditions de licence des produits et services achetés via les programmes de licence en volume commerciaux Microsoft, consultez le [site Termes du produit.](https://www.microsoft.com/licensing/terms/)
+Pour connaître les conditions générales de licence pour les produits et services achetés par le biais des Programmes de Licences en Volume Commerciaux Microsoft, consultez le site [Conditions générales du produit](https://www.microsoft.com/licensing/terms/).
 
 ## <a name="accessibility"></a>Accessibilité
 
-Microsoft s’engage à assurer la sécurité de vos données et [l’accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, voir le [Centre de](https://www.microsoft.com/trust-center) confiance Microsoft et le [centre Office’accessibilité.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft s’engage à garantir la sécurité de vos données et l’[accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, consultez le [Centre de gestion de la confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-## <a name="learn-more"></a>En savoir plus
+## <a name="learn-more"></a>Si vous souhaitez en savoir plus
 
 Pour plus d’informations Azure Active Directory, consultez les ressources suivantes :
 

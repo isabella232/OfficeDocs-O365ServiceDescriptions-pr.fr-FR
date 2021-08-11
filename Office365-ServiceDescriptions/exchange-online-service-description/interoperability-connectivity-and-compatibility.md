@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: b5dd2467010d4f7eb74ba356abc75ff54ad09cf0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9e0ef704a1b43a81bffdd177aeef3f09c472103aa178c11867d1cc9db8b1aee2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652718"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663777"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interopérabilité, connectivité et compatibilité
 
@@ -28,7 +28,7 @@ Pour les clients qui ont déployé Microsoft Lync Server 2010, Lync Server 2013 
   
 Lync Server 2010 et Lync Server 2013 sur site peuvent interagir avec Exchange Online de deux façons supplémentaires :
   
-- Interopérabilité de la messagerie instantanée et de la présence Outlook sur le web
+- Interopérabilité de la messagerie instantanée et de la présence dans Outlook sur le web
     
 - Interopérabilité de la messagerie vocale
     
@@ -36,7 +36,7 @@ Pour plus d'informations sur la configuration de Skype Entreprise Server 2015 av
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d’un plan d’abonnement, SharePoint peuvent se connecter à Exchange Online services intégrés.
+Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d’un plan d’abonnement, les SharePoint peuvent se connecter à Exchange Online services intégrés.
   
 Pour plus d'informations sur la connexion de SharePoint à Exchange Online, visitez la page [Utiliser SharePoint Online sur un domaine personnalisé avec d'autres services](https://go.microsoft.com/fwlink/?LinkId=271805).
   

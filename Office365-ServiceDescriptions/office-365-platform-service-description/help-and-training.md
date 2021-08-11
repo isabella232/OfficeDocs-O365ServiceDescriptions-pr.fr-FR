@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
-ms.openlocfilehash: 380986f2cc6f962245ea8ae5be12b7c43b9bf2bb
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653236"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663007"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -25,7 +25,7 @@ Microsoft Office 365 fournit les ressources d’aide et de formation suivantes.
   
 ## <a name="online-help"></a>Aide en ligne
 
-Les articles et vidéos d’aide sont disponibles à partir de n’importe quel lien d’aide en ligne dans le service, y compris l’icône d’aide dans la barre de navigation supérieure du portail Office 365 et du Centre d’administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Les articles et vidéos d’aide sont disponibles à partir de n’importe quel lien d’aide en ligne dans le service, y compris l’icône d’aide dans la barre de navigation supérieure du portail Office 365 et des Centre d’administration Microsoft 365. Vous pouvez également rechercher dans l'ensemble des rubriques d'aide Office 365 sur le site [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formation
 

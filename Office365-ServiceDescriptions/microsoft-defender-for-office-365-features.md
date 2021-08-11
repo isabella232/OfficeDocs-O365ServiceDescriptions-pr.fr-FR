@@ -1,5 +1,5 @@
 ---
-title: Description du service Microsoft Defender for Office 365 Features
+title: Description du service Microsoft Defender pour Office 365
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Découvrez les fonctionnalités disponibles dans Microsoft Defender pour Office 365.
-ms.openlocfilehash: 620639a2c40d589123ebda33446411533798d2ec
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204864"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663047"
 ---
-# <a name="microsoft-defender-for-office-365-features-service-description"></a>Description du service Microsoft Defender for Office 365 Features
+# <a name="microsoft-defender-for-office-365-features-service-description"></a>Description du service Microsoft Defender pour Office 365
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Nouveautés de Microsoft Defender pour Office 365
 
@@ -31,7 +31,7 @@ Nous continuons à ajouter de nouvelles fonctionnalités à Defender pour Office
 
 ## <a name="defender-for-office-365-capabilities"></a>Fonctionnalités de Defender for Office 365
 
-### <a name="safe-attachments"></a>Pièces jointes sûres
+### <a name="safe-attachments"></a>Pièces jointes fiables
 
 [Coffre pièces jointes protège](/microsoft-365/security/office-365-security/atp-safe-attachments) contre les programmes malveillants et les virus inconnus et fournit une protection zero-day pour protéger votre système de messagerie. Tous les messages et pièces jointes qui n’ont pas de signature de virus/programmes malveillants connus sont acheminés vers un environnement spécial dans lequel Defender pour Office 365 utilise diverses techniques d’apprentissage automatique et d’analyse pour détecter les intentions malveillantes. Si aucune activité suspecte n'est détectée, le message est libéré et remis à la boîte aux lettres.
 
@@ -100,7 +100,7 @@ Pour plus d’informations sur l’Explorateur (dans Microsoft Defender pour Off
 
 ### <a name="real-time-detections"></a>Détections en temps réel
 
-Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Comme dans l’Explorateur, ce rapport affiche par défaut les données des sept derniers jours.
+Les détections en temps réel sont des rapports en temps réel qui permettent aux utilisateurs autorisés d’identifier et d’analyser les menaces récentes. Comme dans l’Explorateur, par défaut, ce rapport affiche les données des sept derniers jours.
 
 Les détections en temps réel contiennent des affichages, tels que les programmes malveillants (pour le courrier électronique et le contenu), les soumissions et le hameçonnage. Pour comparer les détections en temps réel avec l’Explorateur, [téléchargez ce PDF.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
@@ -116,10 +116,10 @@ Pour plus d’informations sur l’Explorateur (dans Microsoft Defender pour Off
 
 ### <a name="attack-simulation-training"></a>Formation à la simulation d'attaque
 
-[La formation à la simulation](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) d’attaques est un outil intelligent de gestion des risques sociaux qui automatise la création et la gestion des simulations de hameçonnage. Les simulations aident les clients à détecter, hiérarchiser et corriger les risques de hameçonnage en utilisant des hameçonnages réels et une formation hyper-ciblée pour modifier les comportements des employés.
+[La formation à la simulation](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) d’attaques est un outil intelligent de gestion des risques sociaux qui automatise la création et la gestion des simulations de hameçonnage. Les simulations aident les clients à détecter, hiérarchiser et corriger les risques de hameçonnage à l’aide de leur hameçonnage réel et d’une formation hyper-ciblée pour modifier les comportements des employés.
 
 - L’entraînement de simulation d’attaque est désormais disponible dans ww et Cloud de la communauté du secteur public (sera disponible Cloud de la communauté du secteur public le 21 juin).
-- Pour plus d’informations sur la mise en place, voir Commencer à utiliser la formation sur la [simulation d’attaque.](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)
+- Pour plus d’informations sur la façon de commencer, voir Commencer à utiliser [l’entraînement de simulation d’attaque.](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)
 - Diverses techniques d’attaque qui appliquent des charges utiles d’hameçonnage réelles et dédupliquées sont disponibles pour répliquer le comportement d’une attaque réelle afin de rendre les simulations de hameçonnage pertinentes.
 - Ce service est disponible pour les organisations qui disposent de licences Microsoft 365 E5, Office 365 E5 ou [Microsoft Defender pour Office 365 Plan 2.](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) Un sous-ensemble de fonctionnalités est proposé aux clients E3 en tant qu’essai.
 - Pour en savoir plus et tester une simulation, voir [Simulation d’une attaque par hameçonnage.](/microsoft-365/security/office-365-security/attack-simulation-training)

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: Les fonctionnalités de messagerie et de conversation suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: e2ed250a6cd112a0fe8e8ca18da8b3565b8a32d4
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5d0b9859bb2486f300354c4c21fb883db5428d0e67913bdd9d78d1043d63e7ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653596"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702193"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Fonctionnalités de messagerie et de conversation dans Yammer
 
@@ -33,7 +33,7 @@ Organisez des réunions et des événements, partagez-les avec vos collègues et
   
 ## <a name="office-for-the-web-support"></a>Office sur le Web prise en charge
 
-Avec Office sur le Web prise en charge dans Yammer, les documents téléchargés vers Yammer peuvent être consultables et modifiés avec Office sur le Web, directement dans Yammer. Cela permet aux documents d’être restituer correctement avec Office sur le Web, d’activer la co-auteur par différents utilisateurs simultanément et d’afficher des conversations Yammer pertinentes, directement dans votre navigateur.
+Avec Office sur le Web prise en charge dans Yammer, les documents téléchargés sur Yammer peuvent être consultables et modifiés avec Office sur le Web, directement dans Yammer. Cela permet aux documents d’être restituer correctement avec Office sur le Web, d’activer la co-auteur par différents utilisateurs simultanément et d’afficher des conversations Yammer pertinentes, directement dans votre navigateur.
 
 ## <a name="online-now"></a>En ligne maintenant
 

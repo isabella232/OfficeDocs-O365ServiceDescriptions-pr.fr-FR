@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Lisez cet article pour en savoir plus sur les fonctionnalités client disponibles dans Microsoft Exchange Online’archivage.
-ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293636"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664667"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Fonctionnalités client dans Archivage Exchange Online
 
@@ -32,12 +32,12 @@ Microsoft Outlook est un programme riche de messagerie électronique qui inclut 
 - **Outlook Anywhere** - Outlook Anywhere permet aux utilisateurs Outlook de se connecter à Exchange Server et Archivage Exchange Online via Internet sans avoir besoin d’une connexion VPN. La communication entre Outlook et Archivage Exchange Online se fait via un tunnel SSL sécurisé, à l'aide du composant réseau Windows RPC sur HTTP.    
 - **Découverte automatique** : le service Exchange de découverte automatique configure automatiquement Outlook pour fonctionner avec Archivage Exchange Online. La découverte automatique permet aux utilisateurs Outlook de recevoir leurs paramètres de profil requis directement à partir de Exchange la première fois (et à intervalles fixes par la suite) qu’ils se connectent avec leur adresse e-mail et leur mot de passe. 
 
-Outlook 2010 et les ultérieures et Outlook sur le web fournissent aux utilisateurs les fonctionnalités complètes de l’archive, ainsi que les fonctionnalités associées telles que les stratégies de rétention et d’archivage.
+Outlook 2010 et les ultérieures et les Outlook sur le web fournissent aux utilisateurs les fonctionnalités complètes de l’archive, ainsi que les fonctionnalités associées telles que les stratégies de rétention et d’archivage.
   
 Outlook 2007 propose une prise en charge simple de l'archive, mais toutes les fonctions de conformité et d'archivage ne sont pas disponibles dans Outlook 2007. Par exemple, avec Outlook 2007, les utilisateurs ne peuvent pas appliquer de stratégies d'archivage ou de rétention aux éléments de leurs boîtes aux lettres. Ils doivent plutôt utiliser des stratégies fournies par un administrateur. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive.
   
 > [!NOTE]
-> Outlook n'est pas fourni avec Archivage Exchange Online. Applications Microsoft 365 pour les grandes entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté séparément. Pour plus d’informations, [voir Microsoft 365 options de plan.](../office-365-platform-service-description/office-365-plan-options.md) Pour plus d’informations sur Applications Microsoft 365 pour les grandes entreprises, voir la [description du service Office applications.](../office-applications-service-description/office-applications-service-description.md) 
+> Outlook n'est pas fourni avec Archivage Exchange Online. Applications Microsoft 365 pour les grandes entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté en tant qu’abonnement distinct. Pour plus d’informations, [voir Microsoft 365 options de plan.](../office-365-platform-service-description/office-365-plan-options.md) Pour plus d’informations sur Applications Microsoft 365 pour les grandes entreprises, voir la [description du service Office applications.](../office-applications-service-description/office-applications-service-description.md) 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clients pris en charge par l’archivage Exchange Online
 
@@ -62,9 +62,9 @@ Le tableau ci-dessous répertorie les clients pris en charge par Archivage Excha
 
 ## <a name="outlook-on-the-web"></a>Outlook sur le web
 
-Outlook sur le web est une version du programme de messagerie électronique Outlook basée sur le web, utilisée avec Exchange Online. Quel que soit l’endroit où les utilisateurs sont connectés à Internet à la maison, au bureau ou sur la route, ils peuvent accéder à leur courrier électronique par le biais Outlook &mdash; &mdash; sur le web.
+Outlook sur le web est une version du programme de messagerie électronique Outlook basée sur le web, utilisée avec Exchange Online. Où que les utilisateurs soient connectés à Internet à la maison, au bureau ou sur la route, ils peuvent accéder à leur courrier électronique &mdash; &mdash; via Outlook sur le web.
   
-Les utilisateurs peuvent accéder à leur archive en se Outlook sur le web local (à l’aide de la même URL). L’archive apparaît en même temps que leur boîte aux lettres principale Outlook sur le web. Il n’existe aucun moyen explicite d’accéder à l’archive directement Outlook sur le web.
+Les utilisateurs peuvent accéder à leur archive en se Outlook sur le web sur site (à l’aide de la même URL). L’archive apparaît en même temps que leur boîte aux lettres principale dans Outlook sur le web. Il n’existe aucun moyen explicite d’accéder à l’archive directement à partir Outlook sur le web.
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

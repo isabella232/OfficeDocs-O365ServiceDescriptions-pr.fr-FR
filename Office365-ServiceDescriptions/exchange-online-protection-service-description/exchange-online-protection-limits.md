@@ -1,5 +1,5 @@
 ---
-title: Limites d’Exchange Online Protection
+title: Limites d’Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables sauf indication contraire.
-ms.openlocfilehash: c4bce8f7b501a7a00eea723464e20964899b3560
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables, sauf indication contraire.
+ms.openlocfilehash: f573f73bf69944ecb400347978140e45a4c8700f74ac214572228ae83fc3c7fb
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653050"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664496"
 ---
-# <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
+# <a name="exchange-online-protection-limits"></a>Limites d’Exchange Online Protection
 
-Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables sauf indication contraire. 
+Les limites suivantes existent actuellement pour Exchange Online Protection. Ces limites ne sont pas configurables, sauf indication contraire. 
   
 > [!TIP]
 > Pour plus d’informations sur les limites Exchange Online, voir [Exchange Online limites.](../exchange-online-service-description/exchange-online-limits.md) Les limites de règle de transport s'appliquent également aux clients autonomes EOP. Les limites de fréquence de messages et de débit maximal pour les destinataires dans Exchange Online ne s'appliquent pas aux clients autonomes EOP. 
@@ -51,8 +51,8 @@ Les limites suivantes existent actuellement pour Exchange Online Protection. Ces
 | Fonctionnalité | EOP autonome | Fonctionnalités EOP dans Exchange Online | Licence d’accès client Exchange Enterprise avec services |
 |:-----|:-----|:-----|:-----|
 |Limite de domaine  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Limite de domaine distant  <br/> |200  <br/> |200  <br/> |200  <br/> |
-|Limite de taille de message (pièces jointes comprises)  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
+|Limite du domaine distant  <br/> |200  <br/> |200  <br/> |200  <br/> |
+|Limite de taille de message (pièces jointes comprises)  <br/> |150 Mo  <br/> |150 Mo  <br/> |150 Mo  <br/> |
 |Limite de destinataires  <br/> |Voir « Limite de destinataires » ci-dessus.  <br/> |500 destinataires lors de l'envoi à partir d'une boîte aux lettres hébergée. Voir « Limite de destinataires » ci-dessus pour connaître d'autres scénarios.  <br/> |Voir « Limite de destinataires » ci-dessus.  <br/> |
 |Nombre limite d'expéditeurs autorisés  <br/> |1 024 entrées  <br/> |1 024 entrées  <br/> ||
 |Limite des expéditeurs bloqués par stratégie  <br/> |1 024 entrées  <br/> |1 024 entrées  <br/> ||

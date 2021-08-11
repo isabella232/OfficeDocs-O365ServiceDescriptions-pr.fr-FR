@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice est un service de add-in qui vous permet d’utiliser Microsoft Teams pour les appels téléphoniques. Cela combine le système téléphonique, le forfait d’appels nationaux, les SMS et l’audioconférence.
-ms.openlocfilehash: 3a273090dc87d516c0ac84c182ceaa9aef2fd986
-ms.sourcegitcommit: 2c5aa7297361211cf4b1144f0e495cd3e94b4745
+ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53021957"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663577"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Description du service Microsoft 365 Business Voice
 
@@ -35,14 +35,14 @@ Le tableau suivant indique les plans qui peuvent utiliser le module Microsoft 36
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Le tableau suivant répertorie les principales fonctionnalités Microsoft 365 Business Voice disponibles dans les différents plans. Certaines mises en garde s’appliquent. Pour plus d’informations, voir les notes de bas de page. Ce tableau peut changer sans préavis. Pour obtenir la liste complète des fonctionnalités les plus à jour, voir Appel vocal [et vidéo.](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)
+Le tableau suivant répertorie les principales fonctionnalités Microsoft 365 Business Voice disponibles dans les différents plans. Certaines mises en garde s’appliquent. Pour plus d’informations, voir les notes de bas de page. Cette table peut changer sans préavis. Pour obtenir la liste complète des fonctionnalités les plus à jour, voir Appel vocal [et vidéo.](https://www.microsoft.com/en-us/microsoft-teams/voice-calling)
 
 | Fonctionnalité | Microsoft 365 Business Voice | Microsoft 365 Business Voice Sans forfait d’appels |
 |---------|------------------------------|---------------------------------------------------|
 | Numéros locaux | Oui | Oui<sup>*</sup> |
 | Appel VoIP | Oui | Oui<sup>*</sup> |
 | Standardistes automatiques | Oui | Oui<sup>*</sup> |
-| File d’attente d’appels | Oui | Oui<sup>*</sup> |
+| File d’attente des appels | Oui | Oui<sup>*</sup> |
 | ID de l'appelant | Oui | Oui<sup>*</sup> |
 | Routage des appels | Oui | Oui<sup>*</sup> |
 | Appel d’urgence | Oui | Oui<sup>*</sup> |
@@ -53,7 +53,7 @@ Le tableau suivant répertorie les principales fonctionnalités Microsoft 365 Bu
 | Délégation d’appel (partage d’une ligne téléphonique avec un délégué) | Oui | Oui<sup>*</sup> |
 | Musique en attente | Oui | Oui<sup>*</sup> |
 | Bloc d’appel | Oui | Oui<sup>*</sup> |
-| Numérotation des numéros de poste du service de téléphone automatique | Oui | Oui<sup>*</sup> |
+| Numérotation des numéros d’extension du service de téléphone automatique | Oui | Oui<sup>*</sup> |
 | Transfert automatique de la file d’attente/du attendant automatique vers la messagerie vocale partagée | Oui | Oui<sup>*</sup> |
 | Réponse vocale interactive multilingue (IVR) | Oui | Oui<sup>*</sup> |
 | Stratégie d’Appel | Oui | Oui<sup>*</sup> |
@@ -66,7 +66,7 @@ Le tableau suivant répertorie les principales fonctionnalités Microsoft 365 Bu
 
 <sup>**</sup>La numérotation gratuit et le forfait d’appels internationaux sont disponibles à un coût supplémentaire à l’aide des [crédits de communication.](/microsoftteams/what-are-communications-credits) Pour en savoir plus, consultez [la numérotation gratuit](/microsoftteams/toll-free-dialing-limitations-and-restrictions) et les [tarifs d’appels internationaux.](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates)
 
-## <a name="learn-more"></a>En savoir plus
+## <a name="learn-more"></a>Si vous souhaitez en savoir plus
 
 Pour plus d’informations Microsoft 365 Business Voice consultez les ressources suivantes :
 
@@ -76,12 +76,12 @@ Pour plus d’informations Microsoft 365 Business Voice consultez les ressources
 
 ### <a name="licensing-terms"></a>Termes du contrat de licence
 
-Pour obtenir les termes et conditions de licence des produits et services achetés via les programmes de licence en volume commerciaux Microsoft, consultez le [site Termes du produit.](https://www.microsoft.com/licensing/terms/)
+Pour connaître les conditions générales de licence pour les produits et services achetés par le biais des Programmes de Licences en Volume Commerciaux Microsoft, consultez le site [Conditions générales du produit](https://www.microsoft.com/licensing/terms/).
 
 ### <a name="messaging"></a>Messagerie
 
-Pour suivre les modifications à venir, y compris les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, voir [Centre de messages.](/microsoft-365/admin/manage/message-center)
+Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de Messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 
-Microsoft s’engage à assurer la sécurité de vos données et [l’accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, voir le [Centre de](https://www.microsoft.com/trust-center) confiance Microsoft et le [centre Office’accessibilité.](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft s’engage à garantir la sécurité de vos données et l’[accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, consultez le [Centre de gestion de la confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

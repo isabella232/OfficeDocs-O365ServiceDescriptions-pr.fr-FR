@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les SharePoint disponibles dans les plans.
-ms.openlocfilehash: a158debc41e35c07895d1d8e805994796c0e8a63
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204851"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702583"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -37,7 +37,7 @@ Pour en savoir plus sur SharePoint différences de fonctionnalités pour les cli
   
 ## <a name="whats-new"></a>Nouveautés
 
-Pour plus d’informations sur les dernières fonctionnalités publiées, voir [Nouveautés](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)de SharePoint .
+Pour plus d’informations sur les dernières fonctionnalités publiées, voir [Nouveautés de SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
 ## <a name="subscription-options"></a>Options d’abonnement
 
@@ -110,7 +110,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Gouvernance de site](/sharepoint/governance-overview) 
 - [Magasin de termes : métadonnées gérées](/sharepoint/managed-metadata)
 
-Pour plus d’informations sur la disponibilité des services de migration FastTrack, reportez-vous aux [plans et services éligibles.](/fasttrack/m365-eligible-services-and-plans) 
+Pour plus d’informations sur la disponibilité des services FastTrack migration, reportez-vous aux [plans et services éligibles.](/fasttrack/m365-eligible-services-and-plans) 
 
 Pour plus d’informations sur les fonctionnalités liées au partage, voir la [description OneDrive service.](../onedrive-for-business-service-description.md)
 
@@ -137,7 +137,7 @@ SharePoint s’intègre aux fonctionnalités avancées de sécurité et de confo
 - [Protection contre la perte de données (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [eDiscovery (recherche](/microsoft-365/compliance/ediscovery-cases) de contenu, conserver, exporter)
 - [Obstacles aux informations](/microsoft-365/compliance/information-barriers)
-- [Microsoft Defender pour Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Microsoft Defender pour Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Étiquettes et stratégies de rétention](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [Étiquettes de confidentialité](/microsoft-365/compliance/sensitivity-labels)
 - [Audit unifié](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (audit SharePoint activité des utilisateurs et des administrateurs)
@@ -160,7 +160,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [Bibliothèques de documents](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
 - [Ensembles de documents](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
 - Cartes de fichier (activité, conversations, visionneuses)
-- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [Listes](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
 - [Méga menus](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Intégration de Microsoft Forms.](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256) Nécessite un abonnement qui inclut Office 365 et requiert que l’utilisateur soit titulaire d’une licence Forms.
 - [Actualités](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
@@ -175,7 +175,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [SharePoint application mobile](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [SharePoint page de démarrage](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
 - [Conceptions de sites](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
-- [Rapports d’utilisation du site](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
+- [Rapports d’utilisation de site](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [Sites : sites classiques](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
 - [Sites : sites de communication](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [Sites : site d’accueil](/sharepoint/home-site)

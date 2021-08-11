@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio web étend votre expérience de Visio Microsoft au navigateur, où vous pouvez créer et modifier des diagrammes enregistrés dans le cloud. Microsoft 365 clients peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en même temps.
-ms.openlocfilehash: 329909219647b4edc61495fd7deb70945d184af7
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53096341"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702233"
 ---
 # <a name="visio-features"></a>Visio Fonctionnalités
 
@@ -77,7 +77,7 @@ Office sont disponibles dans Visio pour ordinateur de bureau, mais pas encore da
 
 Non disponible dans Visio pour le web. Office sur le Web nécessite une connexion Internet et un navigateur Internet. Si l'application de bureau Visio est installée sur votre ordinateur, vous pouvez afficher et modifier un diagramme sans être connecté à Internet ou au serveur Office Web Apps local de votre organisation. Si l’application Visio bureau est installée, vous pouvez utiliser les fonctionnalités complètes de Visio pour afficher et modifier votre diagramme hors connexion. Lors de l'enregistrement, le diagramme en ligne est mis à jour avec vos modifications. Vous pouvez également le télécharger et l'enregistrer en tant que copie hors connexion du diagramme, mais il ne sera pas synchronisé avec la version en ligne. Pour en savoir plus sur Office Web Apps Server, voir [Office Web Apps Server.](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013)
 
-## <a name="print-to-pdf"></a>Impression dans un PDF
+## <a name="print-to-pdf"></a>Imprimer au format PDF
 
 Vous pouvez imprimer au format PDF ou sur des imprimantes Visio pour le web.
 
@@ -91,7 +91,7 @@ Avec Visio pour le web, vous pouvez afficher, ajouter ou supprimer des commentai
 
 ## <a name="save-as-or-download-a-copy"></a>Enregistrer en tant que ou Télécharger une copie
 
-Visio pour le web vous permet d’utiliser Enregistrer sous ou de télécharger une copie de votre diagramme, mais vous devez avoir l’application de bureau Visio pour modifier une copie locale.
+Visio web vous permet d’utiliser Enregistrer sous ou de télécharger une copie de votre diagramme, mais vous devez avoir l’application de bureau Visio pour modifier une copie locale.
 
 ## <a name="share-a-diagram"></a>Partager un diagramme
 
@@ -103,7 +103,7 @@ La fonctionnalité Me dire n’est pas disponible Visio pour le web. Dans l'appl
 
 ## <a name="undo-and-redo"></a>Annulation et rétablissement
 
-Les fonctionnalités Annuler et Annuler et Annuler sont disponibles dans Visio pour le web.
+Les fonctionnalités Annuler et Refaire sont disponibles dans Visio pour le web.
 
 ## <a name="view-and-add-comments"></a>Affichage et ajout de commentaires
 
@@ -119,4 +119,4 @@ Vous pouvez utiliser Visio pour le web pour voir les métadonnées d’un diagra
 
 ## <a name="zoom"></a>Zoom
 
-Visio web inclut un curseur qui vous permet d’effectuer un zoom avant et arrière. En outre, vous pouvez utiliser la fonctionnalité Zoom panoramique pour effectuer un &amp; zoom avant sur une région du diagramme.
+Visio web inclut un curseur qui vous permet d’effectuer un zoom avant et arrière. En outre, vous pouvez utiliser la fonctionnalité Zoom panoramique pour effectuer un zoom avant sur une &amp; région du diagramme.

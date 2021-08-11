@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Découvrez les engagements uniques et les différences entre les environnements Office 365 Cloud de la communauté du secteur public et DoD par rapport à l’environnement Office 365 commercial.
-ms.openlocfilehash: 5446d5d1e6e10649a75f001c92f0d970e2fae842
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653456"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664407"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 Cloud de la communauté du secteur public High et DoD
 
@@ -54,7 +54,7 @@ Le personnel d’Office 365 ne dispose pas d’un accès permanent à l’envir
 |Vérification des empreintes digitales  <br/> |Vérification des antécédents par empreintes digitales par rapport aux bases de données du FBI  <br/> |
 |Département de la Défense IT-2  <br/> |Les personnes demandant une élévation des autorisations en matière de données client ou d'accès administratif privilégié aux capacités de service DOD SRG L5 sont soumises à l'arbitrage du département de la Défense IT-2 qui prend sa décision sur la base d'une enquête niveau 3 de l'OPM  <br/> |
 
-<sup>1</sup> S’applique uniquement aux membres du personnel ayant un accès temporaire ou permanent au contenu client hébergé dans Office 365 cloud GCC-High ou DOD.
+<sup>1</sup> S’applique uniquement au personnel ayant un accès temporaire ou permanent au contenu client hébergé dans Office 365 cloud GCC-High ou DOD.
 ## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Nuances de fonctionnalités basées sur une architecture cloud compatible
 
 Les abonnements aux environnements Cloud de la communauté du secteur public High et DoD incluent les fonctionnalités principales Exchange Online, SharePoint et Skype Entreprise de base. Étant donné les exigences de certification et d’accréditation accrues de l’infrastructure, certaines fonctionnalités diffèrent entre les offres commerciales générales d’Office 365 et celles qui sont disponibles dans GCC High et DoD.

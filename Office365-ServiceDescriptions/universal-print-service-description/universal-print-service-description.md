@@ -8,16 +8,16 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Impression universelle, Microsoft 365 service d’impression cloud, supprime le besoin de serveurs d’impression locaux.
-ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653606"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702433"
 ---
 # <a name="universal-print-service-description"></a>Description du service Impression universelle
 
-[L’impression](https://www.microsoft.com/microsoft-365/windows/universal-print)universelle, Microsoft 365 service d’impression cloud, supprime le besoin de serveurs d’impression locaux. Ce service permet aux points de terminaison joints à Windows 10 l’espace de travail de sélectionner et d’imprimer sur des imprimantes inscrites dans Azure AD sans avoir à installer un autre logiciel client.
+[Impression universelle,](https://www.microsoft.com/microsoft-365/windows/universal-print)Microsoft 365 service d’impression cloud, supprime le besoin de serveurs d’impression locaux. Ce service permet aux points de terminaison joints à Windows 10 l’espace de travail de sélectionner et d’imprimer sur des imprimantes inscrites dans Azure AD sans avoir à installer un autre logiciel client.
 
 Les utilisateurs tirent parti de l’impression sans pilote, de la découverte simplifiée de l’imprimante basée sur l’emplacement et d’une expérience d’impression intuitive sans courbe d’apprentissage qui tire parti du flux d’impression existant sur leur appareil.
 
@@ -56,7 +56,7 @@ Pour plus d’informations sur l’impression universelle, consultez les ressour
 
 ### <a name="licensing-terms"></a>Termes du contrat de licence
 
-Pour obtenir les termes et conditions de licence des produits et services achetés via les programmes de licence en volume commerciaux Microsoft, consultez le [site Termes du produit.](https://www.microsoft.com/licensing/terms/) 
+Pour connaître les conditions générales de licence pour les produits et services achetés par le biais des Programmes de Licences en Volume Commerciaux Microsoft, consultez le site [Conditions générales du produit](https://www.microsoft.com/licensing/terms/). 
 
 ### <a name="service-updates"></a>Mises à jour de services
 
@@ -64,4 +64,4 @@ Pour suivre les modifications à venir, y compris les fonctionnalités nouvelles
 
 ### <a name="accessibility"></a>Accessibilité
 
-Microsoft s’engage à assurer la sécurité de vos données et [l’accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, voir le [Centre de](https://www.microsoft.com/trust-center) confiance Microsoft et le [centre Office’accessibilité.](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft s’engage à garantir la sécurité de vos données et l’[accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, consultez le [Centre de gestion de la confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Découvrez les limites SharePoint pour les plans Microsoft 365 et autonomes.
-ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
-ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
+ms.openlocfilehash: 5dd9a0d414c5b5ddaac1d92254b73660fab0ac4725dbe656868df8889faa674d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53338337"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702603"
 ---
 # <a name="sharepoint-limits"></a>Limites de SharePoint
 
@@ -34,7 +34,7 @@ Découvrez les limites de service dans SharePoint pour Microsoft 365, consultez 
 <br/><sup>2</sup> Nous vous recommandons de surveiller la Corbeille et de la vider régulièrement. L'espace de stockage qu'elle utilise fait partie de la limite totale de stockage de l'organisation. 
 <br/> <sup>3</sup> Si vous disposez d’un abonnement Microsoft 365 et d’un module complémentaire Stockage de fichiers supplémentaire Office 365, les quantités de stockage sont ajoutées. 
 <br/> <sup>4</sup> Il s’agit de la limite de *stockage* pour un site unique (anciennement « collection de sites »), et non la quantité de stockage *fournie* pour chaque site. Cette limite s’applique à tous les types de sites, y compris les sites d’équipe connectés à un groupe Office 365 et OneDrive. Les administrateurs SharePoint peuvent [définir manuellement des limites de stockage inférieures](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
-<br/> <sup>5</sup> les employés de terrain ne peuvent pas administrer les sites SharePoint. 
+<br/> <sup>5 travailleurs</sup> de l’emploi ne peuvent pas administrer SharePoint sites. 
 <br/> <sup>6</sup> Sans inclure le OneDrive créé pour chaque utilisateur sous licence. 
 <br/> <sup>7</sup> Si vous avez plus de 500 000 utilisateurs, contactez un représentant Microsoft. 
   

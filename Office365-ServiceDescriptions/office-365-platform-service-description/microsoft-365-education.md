@@ -9,13 +9,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation de projet.
-ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation plan.
+ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290844"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662997"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -107,10 +107,10 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |System Center Endpoint Protection|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 
 > [!NOTE]
-> <sup>1 inclut</sup> Exchange Online Plan 1 et des fonctionnalités supplémentaires. <br/>
+> <sup>1 Inclut</sup> Exchange Online Plan 1 et des fonctionnalités supplémentaires. <br/>
 > <sup>2 Inclut</sup> Exchange Online Plan 2. <br/>
 > <sup>3 inclut</sup> SharePoint Online Plan 1 et des fonctionnalités supplémentaires. <br/>
-> <sup>4 inclut</sup> SharePoint Online Plan 2. <br/>
+> <sup>4 Inclut</sup> SharePoint Online Plan 2. <br/>
 > <sup>5</sup> Microsoft Project ne sont pas inclus dans Office 365, mais peuvent être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement d’enseignement, vous pouvez acheter des Project (plan 3) et un plan 5 à prix éducation. <br/>
 > <sup>6 inclut</sup> Intune. <br/>
 > <sup>7 Serveurs</sup> et listes d’Exchange, SharePoint et Skype Entreprise. <br/>

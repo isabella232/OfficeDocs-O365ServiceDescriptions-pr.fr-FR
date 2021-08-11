@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Pour répondre aux exigences uniques et en constante évolution des gouvernements fédéral, d’états américains, d’états locaux et de premier ordre, ainsi que des sous-traitants détenant ou traitant des données pour le compte du gouvernement des États-Unis, Microsoft propose des services Office 365 pour le gouvernement américain Community (Cloud de la communauté du secteur public). Disponibles via plusieurs canaux, y compris les licences en volume, les organisations intéressées traversent un processus de validation pour garantir leur éligibilité avant qu’un environnement ne soit établi. Les essais sont disponibles uniquement pour les entités du gouvernement américain pour le moment.
-ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653166"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701883"
 ---
 # <a name="office-365-gcc"></a>Office 365 Cloud de la communauté du secteur public
 
@@ -56,7 +56,7 @@ Yammer entreprise n’est pas un composant de Office 365 Secteur Public, mais pe
   
 À ce jour, Yammer fournit la séparation logique des données client au niveau de la couche d'application. Toutefois, Yammer ne fournit pas les mêmes fonctionnalités d’emplacement de données et d’accès aux données que Office 365 Secteur Public, ne prend pas en charge l’accréditation FedRAMP et est soumis à des conditions de contrat différentes de Office 365 services. Il est recommandé de passer en revue la description du [service Yammer et](../../yammer-service-description/yammer-service-description.md) les conditions de confidentialité lors de l’évaluation de l’utilisation appropriée des Yammer pour votre organisation. Pour savoir quelles Office 365 Secteur Public les plans incluent Yammer, voir [Office 365 Secteur Public](office-365-us-government.md).
   
-Si vous décidez que l’utilisation de Yammer est appropriée pour votre organisation dans le cadre de votre abonnement Office 365 Secteur Public et que vous avez acheté l’un des plans mentionnés ci-dessus qui inclut Yammer, sous votre inscription Enterprise, vous pouvez demander une modification pour activer votre abonnement Yammer pour entreprise.
+Si vous décidez que l’utilisation de Yammer est appropriée pour votre organisation dans le cadre de votre abonnement Office 365 Secteur Public et que vous avez acheté l’un des plans mentionnés ci-dessus qui inclut Yammer, sous votre inscription Enterprise, vous pouvez demander une modification pour activer votre Yammer pour l’abonnement entreprise.
   
 ## <a name="office-365-government-gcc-customer-support"></a>Office 365 Secteur Public Cloud de la communauté du secteur public support client
 

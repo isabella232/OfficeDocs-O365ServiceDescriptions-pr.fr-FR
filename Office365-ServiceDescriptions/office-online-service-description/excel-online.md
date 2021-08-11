@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel sur le Web (anciennement Excel Web App) étend votre expérience Microsoft Excel au navigateur web, où vous pouvez travailler avec des workbooks directement sur le site web où le workbook est stocké. Tous les clients peuvent afficher et modifier légèrement Office fichiers à l’aide Office sur le Web.
-ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699070"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702013"
 ---
 # <a name="excel-for-the-web"></a>Excel pour le web
 
@@ -59,11 +59,11 @@ Utilisez un format conditionnel pour vous aider à explorer et analyser visuelle
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
-Cette fonctionnalité est disponible dans Excel sur le Web. D’autres fonctionnalités avancées sont disponibles uniquement dans l Excel de bureau.
+Cette fonctionnalité est disponible dans Excel sur le Web. D’autres fonctionnalités avancées sont disponibles uniquement dans l’Excel de bureau.
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-Non disponible dans Excel sur le Web. Dans l’Excel de bureau, les graphiques recommandés vous offrent la meilleure sélection parmi divers graphiques pour présenter vos données. En savoir plus [sur l’utilisation des recommandations de](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)graphique dans Excel .
+Non disponible dans Excel sur le Web. Dans l’Excel de bureau, les graphiques recommandés vous permet de choisir parmi une variété de graphiques qui sont les plus pratiques pour présenter vos données. En savoir plus [sur l’utilisation des recommandations de](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0)graphique dans Excel .
   
 ## <a name="autocomplete"></a>Autocomplete
 
@@ -90,7 +90,7 @@ Les tableaux et les graphiques Excel facilitent la mise en forme et la gestion 
 
 ## <a name="check-spelling"></a>Vérifier l’orthographe
 
-Pour vérifier l’orthographe d’un texte de votre feuille de calcul, sélectionnez **Vérifier**  >  **l’orthographe de la vérification**  >  **orthographique.** En savoir plus sur [la vérification orthographique.](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)
+Pour vérifier l’orthographe de tout texte de votre feuille de calcul, sélectionnez **Vérifier**  >  **l’orthographe de la vérification**  >  **orthographique.** En savoir plus sur [la vérification orthographique.](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159)
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -106,11 +106,11 @@ Vous pouvez couper, copier et coller du texte, des liens hypertexte, des nombres
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-Vous pouvez utiliser Excel sur le Web pour afficher les connexions de données, mais vous ne pouvez pas créer de connexions de données externes à l’aide de Excel sur le Web. Vous aurez besoin de l’application Excel bureau pour travailler avec des données externes.
+Vous pouvez utiliser Excel sur le Web pour afficher les connexions de données, mais vous ne pouvez pas créer de connexions de données externes à l’aide de Excel sur le Web. Vous aurez besoin de l’Excel de bureau pour travailler avec des données externes.
   
 ## <a name="create-tables"></a>Création de tableaux
 
-Pour organiser et analyser des données connexes, créez un tableau. Les tableaux facilitent le tri, le filtrage et la mise en forme de vos données. Ajoutez quelques options de mise en [forme de tableau,](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)y compris une galerie de styles.
+Pour organiser et analyser des données connexes, créez un tableau. Les tableaux facilitent le tri, le filtrage et la mise en forme de vos données. Ajoutez des options de mise en [forme de tableaux,](https://support.office.com/article/format-an-excel-table-6789619f-c889-495c-99c2-2f971c0e2370)y compris une galerie de styles.
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Création de vues d'analyse avancées (Power View, Power Pivot, Segments)
 
@@ -210,7 +210,7 @@ Ajoutez et formatez des formes telles que des cases, des cercles, des lignes, de
 
 ## <a name="keyboard-shortcuts"></a>Raccourcis clavier
 
-Vous pouvez contrôler les raccourcis clavier afin qu’ils fonctionnent de la même manière dans les versions de bureau et web de Excel en modifiant le paramètre Raccourcis clavier, vous pouvez même remplacer les &mdash; raccourcis du navigateur. Il vous suffit  >  **de sélectionner Les raccourcis clavier de l’aide**. »
+Vous pouvez contrôler les raccourcis clavier afin qu’ils fonctionnent de la même manière dans les versions de bureau et web de Excel en modifiant le paramètre Raccourcis clavier, vous pouvez même remplacer les &mdash; raccourcis du navigateur. Il vous **suffit**  >  **de sélectionner Les raccourcis clavier de l’aide**. »
   
 ## <a name="merge-cells"></a>Merge cells
 
@@ -226,7 +226,7 @@ Modifiez le format des nombres. Dans la liste des formats, sélectionnez un form
   
 ## <a name="office-add-ins"></a>Compléments Office
 
- Certains, mais pas tous les Office sont disponibles dans Excel sur le Web. Vous pouvez obtenir un complément pour Excel à partir de l'Office Store. En savoir plus sur l' [obtention d'un complément Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+ Certains des Office sont disponibles dans Excel sur le Web. Vous pouvez obtenir un complément pour Excel à partir de l'Office Store. En savoir plus sur l' [obtention d'un complément Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
 
 ## <a name="offline-viewing-and-authoring"></a>Création et affichage en mode hors connexion
 
@@ -286,7 +286,7 @@ Vous avez envie d'avoir votre propre copie du classeur ? Pour envoyer une copie 
 
 ## <a name="sensitivity-labels"></a>Étiquettes de confidentialité
 
-Maintenez le contrôle de l’accès et de la sensibilité de vos documents en appliquant manuellement une étiquette ou en utilisant les étiquettes recommandées automatiquement par Microsoft.
+Maintenez le contrôle de l’accès et de la sensibilité de vos documents en appliquant manuellement une étiquette ou en utilisant les étiquettes recommandées automatiquement de Microsoft.
   
 ## <a name="share"></a>Partager
 
@@ -330,7 +330,7 @@ Vous pouvez appliquer différentes options de mise en forme de texte, y compris 
 
 ## <a name="total-data"></a>Nombre total de données
 
-Vous pouvez rapidement totaler les données d’une table en activant l’option Toggle Total Row ( Toggle Total Row). Pour plus d’informations, voir [Total des données dans Excel tableau.](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web)
+Vous pouvez rapidement totaler les données d’une table en activant l’option Toggle Total Row. Pour plus d’informations, voir [Total des données dans Excel tableau.](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web)
 
 ## <a name="undo-and-redo"></a>Annuler et rétablir
 

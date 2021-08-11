@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: Cet article décrit les interfaces de gestion disponibles pour les administrateurs Microsoft Exchange Online Protection des données (EOP).
-ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 19c0c535e642d6f5d83d9ae69b04ee364c6f7716facbedd18677f3c3702c1554
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653066"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664567"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Administration et gestion dans Exchange Online Protection
 
@@ -25,9 +25,9 @@ Cet article décrit les interfaces de gestion disponibles pour les administrateu
   
 Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la [description Exchange Online Protection service.](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Accès au Centre d’administration Microsoft 365 de gestion
+## <a name="access-to-the-microsoft-365-admin-center"></a>Accès au Centre d’administration Microsoft 365
 
-Le centre d’administration Microsoft 365 est le portail web à partir duquel l’administrateur de service de chaque entreprise peut gérer les comptes d’utilisateurs et les paramètres de chaque services Microsoft auquel il s’abonne. À partir du Microsoft 365 d’administration, les administrateurs peuvent suivre des liens vers le CAE, où ils peuvent gérer les paramètres spécifiques d’EOP.
+Le Centre d’administration Microsoft 365 est le portail web à partir duquel l’administrateur de service de chaque entreprise peut gérer les comptes d’utilisateurs et les paramètres de chaque services Microsoft auquel il s’abonne. À partir du Centre d’administration Microsoft 365, les administrateurs peuvent suivre des liens vers le CAE, où ils peuvent gérer les paramètres spécifiques d’EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Accès au Centre d’administration Exchange
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Une liste des plans qui fournissent des Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans sont incluses.
-ms.openlocfilehash: fbfbe39931e6037b358bb76c124937904a408783
-ms.sourcegitcommit: 427dbb27426a12e8c5dba7d8b4cbaf2bedb3aaba
+ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53222481"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664227"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
 
@@ -47,7 +47,7 @@ Microsoft Exchange Enterprise CAL avec Services fournit les fonctionnalités de 
 
 - [Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services)
 
-Pour plus d’informations sur Exchange Enterprise licence d’accès avec licences services, voir Exchange faq sur les [licences.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
+Pour plus d’informations sur Exchange Enterprise licence d’accès au service de licence avec services, voir Exchange FAQ sur les [licences.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
 
 Si vous avez Exchange Enterprise licences d’accès client avec services et que vous souhaitez mettre en service EOP, suivez les instructions de l’article [Configurer votre service EOP.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Les étapes de configuration sont les mêmes que pour EOP autonome.
 
@@ -78,7 +78,7 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |Purge automatique sans heure (ZAP) pour les programmes malveillants, le courrier indésirable et les messages de hameçonnage<sup>remis 10</sup>|Non|Non|Oui|
 |Stratégies de sécurité prédéfinies|Oui|Oui|Oui|
 |Analyseur de configuration pour les stratégies de protection|Oui|Oui|Oui|
-|Liste d’locataires autoriser/bloquer|Oui|Oui|Oui|
+|Liste Autoriser/Bloquer du client|Oui|Oui|Oui|
 |Listes de blocage pour les expéditeurs de messages|Oui|Oui|Oui|
 |Autoriser les listes pour les expéditeurs de messages|Oui|Oui|Oui|
 |Blocage du bord|Oui|Oui|Oui|
@@ -97,7 +97,7 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |**Analyse**||||
 |Message trace|Oui|Oui|Oui|
 |Rapports de sécurité et de courrier électronique dans le Centre d’administration Microsoft 365|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
-|Rapports de sécurité dans le centre de Microsoft 365 de sécurité|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
+|Rapports de sécurité dans le centre Microsoft 365 de sécurité|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
 |Rapports de courrier électronique dans le EAC|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
 |Journalisation d’audit<sup>de l’administrateur 5</sup>|Oui|Oui|Oui|
 |**Utilisateurs**||||
@@ -112,7 +112,7 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |Centre d’administration Exchange|Oui|Oui|Oui|
 |Centre de sécurité Microsoft 365|Oui|Oui|Oui|
 |PowerShell autonome Exchange Online Protection autonome|Oui|Non|Non|
-|Exchange Online PowerShell|Non|Oui|Oui|
+|Exchange Online PowerShell|Non|Oui|Oui|
 
 <sup>1 Vous</sup> créez, supprimez et modifiez des utilisateurs de messagerie et des contacts de messagerie dans le EAC. <br/>
 <sup>1a Vous créez</sup> et supprimez des boîtes aux lettres dans le Centre d’administration Microsoft 365. Vous pouvez modifier des boîtes aux lettres existantes dans le EAC. <br/>
@@ -131,7 +131,7 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 <sup>9</sup> Vous pouvez acheter Azure Information Protection en tant qu’abonnement de module complémentaire et utiliser OME si vous configurez votre environnement de messagerie local pour router le courrier électronique vers et depuis Internet via EOP. <br/>
 <sup>10 Cette</sup> fonctionnalité nécessite l’Exchange Online boîtes aux lettres. <br/>
 
-## <a name="learn-more"></a>En savoir plus
+## <a name="learn-more"></a>Si vous souhaitez en savoir plus
 
 Pour plus d’informations Exchange Online Protection, consultez les ressources suivantes :
 

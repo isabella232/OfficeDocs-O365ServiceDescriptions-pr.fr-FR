@@ -1,5 +1,5 @@
 ---
-title: Description du service Skype Entreprise Online
+title: Description du service Skype Entreprise Online
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Découvrez les fonctionnalités Skype Entreprise Online disponibles dans les différents plans Microsoft 365 et Office 365 en ligne.
-ms.openlocfilehash: 385bca5d7f8a3a138b4047a82e648b887de02821
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: a340fb2eb2cc1bf82d5d572120f2b7b52d030552779652ae34c90a49b350dd1e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653576"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702443"
 ---
-# <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
+# <a name="skype-for-business-online-service-description"></a>Description du service Skype Entreprise Online
 
 > [!NOTE]
 > Microsoft Teams est désormais le client principal pour la messagerie, les réunions et les appels Office 365. À compter du 1er octobre 2018, les nouveaux clients avec 500 sièges ou moins seront intégrés à Microsoft Teams et n’auront pas accès à Skype Entreprise Online. Depuis le 1er septembre 2019, cela s’applique à tous les nouveaux clients. Les clients qui utilisent déjà Skype Entreprise Online peuvent continuer à le faire (y compris la mise en service de nouveaux utilisateurs) jusqu’à ce qu’ils terminent leur transition vers Microsoft Teams.
@@ -41,11 +41,11 @@ Pour plus d'informations sur les nouvelles fonctionnalités de Skype Entreprise 
   
 ## <a name="compare-skype-for-business-online-features"></a>Comparer les fonctionnalités Skype Entreprise Online 
 
-Nous vous recommandons d'utiliser notre page comparative pour choisir facilement votre version de Skype Entreprise Online. Consultez [Rechercher les Microsoft Teams pour votre entreprise.](https://go.microsoft.com/fwlink/?linkid=798291) Si vous souhaitez une comparaison plus approfondie, consultez les tableaux de fonctionnalité ci-dessous. Si vous avez besoin d'aide supplémentaire, appelez le [support technique](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support). Vous pouvez sélectionner vos paramètres régionaux à partir de la liste déroulante pour obtenir un numéro local.
+Nous vous recommandons d'utiliser notre page comparative pour choisir facilement votre version de Skype Entreprise Online. Voir [Rechercher les Microsoft Teams pour votre entreprise.](https://go.microsoft.com/fwlink/?linkid=798291) Si vous souhaitez une comparaison plus approfondie, consultez les tableaux de fonctionnalité ci-dessous. Si vous avez besoin d'aide supplémentaire, appelez le [support technique](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support). Vous pouvez sélectionner vos paramètres régionaux à partir de la liste déroulante pour obtenir un numéro local.
   
 Pour obtenir des informations détaillées sur les abonnements qui permettent aux utilisateurs d’Skype Entreprise Online, consultez le tableau de comparaison [complet des abonnements.](https://go.microsoft.com/fwlink/?linkid=2139145) Pour une comparaison plus détaillée, voir [Microsoft 365 options de plan.](../office-365-platform-service-description/office-365-plan-options.md)
   
- Pour comparer des fonctionnalités individuelles Skype Entreprise clients de bureau et web, consultez la comparaison des fonctionnalités client de bureau pour [Skype Entreprise Server 2015.](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison) Pour obtenir une comparaison détaillée des clients Skype Entreprise mobiles mobiles, consultez la comparaison des fonctionnalités de [client mobile pour Skype Entreprise](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)
+ Pour comparer des fonctionnalités individuelles Skype Entreprise clients de bureau et web, consultez la comparaison des fonctionnalités client de bureau pour [Skype Entreprise Server 2015.](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison) Pour obtenir une comparaison détaillée des clients Skype Entreprise mobiles mobiles, consultez la comparaison des fonctionnalités du [client mobile pour Skype Entreprise](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison)
   
 Pour une comparaison plus détaillée, consultez le tableau suivant.<br><br>
   
@@ -166,7 +166,7 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.<br><br>
 |Interopérabilité de la présence avec les Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Online  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
-|Outlook l’interopérabilité sur le web  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|interopérabilité Outlook sur le web’équipe  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Interopérabilité de l'archivage avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |Interopérabilité de l'archivage avec Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Recherche de compétences avec SharePoint Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |Non  <br/> |
@@ -176,7 +176,7 @@ Pour une comparaison plus détaillée, consultez le tableau suivant.<br><br>
 |Centre d’administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Centre d'administration de Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Skype Entreprise Rapports en ligne dans Microsoft 365'administration centrale  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
+|Skype Entreprise Rapports en ligne dans Centre d’administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
    
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans qui incluent Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 E3 incluent l’application Skype Entreprise complète (Lync), qui inclut des fonctionnalités supplémentaires telles que la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, voir les tableaux de comparaison des clients de bureau [pour Lync Server 2013.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) 
 <br/> <sup>2</sup> L'archivage pour Skype Entreprise Online dépend de la fonctionnalité de conservation inaltérable d'Exchange, qui n'est pas incluse dans ce plan. 
@@ -253,7 +253,7 @@ Le tableau suivant indique la disponibilité des fonctionnalités Skype Entrepri
 |Planifier Skype Entreprise réunions dans Outlook  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Planifier Skype Entreprise réunions dans Outlook pour le compte d’autres personnes (délégation)  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Planifier Skype Entreprise réunions avec web Scheduler  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
-|Planifier des réunions en ligne Outlook sur le web  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
+|Planifier des réunions en ligne dans Outlook sur le web  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Outlook pour la planification des réunions  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |
 |Création de réunions publiques avec des ID de réunion statiques à partir d'Outlook  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |**[Sécurité et archivage](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype Entreprise Server 2015** <br/> |**Skype Entreprise Online Plan autonome 1** <br/> |**Skype Entreprise Online Plan autonome 2** <br/> |
@@ -270,7 +270,7 @@ Le tableau suivant indique la disponibilité des fonctionnalités Skype Entrepri
 |Interopérabilité de la présence avec les Exchange Online  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Interopérabilité de la messagerie unifiée avec Exchange Online  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
-|Outlook l’interopérabilité sur le web  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |
+|interopérabilité Outlook sur le web’équipe  <br/> |Oui  <br/> |Oui<sup>5</sup> <br/> |Oui  <br/> |
 |Interopérabilité de l'archivage avec Exchange Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
 |Interopérabilité de l'archivage avec Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Recherche de compétences avec SharePoint Server  <br/> |Oui  <br/> |Non  <br/> |Non  <br/> |
@@ -280,9 +280,9 @@ Le tableau suivant indique la disponibilité des fonctionnalités Skype Entrepri
 |Centre d’administration Microsoft 365  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
 |Centre d'administration de Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Skype Entreprise Rapports en ligne dans Microsoft 365'administration centrale  <br/> |Non  <br/> |Non<sup>4</sup> <br/> |Non<sup>4</sup> <br/> |
+|Skype Entreprise Rapports en ligne dans Centre d’administration Microsoft 365  <br/> |Non  <br/> |Non<sup>4</sup> <br/> |Non<sup>4</sup> <br/> |
    
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans qui incluent Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 E3 incluent l’application Skype Entreprise complète (Lync), qui incluent des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, les fonctionnalités de conformité de &amp; l’archivage. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, voir les tableaux de comparaison des clients de bureau [pour Lync Server 2013.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans qui incluent Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 E3 incluent l’application Skype Entreprise (Lync), qui incluent des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, les fonctionnalités de conformité de &amp; l’archivage. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, voir les tableaux de comparaison des clients de bureau [pour Lync Server 2013.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2 Un</sup> utilisateur Skype Entreprise Online Plan 1 peut participer à une session de partage si l’utilisateur est invité par un utilisateur Skype Entreprise Online Plan 2. 
 <br/> <sup>3</sup> Archiving for Skype for Business Online depends on the Exchange In-Place Hold feature, which is not included in this plan. 
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2. 

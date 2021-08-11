@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online fonctionne avec les versions de bureau et mobiles de Outlook, ainsi que Outlook sur le web.
-ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Exchange Online fonctionne avec les versions de bureau et mobiles de Outlook, ainsi que les Outlook sur le web.
+ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653116"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664047"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients et appareils mobiles
 
@@ -41,7 +41,7 @@ Microsoft 365 est conçu pour fonctionner avec les navigateurs et les versions l
 - Microsoft ne fournira pas de mises à jour logicielles pour résoudre les problèmes non liés à la sécurité.
 
 > [!IMPORTANT]
-> Outlook n'est pas fourni dans le cadre du prix d'abonnement Exchange Online. Applications Microsoft 365 pour les grandes entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté séparément. Vous verrez les limitations suivantes si vous utilisez le protocole POP pour vous connecter à un compte de messagerie Exchange Online :
+> Outlook n'est pas fourni dans le cadre du prix d'abonnement Exchange Online. Applications Microsoft 365 pour les grandes entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté en tant qu’abonnement distinct. Vous verrez les limitations suivantes si vous utilisez le protocole POP pour vous connecter à un compte de messagerie Exchange Online :
 > - Aucune information de calendrier
 >- Aucune informations sur la disponibilité
 >- Aucune liste d’adresses globale
@@ -54,9 +54,9 @@ Outlook sur le web est une version du programme de messagerie électronique Outl
   
 Outlook sur le web est proposé sous deux versions client, pouvant toutes les deux être utilisées avec Exchange Online :
   
-- **Outlook sur le web** : la version standard de Outlook sur le web offre aux utilisateurs Exchange Online une expérience de messagerie plus similaire à celle des utilisateurs Outlook web. Il prend en charge la plupart des navigateurs web les plus récents et est optimisé pour une utilisation sur les tablettes et les smartphones, ainsi que sur les ordinateurs de bureau et les ordinateurs portables. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’accès basé sur l’activité par défaut est de six heures, mais il peut être configuré par un administrateur en [Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès à la sécurité distinct, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
+- **Outlook sur le web** - La version standard de Outlook sur le web offre aux utilisateurs Exchange Online une expérience de messagerie très similaire à celle des Outlook utilisateurs. Il prend en charge la plupart des navigateurs web plus récents et est optimisé pour une utilisation sur les tablettes et les smartphones, ainsi que sur les ordinateurs de bureau et les ordinateurs portables. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’accès basé sur l’activité par défaut est de six heures, mais il peut être configuré par un administrateur en [Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès à la sécurité distinct, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
 
-- **Version** légère de Outlook sur le web : la version légère de Outlook sur le web permet aux utilisateurs Exchange Online d’accéder à la boîte aux lettres à l’aide de presque n’importe quel navigateur web. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’accès basé sur l’activité par défaut est de six heures, mais il peut être configuré par un administrateur en [Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès à la sécurité distinct, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, la version light de OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
+- **La version légère de Outlook sur le web** - La version light de Outlook sur le web permet aux utilisateurs Exchange Online d’accéder à la boîte aux lettres à l’aide de presque n’importe quel navigateur web. Les utilisateurs peuvent lire et envoyer des messages, organiser des contacts et planifier des rendez-vous et des réunions. Le délai d’accès basé sur l’activité par défaut est de six heures, mais il peut être configuré par un administrateur en [Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 à 8 heures. Ce délai dépend des interactions de l’utilisateur au sein de l’application web, telles que la sélection d’un bouton ou la sélection d’un message. Il existe également un délai d’accès à la sécurité distinct, qui n’est pas configurable et se produit quelle que soit l’activité de l’utilisateur. Si un utilisateur est connecté pendant 8 heures, la version light de OWA déconnecte automatiquement l’utilisateur et demande une nouvelle authentification. 
 
 Outlook sur le web est également disponible en versions mobiles. Pour plus d'informations, voir [cette page](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
@@ -78,7 +78,7 @@ Il existe également des options d’utilisation Exchange Online appareils, nota
   
 ### <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Outlook offre aux utilisateurs l’expérience de courrier électronique et de calendrier rapide et intuitive qu’ils attendent d’une application mobile moderne, tout en étant la seule application à prendre en charge les meilleures fonctionnalités. Il s’agit de la seule application de messagerie spécialement conçue pour prendre en charge l’expérience Microsoft complète, offrant aux utilisateurs une expérience cohérente du bureau à l’appareil mobile. Outlook est intégré à Intune, à la mobilité et à la sécurité d’entreprise, et Exchange contrôles pour préserver la sécurité des données et des utilisateurs.
+Outlook offre aux utilisateurs l’expérience de courrier électronique et de calendrier rapide et intuitive qu’ils attendent d’une application mobile moderne, tout en étant la seule application à prendre en charge les meilleures fonctionnalités. Il s’agit de la seule application de messagerie spécialement conçue pour prendre en charge l’expérience Microsoft complète, offrant aux utilisateurs une expérience cohérente du bureau à l’appareil mobile. Outlook est intégré à Intune, à la mobilité et à la sécurité d’entreprise et aux contrôles Exchange pour préserver la sécurité des données et des utilisateurs.
   
 Avec Outlook, les utilisateurs peuvent :
   
@@ -92,7 +92,7 @@ Avec Outlook pour iOS, Outlook pour Android ou Outlook pour Windows Phone, les u
 
 - Personnaliser les mouvements de balayage pour qu’ils correspondent à leurs habitudes de messagerie uniques
 
-- Créer des itinéraires de voyage qui peuvent être ajoutés directement au calendrier, avec les informations clés disponibles en un coup d’œil
+- Créer des itinéraires de voyage qui peuvent être ajoutés directement au calendrier, avec des informations clés disponibles en un coup d’œil
 
 - RSVP aux réunions à partir de la boîte de réception.
 

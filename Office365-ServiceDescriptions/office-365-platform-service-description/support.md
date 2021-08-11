@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: À chaque Microsoft Office 365 pour les entreprises, les entreprises, l’éducation et le secteur public, le support Microsoft fournit une assistance technique globale, avant-vente, facturation et abonnement. Le support est disponible à la fois en ligne via Microsoft 365 centre d’administration et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir Options de support Microsoft.
-ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+description: À chaque Microsoft Office 365 pour les entreprises, les entreprises, l’éducation et le secteur public, le support Microsoft fournit une assistance technique globale, avant-vente, facturation et abonnement. Le support est disponible à la fois en ligne par Centre d’administration Microsoft 365 et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir Options de support Microsoft.
+ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721198"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701653"
 ---
 # <a name="support"></a>Support
 
-Avec chaque abonnement Microsoft 365 et Office 365 entreprise, éducation et secteur public, le support Microsoft fournit un support technique, avant-vente, facturation et abonnement global. Le support est disponible à la fois en ligne via Microsoft 365 centre d’administration et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir [Options de support Microsoft.](/Office365/Admin/contact-support-for-business-products)
+Avec chaque abonnement Microsoft 365 et Office 365 entreprise, éducation et secteur public, le support Microsoft fournit un support technique, avant-vente, facturation et abonnement global. Le support est disponible à la fois en ligne par Centre d’administration Microsoft 365 et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir [Options de support Microsoft.](/Office365/Admin/contact-support-for-business-products)
 
-Les administrateurs autorisés peuvent utiliser le Centre d’administration Microsoft 365 pour envoyer des demandes de service en ligne, accéder aux numéros de téléphone du support et afficher toutes les demandes de service ouvertes et récemment fermées. Les demandes de service envoyées dans le Centre d’administration peuvent être rouvertes jusqu’à 14 jours après la fermeture de la demande. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
+Les administrateurs autorisés peuvent utiliser l’Centre d’administration Microsoft 365 pour envoyer des demandes de service en ligne, accéder aux numéros de téléphone du support et afficher toutes les demandes de service ouvertes et récemment fermées. Les demandes de service envoyées dans le Centre d’administration peuvent être rouvertes pendant 14 jours après la fermeture de la demande. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
   
-L Microsoft 365'équipe de support technique ne dépannera que les problèmes liés Microsoft 365 et Office 365. Les problèmes qui proviennent des réseaux des clients sont en dehors des limites du support, et dans ce cas, les clients doivent travailler avec leur équipe réseau ou impliquer l’équipe [réseau Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) pour obtenir de l’aide.
+L Microsoft 365'équipe de support technique ne dépannera que les problèmes liés Microsoft 365 et Office 365. Les problèmes qui proviennent des réseaux des clients sont en dehors des limites du support et, dans ce cas, les clients doivent travailler avec leur équipe de mise en réseau ou impliquer l’équipe [réseau Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) pour obtenir de l’aide.
   
 ## <a name="community-and-self-service-support-options"></a>Communauté et options d’assistance en libre service
 
@@ -35,13 +35,13 @@ La prise en charge en libre-service est disponible pour tous les plans et inclut
   
 ## <a name="pre-sales-support"></a>Assistance avant-vente
 
-Le support avant-vente fournit une assistance sur les fonctionnalités et avantages de l’abonnement, les comparaisons de plans, les tarifs et les licences, et permet d’identifier la solution appropriée pour répondre aux besoins de votre entreprise. En outre, l'assistance avant-vente peut vous aider à trouver un partenaire, ainsi qu'à acheter un essai et à vous y inscrire. Vous pouvez appeler durant les heures ouvrables de votre pays/région, du lundi au vendredi. L'assistance avant-vente est accessible au même numéro de téléphone que l'assistance technique. Le numéro de téléphone du support technique se trouve dans le centre d’administration de l’essai gratuit. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
+Le support avant-vente fournit une assistance sur les avantages et fonctionnalités d’abonnement, les comparaisons de plans, les tarifs et les licences, et permet d’identifier la solution appropriée pour répondre aux besoins de votre entreprise. En outre, l'assistance avant-vente peut vous aider à trouver un partenaire, ainsi qu'à acheter un essai et à vous y inscrire. Vous pouvez appeler durant les heures ouvrables de votre pays/région, du lundi au vendredi. L'assistance avant-vente est accessible au même numéro de téléphone que l'assistance technique. Le numéro de téléphone du support technique se trouve dans le centre d’administration de l’essai gratuit. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
   
 ## <a name="billing-and-subscription-management-support"></a>Assistance de gestion de facturation et d’abonnement
 
 L’assistance fournie pour des problèmes de gestion de facturation et d’abonnement est disponible en ligne ou par téléphone aux heures ouvrables, du lundi au vendredi. L'assistance de gestion de facturation et d'abonnement est accessible via le même numéro de téléphone et processus de demande de service en ligne que l'assistance technique. Le numéro de téléphone du support technique se trouve dans le Centre d’administration. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
   
-Voici quelques exemples de problèmes de gestion de facturation et d’abonnement :
+Voici quelques exemples de problèmes de gestion de facturation et d’abonnement :
   
 - S’inscrire pour un essai ou acheter un abonnement
 
@@ -62,12 +62,12 @@ Le support technique pour Microsoft 365 abonnements fournit une assistance avec 
 | Catégorie d’assistance | Exemples |
 |:-----|:-----|
 |Installation et configuration  <br/> | Exchange Online:  <br/>  Migration des boîtes aux lettres  <br/>  Configuration du destinataire (autorisations de boîte aux lettres, configuration de transfert de messages, configuration de boîte aux lettres partagée)  <br/>  Configuration de la découverte automatique  <br/>  SharePoint Online:  <br/>  Groupes d'utilisateurs et autorisations  <br/>  Configuration des invités  <br/>  Skype Entreprise Online:  <br/>  Installation et création de contacts  <br/>  Applications Microsoft 365 pour les grandes entreprises : assistance à l’installation et à la configuration  <br/> |
-|Configuration  <br/> | Problèmes d'échec de configuration de service  <br/>  Problèmes de mise en service  <br/>  Configuration et redélégation de domaine  <br/>  Problèmes de configuration de service  <br/>  Authentification unique (SSO)  <br/>  Synchronisation Active Directory  <br/> |
+|Configuration  <br/> | Problèmes d'échec de configuration de service  <br/>  Problèmes de mise en service  <br/>  Configuration et redélégation de domaine  <br/>  Problèmes de configuration de service  <br/>  Authentification unique (SSO)  <br/>  Synchronisation Active Directory  <br/> |
 
 > [!NOTE]
 > Vous pouvez apprendre à contacter le support technique ici : [Contactez Microsoft 365 support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
 >
-> Le support technique n’inclut pas le dépannage des services ou des modules de prise en charge tiers. Découvrez comment trouver des réponses d’autres clients dans [microsoft Community](https://answers.microsoft.com).
+> Le support technique n’inclut pas la résolution des problèmes de services ou de modules de prise en charge tiers. Découvrez comment trouver des réponses d’autres clients dans [microsoft Community](https://answers.microsoft.com).
   
 ### <a name="technical-support-case-handling"></a>Gestion des incidents d’assistance technique
 
@@ -75,9 +75,9 @@ Microsoft affecte un niveau de gravité à un incident lorsqu’il est ouvert en
   
 | Niveau de gravité | Description d’opérations et d’assistance | Exemples |
 |:-----|:-----|:-----|
-|Niveau de gravité A (Critique)  <br/> |Un ou plusieurs services ne sont pas accessibles ou sont inutilisables. Les délais de production, d'opérations ou de déploiement sont gravement affectés, ou bien la production ou la rentabilité risque d'être gravement affectée. Plusieurs utilisateurs ou services sont affectés.  <br/> | Problèmes les plus répandus d’envoi ou de réception de messages.  <br/>  Site SharePoint en panne.  <br/>  Tous les utilisateurs ne peuvent pas envoyer de messages instantanés, rejoindre ou planifier des réunions Skype Entreprise, ou passer des appels Skype Entreprise.  <br/> |
-|Niveau de gravité B (Haute)  <br/> |Le service est utilisable mais pas de manière optimale. La situation a un impact modéré sur l’activité et peut être traitée aux heures ouvrables. Un seul utilisateur, client ou service est partiellement affecté.  <br/> | Le bouton Envoyer dans Outlook est tronqué.  <br/>  Le paramétrage est impossible dans le CAE (centre d'administration Exchange), mais il est possible dans PowerShell.  <br/> |
-|Niveau de gravité C (Non critique)  <br/> |La situation a un impact minime sur l’activité. Le problème est important mais n’a pas d’impact considérable sur la productivité ou le service actuel pour le client. Un seul utilisateur connaît une interruption partielle mais il existe une solution acceptable.  <br/> | Comment définir un mot de passe d’utilisateur qui n’expire jamais.  <br/>  L'utilisateur ne peut pas supprimer les informations de contact dans Exchange Online.  <br/> |
+|Niveau de gravité A (Critique)  <br/> |Un ou plusieurs services ne sont pas accessibles ou sont inutilisables. Les délais de production, d'opérations ou de déploiement sont gravement affectés, ou bien la production ou la rentabilité risque d'être gravement affectée. Plusieurs utilisateurs ou services sont affectés.  <br/> | Problèmes les plus répandus d’envoi ou de réception de messages.  <br/>  Site SharePoint en panne.  <br/>  Tous les utilisateurs ne peuvent pas envoyer de messages instantanés, rejoindre ou planifier des réunions Skype Entreprise, ou passer des appels Skype Entreprise.  <br/> |
+|Niveau de gravité B (Haute)  <br/> |Le service est utilisable mais pas de manière optimale. La situation a un impact modéré sur l’activité et peut être traitée aux heures ouvrables. Un seul utilisateur, client ou service est partiellement affecté.  <br/> | Le bouton Envoyer dans Outlook est tronqué.  <br/>  Le paramétrage est impossible dans le CAE (centre d'administration Exchange), mais il est possible dans PowerShell.  <br/> |
+|Niveau de gravité C (Non critique)  <br/> |La situation a un impact minime sur l’activité. Le problème est important mais n’a pas d’impact considérable sur la productivité ou le service actuel pour le client. Un seul utilisateur connaît une interruption partielle mais il existe une solution acceptable.  <br/> | Comment définir un mot de passe d’utilisateur qui n’expire jamais.  <br/>  L'utilisateur ne peut pas supprimer les informations de contact dans Exchange Online.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>Délais de réponse initiaux d’assistance technique
 
@@ -93,11 +93,11 @@ Le temps de réponse initial est basé sur les niveaux de gravité décrits ci-d
 > <sup>1 Les</sup> plans d’entreprise incluent la prise en charge des heures d’ouverture pour tous les problèmes non critiques et le support téléphonique 24 h/24 et 7 j/7 de Microsoft.<br/>
 > <sup>2 Enterprise</sup> incluent le support téléphonique 24h/24 et 7 j/7 de Microsoft pour tous les problèmes.<br/>
 > <sup>3 Pour</sup> obtenir des descriptions des options de prise en charge élevées, voir [Options de support supplémentaires.](support.md#additional-support-options)<br/>
-> <sup>4 Les appels</sup> et les demandes de service sont traités 24 heures sur 24, 7 jours sur 7 dans la plupart des pays et régions.
+> <sup>4 Les</sup> appels et les demandes de service sont traités 24 heures sur 24, 7 jours sur 7 dans la plupart des pays et régions.
   
 ### <a name="support-for-standalone-plans"></a>Assistance pour les plans autonomes
 
-La prise en charge des plans autonomes payants est gérée avec le même niveau d’objectif de support et de temps de réponse que les plans de la famille Enterprise service. Pour obtenir la liste des plans autonomes, voir [Standalone services](office-365-plan-options.md#standalone-services).
+La prise en charge des plans autonomes payants est gérée avec le même niveau d’objectif de support et de temps de réponse que les plans de la famille de services Enterprise client. Pour obtenir la liste des plans autonomes, voir [Standalone services](office-365-plan-options.md#standalone-services).
   
 ### <a name="technical-support-languages"></a>Langues d’assistance technique
 
@@ -113,7 +113,7 @@ Les personnes ayant des rôles d’administrateur Microsoft sont les seules au s
   
 Avec Office 365 pour entreprise et Microsoft 365 Apps plan, vous pouvez désigner plusieurs types d’administrateurs qui ont des fonctions différentes. Cette description de service utilise le titre générique d'administrateur pour désigner toutes les catégories d'administrateurs. Pour plus d'informations sur les types de rôles d'administrateur, consultez [Affectation de rôles d'administrateur](/office365/admin/add-users/assign-admin-roles).
   
-L’administrateur est :
+L’administrateur est :
   
 - Responsable de la maintenance des comptes et de l’administration des services.
 
@@ -121,7 +121,7 @@ L’administrateur est :
 
 - Autorisé à soumettre des demandes de services à Microsoft.
 
-Le rôle de l’administrateur consiste à :
+Le rôle de l’administrateur consiste à :
   
 - Assurer la définition et la configuration des comptes d’utilisateurs pour permettre à ces derniers d’accéder aux services.
 
@@ -181,7 +181,7 @@ Vous pouvez sélectionner un partenaire Microsoft et déléguer des fonctions ad
   
 ### <a name="developers"></a>Développeurs
 
-Les développeurs peuvent en savoir plus sur le développement Office applications SharePoint sur [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs). Le support pour les développeurs est disponible via les blogs et forums en ligne de la communauté des développeurs, via les ressources de support Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers les options du support technique pour les développeurs, voir [Ressources de support.](https://developer.microsoft.com/office/docs)
+Les développeurs peuvent en savoir plus sur le Office des applications SharePoint sur [MSDN Microsoft Developer Network.](https://developer.microsoft.com/office/docs) Le support pour les développeurs est disponible via les blogs et forums en ligne de la communauté des développeurs, via les ressources de support Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers les options du support technique pour les développeurs, voir [Ressources de support.](https://developer.microsoft.com/office/docs)
   
 > [!NOTE]
 > L’équipe Microsoft ne prend pas en charge les scripts (par exemple, les techniques de script telles que JavaScript, VBScript, et ainsi de suite, ou VBA). Si vous avez besoin d'aide avec des scripts, contactez l'[assistance Microsoft](https://support.microsoft.com/). Pour obtenir Office prise en charge de l’utilisation des applications, consultez les options de support [pour Microsoft Office problèmes d’application pour les abonnés.](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)

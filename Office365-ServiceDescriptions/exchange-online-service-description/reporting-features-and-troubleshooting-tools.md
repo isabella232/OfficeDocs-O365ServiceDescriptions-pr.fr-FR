@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online offre une variété de fonctionnalités de rapport à la fois dans le Centre d’administration Exchange (EAC) et en dehors de celui-ci.
-ms.openlocfilehash: fa80cd6c7d8e9e5f0527c478474cffe17e9204af
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fb6af583f9bb51954b57a92d907ab19a935f5f3c6ab9be196f7ca56240189571
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652688"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663657"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Fonctions de rapport et outils de dépannage
 
@@ -27,17 +27,17 @@ Microsoft Exchange Online offre une variété de fonctionnalités de rapport à 
 
 Exchange Online clients peuvent accéder aux rapports dans le Centre d’administration Microsoft 365, en téléchargeant un Excel de rapports ou à l’aide de services web.
   
-### <a name="reporting-in-the-microsoft-365-admin-center"></a>Rapports dans le Centre d’administration Microsoft 365 de gestion des rapports
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Rapports dans le Centre d’administration Microsoft 365
 
-La page Rapports du Centre d’administration Microsoft 365 fournit des informations récapitulatifs sur les boîtes aux lettres et les groupes. Par exemple, un rapport répertorie le nombre de groupes créés et supprimés par jour, semaine, mois ou an. Des rapports de synthèse sont aussi fournis pour les boîtes aux lettres nouvelles et supprimées, ainsi que pour les boîtes aux lettres actives et inactives. 
+La page Rapports de la Centre d’administration Microsoft 365 fournit des informations récapitulatifs sur les boîtes aux lettres et les groupes. Par exemple, un rapport répertorie le nombre de groupes créés et supprimés par jour, semaine, mois ou an. Des rapports de synthèse sont aussi fournis pour les boîtes aux lettres nouvelles et supprimées, ainsi que pour les boîtes aux lettres actives et inactives. 
   
-En outre, la page Rapports du Centre d’administration Microsoft 365 contient des rapports de données de messagerie, qui fournissent des informations sur le trafic des messages, les détections de courrier indésirable et de programmes malveillants, ainsi que les messages affectés par les règles de transport Exchange ou les stratégies de protection contre la perte de données (DLP). Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une utilisation interactive des rapports aux administrateurs Exchange Online. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
+En outre, la page Rapports du Centre d’administration Microsoft 365 contient des rapports de données de messagerie, qui fournissent des informations sur le trafic de messages, les détections de courrier indésirable et de programmes malveillants, ainsi que les messages affectés par les règles de transport Exchange ou les stratégies de protection contre la perte de données (DLP). Les rapports améliorés pour la protection, les règles et la prévention des pertes de données (DLP) offrent une utilisation interactive des rapports aux administrateurs Exchange Online. Ils fournissent des données de synthèse à partir desquelles vous pouvez accéder aux détails concernant des messages individuels.
   
 Pour plus d’informations sur les rapports disponibles avec chaque abonnement, voir [Rapports.](../office-365-platform-service-description/reports.md) Pour plus d’informations sur la page Rapports dans le Centre d’administration Microsoft 365, voir Afficher et télécharger des rapports sur l’utilisation des services dans [Office 365](/microsoft-365/admin/activity-reports/activity-reports) et utiliser les rapports de protection de messagerie pour afficher les données sur les programmes [malveillants,](/exchange/monitoring/use-mail-protection-reports)le courrier indésirable et les détections de règles.
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Rapports utilisant le classeur de rapports Excel
 
-Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d’utiliser les rapports Microsoft 365 centre d’administration à la place. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez cette [page de téléchargement](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
+Vous pouvez également utiliser le classeur de rapports Excel 2013 pour afficher des rapports de synthèse avec des fonctionnalités de défilement. Toutefois, nous vous recommandons d’utiliser les rapports Centre d’administration Microsoft 365 améliorés à la place. Le classeur de rapports Excel 2013 sera obsolète à l'avenir. Pour plus d'informations de présentation et des liens permettant de télécharger et d'installer le classeur, consultez cette [page de téléchargement](https://go.microsoft.com/fwlink/p/?LinkId=271776). Pour plus d'informations sur l'utilisation du classeur, consultez la rubrique relative aux [rapports de protection de messagerie utilisant le classeur de rapports Excel](/previous-versions/exchange-server/exchange-150/jj945734(v=exchg.150)). 
   
 ### <a name="reporting-using-web-services"></a>Création de rapports à l’aide de services web
 

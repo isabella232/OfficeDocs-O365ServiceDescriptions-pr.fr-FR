@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Découvrez la disponibilité SharePoint fonctionnalités pour les clients cloud du gouvernement des États-Unis.
-ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900774"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701823"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint pour les environnements pour le gouvernement américain
 
@@ -39,7 +39,7 @@ Notre objectif est de fournir toutes les fonctionnalités commerciales SharePoin
 Il n’existe aucune différence connue entre les fonctionnalités de développement pour les clients commerciaux et celles des clients cloud du secteur privé.
 
 - Les connexions à des applications externes telles que des sources de données pour les applications sont limitées aux sources situées dans les limites de sécurité système pris en charge par votre environnement public.
-- Business Connectivity Services (BCS) est prise en charge pour les scénarios de connectivité dans lesquels les sources de données restent accessibles à l’intérieur des limites de sécurité de votre service cloud.
+- Services Business Connectivity (BCS) est prise en charge pour les scénarios de connectivité dans lesquels les sources de données restent accessibles à l’intérieur des limites de sécurité de votre service cloud.
 
 Si vous utilisez des applications tierces sur des sites, examinez les déclarations de confidentialité et de conformité fournies par les tiers lors de l’évaluation de l’utilisation appropriée de ces services pour votre organisation. Les applications et services tiers peuvent impliquer le stockage, la transmission et le traitement des données client de votre organisation sur des systèmes tiers qui sont en dehors du cloud du gouvernement et qui, par conséquent, ne sont pas couverts par ses engagements en matière de conformité et de protection des données. 
 
@@ -53,7 +53,7 @@ Voici les différences entre les fonctionnalités d’administration informatiqu
 - Mover.io n’est pas encore pris en charge
 - Multi-géo n’est pas disponible pour tous les clients cloud du gouvernement
 
-Pour plus d’informations sur la migration FastTrack, voir la description [Office 365 service pour le gouvernement américain.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
+Pour plus d’informations FastTrack migration, voir la [description Office 365 service pour le gouvernement américain.](./office-365-us-government.md#data-migrations-performed-by-fasttrack)
 
 ## <a name="security-and-compliance-features"></a>Fonctionnalités de sécurité et de conformité
 
@@ -89,10 +89,10 @@ Pour plus d’informations sur les différences de fonctionnalités entre le clo
 
 ## <a name="plan-for-governance"></a>Planifier la gouvernance
 
-Votre passage au cloud offre des expériences transformatives avec des contrôles d’administration intégrés. Déterminez vos besoins en matière de gouvernance et la façon dont vous pouvez les respecter. Pour plus [d’informations,](https://resources.techcommunity.microsoft.com/teamwork-governance/) voir Planifier la gouvernance afin de transformer le travail Microsoft 365 travail en équipe. Vous trouverez des conseils sur Office 365 groupes, SharePoint, Teams et bien plus encore.
+Votre passage au cloud offre des expériences transformatives avec des contrôles d’administration intégrés. Déterminez vos besoins en matière de gouvernance et la façon dont vous pouvez les respecter. Pour plus [d’informations,](https://resources.techcommunity.microsoft.com/teamwork-governance/) voir Planifier la gouvernance pour transformer le travail Microsoft 365 travail en équipe. Vous trouverez des conseils sur Office 365 groupes, SharePoint, Teams et bien plus encore.
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>Déployer des SharePoint pour la collaboration
 
-Après avoir installé votre organisation dans le cloud microsoft pour le gouvernement des États-Unis, suivez le chemin d’accès de déploiement recommandé décrit dans le centre de ressources [SharePoint’adoption.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) N’oubliez pas de vous engager avec vos champions de l’adoption et de la gestion des changements.
+Après avoir installé votre organisation dans le cloud microsoft pour le gouvernement des États-Unis, suivez le chemin d’accès de déploiement recommandé décrit dans le centre de ressources [SharePoint’adoption de microsoft.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) N’oubliez pas de vous engager avec vos champions de l’adoption et de la gestion des changements.
 Vous pouvez également travailler avec [FastTrack](https://www.microsoft.com/fasttrack) ou votre partenaire choisi pour déployer le service auprès de vos utilisateurs.
 Visitez le [Centre de](https://www.microsoft.com/trust-center) confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, principes fondamentaux pour la façon dont nous donnent aux organisations la possibilité de servir leurs clients.

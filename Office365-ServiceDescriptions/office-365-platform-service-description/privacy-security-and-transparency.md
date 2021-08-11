@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652528"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701833"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -52,9 +52,9 @@ En tant qu’administrateur Microsoft, vous pouvez utiliser Customer Lockbox pou
   
 Le référentiel sécurisé du client est inclus dans le plan Office 365 Entreprise 5, mais vous pouvez aussi acheter un abonnement distinct avec tout autre plan Office 365 Entreprise. Pour plus d'informations, voir [Demandes Customer Lockbox dans Office 365](/microsoft-365/compliance/customer-lockbox-requests).
   
-## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pour Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pour Office 365
 
-Defender for Office 365 permet de protéger votre organisation contre les programmes malveillants et les virus. Defender for Office 365 inclut [des](/office365/securitycompliance/atp-safe-links)fonctionnalités de liens sécurisés, de pièces [jointes sécurisées,](/office365/securitycompliance/atp-safe-attachments)d’anti-hameçonnage et d’intelligence contre [l’usurpation](/office365/securitycompliance/learn-about-spoof-intelligence) d’informations. [](/office365/securitycompliance/atp-anti-phishing) La stratégie de liens sécurisés protège de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, offrant ainsi une protection chaque fois que le lien est sélectionné. La protection contre les pièces jointes sécurisées protège contre les programmes malveillants et les virus inconnus, en routant tous les messages et pièces jointes qui n’ont pas de signature connue de virus/programmes malveillants vers un environnement spécial où Defender pour Office 365 peut détecter des intentions malveillantes. Pour plus d’informations sur Defender pour Office 365, voir [Microsoft Defender pour obtenir la description Office 365 service.](../office-365-advanced-threat-protection-service-description.md)
+Defender for Office 365 permet de protéger votre organisation contre les programmes malveillants et les virus. Defender for Office 365 inclut [Coffre liens,](/office365/securitycompliance/atp-safe-links)Coffre [pièces jointes,](/office365/securitycompliance/atp-safe-attachments) [anti-hameçonnage](/office365/securitycompliance/atp-anti-phishing)et fonctionnalités d’intelligence contre l’usurpation [d’informations.](/office365/securitycompliance/learn-about-spoof-intelligence) Coffre Les liens protègent de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, en fournissant une protection chaque fois que le lien est sélectionné. Coffre Les pièces jointes sont protégées contre les programmes malveillants et les virus inconnus, en routant tous les messages et pièces jointes qui n’ont pas de signature connue de virus/programmes malveillants vers un environnement spécial où Defender pour Office 365 peut détecter des intentions malveillantes. Pour plus d’informations sur Defender pour Office 365, voir [Microsoft Defender pour obtenir Office 365 description du service.](../office-365-advanced-threat-protection-service-description.md)
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

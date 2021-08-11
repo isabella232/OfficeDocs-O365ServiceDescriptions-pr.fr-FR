@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: Découvrez la disponibilité Microsoft Exchange Online service et des fonctionnalités dans Microsoft 365 et Office 365 plan.
-ms.openlocfilehash: b24bd70ce81b68a895cf70bc04d3f8dc0bd3f332
-ms.sourcegitcommit: 2cdaef22baa43ba09300fdafa99b3918f2d8cf8f
+ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51414880"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664007"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -33,7 +33,7 @@ Aucun abonnement d'utilisateur n'est requis pour les salles de conférence et le
 
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Le tableau suivant répertorie les principales fonctionnalités Exchange Online disponibles dans les différents plans. Certaines mises en garde s’appliquent*. Ce tableau peut changer sans préavis. Pour obtenir la liste complète et la plus à jour des fonctionnalités Exchange Online’un plan à l’autre, voir [Comparer les Exchange Online.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
+Le tableau suivant répertorie les principales fonctionnalités Exchange Online disponibles dans les différents plans. Certaines mises en garde s’appliquent*. Cette table peut changer sans préavis. Pour obtenir la liste complète et la plus à jour des fonctionnalités Exchange Online’un plan à l’autre, voir [Comparer les Exchange Online.](https://www.microsoft.com/microsoft-365/exchange/compare-microsoft-exchange-online-plans)<br><br>
   
 | Fonctionnalité | Plans pour les petites entreprises | Enterprise plans | Plans d’enseignement | GCC | GCC-High | DOD | 
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -49,7 +49,7 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |[Services de messagerie vocale](voice-message-services.md)|Oui*|Oui*|Oui|Non*|Non*|Non*|
 |[Haute disponibilité et continuité de service](high-availability-and-business-continuity.md)|Oui*|Oui|Oui|Oui|Oui|Oui|
 |[Interopérabilité, connectivité et compatibilité](interoperability-connectivity-and-compatibility.md)|Oui|Oui|Oui|Oui|Oui|Oui|
-|[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)|Oui*|Oui|Oui|Oui|Oui|Oui*|
+|[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)|Oui*|Oui|Oui|Oui|Oui|Oui*|
 |Extension du service : personnalisation, les add-ins et les ressources|Oui|Oui|Oui|Oui|Oui|Oui|
 
 ## <a name="learn-more"></a>En savoir plus
@@ -62,12 +62,12 @@ Pour plus d’informations Exchange Online, consultez les ressources suivantes :
 
 ### <a name="licensing-terms"></a>Termes du contrat de licence
 
-Pour obtenir les termes et conditions de licence des produits et services achetés via les programmes de licence en volume commerciaux Microsoft, consultez le [site Termes du produit.](https://www.microsoft.com/licensing/terms/) 
+Pour connaître les conditions générales de licence pour les produits et services achetés par le biais des Programmes de Licences en Volume Commerciaux Microsoft, consultez le site [Conditions générales du produit](https://www.microsoft.com/licensing/terms/). 
 
 ### <a name="messaging"></a>Messagerie
 
-Pour rester informé des modifications à venir, y compris des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, voir [Centre de messages.](/microsoft-365/admin/manage/message-center)
+Pour rester informé des modifications à venir, notamment des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 
-Microsoft s’engage à assurer la sécurité de vos données et l’accessibilité de nos services. Pour plus d’informations, voir le [Centre de](https://www.microsoft.com/trust-center) confiance Microsoft et le [centre Office’accessibilité.](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d)
+Microsoft s’engage à garantir la sécurité de vos données et l’accessibilité de nos services. Pour plus d’informations, consultez le [Centre de gestion de la confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

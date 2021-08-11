@@ -1,5 +1,5 @@
 ---
-title: Limites de Skype Entreprise Online
+title: Limites de Skype Entreprise Online
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Cet article décrit les limites appliquées dans Skype Entreprise Online.
-ms.openlocfilehash: cd21b8b1feb3547c529c4bcdaa73832e2e48e3f8
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 5004a27a5111d963e9dfdf3308c2ed7865a4b9972a1d4752342d59ea873e456c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653366"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702473"
 ---
-# <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
+# <a name="skype-for-business-online-limits"></a>Limites de Skype Entreprise Online
 
 Les limites de Skype Entreprise Online sont les suivantes :
   
@@ -118,7 +118,7 @@ Les limites de Skype Entreprise Online sont les suivantes :
   
 | Type de réunion | Description |
 |:-----|:-----|
-|Réunion unique| La réunion sera accessible au moins 14 jours après l’heure prévue, la dernière activation de la réunion ou la dernière mise à jour de réunion, selon la date la plus récente.
+|Réunion unique| La réunion sera accessible au moins 14 jours après l’heure prévue, la dernière activation de la réunion ou la dernière mise à jour de la réunion, selon la date la plus récente.
 |Réunion périodique avec date de fin| La réunion sera accessible au moins 14 jours après l’heure de fin prévue de la dernière occurrence de la réunion, la dernière activation de la réunion ou la dernière mise à jour de la réunion, selon la date la plus récente.
 |Réunion périodique sans date de fin| La réunion sera toujours accessible, à condition qu’il y a de nouvelles réunions (activations) ou de planification de mises à jour au moins une fois par an
 |Conférence maintenant|La réunion sera accessible pendant au moins 8 heures.

@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Ces conseils sont adaptés aux professionnels de l’informatique qui déploient des Office 365 dans des entités gouvernementales fédérales, gouvernementales, locales, locales, gouvernementales ou gouvernementales américaines ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Government - Cloud de la communauté du secteur public est appropriée pour répondre à ces exigences.
-ms.openlocfilehash: d3be49d3171e07cfc11e6d6924a8b5ec2395d920
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+description: Ces conseils s’emploient aux professionnels de l’informatique qui déploient des Office 365 dans des entités gouvernementales fédérales, nationales, locales, yézyments ou gouvernementales américaines ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Government - Cloud de la communauté du secteur public est appropriée pour répondre à ces exigences.
+ms.openlocfilehash: 44dd4a10560fb5bd0d1c0f36f3290b621798d03d390573d789b99d62047bad1e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001900"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663267"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planifier la conformité Microsoft 365 des Cloud de la communauté du secteur public
 
-Ces conseils sont adaptés aux professionnels de l’informatique qui déploient des Office 365 dans des entités gouvernementales fédérales, gouvernementales, locales, locales, gouvernementales ou gouvernementales américaines ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Government - Cloud de la communauté du secteur public est appropriée pour répondre à ces exigences.
+Ces conseils s’emploient aux professionnels de l’informatique qui déploient des Office 365 dans des entités gouvernementales fédérales, nationales, locales, yézyments ou gouvernementales américaines ou d’autres entités qui gèrent des données soumises aux réglementations et exigences gouvernementales, lorsque l’utilisation de Microsoft 365 Government - Cloud de la communauté du secteur public est appropriée pour répondre à ces exigences.
 
 > [!NOTE]
 > Si votre organisation Cloud de la communauté du secteur public déjà satisfait aux exigences d’éligibilité du Microsoft 365 Pour le gouvernement et qu’elle Cloud de la communauté du secteur public été appliquée et acceptée dans le programme, vous pouvez ignorer les étapes 1 et 2 et passer directement à l’étape 3.
@@ -55,17 +55,17 @@ La [description Office 365 service pour le](../../office-365-platform-service-de
 
 Après avoir décidé que ce service est le bon pour votre organisation, démarrez le processus [d’application de ce service.](https://products.office.com/government/eligibility-validation)
 
-## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>Étape 3. Comprendre Microsoft 365 gouvernement : Cloud de la communauté du secteur public de sécurité par défaut
+## <a name="step-3-understand-microsoft-365-government---gcc-default-security-settings"></a>Étape 3 : Comprendre Microsoft 365 gouvernement : Cloud de la communauté du secteur public de sécurité par défaut
 
 Nous vous recommandons de prendre le temps de consulter attentivement vos paramètres d’administration et de sécurité avant de les modifier et de prendre en compte l’impact sur la conformité avant d’apporter des modifications aux paramètres de sécurité par défaut.
 
 **Point de** décision : déterminez si vous allez modifier l’un des paramètres de sécurité Microsoft 365 Government Cloud de la communauté du secteur public par défaut, en résolvant *d’abord l’impact* des modifications que vous pourriez apporter.
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 Gouvernement – Cloud de la communauté du secteur public<sup>1</sup>
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Étape 4. Comprendre les fonctionnalités actuellement indisponibles ou désactivées par défaut dans Microsoft 365 Gouvernement – Cloud de la communauté du secteur public<sup>1</sup>
 
 Pour répondre aux besoins de nos clients cloud pour le gouvernement, il existe des différences entre les plans Microsoft 365 secteur Cloud de la communauté du secteur public et les plans d’entreprise. Reportez-vous au tableau suivant pour voir quelles fonctionnalités sont disponibles. Consultez [ici](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) les dernières mises à jour des produits de conformité publiées Microsoft 365 feuille de route.<br><br>
 
-| Domaine | Fonctionnalité | Cloud de la communauté du secteur public État |
+| Zone | Fonctionnalité | Cloud de la communauté du secteur public État |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protection des informations**              | Client et scanneur d’étiquetage unifié         | Available              |
 |                                         | Correspondance exacte des données          | Available              |
@@ -94,7 +94,7 @@ Pour répondre aux besoins de nos clients cloud pour le gouvernement, il existe 
 | Gouvernance des informations                 | Importer PST                      | Available              |
 | Gouvernance des informations                 | Étiquettes de rétention non-enregistrement manuelles            | Available |
 | Gouvernance des informations                 | Verrouillage de conservation            | Available |
-| Gouvernance des informations                 | stratégies de rétention à l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; basées automatiquement sur une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; et basé sur un événement                                       | Available              |
+| Gouvernance des informations                 | stratégies de rétention à l’ensemble de l’organisation ; des emplacements ou des utilisateurs spécifiques ; automatiquement en fonction d’une condition spécifique (par exemple, des mots clés ou des informations sensibles) ; et basé sur un événement                                       | Available              |
 | Gouvernance des informations                 | Stratégies de rétention pour Teams                            | Available |
 | Gouvernance des informations                 | Stratégies de rétention pour l’enregistrement Teams réunion                            | En cours de développement |
 | Gouvernance des informations                 | Stratégies de rétention pour Teams canaux privés                            | On engineering backlog |
@@ -115,7 +115,7 @@ Pour répondre aux besoins de nos clients cloud pour le gouvernement, il existe 
 | Gestion des enregistrements                     | Preuve de destruction                            | Available |
 | Gestion des enregistrements                     | Gestion des versions des enregistrements                            | Available |
 | Gestion des enregistrements                     | Enregistrements réglementaires                         | Available |
-| Gestion des enregistrements                     | Utiliser la SharePoint syntex pour appliquer des étiquettes d’enregistrement | On engineering backlog |
+| Gestion des enregistrements                     | Utiliser la classification SharePoint Syntex pour appliquer des étiquettes d’enregistrement | On engineering backlog |
 | **Gestion des risques internes**             | Référentiel sécurisé client                                | Available            |
 | Conformité des communications                | Possibilité d’ignorer la signature électronique ou la clause d’exclusion de responsabilité                         | En cours de développement |
 | Conformité des communications                | Possibilité de définir une période de rétention pour une stratégie de conformité des communications                         | En cours de développement |
@@ -133,7 +133,7 @@ Pour répondre aux besoins de nos clients cloud pour le gouvernement, il existe 
 | Conformité des communications                | Vérification de l’état de la stratégie et possibilité de suspendre la stratégie                         | En cours de développement |
 | Conformité des communications                | Intégration de Power Automate                         | En cours de développement |
 | Conformité des communications                | Prise en charge des autorisations plus granulaires                         | Available |
-| Conformité des communications                | Prend en charge sept langues pour les classifieurs de menace, de harcèlement ciblé et de blasphages                         | En cours de développement |
+| Conformité des communications                | Prend en charge sept langues pour les classifieurs de menace, de harcèlement ciblé et de blasphémateur                         | En cours de développement |
 | Conformité des communications                | Microsoft Teams’intégration                         | On engineering backlog |
 | Conformité des communications                | Teams contexte de conversation                         | En cours de développement |
 | Conformité des communications                | Traduire le contenu pendant l’examen                         | On engineering backlog |
@@ -156,7 +156,7 @@ Pour répondre aux besoins de nos clients cloud pour le gouvernement, il existe 
 | Gestion des risques internes             | Modèles de stratégie pour les fuites de données par des utilisateurs non régrunts      | On engineering backlog              |
 | Gestion des risques internes             | Modèles de stratégie pour les fuites de données par les utilisateurs prioritaires | On engineering backlog |
 | Gestion des risques internes             | Modèles de stratégie pour les violations générales de stratégie de sécurité | On engineering backlog |
-| Gestion des risques internes             | Modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent le groupe, les utilisateurs non régrunts | On engineering backlog |
+| Gestion des risques internes             | Modèles de stratégie pour les violations de stratégie de sécurité par les utilisateurs prioritaires, les utilisateurs qui quittent l’équipe, les utilisateurs non régrunts | On engineering backlog |
 | Gestion des risques internes             | Groupes d’utilisateurs prioritaires | On engineering backlog |
 | Gestion des risques internes             | Intégration de Power Automate | En cours de développement |
 | Gestion des risques internes             | Microsoft Teams’intégration | On engineering backlog |
@@ -186,9 +186,9 @@ Pour répondre aux besoins de nos clients cloud pour le gouvernement, il existe 
 | eDiscovery                              | Advanced eDiscovery : ingestion non Office 365                                    | Available |
 | eDiscovery                              | Advanced eDiscovery : codage prédictif                                       | Available |
 | eDiscovery                              | Advanced eDiscovery : exportation traitée avec fichier de chargement                   | Available |
-| eDiscovery                              | Advanced eDiscovery : Actions                        | Available |
+| eDiscovery                              | Advanced eDiscovery: Redactions                        | Available |
 | eDiscovery                              | Advanced eDiscovery : Ensembles de révision                                     | Available |
-| eDiscovery                              | Advanced eDiscovery : examiner les données (données de requête, balises intelligentes, tableau de bord) et annoter (publier)                             | Available |
+| eDiscovery                              | Advanced eDiscovery : examiner les données (données de requête, balises intelligentes, tableau de bord) et annoter (redact)                             | Available |
 | eDiscovery                              | Advanced eDiscovery : rapport de terme de recherche                        | Available |
 | eDiscovery                              | Advanced eDiscovery : correction des erreurs d’élément unique                              | Available |
 | eDiscovery                              | Advanced eDiscovery : prise en charge de l’exportation PST                              | Available |
@@ -197,7 +197,7 @@ Pour répondre aux besoins de nos clients cloud pour le gouvernement, il existe 
 | eDiscovery                              | Advanced eDiscovery : marquage                              | Available |
 | eDiscovery                              | Advanced eDiscovery : rapports de client                              | Available |
 | eDiscovery                              | Advanced eDiscovery : Thèmes                              | Available |
-| eDiscovery                              | Advanced eDiscovery : visionneuses                              | Available |
+| eDiscovery                              | Advanced eDiscovery : visiteurs                              | Available |
 | eDiscovery                              | Advanced eDiscovery : Yammer Advanced eDiscovery dans le Centre de conformité Microsoft                              | Available |
 | Audit                                   | Audit de base                              | Available |
 | Audit                                   | Audit avancé : accès à des événements essentiels (par exemple, *MailItemsAccessed)*                              | Available |

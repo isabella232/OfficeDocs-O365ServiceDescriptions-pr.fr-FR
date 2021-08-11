@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Découvrez la stratégie et la conformité des messages dans Exchange Online.
-ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652708"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663767"
 ---
 # <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
@@ -25,9 +25,9 @@ ms.locfileid: "51652708"
 
 Les boîtes aux lettres Exchange Online résident dans le nuage. Pour les archiver, vous nécessitez d'environnements d'hébergement uniques. Dans certains cas, Exchange Online peut également être utilisé pour archiver des boîtes aux lettres locales dans le nuage. Les options d'archivage d'Exchange Online sont décrites dans cette section.
   
-Exchange Online intègre des fonctionnalités d'archivage pour les boîtes aux lettres en nuage, notamment la fonction d'archivage sur place qui fournit aux utilisateurs un emplacement pratique dans lequel ils peuvent stocker d'anciens messages électroniques. Une archive In-Place est un type spécial de boîte aux lettres qui apparaît avec les dossiers de boîte aux lettres principaux d’un utilisateur dans Outlook et Outlook sur le web. Les utilisateurs peuvent accéder à l'archive et l'explorer de la même manière que pour leurs boîtes aux lettres principales. Les fonctionnalités disponibles varient en fonction du client utilisé :
+Exchange Online intègre des fonctionnalités d'archivage pour les boîtes aux lettres en nuage, notamment la fonction d'archivage sur place qui fournit aux utilisateurs un emplacement pratique dans lequel ils peuvent stocker d'anciens messages électroniques. Une archive In-Place est un type spécial de boîte aux lettres qui apparaît à côté des dossiers de boîte aux lettres principaux d’un utilisateur dans Outlook et Outlook sur le web. Les utilisateurs peuvent accéder à l'archive et l'explorer de la même manière que pour leurs boîtes aux lettres principales. Les fonctionnalités disponibles varient en fonction du client utilisé :
   
-- **Outlook 2016, Outlook 2013, Outlook 2010** et Outlook sur le web Les utilisateurs ont accès aux fonctionnalités complètes de l’archive, ainsi qu’aux fonctionnalités de conformité associées, telles que le contrôle des stratégies de rétention et d’archivage. 
+- **Outlook 2016, Outlook 2013, Outlook 2010 et Outlook sur le web** Les utilisateurs ont accès aux fonctionnalités complètes de l’archive, ainsi qu’aux fonctionnalités de conformité associées, telles que le contrôle des stratégies de rétention et d’archivage. 
     
 - **Outlook 2007** Les utilisateurs bénéficient d'une assistance élémentaire pour l'archivage local, et certaines fonctionnalités d'archivage et de conformité ne sont pas disponibles. Par exemple, les utilisateurs ne peuvent pas appliquer de stratégies de rétention ou d'archivage aux éléments de boîte aux lettres, et doivent se baser sur des stratégies configurées par l'administrateur 
     
@@ -74,11 +74,11 @@ Pour plus d'informations, consultez la rubrique [Balises et stratégies de réte
   
 ## <a name="encryption-of-data-at-rest"></a>Chiffrement des données lors de leur stockage
 
-Le chiffrement des données client au repos est fourni par plusieurs technologies côté service, notamment BitLocker, DKM, le chiffrement de service stockage Azure et le chiffrement de service dans Exchange Online, Skype Entreprise, OneDrive Entreprise et SharePoint Online. Office 365 Le chiffrement de service inclut une option d’utilisation des clés de chiffrement gérées par le client qui sont stockées dans Azure Key Vault. Cette option de clé gérée par le client, appelée Clé [client,](/microsoft-365/compliance/customer-key-overview)est disponible pour Exchange Online, SharePoint Online et OneDrive Entreprise. 
+Le chiffrement des données client au repos est fourni par plusieurs technologies côté service, notamment BitLocker, DKM, stockage Azure Service Encryption et le chiffrement de service dans Exchange Online, Skype Entreprise, OneDrive Entreprise et SharePoint Online. Office 365 Le chiffrement de service inclut une option d’utilisation des clés de chiffrement gérées par le client qui sont stockées dans Azure Key Vault. Cette option de clé gérée par le client, appelée Clé [client,](/microsoft-365/compliance/customer-key-overview)est disponible pour Exchange Online, SharePoint Online et OneDrive Entreprise. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Les serveurs Microsoft utilisent BitLocker chiffrer les lecteurs de disque contenant les données client au repos au niveau du volume. BitLocker chiffrement est une fonctionnalité de protection des données intégrée à Windows. BitLocker est l’une des technologies utilisées pour se protéger contre les menaces en cas de défaillances dans d’autres processus ou contrôles (par exemple, le contrôle d’accès ou le recyclage du matériel) qui peuvent conduire à une personne à accéder physiquement aux disques contenant des données client. Dans ce cas, BitLocker risque de vol ou d’exposition de données en raison de la perte, du vol ou de la désaffectation inappropriée d’ordinateurs et de disques. 
+Les serveurs Microsoft utilisent BitLocker pour chiffrer les lecteurs de disque contenant les données client au repos au niveau du volume. Le chiffrement BitLocker est une fonctionnalité de protection des données intégrée à Windows. BitLocker est l’une des technologies utilisées pour se protéger contre les menaces en cas de défaillances dans d’autres processus ou contrôles (par exemple, le contrôle d’accès ou le recyclage du matériel) qui pourraient conduire à une personne à accéder physiquement aux disques contenant des données client. Dans ce cas, BitLocker élimine le risque de vol ou d’exposition de données en raison de la perte, du vol ou de la désaffectation inappropriée d’ordinateurs et de disques. 
   
 ### <a name="distributed-key-manager"></a>Gestionnaire de clés distribuées
 
@@ -86,13 +86,13 @@ En plus de BitLocker, nous utilisons une technologie appelée Gestionnaire de cl
   
 ## <a name="customer-key"></a>Clé client
 
-Avec la clé client, vous contrôlez les clés de chiffrement de votre organisation, puis vous les configurez pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Pour plus d’informations, voir [Contrôler vos](/office365/securitycompliance/controlling-your-data-using-customer-key) données à l’aide de la clé client et du chiffrement de service avec la clé [client FAQ.](/office365/securitycompliance/service-encryption-with-customer-key-faq)
+Avec la clé client, vous contrôlez les clés de chiffrement de votre organisation, puis vous les configurez pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Pour plus d’informations, voir [Contrôler vos](/office365/securitycompliance/controlling-your-data-using-customer-key) données à l’aide de la clé client et du chiffrement de service avec la faq sur la [clé client.](/office365/securitycompliance/service-encryption-with-customer-key-faq)
   
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 
 chiffrement de messages Office 365 permet aux utilisateurs de messagerie d’envoyer des messages électroniques chiffrés à tout le monde. Nous avons annoncé de nouvelles fonctionnalités dans Office chiffrement de messages qui tirent parti des fonctionnalités de protection dans le chiffrement d’informations Azure. Ces nouvelles fonctionnalités fournissaient des expériences améliorées pour les utilisateurs finaux qui facilitent le partage et la collaboration sur des messages protégés avec toute personne à l’intérieur ou à l’extérieur de l’organisation. Les nouvelles fonctionnalités Office chiffrement de messages ont des exigences de configuration. Voir Configurer de nouvelles fonctionnalités chiffrement de messages Office 365 d’informations intégrées à Azure Information Protection. Les clients sur les chiffrement de messages Office 365 ne peuvent pas obtenir les nouvelles fonctionnalités sans suivre les instructions de mise en place fournies ci-dessus. Veuillez lire la [FAQ pour](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) plus d’informations sur ce qui est inclus dans les nouvelles fonctionnalités d’chiffrement de messages Office 365 héritées. 
 
-Chiffrement avancé de messages Office 365 offre une protection supplémentaire en permettant l’expiration et la révocation des messages.  Vous pouvez également créer plusieurs modèles pour les messages électroniques chiffrés provenant de votre organisation.  Le chiffrement de messages avancé est inclus dans Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (tarifs pour le personnel à but non lucratif), Office 365 Entreprise E5 (prix du personnel pour les associations) ou Office 365 Éducation A5. Si votre organisation dispose d’un abonnement qui n’inclut pas Chiffrement avancé de messages Office 365, vous pouvez acheter Microsoft 365 E5 Conformité ou la référence Conformité avancée Office 365 SKU en tant que modules.
+Chiffrement avancé de messages Office 365 offre une protection supplémentaire en permettant l’expiration et la révocation des messages.  Vous pouvez également créer plusieurs modèles pour les messages électroniques chiffrés provenant de votre organisation.  Le chiffrement de messages avancé est inclus dans Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (prix du personnel à but non lucratif), Office 365 Entreprise E5 (prix du personnel pour les associations) ou Office 365 Éducation A5. Si votre organisation dispose d’un abonnement qui n’inclut pas Chiffrement avancé de messages Office 365, vous pouvez acheter Microsoft 365 E5 Conformité ou la référence Conformité avancée Office 365 SKU en tant que modules.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extension)
 
@@ -192,7 +192,7 @@ Vous pouvez configurer les stratégies DLP dans l'interface de gestion du Centre
     
 - Détecter les données de formulaire sensibles à l'aide de la création d'empreintes digitales document. La création d'empreintes digitales document vous permet de créer facilement des types d'informations sensibles personnalisés à partir des formulaires texte que vous pouvez utiliser pour définir des règles de transport et des stratégies de protection contre la perte de données.
     
-- Ajoutez des Astuces de stratégie, ce qui permet de réduire la perte de données en affichant une notification à vos Outlook 2016, Outlook 2013, Outlook sur le web et OWA pour les utilisateurs d’appareils et peut également améliorer l’efficacité de vos stratégies en permettant la signalement de faux positifs. 
+- Ajoutez des Astuces de stratégie, qui permettent de réduire la perte de données en affichant une notification à vos Outlook 2016, Outlook 2013, Outlook sur le web et OWA pour les utilisateurs d’appareils, et peut également améliorer l’efficacité de vos stratégies en permettant la signalement de faux positifs. 
     
 - Examiner les données relatives aux incidents dans les rapports DLP ou ajouter vos propres rapports spécifiques à l'aide d'une action de génération de rapports d'incidents.
     

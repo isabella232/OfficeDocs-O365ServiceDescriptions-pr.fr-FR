@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: Le Centre de conformité de sécurité est conçu pour vous aider à gérer les fonctionnalités de conformité Office 365 &amp; pour votre organisation. Des liens vers les fonctionnalités de conformité SharePoint et Exchange existantes regroupent les fonctions de conformité d’Office 365.
-ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: a04ba0cb7c9160bc929c02475edd68146cc9a1de11648b75ea5d50df9cc8b974
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537210"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701623"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -42,7 +42,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |[Gouvernance avancée des informations](/microsoft-365/compliance/retention)<sup>2</sup> | Non | Non  |Non  | Non | Non | Oui | Oui  | Non  |
 |[Recherche de contenu](/microsoft-365/compliance/search-for-content) | Oui | Oui  |Oui  | Oui | Oui | Oui | Oui  | Oui  |
 |[Cas eDiscovery](/microsoft-365/compliance/get-started-core-ediscovery)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   | Oui  |
-|[Les détient eDiscovery (y compris les requêtes eDiscovery)](/microsoft-365/compliance/get-started-core-ediscovery)  |Non   |Non   |Non  |Non   |Oui   |Oui   |Oui   |Non   |
+|[les détient eDiscovery (y compris les requêtes eDiscovery) ;](/microsoft-365/compliance/get-started-core-ediscovery)  |Non   |Non   |Non  |Non   |Oui   |Oui   |Oui   |Non   |
 |[Exportation de la découverte électronique](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |Non   |Non   |Non   |Non  |Oui   |Oui   |Oui  |Non   |
 |[Découverte électronique avancée](/microsoft-365/compliance/overview-ediscovery-20)<sup>5</sup>  |Non   |Non   |Non   |Non  |Non   |Oui   |Oui  |Non  |
 |[Archivage](/microsoft-365/compliance/enable-archive-mailboxes)  |Oui<sup>3</sup>  |Oui<sup>3</sup>  |Oui<sup>3</sup>  |Oui<sup>3</sup>  |Oui<sup>4</sup>   |Oui<sup>4</sup>   |Oui  |Non  |
@@ -59,7 +59,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 
 <sup>2 Nécessite</sup> une Office 365 de protection contre la perte de données.
 
-<sup>3 Les étiquettes</sup> de niveau de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
+<sup>3 Les étiquettes</sup> de sensibilité sont également incluses dans Azure Information Protection P1 et P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilité &amp; du Centre de conformité de sécurité pour les plans autonomes
 
@@ -67,11 +67,11 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Access to the Security &amp; Compliance Center](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Sécurité des applications cloud Office 365](/cloud-app-security/what-is-cloud-app-security)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Oui   |
-|[Gestion des menaces,](/cloud-app-security/what-is-cloud-app-security)telle que le filtrage du courrier et la protection contre les programmes malveillants   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
+|[La gestion des menaces,](/cloud-app-security/what-is-cloud-app-security)telle que le filtrage du courrier et la protection contre les programmes malveillants   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
 |[Gestion avancée des menaces,](/office365/securitycompliance/office-365-ti)telle que l’Explorateur de menaces pour les campagnes de hameçonnage   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non  |
 |[Référentiel sécurisé client](/office365/securitycompliance/customer-lockbox-requests)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Gestion des appareils mobiles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |Oui   |
-|Protection contre la perte de [données Exchange Online, SharePoint Online et OneDrive Entreprise](/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup>  |Non   |Oui   |Non   |Non   |Oui <sup>7<sup>  |Non  |Oui<sup>10</sup> |Non   |Oui   |
+|[Protection contre la perte de données Exchange Online, SharePoint Online et OneDrive Entreprise](/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup>  |Non   |Oui   |Non   |Non   |Oui <sup>7<sup>  |Non  |Oui<sup>10</sup> |Non   |Oui   |
 |[Protection contre la perte de données de communication Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Obstacles aux informations](/office365/securitycompliance/information-barriers)  |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |Non   |
 |[Gouvernance des informations](/office365/securitycompliance/retention-policies)<sup>1</sup>  |Oui<sup>2</sup>  |Oui   |Oui   |Oui   |Oui   |Oui<sup>10</sup>  |Oui<sup>10</sup>  |Oui   |Oui   |
@@ -113,7 +113,7 @@ Pour voir les options de gestion des licences pour vos utilisateurs afin de bén
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-Le Centre de conformité est disponible dans le plan E3 [pour Office 365 géré par 21Vianet](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
+Le Centre de conformité est disponible dans le plan E3 [Office 365 géré par 21Vianet.](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet)
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 

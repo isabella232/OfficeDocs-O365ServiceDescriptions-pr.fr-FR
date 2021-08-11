@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint sur le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur web, où vous pouvez utiliser des présentations directement sur le site web où la présentation est stockée. Microsoft 365 clients ayant Office sur le Web peuvent afficher, créer et modifier des fichiers en cours de vie.
-ms.openlocfilehash: e0ab38fd633e44be01f38da0398affbf81e01e7b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652338"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702253"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint pour le web
 
@@ -45,7 +45,7 @@ Non disponible dans PowerPoint sur le Web. Des fonctions de mise en forme avanc�
   
 ## <a name="apply-themes-and-theme-variants"></a>Appliquer des thèmes et des variantes de thèmes
 
-Choisissez un thème ou une variante de thème dans la galerie correspondante quand vous ajoutez une nouvelle diapositive à la présentation. Les thèmes non pris en PowerPoint sur le Web sont conservés dans la présentation, mais la possibilité de modifier des thèmes n’est pas disponible dans PowerPoint sur le Web. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Choisissez un thème ou une variante de thème dans la galerie correspondante quand vous ajoutez une nouvelle diapositive à la présentation. Les thèmes non pris en PowerPoint sur le Web sont conservés dans la présentation, mais la possibilité de modifier les thèmes n’est pas disponible dans PowerPoint sur le Web. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="office-add-ins"></a>Compléments Office
 
@@ -139,7 +139,7 @@ Non disponible dans PowerPoint sur le Web. L’application de bureau Microsoft P
 
 Non disponible dans PowerPoint sur le Web. Seule l'application de bureau Microsoft PowerPoint permet à un présentateur de contrôler en arrière-plan le flux de présentation, les notes, les annotations ainsi que les outils de zoom. PowerPoint sur le Web ne prend pas en charge ces fonctionnalités.
   
-## <a name="print-to-pdf"></a>Impression dans un PDF
+## <a name="print-to-pdf"></a>Imprimer au format PDF
 
 Avec PowerPoint sur le Web, vous pouvez imprimer votre présentation dans un lecteur PDF, où toute la mise en page et la mise en forme de vos diapositives imprimeront comme prévu. En savoir plus sur [les tâches de base que vous pouvez effectuer à l’aide PowerPoint sur le Web](https://go.microsoft.com/fwlink/?LinkId=272775).
   

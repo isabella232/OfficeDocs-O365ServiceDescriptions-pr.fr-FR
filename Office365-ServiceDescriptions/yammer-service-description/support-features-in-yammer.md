@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: Les fonctionnalités de support suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653516"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702173"
 ---
 # <a name="support-features-in-yammer"></a>Fonctionnalités de support dans Yammer
 
@@ -38,7 +38,7 @@ Le support technique est disponible pour répondre aux questions des clients et 
    
 ## <a name="fasttrack-center"></a>Service FastTrack
 
-Le service Microsoft FastTrack peut aider votre organisation à passer à Microsoft Cloud en fournissant de l’aide à chaque étape. FastTrack vous permet de planifier des déploiements de façon stratégique, d’accélérer le déploiement de nouveaux services et d’intégrer de nouveaux utilisateurs. Pour plus d'informations, visitez le [centre FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Pour plus d’informations sur la création de votre réseau Yammer, notamment sur les documents et les activités de pré-lancement, de lancement et de support, voir la page Concevoir : identifier les [scénarios,](https://fasttrack.microsoft.com/office/envision/identify-scenarios) puis sélectionnez Rassembler votre **organisation.**
+Le service Microsoft FastTrack peut aider votre organisation à passer à Microsoft Cloud en fournissant de l’aide à chaque étape. FastTrack vous permet de planifier des déploiements de façon stratégique, d’accélérer le déploiement de nouveaux services et d’intégrer de nouveaux utilisateurs. Pour plus d'informations, visitez le [centre FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Pour plus d’informations sur la création de votre réseau Yammer, notamment sur les documents et activités de pré-lancement, de lancement et de support, voir la page Concevoir : identifier les [scénarios,](https://fasttrack.microsoft.com/office/envision/identify-scenarios) puis sélectionnez Rassembler votre **organisation.**
 
 ## <a name="support-features-across-yammer-plans"></a>Fonctionnalités de support dans les plans Yammer
 

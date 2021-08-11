@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9b5d618c-7a24-4a30-b880-6306e130209c
 description: Les fonctionnalités de collaboration de documents suivantes sont disponibles dans Yammer.
-ms.openlocfilehash: 69864fe18e83dd84f20869d2b454c7fc07d73e50
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d88aa8a43369b6aaee59f871f2ac92ea8d2b2815a2e79ad853e6adc04d6d7242
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653536"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702223"
 ---
 # <a name="document-collaboration-features-in-yammer"></a>Fonctionnalités de collaboration sur les documents dans Yammer
 
@@ -43,5 +43,5 @@ Marquez les fichiers comme officiels et en lecture seule. Le contenu officiel ap
 
 ## <a name="recent-changes"></a>Modifications récentes
 
-En un coup d’œil, affichez toutes les modifications apportées à un document par chaque collaborateur dans le volet **Modifications** récentes. Vous pouvez rétablir une version précédente à tout moment.
+En un coup d’œil, affichez toutes les modifications apportées à un document par chaque collaborateur dans le **volet Modifications** récentes. Vous pouvez rétablir une version précédente à tout moment.
   

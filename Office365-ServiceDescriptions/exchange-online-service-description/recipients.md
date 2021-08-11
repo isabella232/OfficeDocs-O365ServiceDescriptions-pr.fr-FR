@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: 5771fd11a51ecfb8bff2b1be8a86dd3d87a51f81
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 861a58b9a8e8de041bcbb66e2d41f6eab97d39f6e7719c12288e1e7dbc072eec
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653306"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663677"
 ---
 # <a name="recipients"></a>Destinataires
 
@@ -62,7 +62,7 @@ La fonctionnalité de courrier non trié est conçue pour vous aider à vous con
   
 ### <a name="connected-accounts"></a>Comptes connectés
 
-La fonctionnalité Comptes connectés permet aux utilisateurs Exchange Online de connecter des comptes de messagerie externes (tels que des comptes personnels) à leurs comptes de messagerie internes dans Exchange Online, puis d’utiliser Outlook sur le web pour interagir avec tous leurs messages au même endroit. Les comptes connectés se synchronisent automatiquement lors de la connexion à Outlook sur le web ; Les utilisateurs peuvent également synchroniser manuellement les comptes à partir Outlook sur le web. Les administrateurs peuvent activer et désactiver cette fonctionnalité pour des utilisateurs spécifiques ou tous les utilisateurs via [Exchange centre d’administration.](/exchange/exchange-admin-center)
+La fonctionnalité Comptes connectés permet aux utilisateurs Exchange Online de connecter des comptes de messagerie externes (tels que des comptes personnels) à leurs comptes de messagerie internes dans Exchange Online, puis d’utiliser Outlook sur le web pour interagir avec tous leurs messages au même endroit. Les comptes connectés se synchronisent automatiquement lors de la connexion à Outlook sur le web ; les utilisateurs peuvent également synchroniser manuellement les comptes à partir Outlook sur le web. Les administrateurs peuvent activer et désactiver cette fonctionnalité pour des utilisateurs spécifiques ou tous les utilisateurs via [Exchange centre d’administration.](/exchange/exchange-admin-center)
   
 ### <a name="inactive-mailboxes"></a>Boîtes aux lettres inactives
 
@@ -91,7 +91,7 @@ La fonctionnalité de carnet d’adresses en mode hors connexion fournit un inst
 
 Exchange Online prend en charge les stratégies de carnet d’adresses. Les stratégies de carnet d'adresses vous permettent de segmenter des utilisateurs en groupes spécifiques pour fournir des vues personnalisées de la liste d'adresses globale de votre organisation. Lorsque vous créez une stratégie de carnet d'adresses, vous affectez une LAG, un carnet d'adresses en mode hors connexion, une liste de pièces ainsi qu'une ou plusieurs listes d'adresses à la stratégie. Vous pouvez ensuite affecter la ABP aux utilisateurs de boîtes aux lettres, en leur donnant accès à une liste d’adresses réseau personnalisée dans Outlook et Outlook sur le web. Les administrateurs peuvent configurer les stratégies de carnet d'adresses à l'aide de l'application Windows PowerShell distante. Pour en savoir plus sur les stratégies de carnet d'adresses, voir [Carnets d'adresses dans Exchange Online](/exchange/address-books/address-books).
   
-### <a name="address-lists"></a>Listes d'adresses
+### <a name="address-lists"></a>Listes d’adresses
 
 Exchange Online prend en charge la personnalisation des listes d’adresses et des listes d’adresses générales. Une liste d’adresses réseau est un répertoire à l’échelle de l’organisation de tous les utilisateurs à messagerie, groupes de distribution et contacts externes. Les administrateurs peuvent masquer les utilisateurs, les groupes de distribution et les contacts de la liste d’administration générale à l’aide de l’outil de synchronisation d’annuaires ou de Windows PowerShell.
   
@@ -127,7 +127,7 @@ Pour plus d'informations sur les contacts externes, voir [Créer une relation d'
 
 ### <a name="resource-mailboxes"></a>Boîtes aux lettres de ressources
 
-Les boîtes aux lettres de ressources (comme celles dédiées aux salles de conférence ou aux équipements physiques) représentent les salles de réunions ou d'autres installations ou ressources. Les utilisateurs peuvent réserver des salles ou des ressources en ajoutant l’alias de messagerie de la ressource aux demandes de réunion Outlook ou Outlook sur le web. Les salles de conférence et les ressources apparaissent dans lat de Outlook et Outlook sur le web.
+Les boîtes aux lettres de ressources (comme celles dédiées aux salles de conférence ou aux équipements physiques) représentent les salles de réunions ou d'autres installations ou ressources. Les utilisateurs peuvent réserver des salles ou des ressources en ajoutant l’alias de messagerie de la ressource aux demandes de réunion Outlook ou Outlook sur le web. Les salles de conférence et les ressources apparaissent dans lat d’Outlook et Outlook sur le web.
   
 Les administrateurs créent des boîtes aux lettres de ressources à l'aide du Centre d'administration Exchange ou de l'application Windows PowerShell distante. Les boîtes aux lettres peuvent également être synchronisées avec Exchange Online à partir d'Active Directory local.
   
@@ -141,7 +141,7 @@ Pour plus d'informations sur les boîtes aux lettres de ressources, voir :
 
 Exchange Online inclut l'Assistant Réservation de ressources qui automatise la planification des salles de conférence et d'autres ressources. Une boîte aux lettres de ressources configurée avec l'Assistant Réservation de ressources accepte, refuse ou accuse réception des demandes de réunion émises par l'organisateur de la réunion en fonction des disponibilités figurant sur le calendrier de la ressource. 
   
-Les administrateurs peuvent personnaliser les réponses automatisées aux salles de conférence et configurer des stratégies de réservation Outlook sur le web. Ces stratégies incluent les critères suivants : qui peut planifier la ressource, quand elle peut être planifiée, quelles informations relatives à la réunion sont visibles sur le calendrier de la ressource et quel pourcentage de conflits est autorisé. Les administrateurs ont la possibilité de désactiver l'Assistant Réservation de ressources et d'affecter à des utilisateurs spécifiques la gestion manuelle des demandes de réunion associées à des salles de conférence.
+Les administrateurs peuvent personnaliser les réponses automatisées aux salles de conférence et configurer des stratégies de réservation dans Outlook sur le web. Ces stratégies incluent les critères suivants : qui peut planifier la ressource, quand elle peut être planifiée, quelles informations relatives à la réunion sont visibles sur le calendrier de la ressource et quel pourcentage de conflits est autorisé. Les administrateurs ont la possibilité de désactiver l'Assistant Réservation de ressources et d'affecter à des utilisateurs spécifiques la gestion manuelle des demandes de réunion associées à des salles de conférence.
   
 Les administrateurs doivent définir et gérer les paramètres de l'Assistant Réservation de ressources via Windows PowerShell à distance.
   

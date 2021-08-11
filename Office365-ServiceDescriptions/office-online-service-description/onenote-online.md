@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilisez OneNote sur le Web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe quel endroit et facilement partager avec d’autres personnes. Tous les clients peuvent afficher et modifier légèrement Office fichiers à l’aide Office sur le Web.
-ms.openlocfilehash: 96d240e7911991a605303ec2f62c0444cbb7ed9b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4bde15a3b2c291c07aa2d4322826f710db7fc4ac1a51278cabac5e909c152f29
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652348"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702033"
 ---
 # <a name="onenote-for-the-web"></a>OneNote pour le web
 

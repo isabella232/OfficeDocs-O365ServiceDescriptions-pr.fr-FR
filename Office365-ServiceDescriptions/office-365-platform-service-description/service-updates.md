@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Pour en savoir plus sur Office 365 fonctionnalités qui viennent d’être publiées ou qui sont sur le point d’être publiées, consultez la feuille de route Microsoft 365.
-ms.openlocfilehash: d15ed4485127bab5735aa9748cb2f5693ae272e3
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 2ead1c43f81842924a8d0f63ae167721515545fab52fed760d21396e9fe9472c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652418"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701783"
 ---
 # <a name="service-updates"></a>Mises à jour du service
 

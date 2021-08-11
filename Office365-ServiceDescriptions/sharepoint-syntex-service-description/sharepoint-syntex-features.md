@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Découvrez les principales fonctionnalités SharePoint Syntex disponibles dans les plans Microsoft 365, Office 365 et SharePoint Online éligibles.
-ms.openlocfilehash: 2ffc3ccb52d074434c89424a151e63c7698b62c2
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 7febd3615d61fd2aa219ea8a5075f0d591fe41df5a179a8ca2f2f0d74007f5e7
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651029"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702523"
 ---
 # <a name="sharepoint-syntex-features"></a>Fonctions de SharePoint Syntex 
 
-Les sections suivantes décrivent les principales fonctionnalités SharePoint [Syntex](sharepoint-syntex-service-description.md) disponibles dans les plans Microsoft 365, Office 365 et SharePoint Online éligibles. Les fonctionnalités disponibles peuvent changer sans préavis. Pour obtenir la liste complète des fonctionnalités les plus à jour, consultez la page de tarification et SharePoint [des plans Syntex.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)
+Les sections suivantes décrivent les principales fonctionnalités [SharePoint Syntex](sharepoint-syntex-service-description.md) disponibles dans les plans Microsoft 365, Office 365 et SharePoint Online éligibles. Les fonctionnalités disponibles peuvent changer sans préavis. Pour obtenir la liste complète des fonctionnalités les plus à jour, consultez la page des plans [SharePoint Syntex des tarifs.](https://www.microsoft.com/microsoft-365/enterprise/sharepoint-syntex)
 
 ## <a name="syntex-content-center"></a>Centre de contenu Syntex
 
 Syntex fournit un modèle de site appelé centre de contenu pour la gestion du contenu à grande échelle, l’intégration de métadonnées et de flux de travail et la livraison de &mdash;  &mdash; l’automatisation de la conformité. Les centres de contenu fournissent des fonctionnalités pour apprendre au cloud à lire et traiter des documents de la même manière que vous le feriez manuellement. Syntex utilise ces informations pour reconnaître automatiquement le contenu, extraire des informations importantes et appliquer des balises de métadonnées. En outre, vous pouvez suivre l’efficacité de vos modèles à l’aide de l’analyse visuelle intégrée.
 
-Pour en savoir plus sur les centres de contenu et comment les créer, voir Créer un centre de contenu [dans SharePoint Syntex](/microsoft-365/contentunderstanding/create-a-content-center).
+Pour en savoir plus sur les centres de contenu et comment les créer, voir Créer un centre de [contenu dans SharePoint Syntex](/microsoft-365/contentunderstanding/create-a-content-center).
 
 ## <a name="object-recognition"></a>Reconnaissance d’objet
 
@@ -49,7 +49,7 @@ Pour en savoir plus sur le traitement des formulaires, voir [Vue d’ensemble du
 
 Syntex utilise des connecteurs Microsoft Graph pour intégrer des sources distantes telles que des partages de fichiers, Azure SQL ou des sources tierces telles que Box et IBM FileNet dans microsoft Graph, ce qui le rend utilisable et utilisable dans toute la &mdash; &mdash; Microsoft 365.
 
-Avec les connecteurs Graph Microsoft, les clients peuvent indexer des éléments dans des référentiels externes pour les inclure dans les résultats de recherche Microsoft. Microsoft 365 E5 et Office 365 E5 incluent la possibilité d’indexer jusqu’à 500 éléments à l’aide de connecteurs Microsoft Graph pour Microsoft Search (non inclus dans A5). Tout utilisateur titulaire d’une suite ou d’une licence autonome qui inclut un plan SharePoint ou OneDrive peut voir les résultats de recherche des connecteurs Microsoft Graph pour Microsoft Search (recherche Microsoft).
+Avec les connecteurs Graph Microsoft, les clients peuvent indexer des éléments dans des référentiels externes pour les inclure dans Recherche Microsoft résultats. Microsoft 365 E5 et Office 365 E5 incluent la possibilité d’indexer jusqu’à 500 éléments à l’aide de connecteurs Microsoft Graph pour Recherche Microsoft (non inclus avec A5). Tout utilisateur titulaire d’une suite ou d’une licence autonome incluant un plan SharePoint ou OneDrive peut voir les résultats de recherche des connecteurs Microsoft Graph pour Recherche Microsoft.
 
 Aujourd’hui, les connecteurs vers plus de 130 sources sont disponibles auprès de Microsoft ou de l’un de nos partenaires. Pour plus d’informations, voir [Vue d’ensemble des connecteurs Graph Microsoft.](/MicrosoftSearch/connectors-overview)
 

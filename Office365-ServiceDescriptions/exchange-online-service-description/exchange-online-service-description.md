@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: 003d86033382e8ed15895c85cc36e5b15c19083a
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 596d0663c91a7ed3c2e423301a90fddaee7908b5d1da04e4d04f860c0c31ae14
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699090"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663987"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -55,7 +55,7 @@ Un plan d'abonnement doit être attribué à chaque utilisateur qui veut accéde
 Aucun abonnement d'utilisateur n'est requis pour les salles de conférence et les boîtes aux lettres partagées. Ces types particuliers de boîtes aux lettres ne présentent pas d'informations d'identification. Au lieu de cela, les utilisateurs possédant une licence et disposant des autorisations appropriées les gèrent et y accèdent par délégation.
 
 **Microsoft 365 F1 Droits d’utilisation des boîtes aux lettres utilisateur** <br/>
-Microsoft 365 F1 n’inclut pas les droits d’accès à Exchange boîte aux lettres. Pour permettre une expérience Teams complète, les licences M365 F1 peuvent être Exchange Online plan de service K1 activé. Bien que Exchange Online plan de service K1 provisionnait une boîte aux lettres pour l’utilisateur, les utilisateurs M365 F1 ne sont pas autorisés à utiliser la boîte aux lettres. Nous vous recommandons de désactiver les Outlook [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) sur le web via ces étapes et de demander à vos utilisateurs de ne pas accéder à la boîte aux lettres Exchange via d’autres méthodes.
+Microsoft 365 F1 n’inclut pas les droits d’accès à Exchange boîte aux lettres. Pour permettre une expérience Teams complète, les licences M365 F1 peuvent être Exchange Online plan de service K1 activé. Bien que Exchange Online plan de service K1 provisionnait une boîte aux lettres pour l’utilisateur, les utilisateurs M365 F1 ne sont pas autorisés à utiliser la boîte aux lettres. Nous vous recommandons de désactiver [](/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) les Outlook sur le web via ces étapes et de demander à vos utilisateurs de ne pas accéder à la boîte aux lettres Exchange’aide d’autres méthodes.
   
 ## <a name="system-requirements-for-exchange-online"></a>Configuration système requise pour Exchange Online
 
@@ -67,11 +67,11 @@ Pour plus d’informations sur les limites de stockage et de destinataire dispon
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Si votre organisation dispose actuellement d’abonnements à Office 365 Petite Entreprise, Office 365 Petite Entreprise Premium ou Office 365 Moyenne Entreprise, visitez votre centre de messages dans le Centre d’administration Microsoft 365 ou adressez-vous à votre fournisseur pour plus d’informations sur l’impact du nouveau plan Microsoft 365 Apps sur vous. Pour en savoir plus sur la nouvelle famille Microsoft 365 Apps plan, voir Nouvelles plans pour les petites [et moyennes entreprises.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
+Si votre organisation dispose actuellement d’abonnements à Office 365 Petite Entreprise, Office 365 Petite Entreprise Premium ou Office 365 Moyenne Entreprise, visitez votre centre de messages dans le Centre d’administration Microsoft 365 ou consultez votre fournisseur pour plus d’informations sur l’impact du nouveau plan Microsoft 365 Apps sur vous. Pour en savoir plus sur la nouvelle famille Microsoft 365 Apps plan, voir Nouvelles plans pour les petites [et moyennes entreprises.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
 Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir [Microsoft 365 Business Premium description du service.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
   
-| Fonctionnalité | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Entreprise E1 | Office 365 Entreprise E3 | Office 365 Entreprise E5 | Office 365 Entreprise F3 |
+| Fonctionnalité | Exchange Server 2013 | Exchange Server 2016 | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Office 365 Entreprise E1 | Office 365 Entreprise E3 | Office 365 Entreprise E5 | Office 365 Entreprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Planification et déploiement](planning-and-deployment.md)**|||||||||
 |Déploiement hybride pris en charge|Oui|Oui|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui|Oui|Oui|Oui<sup>16</sup>|
@@ -105,7 +105,7 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 |Customize anti-malware policies|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
 |Quarantaine - gestion par l'administrateur|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui <sup>7</sup>|
 |Quarantaine - autogestion par l'utilisateur final|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Microsoft Defender pour Office 365|Non|Non|Non|Non|Non|Non|Oui|Non|
+|Microsoft Defender pour Office 365|Non|Non|Non|Non|Non|Non|Oui|Non|
 |**[Flux de messagerie](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
 |Routage personnalisé du courrier sortant|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Secure messaging with a trusted partner|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -134,7 +134,7 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 |Réponses d’in-office|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Partage de calendrier|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |**[Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
-|Microsoft 365 centre d’administration|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Rapports du Centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Excel de rapports|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Rapports des services web|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Message trace|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -169,9 +169,9 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 |interopérabilité SharePoint’équipe|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge de la connectivité<sup>EWS 25</sup>|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge du relais SMTP|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
+|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
 |Accès au portail Microsoft Office 365|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
-|Microsoft 365'accès au Centre d’administration|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
+|Centre d’administration Microsoft 365'accès|Non|Non|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Stratégies ActiveSync pour les appareils mobiles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -193,12 +193,12 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 <sup>12</sup> POP est pris en charge, mais IMAP ne l’est pas. <br/>
 <sup>13 Pris</sup> en charge pour Exchange Server 2013 sur site qui achètent Azure Information Protection. chiffrement de messages Office 365 nécessite que les clients locaux routent le courrier électronique via Exchange Online, soit à l’aide de Exchange Online Protection pour le filtrage du courrier électronique, soit en établissant un flux de messagerie hybride. <br/>
 <sup>14</sup> Exchange Server clients 2013 doivent télécharger et installer SP1 afin d’accéder aux Astuces de stratégie et d’empreinte numérique de document dans OWA et OWA pour les appareils. <br/>
-<sup>15 BitLocker</sup> chiffrement de lecteur est pris en charge pour Exchange Server 2013, mais un administrateur doit activer la fonctionnalité. <br/>
+Le chiffrement de lecteur BitLocker <sup>15</sup> est pris en charge Exchange Server 2013, mais un administrateur doit activer la fonctionnalité. <br/>
 <sup>16</sup> Microsoft 365 Business Basic, Microsoft 365 Business Standard et Office 365 Entreprise F3 ne fournissent pas de droits d’accès pour une utilisation avec des serveurs locaux. Pour des questions de conformité, le client doit acheter ou avoir déjà acheté les licences d’accès client appropriées ou mettre à niveau une référence SKU d’entreprise qui fournit ces droits d’accès. <br/>
 <sup>17</sup> Les comptes connectés sont pris en charge pour les comptes &amp; POP IMAP, mais désactivés pour Outlook.com (Hotmail). <br/>
 <sup>18</sup> Utilisation des cmdlets dans Exchange Online PowerShell pour personnaliser les listes d’adresses par défaut et la liste d’adresses globale par défaut n’est pas prise en charge. <br/>
 <sup>19</sup> Il se peut que certains composants Web Parts et des applications tierces ne soient pas disponibles. <br/>
-<sup>20</sup> For eDiscovery, you need a separate query for on-premises vs. cloud. <br/>
+<sup>20</sup> Pour eDiscovery, vous avez besoin d’une requête distincte pour l’local et le cloud. <br/>
 <sup>21</sup> Le tableau indique si le client travaille ou non avec les plans associés. Cela ne signifie pas que les clients sont nécessairement inclus dans l’achat de ces plans. <br/>
 <sup>22 Pour plus</sup> d’informations, voir [Chiffrement de service avec clé client.](/office365/securitycompliance/controlling-your-data-using-customer-key) <br/>
 <sup>23 Exchange Online</sup> prise en charge de la um pour les systèmes PBX tiers via des connexions directes à partir de SBCs gérés par le client prendra fin en avril 2019. Pour plus d’informations, consultez Exchange blog de l’équipe de gestion de l’interruption de la prise en charge des contrôleurs de frontière de session [dans Exchange Online messagerie unifiée.](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) <br/>
@@ -207,7 +207,7 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilité des fonctionnalités pour les différents plans autonomes Exchange Online
 
-| Fonctionnalité | Exchange Server 2013 | Exchange Server 2016 | Exchange Online Plan &nbsp; 1 | Exchange Online Plan &nbsp; 2 | Exchange Online Kiosk |
+| Fonctionnalité | Exchange Server 2013 | Exchange Server 2016 | Exchange Online Plan &nbsp; 1 | Exchange Online Plan &nbsp; 2 | Exchange Online Kiosk |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Planification et déploiement](planning-and-deployment.md)**||||||
 |Déploiement hybride pris en charge|Oui|Oui|Oui|Oui|Oui<sup>23</sup>|
@@ -268,7 +268,7 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 |Réponses d’in-office|Oui|Oui|Oui|Oui|Oui|
 |Partage de calendrier|Oui|Oui|Oui|Oui|Oui <sup>18</sup>|
 |**[Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online Kiosk**|
-|Microsoft 365 centre d’administration|Non|Non|Oui|Oui|Oui|
+|Rapports du Centre d’administration Microsoft 365|Non|Non|Oui|Oui|Oui|
 |Excel de rapports|Non|Non|Oui|Oui|Oui|
 |Rapports des services web|Non|Non|Oui|Oui|Oui|
 |Message trace|Non|Oui|Oui|Oui|Oui <sup>8</sup>|
@@ -301,9 +301,9 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 |interopérabilité SharePoint’équipe|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge de la connectivité<sup>EWS 26</sup>|Oui|Oui|Oui|Oui|Oui|
 |Prise en charge du relais SMTP|Oui|Oui|Oui|Oui|Oui|
-|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online Kiosk**|
+|**[Configuration et administration d’Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Accès au portail Microsoft Office 365|Non|Non|Oui|Oui|Oui|
-|Microsoft 365'accès au Centre d’administration|Non|Non|Oui|Oui|Oui|
+|Centre d’administration Microsoft 365'accès|Non|Non|Oui|Oui|Oui|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui|Oui|Oui <sup>8</sup>|
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui|Oui|Oui|
 |Stratégies ActiveSync pour les appareils mobiles|Oui|Oui|Oui|Oui|Oui|
@@ -321,13 +321,13 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 <sup>7</sup> Exchange Server 2013 utilise uniquement le moteur anti-programme malveillant de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes. <br/>
 <sup>8</sup> Uniquement accessible via un accès direct à l Exchange’interface de gestion du Centre d’administration Exchange(EAC). <br/>
 <sup>9</sup> IMAP n’est pas pris en charge. <br/>
-<sup>10</sup> For Exchange 2013 or later, DLP requires an Exchange Enterprise Client Access License (CAL). Pour plus d’informations sur les licences d’accès au détail et les licences de serveur, [voir Exchange faq sur les licences.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
+<sup>10</sup> For Exchange 2013 or later, DLP requires an Exchange Enterprise Client Access License (CAL). Pour plus d’informations sur les licences d’accès au détail et les licences de serveur, [voir Exchange FAQ sur les licences.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
 <sup>11</sup> Azure Information Protection n’est pas inclus, mais il peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Entreprise E1, Office 365 Éducation ou Office 365 Entreprise F3. chiffrement de messages Office 365 dépend d’Azure Information Protection. <br/>
-<sup>12</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d’activer les fonctionnalités IRM pris en charge. <br/>
+<sup>12 Windows Server AD</sup> RMS est un serveur local qui doit être acheté et géré séparément afin d’activer les fonctionnalités IRM pris en charge. <br/>
 <sup>13 Pris</sup> en charge pour les clients exécutant Exchange Server 2013 ou ultérieure qui achètent Azure Information Protection. chiffrement de messages Office 365 nécessite que les clients locaux routent le courrier électronique via Exchange Online, soit à l’aide de Exchange Online Protection pour le filtrage du courrier électronique, soit en établissant un flux de messagerie hybride. <br/>
 <sup>14</sup> Les clients exécutant Exchange Server 2013 ou une version ultérieure doivent télécharger et installer la dernière mise à jour cumulative (CU) ou la mise à jour cumulative immédiatement précédente pour accéder à la création d’empreintes digitales de document et aux Astuces de stratégie dans OWA et OWA pour les appareils. <br/>
 <sup>15 Disponible</sup> pour les clients exécutant Exchange Server 2013 ou ultérieure. <br/>
-<sup>16 BitLocker</sup> chiffrement de lecteur est pris en charge pour Exchange Server 2013, mais un administrateur doit activer la fonctionnalité. <br/>
+Le chiffrement de lecteur BitLocker <sup>16</sup> est pris en charge Exchange Server 2013, mais un administrateur doit activer la fonctionnalité. <br/>
 <sup>17 Exchange Online</sup> Plan 1 a une limite de taille pour la [boîte aux lettres et l’archive.](./exchange-online-limits.md) Archivage Exchange Online pour Exchange Online module ajoute une archive informatique illimitée et une archive in [place.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18 Exchange Online Kiosk</sup> calendriers sont accessibles ou partagés uniquement via OWA. <br/>
 <sup>19</sup> Les comptes connectés sont pris en charge pour les comptes &amp; POP IMAP, mais désactivés pour Outlook.com (Hotmail). <br/>
