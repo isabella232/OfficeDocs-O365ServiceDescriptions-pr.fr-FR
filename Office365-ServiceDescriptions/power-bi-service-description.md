@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI est une suite d’outils d’analyse métier basée sur le cloud qui permet à tout le monde de se connecter à des données, de les visualiser et de les analyser avec une vitesse, une efficacité et une compréhension accrues. Ce service connecte les utilisateurs à un large éventail de données actives par le biais de tableaux de bord faciles d'utilisation, fournit des rapports interactifs et propose des affichages attrayants qui donnent vie aux données.
-ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661612"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702863"
 ---
 # <a name="power-bi-service-description"></a>Description du service Power BI
 
@@ -41,7 +41,7 @@ Le tableau suivant répertorie les principales fonctionnalités Power BI disponi
 | Accès aux applications mobiles | Oui | Oui | Oui |
 | Publier des rapports pour partager et collaborer | Oui | Oui | Non |
 | Rapports paginés (RDL) | Non | Oui | Oui |
-| Consommer du contenu sans licence par utilisateur | Non | Non | Oui |
+| Consommation de contenu sans licence par utilisateur | Non | Non | Oui |
 | Rapports locaux avec Power BI Report Server | Non | Non | Oui |
 | **Préparation, modélisation et visualisation des données** | | | |
 | Limite de taille du modèle | 1 Go | 100 Go | 400 Go |

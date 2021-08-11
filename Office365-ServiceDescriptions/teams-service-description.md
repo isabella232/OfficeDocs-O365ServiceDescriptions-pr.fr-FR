@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: En savoir plus sur Microsoft Teams la disponibilité des services et des fonctionnalités dans Microsoft 365 et Office 365 plans.
-ms.openlocfilehash: 45ab0e018cc76fc0232cca55e5d8fbdfcf77acbd
-ms.sourcegitcommit: 8b6aad7edf3730a12fb0607e80bb19f0811bd06c
+ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409681"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702903"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -48,7 +48,7 @@ Le tableau suivant répertorie les principales fonctionnalités Microsoft Teams 
 <sup>5</sup> Les applications tierces et la publication d’applications ne sont pas disponibles dans ces clouds pour le moment.<br/>
 <sup>6</sup> Événements en direct n’est pas disponible GCC-High ou DOD pour le moment.<br/>
 
-## <a name="learn-more"></a>En savoir plus
+## <a name="learn-more"></a>Si vous souhaitez en savoir plus
 
 Skype Entreprise Online sera retiré le 31 juillet 2021, qui a été annoncé le 30 juillet 2019. [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) Microsoft Teams est un service entièrement nouveau, conçu pour le cloud depuis le début en tirant parti d’Azure et d’autres innovations de service de Microsoft. Microsoft Teams repose sur des groupes Microsoft 365, Microsoft Graph et avec la même sécurité, la même conformité et la même gérabilité au niveau de l’entreprise que le reste Office 365. Teams utilise les identités stockées dans Azure Active Directory (Azure AD). Ces services sont livrés à partir de centres de données Microsoft et sont accessibles aux utilisateurs sur un large éventail d’appareils depuis l’intérieur d’un réseau d’entreprise ou sur Internet. Pour plus d’informations, voir les [affiches Microsoft Teams’architecture](/microsoftteams/teams-architecture-solutions-posters)et solutions de téléphonie.
 
@@ -58,7 +58,7 @@ Pour obtenir des informations détaillées sur les abonnements qui permettent au
 
 Pour obtenir des instructions détaillées sur la mise en œuvre des fonctionnalités de produit, [voir la documentation Microsoft Teams’administration.](/MicrosoftTeams) Cette description de service détaille les principales différences entre les services fournis dans les différentes installations cloud. Microsoft Teams fonctionnalités principales ne diffèrent pas d’un abonnement à l’autre. La disponibilité des fonctionnalités de conformité dépend du niveau d’abonnement. Pour en savoir plus, [consultez La sécurité et la conformité dans Microsoft Teams](/microsoftteams/security-compliance-overview). Pour obtenir la liste détaillée des fonctionnalités disponibles dans chaque abonnement, voir Microsoft 365 [et Office 365 description du service de plateforme.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
 
-**Fonctionnalités vocales cloud :** Pour l’audioconférence, votre organisation doit acheter et attribuer une licence d’audioconférence à chaque utilisateur qui va définir des réunions rendez-vous. Pour Teams fonctionnalités nécessitant des forfaits d’appels, chaque utilisateur a besoin d’un système téléphonique et d’un plan d’appels nationaux ou nationaux et internationaux. Pour en savoir plus, [voir Microsoft Teams licences de modules.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
+**Fonctionnalités vocales cloud :** Pour l’audioconférence, votre organisation doit acheter et attribuer une licence d’audioconférence à chaque utilisateur qui va définir des réunions rendez-vous. Pour Teams qui nécessitent des forfaits d’appels, chaque utilisateur a besoin d’un système téléphonique et d’un plan d’appels nationaux ou nationaux et internationaux. Pour en savoir plus, [voir Microsoft Teams licences de modules.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
 
 **Événements en direct :** Cette offre dans Office 365 remplace la diffusion Réunion Skype retirée. Les fonctionnalités d’événements en direct sont disponibles pour les plans de gestion des licences, comme détaillé dans le service Stream. Veuillez consulter les [détails des licences Microsoft Stream ici.](/stream/license-overview) Le service Événements en direct est accessible via Stream, Yammer ou Microsoft Teams. Pour en savoir plus sur les fonctionnalités des événements en direct, consultez les événements en direct Microsoft 365 dans [Yammer, Microsoft Teams et Microsoft Stream.](/stream/live-event-m365)
 

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: Les tableaux suivants répertorient les modifications récemment apportées au contenu des descriptions de service.
-ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651039"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702893"
 ---
 # <a name="recent-service-descriptions-changes"></a>Modifications récentes de descriptions de service
 
@@ -27,12 +27,12 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||||
 |:-----|:-----|:-----|
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
-|Office 365 Plateforme  <br/> |[Office 365 Éducation](office-365-platform-service-description/office-365-education.md) <br/> |Mise à jour de la disponibilité mobile dans les plans A1.  <br/> |
-||[Office 365 Éducation](office-365-platform-service-description/office-365-education.md) <br/> |Mise à jour des références de mise en attente pour litige dans le Centre de sécurité et conformité de l’éducation et Exchange Online sections.  <br/> |
+|Office 365 Plateforme  <br/> |[Office 365 Éducation](office-365-platform-service-description/office-365-education.md) <br/> |Mise à jour de la disponibilité mobile dans les plans A1.  <br/> |
+||[Office 365 Éducation](office-365-platform-service-description/office-365-education.md) <br/> |Mise à jour des références de mise en attente pour litige dans le Centre de sécurité et conformité de l’éducation et Exchange Online sections.  <br/> |
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Disponibilité mise à jour dans Applications Microsoft 365 pour les PME.  <br/> |
 |Applications Office  <br/> |[Description de service des applications Office](office-applications-service-description/office-applications-service-description.md) <br/> |Disponibilité mise à jour sur les plateformes mobiles.  <br/> |
 |Workplace Analytics  <br/> |[Description du service Workplace Analytics](workplace-analytics-service-description.md) <br/> |Mise à jour de la limite de licence, ajout d’un lien vers Prise en main’article, mise à jour des conditions préalables.  <br/> |
-|Microsoft Project Online  <br/> |[Description du service Project Online](project-online-service-description/project-online-service-description.md) <br/> |Clarification de la gestion des licences.  <br/> |
+|Project Online  <br/> |[Description du service Project Online](project-online-service-description/project-online-service-description.md) <br/> |Clarification de la gestion des licences.  <br/> |
 |Visio Online  <br/> |[Description du service Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Tableau des fonctionnalités mis à jour pour afficher les fonctionnalités supplémentaires désormais disponibles dans Visio Online.  <br/> |
    
 ## <a name="may-2018"></a>Mai 2018
@@ -41,7 +41,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |:-----|:-----|:-----|
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
 |Office 365 Plateforme  <br/> |[Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Clarification Cloud de la communauté du secteur public fonctionnalités de partage Élevé et DoD.  <br/> |
-||[Description du service de la plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Ajout de la section FastTrack à Cloud de la communauté du secteur public rubrique.  <br/> |
+||[Description du service de la plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Ajout d FastTrack section à Cloud de la communauté du secteur public rubrique.  <br/> |
    
 ## <a name="april-2018"></a>Avril 2018
 
@@ -52,7 +52,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||[Description du service de la plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Ajout de Microsoft 365 Business.  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Changement de l’entrée de limite d’archivage sur « Oui » pour Microsoft 365 Business Basic et Microsoft 365 Business Standard.  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Changement de « Gestion avancée de la sécurité » en « Sécurité des applications cloud Office 365 ».  <br/> |
-|Office pour le web  <br/> |[Excel pour le web](office-online-service-description/excel-online.md) <br/> |La première remarque de la rubrique « Les workbooks qui dépassent 30 mégaoctets (Mo) ne peuvent pas être Excel sur le Web à partir de Microsoft Office SharePoint Online ». Auparavant, la note indique 10 Mo.  <br/> |
+|Office pour le web  <br/> |[Excel pour le web](office-online-service-description/excel-online.md) <br/> |Première remarque de la rubrique « Les workbooks qui dépassent 30 mégaoctets (Mo) ne peuvent pas être Excel sur le Web à partir de Microsoft Office SharePoint Online ». Auparavant, la note indique 10 Mo.  <br/> |
 |OneDrive Entreprise  <br/> |[Description du service OneDrive Entreprise](onedrive-for-business-service-description.md) <br/> |Mise à jour majeure de OneDrive Entreprise description du service.  <br/> |
    
 ## <a name="march-2018"></a>Mars 2018
@@ -77,8 +77,8 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |Office 365 Plateforme  <br/> |[Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Mise à jour de la disponibilité de StaffHub pour Microsoft 365 Business Standard.  <br/> |
 ||[Description du service de la plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Mise à jour des certifications du secteur de la conformité [[ServiceDesc]](/compliance/regulatory/offering-home) page.  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Stratégies de rétention manuelle mises à jour Office 365 Entreprise plan 1.  <br/> |
-||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Plusieurs mises à jour et réorganisations.  <br/> |
-||[Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correction de la disponibilité de la messagerie vocale et de l’intégration de la messagerie vocale.  <br/> |
+||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Plusieurs mises à jour et réorganisations.  <br/> |
+||[Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correction de la disponibilité de la messagerie vocale et de l’intégration de la messagerie vocale.  <br/> |
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Clarification de la disponibilité des groupes pour Exchange Online plans.  <br/> |
 |Skype Entreprise Online  <br/> |[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Mise à jour Système téléphonique la disponibilité des conférences pour Microsoft 365 Business Standard clients.  <br/> |
    
@@ -87,7 +87,7 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||||
 |:-----|:-----|:-----|
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
-|Office 365 Plateforme  <br/> |[Microsoft 365 Éducation](office-365-platform-service-description/microsoft-365-education.md) <br/> |Correction de Microsoft Teams disponibilité dans les plans Éducation.  <br/> |
+|Office 365 Plateforme  <br/> |[Microsoft 365 Éducation](office-365-platform-service-description/microsoft-365-education.md) <br/> |Correction de Microsoft Teams disponibilité dans les plans Éducation.  <br/> |
 |Skype Entreprise Online  <br/> |[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Clarification de la limitation de conversation client.  <br/> |
 |Multiple  <br/> |Multiple  <br/> |Ajout de la clé client à Skype Entreprise Online, SharePoint Online et aux descriptions OneDrive Entreprise service.  <br/> |
    
@@ -107,18 +107,18 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 ||||
 |:-----|:-----|:-----|
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
-|Office 365 Plateforme  <br/> |[Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Clarification du fait Office 365 Entreprise les utilisateurs de Microsoft Stream F1 peuvent afficher des vidéos, mais ne peuvent pas les publier ni les partager.  <br/> |
+|Office 365 Plateforme  <br/> |[Description du service de plateforme Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Clarification du fait Office 365 Entreprise utilisateurs de Microsoft Stream F1 peuvent afficher des vidéos, mais ne peuvent pas les publier ni les partager.  <br/> |
 ||[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Ajout de la révision de la disposition à la gouvernance avancée des données.  <br/> |
-||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Clarification de la Yammer et Office 365 Pro plus.  <br/> |
-||[Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Ajout de la disponibilité de la protection contre la perte de données.  <br/> |
-||[Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correction de la disponibilité de l’IRM via AD RMS.  <br/> |
-||[Microsoft 365 Éducation](office-365-platform-service-description/microsoft-365-education.md) <br/> |Page ajoutée pour la nouvelle offre.  <br/> |
+||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Clarification de la Yammer et Office 365 Pro plus.  <br/> |
+||[Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Ajout de la disponibilité de la protection contre la perte de données.  <br/> |
+||[Office 365 géré par 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correction de la disponibilité de l’IRM via AD RMS.  <br/> |
+||[Microsoft 365 Éducation](office-365-platform-service-description/microsoft-365-education.md) <br/> |Ajout d’une page pour la nouvelle offre.  <br/> |
 ||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |Suppression des références aux blackBerry Business Cloud Services (BBCS) abandonnées.  <br/> |
 |Exchange Online  <br/> |[Description du service Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Ajout de la disponibilité de la clé client pour Office 365 Entreprise E5.  <br/> |
 ||[Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Clarification de la limite de pièces jointes de 35 Mo pour Outlook Web Access (OWA). Un fichier individuel joint dont la taille dépasse 35 Mo est bloqué. En outre, un groupe de fichiers joints qui dépasse collectivement 35 Mo est également bloqué.  <br/> |
 ||[Clients et appareils mobiles](exchange-online-service-description/clients-and-mobile-devices.md) <br/> |Plusieurs mises à jour ; article restructuré.  <br/> |
 |Multiple  <br/> |Multiple  <br/> |Correction des références à Microsoft Sway.  <br/> |
-|Multiple  <br/> |Multiple  <br/> |Mise à jour OneDrive Entreprise et SharePoint descriptions de service en ligne pour inclure des fonctionnalités hybrides supplémentaires. Ajout également de fonctionnalités hybrides Office 365 via Vianet, Office 365 Germany et Office 365 Éducation pages.  <br/> |
+|Multiple  <br/> |Multiple  <br/> |Mise à jour OneDrive Entreprise et SharePoint descriptions de service en ligne pour inclure des fonctionnalités hybrides supplémentaires. Ajout de fonctionnalités hybrides à Office 365 via vianet, Office 365 Germany et Office 365 Éducation pages.  <br/> |
    
 ## <a name="october-2017"></a>Octobre 2017
 
@@ -126,8 +126,8 @@ Les tableaux suivants répertorient les modifications récemment apportées au c
 |:-----|:-----|:-----|
 |**Description de service** <br/> |**Rubrique** <br/> |**Remplacez** <br/> |
 |Office 365 Plateforme  <br/> |[Security &amp; Compliance Center](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Ajout de détails sur la gouvernance avancée.  <br/> |
-||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Ajout des migrations de données effectuées par la table FastTrack.  <br/> |
-||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Notez également que le partage fédéré nécessite l’utilisation de l’espace d’adressare de disponibilité pour prendre en charge le partage avec d’autres locataires.  <br/> |
+||[Office 365 pour le gouvernement américain](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Ajout des migrations de données effectuées par FastTrack tableau.  <br/> |
+||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Notez également que le partage fédéré nécessite l’utilisation de l’espace d’adressare de disponibilité pour prendre en charge le partage avec d’autres locataires.  <br/> |
 |Exchange Online  <br/> |[Limites d’Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Ajout de limites pour chiffrement de messages Office 365 version héritée (OME) et chiffrement de messages Office 365 (OME) avec de nouvelles fonctionnalités.  <br/> |
 |Skype Entreprise  <br/> |[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Notez également que l’audioconférence peut être ajoutée aux plans d’abonnement Microsoft 365 Business Standard, Office 365 Entreprise E1 et Office 365 Entreprise E3 en tant que module supplémentaire.  <br/> |
 ||[Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Notez également que les crédits de communication peuvent être ajoutés au plan d Microsoft 365 Business Standard d’abonnement en tant que module supplémentaire pour prendre en charge l’audioconférence uniquement.  <br/> |
