@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 4d3f9ff8f649a748668c3f3156166cb913612acd6a72811a9870604de4d560d2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1bac942dcf8923f07197a3617e057c7fc409081c
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701637"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363631"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -38,7 +38,7 @@ Chaque plan Office 365 géré par 21Vianet inclut un certain nombre de services,
 > [!NOTE]
 > La version d'Office 365 gérée par 21Vianet d'Office 365 est propre à la Chine.
 
-| Service | Microsoft 365 Business Basic géré par 21Vianet | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
+| Service | Microsoft 365 Business Basic géré par 21Vianet | Applications Microsoft 365 pour les PME géré par 21Vianet | Microsoft 365 Business Standard géré par 21Vianet | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Office 365 plateforme<sup>1</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
 | Exchange Online | Oui | Non | Oui | Oui | Oui | Oui |
@@ -56,7 +56,7 @@ Chaque plan Office 365 géré par 21Vianet inclut un certain nombre de services,
 <sup>1</sup> Inclut des fonctionnalités telles que l'administration d'Office 365, les applications de la suite Office 365, la gestion des comptes d'utilisateur, les domaines, la continuité et l'état du service, la création de rapports, les mises à jour de service, l'aide et la formation, la mise en réseau et ainsi de suite. Pour plus d'informations, reportez-vous au tableau des [Fonctionnalités de la plateforme](office-365-operated-by-21vianet.md#platform-features).
 <br/><sup>2</sup> Project Online n'est pas inclus, mais peut être acheté en tant que service complémentaire distinct ou ajouté gratuitement au plan Office 365 A1.
 <br/><sup>3 Visio</sup> pour la consommation web (fonctionnalité d’affichage) sont disponibles gratuitement. Visio pour le web, les fonctionnalités de création et de modification nécessitent une licence. Pour plus d’informations sur Visio pour le web, voir la [Visio la description du service web.](../visio-online-service-description/visio-online-service-description.md)
-<br/><sup>4</sup> AIP est partiellement pris en charge dans Office 365 géré par 21Vianet. Pour plus d’informations, voir Parité entre Azure Information Protection pour Office 365 géré par [21Vianet et](/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?preserve-view=true&view=o365-21vianet)les offres commerciales.
+<br/><sup>4</sup> AIP est partiellement pris en charge dans Office 365 géré par 21Vianet. Pour plus d’informations, voir Parité entre Azure Information Protection Office 365 géré par [21Vianet et](/microsoft-365/admin/services-in-china/parity-between-azure-information-protection?preserve-view=true&view=o365-21vianet)les offres commerciales.
 
 ## <a name="system-requirements"></a>Configuration requise du système
 
@@ -81,13 +81,13 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 > [!NOTE]
 > La version d'Office 365 gérée par 21Vianet d'Office 365 est propre à la Chine.
 
-| Fonctionnalité | Microsoft 365 Business Basic géré par 21Vianet | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
+| Fonctionnalité | Microsoft 365 Business Basic géré par 21Vianet | Applications Microsoft 365 pour les PME géré par 21Vianet | Microsoft 365 Business Standard géré par 21Vianet | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[Fonctionnalités d'administration d'Office 365](/office365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-21vianet#admin-center-features-and-settings)** | | | | | | |
 | Administrer Office 365 à l’aide du Centre d’administration Microsoft 365 ou Windows PowerShell | Oui | Oui | Oui | Oui | Oui | Oui |
 | Protéger le contenu à l’aide d’AIP | Non | Non | Non | Non | Non | Non |
 | Traduction manuelle des publications du Centre de messages via la traduction automatique | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Réservations Microsoft | Non | Non | Oui | Non | Non | Non |
 | E-mail Microsoft Briefing | Non | Non | Oui | Non | Non | Non |
 | Microsoft Power Automate | Non | Non | Non | Non | Non | Non |
@@ -103,7 +103,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 | Groupes Office 365 | Oui | Non | Oui | Oui | Oui | Oui |
 | Office 365 Video | Non | Non | Non | Oui | Oui | Oui<sup>2</sup> |
 | Bloc-notes OneNote pour la classe | Non | Non | Non | Non | Non | Non |
-| **[Gestion des comptes d’utilisateur](user-account-management.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Gestion des comptes d’utilisateur](user-account-management.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Identité cloud, identité fédérée ou authentification multifacteur<sup>14</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
 | Configuration du bureau Office 365 | Non | Non | Non | Non | Non | Non |
 | Téléchargement en bloc à l'aide de fichiers .csv | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -116,7 +116,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 | Plusieurs rôles d'administrateur disponibles | Oui | Oui | Oui | Oui | Oui | Oui |
 | Autoriser un partenaire à administrer Office 365 pour vous | Non | Non | Non | Non | Non | Non |
 | Services Azure Active Directory | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Domaines](domains.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Domaines](domains.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Ajouter des domaines personnalisés de 2ème niveau, comme fourthcoffee.com | Oui | Oui | Oui | Oui | Oui | Oui |
 | Ajouter des domaines personnalisés de 3ème niveau, comme marketing.fourthcoffee.com | Oui | Oui | Oui | Oui | Oui | Oui |
 | Ajouter jusqu'à 900 domaines personnalisés | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -131,11 +131,11 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 | Hébergement de plusieurs sites web publics SharePoint Online avec des noms de domaine personnalisés<sup>5</sup> | Non | Non | Non | Non | Non | Non |
 | Vérification obligatoire de la possession du domaine pour les domaines personnalisés | Oui | Oui | Oui | Oui | Oui | Oui |
 | Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy | Non | Non | Non | Non | Non | Non |
-| **[État et continuité du service](service-health-and-continuity.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[État et continuité du service](service-health-and-continuity.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Status information available on the **Service health** or **Service status** page | Oui | Oui | Oui | Oui | Oui | Oui |
 | État des alertes individuelles disponibles dans le tableau Centre d’administration Microsoft 365 de bord | Oui | Oui | Oui | Oui | Oui | Oui |
 | Flux RSS **État du service** | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Rapports](reports.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Rapports](reports.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Boîtes aux lettres actives et inactives | Oui | Oui | Oui | Oui | Oui | Oui |
 | Boîtes aux lettres supprimées et nouvelles | Oui | Oui | Oui | Oui | Oui | Oui |
 | Groupes nouveaux et supprimés | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -160,20 +160,20 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 | Navigateur utilisé | Oui | Oui | Oui | Oui | Oui | Oui |
 | Système d'exploitation utilisé | Oui | Oui | Oui | Oui | Oui | Oui |
 | Créer vos propres rapports à l’aide Microsoft 365 web de création de rapports | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Mises à jour de service](service-updates.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Mises à jour du service](service-updates.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Mises à jour normales fournies à tous les clients | Oui | Oui | Oui | Oui | Oui | Oui |
 | Notifications envoyées au Centre de messages lorsque l’action est requise, qu’un problème est résolu, que des fonctionnalités sont déployées ou que votre service change | Oui | Oui | Oui | Oui | Oui | Oui |
 | [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service | Non | Non | Non | Non | Non | Non |
 | Option pour activer la publication ciblée | Non | -- | Non | Oui | Oui | Oui |
-| **[Aide et formation](help-and-training.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Aide et formation](help-and-training.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Aide en ligne | Oui | Oui | Oui | Oui | Oui | Oui |
 | Communauté | Non | Non | Non | Non | Non | Non |
 | Autres ressources d'aide autonome<sup>12</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
 | Auto-formation | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Réseau](networking.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Réseau](networking.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Protocole IPv4 | Oui | Oui | Oui | Oui | Oui | Oui |
 | Protocole IPv6 | Non | Non | Non | Non | Non | Non |
-| **Approbation** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Approbation** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | **[Confidentialité, sécurité et transparence](privacy-security-and-transparency.md)** | Oui | Oui | Oui | Oui | Oui | Oui |
 | Gouvernance des données avancée | Non | Non | Non | Non | Non | Non |
 | Gestion de la sécurité avancée | Non | Non | Non | Non | Non | Non |
@@ -196,7 +196,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 | Accord de traitement de données Microsoft | Non | Non | Non | Non | Non | Non |
 | Données PAN sous régie PCI | Non | Non | Non | Non | Non | Non |
 | **[Continuité de service](service-health-and-continuity.md)** | | | | | | |
-| **[BlackBerry](blackberry.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[BlackBerry](blackberry.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Utilisation de BlackBerry Internet Service (BIS) | Oui | Oui | Oui | Oui | Oui | Oui |
 | **[Partenaires](partners.md)** | | | | | | |
 | Création d'invitations à participer à la version d'évaluation et de bons de commande pour un client utilisant le plan spécifié | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -205,12 +205,12 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 | **[Droits d’utilisation du](product-use-rights.md)**<sup>produit 10</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
 
 <sup>1 Office 365</sup> et Office 365 gérés par 21Vianet ne fournissent la prise en charge d’aucun système d’exploitation non pris en charge par son fabricant.<br/>
-<sup>2</sup> In Office 365 Entreprise F3 operated by 21Vianet, Office 365 video is limited to viewing only (no publishing or sharing). <br/>
+<sup>2</sup> Dans Office 365 Entreprise F3 géré par 21Vianet, Office 365 vidéo est limitée à l’affichage uniquement (pas de publication ou de partage). <br/>
 <sup>3</sup> Si vous utilisez la synchronisation d’annuaires avec un annuaire Active Directory local, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory local, plutôt que du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell. <br/>
 <sup>4</sup> Pas encore disponible dans Office 365 géré par 21Vianet, mais bientôt mis à disposition. <br/>
-<sup>5</sup> Vous ne pouvez avoir qu’un seul site web public Office 365 sauf si vous avez mis à niveau une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for business subscriptions, voir [Work with your two Office 365 public websites](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5). Si vous avez un abonnement différent, en savoir plus sur les sites web publics sur l’aide [du site web public pour Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
+<sup>5</sup> Vous ne pouvez avoir qu’un seul site web public Office 365 sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for business subscriptions, voir [Work with your two Office 365 public websites](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5). Si vous avez un abonnement différent, en savoir plus sur les sites web publics sur l’aide [du site web public pour Office 365](https://support.office.com/article/a8178510-501d-4bd8-9921-b04f2e9517a5).<br/>
 <sup>6</sup> La réduction des sièges qui ont été achetés avec une remise à long terme peut être soumise à des frais de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle.<br/>
-<sup>7 Office 365 Éducation</sup> plans ne viennent pas en charge les changements de licences des Centre d’administration Microsoft 365.<br/>
+<sup>7 Office 365 Éducation</sup> plans ne viennent pas en charge les changements de licence de licence à partir du Centre d’administration Microsoft 365.<br/>
 <sup>8</sup> Microsoft Sway n'est pas disponible actuellement pour les clients de certaines régions géographiques. Certains plans Office 365 hérités qui ne sont plus commercialisés depuis août 2015 peuvent également ne pas avoir accès à Microsoft Sway. <br/>
 <sup>9</sup> Pour Office 365 géré par 21Vianet, reportez-vous au contrat de niveau de service [ici](https://www.21vbluecloud.com/office365/O365-SLA/).<br/>
 <sup>10</sup> Pour Office 365 géré par 21Vianet, reportez-vous au [contrat standard pour les services en ligne pour Office 365](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) de 21Vianet.
@@ -230,7 +230,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 > [!NOTE]
 > La version d'Office 365 gérée par 21Vianet d'Office 365 est propre à la Chine.
 
-| Fonctionnalité | Office Professionnel Plus 2013 géré par 21Vianet | Office Professionnel Plus 2016 géré par 21Vianet | Office 365 ProPlus géré par 21Vianet | Applications Microsoft 365 pour les entreprises | Microsoft 365 Business Basic géré par 21Vianet | Microsoft 365 Business Standard | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
+| Fonctionnalité | Office Professionnel Plus 2013 géré par 21Vianet | Office Professionnel Plus 2016 géré par 21Vianet | Office 365 ProPlus géré par 21Vianet | Applications Microsoft 365 pour les PME géré par 21Vianet | Microsoft 365 Business Basic géré par 21Vianet | Microsoft 365 Business Standard géré par 21Vianet | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **Applications Office** | | | | | | | | | |
 | [Microsoft Word](../office-applications-service-description/office-applications.md#microsoft-word) | Oui | Oui | Oui | Oui | Non | Oui | Non | Oui | Non |
@@ -253,7 +253,7 @@ Le tableau suivant présente les fonctionnalités des applications Office 365 di
 | [Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) | Non | Oui | Non | Non | Non | Oui | Non | Oui | Non |
 | [Office Mobile pour Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) | Non | Oui | Non | Non | Non | Oui | Non | Oui | Non |
 | Outlook pour Android | Non | Oui | Oui | Oui | Non | Oui | Non | Oui | Non |
-| **Enterprise valeur** | **Office Professionnel Plus 2013 géré par 21Vianet** | **Office Professionnel Plus 2016 géré par 21Vianet** | **Office 365 ProPlus géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Basic géré par 21Vianet** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Enterprise valeur** | **Office Professionnel Plus 2013 géré par 21Vianet** | **Office Professionnel Plus 2016 géré par 21Vianet** | **Office 365 ProPlus géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Basic géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Cinq installations par utilisateur sur PC ou Mac | Non | Oui | Oui<sup>6</sup> | Oui<sup>6</sup> | Non | Oui | Non | Oui | Non |
 | Mise en service automatisée du compte d'utilisateur | N/D | Oui | Oui | Oui | Oui | Oui | Oui | Oui | Oui |
 | Interface utilisateur multilingue | Oui | Oui | Oui | Non | Non | Oui | Non | Oui | Non |
@@ -308,7 +308,7 @@ Le tableau suivant fournit des liens vers des comparaisons de fonctionnalités O
 > [!NOTE]
 > - Nous avons sélectionné un nombre limité de fonctionnalités Office pour illustrer les fonctionnalités avancées de la suite bureautique Office. La liste des fonctionnalités de Microsoft Office présentées dans ce tableau comparatif n’est pas exhaustive.
 > - Microsoft Office 365 ProPlus est une offre d’abonnement mensuel à la dernière suite bureautique Office.
-> - Microsoft Office Les clients Web Apps Server 2013 locaux obtiennent une licence de modification Office sur le Web s’ils ont acheté une licence de suite de bureau Office (par exemple, Office Professionnel Plus, Office Standard ou une licence Office 365 ProPlus).
+> - Microsoft Office Les clients Web Apps Server 2013 locaux obtiennent une licence d’édition Office sur le Web s’ils ont acheté une licence de suite de bureau Office (par exemple, Office Professionnel Plus, Office Standard ou une licence Office 365 ProPlus).
 
 | Application | Office sur le Web géré par 21Vianet | Créer un lien vers une comparaison détaillée des fonctionnalités |
 |:-----|:-----|:-----|
@@ -324,18 +324,18 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 > [!NOTE]
 > La version d'Office 365 gérée par 21Vianet d'Office 365 est propre à la Chine.
 
-| Fonctionnalité | Microsoft 365 Business Basic géré par 21Vianet | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
+| Fonctionnalité | Microsoft 365 Business Basic géré par 21Vianet | Applications Microsoft 365 pour les PME géré par 21Vianet | Microsoft 365 Business Standard géré par 21Vianet | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[Planification et déploiement](../exchange-online-service-description/planning-and-deployment.md)** | | | | | | |
 | Déploiement hybride pris en charge | Oui<sup>9, 10</sup> | Oui<sup>10</sup> | Oui<sup>9, 10</sup> | Oui<sup>10</sup> | Oui<sup>10</sup> | Oui<sup>10</sup> |
 | Migration IMAP prise en charge | Oui | Oui | Oui | Oui | Oui | Oui |
 | Migration à basculement prise en charge | Oui | Oui | Oui | Oui | Oui | Oui |
 | Migration intermédiaire prise en charge | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Autorisations](../exchange-online-service-description/permissions.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Autorisations](../exchange-online-service-description/permissions.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Autorisations basées sur des rôles | Oui | Oui | Oui | Oui | Oui | Non |
 | Groupes de rôles | Oui | Oui | Oui | Oui | Oui | Non |
 | Stratégies d'attribution de rôle | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Stratégie et conformité de message](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Stratégie et conformité des messages](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Archivage de boîtes aux lettres Exchange Online | Oui | Oui | Oui | Oui | Oui | Non |
 | Archivage en nuage de boîtes aux lettres locales | Non | Non | Non | Non | Non | Non |
 | Balises et stratégies de rétention | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -349,7 +349,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 | Règles de flux de messagerie (règles de transport) | Oui<sup>3</sup> | Oui<sup>3</sup> | Oui<sup>3</sup> | Oui<sup>3</sup> | Oui<sup>3</sup> | Oui<sup>3</sup> |
 | Protection contre la perte de données | Non | Non | Non | Non | Oui | Non |
 | Journalisation | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Protection contre le courrier indésirable et les programmes malveillants](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Protection contre le courrier indésirable et les programmes malveillants](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Protection anti-courrier indésirable intégrée | Oui | Oui | Oui | Oui | Oui | Oui |
 | Customize anti-spam policies | Oui | Oui | Oui | Oui | Oui | Oui<sup>4</sup> |
 | Protection anti-programme malveillant intégrée | Oui<sup>5</sup> | Oui<sup>5</sup> | Oui<sup>5</sup> | Oui<sup>5</sup> | Oui<sup>5</sup> | Oui<sup>5</sup> |
@@ -357,13 +357,13 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 | Quarantaine - gestion par l'administrateur | Oui | Oui | Oui | Oui | Oui | Oui<sup>4</sup> |
 | Quarantaine - autogestion par l'utilisateur final | Oui | Oui | Oui | Oui | Oui | Oui |
 | Protection avancée contre les menaces | Non | -- | Non | Non | Non | Non |
-| **[Flux de messagerie](../exchange-online-service-description/mail-flow.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Flux de messagerie](../exchange-online-service-description/mail-flow.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Routage personnalisé du courrier sortant | Oui | Oui | Oui | Oui | Oui | Oui |
 | Secure messaging with a trusted partner | Oui | Oui | Oui | Oui | Oui | Oui |
 | Conditional mail routing | Oui | Oui | Oui | Oui | Oui | Oui |
 | Ajout d’un partenaire à une liste fiable entrante | Oui | Oui | Oui | Oui | Oui | Oui |
 | Routage de courrier hybride | Oui<sup>9</sup> | -- | Oui<sup>9</sup> | Oui | Oui | Oui |
-| **[Destinataires](../exchange-online-service-description/recipients.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Destinataires](../exchange-online-service-description/recipients.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Alertes de capacité | Oui | Oui | Oui | Oui | Oui | Oui |
 | Courrier non trié | Oui | Oui | Oui | Oui | Oui | Oui |
 | MailTips | Oui | Oui | Oui | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> |
@@ -384,17 +384,17 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 | Gestion des salles de conférence | Oui | Oui | Oui | Oui | Oui | Oui |
 | Réponses d’in-office | Oui | Oui | Oui | Oui | Oui | Oui |
 | Partage de calendrier | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> |
-| **[Fonctions de rapport et outils de dépannage](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Fonctions de rapport et outils de dépannage](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Rapports du Centre d’administration Microsoft 365 | Oui | Oui | Oui | Oui | Oui | Oui |
 | Excel de rapports | Non | Oui | Non | Oui | Oui | Oui |
 | Rapports des services Web | Oui | Oui | Oui | Oui | Oui | Oui |
 | Message trace | Oui | Oui | Oui | Oui | Oui | Oui |
 | Rapports d’audit | Oui | Oui | Oui | Oui | Oui | Oui <sup>2</sup> |
 | Rapports de messagerie unifiée | Non | Non | Non | Non | Non | Non |
-| **[Partage et collaboration](../exchange-online-service-description/sharing-and-collaboration.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Partage et collaboration](../exchange-online-service-description/sharing-and-collaboration.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Partage fédéré (y compris la publication de calendrier) | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> |
 | Dossiers publics | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Clients et appareils mobiles](../exchange-online-service-description/clients-and-mobile-devices.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Clients et appareils mobiles](../exchange-online-service-description/clients-and-mobile-devices.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Microsoft Outlook | Oui | Oui | Oui | Oui | Oui | Non <sup>6</sup> |
 | Outlook sur le web | Oui | Oui | Oui | Oui | Oui | Oui |
 | Exchange ActiveSync | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -402,29 +402,29 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 | SMTP | Oui | Oui | Oui | Oui | Oui | Oui |
 | Prise en charge des applications EWS | Oui | Oui | Oui | Oui | Oui | Non |
 | Outlook pour Mac | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Services de messagerie vocale](../exchange-online-service-description/voice-message-services.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Services de messagerie vocale](../exchange-online-service-description/voice-message-services.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Messagerie vocale | Non | Non | Non | Non | Non | Non |
 | Intégration entre la messagerie vocale et la télécopie tierce | Non | Non | Non | Non | Non | Non |
 | Interopérabilité avec messagerie vocale tierce | Non | Oui | Non | Non | Non | Non |
 | Skype Entreprise’intégration | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Haute disponibilité et continuité de service](../exchange-online-service-description/high-availability-and-business-continuity.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Haute disponibilité et continuité de service](../exchange-online-service-description/high-availability-and-business-continuity.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Réplication de boîtes aux lettres dans les centres de données | Oui | Oui | Oui | Oui | Oui | Oui |
 | Récupération de boîtes aux lettres supprimées | Oui | Oui | Oui | Oui | Oui | Oui |
 | Récupération d'éléments supprimés | Oui | Oui | Oui | Oui | Oui | Oui |
 | Récupération d'élément unique | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Interopérabilité, connectivité et compatibilité](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Interopérabilité, connectivité et compatibilité](../exchange-online-service-description/interoperability-connectivity-and-compatibility.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Skype Entreprise présence dans OWA et Outlook | Oui | Oui | Oui | Oui | Oui | Non |
 | interopérabilité SharePoint’équipe | Oui | Oui | Oui | Oui | Oui | Oui |
 | Prise en charge de la connectivité EWS | Oui | Oui | Oui | Oui | Oui | Oui |
 | Prise en charge du relais SMTP | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Configuration et administration d’Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Configuration et administration d’Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Accès au portail Microsoft Office 365 | Oui | Oui | Oui | Oui | Oui | Oui |
 | Centre d’administration Microsoft 365'accès | Oui | Oui | Oui | Oui | Oui | Non |
 | Accès au Centre d'administration Exchange | Oui | Oui | Oui | Oui | Oui | Oui |
 | Accès à Windows PowerShell à distance | Oui | Oui | Oui | Oui | Oui | Oui |
 | Stratégies ActiveSync pour les appareils mobiles | Oui | Oui | Oui | Oui | Oui | Oui |
 | Rapports d’utilisation | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Extension du service : personnalisation, les add-ins et les ressources](../exchange-online-service-description/exchange-online-service-description.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Extension du service : personnalisation, les add-ins et les ressources](../exchange-online-service-description/exchange-online-service-description.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Outlook et Outlook MAPI | Oui<sup>1</sup> | Oui<sup>1</sup> | Oui<sup>1</sup> | Oui<sup>1</sup> | Oui<sup>1</sup> | Non |
 
 <sup>1</sup> Il se peut que certains composants Web Parts et des applications tierces ne soient pas disponibles.
@@ -436,7 +436,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 <br/><sup>7</sup> Pour eDiscovery, vous avez besoin d’une requête distincte pour l’local et le cloud.
 <br/><sup>8</sup> POP est pris en charge, mais IMAP ne l’est pas.
 <br/><sup>9 Office 365 Business Essentials</sup> et Business Premium ne fournissent pas de droits d’accès pour une utilisation avec des serveurs locaux. Pour des questions de conformité, le client doit acheter ou avoir déjà acheté les licences d’accès client appropriées ou mettre à niveau une référence SKU d’entreprise, qui fournit ces droits d’accès.
-<br/><sup>10 L’Assistant</sup> Configuration hybride est Exchange 2013 CU5 et les déploiements locaux plus importants. Toutefois, certaines fonctionnalités hybrides ont des limitations : consultez la rubrique d’aide. Pour plus [d’informations, Office 365 géré par 21Vianet](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet).
+<br/><sup>10 L’Assistant</sup> Configuration hybride est Exchange 2013 CU5 et les déploiements locaux plus importants. Toutefois, certaines fonctionnalités hybrides ont des limitations : consultez la rubrique d’aide. Pour plus [d’informations, Office 365 géré par 21Vianet.](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)
 <br/><sup>11</sup> Pour Office 365 géré par 21Vianet, LinkedIn est disponible, mais pas Facebook.
 <br/><sup>12</sup> La configuration du déploiement hybride est disponible via l’Assistant Configuration hybride pour Exchange 2013 CU5 ou peut être configurée manuellement si vous avez Exchange 2013 SP1. Consultez la rubrique d’aide Pour plus [d’informations, voir Office 365 géré par 21Vianet.](/office365/admin/services-in-china/services-in-china?preserve-view=true&view=o365-21vianet)
 <br/><sup>13</sup> Les comptes connectés sont pris en charge pour les comptes &amp; POP IMAP, mais désactivés pour Outlook.com (Hotmail).
@@ -516,7 +516,7 @@ Le tableau suivant répertorie les fonctionnalités d'Exchange Online Protection
 <sup>1</sup> Les utilisateurs de messagerie sont définis en tant que « Boîtes aux lettres » et, au même titre que des contacts externes, peuvent être ajoutés, supprimés et gérés directement dans le Centre d'administration Exchange (CAE). <br/>
 <sup>2</sup> Aucune personnalisation RBAC. Rôles d'administrateur uniquement. <br/>
 <sup>3</sup>Le CAE permet d'afficher les domaines gérés et de modifier les types de domaines. Toutes les autres gestions de domaine doivent être réalisées dans le Centre d’administration Microsoft 365. <br/>
-<sup>4 Les</sup> règles de flux de messagerie (également appelées règles de transport) dans EOP sont décrites dans les règles de flux de messagerie (règles de [transport) dans Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). Les conditions, les exceptions et les actions de règle de flux de messagerie disponibles diffèrent légèrement entre EOP et Exchange Online. Ces différences sont notées dans les conditions de règle de flux de messagerie et les [exceptions (prédicats)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) dans Exchange Online et les actions de règle de flux de [messagerie dans Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).<br/>
+<sup>4 Les</sup> règles de flux de messagerie (également appelées règles de transport) dans EOP sont décrites dans les règles de flux de messagerie (règles de [transport) dans Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). Les conditions, les exceptions et les actions de règle de flux de messagerie disponibles diffèrent légèrement entre EOP et Exchange Online. Ces différences sont notées dans les conditions de règle de flux de messagerie et les [exceptions (prédicats)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) dans les Exchange Online et les actions de règle de flux de [messagerie dans Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).<br/>
 <sup>5</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres. <br/>
 <sup>5</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres.<br/>
 <sup>6 L’action</sup> de filtrage de contenu par défaut consiste à déplacer les messages indésirables vers le dossier Courrier indésirable des destinataires. Pour que cela fonctionne avec les boîtes aux lettres Exchange sur site, vous devez également configurer deux règles de transport dans votre organisation Exchange sur site pour détecter les en-têtes de courrier indésirable ajoutés par EOP. Pour plus d’informations, voir Vérifier que le courrier indésirable est acheminé vers le dossier Courrier indésirable de chaque [utilisateur.](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder)<br/>
@@ -578,12 +578,15 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 > [!NOTE]
 > La version d'Office 365 gérée par 21Vianet est propre à la Chine.
 
-| Fonctionnalités de développeur | Microsoft 365 Business Basic géré par 21Vianet | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
+| Fonctionnalités de développeur | Microsoft 365 Business Basic géré par 21Vianet | Applications Microsoft 365 pour les PME géré par 21Vianet | Microsoft 365 Business Standard géré par 21Vianet | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | Catalogue d’applications (SharePoint) | Oui | Oui | Oui | Oui | Oui | Oui |
 | Déploiement d’applications : applications hébergées dans le cloud | Oui | Oui | Oui | Oui | Oui | Oui |
 | Déploiement d’applications : SharePoint hébergées par des applications | Oui | Oui | Oui | Oui | Oui | Oui |
 | Service Gestion des applications | Oui | Oui | Oui | Oui | Oui | Oui |
+| Archivage | Oui | N/A | Oui | Oui | Oui | Non |
+| Stratégies d’alerte | Non | s/o | Non | Non | Non | Non |
+| Audit de base<sup>2</sup> | Oui | N/A | Oui | Oui | Oui | Oui |
 | BCS : alertes pour les listes externes | Non | Non | Non | Non | Oui | Non |
 | BCS : types de contenu externe (ECT) d’étendue application | Non | Non | Non | Non | Oui | Non |
 | BCS : gestion des données métiers composants WebPart | Non | Non | Non | Non | Oui | Non |
@@ -596,14 +599,22 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Browser-based customizations | Oui | Oui | Oui | Oui | Oui | Oui |
 | Client Object Model (OM) | Oui | Oui | Oui | Oui | Oui | Oui |
 | Client-side rendering (CSR) | Oui | Oui | Oui | Oui | Oui | Oui |
+| Recherche de contenu | Non | s/o | Non | Non | Non | Non |
 | Les définitions de site personnalisées | Non | Non | Non | Non | Non | Non |
 | Page de mise en service de site personnalisée | Non | Non | Non | Non | Non | Non |
+| Protection contre la perte de données Exchange Online, SharePoint Online et OneDrive Entreprise | Non | s/o | Oui | Non | Oui | Non |
 | Site du développeur | Oui | Non | Oui | Oui | Oui | Oui |
 | Applications basées sur des formulaires | Oui | Non | Oui | Oui | Oui | Oui |
 | Solutions de confiance totale | Non | Non | Non | Non | Non | Non |
+| Cas eDiscovery | Non | s/o | Non | Non | Non | Non |
+| Exportation de la découverte électronique | Non | s/o | Non | Non | Non | Non |
+| les détient eDiscovery (y compris les requêtes eDiscovery) ; | Non | s/o | Non | Non | Non | Non |
+| Gouvernance des<sup>informations 1</sup> | Oui | N/A | Oui | Oui | Oui | Oui |
 | InfoPath Forms Services | Non | Non | Non | Non | Non<sup>14</sup> | Non |
 | JavaScript Object Model | Oui | Oui | Oui | Oui | Oui | Oui |
 | List and Library APIs | Oui | Oui | Oui | Oui | Oui | Oui |
+| Étiquettes de sensibilité manuelles | Non | s/o | Non | Oui | Oui | Non |
+| chiffrement de messages Office 365 (OME) Basic | Non | s/o | Non | Non | Oui | Non |
 | Récepteur d’événements distant | Oui | Non | Oui | Oui | Oui | Oui |
 | API REST | Oui | Oui | Oui | Oui | Oui | Oui |
 | SharePoint Design Manager | Oui | Non | Oui | Oui | Oui | Oui |
@@ -615,7 +626,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Workload API: ECM APIs | Oui | Non | Oui | Oui | Oui | Oui |
 | Workload API: Search APIs | Oui | Non | Oui | Oui | Oui | Oui |
 | Workload API: Social APIs | Oui | Non | Oui | Oui | Oui | Oui |
-| **Fonctionnalités de professionnel de l'informatique** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Fonctionnalités de professionnel de l'informatique** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Synchronisation Active Directory | Oui | Oui | Oui | Oui | Oui | Oui |
 | Mappage des accès de remplacement (AAM) | Non | Non | Non | Non | Non | Non |
 | Plateforme d’analyse | Non | Non | Non | Non | Non | Non |
@@ -624,7 +635,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Assistants de configuration | Non | Non | Non | Non | Non | Non |
 | Mise à niveau différée des collections de sites | Oui | Oui | Oui | Oui | Oui | Oui |
 | Cache distribué | Non | Non | Non | Non | Non | Non |
-| Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive Entreprise | Non | Oui | Oui | Non | Oui | Non |
+| Protection contre la perte de données Exchange Online, SharePoint Online et OneDrive Entreprise | Non | Oui | Oui | Non | Oui | Non |
 | Encryption at rest | Oui | Oui | Oui | Oui | Oui | Oui |
 | Collections de sites d’en-tête d’hôte | Non | Non | Non | Non | Non | Non |
 | Gestion améliorée des autorisations | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -647,12 +658,12 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Contrôles d'intégrité de collections de sites | Oui | Oui | Oui | Oui | Oui | Oui |
 | Service d’états temporaires | Non | Non | Non | Non | Non | Non |
 | Administration centrale simplifiée | Non | Non | Non | Non | Non | Non |
-| Notifications d’état système | Non | Non | Non | Non | Non | Non |
+| Notifications d’état du système | Non | Non | Non | Non | Non | Non |
 | Récupération de base de données de contenu non attachée | Non | Non | Non | Non | Non | Non |
 | Upgrade evaluation site collections | Non | Non | Non | Oui | Oui | Oui |
 | Rapports et journalisation de l’utilisation | Non | Non | Non | Non | Non | Non |
 | Windows PowerShell prise en charge | Oui | Oui | Oui | Oui | Oui | Oui |
-| **Fonctionnalités de contenu** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Fonctionnalités de contenu** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Prise en charge des normes d’accessibilité | Oui | Oui | Oui | Oui | Oui | Oui |
 | Améliorations de la bibliothèque de biens/prise en charge vidéo | Oui | Oui | Oui | Oui | Oui | Oui |
 | Audit | Oui | Oui | Oui | Oui | Oui | Oui |
@@ -701,12 +712,12 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Navigation par facettes | Non | Non | Non | Non | Non<sup>7</sup> | Non |
 | Rendus d’image | Oui | Non | Oui | Non | Non | Non |
 | WCM: Managed navigation | Oui | Non | Oui | Oui | Oui | Oui |
-| WCM : rendu mobile et appareil | Oui | Non | Oui | Oui | Oui | Oui |
+| WCM : rendu des appareils et des appareils mobiles | Oui | Non | Oui | Oui | Oui | Oui |
 | WCM : plusieurs domaines | Non | Non | Non | Non | Non | Non |
 | WCM: Recommendations | Oui | Non | Oui | Oui | Oui | Oui |
 | WCM : Optimisation du moteur de recherche (SEO) | Oui | Non | Oui | Oui | Oui | Oui |
 | Word Automation Services | Non | Non | Non | Non | Non | Non |
-| **Fonctionnalités décisionnelles** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Fonctionnalités décisionnelles** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Business Intelligence Center | Non | Non | Non | Non | Non | Non |
 | Mesures et membres calculés | Non | Non | Non | Non | Oui | Non |
 | Bibliothèque de connexions de données | Non | Non | Non | Non | Oui | Non |
@@ -725,9 +736,9 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | SQL Server Reporting Services (SSRS) Integrated Mode | Non | Non | Non | Non | Non | Non |
 | Slicer de chronologie | Non | Non | Non | Non | Non | Non |
 | Utiliser les classeurs Excel contenant des modèles de données et interagir avec ceux-ci | Non | Non | Non | Non | Non | Non |
-| Visio web<sup>14, 15</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
+| Visio pour le web<sup>14, 15</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
 | Visio Services<sup>14</sup> | Non | Non | Non | Non | Non | Non |
-| **Fonctionnalités de recherche** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Fonctionnalités de recherche** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Traitement de contenu avancé | Oui | Non | Oui | Oui | Oui | Oui |
 | Continuous crawls | Oui | Oui | Oui | Oui | Oui | Oui |
 | Custom entity extraction | Non | Non | Non | Non | Non | Non |
@@ -756,14 +767,14 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Recherche verticale : « Personnes » | Oui | Oui | Oui | Oui | Oui | Oui |
 | Recherche verticale : « Vidéos » | Non | Non | Non | Non | Oui | Non |
 | Recherches « Cette liste » | Oui | Oui | Oui | Oui | Oui | Oui |
-| **Fonctionnalités des sites** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Fonctionnalités des sites** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Change the look | Oui | Non | Oui | Oui | Oui | Oui |
 | Connexions aux clients Microsoft Office client | Oui | Oui | Oui | Oui | Oui | Oui |
 | Prise en charge élargie des navigateurs | Oui | Oui | Oui | Oui | Oui | Oui |
 | Chemins d’accès gérés personnalisés | Non | Non | Non | Non | Non | Non |
 | Gouvernance | Oui | Oui | Oui | Oui | Oui | Oui |
 | Lanceur d’applications hybride | Oui | Oui | Oui | Oui | Oui | Oui<sup>15</sup> |
-| Sites et OneDrive hybrides | Oui | Oui | Oui | Oui | Oui | Oui<sup>15</sup> |
+| Sites et OneDrive entreprise hybrides | Oui | Oui | Oui | Oui | Oui | Oui<sup>15</sup> |
 | Évolutivité et gestion des grandes listes | Oui | Oui | Oui | Oui | Oui | Oui |
 | Connectivité mobile | Non | Oui<sup>13</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> | Oui<sup>12</sup> |
 | Interface utilisateur multilingue | Oui<sup>13</sup> | Oui<sup>13</sup> | Oui<sup>13</sup> | Oui<sup>13</sup> | Oui<sup>13</sup> | Oui<sup>13</sup> |
@@ -786,7 +797,7 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Page Utilisation du site | Non | Non | Non | Non | Non | Non |
 | Variantes | Oui | Non | Oui | Oui | Oui | Non |
 | Work Management Service | Oui | Non | Oui | Oui | Oui | Oui |
-| **Fonctionnalités sociales** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Fonctionnalités sociales** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Ask Me About | Non | Non | Non | Non | Non | Non |
 | Blogs personnels | Non | Non | Non | Non | Non | Non |
 | Réputation, badging et modération des communautés | Non | Non | Non | Non | Non | Non |
@@ -803,33 +814,33 @@ Tous les plans Office 365 incluent le service SharePoint Online, mais certains n
 | Profil | Non | Non | Non | Non | Non | Non |
 | Évaluations | Non | Non | Non | Non | Non | Non |
 | Shared with Me | Non | Non | Non | Non | Non | Non |
-| Flux de site (site d’équipe classique utilisant SharePoint réseau social) | Non | Non | Non | Non | Non | Non |
+| Flux de site (site d’équipe classique utilisant SharePoint social) | Non | Non | Non | Non | Non | Non |
 | OneDrive Entreprise | Oui | Oui | Oui | Oui | Oui | Oui<sup>2</sup> |
 | Tag profiles | Non | Non | Non | Non | Non | Non |
 | Tasks integrated with Outlook | Oui | Oui | Oui | Oui | Oui | Non |
 | Balises de tendance | Non | Non | Non | Non | Non | Non |
 | Wikis | Non | Non | Non | Non | Non | Non |
 | Yammer | Non | Non | Non | Non | Non | Non |
-| **Compléments** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Compléments** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Stockage supplémentaire | Oui | Non | Oui | Oui | Oui | Oui |
 | Applications azure provisionées : Access Services<sup>3</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
 | Applications azure provisionées : code personnalisé dans azure lightweight web role (LWR) | Oui | Oui | Oui | Oui | Oui | Oui |
 
-<sup>1 Pour</sup> utiliser la synchronisation des dossiers, vous devez avoir Office 2013 ou version ultérieure (Standard ou Professional edition) ou un abonnement qui inclut Office applications. Office 365 Business Essentials, Office 365 Entreprise E1 et les plans Office 365 Éducation ne comprennent pas d’abonnements Office applications de bureau. Toutefois, vous pouvez utiliser la synchronisation des dossiers si vous avez installé Office 2013 ou une ultérieure et vous abonner à l’un de ces plans.
+<sup>1 Pour</sup> utiliser la synchronisation des dossiers, vous devez Office 2013 ou version ultérieure (Standard ou Professional edition) ou un abonnement qui inclut Office applications. Office 365 Business Essentials, Office 365 Entreprise E1 et les plans Office 365 Éducation ne comprennent pas d’abonnements Office applications de bureau. Toutefois, vous pouvez utiliser la synchronisation des dossiers si vous avez installé Office 2013 ou une ultérieure et vous abonner à l’un de ces plans.
 <br/><sup>2 Les</sup> comptes Kiosk ont des fonctionnalités OneDrive Entreprise limitées. Les clients Kiosk peuvent utiliser l’application OneDrive Entreprise client de synchronisation de dossiers pour synchroniser les bibliothèques de documents du site d’équipe avec un ordinateur partagé et accéder aux documents hors connexion. Toutefois, les comptes kiosque n’incluent pas de site personnel OneDrive Entreprise, ils ne bénéficient donc pas d’une bibliothèque OneDrive Entreprise personnelle avec 1 To de stockage en ligne.
 <br/><sup>3</sup> Access 2010 n’est pas pris en charge.
 <br/><sup>4 Étant</sup> donné que les utilisateurs Kiosk ne peuvent pas être administrateurs, les clients ayant des utilisateurs Kiosk ont besoin d’au moins Enterprise utilisateurs pour accéder au Centre d’administration.
 <br/><sup>5 SharePoint</sup> online doivent télécharger et installer l’application gratuite Rank Model Tuning pour créer et personnaliser des modèles de classement.
 <br/><sup>6</sup> Lorsque vous utilisez des fonctionnalités eDiscovery, la licence requise pour un plan qui autorise cette fonctionnalité s’applique à tous les utilisateurs finaux qui font partie de l’action eDiscovery (recherche, mise en attente, exportation).
 <br/><sup>7 Les</sup> utilisateurs SharePoint Online authentifiés peuvent accéder aux collections de sites privées avec la navigation par facettes.
-<br/><sup>8 Les utilisateurs</sup> kiosk ne peuvent pas créer Office documents à l’aide de vignettes en direct. Pour créer un document, les utilisateurs kiosque doivent le faire  à partir d’un site SharePoint Online en sélectionnant Nouveau, puis en sélectionnant un type de fichier (document Word, classe Excel, présentation PowerPoint, bloc-notes OneNote ou enquête Excel) dans le **menu** Créer un nouveau fichier.
+<br/><sup>8 Les utilisateurs</sup> kiosk ne peuvent pas créer Office documents à l’aide de vignettes en direct. Pour créer un document, les utilisateurs kiosque doivent le faire  à partir d’un site SharePoint Online en sélectionnant Nouveau, puis en sélectionnant un type de fichier (document Word, classe Excel, présentation PowerPoint, bloc-notes OneNote ou enquête Excel) dans le **menu** Créer un fichier.
 <br/><sup>9</sup> Certains fournisseurs peuvent être bloqués dans votre pays/région.
 <br/><sup>10 Partage d’un</sup> document, d’une bibliothèque ou d’un site par courrier électronique avec une personne extérieure à votre organisation. Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Users who attempt to share with someone outside of the organization will receive the same warning message.
 <br/><sup>11 Les</sup> comptes Kiosk ont des fonctionnalités OneDrive Entreprise limitées. Les clients Kiosk peuvent utiliser l’application OneDrive Entreprise client de synchronisation de dossiers pour synchroniser les bibliothèques de documents du site d’équipe avec un ordinateur partagé et accéder aux documents hors connexion. Toutefois, les comptes kiosque n’incluent pas de site personnel OneDrive Entreprise, ils ne bénéficient donc pas d’une bibliothèque personnelle OneDrive Entreprise avec 1 To ou 5 To de stockage en ligne.
 <br/><sup>12</sup> Vous pouvez afficher des documents dans n’importe quel navigateur mobile. Vous devez installer l’application Office Mobile pour modifier des documents. Office Mobile est actuellement disponible pour les tablettes et téléphones Windows, les tablettes et téléphones Android, l’iPhone et l’iPad.
 <br/><sup>13 L’aide</sup> est disponible uniquement en chinois simplifié et en anglais.
 <br/><sup>14 Visio</sup> pour la consommation web (fonctionnalité d’affichage) sont disponibles gratuitement. Visio pour le web, les fonctionnalités de création et de modification nécessitent une licence. Pour plus d’informations sur Visio pour le web, voir la [Visio la description du service web.](../visio-online-service-description/visio-online-service-description.md)
-<br/><sup>15</sup> K1 utilisateurs peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 K1 n’inclut pas les droits cal pour accéder au serveur ; ces droits doivent être achetés séparément.
+<br/><sup>15</sup> utilisateurs K1 peuvent accéder à SharePoint Server dans une configuration hybride, mais Office 365 K1 n’inclut pas les droits cal pour accéder au serveur ; ces droits doivent être achetés séparément.
 
 ## <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
@@ -839,7 +850,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 > - Le tableau suivant indique la disponibilité des services et des clients parmi les options Office 365. Si vous souhaitez comparer des fonctionnalités individuelles parmi les différents clients [](/lyncserver/lync-server-2013-desktop-client-comparison-tables) de bureau Skype Entreprise, clients web et clients mobiles, voir Tableaux de comparaison des clients de bureau et Tableaux de comparaison des clients [mobiles.](/lyncserver/lync-server-2013-mobile-client-comparison-tables)
 > - La version d'Office 365 gérée par 21Vianet d'Office 365 est propre à la Chine.
 
-| Fonctionnalité | Microsoft 365 Business Basic géré par 21Vianet | Microsoft 365 Apps for business | Microsoft 365 Business Standard | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
+| Fonctionnalité | Microsoft 365 Business Basic géré par 21Vianet | Applications Microsoft 365 pour les PME géré par 21Vianet | Microsoft 365 Business Standard géré par 21Vianet | Office 365 Entreprise E1 géré par 21Vianet | Office 365 Entreprise E3 géré par 21Vianet | Office 365 Entreprise F3 géré par 21Vianet |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 | **[Skype Entreprise Online : clients, applications mobiles et appareils de salle de conférence](../skype-for-business-online-service-description/skype-for-business-online-features.md#clients-for-skype-for-business-online)** | | | | | | |
 | Skype Entreprise | Oui<sup>1</sup> | Oui<sup>1</sup> | Oui<sup>1</sup> | Oui<sup>1, 4</sup> | Oui | Non |
@@ -848,7 +859,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 | Lync pour Mac 2011 | Oui | Oui | Oui | Oui | Oui | Non |
 | Clients mobiles Skype Entreprise | Oui | Oui | Oui | Oui | Oui | Non |
 | Skype Entreprise Web App | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Messagerie instantanée, présence et contacts](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Messagerie instantanée, présence et contacts](../skype-for-business-online-service-description/skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Messagerie instantanée et présence de PC à PC | Oui | Oui | Oui | Oui | Oui | Non |
 | Messagerie instantanée et présence à plusieurs | Oui | Oui | Oui | Oui | Oui | Non |
 | Configuration de la carte de visite | Oui | Oui | Oui | Oui | Oui | Non |
@@ -860,29 +871,29 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 | Développement de listes de distribution | Oui | Oui | Oui | Oui | Oui | Non |
 | Conversation permanente | Non | Non | Non | Non | Non | Non |
 | Photos de l’expéditeur/du destinataire | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Média, vidéo et audio entre utilisateurs Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Média, vidéo et audio entre utilisateurs Skype](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Partage de Bureau et Partage d'écran sur vidéo | Oui | Oui | Oui | Oui | Oui | Non |
 | Partage d'applications et de Bureaux et Protocole Bureau à distance | Oui | Oui | Oui | Oui | Oui | Non |
 | Transferts de fichiers | Oui | Oui | Oui | Oui | Oui | Non |
 | Vidéo | Oui | Oui | Oui | Oui | Oui | Non |
 | Qualité de service (QoS) sur le réseau - valeur DSCP (Differentiated Services Code Point) | Non | Non | Non | Non | Non | Non |
-| **[Fédération et connectivité PIC (Public IM Connectivity)](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Fédération et connectivité PIC (Public IM Connectivity)](../skype-for-business-online-service-description/skype-for-business-online-features.md#federation-and-public-im-connectivity)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Office Communications Server 2007 R2 et Lync Server 2010 (messagerie instantanée, présence, audio, vidéo, conférences) | Oui | Non | Oui | Oui | Oui | Non |
 | Fédération XMPP (utilisé par Google Talk, par exemple) et Sametime | Non | Non | Non | Non | Non | Non |
 | Fédération Skype | Non | Non | Non | Non | Non | Non |
 | Fédération AOL et Yahoo! | Non | Non | Non | Non | Non | Non |
-| **[Réunions Skype Entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Réunions Skype Entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Audioconférence ad hoc et planification | Oui | Oui | Oui | Oui | Oui | Non |
 | Vidéoconférence ad hoc et de planification | Oui | Oui | Oui | Oui | Oui | Non |
 | Vidéo du haut-parleur actif | Oui | Oui | Oui | Oui | Oui | Non |
 | Codage et décodage H.264 | Oui | Oui | Oui | Oui | Oui | Non |
 | Vidéo à plusieurs | Oui | Oui | Oui | Oui | Oui | Non |
-| Vidéo haute définition ou images de tous les participants | Oui | Oui | Oui | Oui | Oui | Non |
+| Vidéo ou images haute définition de tous les participants | Oui | Oui | Oui | Oui | Oui | Non |
 | Contrôles de présentateur | Oui | Oui | Oui | Oui | Oui | Non |
 | Affichage sélectionné par le participant | Oui | Oui | Oui | Oui | Oui | Non |
 | OneNote partage | Oui | Oui | Oui | Oui | Oui | Non |
 | Conférence web ad hoc et de planification | Oui | Oui | Oui | Oui | Oui | Non |
-| Skype Entreprise rendez-vous à une réunion via une audioconférence (première partie) | Non | Non | Non | Non | Non | Non |
+| Skype Entreprise rendez-vous de réunion via l’audioconférence (première partie) | Non | Non | Non | Non | Non | Non |
 | Skype Entreprise rendez-vous de réunion via un fournisseur de services d’audioconférence certifié | Oui | Oui | Oui | Oui | Oui | Non |
 | PowerPoint partage | Oui | Oui | Oui | Oui | Oui | Non |
 | Transfert de fichiers | Oui | Oui | Oui | Oui | Oui | Non |
@@ -900,7 +911,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 | Planifier des réunions en ligne dans Outlook sur le web | Oui | Oui | Oui | Oui | Oui | Non |
 | Outlook pour la planification des réunions | Oui | Oui | Oui | Oui | Oui | Non |
 | Création de réunions publiques avec des ID de réunion statiques à partir d'Outlook | Non | Non | Non | Non | Non | Non |
-| **Appel vocal** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **Appel vocal** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Options occupées | Non | Non | Non | Non | Non | Non |
 | Survivable Branch Appliance | Non | Non | Non | Non | Non | Non |
 | Contrôle d'admission des appels | Non | Non | Non | Non | Non | Non |
@@ -936,10 +947,10 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 | Moniteur d'appel vidéo | Non | Non | Non | Non | Non | Non |
 | Messagerie vocale | Non | Non | Non | Non | Non | Non |
 | [Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels nationaux, avec achat de modules add-on requis) | Non | Non | Non | Non | Non | Non |
-| [Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels internationaux, achat d’un module add-on requis) | Non | Non | Non | Non | Non | Non |
+| [Forfaits d’appels](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans) (forfait d’appels internationaux, avec achat de modules add-on requis) | Non | Non | Non | Non | Non | Non |
 | [Crédits de communication](/microsoftteams/what-are-communications-credits) | Non | Non | Non | Non | Non | Non |
 | Appels vocaux Skype Entreprise | Non | Non | Non | Non | Non | Non |
-| **[Sécurité et archivage](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Sécurité et archivage](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Chiffrement de messagerie instantanée et multimédia | Oui | Oui | Oui | Oui | Oui | Non |
 | Filtrage de la messagerie instantanée et des fichiers | Non | Non | Non | Non | Non | Non |
 | Contrôle de version du client | Oui | Oui | Oui | Oui | Oui | Non |
@@ -948,7 +959,7 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 | Archivage du partage d’application et du partage de bureau | Non | Non | Non | Non | Non | Non |
 | Configuration de l’archivage au niveau de l’utilisateur | Non<sup>2</sup> | Non<sup>2</sup> | Non<sup>2</sup> | Non<sup>2</sup> | Non | Non |
 | Fichiers de suivi de connexion | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Interopérabilité Exchange et SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Interopérabilité Exchange et SharePoint](../skype-for-business-online-service-description/skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Interopérabilité de la présence avec les Exchange Server | Oui | Oui | Oui | Oui | Oui | Non |
 | Interopérabilité de la présence avec les Exchange Online | Oui | Oui | Oui | Oui | Oui | Non |
 | Interopérabilité de la messagerie unifiée avec Exchange Server | Non | Non | Non | Non | Non | Non |
@@ -958,14 +969,14 @@ Le tableau suivant répertorie les fonctionnalités de Skype Entreprise Online d
 | Interopérabilité de l'archivage avec Exchange Online | Non | Non | Non | Non | Non | Non |
 | Recherche de compétences avec SharePoint Server | Non | Non | Non | Non | Non | Non |
 | Recherche de compétences avec SharePoint Online | Non | Non | Non | Non | Non | Non |
-| **[Gestion et administration de Skype Entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les entreprises** | **Microsoft 365 Business Standard** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Gestion et administration de Skype Entreprise Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Portail Microsoft Office 365 | Oui | Oui | Oui | Oui | Oui | Non |
 | Centre d’administration Microsoft 365 | Oui | Oui | Oui | Oui | Oui | Non |
 | Centre d'administration Skype Entreprise | Oui | Oui<sup>3</sup> | Oui | Oui | Oui | Non |
 | Windows PowerShell | Oui | Oui | Oui | Oui | Oui | Non |
 | Skype Entreprise Rapports en ligne dans Centre d’administration Microsoft 365 | Oui | Oui | Oui | Oui | Oui | Non |
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype Entreprise (Lync) complète, qui intègre des fonctionnalités supplémentaires, notamment des fonctionnalités avancées de prise en charge de téléphonie, d'archivage et de conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, voir les tableaux de [comparaison des clients de bureau.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l'application Skype Entreprise (Lync) complète, qui intègre des fonctionnalités supplémentaires, notamment des fonctionnalités avancées de prise en charge de téléphonie, d'archivage et de conformité. Une licence Skype Entreprise Online doit être attribuée à chaque utilisateur. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de [comparaison des clients de bureau.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>3</sup> Only accessible through the Skype for Business admin center management interface.
 <br/><sup>4</sup> In Office 365 operated by 21Vianet, the Skype for Business client is supported for use with these subscription options, but it is not included. To access multiparty video (gallery view), OneNote meeting notes, recording, and calendar delegation features, users must have rights to the full Skype for Business client. You can obtain the full Skype for Business client by purchasing Office 2013 Professional Plus.
@@ -1020,7 +1031,7 @@ Le tableau suivant répertorie les plans Office 365 qui incluent le service Shar
 |Vidéo du haut-parleur actif|Non|Oui|
 |Codage et décodage H.264|Non|Oui|
 |Vidéo à plusieurs|Non|Oui|
-|Vidéo haute définition ou images de tous les participants|Non|Oui|
+|Vidéo ou images haute définition de tous les participants|Non|Oui|
 |Contrôles de présentateur|Non|Oui|
 |Affichage sélectionné par le participant|Non|Oui|
 |OneNote partage|Non|Oui|
@@ -1066,7 +1077,7 @@ Le tableau suivant répertorie les plans Office 365 qui incluent le service Shar
 |Windows PowerShell|Oui|Oui|
 |Skype Entreprise Rapports en ligne dans Centre d’administration Microsoft 365|Non<sup>4</sup>|Non<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l’application Skype Entreprise (Lync), qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, les fonctionnalités de conformité de &amp; l’archivage. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de comparaison des [clients de bureau.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic est disponible pour tous les clients. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 qui comprennent Skype Entreprise Online. Office 365 ProPlus et Office 365 Entreprise E3 incluent l’application Skype Entreprise (Lync), qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de téléphonie avancée, les fonctionnalités de conformité de &amp; l’archivage. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, consultez les tableaux de [comparaison des clients de bureau.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1081,7 +1092,7 @@ Les fonctionnalités mobiles suivantes ne sont pas pris en charge :
 - OneDrive Entreprise (pris en charge sur Android uniquement)
 - Recherche de & de calendrier
 - Recherche de salle de conférence & réservation
-- Places, carte
+- Places Card
 - « LinkedIn » & données « Rapports vers » sur la carte de visite
 - Favoris
 - Lire mes e-mails
@@ -1160,7 +1171,7 @@ Le tableau suivant répertorie les fonctionnalités de Project Online disponible
 |[Fonctionnalité de présence avec Skype Entreprise](../project-online-service-description/project-publishing.md#presence-with-skype-for-business)|Non|Oui|Oui|Oui|Non|
 |[Publier des projets sur Project Server ou Project Online](../project-online-service-description/project-publishing.md#publish-projects-on-project-server-or-project-online)|Non|Oui|Oui|Oui|Non|
 |[Enregistrez un Project MPP sur SharePoint](../project-online-service-description/project-publishing.md#save-a-project-mpp-file-on-sharepoint)|Non|Oui|Oui|Oui|Non|
-|[Synchronisation de la liste des tâches avec SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|Non|Oui|Oui|Oui|Non|
+|[Synchronisation des listes de tâches avec SharePoint](../project-online-service-description/project-publishing.md#task-list-sync-to-sharepoint)|Non|Oui|Oui|Oui|Non|
 |**Services de base**|**Project Online Essentials pour Office 365 géré par 21Vianet**|**Project Online Professionnel pour Office 365 géré par 21Vianet**|**Project Online Premium pour Office 365 géré par 21Vianet**|**Project Professionnel 2016 pour Office 365 géré par 21Vianet**|**Project Server 2016 pour Office 365 géré par 21Vianet**|
 |[Intégration d'Active Directory](../project-online-service-description/core-services-functionality.md#active-directory-integration)|Oui<sup>1</sup>|Oui|Oui|Non|Oui|
 |[Administration, déploiement et extensibilité](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|Non<sup>2</sup>|Oui|Oui|Non|Oui|
