@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des abonnements Office 365 pour le gouvernement américain (ou Office 365 Secteur Public). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques Office 365 Secteur Public aux États-Unis.
-ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701892"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371781"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -30,7 +30,7 @@ ms.locfileid: "54701892"
 >
 >Nous vous remercions de votre support, car nous prenons les mesures nécessaires pour nous assurer que nos services restent disponibles et fiables dans ces périodes exceptionnelles.<br/>
 
-En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 Secteur Public (ou Office 365 Secteur Public). Cette description de service fournit une vue d’ensemble des fonctionnalités propres Office 365 Secteur Public aux États-Unis. Nous vous recommandons de lire cette description de service en même temps que d’autres Microsoft 365 [et Office 365 descriptions de service.](../../office-365-service-descriptions-technet-library.md)
+En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des plans Office 365 Secteur Public (ou Office 365 Secteur Public). Cette description de service fournit une vue d’ensemble des fonctionnalités propres aux environnements Office 365 Secteur Public États-Unis. Nous vous recommandons de lire cette description de service en même temps que d’autres Microsoft 365 [et Office 365 descriptions de service.](../../office-365-service-descriptions-technet-library.md)
 
 ## <a name="how-to-use-this-service-description"></a>Utilisation de la description de ce service
 
@@ -81,7 +81,7 @@ Office 365 Secteur Public services sont fournis à partir de centres de données
 
 Si vos utilisateurs sont situés aux États-Unis lors de l’utilisation de Office sur le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation d’Active Directory Federation Services (AD FS) 2.0 et que vous définissez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via l' connexion unique, tout contenu client temporairement mis en cache dans Office sur le Web se trouve aux États-Unis.
 
-La page Utilisation du site pour SharePoint sites est disponible pour les plans du secteur public, bien que, conformément à la conformité, certaines fonctionnalités de cette page ne soient disponibles que pour les clients commerciaux. Pour en savoir plus, [consultez la page Utilisation](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)du site SharePoint sites dans Microsoft 365 .
+La page Utilisation du site pour les sites SharePoint est disponible pour les plans du secteur public, bien que, conformément à la conformité, certaines fonctionnalités de cette page ne soient disponibles que pour les clients commerciaux. Pour en savoir plus, [consultez la page Utilisation](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)du site SharePoint sites dans Microsoft 365 .
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 Secteur Public services tiers et tiers
 
@@ -142,16 +142,17 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 
 |Service Office 365|Office 365 pour le gouvernement G1|Office 365 pour le gouvernement G3|Office 365 Secteur Public G5|Office 365 Secteur Public F3|
 |---|---|---|---|---|
-|Office pour le web|Oui|Oui|Oui|Oui|
-|Applications Microsoft 365 for entreprise|Non|Oui|Oui|Non|
 |Exchange Online|Oui|Oui|Oui|Oui|
 |Exchange Online Protection|Oui|Oui|Oui|Oui|
-|SharePoint Online|Oui|Oui|Oui|Oui|
+|Applications Microsoft 365 for entreprise|Non|Oui|Oui|Non|
+|Office pour le web|Oui|Oui|Oui|Oui|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|
-|Skype for Business (Instant Messaging &amp; Presence)|Oui<sup>1</sup>|Oui|Oui|Oui<sup>1</sup>|
-|Voix - Système téléphonique, audioconférence|Non<sup>2</sup>|Non<sup>2</sup>|Oui<sup>5</sup>|Non|
 |Power BI Pro|Non<sup>2</sup>|Non<sup>2</sup>|Oui|Non<sup>2</sup>|
 |Project Online|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|Non<sup>2</sup>|
+|SharePoint Online|Oui|Oui|Oui|Oui|
+|SharePoint Syntex|Oui|Oui|Oui|Oui|
+|Skype for Business (Instant Messaging &amp; Presence)|Oui<sup>1</sup>|Oui|Oui|Oui<sup>1</sup>|
+|Voix - Système téléphonique, audioconférence|Non<sup>2</sup>|Non<sup>2</sup>|Oui<sup>5</sup>|Non|
 |Visio pour le web|Non<sup>6</sup>|Non<sup>6</sup>|Non<sup>6</sup>|Non<sup>6</sup>|
 |Yammer Entreprise|Non<sup>4</sup>|Non<sup>4</sup>|Non<sup>4</sup>|Non<sup>4</sup>|
 
@@ -240,7 +241,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Navigateur utilisé|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Système d'exploitation utilisé|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Créer vos propres rapports à l’aide Microsoft 365 web de création de rapports|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
-|**[Mises à jour de service](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
+|**[Mises à jour du service](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Mises à jour normales fournies à tous les clients|Oui|Oui|Oui|Oui|
 |Notifications envoyées au centre de messages lorsqu'une action est requise|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
 |Roadmap.office.com pour certaines mises à jour de service|Non<sup>10, 13</sup>|Non<sup>10, 13</sup>|Non<sup>10, 13</sup>|Non<sup>10, 13</sup>|
@@ -281,16 +282,16 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |**[Contrat de niveau de service](../../office-365-platform-service-description/service-level-agreement.md)**|Oui|Oui|Oui|Oui|
 |**[Droits d’utilisation de logiciels](../../office-365-platform-service-description/product-use-rights.md)**|Oui|Oui|Oui|Oui|
 
-> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Office 365 Secteur public G1 ou Office 365 Secteur Public F3. >
+> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Office 365 Secteur public G1 ou Office 365 Secteur Public F3. >
 <br/><sup>2 Clients</sup> BBCS et BIS existants peuvent continuer à utiliser le service. Les nouveaux clients ne sont pas acceptés.
 <br/><sup>3</sup> Si vous utilisez la synchronisation d’annuaires, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory, plutôt que du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell.
 <br/><sup>4 Si</sup> vous utilisez la synchronisation de mot de passe, les utilisateurs doivent modifier leur mot de passe dans Active Directory local.
 <br/><sup>5 Pour découvrir</sup> comment définir des stratégies de gestion des mots de passe en libre-service pour les utilisateurs, voir Gérer les mots de passe [dans Azure AD.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)
-<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un autre abonnement, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
+<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un abonnement différent, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
 <br/><sup>7 La réduction</sup> des sièges achetés avec une remise à terme peut être soumise à des frais de résiliation anticipée. Ceci n’est pas applicable aux abonnements payés sur une base mensuelle.
-<br/><sup>8 Les</sup> plans suivants ne prisent pas en charge les changements de licence par Centre d’administration Microsoft 365 : Office 365 Secteur public G1, Office 365 Secteur public G3, Office 365 Secteur Public F3.
+<br/><sup>8 Les</sup> plans suivants ne prisent pas en charge les changements de licence par Centre d’administration Microsoft 365 : Office 365 Secteur public G1, Office 365 Secteur public G3, Office 365 Secteur Public F3.
 <br/><sup>9</sup> Not yet available in Cloud de la communauté du secteur public High, but coming soon.
-<br/><sup>10</sup> Pour Office 365 Secteur public G1, G3 et F3, la publication ciblée et la feuille de route Office 365 pour les entreprises s’appliquent ; toutefois, il peut y avoir des différences ou des retards pour des mises à jour de service spécifiques en raison des exigences de [conformité.](https://www.microsoft.com/trust-center)
+<br/><sup>10</sup> Pour Office 365 Secteur public G1, G3 et F3, la publication ciblée et la feuille de route Office 365 entreprise s’appliquent ; toutefois, il peut y avoir des différences ou des retards pour des mises à jour de service spécifiques en raison des exigences de [conformité.](https://www.microsoft.com/trust-center)
 <br/><sup>11 Pas</sup> encore disponible dans Office 365 Secteur Public offres, mais bientôt disponible.
 <br/><sup>12 Non</sup> inclus, mais peut être acheté en tant que module Cloud de la communauté du secteur public.
 <br/><sup>13 Non pris</sup> en charge pour Office 365 Secteur Public offres.
@@ -299,7 +300,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>15 Pas</sup> encore disponible dans l’environnement DoD, mais bientôt disponible.
 <br/><sup>16 Le</sup> Centre d’administration n’inclut pas l’analyse de l’utilisation dans les environnements DoD Cloud de la communauté du secteur public High.
 <br/><sup>17 Non</sup> pris en charge pour Cloud de la communauté du secteur public environnements Élevé ou DoD.
-<br/><sup>18</sup> L’anti-hameçonnage pour l’emprunt d’identité d’utilisateur et de domaine et la veille contre l’usurpation d’identité ne sont pas encore disponibles dans Cloud de la communauté du secteur public Haut et DoD.
+<br/><sup>18</sup> L’anti-hameçonnage pour l’usurpation d’identité d’utilisateur et de domaine et la veille contre l’usurpation d’identité ne sont pas encore disponibles dans Cloud de la communauté du secteur public High et DoD.
 <br/><sup>19</sup> Not yet available in Cloud de la communauté du secteur public environment, but coming soon.
 <br/><sup>20 Consommation</sup> uniquement pour Microsoft Stream : pas de publication ou de partage.
 <br/><sup>21 Non</sup> disponible pour l’API microsoft Graph ou la Microsoft Teams.
@@ -359,13 +360,13 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 |Mises à niveau de la version|Non|Oui<sup>4</sup>|Oui<sup>4</sup>|Non|
 |Volume activation (KMS/MAK)|Non|Non|Non|Non|
 
-> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Office 365 Secteur public G1 ou Office 365 Secteur Public F3.
+> <sup>1</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Office 365 Secteur public G1 ou Office 365 Secteur Public F3.
 <br/><sup>2 Windows Server AD</sup> RMS est un serveur local qui doit être acheté et géré séparément pour activer les fonctionnalités IRM pris en charge.
 <br/><sup>3 Skype Entreprise</sup> Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 Entreprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup> Pas encore disponible dans Cloud de la communauté du secteur public environnements Élevé ou DoD, mais bientôt disponible.
-<br/><sup>5 Pour</sup> plus [d’Outlook,](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) voir l’utilisation de Cloud de la communauté du secteur public pour iOS et Android.
+<br/><sup>5 Pour</sup> plus [d’Outlook,](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) voir Utilisation de Outlook pour iOS et Android dans la Cloud de la communauté du secteur public plus d’informations.
 <br/><sup>6</sup> Pas encore disponible dans Office 365'environnement DoD, mais bientôt disponible.
-<br/><sup>7 Les</sup> applications sont entièrement disponibles dans les clouds du secteur public, à l’exception des fonctionnalités spécifiques qui ne sont pas disponibles pour le moment. Pour [plus d Office, voir la disponibilité des fonctionnalités](#office-application-and-feature-availability-in-government-plans) de l’application.
+<br/><sup>7 Les</sup> applications sont entièrement disponibles dans les clouds du secteur public, à l’exception des fonctionnalités spécifiques qui ne sont pas disponibles pour le moment. Pour [plus d Office, voir la disponibilité des fonctionnalités](#office-application-and-feature-availability-in-government-plans) d’application.
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>Office disponibilité des applications et des fonctionnalités dans les plans pour le gouvernement
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Découvrez la disponibilité SharePoint fonctionnalités pour les clients cloud du gouvernement des États-Unis.
-ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701823"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371770"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint pour les environnements pour le gouvernement américain
 
@@ -65,6 +65,8 @@ Pour plus d’informations Azure Active Directory fonctionnalités pour le gouve
 
 Pour plus d’informations sur les fonctionnalités Azure Information Protection pour le secteur public, consultez la description du service [Azure Information Protection Premium Administration.](/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description) 
 
+Pour plus d’informations SharePoint Syntex fonctionnalités, voir la [description SharePoint Syntex service.](/office365/servicedescriptions/sharepoint-syntex-service-description/sharepoint-syntex-features)
+
 ## <a name="sites-and-content"></a>Sites et contenu
 
 Voici les différences entre les sites et les fonctionnalités de contenu pour les clients commerciaux et celles pour les clients cloud du secteur privé :
@@ -89,10 +91,10 @@ Pour plus d’informations sur les différences de fonctionnalités entre le clo
 
 ## <a name="plan-for-governance"></a>Planifier la gouvernance
 
-Votre passage au cloud offre des expériences transformatives avec des contrôles d’administration intégrés. Déterminez vos besoins en matière de gouvernance et la façon dont vous pouvez les respecter. Pour plus [d’informations,](https://resources.techcommunity.microsoft.com/teamwork-governance/) voir Planifier la gouvernance pour transformer le travail Microsoft 365 travail en équipe. Vous trouverez des conseils sur Office 365 groupes, SharePoint, Teams et bien plus encore.
+Votre passage au cloud offre des expériences transformatives avec des contrôles d’administration intégrés. Déterminez vos besoins en matière de gouvernance et la façon dont vous pouvez les respecter. Pour plus [d’informations,](https://resources.techcommunity.microsoft.com/teamwork-governance/) voir Planifier la gouvernance afin de transformer le travail Microsoft 365 travail en équipe. Vous trouverez des conseils sur Office 365 groupes, SharePoint, Teams et bien plus encore.
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>Déployer des SharePoint pour la collaboration
 
-Après avoir installé votre organisation dans le cloud microsoft pour le gouvernement des États-Unis, suivez le chemin d’accès de déploiement recommandé décrit dans le centre de ressources [SharePoint’adoption de microsoft.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) N’oubliez pas de vous engager avec vos champions de l’adoption et de la gestion des changements.
+Après avoir installé votre organisation dans le cloud microsoft pour le gouvernement des États-Unis, suivez le chemin d’accès de déploiement recommandé décrit dans le centre de ressources [SharePoint’adoption.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) N’oubliez pas de vous engager avec vos champions de l’adoption et de la gestion des changements.
 Vous pouvez également travailler avec [FastTrack](https://www.microsoft.com/fasttrack) ou votre partenaire choisi pour déployer le service auprès de vos utilisateurs.
 Visitez le [Centre de](https://www.microsoft.com/trust-center) confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, principes fondamentaux pour la façon dont nous donnent aux organisations la possibilité de servir leurs clients.
