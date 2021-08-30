@@ -14,16 +14,16 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Grâce à Office 365, Project Online offre de puissantes fonctionnalités de gestion de projet pour la planification, la hiér doncisation et la gestion des projets et des investissements de portefeuille de projets, pratiquement n’importe où sur presque n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 5b0674e4b26718d4e2d4aef6d0d4db59379d951b
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
+ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371791"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505699"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
-## <a name="overview"></a>Présentation
+## <a name="overview"></a>Vue d’ensemble
 
 Microsoft Project propose les applications suivantes pour répondre aux besoins de votre organisation en matière de gestion de projet et de travail :
 
@@ -70,7 +70,7 @@ Bien Project web et Project Online sont des applications distinctes, vous pouvez
 
 Ce diagramme montre comment les applications peuvent fonctionner côte à côte.
 
-![Diagramme montrant Project sur le web et Project Online ensemble](../media/project-online-applications.png)
+![Diagramme montrant Project sur le web et Project Online ensemble.](../media/project-online-applications.png)
 
 À l’avenir, Microsoft se concentrera sur Project pour les innovations web. Toutefois, vous pouvez continuer à utiliser Project Online confiance, car il continuera à bénéficier d’améliorations clés en matière de performances et de sécurité.
 
@@ -161,7 +161,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |Approbations de feuille de temps | Les membres de l’équipe peuvent envoyer des feuilles de temps pour approbation. Les responsables et les superviseurs de ressources peuvent examiner, approuver et refuser les feuilles de temps envoyées. | Oui | Oui |
 |Configuration des périodes non travaillées | Ajoutez des vacances, des jours fériés, des arrêts de travail et d'autres périodes chômées au planning de votre projet. | Non | Oui |
 |**Collaboration** ||||
-|Pièces jointes | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérez ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
+|Attachments | Joindre des documents, des images et d’autres fichiers au niveau de l’équipe, du projet ou de la tâche. Gérez ces pièces jointes dans une bibliothèque centrale au niveau de l’équipe ou du projet. | Oui | Oui |
 |Membres de l’équipe externe |Collaborez avec des personnes extérieures à votre organisation en leur accordant l’accès à l’affichage et à l’interaction avec vos projets, tâches et documents. <sup>6</sup> | Oui | Oui |
 |Sites de projet | Créez et personnalisez un hub pour la collaboration et les documents pour un projet. | Oui | Oui |
 |Microsoft Teams’intégration | Collaborez sur des projets dans Microsoft Teams. <sup>1</sup> | Oui | Oui |
@@ -197,7 +197,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |Gestion des utilisateurs | Gérer les rôles et autorisations des utilisateurs et des groupes au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
 |Administration des services | Planifiez, installez et configurez, maintenez à jour et étendez votre environnement Microsoft Project dans le cadre de votre environnement Office 365<sup>1.</sup> | Non | Oui |
 
-#### <a name="notes"></a>Commentaires
+#### <a name="notes"></a>Notes
 
 <sup>1</sup> Nécessite un abonnement Office ou Microsoft 365 commercial.<br/>
 <sup>2 Azure Boards</sup> acquis séparément.<br/>
@@ -295,9 +295,9 @@ Pour Project clients avec cinq (5) ou plus Project pour les licences web, les Pr
 |--------------------------------------------------------------------|------------|------------|------------|
 | Base de données dataverse (anciennement Common Data Service) : inclus/client | 3 Go        | 5 Go        | 5 Go        |
 | Base de données deverse : licence d’abonnement utilisateur/cumulée (USL)        | 50 Mo       | 250 Mo      | 250 Mo      |
-| Journal duverse : inclus/client                                     | 2 Go        | 2 Go        | 2 Go        |
+| Journal duverse : inclus/client                                     | 2 Go        | 2 Go        | 2 Go        |
 | Fichier dataverse : inclus/client                                    | 20 Go       | 20 Go       | 20 Go       |
-| Fichier dataverse : accru/USL                                        | 400 Mo      | 2 Go        | 2 Go        |
+| Fichier dataverse : accru/USL                                        | 400 Mo      | 2 Go        | 2 Go        |
 
 Il existe d’autres abonnements Microsoft Project qui donnent droit à la capacité de stockage dataverse. Consultez le Guide des licences [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) et le Guide des licences [Power Apps, Power Automate et Power Virtual Agents](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409) pour d’autres droits de capacité de stockage de dataverse.
 
