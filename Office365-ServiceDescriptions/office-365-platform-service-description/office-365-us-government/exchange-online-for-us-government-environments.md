@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la description Exchange Online service.
-ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement américain et le cloud commercial, comme indiqué dans la description Exchange Online service.
+ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363610"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702306"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements pour le gouvernement américain
 
 Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement des États-Unis et le cloud commercial, comme indiqué dans la [description Exchange Online service.](../../exchange-online-service-description/exchange-online-service-description.md) Exchange Online est disponible pour les environnements Cloud de la communauté du secteur public (Cloud de la communauté du secteur public), Cloud de la communauté du secteur public High et Department of Defense (DoD).
 
-Pour plus d’informations sur le cloud du gouvernement, notamment sur l’éligibilité et les achats, [voir Microsoft 365 secteurs](./microsoft-365-government-how-to-buy.md)publics - comment acheter . Pour comparer les Office 365 Secteur Public, voir [Office 365 Secteur Public plans.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
+Pour plus d’informations sur le cloud du gouvernement, notamment sur les conditions d’éligibilité et les achats, [voir Microsoft 365 Gouvernement -](./microsoft-365-government-how-to-buy.md)comment acheter . Pour comparer les Office 365 Secteur Public, voir [Office 365 Secteur Public plans.](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements)
 
 Pour en savoir plus sur les points de terminaison requis lors de la gestion de la connectivité réseau, voir [Office 365 U.S. Government Cloud de la communauté du secteur public High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) or [Office 365 U.S. Government DoD endpoints](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
 En plus de profiter des fonctionnalités et des fonctionnalités de Office 365, les organisations bénéficient des fonctionnalités suivantes propres aux environnements cloud du gouvernement des États-Unis :
 
-- Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Office 365 commercial.
+- Le contenu client de votre organisation est logiquement séparé du contenu client dans les services Office 365 commerciaux.
 
 - Le contenu client de votre organisation est stocké au repos aux États-Unis.
 
@@ -96,7 +96,7 @@ Le tableau suivant indique si des fonctionnalités Exchange Online spécifiées 
 |Groupes Office 365|Oui|Oui|Oui|L’accès invité Office 365 groupes de sécurité n’est pas pris en charge Cloud de la communauté du secteur public environnements Élevé et DoD. Pour plus d’informations, voir <a href="/azure/azure-government/documentation-government-services-securityandidentity">Azure Government Security + Identity</a>.|
 |Groupes de distribution|Oui|Oui|Oui||
 |Contacts externes (globaux)|Oui|Oui|Oui|Soumis aux limitations de collaboration de relation organisationnelle dans Cloud de la communauté du secteur public environnements Élevé et DoD. |
-|Liaison de contacts avec des réseaux sociaux|Oui|Non|Non|Cette fonctionnalité n’est pas prise en charge dans Cloud de la communauté du secteur public High ou DoD.|
+|Liaison de contacts avec des réseaux sociaux|Oui|Non|Non|Cette fonctionnalité n’est pas prise en charge dans Cloud de la communauté du secteur public Élevé ou DoD.|
 |Boîtes aux lettres de ressources|Oui|Oui|Oui||
 |Gestion des salles de conférence|Oui|Oui|Oui||
 |Réponses d’in-office|Oui|Oui|Oui||
@@ -138,16 +138,16 @@ Le tableau suivant indique si des fonctionnalités Exchange Online spécifiées 
 |Prise en charge de la connectivité EWS|Oui|Oui|Oui||
 |Prise en charge du relais SMTP|Oui|Oui|Oui||
 |**[Configuration et administration d’Exchange Online](../../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
-|Accès au portail Microsoft Office 365|Oui|Oui|Non|Rapports non disponibles pour DoD. Reportez-vous à la section <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">des</a> fonctionnalités de plateforme de la description Office 365 service pour le gouvernement américain pour les mises à jour/la disponibilité actuelle.|
-|Centre d’administration Microsoft 365'accès|Oui|Oui|Non|Rapports non disponibles pour DoD. Reportez-vous à la section <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">des</a> fonctionnalités de plateforme de la description Office 365 service pour le gouvernement américain pour les mises à jour/la disponibilité actuelle.|
+|Accès au portail Microsoft Office 365|Oui|Oui|Non|Rapports non disponibles pour DoD. Reportez-vous à <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">la</a> section des fonctionnalités de plateforme de la description Office 365 service pour le gouvernement américain pour les mises à jour/la disponibilité actuelle.|
+|Centre d’administration Microsoft 365'accès|Oui|Oui|Non|Rapports non disponibles pour DoD. Reportez-vous à <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">la</a> section des fonctionnalités de plateforme de la description Office 365 service pour le gouvernement américain pour les mises à jour/la disponibilité actuelle.|
 |Accès au Centre d'administration Exchange|Oui|Oui|Oui||
 |Accès à Windows PowerShell à distance|Oui|Oui|Oui||
 |Stratégies ActiveSync pour les appareils mobiles|Oui|Oui|Oui||
-|Rapports d’utilisation|Oui|Oui|Non|Rapports non disponibles pour DoD. Reportez-vous à la section <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">des</a> fonctionnalités de plateforme de la description Office 365 service pour le gouvernement américain pour les mises à jour/la disponibilité actuelle.|
+|Rapports d’utilisation|Oui|Oui|Non|Rapports non disponibles pour DoD. Reportez-vous à <a href="/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#platform-features">la</a> section des fonctionnalités de plateforme de la description Office 365 service pour le gouvernement américain pour les mises à jour/la disponibilité actuelle.|
 |**[Extension du service : personnalisation, les add-ins et les ressources](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
 |Outlook et Outlook MAPI|Oui|Oui|Oui|Seuls certains OWA et Outlook sont disponibles dans Cloud de la communauté du secteur public Haut et DoD. Voir [les Outlook et Outlook Web App](#add-insin-outlook-and-outlook-web-app) dans cet article.|
 
-<sup>1</sup> Outlook sur le Web peut être utilisé dans les scénarios où Outlook pour Windows ne peut pas afficher les messages protégés par IRM en raison de restrictions croisées (scénarios Cloud de la communauté du secteur public Élevé/ Non Cloud de la communauté du secteur public Élevé).
+<sup>1</sup> Outlook sur le Web peut être utilisé dans les scénarios où Outlook pour Windows ne peut pas afficher les messages protégés par IRM en raison de restrictions croisées (scénarios Cloud de la communauté du secteur public Élevé/Non Cloud de la communauté du secteur public Élevé).
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Nuances de fonctionnalités Cloud de la communauté du secteur public environnements Élevé et DoD
 
@@ -159,39 +159,38 @@ En raison de ces restrictions, les fonctionnalités qui reposent sur cette conne
 
 - Comptes connectés : les utilisateurs ne peuvent pas ajouter/synchroniser des comptes (Google, POP/IMAP, et ainsi de suite).
 
-- Prise en charge des fournisseurs de stockage de fichiers tiers : seul le compte OneDrive Entreprise de l’utilisateur dans *Cloud de la communauté du secteur public High/DoD* est accessible à partir des différents clients Outlook dans le but d’attacher/de partager des fichiers. Les comptes de stockage tiers (Dropbox, Box, Google Drive) ne peuvent pas être ajoutés.
+- Prise en charge des fournisseurs de stockage de fichiers tiers : seul le compte OneDrive Entreprise de l’utilisateur dans *Cloud de la communauté du secteur public High/DoD* est accessible à partir des différents clients Outlook dans le but d’attacher/partager des fichiers. Les comptes de stockage tiers (Dropbox, Box, Google Drive) ne peuvent pas être ajoutés.
 
 - Connectivité avec les réseaux sociaux, tels que Facebook ou LinkedIn.
 
 ### <a name="azure-active-directory-b2b-collaboration"></a>Azure Active Directory Collaboration B2B
 
-Azure Active Directory La collaboration B2B est actuellement prise en charge uniquement entre les organisations qui se trouve dans le cloud Azure US Government et qui la prise en charge de la collaboration B2B
+Azure Active Directory La collaboration B2B est actuellement prise en charge uniquement entre les organisations qui se trouve dans le cloud Azure US Government et qui les deux la prise en charge de la collaboration B2B
 
 En outre, les utilisateurs B2B en tant qu’invités dans Office 365 groupes ne sont pas pris en charge dans Cloud de la communauté du secteur public environnements High et DoD. 
 
 Pour plus d’informations et les dernières mises à jour, voir [Azure Government Security + Identity](/azure/azure-government/documentation-government-services-securityandidentity).
 
-### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>chiffrement de messages Office 365 à travers Cloud de la communauté du secteur public limite Haute/DoD
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>chiffrement de messages Office 365 comportement à travers Cloud de la communauté du secteur public limite Haute/DoD
 
-Si vous prévoyez d’utiliser chiffrement de messages Office 365 dans un environnement Cloud de la communauté du secteur public élevé, n’ignorez pas les caractéristiques uniques suivantes concernant l’expérience des destinataires :  
+Si vous prévoyez d’utiliser chiffrement de messages Office 365 dans un environnement Cloud de la communauté du secteur public high, ez compte des caractéristiques uniques suivantes concernant l’expérience des destinataires :  
 
 - Lors de l’envoi de messages chiffrés Cloud de la communauté du secteur public élevé ou DoD à des destinataires dans le même environnement :
     
     - Les expéditeurs peuvent chiffrer manuellement les messages électroniques dans Outlook pour PC et Mac et Outlook sur le web, ou les organisations peuvent configurer une stratégie pour chiffrer les messages électroniques à l’aide de Exchange règles de flux de messagerie.
     
-    - Les destinataires dans Cloud de la communauté du secteur public High/DoD bénéficient de la même expérience de lecture en ligne dans Outlook pour PC et Mac et Outlook sur le web que tous les autres utilisateurs Office 365 ligne.
+    - Les destinataires à l’intérieur Cloud de la communauté du secteur public High/DoD bénéficient de la même expérience de lecture en ligne dans Outlook pour PC et Mac et Outlook sur le web que tous les autres utilisateurs Office 365 utilisateurs.
 
 <!-- end list -->
 
-- Lors de l’envoi de messages chiffrés Cloud de la communauté du secteur public élevé ou DoD à des destinataires en dehors de cet environnement (y compris Cloud de la communauté du secteur public commercial) :
-    
-    - Les expéditeurs Cloud de la communauté du secteur public haut/dod peuvent envoyer des messages chiffrés en dehors de la limite Cloud de la communauté du secteur public haut/dod.
-    
-    - Tous les destinataires en dehors de Cloud de la communauté du secteur public High/DoD, y compris les utilisateurs de Office 365 commerciaux, les utilisateurs Outlook.com et les autres utilisateurs d’autres fournisseurs de messagerie, reçoivent un message de wrapper. Ce message de wrapper redirige le destinataire vers le portail OME où le destinataire peut lire le message et y répondre.
+- Lors de l’envoi d’e-mails chiffrés Cloud de la communauté du secteur public élevé à des destinataires en dehors de cet environnement (notamment DoD, Cloud de la communauté du secteur public commercial) :
+
+    - Les expéditeurs à l Cloud de la communauté du secteur public élevé peuvent envoyer des messages chiffrés en dehors de la limite Cloud de la communauté du secteur public limite élevée.
+    - Tous les destinataires en dehors de Cloud de la communauté du secteur public High, y compris les utilisateurs DoD, les Office 365 commerciaux, les utilisateurs Outlook.com et les autres utilisateurs d’autres fournisseurs de messagerie, reçoivent un wrapper. Ce message de wrapper redirige le destinataire vers le portail OME où le destinataire peut lire les messages et y répondre.
 
 Pour plus d’informations et les dernières mises à jour, voir [Comparer les versions d’OME.](/microsoft-365/compliance/ome-version-comparison)
 
-### <a name="freebusy-federation"></a>Fédération de la période de libre/occupé
+### <a name="freebusy-federation"></a>Fédération de la libre/occupé
 
 Le partage fédéré, y compris les informations de libre/occupé, est actuellement soumis à plusieurs limitations importantes dans les environnements DoD.
 
@@ -205,9 +204,9 @@ Dans l’environnement DoD :
 
 ### <a name="client-configuration"></a>Configuration du client
 
-Des étapes supplémentaires sont nécessaires au déploiement et à la configuration de Office ProPlus (y compris Outlook). Pour obtenir une description détaillée de ces étapes, voir recommandations pour le déploiement de Applications Microsoft 365 pour les grandes entreprises dans un environnement Cloud de la communauté du secteur public haut ou [dod.](/deployoffice/deploy-microsoft-365-apps-gcc-high-dod)
+Des étapes supplémentaires sont nécessaires au déploiement et à la configuration de Office ProPlus (y compris Outlook). Pour une description détaillée de ces étapes, voir recommandations pour le déploiement de Applications Microsoft 365 pour les grandes entreprises dans un [environnement Cloud de la communauté du secteur public élevé ou DoD](/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
 
-Outlook pour iOS et Android est également disponible pour les environnements Cloud de la communauté du secteur public et DoD. Pour en savoir plus sur les limitations et la gestion des fonctionnalités dans ces environnements, consultez La Outlook pour [iOS](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)et Android dans la Cloud de la communauté du secteur public .
+Outlook pour iOS et Android est également disponible pour les environnements Cloud de la communauté du secteur public et DoD. Pour en savoir plus sur les limitations et la gestion des fonctionnalités dans ces environnements, voir Utilisation de Outlook pour [iOS](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud)et Android dans la Cloud de la communauté du secteur public .
 
 ### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Les Outlook et Outlook Web App  
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des abonnements Office 365 pour le gouvernement américain (ou Office 365 Secteur Public). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques Office 365 Secteur Public aux États-Unis.
-ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
-ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
+ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58402758"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702296"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
@@ -79,7 +79,7 @@ Office 365 Secteur Public services sont fournis à partir de centres de données
 > [!NOTE]
 > Dans le cas d'une utilisation normale, Skype Entreprise ne stocke pas le contenu client, mais si ce stockage se produit, il sera réalisé dans des centres de données aux États-Unis.
 
-Si vos utilisateurs sont situés aux États-Unis lors de l’utilisation de Office sur le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation des services AD FS (Active Directory Federation Services) 2.0 et que vous définissez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via l' connexion unique, tout contenu client temporairement mis en cache dans Office sur le Web se trouve aux États-Unis.
+Si vos utilisateurs sont situés aux États-Unis lors de l’utilisation de Office sur le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation d’Active Directory Federation Services (AD FS) 2.0 et que vous définissez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via l' connexion unique, tout contenu client temporairement mis en cache dans Office sur le Web se trouve aux États-Unis.
 
 La page Utilisation du site pour les sites SharePoint est disponible pour les plans du secteur public, bien que, conformément à la conformité, certaines fonctionnalités de cette page ne soient disponibles que pour les clients commerciaux. Pour en savoir plus, [consultez la page Utilisation](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)du site SharePoint sites dans Microsoft 365 .
 
@@ -97,16 +97,16 @@ Avec FastTrack Center Benefit pour Office 365<sup>1,</sup>vous travaillez à dis
 
 L’intégration se compose des éléments suivants :
 
-- Intégration de base : il s’agit des tâches requises pour la configuration du client et l’intégration avec Azure Active Directory (Azure AD) si nécessaire. L’intégration de base fournit également la ligne de base pour l’intégration d’autres services éligibles.
+- Intégration de base : il s’agit des tâches requises pour la configuration du client et l’intégration Azure Active Directory (Azure AD) si nécessaire. L’intégration de base fournit également la ligne de base pour l’intégration d’autres services éligibles.
 
 - Intégration et migration de service : les tâches d’intégration de service permettent des scénarios dans votre client. La migration des données (y compris les e-mails et les fichiers) est couverte par [la migration des données.](/FastTrack/data-migration) <sup>2</sup>
 
 Les services d’adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs sont conscients des services éligibles et qu’ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
 
-Vous pouvez trouver des informations spécifiques sur FastTrack processus du Centre de [développement.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d’engagement, FastTrack [responsabilités,](/FastTrack/us-gov-appendix-fasttrack-responsibilities) ainsi que [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
+Des informations spécifiques sur le FastTrack centre de données sont disponibles [ici.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d’engagement, FastTrack [responsabilités,](/FastTrack/us-gov-appendix-fasttrack-responsibilities) ainsi que [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
 
 > <sup>1</sup> Vous devez acheter au moins 150 licences dans la liste des [plans](/fasttrack/eligibility) éligibles pour recevoir FastTrack services.
-<br/><sup>2</sup> Les services de migration de données sont disponibles Office 365 clients 500 licences ou plus.
+<br/><sup>2</sup> Les services de migration de données sont disponibles Office 365 clients avec 500 licences ou plus.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migrations de données effectuées par les FastTrack
 
@@ -144,7 +144,7 @@ Chaque plan Office 365 inclut un certain nombre de services, comme Exchange Onli
 |---|---|---|---|---|
 |Exchange Online|Oui|Oui|Oui|Oui|
 |Exchange Online Protection|Oui|Oui|Oui|Oui|
-|Applications Microsoft 365 pour les grandes entreprises|Non|Oui|Oui|Non|
+|Microsoft 365 Apps for enterprise|Non|Oui|Oui|Non|
 |Office pour le web|Oui|Oui|Oui|Oui|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|
 |Power BI Pro|Non<sup>2</sup>|Non<sup>2</sup>|Oui|Non<sup>2</sup>|
@@ -258,7 +258,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Gouvernance des données avancée|Non<sup>12</sup>|Non<sup>12</sup>|Oui|Non<sup>12</sup>|
 |Cloud App Security|Non<sup>12, 19</sup>|Non<sup>12, 19</sup>|Oui<sup>19</sup>|Non<sup>12, 19</sup>|
 |Microsoft Defender pour Office 365|Non<sup>12, 18</sup>|Non<sup>12, 18</sup>|Oui<sup>18</sup>|Non<sup>12, 18</sup>|
-|Customer Lockbox|Non<sup>12</sup>|Non<sup>12</sup>|Oui|Non<sup>12</sup>|
+|Référentiel sécurisé client|Non<sup>12</sup>|Non<sup>12</sup>|Oui|Non<sup>12</sup>|
 |Advanced eDiscovery|Non<sup>12</sup>|Non<sup>12</sup>|Oui|Non<sup>12</sup>|
 |Secure Score<sup>14</sup>|Oui<sup>9, 15</sup>|Oui<sup>9</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|
 |Office Chiffrement des messages|Non|Oui|Oui|Non|
@@ -287,20 +287,20 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>3</sup> Si vous utilisez la synchronisation d’annuaires, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory, plutôt que du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell.
 <br/><sup>4 Si</sup> vous utilisez la synchronisation de mot de passe, les utilisateurs doivent modifier leur mot de passe dans Active Directory local.
 <br/><sup>5 Pour découvrir</sup> comment définir des stratégies de gestion des mots de passe en libre-service pour les utilisateurs, voir Gérer les mots de passe [dans Azure AD.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)
-<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un autre abonnement, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
+<br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un abonnement différent, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
 <br/><sup>7 La réduction</sup> des sièges achetés avec une remise à terme peut être soumise à des frais de résiliation anticipée. Ceci n’est pas applicable aux abonnements payés sur une base mensuelle.
 <br/><sup>8 Les</sup> plans suivants ne prisent pas en charge les changements de licence par Centre d’administration Microsoft 365 : Office 365 Secteur public G1, Office 365 Secteur public G3, Office 365 Secteur Public F3.
 <br/><sup>9</sup> Not yet available in Cloud de la communauté du secteur public High, but coming soon.
-<br/><sup>10</sup> Pour les Office 365 Secteur public G1, G3 et F3, la publication ciblée et la feuille de route Office 365 entreprise s’appliquent ; toutefois, il peut y avoir des différences ou des retards pour des mises à jour de service spécifiques en raison des exigences de [conformité.](https://www.microsoft.com/trust-center)
+<br/><sup>10</sup> Pour Office 365 Secteur public G1, G3 et F3, la publication ciblée et la feuille de route Office 365 entreprise s’appliquent ; toutefois, il peut y avoir des différences ou des retards pour des mises à jour de service spécifiques en raison des exigences de [conformité.](https://www.microsoft.com/trust-center)
 <br/><sup>11 Pas</sup> encore disponible dans Office 365 Secteur Public offres, mais bientôt disponible.
-<br/><sup>12 Non</sup> inclus, mais peut être acheté séparément en tant que module Cloud de la communauté du secteur public.
+<br/><sup>12 Non</sup> inclus, mais peut être acheté en tant que module Cloud de la communauté du secteur public.
 <br/><sup>13 Non pris</sup> en charge pour Office 365 Secteur Public offres.
 <br/><sup>14 Disponible</sup> sur [https://securescore.office.com](https://securescore.office.com) . Nécessite des autorisations d'administration. Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](/microsoft-365/security/mtp/microsoft-secure-score).
 ).
 <br/><sup>15 Pas</sup> encore disponible dans l’environnement DoD, mais bientôt disponible.
 <br/><sup>16 Le</sup> Centre d’administration n’inclut pas l’analyse de l’utilisation dans les environnements DoD Cloud de la communauté du secteur public High.
 <br/><sup>17 Non</sup> pris en charge pour Cloud de la communauté du secteur public environnements Élevé ou DoD.
-<br/><sup>18</sup> L’anti-hameçonnage pour l’emprunt d’identité d’utilisateur et de domaine et la veille contre l’usurpation d’identité ne sont pas encore disponibles dans Cloud de la communauté du secteur public Haut et DoD.
+<br/><sup>18</sup> L’anti-hameçonnage pour l’usurpation d’identité d’utilisateur et de domaine et la veille contre l’usurpation d’identité ne sont pas encore disponibles dans Cloud de la communauté du secteur public High et DoD.
 <br/><sup>19</sup> Not yet available in Cloud de la communauté du secteur public environment, but coming soon.
 <br/><sup>20 Consommation</sup> uniquement pour Microsoft Stream : pas de publication ou de partage.
 <br/><sup>21 Non</sup> disponible pour l’API microsoft Graph ou la Microsoft Teams.
@@ -364,7 +364,7 @@ Le tableau suivant présente les fonctionnalités de l'application Office dispon
 <br/><sup>2 Windows Server AD</sup> RMS est un serveur local qui doit être acheté et géré séparément pour activer les fonctionnalités IRM pris en charge.
 <br/><sup>3 Skype Entreprise</sup> Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans Office 365 comprenant Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 Entreprise E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires telles que la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. For more information on Lync Basic features, see [Skype for Business Online client comparison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>4</sup> Pas encore disponible dans Cloud de la communauté du secteur public environnements Élevé ou DoD, mais bientôt disponible.
-<br/><sup>5 Pour</sup> plus [d’Outlook,](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) voir l’utilisation de Cloud de la communauté du secteur public pour iOS et Android.
+<br/><sup>5 Pour</sup> plus [d’Outlook,](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) voir Utilisation de Outlook pour iOS et Android dans la Cloud de la communauté du secteur public plus d’informations.
 <br/><sup>6</sup> Pas encore disponible dans Office 365'environnement DoD, mais bientôt disponible.
 <br/><sup>7 Les</sup> applications sont entièrement disponibles dans les clouds du secteur public, à l’exception des fonctionnalités spécifiques qui ne sont pas disponibles pour le moment. Pour [plus d Office, voir la disponibilité des fonctionnalités](#office-application-and-feature-availability-in-government-plans) d’application.
 
@@ -392,11 +392,11 @@ Les applications Office suivantes sont disponibles dans les clouds du gouverneme
 |Historique des versions|Oui|Non|Non|Non|
 |[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) est entièrement disponible dans les clouds pour le gouvernement, à **l’exception** des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment :||**GCC**|**GCC High**|**DOD**|
 |Notification par courrier électronique||Non<sup>1</sup>|Non<sup>1</sup>|Non|
-|Insérer une image||Non<sup>1</sup>|Non<sup>1</sup>|Non|
+|Insérer une image||Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|
 |Insérer une vidéo||Non<sup>1</sup>|Non<sup>1</sup>|Non|
 |Mathématiques||Non<sup>1</sup>|Non<sup>1</sup>|Non|
 |Office’intégration||Non<sup>1</sup>|Non<sup>1</sup>|Non|
-|Formulaires de groupe les plus récents||Non<sup>4</sup>|Oui|Oui|
+|Formulaires de groupe les plus récents||Oui|Oui|Oui|
 |Partage externe<sup>3</sup>||Oui|Non|Non|
 |Formulaires Pro||Non|Non|Non|
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) est entièrement disponible dans les clouds pour le gouvernement, à **l’exception** des fonctionnalités suivantes, qui ne sont pas disponibles pour le moment :||**GCC**|**GCC High**|**DOD**|
@@ -458,5 +458,5 @@ Pour obtenir la disponibilité des fonctionnalités Microsoft Teams dans Cloud d
 > <sup>1 Disponibilité</sup> à venir.
 <br/><sup>2 Disponibilité</sup> sur les Surface Hub local (non signé).
 <br/><sup>3 Le</sup> partage externe est disponible pour l’environnement Cloud de la communauté du secteur public externe. En savoir plus sur la façon [de désactiver ou d’activer Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) pour votre organisation. Le partage externe est désactivé pour les environnements Cloud de la communauté du secteur public élevé et DOD ; Les utilisateurs de votre organisation peuvent effectuer les actions suivantes : remplir un formulaire et envoyer des [réponses,](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)dupliquer et partager un formulaire en tant que modèle, [co-créer](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)ou collaborer sur un formulaire et accéder aux résultats du [formulaire.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
-<br/><sup>4 La</sup> fonctionnalité Formulaires de groupe récents est désactivée pour l’Cloud de la communauté du secteur public de groupe. Toutefois, les utilisateurs peuvent toujours accéder aux formulaires de groupe en sélectionnant un groupe spécifique sous l’onglet Formulaires de groupe.
+<br/><sup>4 L’insertion</sup> d’une image avec la fonctionnalité Bing recherche d’image est désactivée pour l’environnement Cloud de la communauté du secteur public/GCCH/DOD.
 <br/><sup>5</sup> Word, Excel PowerPoint Windows client uniquement, et non web, MacOS, iOS ou Android.
