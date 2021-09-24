@@ -5,15 +5,15 @@ author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 description: Découvrez la disponibilité Microsoft Exchange Online service et des fonctionnalités dans Microsoft 365 et Office 365 plan.
-ms.openlocfilehash: 6e7629dd01b05ef06bda492127c3b6d04733e340a042b5f465a4a79097197cc3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: abd6ab1b49b5f61a5b4994ea55314a551db2f3ba
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664007"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672094"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -42,7 +42,7 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |[Stratégie et conformité de message](message-policy-and-compliance.md)|Oui*|Oui*|Oui|Oui|Oui|Oui|
 |[Protection contre le courrier indésirable et les programmes malveillants](anti-spam-and-anti-malware-protection.md)|Oui*|Oui*|Oui|Oui|Oui|Oui|
 |[Flux de messagerie](mail-flow.md)|Oui*|Oui|Oui|Oui|Oui|Oui|
-|[Destinataires](recipients.md)|Oui*|Oui*|Oui|Oui|Oui*|Oui*|
+|[Recipients](recipients.md)|Oui*|Oui*|Oui|Oui|Oui*|Oui*|
 |[Fonctions de rapport et outils de dépannage](reporting-features-and-troubleshooting-tools.md)|Oui*|Oui*|Oui|Oui|Oui*|Oui*|
 |[Partage et collaboration](sharing-and-collaboration.md)|Oui|Oui|Oui|Oui|Oui|Oui|
 |[Clients et appareils mobiles](clients-and-mobile-devices.md)|Oui*|Oui|Oui|Oui*|Oui*|Oui*|
@@ -66,7 +66,7 @@ Pour connaître les conditions générales de licence pour les produits et servi
 
 ### <a name="messaging"></a>Messagerie
 
-Pour rester informé des modifications à venir, notamment des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
+Pour rester informé des modifications à venir, y compris des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 

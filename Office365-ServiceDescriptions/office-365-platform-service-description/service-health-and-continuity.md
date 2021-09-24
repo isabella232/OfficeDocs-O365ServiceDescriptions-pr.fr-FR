@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-service-health
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Les administrateurs Microsoft peuvent afficher l’état des services et savoir quand la maintenance est programmée. Les informations d’état du service sont disponibles à tout moment en se signant.
-ms.openlocfilehash: 1bfe01361cb2968b51ff49f2f04ec814f0c59d68d7f4f392c97d60c48f50f14f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 497568f54fc5a761278902eb26e92bc52789c9b5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701813"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672965"
 ---
 # <a name="service-health-and-continuity"></a>État des services et continuité
 
@@ -36,7 +36,7 @@ Un incident de service est un événement qui a une incidence sur la prestation 
   
 Il existe deux types de notifications concernant les moments où les services peuvent ne pas être disponibles :
   
-- **Événements de maintenance planifiée :** La maintenance planifiée est une mise à jour régulière du service initié par Microsoft pour l’infrastructure et les applications logicielles. Les notifications de maintenance planifiée informent les clients du travail de service qui peut affecter les fonctionnalités d’un service Microsoft. Les clients sont avertis au plus tard cinq jours avant toute maintenance planifiée via le Centre de messages sur le Centre d’administration Microsoft 365. Microsoft prévoit généralement une maintenance pour les périodes où l’utilisation du service est historiquement à son plus bas en fonction des fuseaux horaires régionaux. 
+- **Événements de maintenance planifiée :** La maintenance planifiée est une mise à jour régulière du service initié par Microsoft pour l’infrastructure et les applications logicielles. Les notifications de maintenance planifiée informent les clients du travail de service qui peut affecter les fonctionnalités d’un service Microsoft. Les clients sont avertis au plus tard cinq jours avant toute maintenance planifiée via le Centre de messages sur le Centre d'administration Microsoft 365. Microsoft prévoit généralement une maintenance pour les périodes où l’utilisation du service est historiquement à son plus bas en fonction des fuseaux horaires régionaux. 
 
 - **Temps d’arrêt non planifié :** Des incidents de service non planifiés se produisent lorsqu’un des services n’est pas disponible ou ne répond pas. 
 
@@ -84,7 +84,7 @@ Le passage à un service cloud ne doit pas signifier perdre la possibilité de s
 
 ## <a name="notification-policy"></a>Stratégie de notification
 
-Quand un incident de service se produit, Microsoft reconnaît que les communications ciblées, précises et fournies en temps utile sont critiques pour les clients. Microsoft avertit les administrateurs en mettant à jour le tableau de bord d’état du service propre au client sur le Centre d’administration Microsoft 365. Les mises à jour des incidents de service sont fournies à une cadence horaire ou, si une autre cadence est requise, elle sera précisée dans la publication de communication shd. 
+Quand un incident de service se produit, Microsoft reconnaît que les communications ciblées, précises et fournies en temps utile sont critiques pour les clients. Microsoft avertit les administrateurs en mettant à jour le tableau de bord d’état du service propre au client sur le Centre d'administration Microsoft 365. Les mises à jour des incidents de service sont fournies à une cadence horaire ou, si une autre cadence est requise, elle sera précisée dans la publication de communication shd. 
   
 ## <a name="service-health-communication-channels"></a>Canaux de communication d’état du service
 
@@ -112,7 +112,7 @@ L'engagement de Microsoft pour une amélioration continue implique l'analyse des
   
 Les incidents de service non planifiés sont définis comme des interruptions de service à plusieurs clients qui ont une incidence sur l’utilisation du service telles que définies par nos contrats de niveau de service (SSL) et ont été déclarées en tant que telles dans le Tableau de bord d’état du service.
   
- Pour les incidents de service non planifiés qui ont eu un impact important et perceptible sur un grand nombre d’organisations, une analyse post-incident préliminaire sera livrée via votre tableau de bord d’état du service dans les 48 heures suivant la résolution de l’incident, puis une analyse post-incident finale dans les cinq jours ouvrée. Le rapport détaillé sur la analyse du travail inclut les informations ci-après : 
+ Pour les incidents de service non planifiés qui ont eu un impact important et perceptible sur un grand nombre d’organisations, une analyse post-incident préliminaire sera livrée via votre tableau de bord d’état du service dans les 48 heures suivant la résolution de l’incident, puis une analyse post-incident finale dans les cinq jours ouvrée. Le rapport détaillé sur la pir inclut les informations ci-après : 
   
 - Impact sur les clients et l'expérience utilisateur
 
@@ -138,7 +138,7 @@ Microsoft garantit à tout moment la disponibilité des données du client par l
 
 - **Surveillance des données : services Microsoft** maintenir des niveaux de performances élevés en surveillant : 
 
-  - Databases
+  - Bases de données
 
   - Processus bloqués
 
@@ -156,7 +156,7 @@ Les équipes de développement et d’exploitation Microsoft sont complétées p
   
 L'organisation de support correspond étroitement aux opérations et au développement produits, offre des temps de résolution très courts et fournit un canal permettant aux clients de se faire entendre. Les commentaires des clients contribuent à la planification, le développement et les processus d'exploitation.
   
-- **Suivi des problèmes en ligne :** Les clients ont besoin de savoir que leurs problèmes sont pris en compte et ils doivent pouvoir suivre leur résolution en temps voulu. Le Centre d’administration Microsoft 365 fournit une interface web unique pour la prise en charge. Les clients peuvent utiliser le portail pour ajouter et surveiller les demandes de service et recevoir les commentaires des équipes de support Microsoft. 
+- **Suivi des problèmes en ligne :** Les clients ont besoin de savoir que leurs problèmes sont pris en compte et ils doivent pouvoir suivre leur résolution en temps voulu. Le Centre d'administration Microsoft 365 fournit une interface web unique pour la prise en charge. Les clients peuvent utiliser le portail pour ajouter et surveiller les demandes de service et recevoir les commentaires des équipes de support Microsoft. 
 
 - **Autonome, soutenu par le support continu du personnel :** Microsoft offre un large éventail de ressources et d’outils autonomes qui peuvent aider les clients à résoudre les problèmes liés au service sans nécessiter le support de Microsoft. 
 

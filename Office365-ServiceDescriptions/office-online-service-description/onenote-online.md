@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Utilisez OneNote sur le Web (anciennement OneNote Web App) pour prendre des notes en ligne dans un bloc-notes OneNote que vous pouvez ajouter à partir de n’importe quel endroit et facilement partager avec d’autres personnes. Tous les clients peuvent afficher et modifier légèrement Office fichiers à l’aide Office sur le Web.
-ms.openlocfilehash: 4bde15a3b2c291c07aa2d4322826f710db7fc4ac1a51278cabac5e909c152f29
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9d120ec3d1380a366942779b617d1d00b25973e0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702033"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672734"
 ---
 # <a name="onenote-for-the-web"></a>OneNote pour le web
 

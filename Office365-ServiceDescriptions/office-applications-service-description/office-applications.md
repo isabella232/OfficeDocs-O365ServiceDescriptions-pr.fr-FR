@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-proplus-office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office est un service puissant qui vous permet de donner libre cours à vos idées, de faire vos choses et de rester en contact. Il suffit de se connecter pour vivre une expérience personnalisée et avoir accès à toutes les applications Office mises à jour, avec de nouvelles fonctionnalités améliorées et continuellement ajoutées.
-ms.openlocfilehash: 8d52eb1950b9a1c3cc49a98ffaeb156357c65ccf8b56275c6e11b608aaafc246
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9d936a8c7e9c474aec05a39de879a74dd57c5a72
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702053"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669979"
 ---
 # <a name="office-applications"></a>Applications Office
 
@@ -29,7 +29,7 @@ Pour la besoins du système, le service basé sur un abonnement mensuel disponib
 
 Microsoft Word est un logiciel de traitement de texte complet pour les systèmes d'exploitation Windows et Mac. Pour en savoir plus [sur Word, Microsoft 365](https://www.microsoft.com/microsoft-365/word).
 
-## <a name="microsoft-excel"></a>Microsoft Excel
+## <a name="microsoft-excel"></a>Microsoft Excel
 
 Microsoft Excel est un logiciel de feuilles de calcul qui propose la prise en charge d'outils de calcul, d'outils graphiques, de tableaux croisés dynamiques et de langues de programmation macro pour les systèmes d'exploitation Windows et Mac. En savoir plus [sur Excel avec Microsoft 365](https://www.microsoft.com/microsoft-365/excel).
   

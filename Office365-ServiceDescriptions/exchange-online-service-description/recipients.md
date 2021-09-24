@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-recipients
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: Cette rubrique décrit les fonctionnalités en relation avec les destinataires incluses dans Microsoft Exchange Online. Celles-ci comprennent les fonctions relatives au courrier électronique, aux contacts, aux groupes de distribution, au calendrier et à la programmation.
-ms.openlocfilehash: 861a58b9a8e8de041bcbb66e2d41f6eab97d39f6e7719c12288e1e7dbc072eec
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 32df1af7663f4a57419432b9c8a64a87ade4e857
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663677"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671778"
 ---
 # <a name="recipients"></a>Destinataires
 
@@ -62,7 +62,7 @@ La fonctionnalité de courrier non trié est conçue pour vous aider à vous con
   
 ### <a name="connected-accounts"></a>Comptes connectés
 
-La fonctionnalité Comptes connectés permet aux utilisateurs Exchange Online de connecter des comptes de messagerie externes (tels que des comptes personnels) à leurs comptes de messagerie internes dans Exchange Online, puis d’utiliser Outlook sur le web pour interagir avec tous leurs messages au même endroit. Les comptes connectés se synchronisent automatiquement lors de la connexion à Outlook sur le web ; les utilisateurs peuvent également synchroniser manuellement les comptes à partir Outlook sur le web. Les administrateurs peuvent activer et désactiver cette fonctionnalité pour des utilisateurs spécifiques ou tous les utilisateurs via [Exchange centre d’administration.](/exchange/exchange-admin-center)
+La fonctionnalité Comptes connectés permet aux utilisateurs Exchange Online de connecter des comptes de messagerie externes (tels que des comptes personnels) à leurs comptes de messagerie internes dans Exchange Online, puis d’utiliser Outlook sur le web pour interagir avec tous leurs messages au même endroit. Les comptes connectés se synchronisent automatiquement lors de la connexion à Outlook sur le web ; Les utilisateurs peuvent également synchroniser manuellement les comptes à partir de Outlook sur le web. Les administrateurs peuvent activer et désactiver cette fonctionnalité pour des utilisateurs spécifiques ou tous les utilisateurs via [Exchange centre d’administration.](/exchange/exchange-admin-center)
   
 ### <a name="inactive-mailboxes"></a>Boîtes aux lettres inactives
 

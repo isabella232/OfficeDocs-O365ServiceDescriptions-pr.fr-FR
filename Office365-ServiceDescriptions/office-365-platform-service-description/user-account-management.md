@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-user-account-management
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft prend en charge les méthodes suivantes pour créer, gérer et authentifier des utilisateurs.
-ms.openlocfilehash: 5a4b242046503df691587919284454a670f817821eab1b3a6692f542bdcefadb
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 213c6ceb50d0af3c5a78a6306b0ff4c2a86f4585
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702043"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672829"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -48,7 +48,7 @@ Le type d'identité affecte non seulement l'expérience utilisateur et les optio
   
 ### <a name="custom-domains-and-identity-options"></a>Domaines personnalisés et options d’identité
 
-Lorsque vous créez un utilisateur, son nom et son adresse de messagerie sont affectés au domaine par défaut tel qu’il est Centre d’administration Microsoft 365. Pour en savoir plus, voir [Ajouter vos utilisateurs et votre domaine.](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 
+Lorsque vous créez un utilisateur, son nom et son adresse de messagerie sont affectés au domaine par défaut tel qu’il est Centre d'administration Microsoft 365. Pour en savoir plus, voir [Ajouter vos utilisateurs et votre domaine.](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611) 
   
 Par défaut, l’abonnement utilise <*nom* de société .onmicrosoft.com qui a >  été créé avec le compte. Si vous utilisez Office 365 géré par 21Vianet en Chine, le domaine par défaut est <nom d’entreprise > **.onmsChina.cn**. Si vous utilisez Office 365 Germany, le domaine par défaut est <*nom d’entreprise* > **.onmicrosoft.de**. Vous pouvez ajouter un ou plusieurs domaines personnalisés à Microsoft au lieu de conserver le domaine **onmicrosoft.com** et affecter des utilisateurs pour se connecter avec l’un des domaines validés. Chaque domaine attribué de l'utilisateur est l'adresse de messagerie qui doit apparaître sur les messages électroniques envoyés et reçus. 
   
@@ -60,7 +60,7 @@ Pour plus d'informations à propos des domaines dans Office 365, voir la descrip
   
 ## <a name="authentication"></a>Authentification
 
-À l’exception des sites Internet pour l’accès anonyme créé avec SharePoint Online, les utilisateurs doivent être authentifiés lors de l’accès services Microsoft. 
+À l’exception des sites Internet pour l’accès anonyme créés avec SharePoint Online, les utilisateurs doivent être authentifiés lors de l’accès services Microsoft. 
   
 - **Authentification moderne** : l’authentification moderne permet à la bibliothèque d’authentification Microsoft de se Office applications clientes sur plusieurs plateformes. Cela active des fonctionnalités de connexion telles que MFA (Multi-Factor Authentication), des fournisseurs d'identité tiers SAML avec des applications clientes Office et l'authentification par carte à puce et basée sur des certificats. Microsoft Outlook n'a plus besoin non plus d'utiliser le protocole d'authentification de base. Pour plus d’informations, notamment sur la disponibilité de l’authentification moderne dans les applications Office, voir Fonctionnement de l’authentification moderne pour les applications clientes [Office 2013 et Office 2016.](/office365/enterprise/modern-auth-for-office-2013-and-2016)
     
@@ -72,9 +72,9 @@ Pour plus d'informations à propos des domaines dans Office 365, voir la descrip
     
 Microsoft utilise l’authentification basée sur les formulaires et le trafic d’authentification sur le réseau est toujours chiffré avec TLS/SSL à l’aide du port 443. Le trafic d’authentification utilise un pourcentage négligeable de bande passante pour services Microsoft. 
   
-### <a name="multi-factor-authentication"></a>Authentification multifacteur
+### <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
-Avec l’authentification multifacteur, les utilisateurs doivent reconnaître un appel téléphonique, un SMS ou une notification d’application sur leur smartphone après avoir correctement entré leur mot de passe. Ce n'est qu'après cette deuxième authentification que l'utilisateur peut se connecter. Les administrateurs Microsoft peuvent inscrire des utilisateurs pour l’authentification multifacteur dans le Centre d’administration Microsoft 365. En savoir plus sur [l’authentification multifacteur.](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)
+Avec l’authentification multifacteur, les utilisateurs doivent reconnaître un appel téléphonique, un SMS ou une notification d’application sur leur smartphone après avoir correctement entré leur mot de passe. Ce n'est qu'après cette deuxième authentification que l'utilisateur peut se connecter. Les administrateurs Microsoft peuvent inscrire des utilisateurs pour l’authentification multifacteur dans le Centre d'administration Microsoft 365. En savoir plus sur [l’authentification multifacteur.](/office365/admin/security-and-compliance/set-up-multi-factor-authentication)
   
 ### <a name="rich-client-authentication"></a>Authentification des clients riches
 
@@ -94,7 +94,7 @@ Pour garantir une découverte et une authentification correctes des services Mic
 
 L’expérience de la sign-in change en fonction du type d’identité utilisé :<br><br>
   
-| Service | Identité de nuage | Identité fédérée |
+| Service | Identité cloud | Identité fédérée |
 |:-----|:-----|:-----|
 |Outlook 2016  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
 |Outlook 2013  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
@@ -102,7 +102,7 @@ L’expérience de la sign-in change en fonction du type d’identité utilisé 
 |Outlook 2010 ou Office Outlook 2007 sous Windows Vista  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
 |POP, IMAP, Outlook pour Mac  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
-|Expériences Web : Centre d’administration Microsoft 365 /Outlook sur le web/ SharePoint Online/Office sur le Web  <br/> |Connexion à chaque session de navigateur<sup>4</sup> <br/> |Connexion à chaque session <sup>3</sup> <br/> |
+|Expériences Web : Centre d'administration Microsoft 365 /Outlook sur le web/ SharePoint Online/Office sur le Web  <br/> |Connexion à chaque session de navigateur<sup>4</sup> <br/> |Connexion à chaque session <sup>3</sup> <br/> |
 |Office 2010 ou Office 2007 à l'aide de SharePoint Online  <br/> |Connexion à chaque session SharePoint Online<sup>4</sup> <br/> |Connexion à chaque session SharePoint Online<sup>3</sup> <br/> |
 |Skype Entreprise Online  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Aucune invite de commande  <br/> |
 |Outlook pour Mac  <br/> |Connexion à chaque session <sup>1</sup> <br/> |Connexion à chaque session <sup>2</sup> <br/> |
@@ -110,14 +110,14 @@ L’expérience de la sign-in change en fonction du type d’identité utilisé 
 > [!NOTE]
 > <sup>1</sup> Lorsque vous y êtes invité pour la première fois, vous pouvez enregistrer votre mot de passe pour une utilisation ultérieure. Vous ne recevrez pas d’autre invite tant que le mot de passe reste inchangé. <br/> 
 <sup>2 Vous entrez</sup> vos informations d’identification d’entreprise. Vous pouvez enregistrer votre mot de passe et vous ne recevrez pas d’autre invite tant que le mot de passe reste inchangé. <br/> 
-<sup>3</sup> Toutes les applications nécessitent que vous entiez ou sélectionniez votre nom d’utilisateur pour vous inscrire. Vous n’êtes pas invité à saisir votre mot de passe si votre ordinateur est joint au domaine. Si vous **sélectionnez Maintenir la signature,** vous n’êtes pas invité à le faire tant que vous ne vous êtes pas signé. <br/> 
+<sup>3</sup> Toutes les applications nécessitent que vous entiez ou sélectionniez votre nom d’utilisateur pour vous inscrire. Vous n’êtes pas invité à saisir votre mot de passe si votre ordinateur est joint au domaine. Si vous **sélectionnez Maintenir la signature,** vous n’êtes pas invité à vous le faire tant que vous n’avez pas ouvert la signature. <br/> 
 <sup>4</sup> If you select **Keep me signed in** you will not be prompted again until you sign out. 
   
 ## <a name="create-user-accounts"></a>Create user accounts
 
-Il existe plusieurs façons d’ajouter des utilisateurs. Pour plus d’informations, voir Ajouter des utilisateurs individuellement ou en bloc [-](/office365/admin/add-users/add-users) Aide de l’administrateur et Ajouter, supprimer et gérer des utilisateurs dans [Centre d’administration Microsoft 365 aperçu.](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3) Si vous utilisez Office 365 géré par 21Vianet en Chine, consultez l'article relatif à la [création ou la modification de comptes d'utilisateurs dans Office 365 géré par 21Vianet - Aide de l'administrateur](/office365/admin/add-users/add-users).
+Il existe plusieurs façons d’ajouter des utilisateurs. Pour plus d’informations, voir Ajouter des utilisateurs individuellement ou en bloc [-](/office365/admin/add-users/add-users) Aide de l’administrateur et Ajouter, supprimer et gérer des utilisateurs dans [Centre d'administration Microsoft 365 aperçu.](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3) Si vous utilisez Office 365 géré par 21Vianet en Chine, consultez l'article relatif à la [création ou la modification de comptes d'utilisateurs dans Office 365 géré par 21Vianet - Aide de l'administrateur](/office365/admin/add-users/add-users).
   
-## <a name="delete-user-accounts"></a>Supprimer des comptes d’utilisateurs
+## <a name="delete-user-accounts"></a>Supprimer des comptes d’utilisateur
 
 La manière dont vous supprimez des comptes dépend de l'usage ou non de la synchronisation d'annuaires : 
   
@@ -137,7 +137,7 @@ Si des identités cloud (en nuage) sont utilisées ; les mots de passe sont gén
   
 - Pour les règles qui s'appliquent aux mots de passe d'identité cloud (en nuage), voir [Stratégie de mot de passe](/previous-versions/azure/jj943764(v=azure.100)).
     
-- Pour renforcer la sécurité, les utilisateurs doivent modifier leur mot de passe lorsqu’ils accèdent pour la première fois à services Microsoft. Par conséquent, avant que les utilisateurs ne peuvent accéder services Microsoft, ils doivent se Centre d’administration Microsoft 365 au Centre d’administration Microsoft 365, où ils sont invités à modifier leur mot de passe.
+- Pour renforcer la sécurité, les utilisateurs doivent modifier leur mot de passe lorsqu’ils accèdent pour la première fois à services Microsoft. Par conséquent, avant que les utilisateurs ne peuvent accéder services Microsoft, ils doivent se Centre d'administration Microsoft 365 au Centre d'administration Microsoft 365, où ils sont invités à modifier leur mot de passe.
     
 - Les administrateurs peuvent définir la stratégie d'expiration des mots de passe. Pour plus d'informations, consultez l'article [Définir la stratégie d'expiration des mots de passe pour votre organisation](/office365/admin/manage/set-password-expiration-policy).
     
@@ -145,9 +145,9 @@ Plusieurs outils permettent aux utilisateurs possédant une identité cloud (en 
   
 - **L’administrateur** réinitialise le mot de passe : si les utilisateurs perdent ou oublient leur mot de passe, les administrateurs peuvent réinitialiser les mots de passe des utilisateurs dans le Centre d’administration ou à l’aide Windows PowerShell. Les utilisateurs peuvent uniquement changer leur propre mot de passe que s'ils connaissent leur mot de passe actuel. 
     
-    Pour les plans d’entreprise, si les administrateurs perdent ou oublient leur mot de passe, un autre administrateur ayant le rôle Administrateur général peut réinitialiser les mots de passe des administrateurs dans le Centre d’administration Microsoft 365 ou à l’aide de Windows PowerShell. Pour plus d'informations, voir [Réinitialiser les mots de passe des administrateurs](/office365/admin/add-users/reset-passwords). Si vous travaillez dans Office 365 géré par 21Vianet en Chine, reportez-vous à l'article relatif à la [modification ou la réinitialisation des mots de passe dans Office 365 géré par 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+    Pour les plans d’entreprise, si les administrateurs perdent ou oublient leur mot de passe, un autre administrateur ayant le rôle Administrateur général peut réinitialiser les mots de passe des administrateurs dans le Centre d'administration Microsoft 365 ou à l’aide de Windows PowerShell. Pour plus d'informations, voir [Réinitialiser les mots de passe des administrateurs](/office365/admin/add-users/reset-passwords). Si vous travaillez dans Office 365 géré par 21Vianet en Chine, reportez-vous à l'article relatif à la [modification ou la réinitialisation des mots de passe dans Office 365 géré par 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **L’utilisateur** modifie les mots de passe Outlook sur le web - La page options Outlook sur le web inclut un lien hypertexte Modifier le mot de passe, qui redirige les utilisateurs vers la page Modifier le mot **de** passe. L'utilisateur doit connaître son mot de passe précédent. Pour plus d'informations, voir [Modifier le mot de passe](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Si vous utilisez Office 365 géré par 21Vianet en Chine, reportez-vous à l'article relatif à la [modification ou la réinitialisation des mots de passe dans Office 365 géré par 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- **L’utilisateur** modifie les mots de passe avec Outlook sur le web - La page options Outlook sur le web inclut un lien hypertexte Modifier le mot de passe, qui redirige les utilisateurs vers la page Modifier le mot **de** passe. L'utilisateur doit connaître son mot de passe précédent. Pour plus d'informations, voir [Modifier le mot de passe](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Si vous utilisez Office 365 géré par 21Vianet en Chine, reportez-vous à l'article relatif à la [modification ou la réinitialisation des mots de passe dans Office 365 géré par 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 -  Droits de réinitialisation de mot de passe basés sur les rôles  : pour les plans d’entreprise, les utilisateurs autorisés tels que le personnel du service d’aide peuvent se voir attribuer le droit d’utilisateur Réinitialiser le mot de passe et le droit de modifier les mots de passe à l’aide de rôles prédéfinisés ou personnalisés sans devenir des administrateurs de services complets. Par défaut, dans les plans d’entreprise, les administrateurs ayant le rôle Administrateur général, Administrateur de mots de passe ou Administrateur de gestion des utilisateurs peuvent modifier les mots de passe. Pour plus d'informations, consultez la rubrique [Affectation de rôles d'administrateur](/office365/admin/add-users/assign-admin-roles).
     
@@ -167,7 +167,7 @@ Les administrateurs de facturation Microsoft peuvent apporter des modifications 
   
 ## <a name="group-management"></a>Gestion des groupes
 
-Les groupes de sécurité sont utilisés dans SharePoint Online pour contrôler l'accès aux sites. Les groupes de sécurité peuvent être créés dans le Centre d’administration Microsoft 365. Pour plus d'informations sur les groupes de sécurité, voir [Créer, modifier ou supprimer un groupe de sécurité](/office365/admin/email/create-edit-or-delete-a-security-group).
+Les groupes de sécurité sont utilisés dans SharePoint Online pour contrôler l'accès aux sites. Les groupes de sécurité peuvent être créés dans le Centre d'administration Microsoft 365. Pour plus d'informations sur les groupes de sécurité, voir [Créer, modifier ou supprimer un groupe de sécurité](/office365/admin/email/create-edit-or-delete-a-security-group).
   
 ## <a name="administrator-roles"></a>Rôles d'administrateur
 

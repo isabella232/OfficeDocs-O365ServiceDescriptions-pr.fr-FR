@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - archive-features-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: Découvrez les fonctionnalités d’archivage disponibles dans Microsoft Exchange Online’archivage.
-ms.openlocfilehash: c31b231833e7ce06aa772addfe7ead622a9507c0f42604df663c66dc01cf6847
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6f342899722b3d411c9eb0f45ef40237ca05bc9f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664747"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670866"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Fonctionnalités d’archivage dans Archivage Exchange Online
 

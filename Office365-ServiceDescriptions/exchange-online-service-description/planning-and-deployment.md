@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-planning-and-deployment
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: Découvrez la planification et le déploiement dans Microsoft Exchange Online.
-ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8407f95e9a0d9cb721134fdf8cab46003339f197
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663667"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671788"
 ---
 # <a name="planning-and-deployment"></a>Planification et déploiement
 
@@ -50,9 +50,9 @@ Les organisations doivent choisir des options de migration selon leurs systèmes
   
 - **Migration IMAP** : migrer les données de boîtes aux lettres des systèmes de messagerie IMAP vers Exchange Online. 
     
-- Migration à Exchange à **cutover** : migrer des boîtes aux lettres de Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 et des systèmes Exchange hébergés vers Exchange Online dans une seule migration à cutover. 
+-  Migration de Exchange à Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 et systèmes Exchange hébergés vers Exchange Online dans une migration à cutover unique. 
     
--  Migration Exchange par étapes : effectuer une migration par étapes pour migrer des boîtes aux lettres à partir de Exchange Server 2003 ou Exchange Server 2007 à l’aide d’outils de migration web et de modifications minimales apportées à l’infrastructure locale. 
+-  Migration Exchange par étapes : effectuez une migration par étapes pour migrer des boîtes aux lettres à partir de Exchange Server 2003 ou Exchange Server 2007 à l’aide d’outils de migration web et de modifications minimales apportées à l’infrastructure locale. 
     
 - **Migration de déplacement à distance** : migrer des boîtes aux lettres Exchange vers des boîtes aux lettres Exchange Online dans un déploiement hybride Exchange local. Vous devez mettre en place un déploiement hybride Exchange pour recourir à une migration de déplacement à distance. 
     
@@ -109,7 +109,7 @@ Pour plus d'informations sur les migrations Exchange intermédiaires, voir [Ce q
 
 Microsoft propose plusieurs outils permettant de migrer un environnement de messagerie électronique existant vers Exchange Online. L'outil le plus approprié à utiliser dépend de l'environnement actuel de l'organisation et des objectifs de déploiement :
   
-- **Tableau** de bord de migration : les administrateurs peuvent utiliser le tableau de bord de migration dans le Centre d’administration Exchange pour gérer la migration de boîtes aux lettres vers Exchange Online lors d’une migration à Exchange à Exchange. Ils peuvent également utiliser le tableau de bord pour migrer le contenu des boîtes aux lettres des utilisateurs vers des boîtes aux lettres Exchange Online existantes à partir d'un serveur IMAP local. Le tableau de bord offre aux administrateurs les fonctionnalités suivantes : 
+- **Tableau** de bord de migration : les administrateurs peuvent utiliser le tableau de bord de migration dans le Centre d’administration Exchange pour gérer la migration de boîtes aux lettres vers Exchange Online lors d’une migration à Exchange à Exchange étapes. Ils peuvent également utiliser le tableau de bord pour migrer le contenu des boîtes aux lettres des utilisateurs vers des boîtes aux lettres Exchange Online existantes à partir d'un serveur IMAP local. Le tableau de bord offre aux administrateurs les fonctionnalités suivantes : 
     
   - **Créez et démarrez plusieurs lots** de migration : les administrateurs peuvent créer et mettre en file d’attente jusqu’à 100 lots de migration. Un seul lot de migration est exécuté à la fois, mais les administrateurs ont toujours la possibilité de mettre plusieurs lots en file d'attente, de sorte que lorsqu'un lot de migration se termine, l'exécution du lot suivant dans la file d'attente démarre. 
     

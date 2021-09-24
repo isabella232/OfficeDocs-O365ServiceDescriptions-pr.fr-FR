@@ -6,18 +6,18 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Impression universelle, Microsoft 365 service d’impression cloud, supprime le besoin de serveurs d’impression locaux.
-ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 85a388f811d149be6ae436c3f94421dbc1ec9284
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702433"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673125"
 ---
 # <a name="universal-print-service-description"></a>Description du service Impression universelle
 
-[Impression universelle,](https://www.microsoft.com/microsoft-365/windows/universal-print)Microsoft 365 service d’impression cloud, supprime le besoin de serveurs d’impression locaux. Ce service permet aux points de terminaison joints à Windows 10 l’espace de travail de sélectionner et d’imprimer sur des imprimantes inscrites dans Azure AD sans avoir à installer un autre logiciel client.
+[L’impression](https://www.microsoft.com/microsoft-365/windows/universal-print)universelle, Microsoft 365 service d’impression cloud, supprime le besoin de serveurs d’impression locaux. Ce service permet aux points de terminaison joints à Windows 10 l’espace de travail de sélectionner et d’imprimer sur des imprimantes inscrites dans Azure AD sans avoir à installer un autre logiciel client.
 
 Les utilisateurs tirent parti de l’impression sans pilote, de la découverte simplifiée de l’imprimante basée sur l’emplacement et d’une expérience d’impression intuitive sans courbe d’apprentissage qui tire parti du flux d’impression existant sur leur appareil.
 
@@ -29,7 +29,7 @@ L’impression universelle est incluse dans les abonnements suivants, pour répo
 
 | Petite Entreprise                 | Enterprise Microsoft 365     | Éducation Microsoft 365 |
 |--------------------------------|------------------------------|-------------------------|
-| Microsoft 365 Business Premium | Windows 10 Entreprise E3     | Windows 10 Éducation E3 |
+| Microsoft 365 Business Premium | Windows 10 Entreprise E3     | Windows 10 Éducation E3 |
 |                                | Windows 10 Entreprise E5     | Windows 10 Éducation E5 |
 |                                | Microsoft 365 F3             | Microsoft 365 A3        |
 |                                | Microsoft 365 E3             | Microsoft 365 A5        |
@@ -43,7 +43,7 @@ Pour obtenir la liste complète de toutes les fonctionnalités d’impression un
 |------------------------------------------|----------------------|------------------|-----------------|
 | [Fonctionnalité d’impression principale](/universal-print/)             | Oui                  | Oui              | Oui             |
 | [Conversion de documents](/universal-print/fundamentals/universal-print-document-conversion)                  | Oui                  | Oui              | Oui             |
-| [Connexion à l’Impression universelle logiciels](/universal-print/fundamentals/universal-print-connector-overview)   | Oui                  | Oui              | Oui             |
+| [Connexion à l'Impression universelle logiciels](/universal-print/fundamentals/universal-print-connector-overview)   | Oui                  | Oui              | Oui             |
 | [Scripts PowerShell d’impression universelle](/universal-print/fundamentals/universal-print-powershell) | Oui                  | Oui              | Oui             |
 
 ## <a name="learn-more"></a>En savoir plus

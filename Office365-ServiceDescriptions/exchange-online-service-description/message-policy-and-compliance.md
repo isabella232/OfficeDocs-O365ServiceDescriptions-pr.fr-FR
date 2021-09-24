@@ -1,5 +1,5 @@
 ---
-title: Stratégie et conformité de message
+title: Stratégie et conformité des messages
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-message-policy-recovery-and-compliance
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Découvrez la stratégie et la conformité des messages dans Exchange Online.
-ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663767"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671870"
 ---
-# <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
+# <a name="message-policy-and-compliance"></a>Stratégie et conformité des messages
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivage de boîtes aux lettres Exchange Online
 
@@ -74,7 +74,7 @@ Pour plus d'informations, consultez la rubrique [Balises et stratégies de réte
   
 ## <a name="encryption-of-data-at-rest"></a>Chiffrement des données lors de leur stockage
 
-Le chiffrement des données client au repos est fourni par plusieurs technologies côté service, notamment BitLocker, DKM, stockage Azure Service Encryption et le chiffrement de service dans Exchange Online, Skype Entreprise, OneDrive Entreprise et SharePoint Online. Office 365 Le chiffrement de service inclut une option d’utilisation des clés de chiffrement gérées par le client qui sont stockées dans Azure Key Vault. Cette option de clé gérée par le client, appelée Clé [client,](/microsoft-365/compliance/customer-key-overview)est disponible pour Exchange Online, SharePoint Online et OneDrive Entreprise. 
+Le chiffrement des données client au repos est fourni par plusieurs technologies côté service, notamment BitLocker, DKM, stockage Azure Service Encryption et le chiffrement de service dans Exchange Online, Skype Entreprise, OneDrive Entreprise et SharePoint En ligne. Office 365 Le chiffrement de service inclut une option d’utilisation des clés de chiffrement gérées par le client qui sont stockées dans Azure Key Vault. Cette option de clé gérée par le client, appelée Clé [client,](/microsoft-365/compliance/customer-key-overview)est disponible pour Exchange Online, SharePoint Online et OneDrive Entreprise. 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -86,13 +86,13 @@ En plus de BitLocker, nous utilisons une technologie appelée Gestionnaire de cl
   
 ## <a name="customer-key"></a>Clé client
 
-Avec la clé client, vous contrôlez les clés de chiffrement de votre organisation, puis vous les configurez pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Pour plus d’informations, voir [Contrôler vos](/office365/securitycompliance/controlling-your-data-using-customer-key) données à l’aide de la clé client et du chiffrement de service avec la faq sur la [clé client.](/office365/securitycompliance/service-encryption-with-customer-key-faq)
+Avec la clé client, vous contrôlez les clés de chiffrement de votre organisation, puis vous les configurez pour chiffrer vos données au repos dans les centres de données de Microsoft. Les données au repos incluent les données issues d’Exchange Online et de Skype Entreprise qui sont enregistrées dans des boîtes aux lettres et des fichiers stockés dans SharePoint Online et OneDrive Entreprise. Pour plus d’informations, voir [Contrôler vos](/office365/securitycompliance/controlling-your-data-using-customer-key) données à l’aide de la clé client et du chiffrement de service avec la clé [client FAQ.](/office365/securitycompliance/service-encryption-with-customer-key-faq)
   
 ## <a name="office-365-message-encryption"></a>Chiffrement de messages Office 365
 
 chiffrement de messages Office 365 permet aux utilisateurs de messagerie d’envoyer des messages électroniques chiffrés à tout le monde. Nous avons annoncé de nouvelles fonctionnalités dans Office chiffrement de messages qui tirent parti des fonctionnalités de protection dans le chiffrement d’informations Azure. Ces nouvelles fonctionnalités fournissaient des expériences améliorées pour les utilisateurs finaux qui facilitent le partage et la collaboration sur des messages protégés avec toute personne à l’intérieur ou à l’extérieur de l’organisation. Les nouvelles fonctionnalités Office chiffrement de messages ont des exigences de configuration. Voir Configurer de nouvelles fonctionnalités chiffrement de messages Office 365 d’informations intégrées à Azure Information Protection. Les clients sur les chiffrement de messages Office 365 ne peuvent pas obtenir les nouvelles fonctionnalités sans suivre les instructions de mise en place fournies ci-dessus. Veuillez lire la [FAQ pour](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) plus d’informations sur ce qui est inclus dans les nouvelles fonctionnalités d’chiffrement de messages Office 365 héritées. 
 
-Chiffrement avancé de messages Office 365 offre une protection supplémentaire en permettant l’expiration et la révocation des messages.  Vous pouvez également créer plusieurs modèles pour les messages électroniques chiffrés provenant de votre organisation.  Le chiffrement de messages avancé est inclus dans Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (prix du personnel à but non lucratif), Office 365 Entreprise E5 (prix du personnel pour les associations) ou Office 365 Éducation A5. Si votre organisation dispose d’un abonnement qui n’inclut pas Chiffrement avancé de messages Office 365, vous pouvez acheter Microsoft 365 E5 Conformité ou la référence Conformité avancée Office 365 SKU en tant que modules.
+Chiffrement avancé de messages Office 365 offre une protection supplémentaire en permettant l’expiration et la révocation des messages.  Vous pouvez également créer plusieurs modèles pour les messages électroniques chiffrés provenant de votre organisation.  Le chiffrement de messages avancé est inclus dans Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (tarifs du personnel à but non lucratif), Office 365 Entreprise E5 (prix du personnel pour les associations) ou Office 365 Éducation A5. Si votre organisation dispose d’un abonnement qui n’inclut pas Chiffrement avancé de messages Office 365, vous pouvez acheter Microsoft 365 E5 Conformité ou la référence Conformité avancée Office 365 SKU en tant que modules.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>S/MIME (Secure/Multipurpose Internet Mail Extension)
 

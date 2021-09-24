@@ -6,14 +6,14 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: En savoir plus sur Microsoft Teams la disponibilité des services et des fonctionnalités dans Microsoft 365 et Office 365 plans.
-ms.openlocfilehash: 0c1a7e833e257f9dff2f4123cc5142b99a85cf9799bc2e526d8d6e4d9e90f8ed
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: f4c410e68150187d0f9a28234260ac4be3c29852
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702903"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673187"
 ---
 # <a name="microsoft-teams-service-description"></a>Description du service Microsoft Teams
 
@@ -58,7 +58,7 @@ Pour obtenir des informations détaillées sur les abonnements qui permettent au
 
 Pour obtenir des instructions détaillées sur la mise en œuvre des fonctionnalités de produit, [voir la documentation Microsoft Teams’administration.](/MicrosoftTeams) Cette description de service détaille les principales différences entre les services fournis dans les différentes installations cloud. Microsoft Teams fonctionnalités principales ne diffèrent pas d’un abonnement à l’autre. La disponibilité des fonctionnalités de conformité dépend du niveau d’abonnement. Pour en savoir plus, [consultez La sécurité et la conformité dans Microsoft Teams](/microsoftteams/security-compliance-overview). Pour obtenir la liste détaillée des fonctionnalités disponibles dans chaque abonnement, voir Microsoft 365 [et Office 365 description du service de plateforme.](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description)
 
-**Fonctionnalités vocales cloud :** Pour l’audioconférence, votre organisation doit acheter et attribuer une licence d’audioconférence à chaque utilisateur qui va définir des réunions rendez-vous. Pour Teams qui nécessitent des forfaits d’appels, chaque utilisateur a besoin d’un système téléphonique et d’un plan d’appels nationaux ou nationaux et internationaux. Pour en savoir plus, [voir Microsoft Teams licences de modules.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
+**Fonctionnalités vocales cloud :** Pour l’audioconférence, votre organisation doit acheter et attribuer une licence d’audioconférence à chaque utilisateur qui va définir des réunions rendez-vous. Pour Teams fonctionnalités nécessitant des forfaits d’appels, chaque utilisateur a besoin d’un système téléphonique et d’un plan d’appels nationaux ou nationaux et internationaux. Pour en savoir plus, [voir Microsoft Teams licences de modules.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing)
 
 **Événements en direct :** Cette offre dans Office 365 remplace la diffusion Réunion Skype retirée. Les fonctionnalités d’événements en direct sont disponibles pour les plans de gestion des licences, comme détaillé dans le service Stream. Veuillez consulter les [détails des licences Microsoft Stream ici.](/stream/license-overview) Le service Événements en direct est accessible via Stream, Yammer ou Microsoft Teams. Pour en savoir plus sur les fonctionnalités des événements en direct, consultez les événements en direct Microsoft 365 dans [Yammer, Microsoft Teams et Microsoft Stream.](/stream/live-event-m365)
 
@@ -78,7 +78,7 @@ Pour connaître les conditions générales de licence pour les produits et servi
 
 ### <a name="messaging"></a>Messagerie
 
-Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de Messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
+Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 

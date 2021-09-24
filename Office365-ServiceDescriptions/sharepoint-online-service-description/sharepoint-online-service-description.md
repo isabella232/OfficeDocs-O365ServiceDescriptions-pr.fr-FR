@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - sharepoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Découvrez les SharePoint disponibles dans les plans.
-ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8aad0fd841a6a129264be710e5d62cd84202d0aa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702583"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672407"
 ---
 # <a name="sharepoint-service-description"></a>Description du service SharePoint
 
@@ -37,7 +37,7 @@ Pour en savoir plus sur SharePoint différences de fonctionnalités pour les cli
   
 ## <a name="whats-new"></a>Nouveautés
 
-Pour plus d’informations sur les dernières fonctionnalités publiées, voir [Nouveautés de SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
+Pour plus d’informations sur les dernières fonctionnalités publiées, voir [Nouveautés](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029)de SharePoint .
   
 ## <a name="subscription-options"></a>Options d’abonnement
 
@@ -175,7 +175,7 @@ Sauf indication contraire, les fonctionnalités suivantes sont disponibles dans 
 - [SharePoint application mobile](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
 - [SharePoint page de démarrage](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
 - [Conceptions de sites](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
-- [Rapports d’utilisation de site](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
+- [Rapports d’utilisation du site](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
 - [Sites : sites classiques](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
 - [Sites : sites de communication](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
 - [Sites : site d’accueil](/sharepoint/home-site)

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint sur le Web (anciennement PowerPoint Web App) étend votre expérience Microsoft PowerPoint au navigateur web, où vous pouvez utiliser des présentations directement sur le site web où la présentation est stockée. Microsoft 365 clients ayant Office sur le Web peuvent afficher, créer et modifier des fichiers en cours de vie.
-ms.openlocfilehash: b497765f3112043f81a604ff2f8eb6715ff24a66a248f9d3756393ae0d90c0c2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 33805c6937c073be6c7d08f9dca2e56c915a8085
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702253"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669966"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint pour le web
 
@@ -45,7 +45,7 @@ Non disponible dans PowerPoint sur le Web. Des fonctions de mise en forme avanc�
   
 ## <a name="apply-themes-and-theme-variants"></a>Appliquer des thèmes et des variantes de thèmes
 
-Choisissez un thème ou une variante de thème dans la galerie correspondante quand vous ajoutez une nouvelle diapositive à la présentation. Les thèmes non pris en PowerPoint sur le Web sont conservés dans la présentation, mais la possibilité de modifier les thèmes n’est pas disponible dans PowerPoint sur le Web. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
+Choisissez un thème ou une variante de thème dans la galerie correspondante quand vous ajoutez une nouvelle diapositive à la présentation. Les thèmes non pris en PowerPoint sur le Web sont conservés dans la présentation, mais la possibilité de modifier des thèmes n’est pas disponible dans PowerPoint sur le Web. En savoir plus sur [les différences entre l'utilisation d'une présentation dans le navigateur et l'application de bureau PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
 ## <a name="office-add-ins"></a>Compléments Office
 

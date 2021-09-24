@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SharePoint Syntex dans Microsoft 365 utilise l’intelligence artificielle avancée (IA) et l’apprentissage automatique pour insérable l’expertise humaine, automatiser le traitement de contenu et transformer le contenu en connaissances.
-ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: a29e191b6200317c280601e66a01c64a6ec91ee3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371751"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672397"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Description du service SharePoint Syntex 
 
@@ -37,8 +37,8 @@ Le tableau suivant indique les plans à ajouter à Syntex. Pour plus d’informa
 | Plans pour les petites entreprises            | Enterprise plans         | Plans d’enseignement     | Plans pour le gouvernement         |
 | ------------------------------- | ------------------------ | ------------------- | ------------------------ |
 | Microsoft 365 Business Basic    | Office 365 E1            | Office 365 A1       | Office 365 Secteur Public G1 |
-| Microsoft 365 Business Standard | Office 365 E3            | Office 365 A3       | Office 365 pour le gouvernement G3 |
-| Microsoft 365 Business Premium  | Office 365 E5            | Office 365 A5       | Office 365 Secteur Public G5 |
+| Microsoft 365 Business Standard | Office 365 E3            | Office 365 A3       | Office 365 pour le gouvernement G3 |
+| Microsoft 365 Business Premium  | Office 365 E5            | Office 365 A5       | Office 365 Secteur Public G5 |
 |                                 | Office 365 F3            |                     | Office 365 Secteur Public F3 |
 |                                 | Microsoft 365 F1         |                     |                          |
 |                                 | Microsoft 365 F3         |                     |                          |

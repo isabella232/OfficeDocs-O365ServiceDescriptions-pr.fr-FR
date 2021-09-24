@@ -6,21 +6,21 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En réponse aux exigences uniques et en constante évolution du secteur public aux États-Unis, Microsoft a créé des abonnements Office 365 pour le gouvernement américain (ou Office 365 Secteur Public). Cet article fournit une vue d’ensemble des fonctionnalités spécifiques Office 365 Secteur Public aux États-Unis.
-ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: d97aa4d3824e594bd27fbb5d3a4a753af74353fb
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702296"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671053"
 ---
 # <a name="office-365-government"></a>Office 365 pour le gouvernement
 
 > [!IMPORTANT]
-> Microsoft Teams rencontre un pic considérable d’appels en ligne et de conférence audio/vidéo en raison de la épidémie de coronavirus (COVID-19).<br/>
+> Microsoft Teams rencontre un pic considérable dans les appels en ligne et les conférences audio/vidéo en raison de la épidémie de coronavirus (COVID-19).<br/>
 >
 >En réponse à l’augmentation sans précédent des appels et pour garantir la continuité et la disponibilité, Microsoft permet à Microsoft Teams Cloud de la communauté du secteur public serveurs audio/vidéo de tirer parti de la capacité de traitement dans nos centres de données commerciaux, ainsi que dans nos centres de données publics.<br/>
 >
@@ -79,13 +79,13 @@ Office 365 Secteur Public services sont fournis à partir de centres de données
 > [!NOTE]
 > Dans le cas d'une utilisation normale, Skype Entreprise ne stocke pas le contenu client, mais si ce stockage se produit, il sera réalisé dans des centres de données aux États-Unis.
 
-Si vos utilisateurs sont situés aux États-Unis lors de l’utilisation de Office sur le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation d’Active Directory Federation Services (AD FS) 2.0 et que vous définissez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via l' connexion unique, tout contenu client temporairement mis en cache dans Office sur le Web se trouve aux États-Unis.
+Si vos utilisateurs sont situés aux États-Unis lors de l’utilisation de Office sur le Web (anciennement Office Web Apps) ou si vous adoptez l’utilisation des services AD FS (Active Directory Federation Services) 2.0 et que vous définissez des stratégies pour vous assurer que vos utilisateurs se connectent aux services via l' connexion unique, tout contenu client temporairement mis en cache dans Office sur le Web se trouve dans  États-Unis
 
 La page Utilisation du site pour les sites SharePoint est disponible pour les plans du secteur public, bien que, conformément à la conformité, certaines fonctionnalités de cette page ne soient disponibles que pour les clients commerciaux. Pour en savoir plus, [consultez la page Utilisation](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)du site SharePoint sites dans Microsoft 365 .
 
 ## <a name="office-365-government-and-third-party-services"></a>Office 365 Secteur Public services tiers et tiers
 
-Office 365 offre la possibilité d’intégrer des applications tierces dans des sites SharePoint Online, des Skype Entreprise et des applications Office incluses dans Applications Microsoft 365 pour les grandes entreprises (telles que Word, Excel, PowerPoint et Outlook) et Outlook Web App. En outre, Office 365 prend en charge l'intégration avec des fournisseurs de services tiers. Ces applications et services tiers peuvent impliquer le stockage, la transmission et le traitement de données client de votre organisation sur des systèmes tiers situés en dehors de l'infrastructure Office 365 et qui ne sont donc pas couverts par la conformité Office 365 et les engagements de protection des données. Nous vous recommandons de consulter les déclarations de confidentialité et de conformité fournies par les parties tierces lors de l'évaluation de l'utilisation appropriée de ces services pour votre organisation.
+Office 365 offre la possibilité d’intégrer des applications tierces dans des sites SharePoint Online, des Skype Entreprise, des applications Office incluses dans Applications Microsoft 365 pour les grandes entreprises (telles que Word, Excel, PowerPoint et Outlook) et Outlook Web App. En outre, Office 365 prend en charge l'intégration avec des fournisseurs de services tiers. Ces applications et services tiers peuvent impliquer le stockage, la transmission et le traitement de données client de votre organisation sur des systèmes tiers situés en dehors de l'infrastructure Office 365 et qui ne sont donc pas couverts par la conformité Office 365 et les engagements de protection des données. Nous vous recommandons de consulter les déclarations de confidentialité et de conformité fournies par les parties tierces lors de l'évaluation de l'utilisation appropriée de ces services pour votre organisation.
 
 ## <a name="restricted-data-access-by-administrators"></a>Accès aux données limité par les administrateurs
 
@@ -103,7 +103,7 @@ L’intégration se compose des éléments suivants :
 
 Les services d’adoption utilisateur sont composés de tâches qui vous fournissent des conseils pour vous assurer que vos utilisateurs sont conscients des services éligibles et qu’ils peuvent les utiliser pour stimuler la valeur commerciale. Cette aide est offerte en parallèle aux activités d’intégration.
 
-Des informations spécifiques sur le FastTrack centre de données sont disponibles [ici.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d’engagement, FastTrack [responsabilités,](/FastTrack/us-gov-appendix-fasttrack-responsibilities) ainsi que [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
+Des informations spécifiques sur le FastTrack centre de données sont disponibles [ici.](/FastTrack/us-gov-appendix-overview) Pour obtenir une répartition des rôles et responsabilités d’engagement, FastTrack [responsabilités](/FastTrack/us-gov-appendix-fasttrack-responsibilities) et [vos responsabilités.](/FastTrack/us-gov-appendix-your-responsibilities)
 
 > <sup>1</sup> Vous devez acheter au moins 150 licences dans la liste des [plans](/fasttrack/eligibility) éligibles pour recevoir FastTrack services.
 <br/><sup>2</sup> Les services de migration de données sont disponibles Office 365 clients avec 500 licences ou plus.
@@ -170,7 +170,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Fonctionnalité|Office 365 pour le gouvernement G1|Office 365 pour le gouvernement G3|Office 365 Secteur Public G5|Office 365 Secteur Public F3|
 |---|---|---|---|---|
 |**Administration d'Office 365**|||||
-|Utiliser le Centre d’administration Microsoft 365 pour administrer les Office 365|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui|Oui<sup>16</sup>|
+|Utiliser le Centre d'administration Microsoft 365 pour administrer les Office 365|Oui<sup>16</sup>|Oui<sup>16</sup>|Oui|Oui<sup>16</sup>|
 |Gestion des paramètres de service principal à partir d'Office 365|Oui|Oui|Oui|Oui|
 |Utilisation de Windows PowerShell pour gérer Office 365|Oui|Oui|Oui|Oui|
 |Protéger le contenu à l'aide d'Azure Information Protection|Non<sup>1</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Non<sup>1</sup>|
@@ -214,7 +214,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 |Vérification obligatoire de la possession du domaine pour les domaines personnalisés|Oui|Oui|Oui|Oui|
 |**[État et continuité du service](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Status information available on the **Service health** or **Service status** page|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|
-|État des alertes individuelles disponibles dans le tableau Centre d’administration Microsoft 365 de bord|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|
+|État des alertes individuelles disponibles dans le tableau Centre d'administration Microsoft 365 de bord|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|Oui<sup>9, 15</sup>|
 |Flux RSS **État du service**|Oui|Oui|Oui|Oui|
 |**[Rapports](../../office-365-platform-service-description/reports.md)**|**Office 365 Secteur Public G1**|**Office 365 pour le gouvernement G3**|**Office 365 Secteur Public G5**|**Office 365 Secteur Public F3**|
 |Boîtes aux lettres actives et inactives|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|Oui<sup>15</sup>|
@@ -289,7 +289,7 @@ Le tableau suivant répertorie les fonctionnalités et les services de la platef
 <br/><sup>5 Pour découvrir</sup> comment définir des stratégies de gestion des mots de passe en libre-service pour les utilisateurs, voir Gérer les mots de passe [dans Azure AD.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)
 <br/><sup>6</sup> Vous ne pouvez avoir qu’un seul site web public Office 365, sauf si vous avez mis à niveau à partir d’une version antérieure de Office 365. Dans ce cas, vous avez deux sites web publics, mais un seul d’entre eux peut être hébergé avec un nom de domaine personnalisé. Pour plus d’informations sur l’working with the two websites for Business subscriptions, see [Work with your two Office 365 public websites](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si vous avez un abonnement différent, en savoir plus sur les sites web publics en savoir plus sur l’hébergement de sites web partenaires et les sites [web publics dans Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
 <br/><sup>7 La réduction</sup> des sièges achetés avec une remise à terme peut être soumise à des frais de résiliation anticipée. Ceci n’est pas applicable aux abonnements payés sur une base mensuelle.
-<br/><sup>8 Les</sup> plans suivants ne prisent pas en charge les changements de licence par Centre d’administration Microsoft 365 : Office 365 Secteur public G1, Office 365 Secteur public G3, Office 365 Secteur Public F3.
+<br/><sup>8 Les</sup> plans suivants ne prisent pas en charge les changements de licence par Centre d'administration Microsoft 365 : Office 365 Secteur public G1, Office 365 Secteur public G3, Office 365 Secteur Public F3.
 <br/><sup>9</sup> Not yet available in Cloud de la communauté du secteur public High, but coming soon.
 <br/><sup>10</sup> Pour Office 365 Secteur public G1, G3 et F3, la publication ciblée et la feuille de route Office 365 entreprise s’appliquent ; toutefois, il peut y avoir des différences ou des retards pour des mises à jour de service spécifiques en raison des exigences de [conformité.](https://www.microsoft.com/trust-center)
 <br/><sup>11 Pas</sup> encore disponible dans Office 365 Secteur Public offres, mais bientôt disponible.

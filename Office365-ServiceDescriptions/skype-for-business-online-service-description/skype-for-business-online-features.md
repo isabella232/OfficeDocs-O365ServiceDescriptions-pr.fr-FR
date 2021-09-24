@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si vous êtes un administrateur, vous trouverez des instructions détaillées sur la configuration des fonctionnalités Skype Entreprise Online dans Configurer Skype Entreprise Online.
-ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 483b16473d13dbd517ba91eb83ea0f03aea59414
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702463"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672325"
 ---
 # <a name="skype-for-business-online-features"></a>Fonctionnalités de Skype Entreprise Online
 
@@ -46,7 +46,7 @@ Les utilisateurs de Skype Entreprise peuvent :
     
 - Configurer l'affichage de leur propre carte de visite Skype Entreprise.
     
-Vous pouvez en savoir plus sur la messagerie instantanée, la présence et les contacts dans Envoyer un message [instantané Skype Entreprise](https://support.office.com/article/b3aefb9b-dec8-4be8-a1ee-1eab12144d05).
+Vous pouvez en savoir plus sur la messagerie instantanée, la présence et les contacts dans [Envoyer un](https://support.office.com/article/b3aefb9b-dec8-4be8-a1ee-1eab12144d05)message instantané Skype Entreprise .
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Média, vidéo et audio entre utilisateurs Skype
 
@@ -56,13 +56,13 @@ Voir [Définir les options de périphérique audio dans Skype Entreprise](https:
   
 ## <a name="federation-and-public-im-connectivity"></a>Fédération et connectivité PIC (Public IM Connectivity)
 
-Skype Entreprise connectivité externe (fédération) permet aux utilisateurs Skype Entreprise de se connecter à des utilisateurs d’autres organisations qui utilisent Skype Entreprise, ainsi qu’à ceux qui hébergent leurs propres Skype Entreprise Server localement. Les contacts fédérés peuvent afficher la liste des personnes présentes, communiquer par messagerie instantanée, et passer des appels audio et vidéo entre utilisateurs Skype. Toutes les communications fédérées entre les systèmes de messagerie instantanée utilisant des serveurs proxy d'accès sont chiffrées. Microsoft ne contrôle pas le chiffrement une fois les messages transmis au réseau du partenaire fédéré (si le partenaire fédéré dispose d'un serveur Skype Entreprise local ou d'un réseau tiers).
+Skype Entreprise connectivité externe (fédération) permet aux utilisateurs Skype Entreprise de se connecter avec des utilisateurs d’autres organisations qui utilisent Skype Entreprise, ainsi que ceux qui hébergent leurs propres Skype Entreprise Server localement. Les contacts fédérés peuvent afficher la liste des personnes présentes, communiquer par messagerie instantanée, et passer des appels audio et vidéo entre utilisateurs Skype. Toutes les communications fédérées entre les systèmes de messagerie instantanée utilisant des serveurs proxy d'accès sont chiffrées. Microsoft ne contrôle pas le chiffrement une fois les messages transmis au réseau du partenaire fédéré (si le partenaire fédéré dispose d'un serveur Skype Entreprise local ou d'un réseau tiers).
   
 La connectivité externe Skype Entreprise nécessite l'accord et la configuration appropriée des deux parties impliquées dans la relation de fédération. Une fois la fédération définie par les administrateurs des deux côtés, les utilisateurs de chaque organisation peuvent voir la présence et communiquer avec les utilisateurs de l’autre organisation. La fédération est uniquement prise en charge entre les autres environnements Skype Entreprise, avec un proxy d’accès ou des serveurs Edge correctement configurés. Pour en savoir plus sur la configuration du serveur Edge, voir Composants requis pour l’accès des utilisateurs externes dans [Lync Server 2013.](/lyncserver/lync-server-2013-components-required-for-external-user-access)
   
 ## <a name="skype-for-business-online-meetings"></a>Réunions Skype Entreprise Online
 
-Les utilisateurs peuvent commencer ou rejoindre une réunion Skype Entreprise ad hoc facilement dans le client Skype Entreprise ou dans Office. Skype Entreprise permet aux utilisateurs de transformer de simples conversations de messagerie instantanée ou de messagerie électronique en des réunions vidéo et audio sur ordinateur entre plusieurs utilisateurs (deux utilisateurs ou plus) avec la possibilité de partager des bureaux, des applications et des documents.
+Les utilisateurs peuvent commencer ou rejoindre facilement une réunion Skype Entreprise ad hoc dans le client Skype Entreprise ou dans Office. Skype Entreprise permet aux utilisateurs de transformer de simples conversations de messagerie instantanée ou de messagerie électronique en des réunions vidéo et audio sur ordinateur entre plusieurs utilisateurs (deux utilisateurs ou plus) avec la possibilité de partager des bureaux, des applications et des documents.
   
 Un codec audio adaptatif est fourni aux utilisateurs pour des performances optimales sous différentes conditions de bande passante, avec contrôles d'appel et de liste, indicateur de qualité du réseau et fonctionnalités performantes de gestion des utilisateurs (par exemple, glisser-déposer d'un nom de participant pour l'ajouter à une réunion).
   
@@ -89,7 +89,7 @@ Dans certains plans d'abonnement, Skype Entreprise peut s'intégrer avec la mess
   
 - Combinez la messagerie vocale et la messagerie électronique dans une infrastructure de messagerie unique disponible à partir du client Skype Entreprise client. La messagerie unifiée Exchange et Skype Entreprise fonctionnent ensemble pour offrir des services de répondeur automatique, Outlook Voice Access et de standard automatique.
     
-- Activez Outlook sur le web pour fournir la messagerie instantanée, la présence, les mises à jour d’état en fonction Exchange informations de calendrier et la planification Skype Entreprise réunion.
+- Activez Outlook sur le web messagerie instantanée, la présence, les mises à jour d’état en fonction Exchange informations de calendrier et la planification Skype Entreprise réunion.
     
 Skype Entreprise offre l'interopérabilité avec Microsoft SharePoint Server sur site pour la présence et la communication par clic dans les sites SharePoint. Cette interopérabilité nécessite que le client Skype Entreprise soit en cours d'exécution sur l'ordinateur de l'utilisateur. 
   
@@ -127,7 +127,7 @@ Pour obtenir plus d'informations sur les plans d'appel disponibles, accédez à 
   
 ## <a name="phone-system"></a>Système téléphonique
 
-Le Système téléphonique vous permet d’utiliser Skype Entreprise et les lignes téléphoniques existantes de votre organisation ou le Système téléphonique pour les appels entrants et sortants. Avec les Système téléphonique dans Office 365, vos utilisateurs peuvent utiliser Skype Entreprise pour effectuer des tâches de base telles que passer, recevoir, transférer et désactiver ou désactiver le son des appels, à partir de pratiquement n’importe quel endroit qui dispose d’un accès à Internet.
+Le Système téléphonique vous permet d’utiliser Skype Entreprise et les lignes téléphoniques existantes de votre organisation ou le Système téléphonique pour les appels entrants et sortants. Avec les Système téléphonique en Office 365, vos utilisateurs peuvent utiliser Skype Entreprise pour effectuer des tâches de base telles que passer, recevoir, transférer et désactiver le son ou désactiver le son des appels, à partir de pratiquement n’importe quel endroit qui dispose d’un accès à Internet.
   
 Le Système téléphonique vous permet de remplacer votre système PBX existant par un ensemble de fonctionnalités directement délivrées par Microsoft et étroitement intégrées à l’expérience de productivité cloud de Microsoft. Vous pouvez choisir une expérience entièrement dans le cloud ou un déploiement hybride qui tire parti du Système téléphonique tout en conservant certaines fonctionnalités sur votre site.
   

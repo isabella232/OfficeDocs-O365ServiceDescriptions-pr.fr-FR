@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-networking
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft prend en charge les fonctionnalités réseau suivantes.
-ms.openlocfilehash: 9a10afd58fb61aafc4513baff25b9b6e4c0bb122808c56c12c98f5d62637ea76
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 63222b4554ed6abc9c20392061359bf849ca6518
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663077"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673078"
 ---
-# <a name="networking"></a>Réseau
+# <a name="networking"></a>Mise en réseau
 
 Microsoft prend en charge les fonctionnalités réseau suivantes.
   
@@ -38,7 +38,7 @@ Pour plus d'informations sur la configuration de bande passante requise, consult
   
 ## <a name="connecting-to-microsoft"></a>Connexion à Microsoft
 
-Toutes les connexions à Microsoft sont réalisées via Internet public ou via une connexion Azure ExpressRoute privée et sont sécurisées par SSL selon le cas. Azure ExpressRoute permet de se connecter directement au réseau Microsoft global, en contournant Internet. Un partenaire de mise en réseau Microsoft fournit la connectivité au réseau Microsoft global.
+Toutes les connexions à Microsoft sont réalisées via Internet public ou via une connexion Azure ExpressRoute privée et sont sécurisées par SSL, selon le cas. Azure ExpressRoute permet de se connecter directement au réseau Microsoft global, en contournant Internet. Un partenaire de mise en réseau Microsoft fournit la connectivité au réseau Microsoft global.
   
 Pour plus d'informations sur Azure ExpressRoute, consultez la rubrique [Azure ExpressRoute pour Office 365](/microsoft-365/enterprise/azure-expressroute).
   

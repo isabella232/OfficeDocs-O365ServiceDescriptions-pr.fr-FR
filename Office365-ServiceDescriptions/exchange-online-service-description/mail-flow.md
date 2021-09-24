@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-mail-flow
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Pour la plupart des organisations, nous hébergeons vos boîtes aux lettres et nous nous chargeons du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de configurations de flux de messagerie plus complexes pour s’assurer qu’elles sont conformes à des exigences réglementaires ou commerciales spécifiques. Vous pouvez en savoir plus sur ces options ici.
-ms.openlocfilehash: fafaab4b4bec705c00df5fd47d80fd30138a8a9b6da1c1707ae4e087de8b617e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b51c3f6661047e3e3ea446dbac6f81866c5db27b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663787"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671887"
 ---
 # <a name="mail-flow"></a>Flux de messagerie
 

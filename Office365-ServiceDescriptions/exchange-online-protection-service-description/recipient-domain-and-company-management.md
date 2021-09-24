@@ -8,26 +8,26 @@ ms.topic: reference
 f1_keywords:
 - recipient-domain-and-company-management-features-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Lisez cet article pour en savoir plus sur la gestion des destinataires, des domaines et des entreprises dans Microsoft Exchange Online Protection des données (EOP).
-ms.openlocfilehash: fc2b9f6fbd797e8e765758c11c486ce6afaba5a5855602e79f5418c1e80bb1ea
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 928f94153f91c5067bc5e7ea80525a36cc8e7de3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664057"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672227"
 ---
 # <a name="recipient-domain-and-company-management-in-exchange-online-protection"></a>Gestion des destinataires, des domaines et des entreprises dans Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) offre plusieurs moyens de gérer vos informations de destinataire, de domaine et d’entreprise. En tant qu’administrateur, vous pouvez effectuer certaines tâches de gestion dans le Centre d’administration Exchange (EAC) et vérifier les autres tâches de gestion effectuées dans le Centre d’administration Microsoft 365.
+Microsoft Exchange Online Protection (EOP) offre plusieurs moyens de gérer vos informations de destinataire, de domaine et d’entreprise. En tant qu’administrateur, vous pouvez effectuer certaines tâches de gestion dans le Centre d’administration Exchange (EAC) et vérifier les autres tâches de gestion effectuées dans le Centre d'administration Microsoft 365.
   
 Vous recherchez des informations sur toutes les fonctionnalités EOP ? Consultez la [description Exchange Online Protection service.](exchange-online-protection-service-description.md)
   
 ## <a name="mail-recipients"></a>Mail recipients
 
-Les destinataires du message sont classés en tant qu'utilisateurs ou groupes de messagerie et peuvent être gérés à l'aide de la synchronisation d'annuaires, directement dans le Centre d'administration Exchange, ou via le service Windows PowerShell à distance. Si vous gérez vos destinataires localement, vous devez synchroniser les annuaires pour que les destinataires des messages apparaissent dans le Centre d'administration Exchange. Les utilisateurs gérés uniquement dans le Centre d’administration Microsoft 365 ne sont pas consultables dans le EAC, mais ils peuvent être ajoutés ou supprimés de l’appartenance à un groupe de rôles d’administrateur dans leAC. Pour plus d'informations sur les destinataires dans EOP, consultez la rubrique [Gestion des destinataires dans Exchange Online Protection (EOP)](/microsoft-365/security/office-365-security/manage-recipients-in-eop).
+Les destinataires du message sont classés en tant qu'utilisateurs ou groupes de messagerie et peuvent être gérés à l'aide de la synchronisation d'annuaires, directement dans le Centre d'administration Exchange, ou via le service Windows PowerShell à distance. Si vous gérez vos destinataires localement, vous devez synchroniser les annuaires pour que les destinataires des messages apparaissent dans le Centre d'administration Exchange. Les utilisateurs gérés uniquement dans le Centre d'administration Microsoft 365 ne sont pas consultables dans le EAC, mais ils peuvent être ajoutés ou supprimés de l’appartenance à un groupe de rôles d’administrateur dans leAC. Pour plus d'informations sur les destinataires dans EOP, consultez la rubrique [Gestion des destinataires dans Exchange Online Protection (EOP)](/microsoft-365/security/office-365-security/manage-recipients-in-eop).
   
 ## <a name="admin-role-group-permissions"></a>Admin role group permissions
 
@@ -35,7 +35,7 @@ Dans EOP, vous pouvez configurer uniquement des rôles d'administrateur. Le Cent
   
 ## <a name="domain-management"></a>Gestion de domaines
 
-Les domaines gérés sont des domaines protégés par EOP. Le Centre d'administration Exchange permet d'afficher les domaines gérés et de modifier les types de domaines. La mise en service et la gestion des domaines se produisent dans Centre d’administration Microsoft 365 et les modifications sont reflétées dans le EAC. Pour plus d'informations, consultez la rubrique [Gérer des domaines acceptés dans EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
+Les domaines gérés sont des domaines protégés par EOP. Le Centre d'administration Exchange permet d'afficher les domaines gérés et de modifier les types de domaines. La mise en service et la gestion des domaines se produisent dans Centre d'administration Microsoft 365 et les modifications sont reflétées dans le EAC. Pour plus d'informations, consultez la rubrique [Gérer des domaines acceptés dans EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
   
 ## <a name="match-subdomains"></a>Match subdomains
 

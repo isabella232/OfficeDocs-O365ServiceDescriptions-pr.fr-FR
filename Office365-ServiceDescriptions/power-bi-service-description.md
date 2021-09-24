@@ -6,18 +6,18 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI est une suite d’outils d’analyse métier basée sur le cloud qui permet à tout le monde de se connecter à des données, de les visualiser et de les analyser avec une vitesse, une efficacité et une compréhension accrues. Ce service connecte les utilisateurs à un large éventail de données actives par le biais de tableaux de bord faciles d'utilisation, fournit des rapports interactifs et propose des affichages attrayants qui donnent vie aux données.
-ms.openlocfilehash: b95a17ffccd284e0cfad2a432db5c80344a2cbbcccb78905ab18baa3d3059a9f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bf1a543008dcfb92496f25ab42c11abcd4d706ea
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702863"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672714"
 ---
 # <a name="power-bi-service-description"></a>Description du service Power BI
 
@@ -44,7 +44,7 @@ Le tableau suivant répertorie les principales fonctionnalités Power BI disponi
 | Consommation de contenu sans licence par utilisateur | Non | Non | Oui |
 | Rapports locaux avec Power BI Report Server | Non | Non | Oui |
 | **Préparation, modélisation et visualisation des données** | | | |
-| Limite de taille du modèle | 1 Go | 100 Go | 400 Go |
+| Limite de taille du modèle | 1 Go | 100 Go | 400 Go |
 | Taux d’actualisation | 8/jour | 48/jour | 48/jour |
 | Connecter plus de 100 sources de données | Oui | Oui | Oui |
 | Créer des rapports et des visualisations à l’Power BI Desktop | Oui | Oui | Oui |
@@ -71,7 +71,7 @@ Pour plus d’informations Power BI, consultez les ressources suivantes :
 
 - Documentation complète Power BI : [documentation Power BI- Power BI | Documents Microsoft](/power-bi/)
 - Power BI documentation pour les développeurs [: documentation Power BI développeur - Power BI | Documents Microsoft](/power-bi/developer/)
-- Power BI documentation pour les administrateurs et les entreprises : documentation [Power BI’administration et d’entreprise : Power BI | Documents Microsoft](/power-bi/admin/)
+- Power BI documentation pour les administrateurs et les entreprises : documentation [Power BI’administration et d’entreprise - Power BI | Documents Microsoft](/power-bi/admin/)
 - Power BI blog : blog Power BI- Mises à jour [et informations | Microsoft Power BI](https://powerbi.microsoft.com/blog/)
 - Power BI communauté : [Famille - Microsoft Power BI Community](https://community.powerbi.com/)
 
@@ -81,7 +81,7 @@ Pour connaître les conditions générales de licence pour les produits et servi
 
 ### <a name="messaging"></a>Messagerie
 
-Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de Messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
+Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 

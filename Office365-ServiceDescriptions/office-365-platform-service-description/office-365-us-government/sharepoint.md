@@ -7,15 +7,15 @@ ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Découvrez la disponibilité SharePoint fonctionnalités pour les clients cloud du gouvernement des États-Unis.
-ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371770"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673002"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint pour les environnements pour le gouvernement américain
 
@@ -36,7 +36,7 @@ Notre objectif est de fournir toutes les fonctionnalités commerciales SharePoin
 
 ## <a name="developer-features"></a>Fonctionnalités de développeur
 
-Il n’existe aucune différence connue entre les fonctionnalités de développement pour les clients commerciaux et celles des clients cloud du secteur privé.
+Il n’existe aucune différence connue entre les fonctionnalités de développement pour les clients commerciaux et les fonctionnalités de développement pour les clients cloud du secteur privé.
 
 - Les connexions à des applications externes telles que des sources de données pour les applications sont limitées aux sources situées dans les limites de sécurité système pris en charge par votre environnement public.
 - Services Business Connectivity (BCS) est prise en charge pour les scénarios de connectivité dans lesquels les sources de données restent accessibles à l’intérieur des limites de sécurité de votre service cloud.
@@ -45,10 +45,9 @@ Si vous utilisez des applications tierces sur des sites, examinez les déclarati
 
 ## <a name="it-admin-features"></a>Fonctionnalités d’administration informatique
 
-Voici les différences entre les fonctionnalités d’administration informatique pour les clients commerciaux et celles des clients cloud du secteur privé.
+Voici les différences entre les fonctionnalités d’administration informatique pour les clients commerciaux et les fonctionnalités d’administration informatique pour les clients cloud du gouvernement.
 
 - La modification d’une adresse de site n’est pas Cloud de la communauté du secteur public clients élevés
-- Hybrid SharePoint Server n’est pas disponible pour tous les clients cloud du gouvernement
 - L’outil SharePoint migration et le Gestionnaire de migration nécessitent une modification de configuration. Pour plus d’informations, voir la prise en charge [du cloud pour le gouvernement de SPMT.](/sharepointmigration/spmt-install-issues#government-cloud-support)
 - Mover.io n’est pas encore pris en charge
 - Multi-géo n’est pas disponible pour tous les clients cloud du gouvernement
@@ -57,7 +56,7 @@ Pour plus d’informations FastTrack migration, voir la [description Office 365 
 
 ## <a name="security-and-compliance-features"></a>Fonctionnalités de sécurité et de conformité
 
-Il n’existe aucune différence connue entre les fonctionnalités de sécurité et de conformité pour les clients commerciaux et celles pour les clients cloud du gouvernement.
+Il n’existe aucune différence connue entre les fonctionnalités de sécurité et de conformité pour les clients commerciaux et les fonctionnalités de sécurité et de conformité pour les clients cloud du gouvernement.
 
 Pour plus d’informations sur les fonctionnalités de sécurité et de conformité, voir [le Centre de sécurité & conformité.](../office-365-securitycompliance-center.md)
 
@@ -69,7 +68,7 @@ Pour plus d’informations SharePoint Syntex fonctionnalités, voir la [descript
 
 ## <a name="sites-and-content"></a>Sites et contenu
 
-Voici les différences entre les sites et les fonctionnalités de contenu pour les clients commerciaux et celles pour les clients cloud du secteur privé :
+Voici les différences entre les sites et les fonctionnalités de contenu pour les clients commerciaux et les sites et les fonctionnalités de contenu pour les clients cloud du secteur privé :
 
 - Les composants Web Parts qui reposent sur les connexions aux services Internet, tels que les composants Web Bing Cartes Amazon, Bing Cartes, Twitter et YouTube, ne fonctionneront pas comme prévu.
 - La bibliothèque de biens de l’organisation n’est pas disponible
@@ -81,7 +80,7 @@ Voici les différences entre les sites et les fonctionnalités de contenu pour l
 
 ## <a name="search-features"></a>Fonctionnalités de recherche
 
-Voici les différences entre les fonctionnalités de recherche pour les clients commerciaux et celles des clients cloud du secteur privé :
+Voici les différences entre les fonctionnalités de recherche pour les clients commerciaux et les fonctionnalités de recherche pour les clients cloud du secteur privé :
 
 - Recherche Microsoft n’est pas disponible dans Cloud de la communauté du secteur public.
 
@@ -98,3 +97,41 @@ Votre passage au cloud offre des expériences transformatives avec des contrôle
 Après avoir installé votre organisation dans le cloud microsoft pour le gouvernement des États-Unis, suivez le chemin d’accès de déploiement recommandé décrit dans le centre de ressources [SharePoint’adoption.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) N’oubliez pas de vous engager avec vos champions de l’adoption et de la gestion des changements.
 Vous pouvez également travailler avec [FastTrack](https://www.microsoft.com/fasttrack) ou votre partenaire choisi pour déployer le service auprès de vos utilisateurs.
 Visitez le [Centre de](https://www.microsoft.com/trust-center) confidentialité Microsoft pour en savoir plus sur la façon dont Microsoft aborde la sécurité, la confidentialité et la conformité, principes fondamentaux pour la façon dont nous donnent aux organisations la possibilité de servir leurs clients.
+
+## <a name="configuring-sharepoint-hybrid-configuration-wizard-support-for-all-government-cloud-customers"></a>Configuration de SharePoint prise en charge de l’Assistant Configuration hybride pour tous les clients cloud du gouvernement
+
+L SharePoint de configuration hybride hybride contient la prise en charge SharePoint fonctionnalités hybrides avec des environnements SPO spéciaux.
+
+Vous devez modifier la valeur d’un paramètre lié à l’environnement dans un **fichier.config** pour rendre les fonctionnalités hybrides SharePoint disponibles pour cet environnement. Voir [Fichier de configuration modification.](#editing-configuration-file)
+
+> [!NOTE]
+> Pour plus d’informations sur les environnements SPO spéciaux pour lesquels les SharePoint hybrides offrent une prise en charge, voir [Environnements pris en charge.](#supported-environments)
+
+## <a name="editing-configuration-file"></a>Modification du fichier de configuration
+
+1. Installez ou mettez à jour SharePoint’Assistant Configuration hybride.
+2. Go to the folder in which the SharePoint Hybrid Configuration Wizard is installed. Par exemple, `%LOCALAPPDATA%\Apps\HybridSP\HybridSP`
+3. Lancez **lemicrosoft.online.cse.hybridsp.common.dll.config** dans un éditeur de texte tel que Bloc-notes.
+Le contenu de ce fichier est représenté dans la capture d’écran suivante :
+
+:::image type="content" source="../../media/content.png" alt-text="Contenu du fichier de configuration":::
+
+4. Modifiez la valeur du `SPOEnvironmentType` paramètre.
+5. Enregistrez les modifications dans **microsoft.online.cse.hybridsp.common.dll.config** fichier.
+6. Re-lancez l SharePoint de configuration hybride hybride.
+   Les paramètres sont appliqués et les SharePoint hybrides sont disponibles dans l’environnement SPO configuré.
+
+## <a name="supported-environments"></a>Environnements pris en charge
+
+SharePoint hybrides de prise en charge des environnements SPO suivants :
+
+- Public
+- PPE
+- GCC
+- GccHigh
+- DoD
+- Personnalisé
+
+Si un client définit la valeur sur Personnalisé, les clés et les clés sont utilisées pour définir ces points de terminaison `SPOEnvironmentType` pour cet environnement  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` SPO personnalisé.
+
+Si la valeur est définie sur une valeur autre que Custom , les clés et les clés sont ignorées et l’Assistant configuration hybride SharePoint utilise des valeurs codées en dur appropriées pour ces types d’environnement `SPOEnvironmentType`  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` SPO.

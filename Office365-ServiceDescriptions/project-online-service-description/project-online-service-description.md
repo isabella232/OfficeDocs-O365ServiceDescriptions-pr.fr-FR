@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - project-online-service-description
 ms.prod: office-online-server
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online est une solution en ligne flexible pour la gestion de portefeuille de projets (PPM) et le travail quotidien. Grâce à Office 365, Project Online offre de puissantes fonctionnalités de gestion de projet pour la planification, la hiér doncisation et la gestion des projets et des investissements de portefeuille de projets, pratiquement n’importe où sur presque n’importe quel appareil. Project Online peut être utilisé par les administrateurs, les gestionnaires et les visualiseurs de portefeuille, les gestionnaires de projets et de ressources, et les chefs et les membres d'équipe.
-ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
+ms.openlocfilehash: df6f4ffc3d8c95ab3b4882a7d337e7f880f3b368
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505699"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672557"
 ---
 # <a name="microsoft-project-service-description"></a>Description du service Microsoft Project
 
@@ -116,7 +116,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |**Rapports**<sup>3</sup> ||||||
 |Lire des rapports à *partir Project données web* | Affichez des rapports prêts à l’emploi ou personnalisés, ainsi que des tableaux de bord pour comprendre les données de projet, de programme, de portefeuille et de ressources. | Oui | Oui | Oui | Oui |
 |Créer des rapports à *l’Project pour les données web* | Comprenez les données importantes pour votre organisation en construisant des rapports personnalisés basés sur des rapports pré-personnalisés ou à partir de zéro. <br>Créer des tableaux de bord personnalisés pour répondre à des besoins spécifiques de l’organisation. | Non | Oui | Oui | Oui |
-|**Convivialité** ||||||
+|**Facilité d’utilisation** ||||||
 |Co-édition | Collaborer avec les parties prenantes et les membres de l’équipe pour créer, modifier et mettre à jour simultanément des listes de tâches, des planifications de projet, etc.| Afficher uniquement | Oui | Oui | Oui |
 |Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec les indicateurs graphiques.| Afficher uniquement | Oui | Oui | Oui |
 |**Personnalisation et intégration**||||||
@@ -197,7 +197,7 @@ Les fonctionnalités répertoriées dans cette section interagissent uniquement 
 |Gestion des utilisateurs | Gérer les rôles et autorisations des utilisateurs et des groupes au niveau du projet, de l’équipe et de l’organisation. | Non | Oui |
 |Administration des services | Planifiez, installez et configurez, maintenez à jour et étendez votre environnement Microsoft Project dans le cadre de votre environnement Office 365<sup>1.</sup> | Non | Oui |
 
-#### <a name="notes"></a>Notes
+#### <a name="notes"></a>Remarques
 
 <sup>1</sup> Nécessite un abonnement Office ou Microsoft 365 commercial.<br/>
 <sup>2 Azure Boards</sup> acquis séparément.<br/>
@@ -250,7 +250,7 @@ Si le flux est isolé et n’a rien à voir avec l’application Project, une li
 |Rapports personnalisés | Créer des rapports personnalisés pour des projets, des programmes, des portefeuilles et des ressources. |
 |Rapports préétents | Utilisez des rapports pré-créés pour comprendre les données de projet, de programme, de portefeuille et de ressources. |
 |Sortie PDF et XPS | Enregistrez un Project au format PDF ou XPS. |
-|**Convivialité**||
+|**Facilité d’utilisation**||
 |Mise à l’complet automatique | Obtenez des suggestions pour les noms de tâches ou de ressources et les dépendances à mesure que vous tapez. |
 |Affichages filtrés | Filtrer les plans de projet selon n’importe quelle valeur du plan |
 |Indicateurs graphiques | Comprendre l’état des tâches, les affectations et bien plus encore avec les indicateurs graphiques. |
@@ -283,11 +283,11 @@ Project Online nécessite l’utilisation de SharePoint Online, qui est mise en 
 
 ### <a name="project-roadmap-and-power-automate"></a>Project Feuille de route et Power Automate
 
-Project La feuille de route nécessite l’utilisation Power Automate, qui est mise en service dans le cadre de votre abonnement Project abonnement. Les droits à Power Automate fonctionnalités d’Power Automate sont limités aux fonctionnalités requises par Project feuille de route. Power Automate fonctionnalité requise par la feuille de route Project apparaît comme intégration des données pour **Project** avec un plan de service Flow dans la **section** Applications du Centre d’administration Microsoft 365.
+Project La feuille de route nécessite l’utilisation Power Automate, qui est mise en service dans le cadre de votre abonnement Project abonnement. Les droits à Power Automate fonctionnalités d’Power Automate sont limités aux fonctionnalités requises par Project feuille de route. Power Automate fonctionnalité requise par la feuille de route Project apparaît comme intégration des données pour **Project** avec un plan de service Flow dans la **section** Applications du Centre d'administration Microsoft 365.
 
 ### <a name="project-for-the-web-and-microsoft-dataverse"></a>Project web et Microsoft Dataverse
 
-Project web nécessite l’utilisation de Microsoft Dataverse pour stocker ses données. Une base de données Microsoft Dataverse est mise en service dans le cadre de Project abonnement. Les droits sur les fonctionnalités de serveur de données Microsoft sont limités au stockage et à l’accès aux données pour prendre en charge Project pour le web. Les fonctionnalités de serveurs de données Microsoft requises par Project apparaissent en tant que service de données courants pour le plan de service **Project** dans la **section** Applications du Centre d’administration Microsoft 365.
+Project web nécessite l’utilisation de Microsoft Dataverse pour stocker ses données. Une base de données Microsoft Dataverse est mise en service dans le cadre de Project abonnement. Les droits sur les fonctionnalités de serveur de données Microsoft sont limités au stockage et à l’accès aux données pour prendre en charge Project pour le web. Les fonctionnalités de serveurs de données Microsoft requises par Project apparaissent en tant que service de données courants pour le plan de service **Project** dans la **section** Applications du Centre d'administration Microsoft 365.
 
 Pour Project clients avec cinq (5) ou plus Project pour les licences web, les Project pour le web peuvent être déployés dans les environnements de production power platform et de bac à sable.
 
@@ -316,7 +316,7 @@ Project pour le web présente certaines limitations, décrites dans le tableau s
 
 | Entité/champ | Limite |
 |-------------|-------|
-|**Task** ||
+|**Tâche** ||
 |Longueur niveau de hiérarchie pour la tâche | 10 niveaux |
 |Longueur liens (successeur + prédécesseur) pour une tâche | 20 |
 |Longueur durée de la tâche feuille | 1250 jours |

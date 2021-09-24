@@ -8,22 +8,22 @@ ms.topic: reference
 f1_keywords:
 - office-365-domains
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Une fois l’Assistant terminé, le courrier électronique de votre entreprise commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour plus d’informations, voir Ajouter vos utilisateurs et domaines à Microsoft. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la vérification de votre domaine.
-ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Lorsque vous avez terminé l’Assistant, votre courrier électronique professionnel commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour plus d’informations, voir Ajouter vos utilisateurs et domaines à Microsoft. Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la vérification de votre domaine.
+ms.openlocfilehash: 730165d82298a43af1cd9903e6bb5726e98f8ec5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662987"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670319"
 ---
 # <a name="domains"></a>Domaines
 
-Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Une fois l’Assistant terminé, le courrier électronique de votre entreprise commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour en savoir plus, voir [Ajouter vos utilisateurs et domaines à Microsoft.](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la [vérification de votre domaine](/office365/admin/setup/add-domain).
+Lorsque vous ajoutez un domaine, un Assistant pas à pas vous permet d’ajouter des utilisateurs et de convertir vos adresses de messagerie et d’autres services au nom de votre entreprise. Lorsque vous avez terminé l’Assistant, votre courrier électronique professionnel commence à arriver à Microsoft au lieu d’être envoyé à votre fournisseur de messagerie actuel. Pour en savoir plus, voir [Ajouter vos utilisateurs et domaines à Microsoft.](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) Si vous utilisez Office 365 géré par 21Vianet, reportez-vous à l'article relatif à la [vérification de votre domaine](/office365/admin/setup/add-domain).
   
 ## <a name="custom-domains"></a>Domaines personnalisés
 
@@ -43,7 +43,7 @@ Si votre domaine est enregistré auprès de GoDaddy, Microsoft peut créer les e
   
 Quel que soit l’endroit où vos enregistrements DNS sont hébergés, vous pouvez configurer les enregistrements DNS pour utiliser votre domaine pour l’URL d’un site web public hébergé sur Microsoft ou avec un autre fournisseur d’hébergement. 
   
-Microsoft vérifie de manière proactive vos enregistrements DNS pour rechercher et résoudre les problèmes DNS. Si vos enregistrements DNS ne correspondent pas à ce que nous attendons d’eux, vous recevrez une notification dans le Centre d’administration Microsoft 365, ainsi que des informations qui vous indiquent comment résoudre les problèmes éventuels qui ont été identifiés.
+Microsoft vérifie de manière proactive vos enregistrements DNS pour rechercher et résoudre les problèmes DNS. Si vos enregistrements DNS ne correspondent pas à ce que nous attendons d’eux, vous recevrez une notification dans le Centre d'administration Microsoft 365, ainsi que des informations qui vous indiquent comment résoudre les problèmes éventuels qui ont été identifiés.
   
 Pour plus d’informations, voir Comment Microsoft gère les enregistrements [DNS](/office365/admin/setup/domains-faq) ou, pour Office 365 géré par 21Vianet, voir Créer des enregistrements DNS pour Office 365 lorsque vous gérez vos enregistrements [DNS.](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records)
   

@@ -8,20 +8,20 @@ ms.topic: reference
 f1_keywords:
 - mail-flow-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Lisez cet article pour en savoir plus sur le flux de messagerie dans Microsoft Exchange Online Protection des données (EOP).
-ms.openlocfilehash: 1391f5dcbc47bf9fa3ea6c7be84d97bd107a4c3bbde958694b182d2f32ee523e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4cc64692eb9cfb338e4fa9ab1ad7d7b4f889e280
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664177"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672335"
 ---
 # <a name="mail-flow-in-exchange-online-protection"></a>Flux de messagerie dans Exchange Online Protection
 
-Pour la plupart des organisations qui utilisent Microsoft, nous hébergeons vos boîtes aux lettres et nous nous chargeons du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres localement. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement de courrier antivirus et anti-courrier indésirable dans le cloud. Pour plus d’informations et pour acheter EOP, Exchange Online Protection [.](https://products.office.com/exchange/exchange-email-security-spam-protection)
+Pour la plupart des organisations qui utilisent Microsoft, nous hébergeons vos boîtes aux lettres et nous nous chargeons du flux de messagerie. Il s’agit de la configuration la plus simple et signifie que Microsoft gère toutes les boîtes aux lettres et le filtrage. Toutefois, certaines organisations ont besoin de conserver toutes leurs boîtes aux lettres localement. Exchange Online Protection (EOP) vous permet de le faire et fournit un traitement antivirus et anti-courrier indésirable dans le cloud. Pour plus d’informations et pour acheter EOP, Exchange Online Protection [.](https://products.office.com/exchange/exchange-email-security-spam-protection)
   
 Vous recherchez des informations sur la gestion de domaines ou le blocage du périmètre basé sur l'annuaire (DBEB) ? Consultez [la gestion des destinataires, des domaines et des entreprises.](recipient-domain-and-company-management.md) Pour en savoir plus sur toutes les fonctionnalités EOP, consultez la [description Exchange Online Protection service.](exchange-online-protection-service-description.md)
   

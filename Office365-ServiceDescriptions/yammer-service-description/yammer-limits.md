@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - yammer-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Découvrez les limites de service dans Yammer pour Microsoft 365.
-ms.openlocfilehash: 6ce13069239cc0b7b39adf2e9850b0cd46a12910f9dca6b61aea2600d7591402
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b69c4b26e577ee31f000d6e027f3d77c6ff823a3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702263"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673095"
 ---
 # <a name="limits-in-yammer"></a>Limites dans Yammer
 
@@ -35,7 +35,7 @@ Découvrez les limites de service dans Yammer pour Microsoft 365.
 
 | Fonctionnalité | Détails |
 |---------|---------|
-| Taille maximale des fichiers et stockage | La migration vers Microsoft 365 mode natif pour Yammer est recommandée pour vous assurer que tous les fichiers sont stockés dans SharePoint Online. <br/>Pour Yammer fichiers stockés dans SharePoint : <ul><li>La taille maximale d’une seule pièce jointe est de 15 gigaoctets (Go).</li><li>Il n’existe aucune limitation de dimension pour les images, mais les paramètres SharePoint taille maximale maximale de votre organisation s’appliquent.</li><li>Tout type de fichier peut être ajouté, mais l’aperçu et la modification sont limités à certains types de fichiers.</li> </ul><br/>[SharePoint limites s’appliquent](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) Microsoft 365 les communautés [connectées](/yammer/manage-yammer-groups/yammer-and-office-365-groups) Yammer. <br/>Pour les fichiers stockés dans Yammer stockage de fichiers : <br/><ul><li>La taille maximale d’une seule pièce jointe est de 5 gigaoctets (Go) pour les réseaux Yammer Entreprise et de 100 mégaoctets (Mo) pour les Yammer de base.</li><li>Les dimensions maximales sont de 7 680 pixels de large et de 4 320 pixels de hauteur, et la taille maximale de l’image est de 10 mégaoctets (Mo).</li></ul> <br/>Pour plus d’informations sur l’utilisation des images, notamment sur les modèles et les dimensions des photos de couverture, [voir Yammer Adoption Resources](https://adoption.microsoft.com/yammer/). |
+| Taille maximale des fichiers et stockage | La migration vers Microsoft 365 mode natif pour Yammer est recommandée pour vous assurer que tous les fichiers sont stockés dans SharePoint Online. <br/>Pour Yammer fichiers stockés dans SharePoint : <ul><li>La taille maximale d’une seule pièce jointe est de 15 gigaoctets (Go).</li><li>Il n’existe aucune limitation de dimension pour les images, mais les paramètres SharePoint taille maximale maximale de votre organisation s’appliquent.</li><li>Tout type de fichier peut être ajouté, mais l’aperçu et la modification sont limités à certains types de fichiers.</li> </ul><br/>[SharePoint limites s’appliquent](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) Microsoft 365 les communautés [connectées](/yammer/manage-yammer-groups/yammer-and-office-365-groups) Yammer. <br/>Pour les fichiers stockés dans Yammer stockage de fichiers : <br/><ul><li>La taille maximale d’une seule pièce jointe est de 5 gigaoctets (Go) pour les réseaux Yammer Entreprise et de 100 mégaoctets (Mo) pour les Yammer de base.</li><li>Les dimensions maximales sont de 7 680 pixels de large et de 4 320 pixels de hauteur, et la taille maximale de l’image est de 10 mégaoctets (Mo).</li></ul> <br/>Pour plus d’informations sur l’utilisation d’images, notamment sur les modèles et les dimensions des photos de couverture, [voir Yammer Adoption Resources](https://adoption.microsoft.com/yammer/). |
 | Nombre de pièces jointes par billet | Chaque billet peut avoir un maximum de 100 fichiers. |
 | Formats vidéo pris en charge | Les types de vidéo suivants sont pris en charge pour la lecture en ligne : .wmv, .avi, .mpeg, .3gp, .flv, .mov, .mp4, .mpg, .premier, .mkv, .ogv et .ogg. <br/>Yammer utilise Azure Media Services pour afficher des vidéos téléchargées dans Yammer. |
 | Lecture de vidéos en ligne | Microsoft Stream, SharePoint Online, YouTube et Vimeo sont pris en charge pour la lecture en ligne. |
@@ -48,7 +48,7 @@ Découvrez les limites de service dans Yammer pour Microsoft 365.
 |---------|---------|
 | Nombre de visionneuses d’événements en direct | Actuellement, la limite est de 10 000 participants. Pour les événements de plus grande taille, travaillez dans le cadre du programme [d’assistance aux événements en direct.](https://resources.techcommunity.microsoft.com/live-events/assistance/) |
 | Autorisations de création d’événements en direct | L’autorisation de créer des événements en direct dans Stream est requise. <br/>Community administrateurs de Yammer peuvent créer ou planifier des événements en direct. |
-| Accès invité | Les membres de votre réseau canonique peuvent créer ou participer à des événements en direct dans Yammer. |
+| Accès invité | Les membres de votre réseau canonique peuvent créer ou participer à des événements en direct Yammer. |
 | Sous-titre fermé | Les légendes fermées ne sont pas disponibles pour les événements en Yammer. Une prochaine mise à jour ajoutera la prise en charge des légendes fermées. |
 | Durée de l’événement | 4 heures |
 | Événements en direct simultanés en cours d Microsoft 365 ou Office 365 organisation | 50 événements par client |
@@ -69,7 +69,7 @@ Pour plus d’informations sur les Microsoft Teams et les réunions en direct, v
 | Communautés connectées et Azure AD Sync | La latence avec synchronisation peut se produire avec une appartenance à la communauté de plus de 100 000. |
 | Membres de l’ensemble de l’entreprise | Inclut tous les utilisateurs du client. |
 | Nombre de communautés officielles | Sans limite |
-| Nombre de communautés favorites | 10  |
+| Nombre de communautés favorites | 10 |
 | Community nombre limite de caractères de nom | Dépend de la convention d’attribution de noms du réseau. <br/>255 caractères maximum, préfixe compris. |
 | Community de description maximale | 150 caractères |
 | Community longueur des informations | Aucune limite de caractères (jusqu’à 1 Go) |

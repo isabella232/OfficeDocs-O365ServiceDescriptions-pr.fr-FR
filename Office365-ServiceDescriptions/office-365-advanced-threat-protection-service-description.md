@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender pour Office 365 est un service de filtrage de courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les programmes malveillants et les virus inconnus en offrant une protection zero-day robuste, et inclut des fonctionnalités permettant de protéger votre organisation contre les liens dangereux en temps réel.
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663097"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670339"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Description du service Microsoft Defender pour Office 365
 
@@ -29,7 +29,7 @@ Les principaux moyens d’utiliser Defender pour la protection des Office 365 so
 
 - Defender for Office 365 peut être activé pour protéger Exchange Online boîtes aux lettres hébergées dans le cloud. Pour en savoir plus sur Exchange Online, voir la [description Exchange Online service.](exchange-online-service-description/exchange-online-service-description.md)
 
-- Dans un déploiement hybride, Defender pour Office 365 peut être configuré pour protéger votre environnement de messagerie et contrôler le routage des messages lorsque vous avez une combinaison de boîtes aux lettres sur site et cloud avec Exchange Online Protection pour le filtrage des messages entrants.
+- Dans un déploiement hybride, Defender pour Office 365 peut être configuré pour protéger votre environnement de messagerie et contrôler le routage du courrier lorsque vous avez une combinaison de boîtes aux lettres sur site et cloud avec Exchange Online Protection pour le filtrage des messages entrants.
 
 ## <a name="available-plans"></a>Plans disponibles
 
@@ -39,7 +39,7 @@ Pour obtenir des informations détaillées sur les abonnements qui activent Micr
 
 Le tableau suivant répertorie les principales fonctionnalités de Microsoft Defender Office 365 disponibles dans les différents plans. Certaines mises en garde s’appliquent. Pour plus d’informations, consultez les notes de bas de page. Cette table peut changer sans préavis. Pour obtenir la liste complète et la plus à jour des fonctionnalités de Microsoft Defender pour Office 365 différents plans, consultez Microsoft Defender pour obtenir la description du [service Office 365 Fonctionnalités.](microsoft-defender-for-office-365-features.md)
 
-| Fonctionnalité | Microsoft Defender pour Office 365 Plan 1 | Microsoft Defender pour Office 365 Plan 2 | Microsoft 365 E5 /A5 Security |
+| Fonctionnalité | Microsoft Defender pour Office 365 Plan 1 | Microsoft Defender pour Office 365 Plan 2 | Microsoft 365 E5/A5 Security |
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *Configuration, protection et détection* | | | |
 | Stratégies de sécurité prédéfines et Analyseur de configuration | Oui | Oui | Oui |
@@ -50,7 +50,7 @@ Le tableau suivant répertorie les principales fonctionnalités de Microsoft Def
 | Liens fiables dans Teams | Oui | Oui | Oui |
 | Report Message Add-In | Oui | Oui | Oui |
 | [Protection des SharePoint, OneDrive et des Microsoft Teams](microsoft-defender-for-office-365-features.md#protection-for-sharepoint-onedrive-and-microsoft-teams) | Oui | Oui | Oui |
-| [Stratégies anti-hameçonnage](microsoft-defender-for-office-365-features.md#anti-phishing-policies). | Oui | Oui | Oui |
+| [Stratégies anti-hameçonnage](microsoft-defender-for-office-365-features.md#anti-phishing-policies) | Oui | Oui | Oui |
 | [Rapports en temps réel](microsoft-defender-for-office-365-features.md#real-time-reports) | Oui | Oui | Oui |
 | Protection avancée pour le courrier interne | Oui | Oui | Oui |
 | *Automatisation, examen, correction et éducation* | | | |
@@ -69,7 +69,7 @@ Le tableau suivant répertorie les principales fonctionnalités de Microsoft Def
 Pour plus d’informations sur Microsoft Defender pour Office 365, consultez les ressources suivantes :
 
 - [Microsoft Defender for Office 365 sur Microsoft Docs](/microsoft-365/security/office-365-security/defender-for-office-365)
-- [Site web Microsoft Defender pour Office 365 web](https://www.microsoft.com/security/business/threat-protection/office-365-defender)
+- [Site Web Microsoft Defender pour Office 365 web](https://www.microsoft.com/security/business/threat-protection/office-365-defender)
 - [Blog de Microsoft Defender Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)
 - [Forum Microsoft Defender pour Office 365](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bd-p/MicrosoftDefenderforOffice365)
 
@@ -79,7 +79,7 @@ Pour connaître les conditions générales de licence pour les produits et servi
 
 ### <a name="messaging"></a>Messagerie
 
-Pour rester informé des modifications à venir, notamment des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
+Pour rester informé des modifications à venir, y compris des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 

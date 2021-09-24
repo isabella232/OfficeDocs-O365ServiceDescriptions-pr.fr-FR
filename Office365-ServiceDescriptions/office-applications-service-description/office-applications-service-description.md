@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 est un service d’abonnement qui vous fournit la dernière version des applications de bureau Office que vous connaissez déjà, telles que Word, Excel et PowerPoint.
-ms.openlocfilehash: 83ccebfd18bc95694f641d02b4eb56c4bcf34e3859d408ef9550881f2b2fe873
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702023"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672775"
 ---
 # <a name="office-applications-service-description"></a>Description de service des applications Office
 
@@ -37,7 +37,7 @@ Utilisez le tableau suivant pour comparer la disponibilité des fonctionnalités
   
 Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de développement que vous pouvez acheter pour votre abonnement. Un module complémentaire fournit des fonctionnalités supplémentaires pour l'abonnement. Pour plus d’informations, [voir Acheter ou modifier un module complémentaire.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)<br><br>
 
-| Application/fonctionnalité | Office Professionnel Plus 2013 | Office Professionnel Plus 2016 | Office Professionnel Plus 2019 | Applications Microsoft 365 for entreprise | Applications Microsoft 365 pour les entreprises | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Application/fonctionnalité | Office Professionnel Plus 2013 | Office Professionnel Plus 2016 | Office Professionnel Plus 2019 | Microsoft 365 Apps for enterprise | Applications Microsoft 365 pour les entreprises | Microsoft 365 Business Basic | Microsoft 365 Business Standard | Microsoft 365 Business Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Applications Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -56,7 +56,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 |[Office Mobile pour Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |Non  <br/> |Non  <br/> |Non <br/> |Oui <br/>|Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |Oui  <br/> |Oui  <br/> |Oui<sup>13</sup>  <br/> |
 |Outlook pour Android  <br/> |Non  <br/> |Non  <br/> |Non  <br/>|Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
 |Microsoft Teams  <br/> |Non  <br/> |Non  <br/> |Oui <br/>|Oui  <br/> |Oui  <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |Oui  <br/> |Oui  <br/> |Oui <br/> |
-|**Enterprise valeur** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office Professionnel Plus 2019** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
+|**Enterprise valeur** <br/> |**Office Professionnel Plus 2013** <br/> |**Office Professionnel Plus 2016** <br/> |**Office Professionnel Plus 2019** <br/> |**Applications Microsoft 365 pour les entreprises** <br/> |**Microsoft 365 Apps for business** <br/> |**Microsoft 365 Business Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |Cinq installations par utilisateur sur PC ou Mac  <br/> |Non  <br/> |Non  <br/>| Non  <br/> |Oui<sup>7</sup> <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui<sup>7</sup> <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> | 
 |Mise en service automatisée du compte d'utilisateur  <br/> |N/D  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Interface utilisateur multilingue  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/>|Oui  <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |Oui <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |Non  <br/> |
@@ -93,7 +93,7 @@ Plusieurs des plans Microsoft 365 pour les entreprises ont des modules de dével
 ><sup>++</sup>OneNote’accès des applications aux blocs-notes sur SharePoint Server, SharePoint Online, OneDrive Entreprise et Office 365. <br/>
 ><sup>+++</sup> La prise en charge BHO est une technologie d’extension pour Internet Explorer. <br/>
 ><sup>1</sup> Les fonctionnalités d'archivage et de conformité sont prises en charge avec cette version d'Office, mais les plans SharePoint Online et Exchange Online ne sont pas inclus et doivent être achetés séparément ou utilisés avec les équivalents de serveur local pris en charge.<br/>
-<sup>2</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus avec Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Éducation ou Office 365 F3.<br/>
+<sup>2</sup> Azure Information Protection n’est pas inclus, mais peut être acheté en tant que module complémentaire distinct et activera les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Certaines fonctionnalités Azure Information Protection nécessitent un abonnement à Applications Microsoft 365 pour les grandes entreprises, qui n’est pas inclus dans Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Éducation ou Office 365 F3.<br/>
 <sup>3</sup> Windows Server AD RMS est un serveur local qui doit être acheté et géré séparément afin d'activer les fonctionnalités IRM prises en charge.<br/>
 <sup>4</sup> If you have Office 2013 Professional Plus or a standalone version of Excel 2013, you can use Power Map Preview for Excel 2013, which is an unsupported add-in. La version antérieure de l’aperçu Power Map a expiré et ne fonctionne avec aucune version de Excel. Si vous avez installé la version antérieure, désinstallez-la du Panneau de contrôle, puis téléchargez et installez la version actuelle de l’aperçu Power Map. Cette version possède les mêmes fonctionnalités que la version de Power Map publiée avec Microsoft 365 SP1.<br/> 
 <sup>5 Skype Entreprise</sup> Basic est disponible pour tous les clients. Le client de bureau Skype Entreprise est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans qui incluent Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 E3 incluent l’application Skype complète, qui inclut des fonctionnalités supplémentaires, notamment la prise en charge de la téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour une comparaison des fonctionnalités et des fonctionnalités, voir tableaux de comparaison des clients de bureau [pour Lync Server 2013.](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 

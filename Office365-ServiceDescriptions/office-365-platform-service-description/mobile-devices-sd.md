@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-mobile-devices
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: De nombreux téléphones mobiles, tablettes et autres appareils mobiles peuvent être utilisés avec Microsoft Office 365.
-ms.openlocfilehash: 5d64fae3d2cbbe2cf7129c725df2bf87b2e4465ab49d3e74d700bc92e903b4d9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: fe574b3004aa72854ce77062018b3395f6803f7d
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663067"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671427"
 ---
 # <a name="mobile-devices-service-description"></a>Description du service des appareils mobiles
 
@@ -31,4 +31,4 @@ De nombreux téléphones mobiles, tablettes et autres appareils mobiles peuvent 
     
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
-Pour afficher la disponibilité des fonctionnalités dans Microsoft 365 et Office 365 plans, voir Microsoft 365 et Office 365 description du [service de plateforme.](office-365-platform-service-description.md)
+Pour afficher la disponibilité des fonctionnalités dans Microsoft 365 et Office 365 plans, voir Microsoft 365 [et Office 365 description du service de plateforme.](office-365-platform-service-description.md)

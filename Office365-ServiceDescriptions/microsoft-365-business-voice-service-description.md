@@ -7,15 +7,15 @@ ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice est un service de add-in qui vous permet d’utiliser Microsoft Teams pour les appels téléphoniques. Cela combine le système téléphonique, le forfait d’appels nationaux, les SMS et l’audioconférence.
-ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cf759b14c6e3b1903a52206b8a97745105f5360c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663577"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671693"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Description du service Microsoft 365 Business Voice
 
@@ -27,9 +27,9 @@ Le tableau suivant indique les plans qui peuvent utiliser le module Microsoft 36
 
 | Plans pour les petites entreprises | Enterprise plans | Administration | Éducation | Premier plan |
 |----------------------|------------------|------------|-----------|-----------|
-| Microsoft 365 Business Basic | Microsoft 365 Entreprise E1 | Microsoft 365 et Office 365 Secteur public G1 | Microsoft 365 et Office 365 Éducation A1 | Microsoft 365 F1 |
-| Microsoft 365 Business Standard | Microsoft 365 Entreprise E3 | Microsoft 365 et Office 365 Secteur public G3 | Microsoft 365 et Office 365 Éducation A3 | Microsoft 365 F3 |
-| Microsoft 365 Business Premium | Microsoft 365 et Office 365 E1 pour les associations | | | Office 365 F3 |
+| Microsoft 365 Business Basic | Microsoft 365 Entreprise E1 | Microsoft 365 et Office 365 Secteur public G1 | Microsoft 365 et Office 365 Éducation A1 | Microsoft 365 F1 |
+| Microsoft 365 Business Standard | Microsoft 365 Entreprise E3 | Microsoft 365 et Office 365 Secteur public G3 | Microsoft 365 et Office 365 Éducation A3 | Microsoft 365 F3 |
+| Microsoft 365 Business Premium | Microsoft 365 et Office 365 E1 pour les associations | | | Office 365 F3 |
 | Microsoft 365 Business Basic pour les associations | Microsoft 365 et Office 365 E3 pour les associations | | | |
 | Microsoft 365 Standard des entreprises à but non lucratif | | | | |
 
@@ -53,7 +53,7 @@ Le tableau suivant répertorie les principales fonctionnalités Microsoft 365 Bu
 | Délégation d’appel (partage d’une ligne téléphonique avec un délégué) | Oui | Oui<sup>*</sup> |
 | Musique en attente | Oui | Oui<sup>*</sup> |
 | Bloc d’appel | Oui | Oui<sup>*</sup> |
-| Numérotation des numéros d’extension du service de téléphone automatique | Oui | Oui<sup>*</sup> |
+| Numérotation des numéros de poste du service de téléphone automatique | Oui | Oui<sup>*</sup> |
 | Transfert automatique de la file d’attente/du attendant automatique vers la messagerie vocale partagée | Oui | Oui<sup>*</sup> |
 | Réponse vocale interactive multilingue (IVR) | Oui | Oui<sup>*</sup> |
 | Stratégie d’Appel | Oui | Oui<sup>*</sup> |
@@ -80,7 +80,7 @@ Pour connaître les conditions générales de licence pour les produits et servi
 
 ### <a name="messaging"></a>Messagerie
 
-Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de Messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
+Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 

@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Les fonctionnalités de services principaux suivantes sont disponibles dans Project Online.
-ms.openlocfilehash: 026f33890716fd22f7d7b8c402e97244b0a7b851bef0702bc1eb82273c26d15b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c4722336b394a61fe2613dcfb15f3b71b501d46b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702843"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672645"
 ---
 # <a name="core-services-functionality"></a>Services de base
 
@@ -53,7 +53,7 @@ Nous nous engageons à assurer une activité de 99,9 % avec une garantie financi
   
 ## <a name="service-updates"></a>Mises à jour du service
 
-Nous faisons régulièrement la mise à services Microsoft avec de nouvelles fonctionnalités. Voir [les mises à jour de service.](../office-365-platform-service-description/service-updates.md)
+Nous les mettez régulièrement à services Microsoft avec de nouvelles fonctionnalités. Voir [les mises à jour de service.](../office-365-platform-service-description/service-updates.md)
   
 ## <a name="team-member-collaboration"></a>Collaboration des membres de l’équipe
 

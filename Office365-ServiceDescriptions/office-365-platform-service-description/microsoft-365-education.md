@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
-description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation plan.
-ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Découvrez les différences entre les plans Microsoft 365 et Office 365 Éducation de projet.
+ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662997"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670309"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Éducation
 
@@ -31,7 +31,7 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Office 365 plateforme|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Office pour le web|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
-|Applications Microsoft 365 for entreprise|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
+|Microsoft 365 Apps for enterprise|Non|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
 |Exchange Online|Oui<sup>1</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|Oui<sup>2</sup>|
 |SharePoint Online|Oui<sup>3</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|Oui<sup>4</sup>|
 |OneDrive Entreprise|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -107,11 +107,11 @@ Chaque plan Microsoft 365 Éducation inclut un certain nombre de services, comm
 |System Center Endpoint Protection|Non|Non|Non|Oui|Oui|Non|Non|Non|Non|
 
 > [!NOTE]
-> <sup>1 Inclut</sup> Exchange Online Plan 1 et des fonctionnalités supplémentaires. <br/>
+> <sup>1 inclut</sup> Exchange Online Plan 1 et des fonctionnalités supplémentaires. <br/>
 > <sup>2 Inclut</sup> Exchange Online Plan 2. <br/>
 > <sup>3 inclut</sup> SharePoint Online Plan 1 et des fonctionnalités supplémentaires. <br/>
-> <sup>4 Inclut</sup> SharePoint Online Plan 2. <br/>
-> <sup>5</sup> Microsoft Project ne sont pas inclus dans Office 365, mais peuvent être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement d’enseignement, vous pouvez acheter des Project (plan 3) et un plan 5 à prix éducation. <br/>
+> <sup>4 inclut</sup> SharePoint Online Plan 2. <br/>
+> <sup>5</sup> Microsoft Project ne sont pas inclus dans Office 365, mais peuvent être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement d’enseignement, vous pouvez acheter des Project (plan 3) et planifier 5 à prix éducation. <br/>
 > <sup>6 inclut</sup> Intune. <br/>
 > <sup>7 Serveurs</sup> et listes d’Exchange, SharePoint et Skype Entreprise. <br/>
 > <sup>8</sup> ECAL ou Core CAL, en fonction de la version d’A3 achetée ; avec A5, les droits ECAL sont inclus. <br/>

@@ -6,20 +6,20 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous montre les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite bureautique Microsoft Office familière avec les versions cloud des services de communication et de collaboration nouvelle génération de Microsoft, notamment Microsoft Exchange Online, Microsoft Office SharePoint Online, Office sur le Web et Microsoft Skype Entreprise Online pour aider les utilisateurs à être productifs à partir de pratiquement n’importe où via &mdash; &mdash; Internet.
-ms.openlocfilehash: 7955cf1d3d2aa2d9599d5b43cfa103a68f3b15f4f94545c8c8aff08790074853
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+description: Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous montre les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite bureautique Microsoft Office familière aux versions cloud des services de communication et de collaboration nouvelle génération de Microsoft, notamment &mdash; Microsoft Exchange Online, Microsoft Office SharePoint Online, Office sur le Web et Microsoft Skype Entreprise Online pour aider les utilisateurs à être productifs de &mdash; pratiquement n’importe où via Internet.
+ms.openlocfilehash: 55e285a62f2e4a955e88a416f40c800ad1489ff7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663017"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671407"
 ---
 # <a name="office-365-education"></a>Office 365 Éducation
 
-Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous montre les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite bureautique Microsoft Office familière avec les versions cloud des services de communication et de collaboration nouvelle génération de Microsoft, notamment Microsoft Exchange Online, Microsoft Office SharePoint Online, Office sur le Web et Microsoft Skype Entreprise Online pour aider les utilisateurs à être productifs à partir de pratiquement n’importe où via &mdash; &mdash; Internet.
+Microsoft Office 365 est disponible dans différents plans pour satisfaire au mieux les besoins votre organisation. Si vous recherchez les différences entre les plans Office 365 éducation, cet article vous montre les fonctionnalités incluses dans chacun d’eux. Office 365 combine la suite bureautique Microsoft Office familière aux versions cloud des services de communication et de collaboration nouvelle génération de Microsoft, notamment &mdash; Microsoft Exchange Online, Microsoft Office SharePoint Online, Office sur le Web et Microsoft Skype Entreprise Online pour aider les utilisateurs à être productifs de &mdash; pratiquement n’importe où via Internet.
   
 Cet article répertorie les fonctionnalités des plans Office 365 éducation (A1, A3 et A5). Pour comparer les fonctionnalités entre les plans d’entreprise et les plans d’entreprise, voir Comparer les [plans](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) Office 365 entreprise ou, pour obtenir une liste plus détaillée des [fonctionnalités,](../office-365-service-descriptions-technet-library.md)consultez la description de service pertinente sous Microsoft 365 et les descriptions de service Office 365 .
   
@@ -44,13 +44,13 @@ Chaque plan Office 365 éducation inclut un certain nombre de services, tels que
 |Azure Information Protection<sup>2</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
-> <sup>1 Microsoft Project</sup> n’est pas inclus dans Office 365 mais peut être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement d’enseignement, vous pouvez acheter des Project (plan 3) et un plan 5 à prix éducation.   <br/> 
+> <sup>1 Microsoft Project</sup> n’est pas inclus dans Office 365 mais peut être acquis séparément. Project Online Essentials est gratuit. Si vous êtes un étudiant ou un établissement d’enseignement, vous pouvez acheter des Project (plan 3) et planifier 5 à prix éducation.   <br/> 
 <sup>2</sup> Pour en savoir plus sur les fonctionnalités Azure Information Protection incluses dans les plans Office 365, consultez [Azure Information Protection.](https://azure.microsoft.com/services/information-protection/)<br/> 
 <sup>3 Office 365 A5</sup> contient Système téléphonique fonctionnalités de forfait d’appels, d’audioconférence et d’audioconférence. Pour implémenter la fonctionnalité Forfait d'appels, l’acquisition d’une offre supplémentaire (soit Forfait d'appels nationaux, soit Forfait d'appels internationaux) est requise. <br/> <sup>4 Inclut</sup> Exchange Online Plan 2. <br/> 
 <sup>5 inclut</sup> Exchange Online Plan 1 et des fonctionnalités supplémentaires. <br/> 
 <sup>6 Inclut</sup> Skype Entreprise Online Plan 2. <br> <sup>7 inclut</sup> Skype Entreprise Online Plan 1 et des fonctionnalités supplémentaires. 
   
-## <a name="system-requirements"></a>Configuration requise du système
+## <a name="system-requirements"></a>Configuration requise
 
 Pour plus d’informations sur la Office 365 système, consultez [la Office 365 système requise.](https://products.office.com/office-system-requirements/)
   
@@ -65,7 +65,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 | Fonctionnalité | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |**[Fonctionnalités d'administration d'Office 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||
-|Administrer Office 365 à l’aide du Centre d’administration Microsoft 365 ou Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Administrer Office 365 à l’aide du Centre d'administration Microsoft 365 ou Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Protéger le contenu à l'aide d'Azure Information Protection  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Fonctionnalités de la suite Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Réservations Microsoft  <br/> |Non  <br/> |Oui  <br/> |Oui  <br/> |
@@ -112,7 +112,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Achat de domaine automatisé et vérification de domaine disponibles pour les domaines achetés via Go Daddy  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[État et continuité du service](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Status information available on the **Service health** or **Service status** page  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|État des alertes individuelles disponibles dans le tableau Centre d’administration Microsoft 365 de bord  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|État des alertes individuelles disponibles dans le tableau Centre d'administration Microsoft 365 de bord  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Flux RSS État du service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Rapports](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Boîtes aux lettres actives et inactives  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -139,7 +139,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
 |Navigateur utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Système d'exploitation utilisé  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Créer vos propres rapports à l’aide Microsoft 365 web de création de rapports  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Mises à jour de service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Mises à jour du service](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mises à jour normales fournies à tous les clients  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Notifications envoyées au centre de messages lorsqu'une action est requise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Roadmap.office.com pour certaines mises à jour de service  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -179,7 +179,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de plateforme disponi
    
 > [!NOTE]
 > <sup>1 Office 365</sup> ne prend en charge aucun système d’exploitation non pris en charge par son fabricant.<br/> 
-<sup>2</sup> Si vous utilisez la synchronisation d’annuaires avec active Directory local, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory local, plutôt que du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell. <br/> 
+<sup>2</sup> Si vous utilisez la synchronisation d’annuaires avec un annuaire Active Directory local, vous devez supprimer des comptes ou modifier les mots de passe à l’aide d’Active Directory local, plutôt que du portail Office 365 ou à l’aide du module Azure Active Directory pour Windows PowerShell. <br/> 
 <sup>3 Pour</sup> découvrir comment définir des stratégies de gestion des mots de passe en libre-service pour les [utilisateurs,](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password)voir Gérer les mots de passe dans Azure AD . <br/> 
 <sup>4 La</sup> réduction des sièges achetés avec une remise à terme peut être soumise à des frais de résiliation anticipée. Ceci n'est pas applicable aux abonnements payés sur une base mensuelle. <br/> 
 <sup>5 Disponible</sup> à [https://securescore.office.com](https://securescore.office.com/) l’adresse (le lien nécessite des autorisations d’administrateur). Pour plus d'informations, consultez l'article [Présentation de Secure Score d'Office 365](/office365/securitycompliance/microsoft-secure-score).<br/> 
@@ -210,7 +210,7 @@ Le [Centre de conformité de &amp; sécurité](/microsoft-365/compliance/go-to-t
 |[Recherche de contenu](/office365/securitycompliance/search-for-content)<br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Cas eDiscovery](/office365/securitycompliance/ediscovery-cases) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Exportation de la découverte électronique](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|[les détient eDiscovery (y compris les requêtes eDiscovery) ;](/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|[Les détient eDiscovery (y compris les requêtes eDiscovery)](/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |Non  <br/> |Non  <br/> |Oui  <br/> |
 |[Archivage](/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |[Stratégies de rétention/suppression manuelle](/office365/securitycompliance/retention-policies)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -218,7 +218,7 @@ Le [Centre de conformité de &amp; sécurité](/microsoft-365/compliance/go-to-t
    
 > [!NOTE]
 > <sup>1 La</sup> gouvernance des données permet aux utilisateurs de créer, de publier et d’appliquer manuellement des étiquettes à des documents ; importer des données à l’aide de l’expédition de disque ou via le réseau ; et créer et appliquer des stratégies de rétention/suppression sur les charges de travail, les utilisateurs et les groupes. Les stratégies de rétention appliquées aux boîtes aux lettres requièrent Office 365 Entreprise E3 ou E5. <br/> 
-<sup>2 La</sup> gouvernance avancée des données vous permet de conserver des informations importantes et de supprimer des informations non importantes en classifiant les informations en fonction d’une stratégie de rétention ou de suppression, ou les deux. Il inclut des actions intelligentes/automatisées telles que la recommandation de stratégies ; application automatique d’étiquettes aux données ; application d’étiquettes basées sur des types de données sensibles ou des requêtes ; et l’utilisation de filtres d’importation intelligents. Il inclut également la fonctionnalité de surveillance pour examiner les communications des employés à des fins de sécurité et de conformité. <br/> 
+<sup>2 La</sup> gouvernance avancée des données vous permet de conserver des informations importantes et de supprimer des informations non importantes en classifiant les informations en fonction d’une stratégie de rétention ou de suppression ou des deux. Il inclut des actions intelligentes/automatisées telles que la recommandation de stratégies ; application automatique d’étiquettes aux données ; application d’étiquettes basées sur des types de données sensibles ou des requêtes ; et l’utilisation de filtres d’importation intelligents. Il inclut également la fonctionnalité de surveillance pour examiner les communications des employés à des fins de sécurité et de conformité. <br/> 
 <sup>3</sup> Illimité. <br/> 
 <sup>4 Advanced eDiscovery</sup> sont pris en charge aux États-Unis et en Europe de l’Ouest (Pays-Bas). (Les données client provenant du Canada et de l’Asie-Pacifique sont exportées vers les États-Unis. Les données client provenant d’Europe, du Moyen-Orient et d’Afrique sont exportées vers l’Europe de l’Ouest [Pays-Bas].) <br/> 
 <sup>5</sup> Microsoft Defender pour Office 365 est disponible dans Office 365 A5 et en tant que service autonome pour Office 365 A1 et Office 365 A3.<br/>
@@ -316,7 +316,7 @@ Le tableau suivant répertorie les fonctionnalités Exchange Online disponibles 
 |Autorisations basées sur des rôles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Groupes de rôles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Stratégies d'attribution de rôle  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|**[Stratégie et conformité de message](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Stratégie et conformité des messages](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Archivage de boîtes aux lettres Exchange Online  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Archivage en nuage de boîtes aux lettres locales  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Balises et stratégies de rétention de gestion des enregistrements de messagerie (MRM)  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -403,7 +403,7 @@ Le tableau suivant répertorie les fonctionnalités Exchange Online disponibles 
 |Prise en charge du relais SMTP  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |**[Configuration et administration d’Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Accès au portail Microsoft Office 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Centre d’administration Microsoft 365'accès  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Centre d'administration Microsoft 365'accès  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Accès au Centre d'administration Exchange  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Accès à Windows PowerShell à distance  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Stratégies ActiveSync pour les appareils mobiles  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
@@ -413,7 +413,7 @@ Le tableau suivant répertorie les fonctionnalités Exchange Online disponibles 
    
 > [!NOTE]
 > <sup>1 Windows Server AD</sup> RMS est un serveur local qui doit être acheté et géré séparément afin d’activer les fonctionnalités IRM pris en charge. <br/>
-<sup>2 Les</sup> règles de transport sont composés de critères flexibles qui vous permettent de définir des conditions et des exceptions, ainsi que des actions à prendre en fonction des critères. Les critères et actions disponibles diffèrent entre Exchange Online et Microsoft Exchange Server 2013. Pour obtenir la liste des critères et actions disponibles, consultez les rubriques dédiées aux critères et actions correspondant à chaque produit. <br/> 
+<sup>2 Les</sup> règles de transport sont composés de critères flexibles, qui vous permettent de définir des conditions et des exceptions, ainsi que des actions à prendre en fonction des critères. Les critères et actions disponibles diffèrent entre Exchange Online et Microsoft Exchange Server 2013. Pour obtenir la liste des critères et actions disponibles, consultez les rubriques dédiées aux critères et actions correspondant à chaque produit. <br/> 
 <sup>3</sup> Exchange Server 2013 utilise uniquement le moteur anti-programme malveillant de Microsoft. Exchange Online utilise plusieurs moteurs de protection contre les programmes malveillants pour analyser les messages entrants, sortants et internes. <br/> 
 <sup>4 SharePoint</sup> Online doivent être inclus dans le plan d’abonnement. <br/> 
 <sup>5</sup> Les comptes connectés sont pris en charge pour les comptes POP et IMAP, mais désactivés pour Outlook.com (Hotmail). <br/> <sup>6 L’utilisation</sup> d’une cmdlet pour utiliser la liste d’adresses et la liste d’adresses globale n’est pas prise en charge. <br/> 
@@ -471,7 +471,7 @@ Les limites dans Microsoft Exchange Online peuvent être classées dans l'une de
 
 - **Limite de liste** d’adresses : nombre maximal de listes d’adresses qui peuvent être créées dans Exchange Online ou Exchange Server organisation 2013. Ce nombre inclut les listes d'adresses par défaut dans Exchange Online, par exemple Tous les contacts et Tous les groupes. 
     
-- **Limite du** carnet d’adresses en mode hors connexion : nombre maximal de carnets d’adresses en mode hors connexion qui peuvent être créés dans une organisation Exchange Online ou Exchange Server 2013. 
+- Limite **du** carnet d’adresses en mode hors connexion : nombre maximal de carnets d’adresses en mode hors connexion qui peuvent être créés dans une organisation Exchange Online ou Exchange Server 2013. 
     
 - **Limite des stratégies** de carnet d’adresses : nombre maximal de stratégies de carnet d’adresses (ABP) qui peuvent être créées dans Exchange Online ou Exchange Server organisation 2013. 
     
@@ -493,7 +493,7 @@ L'espace de stockage disponible dans une boîte aux lettres est déterminé par 
   
 | Fonctionnalité | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Boîtes aux lettres utilisateur  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
+|Boîtes aux lettres utilisateur  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
 |Boîtes aux lettres<sup>d’archivage 6, 7</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Boîtes aux lettres partagées  <br/> |50 Go<sup>2</sup> <br/> |50 Go<sup>2</sup> <br/> |50 Go<sup>2</sup> <br/> |
 |Boîtes aux lettres de ressources  <br/> |50 Go<sup>3</sup> <br/> |50 Go<sup>3</sup> <br/> |50 Go<sup>3</sup> <br/> |
@@ -524,7 +524,7 @@ Exchange Online fournit trois types de notifications lorsque la capacité de la 
 |:-----|:-----|:-----|:-----|
 |Avertissement  <br/> |49 Go  <br/> |98 Go  <br/> |98 Go  <br/> |
 |Interdire l’envoi  <br/> |49,5 Go  <br/> |99 Go  <br/> |99 Go  <br/> |
-|Interdire l’envoi/la réception  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
+|Interdire l’envoi/la réception  <br/> |50 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>Limites de dossier de boîte aux lettres
 
@@ -554,11 +554,11 @@ Ces limites visent à limiter les boîtes aux lettres à des dimensions connues 
     
 | Fonctionnalité | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Nombre maximal de messages par dossier de boîte aux lettres  <br/> |1 million  <br/> |1 million  <br/> |1 million  <br/> |
+|Nombre maximal de messages par dossier de boîte aux lettres  <br/> |1 million  <br/> |1 million  <br/> |1 million  <br/> |
 |Avertissement pour le nombre de messages par dossier de boîte aux lettres  <br/> |900 000  <br/> |900 000  <br/> |900 000  <br/> |
 |Nombre maximal de messages par dossier dans le dossier Éléments récupérables  <br/> |3 millions  <br/> |3 millions  <br/> |3 millions  <br/> |
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (pas en conservation)  <br/> |30 Go  <br/> |30 Go  <br/> |30 Go  <br/> |
-|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (en conservation)  <br/> |100 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
+|Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres principale (en conservation)  <br/> |100 Go  <br/> |100 Go  <br/> |100 Go  <br/> |
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d’archivage (pas en conservation)  <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Quota de stockage pour le dossier Éléments récupérables dans une boîte aux lettres d’archivage (en conservation)  <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Avertissement pour le nombre de messages par dossier dans le dossier Éléments récupérables  <br/> |2,75 millions  <br/> |2,75 millions  <br/> |2,75 millions  <br/> |
@@ -635,7 +635,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
 > [!NOTE]
 > Pour les groupes de distribution stockés dans le carnet d'adresses d'une organisation, le groupe est compté comme un seul destinataire. Pour les groupes de distribution stockés dans le dossier Contacts d'une boîte aux lettres, leurs membres sont comptés individuellement. 
   
-- **Limite de fréquence de** destinataires : pour déconseiller la remise de messages en nombre non sollicités, Exchange Online limites de destinataires qui empêchent les utilisateurs et les applications d’envoyer de grands volumes de messages électroniques. Ces limites sont appliquées par utilisateur pour tous les messages sortants et internes. 
+- **Limite de fréquence de** destinataires : pour déconseiller la remise de messages en nombre non sollicités, Exchange Online limites de destinataires qui empêchent les utilisateurs et les applications d’envoyer de gros volumes de messages électroniques. Ces limites sont appliquées par utilisateur pour tous les messages sortants et internes. 
     
     > [!NOTE]
     > Les clients Exchange Online qui doivent envoyer légitimement des messages électroniques en nombre (par exemple, des bulletins d'information) doivent faire appel à des fournisseurs tiers spécialisés dans ces services. 
@@ -645,7 +645,7 @@ Les limites d’envoi s’appliquent au nombre de destinataires, au nombre de me
     > [!NOTE]
     > Pour la limite de débit maximal de destinataires et le nombre maximal de destinataires, un groupe de distribution stocké dans le carnet d'adresses partagé de l'organisation compte pour un destinataire. Dans une liste de distribution personnelle, chaque destinataire est compté séparément. 
   
-- **Limite de fréquence des** messages : les limites de fréquence des messages déterminent le nombre de messages qu’un utilisateur peut envoyer à partir de son compte Exchange Online au cours d’une période spécifiée. Cette limite empêche l'utilisation excessive de ressources système par un même expéditeur. Si un utilisateur envoie des messages à un débit qui dépasse la limite via l'envoi de client SMTP, les messages seront rejetés et le client devra recommencer. 
+- **Limite de fréquence des** messages : les limites de fréquence des messages déterminent le nombre de messages qu’un utilisateur peut envoyer à partir de son compte Exchange Online pendant une période spécifiée. Cette limite empêche l'utilisation excessive de ressources système par un même expéditeur. Si un utilisateur envoie des messages à un débit qui dépasse la limite via l'envoi de client SMTP, les messages seront rejetés et le client devra recommencer. 
     
 | Fonctionnalité | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
@@ -672,7 +672,7 @@ Ces limites contrôlent la durée pendant laquelle les éléments situés dans d
 |:-----|:-----|:-----|:-----|
 |Période de rétention du dossier Éléments supprimés  <br/> |Aucune limite<sup>1</sup> <br/> |Aucune limite<sup>1</sup> <br/> |Aucune limite<sup>1</sup> <br/> |
 |Période de rétention pour les éléments supprimés du dossier Éléments supprimés  <br/> |14 jours<sup>1</sup> <br/> |14 jours<sup>1</sup> <br/> |14 jours<sup>1</sup> <br/> |
-|Période de rétention du dossier Courrier indésirable  <br/> |30 jours  <br/> |30 jours  <br/> |30 jours  <br/> |
+|Période de rétention du dossier Courrier indésirable  <br/> |30 jours  <br/> |30 jours  <br/> |30 jours  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Il s'agit de la limite par défaut. Les administrateurs peuvent modifier cette valeur pour leur organisation. 
@@ -692,7 +692,7 @@ Ces limites s'appliquent aux groupes de distribution figurant dans le carnet d'a
 |Nombre maximal de membres d’un groupe de distribution<sup>1</sup> <br/> |100 000 membres  <br/> |100 000 membres  <br/> |100 000 membres  <br/> |
 |Limite d’envoi de messages à de grands groupes de distribution  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |5 000 membres ou plus  <br/> |
 |Taille maximale de message pour les grands groupes de distribution  <br/> |2 Mo  <br/> |2 Mo  <br/> |2 Mo  <br/> |
-|Nombre maximal de propriétaires de groupe de distribution  <br/> |10   <br/> |10   <br/> |10   <br/> |
+|Nombre maximal de propriétaires de groupe de distribution  <br/> |10  <br/> |10  <br/> |10  <br/> |
 |Nombre maximal de groupes qu’un utilisateur peut créer  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -746,7 +746,7 @@ Ces limites contrôlent les paramètres de modération utilisés pour l'approbat
     
 | Fonctionnalité | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Taille maximale de la boîte aux lettres d’arbitrage  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |
+|Taille maximale de la boîte aux lettres d’arbitrage  <br/> |10 Go  <br/> |10 Go  <br/> |10 Go  <br/> |
 |Nombre maximal de modérateurs  <br/> |10 modérateurs  <br/> |10 modérateurs  <br/> |10 modérateurs  <br/> |
 |Expiration des messages en attente de modération  <br/> |2 jours  <br/> |2 jours  <br/> |2 jours  <br/> |
 |Débit maximal de messages de notification d’expiration du délai de modération  <br/> |300 notifications d’expiration par heure  <br/> |300 notifications d'expiration par heure  <br/> |300 notifications d'expiration par heure  <br/> |
@@ -956,7 +956,7 @@ Le tableau suivant répertorie Skype Entreprise fonctionnalités en ligne dispon
 |Centre d’administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Centre d'administration de Skype Entreprise  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
 |Windows PowerShell  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
-|Skype Entreprise Rapports en ligne dans Centre d’administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
+|Skype Entreprise Rapports en ligne dans Centre d'administration Microsoft 365  <br/> |Oui  <br/> |Oui  <br/> |Oui  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. Le client de bureau Lync Basic est une application installée localement qui fournit des fonctionnalités de présence, de messagerie instantanée et de conférence pour les plans qui incluent Skype Entreprise Online. Applications Microsoft 365 pour les grandes entreprises et Office 365 A3 incluent l’application Skype Entreprise complète (Lync), qui inclut des fonctionnalités supplémentaires telles que la prise en charge de téléphonie avancée, l’archivage et les fonctionnalités de conformité. A Skype for Business Online license must be assigned for each user. Pour plus d’informations sur les fonctionnalités Lync Basic, voir [tableaux](/lyncserver/lync-server-2013-desktop-client-comparison-tables) de compatibilité client de bureau<br/> 

@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Lisez cet article pour en savoir plus sur la stratégie de messagerie et les fonctionnalités de conformité dans Microsoft Exchange Online Protection des données (EOP).
-ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664107"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672305"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Stratégie et conformité de messagerie dans Exchange Online Protection
 
@@ -66,7 +66,7 @@ chiffrement de messages Office 365, qui fait partie d’Azure Information Protec
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Fonctionnalités de stratégie et de conformité de messagerie entre les options EOP
 
-| Fonctionnalité | EOP autonome | Fonctionnalités EOP dans <br/> Exchange Online | Exchange Enterprise <br/> CAL avec services |
+| Fonctionnalité | EOP autonome | Fonctionnalités EOP dans <br/> Exchange Online | Exchange Enterprise <br/> CAL avec services |
 |:-----|:-----|:-----|:-----|
 |Règles de flux de messagerie|Oui<sup>1</sup>|Oui<sup>1</sup>|Oui<sup>1, 3</sup>|
 |Journalisation d'audit|Oui<sup>2</sup>|Oui|Oui|
@@ -77,4 +77,4 @@ chiffrement de messages Office 365, qui fait partie d’Azure Information Protec
 > <sup>1 Les</sup> conditions, les exceptions et les actions de règle de flux de messagerie disponibles diffèrent légèrement entre EOP et Exchange Online. Ces différences sont notées dans les conditions de règle de flux de messagerie et les [exceptions (prédicats)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) dans Exchange Online et les actions de règle de flux de [messagerie dans Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
 > <sup>2</sup> Les rapports d'audit EOP sont un sous-ensemble de rapports d'audit Exchange Online qui excluent les informations sur les boîtes aux lettres.<br/>
 > <sup>3</sup> Les conseils de stratégie DLP ne sont pas disponibles pour la licence d'accès client Exchange Enterprise avec les clients Services.<br/>
-> <sup>4 Pris</sup> en charge pour les clients locaux qui achètent le module complémentaire Azure Information Protection et utilisent Exchange Online Protection pour router le courrier électronique via Exchange Online. Pour l’expérience de bureau, en plus du module complémentaire Azure Information Protection, Applications Microsoft 365 pour les grandes entreprises doit être acheté. <br/>
+> <sup>4 Pris</sup> en charge pour les clients locaux qui achètent le module complémentaire Azure Information Protection et utilisent Exchange Online Protection pour router le courrier électronique via Exchange Online. Pour l’expérience utilisateur, en plus du module complémentaire Azure Information Protection, Applications Microsoft 365 pour les grandes entreprises besoin d’être acheté. <br/>

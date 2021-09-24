@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Comparez les fonctionnalités de Visio web à l’application Visio bureau.
-ms.openlocfilehash: 2eac005bd71e86f708b197b782e614ee0755c1319df35b8cc6133280802fb58d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b41300ef104cfde8619b29154a9bb25e6720a936
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702423"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673108"
 ---
 # <a name="visio-service-description"></a>Visio de service
 
@@ -25,7 +25,7 @@ Pour obtenir de l’aide Visio, voir [Visio’aide & l’apprentissage.](https:/
 
 ## <a name="available-plans"></a>Plans disponibles
 
-Pour plus d’informations et pour commencer, voir [Comparez Visio options.](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
+Pour plus d’informations et pour commencer, voir [Comparez Visio options](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

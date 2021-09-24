@@ -8,15 +8,15 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-interoperability-connectivity-compatibility
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 9e0ef704a1b43a81bffdd177aeef3f09c472103aa178c11867d1cc9db8b1aee2
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cae4f051e788073223e67364cf36af102e06f4e2
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663777"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671954"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interopérabilité, connectivité et compatibilité
 
@@ -36,7 +36,7 @@ Pour plus d'informations sur la configuration de Skype Entreprise Server 2015 av
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d’un plan d’abonnement, les SharePoint peuvent se connecter à Exchange Online services intégrés.
+Pour les clients qui ont déployé Microsoft SharePoint Server ou SharePoint Online dans le cadre d’un plan d’abonnement, SharePoint peuvent se connecter à Exchange Online services intégrés.
   
 Pour plus d'informations sur la connexion de SharePoint à Exchange Online, visitez la page [Utiliser SharePoint Online sur un domaine personnalisé avec d'autres services](https://go.microsoft.com/fwlink/?LinkId=271805).
   

@@ -7,16 +7,16 @@ ms.topic: reference
 f1_keywords:
 - clients-and-devices-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Lisez cet article pour en savoir plus sur les fonctionnalités client disponibles dans Microsoft Exchange Online’archivage.
-ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 5cb9e43ecf20aeca4bcec1c6c76c7ef56bb6e557
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664667"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670836"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Fonctionnalités client dans Archivage Exchange Online
 
@@ -37,7 +37,7 @@ Outlook 2010 et les ultérieures et les Outlook sur le web fournissent aux utili
 Outlook 2007 propose une prise en charge simple de l'archive, mais toutes les fonctions de conformité et d'archivage ne sont pas disponibles dans Outlook 2007. Par exemple, avec Outlook 2007, les utilisateurs ne peuvent pas appliquer de stratégies d'archivage ou de rétention aux éléments de leurs boîtes aux lettres. Ils doivent plutôt utiliser des stratégies fournies par un administrateur. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive.
   
 > [!NOTE]
-> Outlook n'est pas fourni avec Archivage Exchange Online. Applications Microsoft 365 pour les grandes entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté en tant qu’abonnement distinct. Pour plus d’informations, [voir Microsoft 365 options de plan.](../office-365-platform-service-description/office-365-plan-options.md) Pour plus d’informations sur Applications Microsoft 365 pour les grandes entreprises, voir la [description du service Office applications.](../office-applications-service-description/office-applications-service-description.md) 
+> Outlook n'est pas fourni avec Archivage Exchange Online. Applications Microsoft 365 pour les grandes entreprises (qui inclut Microsoft Outlook) est inclus dans certains plans et peut être acheté séparément. Pour plus d’informations, [voir Microsoft 365 options de plan.](../office-365-platform-service-description/office-365-plan-options.md) Pour plus d’informations sur Applications Microsoft 365 pour les grandes entreprises, voir la [description du service Office applications.](../office-applications-service-description/office-applications-service-description.md) 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clients pris en charge par l’archivage Exchange Online
 

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - word-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word sur le Web (anciennement Word Web App) étend votre expérience Microsoft Word au navigateur web, où vous pouvez travailler avec des documents directement sur le site web où le document est stocké.
-ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a499343c40c97f4d16575a0670dacbc4b9e5c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702883"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672724"
 ---
 # <a name="word-for-the-web"></a>Word pour le web
 
@@ -51,7 +51,7 @@ Non disponible dans Word sur le Web. Les fonctionnalités de conception avancée
   
 ## <a name="bullets-and-numbering"></a>Puces et numérotation
 
-Avec Word sur le Web, vous pouvez appliquer un choix de trois styles de puces ou cinq styles de numéro. Cliquez sur **les**  boutons Augmenter le retrait et Diminuer le retrait pour modifier le niveau de liste des listes à puces et numérotées existantes dans le document, ainsi que celles créées dans l’application Word de bureau. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Avec Word sur le Web, vous pouvez appliquer un choix de trois styles de puces ou cinq styles de numéro. Cliquez sur **les**  boutons Augmenter le retrait et Diminuer le retrait pour modifier le niveau de liste pour les listes à puces et numéroées existantes dans le document, ainsi que celles créées dans l’application Word de bureau. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="captions"></a>Légendes
 
@@ -151,7 +151,7 @@ Non disponible dans Word sur le Web. Les fonctionnalités d'intégration de donn
   
 ## <a name="offline-viewing-and-authoring"></a>Création et affichage en mode hors connexion
 
-Non disponible dans Word sur le Web. Office sur le Web nécessite une connexion Internet et un navigateur Internet. Vous avez besoin que l’application word de bureau soit installée sur votre ordinateur pour afficher et modifier un document tout en vous déconnectant d’Internet ou du serveur Office Web Apps Server local de votre organisation. Si vous avez installé l'application Word de bureau, vous pouvez utiliser l'ensemble des fonctionnalités de Word pour afficher et modifier votre document. Lors de l'enregistrement, le document en ligne est mis à jour avec vos modifications. Vous pouvez également le télécharger et l'enregistrer en tant que copie hors connexion du document, mais il ne sera pas synchronisé avec la version en ligne. En savoir plus sur [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
+Non disponible dans Word sur le Web. Office sur le Web nécessite une connexion Internet et un navigateur Internet. Vous avez besoin que l’application word de bureau soit installée sur votre ordinateur pour afficher et modifier un document tout en vous déconnectant d’Internet ou du serveur web apps local de votre organisation Office. Si vous avez installé l'application Word de bureau, vous pouvez utiliser l'ensemble des fonctionnalités de Word pour afficher et modifier votre document. Lors de l'enregistrement, le document en ligne est mis à jour avec vos modifications. Vous pouvez également le télécharger et l'enregistrer en tant que copie hors connexion du document, mais il ne sera pas synchronisé avec la version en ligne. En savoir plus sur [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
   
 ## <a name="page-breaks"></a>Sauts de page
 
@@ -237,7 +237,7 @@ Vous pouvez utiliser Word sur le Web pour enregistrer ou convertir vos fichiers 
   
 ## <a name="share"></a>Partager
 
-Avec Word sur le Web, il s’agit d’un processus d’envoi en un seul clic d’un lien que d’autres utilisateurs peuvent utiliser pour afficher ou modifier le document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Avec Word sur le Web, il s’agit d’un processus d’envoi en un seul clic d’un lien que d’autres personnes peuvent utiliser pour afficher ou modifier le document. En savoir plus sur les [différences entre l'utilisation d'un document dans le navigateur et dans Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="simple-table-creation"></a>Création d'un tableau simple
 
@@ -285,11 +285,11 @@ Les filigranes sont du texte ou des images placés derrière le texte de votre d
   
 ## <a name="word-count"></a>Statistiques
 
-Word sur le Web vous donne un nombre approximatif de mots dans votre document. En savoir plus [sur le nombre de mots dans Word sur le Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
+Word sur le Web vous donne un nombre approximatif de mots dans votre document. En savoir plus [sur le nombre de mots Word sur le Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
   
 ## <a name="zoom"></a>Zoom
 
-Zoom est disponible en mode Affichage. Avec Word sur le Web, utilisez les paramètres d’affichage de votre navigateur pour effectuer un zoom avant ou arrière en mode Édition. En savoir plus [sur le nombre de mots dans Word sur le Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
+Zoom est disponible en mode Affichage. Avec Word sur le Web, utilisez les paramètres d’affichage de votre navigateur pour effectuer un zoom avant ou arrière en mode Édition. En savoir plus [sur le nombre de mots Word sur le Web](https://go.microsoft.com/fwlink/p/?LinkId=271864).
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 

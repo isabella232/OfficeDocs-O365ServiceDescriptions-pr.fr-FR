@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-privacy-security-transparency
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: La société Microsoft croit à l'importance des partenariats qu'elle entretient avec ses clients et met l'accent sur la protection de la confidentialité et de la sécurité des données client. Pour plus d'informations, voir Centre de gestion de la confidentialité Microsoft.
-ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b25a747d5ebb4c8941d2c3e1f592f57d964f7e98
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701833"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672982"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -54,7 +54,7 @@ Le référentiel sécurisé du client est inclus dans le plan Office 365 Entrepr
   
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pour Office 365
 
-Defender for Office 365 permet de protéger votre organisation contre les programmes malveillants et les virus. Defender for Office 365 inclut [Coffre liens,](/office365/securitycompliance/atp-safe-links)Coffre [pièces jointes,](/office365/securitycompliance/atp-safe-attachments) [anti-hameçonnage](/office365/securitycompliance/atp-anti-phishing)et fonctionnalités d’intelligence contre l’usurpation [d’informations.](/office365/securitycompliance/learn-about-spoof-intelligence) Coffre Les liens protègent de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, en fournissant une protection chaque fois que le lien est sélectionné. Coffre Les pièces jointes sont protégées contre les programmes malveillants et les virus inconnus, en routant tous les messages et pièces jointes qui n’ont pas de signature connue de virus/programmes malveillants vers un environnement spécial où Defender pour Office 365 peut détecter des intentions malveillantes. Pour plus d’informations sur Defender pour Office 365, voir [Microsoft Defender pour obtenir Office 365 description du service.](../office-365-advanced-threat-protection-service-description.md)
+Defender for Office 365 permet de protéger votre organisation contre les programmes malveillants et les virus. Defender for Office 365 inclut [Coffre liens,](/office365/securitycompliance/atp-safe-links)Coffre [pièces jointes,](/office365/securitycompliance/atp-safe-attachments) [anti-hameçonnage](/office365/securitycompliance/atp-anti-phishing)et fonctionnalités d’intelligence contre l’usurpation [d’informations.](/office365/securitycompliance/learn-about-spoof-intelligence) Coffre Les liens protègent de manière proactive vos utilisateurs contre les liens hypertexte malveillants dans un message, en fournissant une protection chaque fois que le lien est sélectionné. Coffre Les pièces jointes sont protégées contre les programmes malveillants et les virus inconnus, en routant tous les messages et pièces jointes qui n’ont pas de signature connue de virus/programmes malveillants vers un environnement spécial où Defender pour Office 365 peut détecter des intentions malveillantes. Pour plus d’informations sur Defender pour Office 365, voir [Microsoft Defender pour obtenir la description Office 365 service.](../office-365-advanced-threat-protection-service-description.md)
   
 ## <a name="feature-availability"></a>Disponibilité des fonctionnalités
 
