@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio web étend votre expérience de Visio Microsoft au navigateur, où vous pouvez créer et modifier des diagrammes enregistrés dans le cloud. Microsoft 365 clients peuvent afficher, imprimer et partager des diagrammes et insérer des commentaires en même temps.
-ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 35c801c4753676b9a1e0674972ce0c5a6c222b2c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702233"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670642"
 ---
 # <a name="visio-features"></a>Visio Fonctionnalités
 
@@ -115,7 +115,7 @@ Vous pouvez utiliser Visio pour le web pour voir les métadonnées d’un diagra
 
 ## <a name="view-visio-files-in-the-browser"></a>Afficher des fichiers Visio dans le navigateur
 
-Étant donné que votre diagramme Visio est enregistré en ligne, vous pouvez envoyer un lien menant à celui-ci. D'autres personnes peuvent ensuite l'afficher dans n'importe quel navigateur. Il n’est pas nécessaire que l’application Visio bureau soit installée ou qu’une licence Visio pour afficher un diagramme dans le navigateur.
+Étant donné que votre diagramme Visio est enregistré en ligne, vous pouvez envoyer un lien menant à celui-ci. D'autres personnes peuvent ensuite l'afficher dans n'importe quel navigateur. Il n’est pas nécessaire que l’application Visio de bureau soit installée ou qu’une licence Visio soit installée pour afficher un diagramme dans le navigateur.
 
 ## <a name="zoom"></a>Zoom
 

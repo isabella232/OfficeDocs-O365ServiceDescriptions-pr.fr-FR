@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - compliance-and-security-features-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: Lisez cet article pour en savoir plus sur les fonctionnalités de conformité disponibles dans Microsoft Exchange Online’archivage.
-ms.openlocfilehash: a85ac5ec69905ca30b00871fa72110df87720588d2599e8afdf9da00f1044dc9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e3dbf6db56830186324470714d76a05fc38c111f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664587"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670733"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Fonctionnalités de conformité et de sécurité dans Archivage Exchange Online
 
@@ -95,7 +95,7 @@ TLS est utilisé pour chiffrer la connexion entre les serveurs de messagerie pou
 
 Les connexions client à l'Archivage Exchange Online utilisent les méthodes de chiffrement suivantes pour améliorer la sécurité :
   
-- SSL est utilisé pour sécuriser Outlook, Outlook sur le web et le trafic Exchange Services Web, à l’aide du port TCP 443.
+- SSL est utilisé pour sécuriser le trafic Outlook, Outlook sur le web et les services Web Exchange, à l’aide du port TCP 443.
     
 - Les connexions client aux serveurs locaux ne changent pas avec l'introduction de l'Archivage Exchange Online.
     
@@ -111,7 +111,7 @@ L'Archivage Exchange Online ne fournit pas de services de Gestion des droits rel
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>Prise en charge de la gestion des Outlook sur le web
 
-Les utilisateurs peuvent lire et créer des messages protégés par IRM en Outlook sur le web, comme ils le peuvent dans Outlook. Les messages protégés par IRM Outlook sur le web sont accessibles via Internet Explorer, Firefox, Safari et Chrome (sans plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L'interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l'environnement Exchange sur site doit être configurée pour les activer.
+Les utilisateurs peuvent lire et créer des messages protégés par IRM en Outlook sur le web, comme ils le peuvent dans Outlook. Les messages protégés par IRM dans Outlook sur le web sont accessibles via Internet Explorer, Firefox, Safari et Chrome (sans plug-in requis). Les messages incluent la recherche en texte intégral, la vue conversation et le volet de visualisation. L'interopérabilité entre le serveur AD RMS (Active Directory Rights Management Services) et l'environnement Exchange sur site doit être configurée pour les activer.
   
 #### <a name="irm-search"></a>Recherche de la Gestion des droits relatifs à l’information
 
@@ -121,7 +121,7 @@ Les messages protégés par la Gestion des droits relatifs à l'information (IRM
 
 L'Archivage Exchange Online fournit deux types de fonctionnalités d'audit intégrées :
   
-- Enregistrement **d’audit** administrateur : la journalisation d’audit de l’administrateur permet aux clients de suivre les modifications apportées par leurs administrateurs dans l’environnement Archivage Exchange Online, y compris les modifications apportées aux rôles RBAC ou aux stratégies et paramètres Exchange. 
+- **Enregistrement d’audit** administrateur : la journalisation d’audit de l’administrateur permet aux clients de suivre les modifications apportées par leurs administrateurs dans l’environnement Archivage Exchange Online, y compris les modifications apportées aux rôles RBAC ou aux stratégies et paramètres Exchange. 
     
 - **Enregistrement d’audit de boîte** aux lettres : l’enregistrement d’audit des boîtes aux lettres permet aux clients de suivre l’accès aux boîtes aux lettres par des utilisateurs autres que le propriétaire de la boîte aux lettres. 
     

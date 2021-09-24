@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: Obtenez des informations sur les fonctionnalités d’Exchange Online Protection et la configuration requise. Une liste des plans qui fournissent des Exchange Online Protection, ainsi qu’une comparaison des fonctionnalités de ces plans sont incluses.
-ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a82468c95f8d674bb2e4b27abc668074f222b419
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664227"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670710"
 ---
 # <a name="exchange-online-protection-service-description"></a>Description du service Exchange Online Protection
 
@@ -47,7 +47,7 @@ Microsoft Exchange Enterprise CAL avec Services fournit les fonctionnalités de 
 
 - [Création de rapports à l'aide de services web](reporting-and-message-trace.md#reporting-using-web-services)
 
-Pour plus d’informations sur Exchange Enterprise licence d’accès au service de licence avec services, voir Exchange FAQ sur les [licences.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
+Pour plus d’informations sur Exchange Enterprise licence d’accès avec licences services, voir Exchange faq sur les [licences.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)
 
 Si vous avez Exchange Enterprise licences d’accès client avec services et que vous souhaitez mettre en service EOP, suivez les instructions de l’article [Configurer votre service EOP.](/microsoft-365/security/office-365-security/set-up-your-eop-service) Les étapes de configuration sont les mêmes que pour EOP autonome.
 
@@ -77,7 +77,7 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |Protection contre l’usurpation d’usurpation (intégrée et personnalisée)|Oui|Oui|Oui|
 |Purge automatique sans heure (ZAP) pour les programmes malveillants, le courrier indésirable et les messages de hameçonnage<sup>remis 10</sup>|Non|Non|Oui|
 |Stratégies de sécurité prédéfinies|Oui|Oui|Oui|
-|Analyseur de configuration pour les stratégies de protection|Oui|Oui|Oui|
+|Analyseur de configuration pour les politiques de protection|Oui|Oui|Oui|
 |Liste Autoriser/Bloquer du client|Oui|Oui|Oui|
 |Listes de blocage pour les expéditeurs de messages|Oui|Oui|Oui|
 |Autoriser les listes pour les expéditeurs de messages|Oui|Oui|Oui|
@@ -96,8 +96,8 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |Filtrage amélioré pour les connecteurs (ignorer la liste)|Oui|Oui|Oui|
 |**Analyse**||||
 |Message trace|Oui|Oui|Oui|
-|Rapports de sécurité et de courrier électronique dans le Centre d’administration Microsoft 365|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
-|Rapports de sécurité dans le centre Microsoft 365 de sécurité|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
+|Rapports de sécurité et de courrier électronique dans le Centre d'administration Microsoft 365|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
+|Rapports de sécurité dans le centre de Microsoft 365 de sécurité|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
 |Rapports de courrier électronique dans le EAC|Oui<sup>7</sup>|Oui<sup>7, 8</sup>|Oui<sup>8</sup>|
 |Journalisation d’audit<sup>de l’administrateur 5</sup>|Oui|Oui|Oui|
 |**Utilisateurs**||||
@@ -115,9 +115,9 @@ Le tableau suivant répertorie les principales fonctionnalités Exchange Online 
 |Exchange Online PowerShell|Non|Oui|Oui|
 
 <sup>1 Vous</sup> créez, supprimez et modifiez des utilisateurs de messagerie et des contacts de messagerie dans le EAC. <br/>
-<sup>1a Vous créez</sup> et supprimez des boîtes aux lettres dans le Centre d’administration Microsoft 365. Vous pouvez modifier des boîtes aux lettres existantes dans le EAC. <br/>
+<sup>1a Vous créez</sup> et supprimez des boîtes aux lettres dans le Centre d'administration Microsoft 365. Vous pouvez modifier des boîtes aux lettres existantes dans le EAC. <br/>
 <sup>2 In</sup> standalone EOP and EE CAL with Services, there are no end-user roles or role assignment policies.<br/>
-<sup>3 Vous</sup> ajoutez et supprimez des domaines dans le Centre d’administration Microsoft 365.  Dans le EAC, vous configurez les domaines en tant que domaines faisant autorité ou non.<br/>
+<sup>3 Vous</sup> ajoutez et supprimez des domaines dans le Centre d'administration Microsoft 365.  Dans le EAC, vous configurez les domaines en tant que domaines faisant autorité ou non.<br/>
 <sup>4</sup> Quelques conditions de règle, exceptions et actions ne sont pas disponibles dans EOP autonome ou EOP dans EE cal avec Services. Ces différences sont clairement notées dans Exchange Online de règle de flux de messagerie. <br/>
 <sup>5</sup> In standalone EOP and EE CAL with Services:
 
@@ -143,7 +143,7 @@ Pour connaître les conditions générales de licence pour les produits et servi
 
 ### <a name="messaging"></a>Messagerie
 
-Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de Messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
+Pour suivre les modifications à venir, notamment les fonctionnalités nouvelles et modifiées, la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accessibilité
 
