@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Découvrez les fonctionnalités OneDrive disponibles par offre.
-ms.openlocfilehash: f69eecbffac6b8c444209b338c96478422a4ef03ffcb7f33fe4193ee53330cfd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702723"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669960"
 ---
 # <a name="onedrive-service-description"></a>Description du service OneDrive
 
@@ -37,12 +37,14 @@ Le tableau suivant répertorie les principales fonctionnalités de OneDrive disp
 
 | Fonctionnalité | Plans autonomes | Petite entreprise | Entreprise | Formation | Administration | Organisations à but non lucratif  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
-| Stockage | Oui | Oui | Oui | Oui | Oui | Oui |
+| Stockage<sup>1</sup> | Oui | Oui | Oui | Oui | Oui | Oui |
 | Fonctionnalités de synchronisation | Oui | Oui | Oui | Oui | Oui | Oui |
 | Fonctionnalités de partage et de collaboration | Oui | Oui | Oui | Oui | Oui | Oui |
 | Fonctionnalités web | Oui | Oui | Oui | Oui | Oui | Oui |
 | Fonctionnalités mobiles | Oui | Oui | Oui | Oui | Oui | Oui |
 | Fonctionnalités de conformité et de sécurité avancées, et administrateurs informatiques | Oui | Oui | Oui | Oui | Oui | Oui |
+
+<sup>1</sup> Pour plus d’informations sur le stockage OneDrive par utilisateur, consultez OneDrive dans le [Modern Work Plan Comparison](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="learn-more"></a>En savoir plus
 
@@ -50,6 +52,7 @@ Pour obtenir des informations techniques sur [OneDrive](https://www.microsoft.co
 
 - [OneDrive](/onedrive/onedrive)
 - [Blog Microsoft OneDrive](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
+- Pour la plupart des offres d’abonnement, l’espace de stockage par défaut pour chaque utilisateur OneDrive est de 1 To. En fonction de votre plan et du nombre d’utilisateurs sous licence, vous pouvez augmenter ce stockage jusqu’à 5 To. Pour plus d’informations, voir les **fonctionnalités de base** dans [Comparer les tarifs et les plans OneDrive stockage cloud.](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2)
 
 ### <a name="licensing-terms"></a>Termes du contrat de licence
 
