@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business Premium est une solution intégrée qui réunit la productivité de pointe avec des fonctionnalités avancées de sécurité et de gestion des appareils pour aider à protéger votre entreprise. Cette description du service présente les options et les fonctionnalités de l'offre.
-ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 0699b9a6841f1972e141bb52642c10e25dd141a2
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671659"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986150"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Description du service Microsoft 365 Business Premium
 
@@ -44,7 +44,7 @@ Microsoft 365 Business Premium comprend essentiellement toutes les fonctionnalit
 |Microsoft Stream  <br/> |Oui<sup>6</sup>  <br/> |Oui<sup>6</sup>  <br/> |
 |[Microsoft 365 administration](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Outil de synchronisation des Connecter Azure AD<br/> |Oui  <br/> |Oui  <br/> |
-|[Activation d'ordinateurs partagés](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |Non <br/> |Oui  <br/> |
+|[Activation d'ordinateurs partagés](/DeployOffice/overview-shared-computer-activation) <br/> |Non <br/> |Oui  <br/> |
 |[Stratégie et conformité de message](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Business Standard** <br/> |**Microsoft 365 Business Premium** <br/> |
 |Archivage à long terme de boîtes Exchange Online boîtes aux lettres basées sur Exchange Online données  <br/> |Non  <br/> |Oui<sup>3</sup> <br/> |
 |Azure Information Protection Plan 1 |Non <br/>|Oui<sup>2</sup> </br>|
@@ -101,10 +101,10 @@ Microsoft 365 Business Premium comprend essentiellement toutes les fonctionnalit
 |Protéger les dossiers contre des menaces telles que des rançongiciels <br/> |Oui  <br/> |
 |Protéger les fichiers et dossiers sur les PC contre tout accès non autorisé avec Bitlocker <br/> |Oui  <br/> |
 
-### <a name="notes"></a>Remarques
+### <a name="notes"></a>Notes
 <sup>1 Inclut</sup> Exchange Online Plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) active les fonctionnalités de gestion des droits de l’information (IRM) prise en charge. Le plan AIP 1 est inclus dans Microsoft 365 Business Premium. <br/>
-<sup>3 Microsoft 365 Business Premium</sup> inclut Archivage Exchange Online abonnement. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d’informations, voir [Vue d’ensemble d’un archivage illimité](/office365/securitycompliance/unlimited-archiving). <br/>
+<sup>3 Microsoft 365 Business Premium</sup> inclut Exchange Plan 1 et Archivage Exchange Online est inclus uniquement dans Exchange Plan 2 (E3/E5). L’archivage informatique et la archive sur place peuvent être achetés en tant que modules de modules. Au départ, chaque abonné Archivage Exchange Online reçoit 100 Go de stockage dans la boîte aux lettres d'archivage. Lorsque l'archivage à extension automatique est activé, un espace de stockage supplémentaire est ajouté automatiquement lorsque la capacité de stockage de 100 Go est atteinte. Pour plus d’informations, voir [Vue d’ensemble d’un archivage illimité](/office365/securitycompliance/unlimited-archiving). <br/>
 <sup>4 Disponible</sup> sur [https://securescore.office.com](https://securescore.office.com) . Nécessite des autorisations d'administration. Pour plus d’informations, voir [Le Score de sécurité Microsoft.](/office365/securitycompliance/microsoft-secure-score)<br/>
 <sup>5 Simplification</sup> de Windows 10 gestion des appareils intégrée au Centre d'administration Microsoft 365. Fonctionnalités de gestion Intune d’iOS, Android, macOS et autres fonctionnalités de gestion d’appareils sur plusieurs plateformes intégrées au Centre d’administration de gestion des appareils, également sous licence pour une utilisation avec Microsoft 365 Business Premium. Les applications tierces et la configuration d’éléments tels que les profils WiFi et les certificats VPN peuvent également être gérées dans le Centre d’administration de gestion des appareils. <br/>
 <sup>6 Ce</sup> plan est inclus avec Microsoft Stream Plan 2, qui inclut le portail vidéo, la transcription de texte par reconnaissance vocale, la recherche approfondie et la détection des visages.<br/>

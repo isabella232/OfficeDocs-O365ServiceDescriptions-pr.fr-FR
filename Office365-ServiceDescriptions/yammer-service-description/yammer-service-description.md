@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Découvrez quelles fonctionnalités sont disponibles dans les différents plans Yammer plan.
-ms.openlocfilehash: 16393c4ef8accf9a6786a241d19b438d416389dc
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: be90cc37e288d3aa4d0de8400546d153b97845f9
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673088"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986140"
 ---
 # <a name="yammer-service-description"></a>Description du service Yammer
 
@@ -50,6 +50,20 @@ Le tableau suivant répertorie les principales fonctionnalités Yammer disponibl
 
 Pour rester informé des modifications à venir, y compris des fonctionnalités nouvelles et modifiées, de la maintenance planifiée ou d’autres annonces importantes, visitez le Centre de messages. Pour plus d’informations, consultez [Centre de messages](/microsoft-365/admin/manage/message-center).
 
+## <a name="communication-channels"></a>Canaux de communication
+
+Les canaux utilisés pour communiquer dépendent de l’impact.
+
+
+| Type de modification | centre Office 365 [messages](/microsoft-365/admin/manage/message-center) | Feuille de route de Microsoft 365. | Yammer Blog tech Community, par exemple, Arrondis mensuels | Communauté externe, Twitter |
+|---------|---------|---------|---------|---------|
+|**Modifications nécessitant une action (plan de modification)** : modifications qui nécessitent une action de l’administrateur pour maintenir le service en cours d’exécution, mises à jour qui peuvent avoir un impact sur la conformité de votre organisation | Oui | Oui | Oui | Oui |
+| **Modifications nécessitant une sensibilisation (rester informé)** : modifications qui ne nécessitent pas d’action de l’administrateur, modifications de conception visuelle | Oui | Oui | Oui | Oui |
+
+> [!NOTE]
+> Avec les modifications qui affectent un ensemble ciblé d’utilisateurs, nous pouvons les avertir directement.</br>
+> Les modifications qui ne sont pas critiques et qui ne nécessitent pas d’action ou de sensibilisation ne seront pas communiquées largement (même si elles peuvent être observables par certains utilisateurs).
+
 ## <a name="yammer-enterprise-service-communications-policy"></a>Yammer de communications de service d’entreprise
 
 Yammer respecte la stratégie de gestion [Microsoft 365](https://aka.ms/ManageChange)des changements, mais utilise la version ciblée pour déployer certaines mises Microsoft 365 jour. Yammer utilisateurs sont soumis à des tests de fonctionnalités A/B ou à une évaluation. Cela permet à Microsoft de tester les fonctionnalités pour améliorer la stabilité, les performances et l’expérience dans de nombreux environnements et appareils. Des utilisateurs au sein du même réseau peuvent avoir différentes expériences au cours du test. Les clients ne peuvent pas refuser un test A/B.
@@ -62,7 +76,7 @@ Pour connaître les conditions générales de licence pour les produits et servi
 
 Microsoft s’engage à garantir la sécurité de vos données et l’[accessibilité](https://www.microsoft.com/trust-center/compliance/accessibility) de nos services. Pour plus d’informations, consultez le [Centre de gestion de la confidentialité Microsoft](https://www.microsoft.com/trust-center) et le [Centre d’accessibilité Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-## <a name="learn-more"></a>Si vous souhaitez en savoir plus
+## <a name="learn-more"></a>En savoir plus
 
 Pour plus d’informations Yammer, consultez les ressources suivantes :
 

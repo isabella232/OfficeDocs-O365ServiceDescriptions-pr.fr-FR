@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit une vue d’ensemble des différences de fonctionnalités entre le cloud du gouvernement américain et le cloud commercial, comme indiqué dans la description Exchange Online service.
-ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 2845e26e40552f364d2f8f6a0ec2746d35e13330
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671073"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986130"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online pour les environnements pour le gouvernement américain
 
@@ -51,7 +51,7 @@ Le tableau suivant indique si des fonctionnalités Exchange Online spécifiées 
 |Autorisations basées sur des rôles|Oui|Oui|Oui||
 |Groupes de rôles|Oui|Oui|Oui||
 |Stratégies d'attribution de rôle|Oui|Oui|Oui||
-|**[Stratégie et conformité des messages](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
+|**[Stratégie et conformité de message](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
 |Archivage de boîtes aux lettres Exchange Online|Oui|Oui|Oui||
 |Archivage en nuage de boîtes aux lettres locales|Oui|Oui|Oui||
 |Messaging Records Management (MRM) |Oui|Oui|Oui||
@@ -121,7 +121,7 @@ Le tableau suivant indique si des fonctionnalités Exchange Online spécifiées 
 |Mobilité et sécurité de base pour Microsoft 365|Oui|Non|Non||
 |POP et IMAP|Oui|Oui|Oui||
 |SMTP|Oui|Oui|Oui||
-|Prise en charge des applications EWS|Oui|Oui|Oui||
+|Prise en charge de l’application<sup>EWS 2</sup>|Oui|Oui|Oui||
 |**[Services de messagerie vocale](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
 |Messagerie vocale|Non|Non|Non|L’intégration des systèmes IP-PBX locaux Exchange Online la messagerie unifiée n’est pas prise en charge.|
 |Intégration entre la messagerie vocale et la télécopie tierce|Non|Non|Non|L’intégration des systèmes IP-PBX locaux Exchange Online la messagerie unifiée n’est pas prise en charge.|
@@ -147,7 +147,8 @@ Le tableau suivant indique si des fonctionnalités Exchange Online spécifiées 
 |**[Extension du service : personnalisation, les add-ins et les ressources](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DOD**|**Considérations clés**|
 |Outlook et Outlook MAPI|Oui|Oui|Oui|Seuls certains OWA et Outlook sont disponibles dans Cloud de la communauté du secteur public Haut et DoD. Voir [les Outlook et Outlook Web App](#add-insin-outlook-and-outlook-web-app) dans cet article.|
 
-<sup>1</sup> Outlook sur le Web peut être utilisé dans les scénarios où Outlook pour Windows ne peut pas afficher les messages protégés par IRM en raison de restrictions croisées (Cloud de la communauté du secteur public Élevé/ Non Cloud de la communauté du secteur public Élevé ).
+<sup>1</sup> Outlook sur le Web peut être utilisé dans les scénarios où Outlook pour Windows ne peut pas afficher les messages protégés par IRM en raison de restrictions croisées (Cloud de la communauté du secteur public Élevé/ Non Cloud de la communauté du secteur public Élevé ).</br>
+<sup>2 Uniquement</sup> la sortie vers des espaces d’adresses spécifiques que le client peut prouver qu’il possède est autorisé, ce qui exclut les services tiers et les larges plages d’adresses IP utilisées par les appareils mobiles.
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Nuances de fonctionnalités Cloud de la communauté du secteur public environnements Élevé et DoD
 

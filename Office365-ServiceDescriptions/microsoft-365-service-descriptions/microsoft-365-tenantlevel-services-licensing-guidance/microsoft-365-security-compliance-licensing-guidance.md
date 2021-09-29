@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des instructions pour Microsoft 365 conformité afin d’éviter les interruptions de service potentielles en raison d’un accès sans permis.
-ms.openlocfilehash: 8ba78ae1343a5038901d1bd66b2b7bcfffceb70e
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 59e7714ec09b56a0e9bfb22d87d9419d991f8ee6
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670393"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986160"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 conseils pour la conformité de &amp; la sécurité
 
@@ -159,11 +159,11 @@ Certaines évaluations sont incluses dans le cadre du Gestionnaire de conformit�
 |<ul><li>Microsoft 365 ou Office 365 A1/E1/F1/G1</li><li>Microsoft 365 ou Office 365 A3/E3/F3/G3</li></ul>|<ul><li>Base de référence de protection des données</li></ul>|
 |<ul><li>Microsoft 365 ou Office 365 A5/E5/G5</li><li>Microsoft 365 A5 conformité E5/F5/G5</li><li>Microsoft 365 A5 eDiscovery et audit E5/F5/G5</li><li>Microsoft 365 A5/E5/F5/G5 Gestion des risques internes</li><li>Microsoft 365 A5/E5/F5/G5 Information Protection and Governance</li></ul>|<ul><li>Base de référence de protection des données</li><li>RGPD de l'UE</li><li>NIST 800-53</li><li>ISO 27001</li><li>CmMC de niveau 1 à 5 (disponible uniquement pour G5)</li><li>Évaluations personnalisées</li></ul>|
 
-## <a name="what-are-custom-assessments"></a>Qu’est-ce que les évaluations personnalisées ?
+### <a name="what-are-custom-assessments"></a>Qu’est-ce que les évaluations personnalisées ?
 
 Les évaluations personnalisées sont une fonctionnalité du Gestionnaire de conformité qui permet de créer un modèle ou de personnaliser un modèle d’évaluation existant, y compris l’ajout ou la mise à jour de contrôles et d’actions d’amélioration.
 
-## <a name="who-can-access-custom-assessments"></a>Qui pouvez-vous accéder aux évaluations personnalisées ?
+### <a name="who-can-access-custom-assessments"></a>Qui pouvez-vous accéder aux évaluations personnalisées ?
 
 La fonctionnalité d’évaluations personnalisées est disponible pour les clients ayant un abonnement E5, comme indiqué ci-dessous :
 
