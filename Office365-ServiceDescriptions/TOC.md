@@ -75,6 +75,7 @@
 ## [Description du service SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
 ### [Fonctions de SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [Description du service Impression universelle](universal-print-service-description/universal-print-service-description.md)
+## [Description du service Office 365](windows-365-service-description/windows-365-service-description.md)
 ## [Description du service Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Fonctionnalités de Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Limites de Skype Entreprise Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)
@@ -98,6 +99,7 @@
 ### [Gestion des ressources](project-online-service-description/resource-management.md)
 ## [Description du service Visio pour le web](visio-online-service-description/visio-online-service-description.md)
 ### [Détail des fonctionnalités Visio](visio-online-service-description/visio-features.md)
+## [Description du service Microsoft Viva](microsoft-viva-service-description.md)
 ## [Description du service Yammer](yammer-service-description/yammer-service-description.md)
 ### [Limites dans Yammer](yammer-service-description/yammer-limits.md)
 ## Description des services Microsoft 365
