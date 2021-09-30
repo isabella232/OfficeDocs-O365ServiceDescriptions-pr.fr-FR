@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium est l’offre microsoft la plus économique pour les petites et moyennes entreprises. Microsoft 365 Business Premium est une solution intégrée qui regroupe Microsoft 365 productivité, la sécurité avancée et la gestion des appareils.
-ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: e4062493a2508b17704c48770d5e991915674426
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670461"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015649"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licences Microsoft 365 pour les petites et moyennes entreprises
 
@@ -44,13 +44,13 @@ Cet article compare les options de licence pour les PME, en mettant l’accent s
 |   | Windows Virtual Desktop | Non | Oui |
 |**Protection des informations** | Protection contre la perte de données Microsoft | Non | Oui |
 |   | Azure Information Protection Plan 1, application de BitLocker | Non | Oui |
-|**Conformité** | Archivage illimité du courrier<sup>électronique 2</sup> | Non | Oui |
+|**Conformité** | Archivage à extension automatique<sup>2</sup> | Non | Oui |
 
 **Notes**
 
 <sup>1</sup> Disponible aux États-Unis, au Royaume-Uni, au Canada.
 
-<sup>2 Archivage</sup> illimité lorsque l’extension automatique est allumée.
+<sup>2 La</sup> capacité de stockage d’archivage d’un utilisateur peut aller jusqu’à 1,5 To lorsque l’archivage à extension automatique est allumé.
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Comparaison des fonctionnalités : Microsoft 365 Business Premium et Office 365 E3
 
@@ -74,7 +74,7 @@ Cet article compare les options de licence pour les PME, en mettant l’accent s
 |**Protection des informations** | Protection contre la perte de données Microsoft | Oui | Oui |
 |   | Azure Information Protection Plan 1, application de BitLocker | Non | Oui |
 |**Droits de cal local** | ECAL Suite (Exchange, SharePoint, Skype) | Oui | Non |
-|**Conformité** | Archivage illimité du courrier<sup>électronique 3</sup> | Oui | Oui |
+|**Conformité** | Archivage à extension automatique<sup>3</sup> | Oui | Oui |
 
 **Notes**
 
@@ -82,7 +82,7 @@ Cet article compare les options de licence pour les PME, en mettant l’accent s
 
 <sup>2</sup> Disponible aux États-Unis, au Royaume-Uni, au Canada.
 
-<sup>3</sup> Archivage illimité lorsque l’extension automatique est allumée.
+<sup>3 La</sup> capacité de stockage d’archivage d’un utilisateur peut aller jusqu’à 1,5 To lorsque l’archivage à extension automatique est allumé.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Comparaison des fonctionnalités : Microsoft 365 Business Standard, Microsoft 365 Business Premium et Office 365 E3
 
@@ -106,7 +106,7 @@ Cet article compare les options de licence pour les PME, en mettant l’accent s
 |**Protection des informations**  | Protection contre la perte de données Microsoft | Non | Oui | Oui |
 |   | Azure Information Protection Plan 1, application de BitLocker | Non | Oui | Non |
 |**Droits de cal local** | ECAL Suite (Exchange, SharePoint, Skype) | Non | Non | Oui |
-|**Conformité** | Archivage illimité du courrier<sup>électronique 3</sup> | Non | Oui | Oui |
+|**Conformité** | Archivage à extension automatique<sup>3</sup> | Non | Oui | Oui |
 
 **Notes**
 
@@ -114,7 +114,7 @@ Cet article compare les options de licence pour les PME, en mettant l’accent s
 
 <sup>2</sup> Disponible aux États-Unis, au Royaume-Uni, au Canada.
 
-<sup>3</sup> Archivage illimité lorsque l’extension automatique est allumée.
+<sup>3 La</sup> capacité de stockage d’archivage d’un utilisateur peut aller jusqu’à 1,5 To lorsque l’archivage à extension automatique est allumé.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparaison des fonctionnalités : Microsoft 365 Business Standard et Microsoft 365 pour les plans pour les entreprises
 
@@ -141,7 +141,7 @@ Cet article compare les options de licence pour les PME, en mettant l’accent s
 | **Protection des informations** | Protection contre la perte de données Microsoft, Azure Information Protection Plan 1 | Non | Oui | Oui | Oui |
 |   | Azure Information Protection Plan 2, Microsoft Cloud App Security, Sécurité des applications cloud Office 365 | Non | Non | Non | Oui |
 |**Droits de cal local** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | Non | Non | Oui | Oui |
-|**Conformité** | Archivage illimité du courrier<sup>électronique 2</sup> | Non | Oui | Oui | Oui |
+|**Conformité** | Archivage à extension automatique<sup>2</sup> | Non | Oui | Oui | Oui |
 |   | Advanced eDiscovery, Customer Lockbox et Gouvernance des données avancée | Non | Non | Non | Oui |
 |**Analyse** | Power BI Pro, MyAnalytics | Non | Non | Non | Oui |
 | | Informations par MyAnalytics | Oui | Oui | Oui | Oui |
@@ -152,7 +152,7 @@ Cet article compare les options de licence pour les PME, en mettant l’accent s
 
 <sup>1</sup> Disponible aux États-Unis, au Royaume-Uni, au Canada.
 
-<sup>2 Archivage</sup> illimité lorsque l’extension automatique est allumée.
+<sup>2 La</sup> capacité de stockage d’archivage d’un utilisateur peut aller jusqu’à 1,5 To lorsque l’archivage à extension automatique est allumé.
 
 ## <a name="office-client-commercial-plans"></a>Office plans commerciaux clients
 

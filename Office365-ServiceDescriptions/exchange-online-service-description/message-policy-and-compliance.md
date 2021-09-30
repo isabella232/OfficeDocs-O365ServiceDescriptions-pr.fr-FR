@@ -1,5 +1,5 @@
 ---
-title: Stratégie et conformité des messages
+title: Stratégie et conformité de message
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Découvrez la stratégie et la conformité des messages dans Exchange Online.
-ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 77885b5db378734b1108c240663c0533cdffed7e
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671870"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015668"
 ---
-# <a name="message-policy-and-compliance"></a>Stratégie et conformité des messages
+# <a name="message-policy-and-compliance"></a>Stratégie et conformité de message
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivage de boîtes aux lettres Exchange Online
 
@@ -44,7 +44,7 @@ Pour plus d'informations, voir les pages suivantes :
 Il n'est possible de stocker les données de messagerie que d'un seul utilisateur dans chaque archive personnelle. L'allocation de l'espace de stockage dépend du plan d'abonnement. Pour plus d’informations sur les tailles de boîtes aux lettres d’archivage, consultez la section « Limites de stockage des boîtes aux lettres [» Exchange Online limites.](exchange-online-limits.md)
   
 > [!IMPORTANT]
-> - L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages vers une boîte aux lettres Exchange Online à des fins d'archivage n'est pas autorisée. Microsoft se réserve le droit de refuser l’archivage illimité dans les cas où une archive de boîte aux lettres n’est pas utilisée dans un scénario personnel ou dans d’autres cas d’utilisation inappropriée.
+> - L'utilisation de la fonction de journalisation, des règles de transport ou des règles de transfert automatique pour copier des messages vers une boîte aux lettres Exchange Online à des fins d'archivage n'est pas autorisée. Microsoft se réserve le droit de refuser un stockage d’archive supplémentaire dans les cas où une archive de boîte aux lettres n’est pas utilisée dans un scénario personnel ou dans d’autres cas d’utilisation inappropriée.
 > - L'archivage local exige impose certaines conditions de licence aux utilisateurs d'Outlook. Les utilisateurs d'Outlook 2007 doivent disposer de la mise à jour cumulative Office 2007 de février 2011 pour pouvoir accéder à leur archive personnelle. 
 > - Exchange Online ne prend pas en charge la cmdlet _New-MailboxImportRequest_ Windows PowerShell de Exchange Server 2010 Service Pack 1 ou ultérieur pour l’importation par l’administrateur de fichiers .pst dans une archive personnelle. Si la boîte aux lettres principale et l'archive de l'utilisateur se situent dans Exchange Online, un administrateur peut utiliser PST Capture, un outil gratuit qui permet d'importer les données du fichier .pst bers la boîte aux lettres ou l'archive principale de l'utilisateur.
 

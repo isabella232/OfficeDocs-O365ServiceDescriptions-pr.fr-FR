@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: Vous recherchez une comparaison des fonctionnalités des abonnements qui incluent Exchange Online ? Dans ce cas, notre article de description des services Exchange Online est juste ce qu'il vous faut. Il contient également les configurations système requises, ainsi que les exigences concernant le stockage et les destinataires.
-ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672067"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015698"
 ---
 # <a name="exchange-online-service-description"></a>Description du service Exchange Online
 
@@ -82,7 +82,7 @@ Pour la disponibilité des fonctionnalités Microsoft 365 Business Premium, voir
 |Autorisations basées sur des rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Groupes de rôles|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
 |Stratégies d'attribution de rôle|Oui|Oui|Oui|Oui|Oui|Oui|Oui|Non|
-|**[Stratégie et conformité des messages](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
+|**[Stratégie et conformité de message](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Business Basic**|**Microsoft 365 Business Standard**|**Office 365 Entreprise E1**|**Office 365 Entreprise E3**|**Office 365 Entreprise E5**|**Office 365 Entreprise F3**|
 |Archivage de boîtes aux lettres Exchange Online| Non|Non|Oui|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Oui<sup>9</sup>|Non|
 |Archivage en nuage de boîtes aux lettres locales|Oui <sup>1</sup>|Oui<sup>1</sup>|Non|Non|Oui|Oui|Oui|Non|
 |Messaging Records Management (MRM) |Oui|Oui|Oui|Oui|Oui|Oui|Oui|Oui|
@@ -218,7 +218,7 @@ Le chiffrement de lecteur BitLocker <sup>15</sup> est pris en charge Exchange Se
 |Autorisations basées sur des rôles|Oui|Oui|Oui|Oui|Non|
 |Groupes de rôles|Oui|Oui|Oui|Oui|Non|
 |Stratégies d'attribution de rôle|Oui|Oui|Oui|Oui|Non|
-|**[Stratégie et conformité des messages](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online Kiosk**|
+|**[Stratégie et conformité de message](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Exchange Online Kiosk**|
 |Archivage de boîtes aux lettres Exchange Online|Oui|Non|Oui|Oui|Non|
 |Archivage en nuage de boîtes aux lettres locales|Oui <sup>5</sup>|Oui <sup>5</sup>|Non|Oui|Non|
 |Messaging Records Management (MRM) |Oui|Oui|Oui|Oui|Oui|
@@ -328,7 +328,7 @@ Le chiffrement de lecteur BitLocker <sup>15</sup> est pris en charge Exchange Se
 <sup>14</sup> Les clients exécutant Exchange Server 2013 ou une version ultérieure doivent télécharger et installer la dernière mise à jour cumulative (CU) ou la mise à jour cumulative immédiatement précédente pour accéder à la création d’empreintes digitales de document et aux Astuces de stratégie dans OWA et OWA pour les appareils. <br/>
 <sup>15 Disponible</sup> pour les clients exécutant Exchange Server 2013 ou ultérieure. <br/>
 Le chiffrement de lecteur BitLocker <sup>16</sup> est pris en charge Exchange Server 2013, mais un administrateur doit activer la fonctionnalité. <br/>
-<sup>17 Exchange Online</sup> Plan 1 a une limite de taille pour la [boîte aux lettres et l’archive.](./exchange-online-limits.md) Archivage Exchange Online pour Exchange Online module ajoute une archive informatique illimitée et une archive in [place.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
+<sup>17 Exchange Online</sup> Plan 1 a une limite de taille pour la [boîte aux lettres et l’archive.](./exchange-online-limits.md) Archivage Exchange Online pour Exchange Online module ajoute jusqu’à 1,5 To d’archive en nuage et de archive [in-place.](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold) <br/>
 <sup>18 Exchange Online Kiosk</sup> calendriers sont accessibles ou partagés uniquement via OWA. <br/>
 <sup>19</sup> Les comptes connectés sont pris en charge pour les comptes &amp; POP IMAP, mais désactivés pour Outlook.com (Hotmail). <br/>
 <sup>20 Utilisation</sup> des cmdlets dans Exchange Online PowerShell pour personnaliser les listes d’adresses par défaut et la liste d’adresses globale par défaut n’est pas prise en charge. <br/>
