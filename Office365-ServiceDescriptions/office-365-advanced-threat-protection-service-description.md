@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender pour Office 365 est un service de filtrage de courrier électronique basé sur le cloud qui permet de protéger votre organisation contre les programmes malveillants et les virus inconnus en offrant une protection zero-day robuste, et inclut des fonctionnalités permettant de protéger votre organisation contre les liens dangereux en temps réel.
-ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1d06d2780efa1e0303ae3b6f155ec5ad0ecf56dd
+ms.sourcegitcommit: 2ef11e882b734751bceffbbcad920b765c47fc92
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670339"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040950"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Description du service Microsoft Defender pour Office 365
 
@@ -64,7 +64,7 @@ Le tableau suivant répertorie les principales fonctionnalités de Microsoft Def
 > [!NOTE]
 > Microsoft Defender pour Office 365 est un composant de Microsoft 365 Defender. Pour plus d’informations sur la sécurité automatisée entre domaines avec Microsoft 365 Defender, voir [Microsoft 365 Defender requises.](/microsoft-365/security/mtp/prerequisites)
 
-## <a name="learn-more"></a>Si vous souhaitez en savoir plus
+## <a name="learn-more"></a>En savoir plus
 
 Pour plus d’informations sur Microsoft Defender pour Office 365, consultez les ressources suivantes :
 
@@ -76,6 +76,23 @@ Pour plus d’informations sur Microsoft Defender pour Office 365, consultez les
 ### <a name="licensing-terms"></a>Termes du contrat de licence
 
 Pour connaître les conditions générales de licence pour les produits et services achetés par le biais des Programmes de Licences en Volume Commerciaux Microsoft, consultez le site [Conditions générales du produit](https://www.microsoft.com/licensing/terms/).
+
+Pour les clients Microsoft Defender pour Office 365 Plan 1, les licences doivent être acquises pour les utilisateurs ou les boîtes aux lettres qui tombent sous un ou plusieurs des scénarios suivants :
+
+- Tout utilisateur qui accède à une boîte aux lettres qui bénéficie de Defender pour Office 365 protections.
+- Boîtes aux lettres partagées qui bénéficient de Defender pour Office 365 protections.
+- Si Coffre protection des pièces jointes pour SharePoint, OneDrive Entreprise ou Teams est désactivée, tous les utilisateurs qui accèdent à SharePoint, OneDrive Entreprise ou Teams.
+- Tous les utilisateurs qui utilisent Microsoft 365 Apps ou Teams lorsque Coffre protections de liens sont activées.
+
+Pour les clients Microsoft Defender pour Office 365 Plan 2, les licences doivent être acquises pour les utilisateurs ou les boîtes aux lettres qui tombent sous un ou plusieurs des scénarios suivants :
+
+- Tous Exchange Online utilisateurs sur le client. Cela est dû au fait que les fonctionnalités et fonctionnalités plan 2 protègent tous les utilisateurs du client.
+- Toutes les boîtes aux lettres partagées sur le client.
+- Si Coffre protection des pièces jointes pour SharePoint, OneDrive Entreprise ou Teams est désactivée, tous les utilisateurs qui accèdent à SharePoint, OneDrive Entreprise ou Teams.
+- Tous les utilisateurs qui utilisent Microsoft 365 Apps ou Teams lorsque Coffre protections de liens sont activées.
+
+> [!NOTE]
+> Office 365 E5, Microsoft 365 E5 Sécurité et Microsoft 365 E5 incluent des licences Microsoft Defender pour Office P2 et Microsoft 365 Business Premium des licences Microsoft Defender pour Office 365 P1.
 
 ### <a name="messaging"></a>Messagerie
 
