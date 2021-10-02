@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des instructions pour Microsoft 365 conformité afin d’éviter les interruptions de service potentielles en raison d’un accès sans permis.
-ms.openlocfilehash: 59e7714ec09b56a0e9bfb22d87d9419d991f8ee6
-ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
+ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
+ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59986160"
+ms.lasthandoff: 10/02/2021
+ms.locfileid: "60082854"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 conseils pour la conformité de &amp; la sécurité
 
@@ -157,7 +157,7 @@ Certaines évaluations sont incluses dans le cadre du Gestionnaire de conformit�
 | Type de licence | Modèles d’évaluation (inclus par défaut) |
 |:-----|:-----|
 |<ul><li>Microsoft 365 ou Office 365 A1/E1/F1/G1</li><li>Microsoft 365 ou Office 365 A3/E3/F3/G3</li></ul>|<ul><li>Base de référence de protection des données</li></ul>|
-|<ul><li>Microsoft 365 ou Office 365 A5/E5/G5</li><li>Microsoft 365 A5 conformité E5/F5/G5</li><li>Microsoft 365 A5 eDiscovery et audit E5/F5/G5</li><li>Microsoft 365 A5/E5/F5/G5 Gestion des risques internes</li><li>Microsoft 365 A5/E5/F5/G5 Information Protection and Governance</li></ul>|<ul><li>Base de référence de protection des données</li><li>RGPD de l'UE</li><li>NIST 800-53</li><li>ISO 27001</li><li>CmMC de niveau 1 à 5 (disponible uniquement pour G5)</li><li>Évaluations personnalisées</li></ul>|
+|<ul><li>Microsoft 365 ou Office 365 A5/E5/G5</li><li>Microsoft 365 A5 conformité E5/F5/G5</li><li>Microsoft 365 A5 eDiscovery et audit E5/F5/G5</li><li>Microsoft 365 A5/E5/F5/G5 Gestion des risques internes</li><li>Microsoft 365 A5/E5/F5/G5 Information Protection and Governance</li></ul>|<ul><li>Base de référence de protection des données</li><li>RGPD de l'UE</li><li>NIST 800-53</li><li>ISO 27001</li><li>CmMC de niveau 1 à 5 (disponible uniquement pour G5)</li><li>Évaluations personnalisées</li></ul>|
 
 ### <a name="what-are-custom-assessments"></a>Qu’est-ce que les évaluations personnalisées ?
 
@@ -558,21 +558,15 @@ Par défaut, les fonctionnalités de Microsoft Defender pour le point de termina
 
 Les administrateurs microsoft Defender pour les points de terminaison peuvent utiliser le contrôle d’accès basé sur un rôle (RBAC) pour créer des rôles et des groupes au sein de l’équipe des opérations de sécurité afin d’accorder un accès approprié à l’Centre de sécurité Microsoft Defender. Pour plus d’informations, voir [Gérer l’accès au portail à l’aide du contrôle d’accès basé sur les rôles.](/windows/security/threat-protection/microsoft-defender-atp/rbac)
 
-## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp"></a>API microsoft Graph pour la protection contre Teams perte de données (DLP)
+## <a name="microsoft-graph-apis-for-teams-data-loss-prevention-dlp-and-for-teams-export"></a>API Microsoft Graph pour la protection contre la perte Teams données (DLP) et pour l Teams exporter
 
-Cette API permet aux développeurs de créer des applications qui peuvent écouter Microsoft Teams messages en temps quasi réel et activer les implémentations de scénarios DLP pour les clients et les logiciels indépendants. En outre, Microsoft Graph l’API patch permet d’appliquer des actions DLP Teams messages.
+Ces API permettent aux développeurs de créer des applications de sécurité et de conformité qui peuvent « écouter » des messages Microsoft Teams en temps quasi réel ou exporter des messages d’équipe dans des canaux de conversation de groupe ou de Teams 1:1. Ces API activent DLP et d’autres scénarios de protection et de gouvernance des informations pour les clients et les isv. En outre, Microsoft Graph l’API patch permet d’appliquer des actions DLP Teams messages.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>Comment les utilisateurs bénéficient-ils du service ?
 
 Les fonctionnalités de protection contre la perte de données [(DLP)](/microsoft-365/compliance/dlp-microsoft-teams) sont largement utilisées dans Microsoft Teams, en particulier lorsque les organisations ont été décalées vers le travail à distance. Si votre organisation dispose d’une DLP, vous pouvez désormais définir des stratégies qui empêchent les personnes de partager des informations sensibles dans un canal Microsoft Teams ou une session de conversation.
 
-### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
-
-- Microsoft 365 E5/A5/G5
-- Microsoft 365 E5 conformité A5/G5/F5
-- Microsoft 365 F5 Security & Compliance
-- Microsoft 365 E5/A5/G5 Information Protection and Governance
-- Office 365 E5/A5/G5
+Les fonctionnalités de protection et de gouvernance des informations sont largement utilisées dans Microsoft Teams, en particulier lorsque les organisations ont été décalées vers le travail à distance. Avec [Teams API d’exportation,](/microsoftteams/export-teams-content)les données peuvent être exportées vers une application eDiscovery ou d’archivage de conformité tierce pour s’assurer que les pratiques de conformité sont respectées.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
@@ -580,7 +574,9 @@ L’accès à l’API est configuré au niveau du client.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>Comment le service peut-il être appliqué uniquement aux utilisateurs du client qui sont titulaires d’une licence pour le service ?
 
-Microsoft Graph API pour Teams DLP est une valeur au niveau du client. Chaque utilisateur destiné à bénéficier de ce service doit être titulaire d’une licence.
+Les API Graph Microsoft pour Teams DLP et Teams Export fournissent une valeur au niveau du client. Chaque utilisateur destiné à bénéficier de ce service doit être titulaire d’une licence. En tant que valeur ajoutée, nous ajoutons une capacité d’amorçage par utilisateur sous licence, calculée par mois et agrégée au niveau du client. Pour une utilisation au-delà de la capacité d’amorçage, les propriétaires d’applications sont facturés pour la consommation d’API.
+
+Pour plus d’informations sur les frais de consommation et de capacité d’amorçage, voir [Graph’accès aux messages de conversation.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Chiffrement avancé de messages Office 365
 
