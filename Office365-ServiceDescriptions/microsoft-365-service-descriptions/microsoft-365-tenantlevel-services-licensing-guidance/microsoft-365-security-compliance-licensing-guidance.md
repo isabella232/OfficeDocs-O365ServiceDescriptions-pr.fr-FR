@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Cet article fournit des instructions pour Microsoft 365 conformité afin d’éviter les interruptions de service potentielles en raison d’un accès sans permis.
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082854"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088497"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 conseils pour la conformité de &amp; la sécurité
 
@@ -568,6 +568,13 @@ Les fonctionnalités de protection contre la perte de données [(DLP)](/microsof
 
 Les fonctionnalités de protection et de gouvernance des informations sont largement utilisées dans Microsoft Teams, en particulier lorsque les organisations ont été décalées vers le travail à distance. Avec [Teams API d’exportation,](/microsoftteams/export-teams-content)les données peuvent être exportées vers une application eDiscovery ou d’archivage de conformité tierce pour s’assurer que les pratiques de conformité sont respectées.
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>Quelles licences fournissent les droits d’un utilisateur pour bénéficier du service ?
+
+- Microsoft 365 E5/A5
+- Conformité Microsoft 365 E5/A5
+- Microsoft 365 sécurité E5/A5
+- Microsoft 365 E5/A5 Protection de l’information et Gouvernance
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>Comment le service est-il mis en service/déployé ?
 
 L’accès à l’API est configuré au niveau du client.
@@ -576,7 +583,7 @@ L’accès à l’API est configuré au niveau du client.
 
 Les API Graph Microsoft pour Teams DLP et Teams Export fournissent une valeur au niveau du client. Chaque utilisateur destiné à bénéficier de ce service doit être titulaire d’une licence. En tant que valeur ajoutée, nous ajoutons une capacité d’amorçage par utilisateur sous licence, calculée par mois et agrégée au niveau du client. Pour une utilisation au-delà de la capacité d’amorçage, les propriétaires d’applications sont facturés pour la consommation d’API.
 
-Pour plus d’informations sur les frais de consommation et de capacité d’amorçage, voir [Graph’accès aux messages de conversation.](/graph/teams-licenses)
+Pour plus d’informations sur les frais de consommation et de capacité d’amorçage, voir Graph [pour accéder aux messages de conversation.](/graph/teams-licenses)
 
 ## <a name="office-365-advanced-message-encryption"></a>Chiffrement avancé de messages Office 365
 

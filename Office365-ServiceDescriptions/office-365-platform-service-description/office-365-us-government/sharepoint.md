@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Découvrez la disponibilité SharePoint fonctionnalités pour les clients cloud du gouvernement des États-Unis.
-ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3d0660316b53d9aaef8adf514c8835950150abd8
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673002"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088507"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint pour les environnements pour le gouvernement américain
 
@@ -72,7 +72,6 @@ Voici les différences entre les sites et les fonctionnalités de contenu pour l
 
 - Les composants Web Parts qui reposent sur les connexions aux services Internet, tels que les composants Web Bing Cartes Amazon, Bing Cartes, Twitter et YouTube, ne fonctionneront pas comme prévu.
 - La bibliothèque de biens de l’organisation n’est pas disponible
-- L’ajout de listes et de pages Teams n’est pas disponible pour Cloud de la communauté du secteur public clients Haut et DoD
 - Graph fonctionnalités de SharePoint Online pour Cloud de la communauté du secteur public High est actuellement désactivée. Tout service qui s’appuie sur Microsoft Graph n’est peut-être pas disponible actuellement
 - Les fonctionnalités qui reposent sur les connexions aux services Internet, telles que l’onglet Images boursières, ne fonctionneront pas comme prévu.
 - Les notifications d’activité de fichier et de site ne sont pas disponibles

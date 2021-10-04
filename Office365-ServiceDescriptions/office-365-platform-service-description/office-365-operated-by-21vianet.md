@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 géré par 21Vianet est conçu pour répondre aux besoins de services cloud sécurisés, fiables et évolutifs en Chine. Ce service fonctionne avec la technologie pour laquelle Microsoft a octroyé une licence à 21Vianet.
-ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: a3c61c6d2938fe5e4f0554e82db10d719d9ee792
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671356"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088517"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 géré par 21Vianet
 
@@ -70,17 +70,17 @@ Microsoft 365 Le Centre de conformité permet d’accéder facilement aux outils
 | Archivage | Oui | N/A | Oui | Oui | Oui | Non |
 | Stratégies d’alerte | Non | s/o | Non | Non<sup>1</sup> | Non<sup>1</sup> | Non<sup>1</sup> |
 |Audit de base<sup>2</sup> | Oui | N/A | Oui | Oui | Oui | Oui |
-|Recherche de contenu | Non | s/o | Non | Non<sup>1</sup> | Non<sup>1</sup> | Non<sup>1</sup> |
+|Recherche de contenu | Non | s/o | Non | Oui | Oui | Oui |
 |Protection contre la perte de données pour Exchange Online, SharePoint Online et OneDrive Entreprise | Non | s/o | Oui | Non | Oui | Non |
-|Cas eDiscovery | Non | s/o | Non | Non<sup>1</sup> | Non<sup>1</sup> | Non<sup>1</sup> |
-|Exportation eDiscovery | Non | s/o | Non | Non | Non<sup>1</sup> | Non |
+|Cas eDiscovery | Non | s/o | Non | Oui | Oui | Oui |
+|Exportation eDiscovery | Non | s/o | Non | Non | Oui | Non |
 |Les détient eDiscovery (y compris les requêtes eDiscovery) | Non | s/o | Non | Non | Non<sup>1</sup> | Non |
-|Gouvernance des<sup>informations 1</sup> | Oui | N/A | Oui | Oui | Oui | Oui |
+|Gouvernance des informations | Oui | N/A | Oui | Oui | Oui | Oui |
 |Étiquettes de sensibilité manuelles | Non | s/o | Non | Oui | Oui | Non |
 |chiffrement de messages Office 365 (OME) Basic | Non | s/o | Non | Non | Oui | Non |
 
 <sup>1 Disponibilité</sup> à venir.</br>
-<sup>2</sup> Audit avec des données provenant de Azure Active Directory et Exchange.
+<sup>2</sup> Audit avec des données provenant de Azure Active Directory, Exchange, DLP et SharePoint.
 
 > [!NOTE]
 >
@@ -173,7 +173,7 @@ Le tableau suivant répertorie toutes les fonctionnalités de la plateforme Offi
 | Navigateur utilisé | Oui | Oui | Oui | Oui | Oui | Oui |
 | Système d'exploitation utilisé | Oui | Oui | Oui | Oui | Oui | Oui |
 | Créer vos propres rapports à l’aide Microsoft 365 web de création de rapports | Oui | Oui | Oui | Oui | Oui | Oui |
-| **[Mises à jour du service](service-updates.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Mises à jour de service](service-updates.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Mises à jour normales fournies à tous les clients | Oui | Oui | Oui | Oui | Oui | Oui |
 | Notifications envoyées au Centre de messages lorsque l’action est requise, qu’un problème est résolu, que des fonctionnalités sont déployées ou que votre service change | Oui | Oui | Oui | Oui | Oui | Oui |
 | [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) pour certaines mises à jour de service | Non | Non | Non | Non | Non | Non |
@@ -348,7 +348,7 @@ Le tableau suivant répertorie les services Exchange Online disponibles dans les
 | Autorisations basées sur des rôles | Oui | Oui | Oui | Oui | Oui | Non |
 | Groupes de rôles | Oui | Oui | Oui | Oui | Oui | Non |
 | Stratégies d'attribution de rôle | Oui | Oui | Oui | Oui | Oui | Non |
-| **[Stratégie et conformité des messages](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
+| **[Stratégie et conformité de message](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Business Basic géré par 21Vianet** | **Applications Microsoft 365 pour les PME géré par 21Vianet** | **Microsoft 365 Business Standard géré par 21Vianet** | **Office 365 Entreprise E1 géré par 21Vianet** | **Office 365 Entreprise E3 géré par 21Vianet** | **Office 365 Entreprise F3 géré par 21Vianet** |
 | Archivage de boîtes aux lettres Exchange Online | Oui | Oui | Oui | Oui | Oui | Non |
 | Archivage en nuage de boîtes aux lettres locales | Non | Non | Non | Non | Non | Non |
 | Balises et stratégies de rétention | Oui | Oui | Oui | Oui | Oui | Oui |
