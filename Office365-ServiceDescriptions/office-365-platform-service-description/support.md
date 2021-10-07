@@ -14,28 +14,28 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: À chaque Microsoft Office 365 pour les entreprises, les entreprises, l’éducation et le secteur public, le support Microsoft fournit une assistance technique globale, avant-vente, facturation et abonnement. Le support est disponible à la fois en ligne par Centre d'administration Microsoft 365 et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir Options de support Microsoft.
-ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 69057c5b8a8fedb4b6cde712e1d4da8e3f6ab4a9
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670029"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149386"
 ---
 # <a name="support"></a>Support
 
 Avec chaque abonnement Microsoft 365 et Office 365 entreprise, entreprise, entreprise, éducation et secteur public, le support Microsoft fournit un support technique, avant-vente, facturation et abonnement global. Le support est disponible à la fois en ligne par Centre d'administration Microsoft 365 et par téléphone pour les abonnements payants et d’essai. Pour plus d’informations, voir [Options de support Microsoft.](/Office365/Admin/contact-support-for-business-products)
 
-Les administrateurs autorisés peuvent utiliser l’Centre d'administration Microsoft 365 pour envoyer des demandes de service en ligne, accéder aux numéros de téléphone du support et afficher toutes les demandes de service ouvertes et récemment fermées. Les demandes de service envoyées dans le Centre d’administration peuvent être rouvertes pendant 14 jours après la fermeture de la demande. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
+Les administrateurs autorisés peuvent utiliser l’Centre d'administration Microsoft 365 pour envoyer des demandes de service en ligne, accéder aux numéros de téléphone du support et afficher toutes les demandes de service ouvertes et récemment fermées. Les demandes de service envoyées dans le Centre d’administration peuvent être rouvertes jusqu’à 14 jours après la fermeture de la demande. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
   
 L Microsoft 365'équipe de support technique ne dépannera que les problèmes liés Microsoft 365 et Office 365. Les problèmes qui proviennent des réseaux des clients sont en dehors des limites du support et, dans ce cas, les clients doivent travailler avec leur équipe de mise en réseau ou impliquer l’équipe [réseau Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) pour obtenir de l’aide.
   
 ## <a name="community-and-self-service-support-options"></a>Communauté et options d’assistance en libre service
 
-La prise en charge en libre-service est disponible pour tous les plans et inclut des outils et vidéos de dépannage, des articles d’aide et des vidéos, ainsi que des forums et des wikis dans la [communauté Microsoft 365.](https://go.microsoft.com/fwlink/p/?LinkID=279811) Pour plus d’informations sur les ressources de support en libre-service, voir la description du service d’aide [et de](help-and-training.md) formation.
+La prise en charge en libre-service est disponible pour tous les plans et inclut des outils et vidéos de dépannage, des articles d’aide et des vidéos, ainsi que des forums et des wikis dans la [communauté Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Pour plus d’informations sur les ressources de support en libre-service, voir la description du service d’aide [et de](help-and-training.md) formation.
   
 ## <a name="pre-sales-support"></a>Assistance avant-vente
 
-Le support avant-vente fournit une assistance sur les avantages et fonctionnalités d’abonnement, les comparaisons de plans, les tarifs et les licences, et permet d’identifier la solution appropriée pour répondre aux besoins de votre entreprise. En outre, l'assistance avant-vente peut vous aider à trouver un partenaire, ainsi qu'à acheter un essai et à vous y inscrire. Vous pouvez appeler durant les heures ouvrables de votre pays/région, du lundi au vendredi. L'assistance avant-vente est accessible au même numéro de téléphone que l'assistance technique. Le numéro de téléphone du support technique se trouve dans le centre d’administration de l’essai gratuit. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
+Le support avant-vente fournit une assistance sur les fonctionnalités et avantages de l’abonnement, les comparaisons de plans, les tarifs et les licences, et permet d’identifier la solution appropriée pour répondre aux besoins de votre entreprise. En outre, l'assistance avant-vente peut vous aider à trouver un partenaire, ainsi qu'à acheter un essai et à vous y inscrire. Vous pouvez appeler durant les heures ouvrables de votre pays/région, du lundi au vendredi. L'assistance avant-vente est accessible au même numéro de téléphone que l'assistance technique. Le numéro de téléphone du support technique se trouve dans le centre d’administration de l’essai gratuit. Pour obtenir des instructions, [consultez la Microsoft 365 contacter le support technique pour les entreprises.](/Office365/Admin/contact-support-for-business-products)
   
 ## <a name="billing-and-subscription-management-support"></a>Assistance de gestion de facturation et d’abonnement
 
@@ -97,11 +97,15 @@ Le temps de réponse initial est basé sur les niveaux de gravité décrits ci-d
   
 ### <a name="support-for-standalone-plans"></a>Assistance pour les plans autonomes
 
-La prise en charge des plans autonomes payants est gérée avec le même niveau d’objectif de support et de temps de réponse que les plans de la famille Enterprise service. Pour obtenir la liste des plans autonomes, voir [Standalone services](office-365-plan-options.md#standalone-services).
+La prise en charge des plans autonomes payants est gérée avec le même niveau d’objectif de support et de temps de réponse que les plans de la famille de services Enterprise client. Pour obtenir la liste des plans autonomes, voir [Standalone services](office-365-plan-options.md#standalone-services).
   
 ### <a name="technical-support-languages"></a>Langues d’assistance technique
 
-Selon la région et la langue, les ingénieurs de l’assistance sont disponibles pendant la majeure partie des heures ouvrables de la région et, dans certains cas, 24H/24. Pour plus d’informations, [voir Numéros Téléphone et](/Office365/Admin/contact-support-for-business-products) Options de support [Microsoft.](https://products.office.com/business/office-365-for-business-support-options) Si un service de traduction supplémentaire est requis, les ingénieurs de l’assistance peuvent rester en ligne et faire en sorte qu’un traducteur rejoigne la conversation.
+Selon la région et la langue, les ingénieurs de l’assistance sont disponibles pendant la majeure partie des heures ouvrables de la région et, dans certains cas, 24H/24. Pour plus d’informations, [voir Numéros Téléphone et](/Office365/Admin/contact-support-for-business-products) Options de support [Microsoft.](https://products.office.com/business/office-365-for-business-support-options) Si un service de traduction supplémentaire est requis, les ingénieurs de l'assistance peuvent rester en ligne et faire en sorte qu'un traducteur rejoigne la conversation.
+
+## <a name="business-assist-for-microsoft-365"></a>Aide pour les entreprises pour Microsoft 365
+
+Aide aux PME avec Microsoft 365 est conçu pour les petites entreprises afin de vous permettre, ainsi qu’à vos employés, d’accéder à toute heure aux spécialistes des petites entreprises à mesure que vous développez votre entreprise, de l’intégration à l’utilisation quotidienne. Pour plus [d’informations, Aide aux PME avec Microsoft 365](/microsoft-365/admin/misc/business-assist).
   
 ## <a name="shared-support-responsibilities"></a>Responsabilités d’assistance partagées
 
@@ -155,7 +159,7 @@ L'administrateur est supposé fournir une assistance initiale aux utilisateurs d
 
 ### <a name="elevated-support-options"></a>Options d’assistance avancées
 
-Bien que les services de support inclus dans Microsoft répondent aux besoins de nombreux clients, les clients ayant des exigences plus avancées ou des environnements plus complexes doivent envisager des options de support payantes de Microsoft. Ces offres d'assistance avancées incluent des objectifs de réponse plus rapide, la possibilité de définir un niveau de gravité des problèmes et d'accéder à des ressources techniques supplémentaires et de gestion de compte d'assistance.
+Bien que les services de support inclus avec Microsoft répondent aux besoins de nombreux clients, les clients ayant des exigences plus avancées ou des environnements complexes doivent envisager des options de support payantes de Microsoft. Ces offres d'assistance avancées incluent des objectifs de réponse plus rapide, la possibilité de définir un niveau de gravité des problèmes et d'accéder à des ressources techniques supplémentaires et de gestion de compte d'assistance.
   
 Voici quelques exemples de prise en charge avec élévation de privilèges :
   
@@ -181,7 +185,7 @@ Vous pouvez sélectionner un partenaire Microsoft et déléguer des fonctions ad
   
 ### <a name="developers"></a>Développeurs
 
-Les développeurs peuvent en savoir plus sur le développement Office applications SharePoint sur [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs). Le support pour les développeurs est disponible via les blogs et forums en ligne de la communauté des développeurs, via les ressources de support Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers les options du support technique pour les développeurs, voir [Ressources de support.](https://developer.microsoft.com/office/docs)
+Les développeurs peuvent en savoir plus sur le Office des applications SharePoint sur [MSDN Microsoft Developer Network.](https://developer.microsoft.com/office/docs) Le support pour les développeurs est disponible via les blogs et forums en ligne de la communauté des développeurs, via les ressources de support Premier ou Partenaire, ou directement via Microsoft. Pour obtenir des liens vers les options du support technique pour les développeurs, voir [Ressources de support.](https://developer.microsoft.com/office/docs)
   
 > [!NOTE]
 > L’équipe Microsoft ne prend pas en charge les scripts (par exemple, les techniques de script telles que JavaScript, VBScript, et ainsi de suite, ou VBA). Si vous avez besoin d'aide avec des scripts, contactez l'[assistance Microsoft](https://support.microsoft.com/). Pour obtenir Office prise en charge de l’utilisation des applications, consultez les options de support [pour Microsoft Office problèmes d’application pour les abonnés.](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f)
